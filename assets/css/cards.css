@@ -1,0 +1,17 @@
+.scheme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 15px;
+}
+
+.scheme-card {
+  background: #fff;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.scheme-card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
