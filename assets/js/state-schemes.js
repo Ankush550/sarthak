@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const isGitHub = window.location.hostname.includes("github.io");
+  const isGitHub = location.hostname.includes("github.io");
   const basePath = isGitHub ? "/sarthak" : "";
 
   fetch(`${basePath}/assets/data/state-schemes.json`)
