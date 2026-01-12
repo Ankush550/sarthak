@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  fetch("data/state-schemes.json")
+  fetch("/sarthak/assets/data/state-schemes.json")
     .then(res => res.json())
     .then(data => {
       console.log("Data loaded:", data);
@@ -55,4 +55,5 @@ searchInput.addEventListener("input", () => {
     card.style.display = text.includes(value) ? "block" : "none";
   });
 });
+
 
