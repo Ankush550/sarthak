@@ -1,39 +1,39 @@
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("State schemes JS loaded");
-
   const grid = document.getElementById("stateSchemeGrid");
-  if (!grid) {
-    console.error("Grid not found");
-    return;
-  }
+  const searchInput = document.getElementById("stateSearch");
 
-  const isGitHub = location.hostname.includes("github.io");
-  const basePath = isGitHub ? "/sarthak" : "";
-
-  fetch(`${basePath}/assets/data/state-schemes.json`)
-    .then(res => {
-      if (!res.ok) throw new Error("JSON not loaded");
-      return res.json();
-    })
+  fetch("../assets/data/state-schemes.json")
+    .then(res => res.json())
     .then(data => {
-      grid.innerHTML = "";
+      renderCards(data);
 
-      data.forEach(scheme => {
-        const card = document.createElement("a");
-        card.className = "scheme-card";
-        card.href = `${basePath}/pages/state-scheme-detail.html?id=${scheme.id}`;
-
-        card.innerHTML = `
-          <h3>${scheme.name}</h3>
-          <p><strong>${scheme.state}</strong></p>
-          <p>${scheme.description}</p>
-        `;
-
-        grid.appendChild(card);
+      searchInput.addEventListener("input", () => {
+        const q = searchInput.value.toLowerCase();
+        const filtered = data.filter(s =>
+          s.name.toLowerCase().includes(q) ||
+          s.state.toLowerCase().includes(q)
+        );
+        renderCards(filtered);
       });
     })
-    .catch(err => {
-      console.error(err);
+    .catch(() => {
       grid.innerHTML = "<p style='color:red'>Data load nahi ho raha</p>";
     });
+
+  function renderCards(list) {
+    grid.innerHTML = "";
+    list.forEach(scheme => {
+      const card = document.createElement("a");
+      card.className = "scheme-card";
+      card.href = `state-scheme-detail.html?id=${scheme.id}`;
+
+      card.innerHTML = `
+        <h3>${scheme.name}</h3>
+        <p><strong>${scheme.state}</strong></p>
+        <p>${scheme.description}</p>
+        <span class="view-more">View Details →</span>
+      `;
+      grid.appendChild(card);
+    });
+  }
 });

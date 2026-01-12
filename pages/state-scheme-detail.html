@@ -10,7 +10,6 @@
 
 <div class="scheme-page">
   <div class="scheme-detail">
-
     <h1 id="title">Loading...</h1>
     <p id="desc"></p>
 
@@ -18,38 +17,20 @@
       <button onclick="history.back()">← Back</button>
       <a href="../index.html" class="back-home">🏠 Home</a>
     </div>
-
   </div>
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  const params = new URLSearchParams(window.location.search);
-  const id = params.get("id");
+const id = new URLSearchParams(location.search).get("id");
 
-  const isGitHub = location.hostname.includes("github.io");
-  const basePath = isGitHub ? "/sarthak" : "";
-
-  fetch(`${basePath}/assets/data/state-schemes.json`)
-    .then(res => {
-      if (!res.ok) throw new Error("JSON not loaded");
-      return res.json();
-    })
-    .then(data => {
-      const scheme = data.find(s => s.id === id);
-      if (!scheme) {
-        document.getElementById("title").innerText = "Scheme not found";
-        return;
-      }
-
-      document.getElementById("title").innerText = scheme.name;
-      document.getElementById("desc").innerText = scheme.description;
-    })
-    .catch(err => {
-      console.error(err);
-      document.getElementById("title").innerText = "Error loading scheme";
-    });
-});
+fetch("../assets/data/state-schemes.json")
+  .then(res => res.json())
+  .then(data => {
+    const s = data.find(x => x.id === id);
+    if (!s) return;
+    document.getElementById("title").innerText = s.name;
+    document.getElementById("desc").innerText = s.description;
+  });
 </script>
 
 </body>

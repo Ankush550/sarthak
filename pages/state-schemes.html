@@ -2,61 +2,33 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Central Government Schemes – Sarthak</title>
-
-  <!-- MAIN CSS -->
+  <title>State Government Schemes</title>
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
 <body>
 
-<div class="central-schemes-page">
-  <div class="central-schemes-box">
+<div class="scheme-page">
+  <div class="scheme-detail" style="width:100%;max-width:1200px">
 
-    <h1 class="scheme-page-title">Central Government Schemes</h1>
+    <h1 class="scheme-page-title">State Government Schemes</h1>
 
-    <!-- 🔍 SEARCH BAR -->
     <div class="scheme-filter">
-      <div class="search-box-ui">
-        <span>🔍</span>
-        <input
-          type="text"
-          id="schemeSearch"
-          placeholder="Scheme search karein..."
-        >
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="stateSearch" placeholder="State ya Scheme search karein...">
       </div>
     </div>
 
-    <!-- 🧱 SCHEME CARDS -->
-    <div class="scheme-grid" id="schemeGrid">
+    <div class="scheme-grid" id="stateSchemeGrid"></div>
 
-      <a href="schemes/pm-awas.html" class="scheme-card">
-        <h3>PM Awas Yojana</h3>
-        <p>Housing scheme for all</p>
-      </a>
-
-      <a href="schemes/pm-kisan.html" class="scheme-card">
-        <h3>PM Kisan Yojana</h3>
-        <p>₹6000 annual farmer support</p>
-      </a>
-
-      <a href="schemes/pm-ujjwala.html" class="scheme-card">
-        <h3>PM Ujjwala Yojana</h3>
-        <p>Free LPG gas connection</p>
-      </a>
-
-    </div>
-
-    <!-- 🏠 BACK TO HOME -->
-    <div class="cs-back-home">
-      <a href="../index.html">🏠 Back to Home</a>
+    <div class="action-buttons">
+      <a href="../index.html" class="back-home">🏠 Back to Home</a>
     </div>
 
   </div>
 </div>
 
-<!-- ✅ SEARCH FILTER SCRIPT (MANDATORY) -->
-<script src="../assets/js/filter.js"></script>
-
+<script src="../assets/js/state-schemes.js"></script>
 </body>
 </html>
