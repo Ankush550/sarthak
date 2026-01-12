@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.getElementById("schemeSearch");
   const cards = document.querySelectorAll(".scheme-card");
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
-=======
+
 document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.getElementById("schemeSearch");
   const cards = document.querySelectorAll(".scheme-card");
@@ -26,4 +26,4 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
->>>>>>> 4d8a51be720f701d9be302a54bef6a6c5dc729a0
+
