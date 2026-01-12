@@ -202,7 +202,7 @@ body {
 }
 
 .scheme-filter input:focus {
-  background: #ffffff;
+  background: #c40000;
   border-color: #1e88e5;
   box-shadow: 0 0 0 5px rgba(30,136,229,0.25);
 }
@@ -213,7 +213,6 @@ body {
   justify-content: center;
   margin-top: 70px;
 }
-
 .back-home {
   padding: 16px 45px;
   border-radius: 50px;
@@ -226,7 +225,6 @@ body {
   box-shadow: 0 18px 40px rgba(30,136,229,0.5);
   transition: all 0.35s ease;
 }
-
 .back-home:hover {
   transform: translateY(-6px) scale(1.03);
   box-shadow: 0 25px 55px rgba(30,136,229,0.65);
