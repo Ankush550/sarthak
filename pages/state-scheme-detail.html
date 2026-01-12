@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>State Scheme Detail</title>
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
+
 <body>
 
 <div class="scheme-page">
   <div class="scheme-detail">
 
-    <h1 id="title"></h1>
+    <h1 id="title">Loading...</h1>
     <p id="desc"></p>
 
     <div class="action-buttons">
@@ -21,20 +23,34 @@
 </div>
 
 <script>
-const params = new URLSearchParams(window.location.search);
-const id = params.get("id");
+document.addEventListener("DOMContentLoaded", () => {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get("id");
 
-fetch("../assets/data/state-schemes.json")
-  .then(res => res.json())
-  .then(data => {
-    const scheme = data.find(s => s.id === id);
-    if (!scheme) return;
+  const isGitHub = location.hostname.includes("github.io");
+  const basePath = isGitHub ? "/sarthak" : "";
 
-    document.getElementById("title").innerText = scheme.name;
-    document.getElementById("desc").innerText = scheme.description;
-  });
+  fetch(`${basePath}/assets/data/state-schemes.json`)
+    .then(res => {
+      if (!res.ok) throw new Error("JSON not loaded");
+      return res.json();
+    })
+    .then(data => {
+      const scheme = data.find(s => s.id === id);
+      if (!scheme) {
+        document.getElementById("title").innerText = "Scheme not found";
+        return;
+      }
+
+      document.getElementById("title").innerText = scheme.name;
+      document.getElementById("desc").innerText = scheme.description;
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById("title").innerText = "Error loading scheme";
+    });
+});
 </script>
 
 </body>
 </html>
-
