@@ -1,12 +1,13 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const id = new URLSearchParams(location.search).get("id");
+  const isGitHub = location.hostname.includes("github.io");
+  const basePath = isGitHub ? "/sarthak" : "";
 
-  fetch("../assets/data/state-schemes.json") // ✅ STATE JSON ONLY
+  fetch(`${basePath}/assets/data/state-schemes.json`)
     .then(res => res.json())
     .then(data => {
       const scheme = data.find(s => s.id === id);
-
       if (!scheme) {
         document.getElementById("title").innerText = "Scheme not found";
         return;
@@ -20,3 +21,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 </script>
+
