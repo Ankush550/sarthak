@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "title": "प्रधानमंत्री आवास योजना 2026",
@@ -12,3 +13,19 @@
     "image": "assets/images/schemes/ladli-laxmi.jpg"
   }
 ]
+=======
+[
+  {
+    "title": "प्रधानमंत्री आवास योजना 2026",
+    "desc": "घर बनाने के लिए सरकारी सहायता योजना",
+    "category": "Housing",
+    "image": "assets/images/schemes/pm-awas.jpg"
+  },
+  {
+    "title": "लाडली लक्ष्मी योजना",
+    "desc": "बेटियों के लिए आर्थिक सहायता",
+    "category": "Women",
+    "image": "assets/images/schemes/ladli-laxmi.jpg"
+  }
+]
+>>>>>>> 4d8a51be720f701d9be302a54bef6a6c5dc729a0

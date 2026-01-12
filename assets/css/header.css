@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
   background: #c62828;
   color: #fff;
@@ -33,3 +34,40 @@
   padding: 6px 12px;
   margin-left: 10px;
 }
+=======
+.header {
+  background: #c62828;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.logo span {
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+.header nav {
+  margin-left: auto;
+}
+
+.header nav a {
+  color: #fff;
+  margin: 0 8px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.login-btn {
+  background: #fff;
+  color: #c62828;
+  border: none;
+  padding: 6px 12px;
+  margin-left: 10px;
+}
+>>>>>>> 4d8a51be720f701d9be302a54bef6a6c5dc729a0

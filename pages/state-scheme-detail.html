@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,3 +38,44 @@ fetch("../assets/data/state-schemes.json")
 
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+  <title>State Scheme Detail</title>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+<div class="scheme-page">
+  <div class="scheme-detail">
+
+    <h1 id="title"></h1>
+    <p id="desc"></p>
+
+    <div class="action-buttons">
+      <button onclick="history.back()">← Back</button>
+      <a href="../index.html" class="back-home">🏠 Home</a>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+fetch("../assets/data/state-schemes.json")
+  .then(res => res.json())
+  .then(data => {
+    const scheme = data.find(s => s.id === id);
+    if (!scheme) return;
+
+    document.getElementById("title").innerText = scheme.name;
+    document.getElementById("desc").innerText = scheme.description;
+  });
+</script>
+
+</body>
+</html>
+>>>>>>> 4d8a51be720f701d9be302a54bef6a6c5dc729a0
