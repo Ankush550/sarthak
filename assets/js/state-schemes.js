@@ -1,15 +1,18 @@
 document.addEventListener("DOMContentLoaded", () => {
+  console.log("State schemes JS loaded");
 
   const grid = document.getElementById("stateSchemeGrid");
-  if (!grid) return;
+  if (!grid) {
+    console.error("Grid not found");
+    return;
+  }
 
-  // 🔥 Auto base path detection
   const isGitHub = window.location.hostname.includes("github.io");
   const basePath = isGitHub ? "/sarthak" : "";
 
   fetch(`${basePath}/assets/data/state-schemes.json`)
     .then(res => {
-      if (!res.ok) throw new Error("JSON load failed");
+      if (!res.ok) throw new Error("JSON not loaded");
       return res.json();
     })
     .then(data => {
@@ -33,5 +36,4 @@ document.addEventListener("DOMContentLoaded", () => {
       console.error(err);
       grid.innerHTML = "<p style='color:red'>Data load nahi ho raha</p>";
     });
-
 });
