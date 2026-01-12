@@ -132,27 +132,28 @@ body {
   font-size: 14px;
 }
 
-/* Back to Home button */
-.cs-back-home {
-  display: flex;
-  justify-content: center;
-  margin-top: 45px;
+/* ===== BACK BUTTON ===== */
+.action-buttons {
+  margin-top: 50px;
+  text-align: center;
 }
 
-.cs-back-home a {
-  background: #e3f2fd;
-  color: #0d47a1;
-  padding: 14px 30px;
-  border-radius: 14px;
-  font-weight: 600;
+.back-home {
+  display: inline-block;
+  padding: 14px 34px;
+  border-radius: 40px;
+  background: linear-gradient(to right, #1e88e5, #42a5f5);
+  color: #00ff33;
+  font-weight: 700;
   text-decoration: none;
-  box-shadow: 0 10px 22px rgba(0,0,0,0.25);
+  font-size: 16px;
+  box-shadow: 0 10px 25px rgba(30,136,229,0.4);
   transition: 0.3s;
 }
 
-.cs-back-home a:hover {
-  background: #bbdefb;
-  transform: translateY(-2px);
+.back-home:hover {
+  transform: translateY(-3px);
+  box-shadow: none;
 }
 
 /* ===== MOBILE ===== */
