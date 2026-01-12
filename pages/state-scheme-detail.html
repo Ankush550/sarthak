@@ -1,37 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>State Scheme Detail</title>
-  <link rel="stylesheet" href="../assets/css/main.css">
-</head>
-
-<body>
-
-<div class="scheme-page">
-  <div class="scheme-detail">
-    <h1 id="title">Loading...</h1>
-    <p id="desc"></p>
-
-    <div class="action-buttons">
-      <button onclick="history.back()">← Back</button>
-      <a href="../index.html" class="back-home">🏠 Home</a>
-    </div>
-  </div>
-</div>
-
 <script>
-const id = new URLSearchParams(location.search).get("id");
+document.addEventListener("DOMContentLoaded", () => {
+  const id = new URLSearchParams(location.search).get("id");
 
-fetch("../assets/data/state-schemes.json")
-  .then(res => res.json())
-  .then(data => {
-    const s = data.find(x => x.id === id);
-    if (!s) return;
-    document.getElementById("title").innerText = s.name;
-    document.getElementById("desc").innerText = s.description;
-  });
+  fetch("../assets/data/state-schemes.json") // ✅ STATE JSON ONLY
+    .then(res => res.json())
+    .then(data => {
+      const scheme = data.find(s => s.id === id);
+
+      if (!scheme) {
+        document.getElementById("title").innerText = "Scheme not found";
+        return;
+      }
+
+      document.getElementById("title").innerText = scheme.name;
+      document.getElementById("desc").innerText = scheme.description;
+    })
+    .catch(() => {
+      document.getElementById("title").innerText = "Error loading scheme";
+    });
+});
 </script>
-
-</body>
-</html>
