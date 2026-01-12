@@ -725,3 +725,150 @@ body {
 .card:hover {
   background: #dbe6ff;
 }
+
+/* ===============================
+   STATE SCHEMES PAGE
+================================ */
+
+.scheme-page {
+  background: #f4f7fb;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.scheme-detail {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  margin: auto;
+}
+
+/* ===== TITLE ===== */
+.scheme-page-title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+/* ===== SEARCH BAR ===== */
+.scheme-filter {
+  margin-bottom: 35px;
+}
+
+.search-box {
+  position: relative;
+  max-width: 380px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  border-radius: 30px;
+  border: 1px solid #d1d5db;
+  font-size: 15px;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.search-box input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37,99,235,0.15);
+}
+
+.search-box::before {
+  content: "🔍";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+/* ===== GRID ===== */
+.scheme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+/* ===== CARD ===== */
+.scheme-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 22px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.scheme-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 35px rgba(0,0,0,0.12);
+}
+
+/* Title */
+.scheme-card h3 {
+  font-size: 20px;
+  color: #1d4ed8;
+  margin-bottom: 8px;
+}
+
+/* State */
+.scheme-card p strong {
+  color: #111827;
+  font-weight: 600;
+}
+
+/* Description */
+.scheme-card p {
+  margin: 6px 0;
+  color: #374151;
+  font-size: 14.5px;
+  line-height: 1.5;
+}
+
+/* View details */
+.scheme-card .view-more {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 14px;
+  color: #2563eb;
+  font-weight: 600;
+}
+
+/* ===== BACK BUTTON ===== */
+.action-buttons {
+  margin-top: 40px;
+}
+
+.back-home {
+  display: inline-block;
+  padding: 12px 22px;
+  background: #e0ecff;
+  color: #1d4ed8;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.back-home:hover {
+  background: #1d4ed8;
+  color: #ffffff;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 600px) {
+  .scheme-page-title {
+    font-size: 28px;
+  }
+
+  .scheme-detail {
+    padding: 25px;
+  }
+}
