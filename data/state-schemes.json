@@ -1,0 +1,14 @@
+[
+  {
+    "id": "rajasthan-palanhar",
+    "state": "Rajasthan",
+    "name": "Palanhar Yojana",
+    "description": "Anath aur asahay bachchon ke liye sahayata."
+  },
+  {
+    "id": "up-kanya-sumangala",
+    "state": "Uttar Pradesh",
+    "name": "Kanya Sumangala Yojana",
+    "description": "Beti bachao aur shiksha protsahan."
+  }
+]
