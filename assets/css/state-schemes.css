@@ -1,0 +1,168 @@
+/* ===============================
+   PREMIUM STATE SCHEMES UI
+================================ */
+
+body {
+  background: linear-gradient(135deg, #0f4c81, #1e88e5);
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* ===== PAGE WRAPPER ===== */
+.scheme-page {
+  padding: 50px 20px;
+}
+
+/* ===== MAIN CARD ===== */
+.scheme-detail {
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 22px;
+  padding: 45px;
+  max-width: 1200px;
+  margin: auto;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.25);
+}
+
+/* ===== HEADING ===== */
+.scheme-page-title {
+  font-size: 38px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 25px;
+  color: #0f172a;
+  position: relative;
+}
+
+.scheme-page-title::after {
+  content: "";
+  width: 120px;
+  height: 4px;
+  background: linear-gradient(to right, #1e88e5, #42a5f5);
+  display: block;
+  margin: 12px auto 0;
+  border-radius: 10px;
+}
+
+/* ===== SEARCH ===== */
+.scheme-filter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 45px;
+}
+
+.search-box {
+  position: relative;
+  width: 360px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 14px 18px 14px 44px;
+  border-radius: 40px;
+  border: 1px solid #cbd5e1;
+  font-size: 15px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.search-box input:focus {
+  border-color: #1e88e5;
+  box-shadow: 0 0 0 4px rgba(30,136,229,0.2);
+}
+
+.search-box::before {
+  content: "🔍";
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+/* ===== GRID ===== */
+.scheme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 28px;
+}
+
+/* ===== SCHEME CARD ===== */
+.scheme-card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 26px;
+  text-decoration: none;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+  transition: all 0.35s ease;
+  border-left: 6px solid #1e88e5;
+}
+
+.scheme-card:hover {
+  transform: translateY(-8px) scale(1.01);
+  box-shadow: 0 22px 45px rgba(0,0,0,0.2);
+}
+
+/* Card Title */
+.scheme-card h3 {
+  font-size: 22px;
+  color: #0d47a1;
+  margin-bottom: 8px;
+}
+
+/* State */
+.scheme-card strong {
+  color: #111827;
+  font-size: 15px;
+}
+
+/* Description */
+.scheme-card p {
+  margin: 6px 0;
+  color: #374151;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* View details */
+.scheme-card .view-more {
+  display: inline-block;
+  margin-top: 14px;
+  color: #1e88e5;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+/* ===== BACK BUTTON ===== */
+.action-buttons {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.back-home {
+  display: inline-block;
+  padding: 14px 34px;
+  border-radius: 40px;
+  background: linear-gradient(to right, #1e88e5, #42a5f5);
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 16px;
+  box-shadow: 0 10px 25px rgba(30,136,229,0.4);
+  transition: 0.3s;
+}
+
+.back-home:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 35px rgba(30,136,229,0.6);
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 600px) {
+  .scheme-detail {
+    padding: 30px 22px;
+  }
+
+  .scheme-page-title {
+    font-size: 28px;
+  }
+}
