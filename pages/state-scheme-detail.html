@@ -2,69 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>State Scheme Details – Sarthak</title>
+  <title>Scheme Details</title>
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
 <body>
 
-<div class="scheme-page">
-  <div class="scheme-detail" style="max-width:900px">
+<div class="page">
+  <h1 id="title">Loading...</h1>
+  <p id="desc"></p>
 
-    <h1 id="title">Loading...</h1>
-    <p id="desc"></p>
-
-    <div class="action-buttons">
-      <button onclick="history.back()">← Back</button>
-      <a href="../index.html" class="back-home">🏠 Home</a>
-    </div>
-
-  </div>
+  <a href="state-schemes.html">← Back</a>
 </div>
 
-<!-- ✅ SCRIPT MUST BE AT BOTTOM -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  // 🔹 Get scheme id from URL
-  const params = new URLSearchParams(window.location.search);
-  const schemeId = params.get("id");
-
-  if (!schemeId) {
-    document.getElementById("title").innerText = "Invalid Scheme";
-    return;
-  }
-
-  // 🔹 Detect GitHub Pages
-  const isGitHub = window.location.hostname.includes("github.io");
-  const basePath = isGitHub ? "/sarthak" : "";
-
-  // 🔹 Fetch JSON
-  fetch(basePath + "/assets/data/state-schemes.json")
-    .then(response => {
-      if (!response.ok) {
-        throw new Error("JSON not loaded");
-      }
-      return response.json();
-    })
-    .then(data => {
-      const scheme = data.find(item => item.id === schemeId);
-
-      if (!scheme) {
-        document.getElementById("title").innerText = "Scheme not found";
-        return;
-      }
-
-      document.getElementById("title").innerText = scheme.name;
-      document.getElementById("desc").innerText = scheme.description;
-    })
-    .catch(error => {
-      console.error(error);
-      document.getElementById("title").innerText = "Error loading scheme";
-    });
-
-});
-</script>
-
+<script src="../assets/js/state-scheme-detail.js"></script>
 </body>
 </html>
