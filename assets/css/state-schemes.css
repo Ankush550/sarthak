@@ -296,18 +296,6 @@ body {
   transition: all 0.25s ease;
 }
 
-/* LIGHT BACK BUTTON */
-.btn-back {
-  background: #f5f9ff;
-  color: #0d47a1;
-  border: 1px solid #cfe0ff;
-}
-
-.btn-back:hover {
-  background: #e3efff;
-  transform: translateY(-1px);
-}
-
 /* LIGHT HOME BUTTON */
 .btn-home {
   background: #e8f2ff;
