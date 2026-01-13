@@ -39,6 +39,6 @@
   { "id": "wb-health", "state": "West Bengal", "name": "Swasthya Sathi", "description": "Free health insurance." },
   { "id": "wb-rupa", "state": "West Bengal", "name": "Rupashree Yojana", "description": "Vivah sahayata." },
   { "id": "wb-student", "state": "West Bengal", "name": "Student Credit Scheme", "description": "Education loan." },
-  { "id": "wb-food", "state": "West Bengal", "name": "Khadyasathi", "description": "Subsidized ration." }
+  { "id": "wb-food", "state": "West Bengal", "name": "Khadyasathi", "description": "Subsidized ration." },
   { "id": "w-food", "state": "Karnataka", "name": "Noona", "description": "Subsidized."}
 ]
