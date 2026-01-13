@@ -278,3 +278,45 @@ body {
   box-shadow: 0 6px 18px rgba(13, 71, 161, 0.4);
 }
 
+/* ===== TOP ACTION BUTTONS ===== */
+.top-actions {
+  margin: 15px auto 30px;
+  justify-content: center;
+}
+
+/* COMMON BUTTON */
+.btn-back,
+.btn-home {
+  padding: 10px 22px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+/* LIGHT BACK BUTTON */
+.btn-back {
+  background: #f5f9ff;
+  color: #0d47a1;
+  border: 1px solid #cfe0ff;
+}
+
+.btn-back:hover {
+  background: #e3efff;
+  transform: translateY(-1px);
+}
+
+/* LIGHT HOME BUTTON */
+.btn-home {
+  background: #e8f2ff;
+  color: #0d47a1;
+  border: 1px solid #cfe0ff;
+}
+
+.btn-home:hover {
+  background: #d6e8ff;
+  transform: translateY(-1px);
+}
+
