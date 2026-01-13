@@ -231,3 +231,50 @@ body {
   background: linear-gradient(135deg, #1e88e5, #42a5f5);
 }
 
+/* ===== ACTION BUTTONS ===== */
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 40px 0;
+  flex-wrap: wrap;
+}
+
+/* COMMON BUTTON STYLE */
+.btn-back,
+.btn-home {
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+/* BACK BUTTON */
+.btn-back {
+  background: #ffffff;
+  color: #0d47a1;
+  border: 2px solid #0d47a1;
+}
+
+.btn-back:hover {
+  background: #0d47a1;
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+/* HOME BUTTON */
+.btn-home {
+  background: linear-gradient(135deg, #1976d2, #0d47a1);
+  color: #ffffff;
+  border: none;
+}
+
+.btn-home:hover {
+  background: linear-gradient(135deg, #0d47a1, #1565c0);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(13, 71, 161, 0.4);
+}
+
