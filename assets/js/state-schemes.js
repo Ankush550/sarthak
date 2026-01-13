@@ -1,18 +1,16 @@
 document.addEventListener("DOMContentLoaded", () => {
-
   const grid = document.getElementById("stateSchemeGrid");
+  if (!grid) return;
 
-  if (!grid) {
-    console.error("Grid not found");
-    return;
-  }
+  const basePath = location.hostname.includes("github.io")
+    ? "/sarthak"
+    : "";
 
-  const isGitHub = location.hostname.includes("github.io");
-  const basePath = isGitHub ? "/sarthak" : "";
+  const url = `${basePath}/assets/data/state-schemes.json?v=${Date.now()}`;
 
-  fetch(basePath + "/assets/data/state-schemes.json")
+  fetch(url)
     .then(res => {
-      if (!res.ok) throw new Error("JSON not loaded");
+      if (!res.ok) throw new Error("JSON load failed");
       return res.json();
     })
     .then(data => {
@@ -21,8 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
       data.forEach(scheme => {
         const card = document.createElement("a");
         card.className = "scheme-card";
-        card.href =
-          basePath + "/pages/state-scheme-detail.html?id=" + scheme.id;
+        card.href = `${basePath}/pages/state-scheme-detail.html?id=${scheme.id}`;
 
         card.innerHTML = `
           <h3>${scheme.name}</h3>
