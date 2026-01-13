@@ -1,14 +1,43 @@
 [
-  {
-    "id": "raj-palanhar",
-    "state": "Rajasthan",
-    "name": "Palanhar Yojana",
-    "description": "Anath aur asahay bachchon ke liye sahayata."
-  },
-  {
-    "id": "up-kanya",
-    "state": "Uttar Pradesh",
-    "name": "Kanya Sumangala Yojana",
-    "description": "Beti bachao aur shiksha protsahan."
-  }
+  { "id": "raj-palanhar", "state": "Rajasthan", "name": "Palanhar Yojana", "description": "Anath aur asahay bachchon ke liye sahayata." },
+  { "id": "raj-chiranjeevi", "state": "Rajasthan", "name": "Chiranjeevi Health Insurance Yojana", "description": "₹25 lakh tak free health insurance." },
+  { "id": "raj-ladli", "state": "Rajasthan", "name": "Ladli Laxmi Yojana", "description": "Balikaon ke bhavishya ke liye arthik sahayata." },
+  { "id": "raj-ujala", "state": "Rajasthan", "name": "Mukhyamantri Ujala Yojana", "description": "Free electricity bulbs scheme." },
+  { "id": "raj-anna", "state": "Rajasthan", "name": "Anna Suraksha Yojana", "description": "Garib parivaron ke liye ration." },
+
+  { "id": "up-kanya", "state": "Uttar Pradesh", "name": "Kanya Sumangala Yojana", "description": "Beti bachao aur shiksha protsahan." },
+  { "id": "up-vridh", "state": "Uttar Pradesh", "name": "Old Age Pension Scheme", "description": "Vriddh nagrikon ke liye pension." },
+  { "id": "up-samajwadi", "state": "Uttar Pradesh", "name": "Samajwadi Pension Yojana", "description": "Garib parivaron ke liye arthik madad." },
+  { "id": "up-scholar", "state": "Uttar Pradesh", "name": "Scholarship Scheme", "description": "Students ke liye scholarship." },
+  { "id": "up-rani", "state": "Uttar Pradesh", "name": "Rani Lakshmi Bai Yojana", "description": "Balika shiksha protsahan." },
+
+  { "id": "mp-ladli", "state": "Madhya Pradesh", "name": "Ladli Laxmi Yojana", "description": "Balikaon ke liye bachat yojana." },
+  { "id": "mp-sambal", "state": "Madhya Pradesh", "name": "Mukhyamantri Sambal Yojana", "description": "Mazdooron ke liye suraksha." },
+  { "id": "mp-anugrah", "state": "Madhya Pradesh", "name": "Anugrah Sahayata Yojana", "description": "Durghatna mein madad." },
+  { "id": "mp-kisan", "state": "Madhya Pradesh", "name": "Kisan Kalyan Yojana", "description": "Kisano ke liye arthik sahayata." },
+  { "id": "mp-cmcycle", "state": "Madhya Pradesh", "name": "Cycle Distribution Scheme", "description": "Students ke liye cycle." },
+
+  { "id": "mh-ladki", "state": "Maharashtra", "name": "Ladki Bahin Yojana", "description": "Mahilaon ke liye arthik sahayata." },
+  { "id": "mh-shivbhojan", "state": "Maharashtra", "name": "Shiv Bhojan Yojana", "description": "Saste daam par bhojan." },
+  { "id": "mh-sanjay", "state": "Maharashtra", "name": "Sanjay Gandhi Niradhar Yojana", "description": "Niradhar parivaron ke liye pension." },
+  { "id": "mh-mahajyoti", "state": "Maharashtra", "name": "Maha Jyoti Yojana", "description": "Students ke liye coaching." },
+  { "id": "mh-farm", "state": "Maharashtra", "name": "Farm Pond Scheme", "description": "Kisano ke liye jal sanchay." },
+
+  { "id": "gj-vahli", "state": "Gujarat", "name": "Vahli Dikri Yojana", "description": "Balika shiksha aur vivah sahayata." },
+  { "id": "gj-maa", "state": "Gujarat", "name": "MAA Amrutam Yojana", "description": "Garib parivaron ke liye health cover." },
+  { "id": "gj-mahatma", "state": "Gujarat", "name": "Mahatma Jyotiba Phule Yojana", "description": "Health insurance scheme." },
+  { "id": "gj-kisan", "state": "Gujarat", "name": "Kisan Sahay Yojana", "description": "Kisano ke liye madad." },
+  { "id": "gj-cycle", "state": "Gujarat", "name": "Student Cycle Yojana", "description": "Students ke liye cycle." },
+
+  { "id": "br-cycle", "state": "Bihar", "name": "Mukhyamantri Cycle Yojana", "description": "Students ke liye cycle." },
+  { "id": "br-poshak", "state": "Bihar", "name": "Poshak Yojana", "description": "School uniform scheme." },
+  { "id": "br-kanya", "state": "Bihar", "name": "Kanya Utthan Yojana", "description": "Balika shiksha aur vikas." },
+  { "id": "br-student", "state": "Bihar", "name": "Student Credit Card Yojana", "description": "Higher education loan." },
+  { "id": "br-old", "state": "Bihar", "name": "Old Age Pension", "description": "Vriddh nagrikon ke liye pension." },
+
+  { "id": "wb-kanya", "state": "West Bengal", "name": "Kanyashree Yojana", "description": "Bal vivah rokne ke liye." },
+  { "id": "wb-health", "state": "West Bengal", "name": "Swasthya Sathi", "description": "Free health insurance." },
+  { "id": "wb-rupa", "state": "West Bengal", "name": "Rupashree Yojana", "description": "Vivah sahayata." },
+  { "id": "wb-student", "state": "West Bengal", "name": "Student Credit Scheme", "description": "Education loan." },
+  { "id": "wb-food", "state": "West Bengal", "name": "Khadyasathi", "description": "Subsidized ration." }
 ]
