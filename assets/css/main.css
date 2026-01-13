@@ -844,3 +844,46 @@ body {
 .apply-back a:hover {
   background: #09345f;
 }
+
+.status-page {
+  background: linear-gradient(135deg, #0f4c81, #1e88e5);
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.status-container {
+  max-width: 500px;
+  background: #fff;
+  margin: auto;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.status-form input {
+  width: 100%;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.status-form button {
+  background: #1e88e5;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.status-card {
+  margin-top: 20px;
+  background: #f1f8ff;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.approved {
+  color: #ff9800;
+  font-weight: bold;
+}
