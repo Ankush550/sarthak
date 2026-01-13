@@ -725,4 +725,122 @@ body {
 .card:hover {
   background: #dbe6ff;
 }
+/* ================= APPLY ONLINE PAGE ================= */
 
+.apply-page {
+  background: linear-gradient(135deg, #0f4c81, #1c7ed6);
+  min-height: 100vh;
+  padding: 40px 15px;
+  font-family: Arial, sans-serif;
+}
+
+.apply-container {
+  max-width: 1100px;
+  margin: auto;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 35px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+}
+
+.apply-container h1 {
+  text-align: center;
+  color: #0f4c81;
+  margin-bottom: 10px;
+}
+
+.apply-subtitle {
+  text-align: center;
+  color: #555;
+  margin-bottom: 25px;
+}
+
+/* NOTICE */
+.apply-notice {
+  background: #fff3cd;
+  border-left: 6px solid #ff9800;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+
+/* GRID */
+.apply-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.apply-card {
+  background: #f9fbff;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.apply-card:hover {
+  transform: translateY(-6px);
+}
+
+.apply-card h3 {
+  color: #0b5ed7;
+  margin-bottom: 8px;
+}
+
+.apply-card p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.apply-card a {
+  display: inline-block;
+  padding: 8px 14px;
+  background: #0b5ed7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+.apply-card a:hover {
+  background: #094bb3;
+}
+
+/* STEPS & DOCS */
+.apply-steps, .apply-docs {
+  margin-top: 35px;
+}
+
+.apply-steps h2,
+.apply-docs h2 {
+  color: #0f4c81;
+  margin-bottom: 10px;
+}
+
+.apply-steps ol,
+.apply-docs ul {
+  padding-left: 20px;
+  color: #333;
+}
+
+/* BACK BUTTON */
+.apply-back {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.apply-back a {
+  padding: 12px 30px;
+  background: #0f4c81;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.apply-back a:hover {
+  background: #09345f;
+}
