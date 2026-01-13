@@ -79,3 +79,41 @@ body {
 .btn:hover {
   opacity: 0.9;
 }
+
+.apply-box {
+  margin-top: 30px;
+  padding: 20px;
+  background: #f1f7ff;
+  border-radius: 12px;
+}
+
+.apply-btn,
+.official-btn {
+  display: block;
+  text-align: center;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.apply-btn {
+  background: #2563eb;
+  color: white;
+}
+
+.apply-btn:hover {
+  background: #1e40af;
+}
+
+.official-btn {
+  background: #e5e7eb;
+  color: #000;
+}
+
+.note {
+  font-size: 13px;
+  color: #555;
+  margin-top: 10px;
+}

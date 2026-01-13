@@ -1,58 +1,65 @@
 document.addEventListener("DOMContentLoaded", () => {
   const grid = document.getElementById("stateSchemeGrid");
   const searchInput = document.getElementById("stateSearch");
+  const stateFilter = document.getElementById("stateFilter");
 
-  if (!grid) return;
-
-  const basePath = location.hostname.includes("github.io")
-    ? "/sarthak"
-    : "";
+  const isGitHub = location.hostname.includes("github.io");
+  const basePath = isGitHub ? "/sarthak" : "";
 
   let allSchemes = [];
 
-  fetch(`${basePath}/assets/data/state-schemes.json?v=${Date.now()}`)
+  fetch(`${basePath}/assets/data/state-schemes.json`)
     .then(res => res.json())
     .then(data => {
       allSchemes = data;
-      renderSchemes(allSchemes);
-    })
-    .catch(() => {
-      grid.innerHTML = "<p style='color:red'>Data load nahi ho raha</p>";
+      renderSchemes(data);
+      populateStates(data);
     });
 
-  function renderSchemes(list) {
+  function populateStates(data) {
+    const states = [...new Set(data.map(s => s.state))];
+    states.forEach(state => {
+      const opt = document.createElement("option");
+      opt.value = state;
+      opt.textContent = state;
+      stateFilter.appendChild(opt);
+    });
+  }
+
+  function renderSchemes(data) {
     grid.innerHTML = "";
-
-    if (list.length === 0) {
-      grid.innerHTML = "<p>No scheme found ❌</p>";
-      return;
-    }
-
-    list.forEach(scheme => {
-      const card = document.createElement("a");
+    data.forEach(scheme => {
+      const card = document.createElement("div");
       card.className = "scheme-card";
-      card.href = `${basePath}/pages/state-scheme-detail.html?id=${scheme.id}`;
 
       card.innerHTML = `
         <h3>${scheme.name}</h3>
-        <p class="state-name">${scheme.state}</p>
+        <strong>${scheme.state}</strong>
         <p>${scheme.description}</p>
-        <span class="view-more">View Details →</span>
-      `;
 
+        <div class="card-actions">
+          <a href="${basePath}/pages/state-scheme-detail.html?id=${scheme.id}">
+            View Details →
+          </a>
+        </div>
+      `;
       grid.appendChild(card);
     });
   }
 
-  // 🔍 SEARCH LOGIC
-  searchInput.addEventListener("input", () => {
-    const value = searchInput.value.toLowerCase();
+  function applyFilters() {
+    const q = searchInput.value.toLowerCase();
+    const state = stateFilter.value;
 
     const filtered = allSchemes.filter(s =>
-      s.name.toLowerCase().includes(value) ||
-      s.state.toLowerCase().includes(value)
+      (!state || s.state === state) &&
+      (s.name.toLowerCase().includes(q) ||
+       s.description.toLowerCase().includes(q))
     );
 
     renderSchemes(filtered);
-  });
+  }
+
+  searchInput.addEventListener("input", applyFilters);
+  stateFilter.addEventListener("change", applyFilters);
 });

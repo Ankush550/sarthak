@@ -308,3 +308,22 @@ body {
   transform: translateY(-1px);
 }
 
+.scheme-filter-bar {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.scheme-filter-bar select,
+.scheme-filter-bar input {
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+}
+
+.scheme-filter-bar select {
+  min-width: 180px;
+  cursor: pointer;
+}
+
