@@ -1,0 +1,11 @@
+[
+  {
+    "id": "income-cert",
+    "title": "Income Certificate",
+    "desc": "Income Certificate kaise banaye online",
+    "eligibility": "Resident of state",
+    "documents": "Aadhaar, Address Proof",
+    "steps": "Login → Apply → Upload → Submit",
+    "official": "https://serviceonline.gov.in"
+  }
+]
