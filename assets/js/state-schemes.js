@@ -63,3 +63,13 @@ document.addEventListener("DOMContentLoaded", () => {
   searchInput.addEventListener("input", applyFilters);
   stateFilter.addEventListener("change", applyFilters);
 });
+
+const params = new URLSearchParams(location.search);
+const searchQuery = params.get("search")?.toLowerCase();
+
+if (searchQuery) {
+  data = data.filter(s =>
+    s.name.toLowerCase().includes(searchQuery) ||
+    s.state.toLowerCase().includes(searchQuery)
+  );
+}
