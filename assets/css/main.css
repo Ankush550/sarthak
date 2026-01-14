@@ -55,27 +55,30 @@ body {
   border: none;
   cursor: pointer;
 }
-
-/* QUICK LINKS */
 .quick-links {
   display: flex;
   justify-content: center;
-  gap: 16px;
-  padding: 18px;
-  background: #fff;
+  gap: 15px;
+  margin: 30px 0;
   flex-wrap: wrap;
 }
 
 .quick-links a {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 16px;
-  background: #eef2f7;
-  border-radius: 8px;
+  background: #f1f5f9;
+  padding: 14px 22px;
+  border-radius: 12px;
   text-decoration: none;
   color: #000;
+  font-weight: 600;
+  transition: 0.3s;
 }
+
+.quick-links a:hover {
+  background: #0b5ed7;
+  color: #fff;
+  transform: translateY(-4px);
+}
+
 
 /* =====================================================
    CENTRAL SCHEMES PAGE
