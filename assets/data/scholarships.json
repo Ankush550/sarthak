@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nsp",
+    "title": "NSP Scholarship",
+    "desc": "Central government scholarship for students",
+    "apply": "https://scholarships.gov.in"
+  },
+  {
+    "id": "state-scholarship",
+    "title": "State Scholarship",
+    "desc": "State-wise scholarship schemes",
+    "apply": "https://india.gov.in"
+  },
+  {
+    "id": "minority",
+    "title": "Minority Scholarship",
+    "desc": "Minority students ke liye scholarship",
+    "apply": "https://scholarships.gov.in"
+  }
+]
