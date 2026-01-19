@@ -1,10 +1,23 @@
 [
   {
-    "id":"ssc-cgl-2026",
-    "title":"SSC CGL 2026",
-    "department":"SSC",
-    "eligibility":"Graduate",
-    "vacancy":"7500",
-    "apply":"https://ssc.nic.in"
+    "id": "ssc-gd",
+    "title": "SSC GD Constable 2026",
+    "vacancy": "25,000+",
+    "qualification": "10th Pass",
+    "link": "https://ssc.nic.in"
+  },
+  {
+    "id": "rrb-groupd",
+    "title": "Railway Group D",
+    "vacancy": "30,000+",
+    "qualification": "10th Pass",
+    "link": "https://indianrailways.gov.in"
+  },
+  {
+    "id": "bank-clerk",
+    "title": "Bank Clerk",
+    "vacancy": "8000+",
+    "qualification": "Graduate",
+    "link": "https://ibps.in"
   }
 ]

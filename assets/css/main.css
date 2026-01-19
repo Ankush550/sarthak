@@ -936,3 +936,81 @@ body {
   background: #1565c0;
   transform: translateY(-2px);
 }
+
+/* ===== Common Page Layout ===== */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
+
+.page-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.page-container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0b4ea2;
+}
+
+/* ===== Card Grid ===== */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+/* ===== Cards ===== */
+.info-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.info-card:hover {
+  transform: translateY(-6px);
+}
+
+.info-card h3 {
+  margin-top: 0;
+  color: #111;
+}
+
+.info-card p {
+  color: #555;
+  font-size: 14px;
+}
+
+.info-card a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 14px;
+  background: #1976d2;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.info-card a:hover {
+  background: #0d47a1;
+}
+
+/* ===== Back Button ===== */
+.back-home {
+  display: block;
+  text-align: center;
+  margin: 40px auto 0;
+  width: fit-content;
+  padding: 10px 20px;
+  background: #eee;
+  color: #333;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
