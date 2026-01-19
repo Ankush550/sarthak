@@ -5,19 +5,5 @@
     "vacancy": "25,000+",
     "qualification": "10th Pass",
     "link": "https://ssc.nic.in"
-  },
-  {
-    "id": "rrb-groupd",
-    "title": "Railway Group D",
-    "vacancy": "30,000+",
-    "qualification": "10th Pass",
-    "link": "https://indianrailways.gov.in"
-  },
-  {
-    "id": "bank-clerk",
-    "title": "Bank Clerk",
-    "vacancy": "8000+",
-    "qualification": "Graduate",
-    "link": "https://ibps.in"
   }
 ]
