@@ -1,20 +1,72 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>Scholarship / Education</title>
+
   <link rel="stylesheet" href="../assets/css/main.css">
+
+  <style>
+    body {
+      background:#f4f7fb;
+      font-family: Arial, sans-serif;
+    }
+    .page {
+      max-width:1200px;
+      margin:40px auto;
+      padding:20px;
+    }
+    h1 {
+      text-align:center;
+      color:#0d47a1;
+    }
+    .grid {
+      display:grid;
+      grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
+      gap:20px;
+      margin-top:30px;
+    }
+    .card {
+      background:#fff;
+      padding:20px;
+      border-radius:12px;
+      box-shadow:0 4px 15px rgba(0,0,0,.08);
+    }
+    .card h3 {
+      color:#1565c0;
+      margin-bottom:8px;
+    }
+    .btn {
+      display:inline-block;
+      margin-top:12px;
+      padding:8px 14px;
+      background:#1e88e5;
+      color:#fff;
+      text-decoration:none;
+      border-radius:6px;
+    }
+    .home {
+      text-align:center;
+      margin-top:40px;
+    }
+  </style>
 </head>
 
 <body>
 
-<div class="page-container">
+<div class="page">
   <h1>🎓 Scholarship / Education</h1>
 
-  <div id="scholarship-container" class="card-grid"></div>
+  <!-- 🔴 IMPORTANT CONTAINER -->
+  <div id="scholarshipGrid" class="grid"></div>
 
-  <a href="../index.html" class="back-home">🏠 Back to Home</a>
+  <div class="home">
+    <a href="../index.html" class="btn">🏠 Back to Home</a>
+  </div>
 </div>
 
+<!-- 🔴 IMPORTANT SCRIPT PATH -->
 <script src="../assets/js/scholarships.js"></script>
+
 </body>
 </html>

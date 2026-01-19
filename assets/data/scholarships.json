@@ -1,39 +1,16 @@
 [
   {
-    "id": "pm-scholarship",
-    "title": "Prime Minister Scholarship Scheme",
-    "category": "Central",
-    "eligibility": "12th Pass / Graduation",
-    "benefit": "₹20,000 – ₹30,000 per year",
-    "lastDate": "31 Dec 2026",
+    "id": "nsf",
+    "title": "National Scholarship Portal",
+    "desc": "Central & State level scholarships for students.",
+    "eligibility": "Class 10+ students",
     "official": "https://scholarships.gov.in"
   },
   {
-    "id": "post-matric",
-    "title": "Post Matric Scholarship",
-    "category": "State",
-    "eligibility": "SC / ST / OBC Students",
-    "benefit": "Tuition + Maintenance Allowance",
-    "lastDate": "15 Jan 2026",
-    "official": "https://scholarships.gov.in"
-  },
-  {
-    "id": "minority-scholarship",
-    "title": "Minority Scholarship",
-    "category": "Central",
-    "eligibility": "Minority Community Students",
-    "benefit": "₹10,000 – ₹25,000",
-    "lastDate": "30 Nov 2026",
-    "official": "https://scholarships.gov.in"
-  },
-  {
-    "id": "girl-child",
-    "title": "Girl Child Scholarship",
-    "category": "State",
-    "eligibility": "Girl Students (Class 9–12)",
-    "benefit": "₹5,000 – ₹15,000",
-    "lastDate": "20 Dec 2026",
-    "official": "https://education.gov.in"
+    "id": "pmss",
+    "title": "PM Scholarship Scheme",
+    "desc": "Scholarship for meritorious students.",
+    "eligibility": "Dependent of ex-servicemen",
+    "official": "https://www.desw.gov.in"
   }
 ]
-
