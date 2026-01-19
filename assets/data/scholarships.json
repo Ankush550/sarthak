@@ -1,20 +1,39 @@
 [
   {
-    "id": "nsp",
-    "title": "NSP Scholarship",
-    "desc": "Central government scholarship for students",
-    "apply": "https://scholarships.gov.in"
+    "id": "pm-scholarship",
+    "title": "Prime Minister Scholarship Scheme",
+    "category": "Central",
+    "eligibility": "12th Pass / Graduation",
+    "benefit": "₹20,000 – ₹30,000 per year",
+    "lastDate": "31 Dec 2026",
+    "official": "https://scholarships.gov.in"
   },
   {
-    "id": "state-scholarship",
-    "title": "State Scholarship",
-    "desc": "State-wise scholarship schemes",
-    "apply": "https://india.gov.in"
+    "id": "post-matric",
+    "title": "Post Matric Scholarship",
+    "category": "State",
+    "eligibility": "SC / ST / OBC Students",
+    "benefit": "Tuition + Maintenance Allowance",
+    "lastDate": "15 Jan 2026",
+    "official": "https://scholarships.gov.in"
   },
   {
-    "id": "minority",
+    "id": "minority-scholarship",
     "title": "Minority Scholarship",
-    "desc": "Minority students ke liye scholarship",
-    "apply": "https://scholarships.gov.in"
+    "category": "Central",
+    "eligibility": "Minority Community Students",
+    "benefit": "₹10,000 – ₹25,000",
+    "lastDate": "30 Nov 2026",
+    "official": "https://scholarships.gov.in"
+  },
+  {
+    "id": "girl-child",
+    "title": "Girl Child Scholarship",
+    "category": "State",
+    "eligibility": "Girl Students (Class 9–12)",
+    "benefit": "₹5,000 – ₹15,000",
+    "lastDate": "20 Dec 2026",
+    "official": "https://education.gov.in"
   }
 ]
+
