@@ -1162,3 +1162,53 @@ body {
   background: linear-gradient(135deg, #0d47a1, #08306b);
 }
 
+/* Documents page layout fix */
+.page-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin-top: 30px;
+}
+
+.info-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.info-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 30px rgba(0,0,0,0.12);
+}
+
+.info-card h3 {
+  color: #0d47a1;
+  margin-bottom: 6px;
+}
+
+.info-card p {
+  margin: 6px 0 14px;
+  color: #444;
+}
+
+.info-card a {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #1976d2;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.info-card a:hover {
+  background: #0d47a1;
+}
