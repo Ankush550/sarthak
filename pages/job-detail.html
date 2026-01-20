@@ -1,47 +1,114 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Job Details</title>
+  <meta charset="UTF-8">
+  <title>Job Details | Sarthak</title>
+
+  <!-- Common CSS -->
   <link rel="stylesheet" href="../assets/css/main.css">
+  <link rel="stylesheet" href="../assets/css/header.css">
+
+  <style>
+    .job-detail-container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    }
+
+    .job-detail-container h1 {
+      color: #0b5ed7;
+      margin-bottom: 20px;
+    }
+
+    .job-detail-container ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .job-detail-container li {
+      padding: 10px 0;
+      border-bottom: 1px solid #eee;
+      font-size: 16px;
+    }
+
+    .apply-btn {
+      display: inline-block;
+      margin-top: 25px;
+      padding: 12px 22px;
+      background: #0b5ed7;
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .apply-btn:hover {
+      background: #084298;
+    }
+
+    .note {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #666;
+    }
+
+    .back-btn {
+      display: inline-block;
+      margin-top: 30px;
+      text-decoration: none;
+      color: #0b5ed7;
+      font-weight: bold;
+    }
+  </style>
 </head>
+
 <body>
 
-<div class="scheme-detail">
-  <h1 id="title"></h1>
+<!-- ===== HEADER (same as other pages) ===== -->
+<header class="header">
+  <div class="logo">
+    <a href="../index.html" style="display:flex;align-items:center;text-decoration:none;color:white;">
+      <img src="../assets/images/logo/logo.png" alt="Sarthak">
+      <span>Govt Schemes & Updates</span>
+    </a>
+  </div>
 
-  <p><strong>Department:</strong> <span id="dept"></span></p>
-  <p><strong>Qualification:</strong> <span id="qual"></span></p>
-  <p><strong>Age Limit:</strong> <span id="age"></span></p>
-  <p><strong>Vacancy:</strong> <span id="vacancy"></span></p>
-  <p><strong>Last Date:</strong> <span id="last"></span></p>
-  <p><strong>Location:</strong> <span id="loc"></span></p>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="jobs.html">Jobs & Results</a>
+    <a href="../pages/state-schemes.html">State Schemes</a>
+    <a href="../pages/apply-online.html">Apply Online</a>
+    <a href="../pages/contact.html">Contact</a>
+  </nav>
+</header>
 
-  <a id="apply" class="apply-btn" target="_blank">
-    📝 Apply Now (Official)
+<!-- ===== JOB DETAIL ===== -->
+<div class="job-detail-container">
+
+  <h1 id="jobTitle">Loading...</h1>
+
+  <ul id="jobDetails">
+    <!-- JS se data aayega -->
+  </ul>
+
+  <a id="applyBtn" class="apply-btn" target="_blank">
+    📝 Apply Now (Official Website)
   </a>
 
-  <br><br>
-  <a href="jobs..html">← Back</a>
+  <p class="note">
+    ⚠️ Ye website sirf information ke liye hai.  
+    Application hamesha official government portal par hi karein.
+  </p>
+
+  <a href="jobs.html" class="back-btn">⬅ Back to Jobs</a>
+
 </div>
 
-<script>
-const id = new URLSearchParams(location.search).get("id");
-
-fetch("../assets/data/jobs.json")
-  .then(res => res.json())
-  .then(data => {
-    const job = data.find(j => j.id === id);
-
-    document.getElementById("title").innerText = job.title;
-    document.getElementById("dept").innerText = job.department;
-    document.getElementById("qual").innerText = job.qualification;
-    document.getElementById("age").innerText = job.age;
-    document.getElementById("vacancy").innerText = job.vacancy;
-    document.getElementById("last").innerText = job.lastDate;
-    document.getElementById("loc").innerText = job.location;
-    document.getElementById("apply").href = job.applyLink;
-  });
-</script>
+<!-- ===== JS ===== -->
+<script src="../assets/js/job-detail.js"></script>
 
 </body>
 </html>
