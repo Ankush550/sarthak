@@ -1,38 +1,34 @@
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("Scholarship JS Loaded");
+  const container = document.getElementById("scholarship-container");
+  if (!container) return;
 
-  const grid = document.getElementById("scholarshipGrid");
-  if (!grid) {
-    console.error("Grid not found");
-    return;
-  }
+  const isGitHub = location.hostname.includes("github.io");
+  const basePath = isGitHub ? "/sarthak" : "";
 
-  fetch("../assets/data/scholarships.json")
-    .then(res => {
-      if (!res.ok) throw new Error("JSON not loaded");
-      return res.json();
-    })
+  fetch(`${basePath}/assets/data/scholarships.json`)
+    .then(res => res.json())
     .then(data => {
-      grid.innerHTML = "";
+      container.innerHTML = "";
 
       data.forEach(item => {
         const card = document.createElement("div");
-        card.className = "card";
+        card.className = "info-card";
 
         card.innerHTML = `
           <h3>${item.title}</h3>
-          <p>${item.desc}</p>
-          <p><strong>Eligibility:</strong> ${item.eligibility}</p>
-          <a href="${item.official}" target="_blank" class="btn">
-            🌐 Official Site
+          <p><b>Eligibility:</b> ${item.eligibility}</p>
+          <p><b>Amount:</b> ${item.amount}</p>
+          <p><b>Last Date:</b> ${item.lastDate}</p>
+
+          <a href="scholarship-detail.html?id=${item.id}" class="apply-btn">
+            View Details
           </a>
         `;
 
-        grid.appendChild(card);
+        container.appendChild(card);
       });
     })
-    .catch(err => {
-      console.error(err);
-      grid.innerHTML = "<p style='color:red'>Data load nahi ho raha</p>";
+    .catch(() => {
+      container.innerHTML = "<p style='color:red'>Scholarship data load nahi ho raha</p>";
     });
 });
