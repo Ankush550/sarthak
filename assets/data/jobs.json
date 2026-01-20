@@ -1,9 +1,57 @@
 [
   {
-    "id": "ssc-gd",
-    "title": "SSC GD Constable 2026",
-    "vacancy": "25,000+",
-    "qualification": "10th Pass",
-    "link": "https://ssc.gov.in"
+    "id": "ssc-cgl-2025",
+    "title": "SSC CGL 2025",
+    "department": "Staff Selection Commission",
+    "qualification": "Graduate",
+    "age": "18 – 32 Years",
+    "vacancy": "7500+",
+    "lastDate": "15 March 2025",
+    "location": "All India",
+    "applyLink": "https://ssc.nic.in"
+  },
+  {
+    "id": "rrb-ntpc-2025",
+    "title": "RRB NTPC Recruitment 2025",
+    "department": "Railway Recruitment Board",
+    "qualification": "12th / Graduate",
+    "age": "18 – 33 Years",
+    "vacancy": "12000+",
+    "lastDate": "10 April 2025",
+    "location": "All India",
+    "applyLink": "https://rrbapply.gov.in"
+  },
+  {
+    "id": "upsc-cds-2025",
+    "title": "UPSC CDS 2025",
+    "department": "Union Public Service Commission",
+    "qualification": "Graduate",
+    "age": "19 – 25 Years",
+    "vacancy": "450",
+    "lastDate": "20 Feb 2025",
+    "location": "India",
+    "applyLink": "https://upsc.gov.in"
+  },
+  {
+    "id": "ibps-po-2025",
+    "title": "IBPS PO 2025",
+    "department": "Institute of Banking Personnel Selection",
+    "qualification": "Graduate",
+    "age": "20 – 30 Years",
+    "vacancy": "5000+",
+    "lastDate": "5 April 2025",
+    "location": "India",
+    "applyLink": "https://ibps.in"
+  },
+  {
+    "id": "delhi-police-constable",
+    "title": "Delhi Police Constable",
+    "department": "Delhi Police",
+    "qualification": "12th Pass",
+    "age": "18 – 25 Years",
+    "vacancy": "7547",
+    "lastDate": "30 March 2025",
+    "location": "Delhi",
+    "applyLink": "https://delhipolice.gov.in"
   }
 ]
