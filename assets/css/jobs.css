@@ -1,0 +1,50 @@
+body {
+  font-family: Arial;
+  background: #f5f7fa;
+  padding: 20px;
+}
+
+.page-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.job-card, .detail-box {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.detail-btn, .apply-btn {
+  display: inline-block;
+  margin-top: 15px;
+  background: #0d6efd;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.apply-btn {
+  background: #198754;
+}
+
+.back-btn {
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+}
+
+.note {
+  margin-top: 15px;
+  color: #555;
+}

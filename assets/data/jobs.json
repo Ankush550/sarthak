@@ -24,34 +24,12 @@
   {
     "id": "upsc-cds-2025",
     "title": "UPSC CDS 2025",
-    "department": "Union Public Service Commission",
+    "department": "UPSC",
     "qualification": "Graduate",
     "age": "19 – 25 Years",
     "vacancy": "450",
     "lastDate": "20 Feb 2025",
     "location": "India",
     "applyLink": "https://upsc.gov.in"
-  },
-  {
-    "id": "ibps-po-2025",
-    "title": "IBPS PO 2025",
-    "department": "Institute of Banking Personnel Selection",
-    "qualification": "Graduate",
-    "age": "20 – 30 Years",
-    "vacancy": "5000+",
-    "lastDate": "5 April 2025",
-    "location": "India",
-    "applyLink": "https://ibps.in"
-  },
-  {
-    "id": "delhi-police-constable",
-    "title": "Delhi Police Constable",
-    "department": "Delhi Police",
-    "qualification": "12th Pass",
-    "age": "18 – 25 Years",
-    "vacancy": "7547",
-    "lastDate": "30 March 2025",
-    "location": "Delhi",
-    "applyLink": "https://delhipolice.gov.in"
   }
 ]
