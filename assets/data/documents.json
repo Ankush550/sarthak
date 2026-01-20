@@ -1,11 +1,74 @@
 [
   {
-    "id": "income-cert",
+    "id": "income-certificate",
     "title": "Income Certificate",
-    "desc": "Income Certificate kaise banaye online",
-    "eligibility": "Resident of state",
+    "use": "Scholarship, Govt Schemes",
+    "eligibility": "Resident of State",
     "documents": "Aadhaar, Address Proof",
-    "steps": "Login → Apply → Upload → Submit",
-    "official": "https://serviceonline.gov.in"
+    "process": "Online via state portal",
+    "officialLink": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "caste-certificate",
+    "title": "Caste Certificate",
+    "use": "Reservation Benefits",
+    "eligibility": "SC / ST / OBC",
+    "documents": "Aadhaar, Parent Certificate",
+    "process": "Online / CSC",
+    "officialLink": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "domicile-certificate",
+    "title": "Domicile Certificate",
+    "use": "State Jobs / Admission",
+    "eligibility": "State Resident",
+    "documents": "Ration Card, Aadhaar",
+    "process": "Online",
+    "officialLink": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "birth-certificate",
+    "title": "Birth Certificate",
+    "use": "ID Proof, School Admission",
+    "eligibility": "Born in India",
+    "documents": "Hospital Slip",
+    "process": "Municipal Portal",
+    "officialLink": "https://crsorgi.gov.in"
+  },
+  {
+    "id": "death-certificate",
+    "title": "Death Certificate",
+    "use": "Legal Records",
+    "eligibility": "Family Member",
+    "documents": "Hospital Proof",
+    "process": "Municipal Portal",
+    "officialLink": "https://crsorgi.gov.in"
+  },
+  {
+    "id": "ews-certificate",
+    "title": "EWS Certificate",
+    "use": "Reservation",
+    "eligibility": "Income below limit",
+    "documents": "Income Proof",
+    "process": "Online",
+    "officialLink": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "marriage-certificate",
+    "title": "Marriage Certificate",
+    "use": "Legal Proof",
+    "eligibility": "Married Couple",
+    "documents": "ID Proofs",
+    "process": "Online",
+    "officialLink": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "disability-certificate",
+    "title": "Disability Certificate",
+    "use": "Pension / Benefits",
+    "eligibility": "40% Disability",
+    "documents": "Medical Proof",
+    "process": "Hospital + Online",
+    "officialLink": "https://www.swavlambancard.gov.in"
   }
 ]

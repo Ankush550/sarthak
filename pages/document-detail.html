@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document Details</title>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+
+<body>
+<div class="page-container">
+  <div id="detail-box"></div>
+
+  <a href="documents.html" class="back-home">← Back to Documents</a>
+</div>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+const isGitHub = location.hostname.includes("github.io");
+const basePath = isGitHub ? "/sarthak" : "";
+
+fetch(`${basePath}/assets/data/documents.json`)
+  .then(res => res.json())
+  .then(data => {
+    const doc = data.find(d => d.id === id);
+    if (!doc) return;
+
+    document.getElementById("detail-box").innerHTML = `
+      <h1>${doc.title}</h1>
+      <p><b>Use:</b> ${doc.use}</p>
+      <p><b>Eligibility:</b> ${doc.eligibility}</p>
+      <p><b>Required Documents:</b> ${doc.documents}</p>
+      <p><b>Process:</b> ${doc.process}</p>
+
+      <a href="${doc.officialLink}" target="_blank" class="apply-btn">
+        Apply Online (Official)
+      </a>
+
+      <p class="note">⚠️ Apply only on official government websites</p>
+    `;
+  });
+</script>
+</body>
+</html>
