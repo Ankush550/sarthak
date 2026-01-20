@@ -1,0 +1,95 @@
+/* ===== Documents Page Only CSS ===== */
+
+body {
+  background: #f4f7fb;
+}
+
+/* Page wrapper */
+.documents-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px 60px;
+}
+
+/* Heading */
+.documents-page h1 {
+  font-size: 32px;
+  color: #0d47a1;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Grid layout */
+.documents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 26px;
+}
+
+/* Card */
+.document-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease;
+}
+
+.document-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.14);
+}
+
+/* Title */
+.document-card h3 {
+  color: #1565c0;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+/* Description */
+.document-card p {
+  color: #555;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+/* Button */
+.document-card a {
+  display: inline-block;
+  background: linear-gradient(135deg, #1976d2, #0d47a1);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.document-card a:hover {
+  opacity: 0.9;
+}
+
+/* Back button */
+.back-home {
+  display: inline-block;
+  margin-top: 40px;
+  background: #eeeeee;
+  color: #333;
+  padding: 12px 26px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.back-home:hover {
+  background: #e0e0e0;
+}
+
+/* Mobile fix */
+@media (max-width: 600px) {
+  .documents-page h1 {
+    font-size: 24px;
+  }
+}
