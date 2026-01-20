@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Job Details</title>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+<div class="scheme-detail">
+  <h1 id="title"></h1>
+
+  <p><strong>Department:</strong> <span id="dept"></span></p>
+  <p><strong>Qualification:</strong> <span id="qual"></span></p>
+  <p><strong>Age Limit:</strong> <span id="age"></span></p>
+  <p><strong>Vacancy:</strong> <span id="vacancy"></span></p>
+  <p><strong>Last Date:</strong> <span id="last"></span></p>
+  <p><strong>Location:</strong> <span id="loc"></span></p>
+
+  <a id="apply" class="apply-btn" target="_blank">
+    📝 Apply Now (Official)
+  </a>
+
+  <br><br>
+  <a href="jobs-results.html">← Back</a>
+</div>
+
+<script>
+const id = new URLSearchParams(location.search).get("id");
+
+fetch("../assets/data/jobs.json")
+  .then(res => res.json())
+  .then(data => {
+    const job = data.find(j => j.id === id);
+
+    document.getElementById("title").innerText = job.title;
+    document.getElementById("dept").innerText = job.department;
+    document.getElementById("qual").innerText = job.qualification;
+    document.getElementById("age").innerText = job.age;
+    document.getElementById("vacancy").innerText = job.vacancy;
+    document.getElementById("last").innerText = job.lastDate;
+    document.getElementById("loc").innerText = job.location;
+    document.getElementById("apply").href = job.applyLink;
+  });
+</script>
+
+</body>
+</html>
