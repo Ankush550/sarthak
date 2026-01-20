@@ -1265,3 +1265,36 @@ body {
   font-size: 12px;
   font-weight: bold;
 }
+
+
+.site-footer {
+  margin-top: 60px;
+  background: #fff4ec;   /* light orange */
+  border-top: 2px solid #ff7a00;
+  padding: 18px 10px;
+  text-align: center;
+}
+
+.footer-links {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  color: #d35400;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 6px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-links span {
+  color: #ff9f43;
+}
+
+.footer-copy {
+  font-size: 13px;
+  color: #555;
+}
