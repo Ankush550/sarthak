@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  fetch("../assets/data/scholarship.json")
+  fetch("../assets/data/scholarships.json")
     .then(res => {
       if (!res.ok) throw new Error("JSON not loaded");
       return res.json();
