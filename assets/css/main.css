@@ -1180,9 +1180,9 @@ body {
 body {
   background: linear-gradient(
     90deg,
-    #005ae1 0%,
+    #ffffff 0%,
     #f4f6f9 25%,
     #f4f6f9 75%,
-    #6a9eeb 100%
+    #ffffff 100%
   );
 }
