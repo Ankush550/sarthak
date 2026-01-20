@@ -1161,3 +1161,17 @@ body {
   transform: translateY(-2px);
   background: linear-gradient(135deg, #0d47a1, #08306b);
 }
+
+.page-container {
+  min-height: 100vh;
+  background: linear-gradient(
+    90deg,
+    #d6dbe1 0%,
+    #f4f6f9 20%,
+    #f4f6f9 80%,
+    #d6dbe1 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
