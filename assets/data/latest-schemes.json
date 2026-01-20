@@ -1,0 +1,37 @@
+[
+  {
+    "id": "aadhaar-update",
+    "title": "Aadhaar Update Last Date",
+    "desc": "Free Aadhaar update – last date announced",
+    "type": "DOCUMENT",
+    "link": "https://uidai.gov.in"
+  },
+  {
+    "id": "income-certificate",
+    "title": "Income Certificate Apply",
+    "desc": "Online income certificate apply process",
+    "type": "DOCUMENT",
+    "link": "https://serviceonline.gov.in"
+  },
+  {
+    "id": "pan-correction",
+    "title": "PAN Card Correction",
+    "desc": "Name, DOB & address correction online",
+    "type": "DOCUMENT",
+    "link": "https://www.onlineservices.nsdl.com"
+  },
+  {
+    "id": "pm-awas",
+    "title": "PM Awas Yojana New List",
+    "desc": "Check beneficiary list online",
+    "type": "SCHEME",
+    "link": "https://pmayg.nic.in"
+  },
+  {
+    "id": "pm-kisan",
+    "title": "PM Kisan 17th Installment",
+    "desc": "₹2000 installment status check",
+    "type": "SCHEME",
+    "link": "https://pmkisan.gov.in"
+  }
+]
