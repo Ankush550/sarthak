@@ -1747,3 +1747,118 @@ body {
     font-size: 15px;
   }
 }
+
+/* IPO Guide Page Styling */
+
+body {
+  background: #f4f8ff;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Main content box */
+.ipo-guide {
+  max-width: 980px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Main heading */
+.ipo-guide h1 {
+  font-size: 34px;
+  color: #0f2a44;
+  margin-bottom: 15px;
+}
+
+/* Sub headings */
+.ipo-guide h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #1d4ed8;
+  border-left: 5px solid #3b82f6;
+  padding-left: 12px;
+}
+
+/* Paragraph text */
+.ipo-guide p {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #374151;
+  margin-top: 10px;
+}
+
+/* Lists */
+.ipo-guide ul {
+  margin-top: 10px;
+  padding-left: 22px;
+}
+
+.ipo-guide li {
+  margin-bottom: 8px;
+  font-size: 15.5px;
+}
+
+/* Highlight / Important note */
+.ipo-note {
+  margin-top: 25px;
+  background: #e0f2fe;
+  border-left: 5px solid #0284c7;
+  padding: 15px 18px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: #0c4a6e;
+}
+
+/* Buttons section */
+.ipo-actions {
+  margin-top: 35px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.ipo-actions a {
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* Back button */
+.btn-back {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.btn-back:hover {
+  background: #d1d5db;
+}
+
+/* Official link button */
+.btn-official {
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  color: #ffffff;
+}
+
+.btn-official:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.4);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .ipo-guide {
+    padding: 25px;
+  }
+
+  .ipo-guide h1 {
+    font-size: 26px;
+  }
+
+  .ipo-guide h2 {
+    font-size: 20px;
+  }
+}
