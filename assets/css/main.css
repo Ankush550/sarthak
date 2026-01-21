@@ -1554,3 +1554,64 @@ body {
     font-size: 20px;
   }
 }
+
+/* ================= TRUST BOX ================= */
+
+.trust-box {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  padding: 35px 30px;
+  border-radius: 18px;
+  margin: 40px auto;
+  max-width: 900px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.35);
+  position: relative;
+}
+
+/* Heading */
+.trust-box h3 {
+  color: #ffffff;
+  font-size: 26px;
+  margin-bottom: 18px;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* Decorative line */
+.trust-box h3::after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 4px;
+  background: #f59e0b;
+  margin: 10px auto 0;
+  border-radius: 4px;
+}
+
+/* Paragraphs */
+.trust-box p {
+  color: #e5e7eb;
+  font-size: 16px;
+  line-height: 1.9;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+/* Highlight important text */
+.trust-box p strong {
+  color: #fde68a;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .trust-box {
+    padding: 26px 20px;
+  }
+
+  .trust-box h3 {
+    font-size: 22px;
+  }
+
+  .trust-box p {
+    font-size: 15px;
+  }
+}
