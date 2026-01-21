@@ -1298,3 +1298,131 @@ body {
   font-size: 13px;
   color: #555;
 }
+
+/* ================= TASK 1 : IPO PAGE ================= */
+
+.ipo-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f172a, #1e3a8a);
+  padding: 60px 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.ipo-container {
+  background: #ffffff;
+  width: 100%;
+  max-width: 900px;
+  padding: 45px 50px;
+  border-radius: 20px;
+  box-shadow: 0 30px 70px rgba(0,0,0,0.35);
+}
+
+/* Heading */
+.ipo-container h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+
+/* Paragraph */
+.ipo-container p {
+  font-size: 16.5px;
+  line-height: 1.9;
+  color: #374151;
+  margin-bottom: 18px;
+}
+
+/* Section Titles */
+.ipo-container h2 {
+  margin-top: 30px;
+  font-size: 22px;
+  color: #1e40af;
+  border-left: 5px solid #2563eb;
+  padding-left: 14px;
+}
+
+/* Lists */
+.ipo-container ul,
+.ipo-container ol {
+  padding-left: 22px;
+  margin-top: 12px;
+}
+
+.ipo-container li {
+  margin-bottom: 10px;
+  font-size: 15.5px;
+  color: #374151;
+}
+
+/* Highlight Note */
+.ipo-note {
+  background: #fff7ed;
+  border-left: 6px solid #f59e0b;
+  padding: 16px 18px;
+  border-radius: 12px;
+  margin: 30px 0;
+  font-size: 14.5px;
+  color: #92400e;
+}
+
+/* Action Buttons */
+.ipo-actions {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 35px;
+  flex-wrap: wrap;
+}
+
+.ipo-actions a {
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  color: #ffffff;
+  padding: 14px 30px;
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 10px 28px rgba(37,99,235,0.45);
+  transition: all 0.3s ease;
+}
+
+.ipo-actions a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 15px 40px rgba(37,99,235,0.6);
+}
+
+/* Back to Home */
+.ipo-back {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.ipo-back a {
+  display: inline-block;
+  padding: 12px 26px;
+  background: #e0f2fe;
+  color: #0369a1;
+  border-radius: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.ipo-back a:hover {
+  background: #bae6fd;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .ipo-container {
+    padding: 30px 22px;
+  }
+  .ipo-container h1 {
+    font-size: 28px;
+  }
+  .ipo-container h2 {
+    font-size: 20px;
+  }
+}
