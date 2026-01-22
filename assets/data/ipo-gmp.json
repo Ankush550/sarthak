@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kanishk Aluminium",
+    "gmp": "₹25",
+    "price": "₹73",
+    "ipoSize": "27.74 Cr",
+    "lot": "1600",
+    "open": "28 Jan 2026",
+    "close": "30 Jan 2026",
+    "listing": "2 Feb 2026",
+    "exchange": "BSE SME",
+    "subscription": "Retail: 5.2x | HNI: 3.1x",
+    "registrar": "KFintech",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "₹98 (Issue ₹73 + GMP ₹25)",
+    "GMPTrend": "₹18 → ₹22 → ₹25 📈",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
+    "status": "🔥 Hot"
+  }
+]

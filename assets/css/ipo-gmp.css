@@ -1,0 +1,516 @@
+.ipo-gmp-section {
+  margin: 50px auto;
+  padding: 30px;
+  max-width: 1200px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+}
+
+.ipo-gmp-header h2 {
+  font-size: 28px;
+  color: #0f172a;
+}
+
+.ipo-gmp-header p {
+  color: #475569;
+  margin-top: 6px;
+}
+
+.ipo-gmp-table-wrapper {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.ipo-gmp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.ipo-gmp-table thead {
+  background: #f1f5f9;
+}
+
+.ipo-gmp-table th,
+.ipo-gmp-table td {
+  padding: 12px 14px;
+  text-align: center;
+}
+
+.ipo-gmp-table tbody tr {
+  background: #fefce8;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.ipo-gmp-table tbody tr:hover {
+  background: #fff7cd;
+}
+
+.gmp {
+  font-weight: 700;
+  color: #15803d;
+}
+
+.status {
+  background: #dcfce7;
+  color: #166534;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.ipo-gmp-note {
+  margin-top: 18px;
+  font-size: 14px;
+  color: #92400e;
+  background: #fff7ed;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+/* Clickable Row */
+.ipo-row {
+  cursor: pointer;
+}
+
+/* Hidden details */
+.ipo-details-row {
+  display: none;
+  background: #fffef2;
+}
+
+.ipo-details-row.show {
+  display: table-row;
+}
+
+/* Details box */
+.ipo-details-box {
+  padding: 18px;
+  background: #fffbe6;
+  border-left: 5px solid #f59e0b;
+  border-radius: 10px;
+  text-align: left;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.ipo-details-box p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #1f2937;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* IPO GMP Section */
+.ipo-gmp-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 28px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  margin: 30px 0;
+}
+
+.ipo-gmp-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ipo-gmp-subtitle {
+  color: #475569;
+  margin: 8px 0 22px;
+  font-size: 15px;
+}
+
+/* Table */
+.ipo-gmp-table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.ipo-gmp-table th {
+  background: #e0f2fe;
+  color: #075985;
+  padding: 14px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.ipo-gmp-table td {
+  padding: 14px;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+
+.ipo-row-highlight {
+  background: #fefce8;
+}
+
+.gmp-green {
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.status-hot {
+  background: #dcfce7;
+  color: #166534;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+/* Details Box */
+.ipo-details-box {
+  margin-top: 20px;
+  background: #fff7ed;
+  border-left: 6px solid #f59e0b;
+  padding: 18px 22px;
+  border-radius: 10px;
+}
+
+.ipo-details-box p {
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+/* Expected Gain */
+.expected-gain {
+  margin-top: 16px;
+  background: #eff6ff;
+  border: 1px dashed #3b82f6;
+  padding: 14px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.expected-gain strong {
+  color: #1d4ed8;
+}
+
+/* Disclaimer */
+.ipo-disclaimer {
+  margin-top: 22px;
+  background: #fff7ed;
+  padding: 14px;
+  border-radius: 10px;
+  font-size: 13px;
+  color: #9a3412;
+}
+
+.ipo-name {
+  color: #2563eb;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.ipo-name:hover {
+  text-decoration: underline;
+}
+
+.detail-row td {
+  background: #fffbea;
+}
+
+.ipo-detail-box {
+  padding: 20px;
+  border-left: 6px solid #f59e0b;
+  border-radius: 10px;
+}
+
+.apply-btn {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 10px 18px;
+  background: #2563eb;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.apply-btn:hover {
+  background: #1e40af;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+  padding: 20px;
+}
+
+.page-title {
+  font-size: 28px;
+}
+
+.page-subtitle {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.ipo-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.ipo-table th,
+.ipo-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+.ipo-table th {
+  background: #f1f5f9;
+}
+
+.ipo-name {
+  color: #2563eb;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.ipo-name:hover {
+  text-decoration: underline;
+}
+
+.ipo-detail {
+  background: #fffbea;
+  padding: 20px;
+  border-left: 5px solid #f59e0b;
+}
+
+.apply-btn {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 10px 16px;
+  background: #2563eb;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.apply-link {
+  color: #2563eb;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.apply-link:hover {
+  text-decoration: underline;
+  color: #1e40af;
+}
+
+.ipo-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.ipo-table th {
+  background: #e3f2fd;
+  padding: 12px;
+  text-align: left;
+}
+
+.ipo-table td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.ipo-main-row {
+  background: #fff8d5;
+  cursor: pointer;
+}
+
+.ipo-main-row:hover {
+  background: #fff1b8;
+}
+
+.ipo-name {
+  font-weight: bold;
+  color: #0d47a1;
+}
+
+.status.hot {
+  background: #d4fbe3;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.ipo-detail-row td {
+  background: #fffaf0;
+}
+
+.ipo-detail-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.ipo-detail-table th {
+  background: #f1f8ff;
+  padding: 10px;
+}
+
+.ipo-detail-table td {
+  padding: 10px;
+  border: 1px solid #eee;
+}
+
+.ipo-detail-table a {
+  color: #0d6efd;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* ===== IPO GMP TABLE DESIGN ===== */
+
+.ipo-container {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+  font-family: 'Inter', sans-serif;
+}
+
+.ipo-container h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #475569;
+  margin-bottom: 22px;
+  font-size: 16px;
+}
+
+/* TABLE WRAPPER */
+.ipo-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border-radius: 14px;
+  font-size: 15px;
+}
+
+/* HEADER */
+.ipo-table thead th {
+  background: #e6f4ff;
+  color: #034f84;
+  padding: 14px 12px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 1px solid #dbeafe;
+}
+
+.ipo-table thead th:first-child {
+  text-align: left;
+  padding-left: 18px;
+}
+
+/* ROW */
+.ipo-table tbody tr {
+  background: #fff8d9;
+  transition: all 0.25s ease;
+}
+
+.ipo-table tbody tr:hover {
+  background: #fff2b8;
+}
+
+/* CELL */
+.ipo-table tbody td {
+  padding: 14px 12px;
+  text-align: center;
+  border-bottom: 1px solid #f1e7b6;
+}
+
+.ipo-table tbody td:first-child {
+  text-align: left;
+  padding-left: 18px;
+  font-weight: 600;
+  color: #111827;
+}
+
+/* GMP VALUE */
+.ipo-table .gmp-positive {
+  color: #15803d;
+  font-weight: 700;
+}
+
+/* STATUS BADGE */
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 999px;
+  background: #dcfce7;
+  color: #166534;
+}
+
+/* DISCLAIMER */
+.ipo-disclaimer {
+  margin-top: 20px;
+  background: #fff4e5;
+  border-left: 5px solid #f97316;
+  padding: 14px 18px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: #9a3412;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .ipo-table {
+    font-size: 14px;
+  }
+
+  .ipo-table thead {
+    display: none;
+  }
+
+  .ipo-table tbody tr {
+    display: block;
+    margin-bottom: 15px;
+    border-radius: 12px;
+  }
+
+  .ipo-table tbody td {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 14px;
+    border-bottom: 1px dashed #e5e7eb;
+  }
+
+  .ipo-table tbody td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: #334155;
+  }
+}
+
+.ipo-table {
+  border: 1px solid #dbeafe;
+}
+
+.ipo-table th,
+.ipo-table td {
+  border-bottom: 1px solid #e5e7eb;
+}
