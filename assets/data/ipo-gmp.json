@@ -17,6 +17,109 @@
     "apply_via": {
     "name": "Zerodha",
     "url": "https://zerodha.com/open-account"},
+    "status": "🔥🔥"
+  },
+
+  
+  {
+    "name": " Aluminium",
+    "gmp": "₹25",
+    "price": "₹73",
+    "ipoSize": "27.74 Cr",
+    "lot": "1600",
+    "open": "28 Jan 2026",
+    "close": "30 Jan 2026",
+    "listing": "2 Feb 2026",
+    "exchange": "BSE SME",
+    "subscription": "Retail: 5.2x | HNI: 3.1x",
+    "registrar": "KFintech",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "₹98 (Issue ₹73 + GMP ₹25)",
+    "GMPTrend": "₹18 → ₹22 → ₹25 📈",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
+    "status": "🔥"
+  },
+   {
+    "name": " CKK Retail Mart NSE SME",
+    "gmp": "--",
+    "price": "--",
+    "ipoSize": "-- Cr",
+    "lot": "",
+    "open": "30 Jan 2026",
+    "close": "03 Feb 2026",
+    "listing": "2 Feb 2026",
+    "exchange": "BSE SME",
+    "subscription": "Not Yet",
+    "registrar": "NA",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "",
+    "GMPTrend": "-",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
+    "status": "🔥 "
+  },
+   {
+    "name": " KRM Ayurveda NSE SME ",
+    "gmp": "₹16",
+    "price": "₹135",
+    "ipoSize": "69.74 Cr",
+    "lot": "1000",
+    "open": "22 Jan 2026",
+    "close": "27 Jan 2026",
+    "listing": "27 Jan 2026",
+    "exchange": "BSE SME",
+    "subscription": "2.8x",
+    "registrar": "NA",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "₹151 (Issue ₹125 + GMP ₹16)",
+    "GMPTrend": "₹18 → ₹22 → ₹16 📈",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
+    "status": "🔥🔥"
+  },
+   {
+    "name": " Shayona Engineering BSE SME ",
+    "gmp": "0",
+    "price": "144",
+    "ipoSize": "14.11 Cr",
+    "lot": "1000",
+    "open": "22 Jan 2026",
+    "close": "27 Jan 2026",
+    "listing": "2 Feb 2026",
+    "exchange": "BSE SME",
+    "subscription": "1.03x",
+    "registrar": "NA",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "₹155 (Issue ₹144 + GMP ₹0)",
+    "GMPTrend": "₹0 → ₹0 → ₹0 📈",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
+    "status": ""
+  },
+   {
+    "name": " Hannah Joseph Hospital BSE SME ",
+    "gmp": "₹0",
+    "price": "₹70",
+    "ipoSize": "39.90 Cr",
+    "lot": "2000",
+    "open": "22 Jan 2026",
+    "close": "27 Jan 2026",
+    "listing": "2 Feb 2026",
+    "exchange": "BSE SME",
+    "subscription": "0.18x",
+    "registrar": "KFintech",
+    "risk": "High Risk (SME IPO)",
+    "ExpectedListingPrice": "₹70 (Issue ₹70 + GMP ₹0)",
+    "GMPTrend": "₹0 → ₹0 → ₹0 📈",
+    "apply_via": {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/open-account"},
     "status": "🔥 Hot"
-  }
+  } 
 ]
+
