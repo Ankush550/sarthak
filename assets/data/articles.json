@@ -1,25 +1,67 @@
 [
   {
-    "id": "mobile-phone-lost",
-    "title": "Mobile Phone Lost – What To Do?",
-    "intro": "Agar aapka mobile phone kho gaya hai ya chori ho gaya hai, turant action lena zaruri hai.",
-    "steps": [
-      "SIM Card turant block karein apne telecom operator se",
-      "Google Find My Device ya Apple Find My iPhone ka use karein",
-      "Google, WhatsApp aur banking passwords change karein",
-      "Zarurat ho to police complaint (FIR) file karein"
-    ],
-    "faq": [
-      {
-        "q": "Phone off ho to kya track ho sakta hai?",
-        "a": "Haan, last known location Google Find My Device ya iCloud me dikh sakti hai."
-      },
-      {
-        "q": "Police complaint zaruri hai?",
-        "a": "Insurance claim aur legal proof ke liye FIR karna recommended hota hai."
-      }
-    ]
-  },
+  "id": "mobile-phone-lost",
+  "title": "Mobile Phone Lost – What To Do? (Complete Step-by-Step Guide)",
+  "intro": "Aaj ke digital time me mobile phone sirf calling device nahi balki bank, documents, photos aur personal data ka store hota hai. Agar aapka mobile phone kho jata hai ya chori ho jata hai, to panic karna natural hai. Lekin agar sahi steps sahi time par follow kiye jayein, to aap apna data secure rakh sakte hain aur financial loss se bach sakte hain. Is article me hum aapko mobile phone lost hone par kya karein, kaise track karein, SIM kaise block karein aur police complaint kaise file karein – sab kuch detail me batayenge.",
+  "sections": [
+    {
+      "heading": "Step 1: Sabse Pehle Kya Karein (Immediate Actions)",
+      "content": [
+        "Sabse pehle apna SIM card turant block karwa dein. Iske liye apne telecom operator (Jio, Airtel, Vi, BSNL) ke customer care number par call karein.",
+        "SIM block karne se koi bhi OTP, call ya message misuse nahi ho payega.",
+        "Agar mobile me banking apps hain (UPI, Net Banking), to bank ko bhi inform karein."
+      ]
+    },
+    {
+      "heading": "Step 2: Mobile Phone Track Kaise Karein",
+      "content": [
+        "Agar aap Android phone use karte hain, to Google Find My Device ka use karein.",
+        "iPhone users Apple Find My iPhone ka use kar sakte hain.",
+        "Isse aap last known location dekh sakte hain, phone ring kar sakte hain ya data erase kar sakte hain.",
+        "Phone band hone par bhi last location visible ho sakti hai."
+      ]
+    },
+    {
+      "heading": "Step 3: Google, WhatsApp & Accounts Secure Karein",
+      "content": [
+        "Google account ka password turant change karein.",
+        "WhatsApp ke liye new SIM lene ke baad same number se login karein.",
+        "Email, social media aur payment apps ke passwords bhi update karein."
+      ]
+    },
+    {
+      "heading": "Step 4: Police Complaint & CEIR Portal",
+      "content": [
+        "Agar phone recover nahi hota, to nearest police station me FIR ya lost report file karein.",
+        "Government ke CEIR portal par IMEI number ke through phone block karwa sakte hain.",
+        "IMEI number aapko phone box, bill ya Google account me mil jata hai."
+      ]
+    },
+    {
+      "heading": "Step 5: Agar Phone Mil Jaye To Kya Karein",
+      "content": [
+        "SIM unblock karwa sakte hain.",
+        "Accounts ko verify karein aur suspicious activity check karein.",
+        "CEIR me phone unblock request dal sakte hain."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Agar phone switch off ho to kya track ho sakta hai?",
+      "a": "Haan, Google Find My Device ya Apple Find My iPhone par last known location dikh sakti hai."
+    },
+    {
+      "q": "Police complaint zaruri hai?",
+      "a": "Haan, insurance claim aur CEIR blocking ke liye FIR ya lost report useful hoti hai."
+    },
+    {
+      "q": "IMEI number kaha se milega?",
+      "a": "Phone ke bill, box ya Google account ke Device section me IMEI mil jata hai."
+    }
+  ],
+  "conclusion": "Mobile phone lost hona stressful hota hai, lekin agar aap upar bataye gaye steps follow karte hain to aap apne data aur paise dono ko secure rakh sakte hain. Hamesha calm rahein, official tools ka use karein aur kisi bhi unknown link ya call par trust na karein."
+},
 
   {
     "id": "upi-refund",
