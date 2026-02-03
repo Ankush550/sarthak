@@ -1,0 +1,181 @@
+/* ===============================
+   TRENDING & HOT UPDATES SECTION
+================================ */
+
+.trending-section {
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 0 16px;
+}
+
+.trending-section h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 24px;
+}
+
+/* ===============================
+   GRID
+================================ */
+
+.trending-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 22px;
+}
+
+/* ===============================
+   CARD
+================================ */
+
+.trending-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 18px 18px 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+  border: 1px solid #e5e7eb;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  position: relative;
+}
+
+.trending-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.1);
+}
+
+/* ===============================
+   BADGES (HIGH CPC SIGNAL)
+================================ */
+
+.badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 10px;
+  letter-spacing: 0.3px;
+}
+
+.badge.hot {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.badge.trending {
+  background: #fff7ed;
+  color: #c2410c;
+}
+
+.badge.scheme {
+  background: #ecfeff;
+  color: #0f766e;
+}
+
+.badge.alert {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.badge.new {
+  background: #e0f2fe;
+  color: #075985;
+}
+
+/* ===============================
+   CATEGORY
+================================ */
+
+.trending-card .category {
+  display: block;
+  font-size: 12px;
+  color: #6b7280;
+  margin-bottom: 6px;
+}
+
+/* ===============================
+   TITLE
+================================ */
+
+.trending-card h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+/* ===============================
+   SUMMARY
+================================ */
+
+.trending-card p {
+  font-size: 14px;
+  color: #4b5563;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+
+/* ===============================
+   READ MORE (CTR BOOST)
+================================ */
+
+.trending-card .read-more {
+  font-size: 14px;
+  font-weight: 600;
+  color: #2563eb;
+}
+
+.trending-card:hover .read-more {
+  text-decoration: underline;
+}
+
+/* ===============================
+   ADS PLACEHOLDER (CLS SAFE)
+================================ */
+
+.ad-box {
+  max-width: 1200px;
+  margin: 40px auto;
+  min-height: 250px; /* CLS safe */
+  background: #f9fafb;
+  border: 1px dashed #d1d5db;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: #6b7280;
+}
+
+/* ===============================
+   TRUST / DISCLAIMER (AdSense)
+================================ */
+
+.trust-note {
+  max-width: 1000px;
+  margin: 40px auto 10px;
+  padding: 14px 18px;
+  background: #fff7ed;
+  border-left: 4px solid #fb923c;
+  border-radius: 8px;
+  font-size: 13px;
+  color: #7c2d12;
+  line-height: 1.6;
+}
+
+/* ===============================
+   MOBILE
+================================ */
+
+@media (max-width: 768px) {
+  .trending-section h2 {
+    font-size: 22px;
+  }
+
+  .trending-card h3 {
+    font-size: 16px;
+  }
+}

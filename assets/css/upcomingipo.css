@@ -1,0 +1,328 @@
+/* =========================
+   GLOBAL RESET
+========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f3d6d6;
+  color: #1f2937;
+  line-height: 1.6;
+
+  /* CLS SAFE – sticky ad space */
+  padding-bottom: 120px;
+}
+
+/* =========================
+   BACK TO HOME BUTTON
+========================= */
+.back-home {
+  position: fixed;
+  top: 18px;
+  left: 18px;
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  z-index: 1000;
+}
+
+.back-home:hover {
+  background: linear-gradient(135deg, #1e40af, #1e3a8a);
+}
+
+/* =========================
+   MAIN SECTION
+========================= */
+.ipo-gmp-section {
+  max-width: 960px;
+  margin: 80px auto 60px;
+  background: #ffffff;
+  padding: 40px 42px 45px;
+  border-radius: 18px;
+  box-shadow: 0 25px 55px rgba(0,0,0,0.15);
+}
+
+/* =========================
+   HEADER
+========================= */
+.ipo-gmp-header h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 6px;
+}
+
+.ipo-gmp-header p {
+  font-size: 14.5px;
+  color: #475569;
+  margin-bottom: 12px;
+}
+
+/* =========================
+   SEARCH BOX
+========================= */
+.ipo-search-box {
+  margin-bottom: 22px;
+}
+
+.ipo-search-input {
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  font-size: 14.5px;
+  outline: none;
+}
+
+.ipo-search-input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37,99,235,0.15);
+}
+
+/* =========================
+   TABLE
+========================= */
+.ipo-gmp-table-wrapper {
+  overflow-x: auto;
+  margin-top: 10px;
+}
+
+.ipo-details-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.ipo-details-table thead {
+  background: #e0f2fe;
+}
+
+.ipo-details-table th,
+.ipo-details-table td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.ipo-details-table th {
+  font-weight: 700;
+  color: #0f172a;
+  font-size: 13.5px;
+}
+
+.ipo-details-table tbody tr {
+  background: #fffbea;
+}
+
+.ipo-details-table tbody tr:nth-child(even) {
+  background: #fff7d6;
+}
+
+/* =========================
+   STATUS BADGES
+========================= */
+.status {
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.status.upcoming {
+  background: #e0f2fe;
+  color: #0369a1;
+}
+
+.status.hot {
+  background: #ffedd5;
+  color: #c2410c;
+}
+
+.status.closed {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+/* =========================
+   WARNING NOTE
+========================= */
+.ipo-gmp-note {
+  margin-top: 18px;
+  background: #fff7ed;
+  border-left: 5px solid #f97316;
+  padding: 14px 16px;
+  border-radius: 10px;
+  font-size: 13.5px;
+  color: #7c2d12;
+}
+
+/* =========================
+   EDUCATIONAL CONTENT
+========================= */
+.ipo-gmp-section h3 {
+  margin-top: 30px;
+  font-size: 22px;
+  color: #0f172a;
+}
+
+.ipo-gmp-section p {
+  margin-top: 10px;
+  font-size: 14.5px;
+  color: #374151;
+}
+
+/* =========================
+   TRUST / DISCLAIMER LINE
+========================= */
+.ipo-trust-line {
+  max-width: 900px;
+  margin: 20px auto 0;
+  padding: 12px 16px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #555;
+  background: #fff7ed;
+  border-left: 4px solid #fb923c;
+  border-radius: 6px;
+}
+
+/* =========================
+   PAGE DISCLAIMER
+========================= */
+.page-disclaimer {
+  max-width: 900px;
+  margin: 20px auto 40px;
+  text-align: center;
+  font-size: 13px;
+  color: #475569;
+}
+
+/* =========================
+   STICKY AD (CLS SAFE)
+========================= */
+.sticky-ad {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  min-height: 90px;
+  background: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.ad-label {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  font-size: 11px;
+  color: #6b7280;
+}
+
+/* =========================
+   FOOTER
+========================= */
+.site-footer {
+  background: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  padding: 18px 12px;
+  text-align: center;
+  font-size: 13px;
+  color: #555;
+  margin-top: 60px;
+}
+
+.footer-links {
+  margin-bottom: 6px;
+}
+
+.footer-links a {
+  color: #0d6efd;
+  text-decoration: none;
+  font-weight: 500;
+  margin: 0 4px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-copy {
+  font-size: 12px;
+  color: #777;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+@media (max-width: 768px) {
+  .ipo-gmp-section {
+    margin: 90px 14px 40px;
+    padding: 30px 22px;
+  }
+
+  .ipo-gmp-header h2 {
+    font-size: 24px;
+  }
+
+  .ipo-details-table {
+    font-size: 13px;
+  }
+
+  .sticky-ad {
+    min-height: 70px;
+  }
+
+  .ipo-trust-line {
+    font-size: 12.5px;
+    margin: 16px 12px 0;
+  }
+}
+
+.data-disclaimer {
+  max-width: 900px;
+  margin: 24px auto 10px;
+  padding: 12px 16px;
+  text-align: center;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #374151;
+  background: #f9fafb;
+  border-top: 1px dashed #d1d5db;
+}
+
+.ipo-trust-line {
+  max-width: 900px;
+  margin: 14px auto 18px;
+  padding: 10px 14px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 500;
+  color: #475569;
+  background: #f8fafc;
+  border-radius: 6px;
+}
+
+/* IPO Name clickable link */
+.ipo-link {
+  color: #1d4ed8;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ipo-link:hover {
+  text-decoration: underline;
+}

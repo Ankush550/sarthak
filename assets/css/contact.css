@@ -1,0 +1,200 @@
+/* =====================================================
+   CONTACT PAGE – ADSENSE OPTIMIZED (FINAL)
+===================================================== */
+
+body.contact-page {
+  margin: 0;
+  min-height: 100vh;
+  background: #f5f7fb;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 15px;
+}
+
+/* Main card */
+.contact-wrapper {
+  background: #ffffff;
+  width: 100%;
+  max-width: 520px;
+  padding: 38px 36px;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.12);
+}
+
+/* Title */
+.contact-wrapper h1 {
+  text-align: center;
+  font-size: 28px;
+  color: #0b4ea2;
+  margin-bottom: 6px;
+}
+
+/* Subtitle */
+.contact-intro {
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 26px;
+  line-height: 1.6;
+}
+
+/* Labels */
+.contact-form label {
+  display: block;
+  margin-top: 14px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Inputs */
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  margin-top: 6px;
+  padding: 12px 14px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #d0d5dd;
+  outline: none;
+  transition: all 0.25s ease;
+  background: #fff;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+/* Focus */
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #0b4ea2;
+  box-shadow: 0 0 0 2px rgba(11,78,162,0.12);
+}
+
+/* Submit button */
+.contact-form button {
+  width: 100%;
+  margin-top: 22px;
+  padding: 14px;
+  background: #1a73e8;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contact-form button:hover {
+  background: #1558b0;
+}
+
+/* Contact info */
+.contact-info {
+  margin-top: 22px;
+  font-size: 13.5px;
+  color: #333;
+}
+
+.contact-info p {
+  margin: 6px 0;
+}
+
+/* Trust / disclaimer */
+.contact-disclaimer {
+  margin-top: 18px;
+  font-size: 12.8px;
+  color: #444;
+  line-height: 1.7;
+  background: #f8fafc;
+  padding: 12px 14px;
+  border-left: 4px solid #1a73e8;
+  border-radius: 6px;
+}
+
+/* Privacy */
+.privacy-note {
+  font-size: 12.5px;
+  color: #666;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.privacy-note a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.privacy-note a:hover {
+  text-decoration: underline;
+}
+
+/* Back to home */
+.contact-back {
+  text-align: center;
+  margin-top: 22px;
+}
+
+.contact-back a {
+  display: inline-block;
+  padding: 10px 22px;
+  background: #eef2f7;
+  color: #0b4ea2;
+  border-radius: 24px;
+  font-size: 13.5px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.contact-back a:hover {
+  background: #dde7ff;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .contact-wrapper {
+    padding: 28px 22px;
+  }
+
+  .contact-wrapper h1 {
+    font-size: 24px;
+  }
+}
+
+/* =====================================================
+   BACK TO HOME BUTTON – ADSENSE SAFE
+===================================================== */
+
+.back-home-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 22px;
+  background: #eef2f7;
+  color: #0b4ea2;
+  font-size: 13.5px;
+  font-weight: 600;
+  border-radius: 26px;
+  text-decoration: none;
+  border: 1px solid #d6e0ff;
+  transition: all 0.25s ease;
+}
+
+/* Hover */
+.back-home-btn:hover {
+  background: #dde7ff;
+  color: #083b82;
+  transform: translateY(-1px);
+}
+
+/* Focus (accessibility + AdSense friendly) */
+.back-home-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(11,78,162,0.18);
+}

@@ -1,6 +1,6 @@
 .header {
-  background: #c62828;
-  color: #fff;
+  background: #d75412;
+  color: #f7f7f7;
   display: flex;
   align-items: center;
   padding: 12px 20px;
@@ -35,7 +35,7 @@
 }
 
 .header {
-  background: #c62828;
+  background: #076aec;
   color: #fff;
   display: flex;
   align-items: center;

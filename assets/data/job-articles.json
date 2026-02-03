@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Indian-Bank",
+    "article": {
+      "title": "Indian Bank Internal Ombudsman Recruitment 2026 - Apply Offline",
+      "updated": "28 January 2026",
+      "board": "Indian Bank",
+
+      "content": [
+        "Indian Bank has released an official notification for the recruitment of 01 Internal Ombudsman Posts. Interested and eligible candidates can apply Offline through the official Indian Bank website. The last date to submit the application form is 11-02-2026. In this article, you’ll find the Indian Bank Internal Ombudsman Posts recruitment details, including eligibility criteria, age limit, salary structure, selection process, application steps, and direct links to the official notification and Offline application form.."
+      ],
+
+      "overview": {
+        "Organisation": "Indian Bank",
+        "Post Name": "Internal Ombudsman on Contractual Basis",
+        "Qualification": "Graduate",
+         "salary": "Negotiable",
+          "Age Limit": "Maximum 65 years as on 01 January 2026",
+           "Qualification": "Graduate",
+            "Qualification": "Graduate",
+        "Last Date": "11 February 2026"
+      },
+
+      "pdf": {
+        "label": "Official Notification (PDF)",
+        "url": "../assets/pdfs/indianbank.pdf"
+      }
+    }
+  },
+
+
+  {
+    "id": "central-bank-office-attendant-2026",
+    "title": "Central Bank of India Office Attendant Recruitment 2026",
+    "updated": "23 January 2026",
+    "author": "Central Bank of India",
+
+    "intro": "Central Bank of India has released Office Attendant recruitment notification.",
+
+    "paragraphs": [
+      "Candidates must have passed 10th standard.",
+      "Selection will be based on interview."
+    ],
+
+    "overview": {
+      "Organisation": "Central Bank of India",
+      "Post Name": "Office Attendant",
+      "Qualification": "10th",
+      "Last Date": "04 February 2026"
+    }
+  },
+
+  {
+    "id": "ssc-cgl-2025",
+    "title": "SSC CGL 2025 Notification",
+    "updated": "20 January 2026",
+    "author": "SSC",
+
+    "intro": "Staff Selection Commission has released SSC CGL 2025 notification.",
+
+    "paragraphs": [
+      "Graduate candidates are eligible.",
+      "Selection through Tier-I, Tier-II exams."
+    ],
+
+    "overview": {
+      "Organisation": "SSC",
+      "Post Name": "Combined Graduate Level",
+      "Qualification": "Graduate",
+      "Last Date": "10 February 2026"
+    }
+  }
+]

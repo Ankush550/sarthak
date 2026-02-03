@@ -1,71 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Central Government Schemes – Sarthak</title>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HG8H9C38KD');
-</script>
-
-  <!-- MAIN CSS -->
-  <link rel="stylesheet" href="../assets/css/main.css">
+<meta charset="UTF-8">
+<title>Central Government Schemes</title>
+<link rel="stylesheet" href="../assets/css/schemes.css">
 </head>
 
 <body>
 
-<div class="central-schemes-page">
-  <div class="central-schemes-box">
+<div class="container">
 
-    <h1 class="scheme-page-title">Central Government Schemes</h1>
-
-    <!-- 🔍 SEARCH BAR -->
-    <div class="scheme-filter">
-      <div class="search-box-ui">
-        <span>🔍</span>
-        <input
-          type="text"
-          id="schemeSearch"
-          placeholder="Scheme search karein..."
-        >
-      </div>
-    </div>
-
-    <!-- 🧱 SCHEME CARDS -->
-    <div class="scheme-grid" id="schemeGrid">
-
-      <a href="schemes/pm-awas.html" class="scheme-card">
-        <h3>PM Awas Yojana</h3>
-        <p>Housing scheme for all</p>
-      </a>
-
-      <a href="schemes/pm-kisan.html" class="scheme-card">
-        <h3>PM Kisan Yojana</h3>
-        <p>₹6000 annual farmer support</p>
-      </a>
-
-      <a href="schemes/pm-ujjwala.html" class="scheme-card">
-        <h3>PM Ujjwala Yojana</h3>
-        <p>Free LPG gas connection</p>
-      </a>
-
-    </div>
-
-    <!-- 🏠 BACK TO HOME -->
-    <div class="cs-back-home">
-      <a href="../index.html">🏠 Back to Home</a>
-    </div>
-
+  <!-- TOP INFO (STATIC) -->
+  <div id="selectedMinistryBox" class="info-card">
+    <h2>Central Government Schemes</h2>
+    <p>Choose a ministry to view its schemes</p>
   </div>
+
+  <!-- GRID -->
+  <div id="ministryGrid" class="grid"></div>
+
 </div>
 
-<!-- ✅ SEARCH FILTER SCRIPT (MANDATORY) -->
-<script src="../assets/js/filter.js"></script>
-
+<script src="../assets/js/central-schemes.js"></script>
+<a href="../index.html" class="back-btn">🏠 Back to Home</a>
 </body>
 </html>

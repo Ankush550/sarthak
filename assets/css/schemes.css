@@ -1,0 +1,493 @@
+body {
+  margin: 0;
+  font-family: Segoe UI, sans-serif;
+  background: #f4f6fb;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.info-card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  margin-bottom: 30px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
+  gap: 25px;
+}
+
+.card {
+  background: #fff;
+  padding: 22px;
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.1);
+  cursor: pointer;
+  transition: .3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+.scheme-card {
+  background: #fff;
+  padding: 24px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  margin-bottom: 20px;
+}
+
+.tags span {
+  display: inline-block;
+  background: #e0f2fe;
+  color: #0369a1;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin: 5px 6px 0 0;
+  font-size: 12px;
+}
+
+.back {
+  display: inline-block;
+  margin-top: 30px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* =========================
+   GLOBAL BASE
+========================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f4f6fb;
+  color: #0f172a;
+}
+
+/* =========================
+   CONTAINER
+========================= */
+.container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* =========================
+   PAGE TITLE / INFO CARD
+========================= */
+.info-card {
+  background: linear-gradient(135deg, #ffffff, #f8fafc);
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+  margin-bottom: 35px;
+}
+
+.info-card h2 {
+  margin: 0 0 10px;
+  font-size: 30px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.info-card p {
+  margin: 0;
+  font-size: 16px;
+  color: #475569;
+}
+
+/* =========================
+   MINISTRY GRID
+========================= */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+}
+
+/* =========================
+   MINISTRY CARD
+========================= */
+.card {
+  background: #ffffff;
+  padding: 26px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-left: 6px solid #22c55e;
+}
+
+.card h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.card p {
+  margin: 0;
+  font-size: 14px;
+  color: #64748b;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.12);
+  border-left-color: #16a34a;
+}
+
+/* =========================
+   SCHEME LIST (MINISTRY PAGE)
+========================= */
+#schemeList {
+  margin-top: 20px;
+}
+
+/* =========================
+   SCHEME CARD (DETAIL LIST)
+========================= */
+.scheme-card {
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 18px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+  margin-bottom: 22px;
+}
+
+.scheme-card h3 {
+  margin: 0 0 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.scheme-card p {
+  margin: 0 0 14px;
+  font-size: 15px;
+  color: #475569;
+  line-height: 1.7;
+}
+
+/* =========================
+   TAGS (CHIPS)
+========================= */
+.tags {
+  margin-top: 8px;
+}
+
+.tags span {
+  display: inline-block;
+  background: #ecfeff;
+  color: #0369a1;
+  border: 1px solid #bae6fd;
+  padding: 6px 14px;
+  border-radius: 999px;
+  margin: 6px 8px 0 0;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* =========================
+   BACK LINK
+========================= */
+.back {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 26px;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 999px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.back:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(37,99,235,0.35);
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+@media (max-width: 768px) {
+  .info-card h2 {
+    font-size: 24px;
+  }
+
+  .card h3 {
+    font-size: 16px;
+  }
+
+  .scheme-card h3 {
+    font-size: 18px;
+  }
+}
+
+/* =========================
+   MINISTRY PAGE ENHANCED LOOK
+========================= */
+
+/* Page wrapper */
+.ministry-page {
+  margin-top: 30px;
+}
+
+/* ===== HERO HEADER ===== */
+.ministry-hero {
+  background: linear-gradient(
+      135deg,
+      rgba(34, 197, 94, 0.12),
+      rgba(37, 99, 235, 0.12)
+  );
+  border: 1px solid #e5e7eb;
+  padding: 40px 45px;
+  border-radius: 22px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.ministry-hero h2 {
+  font-size: 34px;
+  font-weight: 800;
+  margin: 0 0 12px;
+  color: #0f172a;
+}
+
+.ministry-hero p {
+  font-size: 17px;
+  color: #475569;
+  max-width: 850px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* ===== SCHEME GRID ===== */
+.scheme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 26px;
+}
+
+/* ===== SCHEME CARD UPGRADE ===== */
+.scheme-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 14px 40px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Left accent bar */
+.scheme-card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 6px;
+  height: 100%;
+  background: linear-gradient(180deg, #22c55e, #16a34a);
+}
+
+.scheme-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 55px rgba(0,0,0,0.14);
+}
+
+.scheme-card h3 {
+  font-size: 22px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  color: #0f172a;
+}
+
+.scheme-card p {
+  font-size: 15px;
+  color: #475569;
+  line-height: 1.7;
+}
+
+/* ===== TAGS IMPROVED ===== */
+.scheme-card .tags {
+  margin-top: 16px;
+}
+
+.scheme-card .tags span {
+  background: #ecfeff;
+  color: #0369a1;
+  border: 1px solid #bae6fd;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  margin: 6px 6px 0 0;
+  display: inline-block;
+}
+
+/* ===== BACK BUTTON CENTERED ===== */
+.back-wrap {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+  .ministry-hero {
+    padding: 28px 20px;
+  }
+
+  .ministry-hero h2 {
+    font-size: 26px;
+  }
+
+  .scheme-card h3 {
+    font-size: 19px;
+  }
+}
+
+/* =========================
+   BACK TO HOME BUTTON
+========================= */
+
+.back-home-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 40px auto 0;
+  padding: 12px 28px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #1e40af;
+  background: linear-gradient(135deg, #e0e7ff, #f8fafc);
+  border: 1px solid #c7d2fe;
+  border-radius: 999px;
+  text-decoration: none;
+  box-shadow: 0 8px 25px rgba(30,64,175,0.15);
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+.back-home-btn:hover {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
+  transform: translateY(-3px);
+  box-shadow: 0 14px 35px rgba(37,99,235,0.35);
+}
+
+/* Mobile center */
+@media (max-width: 768px) {
+  .back-home-btn {
+    justify-content: center;
+    width: fit-content;
+  }
+}
+
+.back-home-btn {
+  margin-left: 0;
+}
+
+.page-header {
+  background: linear-gradient(
+      135deg,
+      rgba(16, 185, 129, 0.08),
+      rgba(255, 255, 255, 1)
+    );
+  border-radius: 16px;
+  padding: 32px 36px;
+  margin-bottom: 32px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  position: relative;
+  overflow: hidden;
+}
+
+.page-header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 6px;
+  height: 100%;
+  background: linear-gradient(to bottom, #22c55e, #16a34a);
+  border-radius: 6px 0 0 6px;
+}
+
+.page-header-content h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 8px;
+}
+
+.page-header-content p {
+  font-size: 15px;
+  color: #475569;
+  max-width: 520px;
+  line-height: 1.6;
+}
+
+.back-btn-wrapper {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.back-btn {
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  color: #0f172a;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.back-btn:hover {
+  background: #e2e8f0;
+  transform: translateX(-3px);
+}
+
+.back-btn-wrapper {
+  margin-top: 32px;
+}
+
+.back-btn-dark {
+  background: linear-gradient(135deg, #0f172a, #1e3a8a);
+  color: #ffffff;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(30, 58, 138, 0.35);
+  transition: all 0.25s ease;
+}
+
+.back-btn-dark:hover {
+  background: linear-gradient(135deg, #020617, #1d4ed8);
+  transform: translateX(-5px);
+  box-shadow: 0 12px 28px rgba(29, 78, 216, 0.45);
+}
+
+.back-btn-dark:active {
+  transform: translateX(-2px) scale(0.98);
+}
+
+

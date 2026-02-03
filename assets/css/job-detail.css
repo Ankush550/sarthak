@@ -1,12 +1,231 @@
-body {
-  background:#f4f6fb;
-  font-family: Arial;
+/* =====================================================
+   GLOBAL BASE
+===================================================== */
+
+* {
+  box-sizing: border-box;
 }
 
-.detail-box {
-  max-width: 800px;
-  margin: 40px auto;
-  background: #fff;
-  padding: 25px;
-  border-radius: 12px;
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, sans-serif;
+  background: radial-gradient(circle at top, #0f172a, #020617);
+  color: #e5e7eb;
+}
+
+/* =====================================================
+   MAIN LAYOUT
+===================================================== */
+
+.job-detail-layout {
+  display: grid;
+  grid-template-columns: 420px 1fr;
+  gap: 40px;
+  max-width: 1400px;
+  margin: 60px auto;
+  padding: 0 30px;
+}
+
+/* =====================================================
+   LEFT PANEL (JOB SUMMARY)
+===================================================== */
+
+.job-left {
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 18px;
+  padding: 30px;
+  height: fit-content;
+}
+
+.job-left h1 {
+  font-size: 30px;
+  font-weight: 800;
+  color: #38bdf8;
+  margin-bottom: 22px;
+}
+
+.job-left p {
+  font-size: 16px;
+  margin-bottom: 14px;
+  line-height: 1.6;
+}
+
+.job-left b {
+  color: #93c5fd;
+}
+
+.job-left a {
+  color: #38bdf8;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.job-left a:hover {
+  text-decoration: underline;
+}
+
+/* =====================================================
+   RIGHT PANEL (HIGHLIGHTED ARTICLE AREA)
+===================================================== */
+
+.job-right {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* =====================================================
+   ARTICLE BOX
+===================================================== */
+
+#articleBox {
+  width: 100%;
+  max-width: 950px;
+  background: linear-gradient(180deg, #020617, #020617);
+  padding: 50px 55px;
+  border-radius: 22px;
+  border: 1px solid #1e293b;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.7);
+}
+
+/* Title */
+#articleBox h2 {
+  font-size: 38px;
+  font-weight: 800;
+  color: #38bdf8;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+/* Meta */
+#articleBox .meta {
+  text-align: center;
+  font-size: 15px;
+  color: #94a3b8;
+  margin-bottom: 30px;
+}
+
+/* Paragraphs */
+#articleBox p {
+  font-size: 18px;
+  line-height: 1.9;
+  margin-bottom: 16px;
+}
+
+/* Section heading */
+#articleBox h3 {
+  margin-top: 40px;
+  margin-bottom: 18px;
+  font-size: 26px;
+  font-weight: 700;
+  color: #22c55e;
+  border-left: 4px solid #22c55e;
+  padding-left: 12px;
+}
+
+/* =====================================================
+   OVERVIEW TABLE
+===================================================== */
+
+.overview-table {
+  width: 100%;
+  margin-top: 10px;
+  border-collapse: collapse;
+  background: #020617;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.overview-table tr {
+  border-bottom: 1px solid #1e293b;
+}
+
+.overview-table tr:last-child {
+  border-bottom: none;
+}
+
+.overview-table td {
+  padding: 14px 18px;
+  font-size: 16px;
+}
+
+.overview-table td:first-child {
+  width: 40%;
+  font-weight: 700;
+  color: #93c5fd;
+}
+
+.overview-table td:last-child {
+  text-align: right;
+}
+
+/* =====================================================
+   PDF DOWNLOAD BOX
+===================================================== */
+
+.pdf-box {
+  margin: 30px auto;
+  padding: 18px;
+  max-width: 650px;
+  background: #020617;
+  border: 1px dashed #38bdf8;
+  border-radius: 14px;
+  text-align: center;
+}
+
+.pdf-box a {
+  color: #38bdf8;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.pdf-box a:hover {
+  text-decoration: underline;
+}
+
+/* =====================================================
+   BACK BUTTON
+===================================================== */
+
+.back-btn {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 14px 42px;
+  font-size: 18px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #38bdf8, #2563eb);
+  color: #fff;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 40px rgba(56, 189, 248, 0.45);
+}
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 992px) {
+  .job-detail-layout {
+    grid-template-columns: 1fr;
+  }
+
+  #articleBox {
+    padding: 30px 25px;
+  }
+
+  #articleBox h2 {
+    font-size: 30px;
+  }
+
+  #articleBox p {
+    font-size: 16px;
+  }
 }

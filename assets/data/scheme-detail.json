@@ -1,0 +1,488 @@
+[
+  {
+    "id": "nts-pg",
+    "title": "National Talent Scholarship (Postgraduate)",
+    "ministry": "agriculture",
+    "category": "Agriculture • Postgraduate • Scholarship",
+    "tags": ["Agriculture", "Scholarship", "Postgraduate", "ICAR"],
+    "intro": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research (ICAR) to support students pursuing a Master's degree in agriculture outside their state of domicile.",
+    "details": [
+      "Launched by Indian Council of Agricultural Research (ICAR)",
+      "Applicable for ICAR-recognized Agricultural Universities",
+      "Student must pursue studies outside the state of domicile"
+    ],
+    "benefits": [
+      "₹3,000 per month scholarship",
+      "Scholarship provided for the full postgraduate duration",
+      "No contingency grant is paid"
+    ],
+    "eligibility": [
+      "Applicant must be a postgraduate agriculture student",
+      "Must study outside the domicile state",
+      "Should not receive any other scholarship",
+      "Must maintain good academic performance and conduct"
+    ],
+    "documents": [
+      "Recent Photograph",
+      "Signature",
+      "Thumb Impression"
+    ],
+    "application": {
+      "mode": "Online",
+      "website": "https://icar.nta.ac.in",
+      "steps": [
+        "Visit the ICAR NTA official website",
+        "Complete online registration",
+        "Fill the application form",
+        "Upload required documents",
+        "Submit the application"
+      ]
+    }
+  },
+
+  {
+    "id": "education-scholarship-pg",
+    "title": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+    "ministry": "education",
+    "category": "Education • Postgraduate • Scholarship",
+    "tags": ["Education", "Scholarship", "SC", "ST", "Postgraduate"],
+    "intro": "This scheme provides financial assistance to SC/ST students pursuing postgraduate studies in professional courses such as Engineering, Management, Pharmacy and Technology.",
+    "details": [
+      "Scholarship for SC/ST postgraduate students",
+      "Applicable to professional courses like Engineering, Technology, Management and Pharmacy",
+      "Applicable in recognized Indian Universities and Institutions"
+    ],
+    "benefits": [
+      "₹7,800 per month for ME/M.Tech students",
+      "₹4,500 per month for other professional postgraduate courses",
+      "Scholarship tenure limited to course duration (2–3 years)",
+      "No contingency grant provided"
+    ],
+    "eligibility": [
+      "Applicant must belong to SC or ST category",
+      "Must have completed graduation in a relevant discipline",
+      "Must be admitted to a full-time regular postgraduate professional course",
+      "Only first-year postgraduate students are eligible",
+      "Institution must be recognized by UGC / Central / State Government"
+    ],
+    "documents": [
+      "Photograph",
+      "Signature",
+      "Thumb Impression"
+    ],
+    "application": {
+      "mode": "Online",
+      "website": "https://scholarships.gov.in",
+      "steps": [
+        "Register on National Scholarship Portal",
+        "Fill postgraduate scholarship application form",
+        "Upload required documents",
+        "Submit application online"
+      ]
+    }
+  },
+
+  {
+    "id": "pragati-scholarship-girls",
+    "title": "Pragati Scholarship Scheme for Girl Students (Technical Degree)",
+    "ministry": "education",
+    "category": "Education • Technical Degree • Scholarship",
+    "tags": ["Education", "Scholarship", "Girls", "AICTE", "Technical"],
+    "intro": "Pragati Scholarship Scheme by AICTE provides financial assistance to girl students pursuing technical degree courses in AICTE-approved institutions.",
+    "details": [
+      "Implemented by AICTE under Ministry of Education",
+      "Applicable for first-year and lateral-entry students",
+      "Maximum two girl children per family are eligible",
+      "Scholarship duration up to 4 years or 3 years for lateral entry"
+    ],
+    "benefits": [
+      "₹50,000 per annum as lump sum",
+      "Can be used for fees, books, computer, software and equipment"
+    ],
+    "eligibility": [
+      "Applicant must be a girl student",
+      "Must be admitted to first year or lateral entry of a technical degree course",
+      "Family annual income must not exceed ₹8,00,000",
+      "Applicable for selected Union Territories and North Eastern States"
+    ],
+    "documents": [
+      "10th Certificate",
+      "12th / Diploma Certificate",
+      "Income Certificate",
+      "Category Certificate",
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Study Certificate",
+      "Parent Declaration"
+    ],
+    "application": {
+      "mode": "Online",
+      "website": "https://scholarships.gov.in",
+      "steps": [
+        "Register on National Scholarship Portal",
+        "Login using Application ID and password",
+        "Fill the application form",
+        "Upload required documents",
+        "Final submit the application",
+        "Track payment status via PFMS portal"
+      ]
+    }
+  },
+
+  {
+    "id": "Nikshay-Yojana",
+    "title": "Nikshay Poshan Yojana",
+    "ministry": "health",
+    "category": "Health • Nutrition • Welfare",
+    "tags": ["Health", "Tuberculosis", "Nutrition", "Financial Assistance"],
+    "intro": "Nikshay Poshan Yojana provides monthly nutritional financial assistance to tuberculosis (TB) patients during the course of their treatment.",
+    "details": [
+      "Launched in 2018 by the Ministry of Health and Family Welfare",
+      "Applicable to TB patients registered on the Nikshay portal",
+      "Aims to improve treatment outcomes by addressing malnutrition"
+    ],
+    "benefits": [
+      "₹1,000 per month financial assistance for each notified TB patient"
+    ],
+    "eligibility": [
+      "Patient must be diagnosed with tuberculosis (TB)",
+      "Patient must be notified on or after 1 April 2018",
+      "Patient must be registered on the Nikshay portal"
+    ],
+    "documents": [
+      "Bank Account Proof",
+      "Bank Passbook or Cancelled Cheque",
+      "Aadhaar Card (optional)",
+      "Consent or Declaration Form (if applicable)"
+    ],
+    "application": {
+      "mode": "Through Health Facility",
+      "website": "https://nikshay.in",
+      "steps": [
+        "Patient submits Aadhaar-linked bank account details to TB health provider",
+        "Health staff enters details in Nikshay portal",
+        "Bank details validated via PFMS",
+        "Monthly incentive credited to the validated bank account"
+      ]
+    }
+  },
+
+  {
+    "id": "Minority-Affairs",
+    "title": "Coaching Scheme for SC/ST/OBC (Non-Creamy Layer) & Minority Students",
+    "ministry": "minority",
+    "category": "Education • Coaching • Welfare",
+    "tags": ["Coaching", "SC", "ST", "OBC", "Minority", "Students"],
+    "intro": "This scheme provides financial assistance to universities and institutions for coaching SC, ST, OBC (Non-Creamy Layer) and Minority students to improve access to higher education and competitive exams.",
+    "details": [
+      "Provides coaching support at UG and PG levels",
+      "Includes coaching for competitive exams, NET and entry into services",
+      "Assistance provided to universities over and above general development grants"
+    ],
+    "benefits": [
+      "One-time non-recurring grant up to ₹5 lakh for equipment and learning material",
+      "Recurring assistance up to ₹7 lakh per year for coaching-related expenses"
+    ],
+    "eligibility": [
+      "Universities and colleges recognized under UGC Act",
+      "Institutions with sufficient SC, ST, OBC and Minority student strength",
+      "BPL general category students may also be considered in limited cases"
+    ],
+    "documents": [
+      "Institution Recognition Certificate",
+      "Student Category Certificate",
+      "Academic Records",
+      "Bank Account Details"
+    ],
+    "application": {
+      "mode": "Offline / Online (Institution Level)",
+      "website": "https://www.ugc.ac.in",
+      "steps": [
+        "Institution submits proposal to UGC",
+        "UGC evaluates eligibility and proposal",
+        "Approved institutions receive financial assistance",
+        "Coaching programs are implemented by institutions"
+      ]
+    }
+  },
+
+  {
+    "id": "Ministry-Culture",
+    "title": "Seva Bhoj Yojna",
+    "ministry": "culture",
+    "category": "Culture • Free Food • Welfare",
+    "tags": ["Free Food", "Langar", "Prasad", "GST Reimbursement", "Religious Institutions"],
+    "intro": "Seva Bhoj Yojna is a scheme by the Ministry of Culture to support charitable and religious institutions that provide free food to the public by reimbursing GST paid on selected food items.",
+    "details": [
+      "Launched in August 2018 by the Ministry of Culture",
+      "Applicable across India",
+      "Supports institutions serving free food such as Langar, Prasad or Bhandara",
+      "Reimburses Central GST (CGST) and Central share of IGST paid on food items",
+      "Applications are accepted every month from 1st to 15th"
+    ],
+    "benefits": [
+      "Reimbursement of GST paid on raw food items like rice, wheat flour, pulses, sugar, edible oil and ghee",
+      "Helps reduce operational cost of free food services",
+      "Encourages charitable and religious food distribution"
+    ],
+    "eligibility": [
+      "Applicant must be a registered charitable or religious institution",
+      "Institution must be distributing free food for at least the last 3 years",
+      "Must serve free food to a minimum of 5,000 people per month",
+      "Institution should not be receiving similar financial assistance from any other government scheme"
+    ],
+    "exclusion": [
+      "Institutions blacklisted under FCRA or any Central/State Government Act are not eligible"
+    ],
+    "documents": [
+      "Registration Certificate of Institution",
+      "PAN / TAN of the Institution",
+      "Audited Accounts of last 3 years",
+      "Annual Reports (if available)",
+      "Self-declaration for free food distribution",
+      "Bank Authorization Letter",
+      "Invoices for purchase of raw food items"
+    ],
+    "application": {
+      "mode": "Online (Institution Level)",
+      "website": "https://seva-bhoj.nic.in",
+      "steps": [
+        "Register the institution on NGO Darpan Portal (NITI Aayog)",
+        "Enroll on the CSMS portal of Ministry of Culture",
+        "Upload required documents and registration details",
+        "Obtain unique enrollment number from Ministry of Culture",
+        "Submit GST reimbursement claims through the portal",
+        "GST authorities verify and approve the claim",
+        "Reimbursement amount is released to the institution"
+      ]
+    }
+  },
+
+  {
+  "id": "Ministry-Finance",
+  "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "ministry": "finance",
+  "category": "Accident Insurance • Social Security • Bank Account Holders",
+  "tags": ["Accident Insurance", "Social Security", "Bank Account Holder", "Death Insurance"],
+  "intro": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is a government-backed accident insurance scheme that provides financial protection in case of accidental death or disability at a very low annual premium.",
+  "details": [
+    "Launched by the Government of India to provide accident insurance coverage",
+    "Covers accidental death and permanent disability",
+    "Insurance coverage is valid for one year and renewable annually",
+    "Premium is auto-debited from the subscriber’s bank or post office account"
+  ],
+  "benefits": [
+    "₹2,00,000 in case of accidental death",
+    "₹2,00,000 for total and irrecoverable loss of both eyes or loss of use of both hands or feet",
+    "₹1,00,000 for total and irrecoverable loss of one eye or loss of use of one hand or foot"
+  ],
+  "eligibility": [
+    "Individual must be a bank or post office account holder",
+    "Age should be between 18 years and 70 years",
+    "Subscriber must give consent for auto-debit of premium",
+    "Sufficient balance must be maintained in the account"
+  ],
+  "documents": [
+    "Bank Account Details",
+    "Aadhaar Card (if available)",
+    "Consent-cum-declaration form"
+  ],
+  "application": {
+    "mode": "Online / Offline (via Bank or Post Office)",
+    "website": "https://jansuraksha.gov.in/Forms-PMSBY.aspx",
+    "steps": [
+      "Visit the bank branch or post office where you have a savings account",
+      "Alternatively, download the PMSBY application form from the official website",
+      "Fill in the required details and submit the form to the bank or post office",
+      "Provide consent for auto-debit of annual premium",
+      "After successful enrolment, insurance coverage starts from 1st June"
+    ]
+  }
+},
+
+{
+  "id": "Ministry-External",
+  "title": "Pravasi Bharatiya Bima Yojana (PBBY)",
+  "ministry": "external-affairs",
+  "category": "Overseas Workers • Insurance • Social Security",
+  "tags": [
+    "Overseas Employment",
+    "Insurance",
+    "Migrant Workers",
+    "Medical Cover",
+    "External Affairs"
+  ],
+  "intro": "Pravasi Bharatiya Bima Yojana (PBBY) is a mandatory insurance scheme introduced by the Ministry of External Affairs (MEA) to safeguard Indian emigrant workers, especially those under the Emigration Check Required (ECR) category, going abroad for employment.",
+  "details": [
+    "Mandatory insurance scheme for Indian emigrant workers under ECR category",
+    "Applicable to workers going to notified ECR countries for overseas employment",
+    "Provides comprehensive insurance coverage irrespective of change in employer or job location",
+    "Insurance policy must be obtained before emigration clearance",
+    "Online policy issuance and renewal facility available",
+    "Aims at speedy settlement of insurance claims through simplified procedures",
+    "Certification by Indian Missions / Posts abroad is accepted for claim processing"
+  ],
+  "benefits": [
+    "₹10,00,000 insurance cover in case of accidental death or permanent disability during overseas employment",
+    "Medical insurance cover up to ₹1,00,000 for injuries, sickness or diseases (maximum ₹50,000 per hospitalization)",
+    "Repatriation expenses covered for medically unfit workers or premature termination of employment (one-way economy airfare to India)",
+    "Family hospitalization in India covered up to ₹50,000 for spouse and first two dependent children up to 21 years of age",
+    "Maternity benefit for women emigrants available up to ₹50,000",
+    "Reimbursement of one-way return economy airfare for one attendant in case of accidental death or permanent disability of the insured",
+    "Legal expenses related to overseas employment disputes covered up to ₹45,000",
+    "Facility for online renewal of insurance policy"
+  ],
+  "eligibility": [
+    "Applicant must be an Indian emigrant cleared for overseas employment",
+    "Applicable to Emigration Check Required (ECR) passport holders",
+    "Age of the applicant should be between 18 and 65 years",
+    "Must be traveling to a notified ECR country for employment"
+  ],
+  "documents": [
+    "Valid Passport (all pages copy)",
+    "Employment Visa / Work Permit",
+    "Emigration Clearance Certificate",
+    "Insurance Policy Certificate",
+    "Medical Records (in case of injury or disability)",
+    "Police Report (in case of accidental death)",
+    "Post-Mortem Report (if applicable)",
+    "Certificate from Indian Embassy / Mission abroad",
+    "Disability Certificate issued by competent medical authority (for disability claims)"
+  ],
+  "application": {
+    "mode": "Online / Offline (through authorized insurance companies)",
+    "website": "https://www.mea.gov.in",
+    "steps": [
+      "Before applying, keep passport, visa, work permit and employment details ready",
+      "Choose an authorized insurance provider offering PBBY policy",
+      "Fill the online PBBY application form with personal and travel details",
+      "Select the insurance plan as per duration of overseas employment",
+      "Make payment through available online modes such as UPI, debit card, credit card or net banking",
+      "After successful payment, download and save the insurance policy certificate",
+      "Submit the insurance policy details during emigration clearance process",
+      "Policy can be renewed online if employment period is extended"
+    ]
+  }
+},
+
+{
+  "id": "Commu",
+  "title": "National Centre for Communication Security (NCCS) Internship Scheme",
+  "ministry": "communications",
+  "category": "Cyber Security • Internship • Technical Training",
+  "tags": [
+    "Cyber Security",
+    "Internship",
+    "NCCS",
+    "Telecom Security",
+    "Government Internship"
+  ],
+  "intro": "The National Centre for Communication Security (NCCS) Internship Scheme provides an opportunity to young scholars to gain practical exposure in advanced areas of communication and cyber security while contributing to the technical work of NCCS.",
+  "details": [
+    "Internships are offered on a quarterly basis",
+    "Interns work with NCCS divisions under the guidance of senior officers",
+    "Focus areas include hardware security, source code analysis, cryptography, malware detection and network vulnerabilities",
+    "An orientation workshop is conducted at the beginning of the internship",
+    "Interns are required to submit a final report at the end of the internship",
+    "The total number of interns at any time shall not exceed 20"
+  ],
+  "duration": [
+    "Category I: Minimum 60 days",
+    "Category II: Minimum 6 months, extendable up to 12 months with approval"
+  ],
+  "eligibility": [
+    "Category I: Indian students in 3rd or 4th year (pre-final/final year) of Bachelor’s degree in Electronics, Communication, Telecommunication, IT, Computer Science or related disciplines with minimum 60% marks",
+    "Category II: Indian graduates or postgraduates in Electronics, Communication, Telecommunication, IT, Computer Science or related disciplines with minimum 60% marks",
+    "Students pursuing or having completed postgraduate degrees are also eligible under Category II",
+    "Relaxation in qualifications may be considered in deserving cases",
+    "Meeting minimum eligibility does not guarantee selection"
+  ],
+  "documents": [
+    "Proof of Date of Birth (Class 10 certificate)",
+    "Class 12 mark sheet",
+    "Engineering graduation mark sheets (completed semesters)",
+    "Degree certificate (for Category II, if applicable)",
+    "Postgraduate degree/mark sheets (if applicable)",
+    "CGPA to percentage conversion proof (if applicable)",
+    "Internship or work experience certificates (if available)",
+    "Updated CV / Resume"
+  ],
+  "application": {
+    "mode": "Online + Offline (Email Submission Mandatory)",
+    "website": "https://nccs.gov.in",
+    "steps": [
+      "Check the official NCCS notification for the relevant quarter",
+      "Download and fill the prescribed application form (Annexure-II)",
+      "Prepare CV and clearly mention areas of interest",
+      "Email the completed application to jtohq.nccs-dot@gov.in with a copy to adethq.nccs-dot@gov.in",
+      "Select the internship category (Category I or Category II) in the application",
+      "Shortlisted candidates may be called for interview (physical or telephonic)",
+      "Selected interns must submit a No Objection Certificate from their institution before joining"
+    ]
+  },
+  "notes": [
+    "Applications must be submitted in the quarter preceding the intended internship period",
+    "The internship does not guarantee employment with NCCS",
+    "No TA/DA will be provided for interviews or internship"
+  ]
+},
+
+[
+  {
+    "id": "Ankush",
+    "title": "National Centre for Communication Security (NCCS) Internship Scheme",
+    "ministry": "communications",
+    "category": "Cyber Security • Internship • Technical Training",
+    "tags": [
+      "Cyber Security",
+      "Internship",
+      "NCCS",
+      "Telecom Security",
+      "Government Internship"
+    ],
+    "intro": "The National Centre for Communication Security (NCCS) Internship Scheme offers young scholars hands-on exposure in advanced communication and cyber security domains while contributing to NCCS technical work.",
+    "details": [
+      "Internships are offered on a quarterly basis",
+      "Interns work under NCCS divisions and senior officers",
+      "Key focus areas include hardware security, cryptography, source code analysis, malware detection and network vulnerabilities",
+      "Orientation workshop is conducted at the start of internship",
+      "Maximum 20 interns are engaged at any given time"
+    ],
+    "benefits": [
+      "Exposure to real-world cyber and telecom security projects",
+      "Guidance from senior government technical experts",
+      "Certificate of Internship on successful completion",
+      "Opportunity to publish technical report or paper"
+    ],
+    "eligibility": [
+      "Category I: Indian students in 3rd or 4th year of Bachelor’s degree in Electronics, Communication, IT, Computer Science or related fields with minimum 60% marks",
+      "Category II: Indian graduates or postgraduates in Electronics, Communication, IT, Computer Science or related fields with minimum 60% marks",
+      "Qualification relaxation may be granted in deserving cases",
+      "Meeting eligibility criteria does not guarantee selection"
+    ],
+    "documents": [
+      "Class 10 certificate (Date of Birth proof)",
+      "Class 12 mark sheet",
+      "Engineering graduation mark sheets",
+      "Degree certificate (for Category II, if applicable)",
+      "Postgraduate certificates (if applicable)",
+      "CGPA to percentage conversion proof",
+      "Internship or work experience certificates (if any)",
+      "Updated CV / Resume"
+    ],
+    "application": {
+      "mode": "Online + Offline (Email submission mandatory)",
+      "website": "https://nccs.gov.in",
+      "steps": [
+        "Check NCCS official notification for the relevant quarter",
+        "Download and fill the prescribed application form (Annexure-II)",
+        "Prepare CV and clearly mention preferred work areas",
+        "Email application to jtohq.nccs-dot@gov.in with CC to adethq.nccs-dot@gov.in",
+        "Mention internship category (Category I or II) in the application",
+        "Shortlisted candidates may be called for interview",
+        "Submit No Objection Certificate from institution before joining"
+      ]
+    }
+  }
+]
+]

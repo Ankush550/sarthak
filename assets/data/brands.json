@@ -1,0 +1,5 @@
+[
+  { "id": "samsung", "name": "Samsung" },
+  { "id": "vivo", "name": "Vivo" },
+  { "id": "xiaomi", "name": "Xiaomi" }
+]

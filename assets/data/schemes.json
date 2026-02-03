@@ -1,14 +1,112 @@
-[
-  {
-    "title": "PM Awas Yojana",
-    "desc": "Housing scheme for poor families"
+{
+  "agriculture": {
+    "title": "Ministry of Agriculture & Farmers Welfare",
+    "desc": "Schemes related to farmers, agriculture and rural support.",
+    "schemes": [
+      {
+        "id": "nts-pg",
+        "name": "National Talent Scholarship (PG)",
+        "details": "Merit based scholarship for agriculture postgraduate students.",
+        "tags": ["Agriculture", "Scholarship", "Postgraduate"]
+      }
+    ]
   },
-  {
-    "title": "PM Kisan Yojana",
-    "desc": "₹6000 annual support for farmers"
+
+  "education": {
+    "title": "Ministry of Education",
+    "desc": "Schemes related to education and student welfare.",
+    "schemes": [
+      {
+        "id": "education-scholarship-pg",
+        "name": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+        "details": "Scholarship support for postgraduate students.",
+        "tags": ["Education", "Scholarship", "Postgraduate"]
+      },
+      {
+        "id": "pragati-scholarship-girls",
+        "name": "Pragati Scholarship Scheme for Girl Students",
+        "details": "Pragati Scholarship Scheme for girl students pursuing technical degree education.",
+        "tags": ["Education", "Scholarship", "Girls", "Technical"]
+      }
+    ]
   },
-  {
-    "title": "Ladli Laxmi Yojana",
-    "desc": "Financial help for girl child"
+
+  "health": {
+    "title": "Ministry of Health",
+    "desc": "Schemes related to Health & family welfare.",
+    "schemes": [
+      {
+        "id": "Nikshay-Yojana",
+        "name": "Nikshay Poshan Yojana",
+        "details": "Health support.",
+        "tags": ["Finalcial Assistance", "Health"]
+      }
+    ]
+  },
+
+  "Minority": {
+    "title": "Ministry of Minority",
+    "desc": "Schemes related to Minority affairs.",
+    "schemes": [
+      {
+        "id": "Minority-Affairs",
+        "name": "Coaching Schemes For Sc/st/obc (non-creamy Layer) & Minority Students For Universities",
+        "details": "Coaching Scheme for minority Students.",
+        "tags": ["Coaching Assistance", "SC/ST", "OBC"]
+      }
+    ]
+  },
+  "Culture": {
+    "title": "Ministry of Culture",
+    "desc": "Schemes related to Cultures of India.",
+    "schemes": [
+      {
+        "id": "Ministry-Culture",
+        "name": "Seva Bhoj Yojna",
+        "details": "Seva Bhoj Yojna.",
+        "tags": ["Bhoj", "Free Food", "Prasad"]
+      }
+    ]
+  },
+
+  "Finance": {
+    "title": "Ministry of Finance",
+    "desc": "Schemes related to Ministry of finance.",
+    "schemes": [
+      {
+        "id": "Ministry-Finance",
+        "name": "Pradhan Mantri Suraksha Bima Yojana",
+        "details": "Pradhan Mantri Suraksha Bima Yojana.",
+        "tags": ["Accident Insurance", "Bank Account Holder", "Death Insurance"]
+      }
+    ]
+  },
+
+  "External Affairs": {
+    "title": "Ministry of External Affairs",
+    "desc": "Schemes related to Ministry of External Affairs.",
+    "schemes": [
+      {
+        "id": "Ministry-External",
+        "name": "Pravasi Bharatiya Bima Yojana",
+        "details": "Pravasi Bharatiya Bima Yojana.",
+        "tags": ["Employment", "Finalcial Assistance", "Medical Insurance"]
+      }
+    ]
+  },
+
+"Communication": {
+    "title": "Ministry of Communication",
+    "desc": "Schemes related to Ministry of Communication.",
+    "schemes": [
+      {
+        "id": "",
+        "name": "National Centre For Communication Security (NCCS) Internship Scheme",
+        "details": "National Centre For Communication Security (NCCS) Internship Scheme.",
+        "tags": ["Bangalore", "Cyber Security", "Internship","Students"]
+      }
+    ]
   }
-]
+}
+
+

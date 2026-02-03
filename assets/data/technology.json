@@ -1,0 +1,262 @@
+{
+  "page": {
+    "title": "Technology & Digital Services",
+    "intro": "Easy-to-understand guides on digital services, technology problems, AI tools and cyber safety. Information is shared strictly for educational and awareness purposes only."
+  },
+
+  "categories": [
+    {
+      "id": "mobile-apps",
+      "icon": "📱",
+      "title": "Mobile & App Help",
+      "description": "Guides related to mobile phone problems, WhatsApp issues, Google account recovery and smartphone security.",
+      "articles": [
+        {
+          "id": "mobile-phone-lost",
+          "title": "Mobile Phone Lost – What To Do?",
+          "summary": "Complete step-by-step guide to block SIM, protect personal data and track a lost or stolen mobile phone.",
+          "content": {
+            "intro": "Losing a mobile phone can be stressful because it contains personal data, banking apps, emails and private photos. Immediate action can help prevent misuse and financial loss.",
+            "steps": [
+              "Immediately block your SIM card by calling your mobile network operator customer care",
+              "Use Google Find My Device (Android) or Find My iPhone (Apple) to locate, lock or erase your phone",
+              "Change passwords of important accounts such as Google, WhatsApp, Facebook and banking apps",
+              "Inform your bank if mobile banking or UPI apps were installed",
+              "File a police complaint if required for insurance or phone recovery"
+            ],
+            "tips": [
+              "Always enable screen lock and biometric security",
+              "Keep Find My Device turned ON",
+              "Avoid saving sensitive passwords in notes or gallery"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Can I track my phone if it is switched off?",
+              "a": "You can only see the last known location when the phone was online using Google Find My Device or iCloud."
+            },
+            {
+              "q": "Is filing an FIR compulsory?",
+              "a": "FIR is not always mandatory, but it is required for insurance claims or phone blocking in some cases."
+            }
+          ]
+        },
+
+        {
+          "id": "whatsapp-hacked",
+          "title": "WhatsApp Account Hacked – Recovery Guide",
+          "summary": "How to recover a hacked WhatsApp account and secure it from future attacks.",
+          "content": {
+            "intro": "WhatsApp account hacking usually happens through OTP scams or SIM swap fraud. Acting quickly can help you regain control.",
+            "steps": [
+              "Reinstall WhatsApp and verify your number again",
+              "Request OTP and do not share it with anyone",
+              "Enable two-step verification from WhatsApp settings",
+              "Email WhatsApp support if account access is blocked"
+            ],
+            "tips": [
+              "Never share OTP with anyone claiming to be from WhatsApp",
+              "Enable email recovery option in WhatsApp"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Can hackers read my old chats?",
+              "a": "No, chats are end-to-end encrypted unless backup access is compromised."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "govt-digital",
+      "icon": "🏛",
+      "title": "Government Digital Services",
+      "description": "Help guides for DigiLocker, UMANG, Parivahan, PF and Income Tax portals.",
+      "articles": [
+        {
+          "id": "digilocker-issues",
+          "title": "DigiLocker Login Problem – Solution",
+          "summary": "Solutions for DigiLocker login issues, OTP problems and missing documents.",
+          "content": {
+            "intro": "DigiLocker is widely used for storing Aadhaar, driving license and academic documents. Login issues are common due to OTP or Aadhaar mismatch.",
+            "steps": [
+              "Ensure your mobile number is linked with Aadhaar",
+              "Retry login using Aadhaar or mobile option",
+              "Clear browser cache or update DigiLocker app",
+              "Contact DigiLocker support if documents are missing"
+            ],
+            "tips": [
+              "Always keep Aadhaar mobile number updated",
+              "Use official DigiLocker app only"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Is DigiLocker legally valid?",
+              "a": "Yes, DigiLocker documents are legally valid as per Government of India guidelines."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "banking-tech",
+      "icon": "💳",
+      "title": "Banking & FinTech Help",
+      "description": "UPI transaction issues, debit card problems and online banking safety.",
+      "articles": [
+        {
+          "id": "upi-failed-refund",
+          "title": "UPI Transaction Failed – Refund Process",
+          "summary": "Step-by-step process to raise complaint and get refund for failed UPI transactions.",
+          "content": {
+            "intro": "UPI failures may happen due to server issues or connectivity problems. Refunds are usually processed automatically.",
+            "steps": [
+              "Wait for 24–48 hours for automatic reversal",
+              "Check transaction status in your UPI app",
+              "Raise complaint via bank or UPI app",
+              "Contact bank customer support if refund not received"
+            ],
+            "tips": [
+              "Always note transaction ID",
+              "Avoid retrying payment multiple times"
+            ]
+          },
+          "faq": [
+            {
+              "q": "How long does UPI refund take?",
+              "a": "Most refunds are processed within 2–3 working days."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "online-jobs",
+      "icon": "💼",
+      "title": "Online Jobs & Digital Skills",
+      "description": "Guides on work-from-home jobs, freelancing and skill-based earning options.",
+      "articles": [
+        {
+          "id": "work-from-home",
+          "title": "Work From Home Jobs – Safe Options",
+          "summary": "List of legitimate work-from-home opportunities and scam awareness tips.",
+          "content": {
+            "intro": "Many people search for online jobs, but scams are common. Choosing verified platforms is important.",
+            "steps": [
+              "Apply only through trusted websites",
+              "Avoid jobs asking for registration fees",
+              "Verify company background before joining",
+              "Use skill-based platforms like freelancing websites"
+            ],
+            "tips": [
+              "Never pay upfront money",
+              "Use official email communication only"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Are data entry jobs genuine?",
+              "a": "Most data entry jobs asking for fees are scams. Be cautious."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "ai-tools",
+      "icon": "🤖",
+      "title": "AI Tools & Automation",
+      "description": "AI tools for students, productivity, resume building and learning.",
+      "articles": [
+        {
+          "id": "ai-tools-students",
+          "title": "Best Free AI Tools for Students",
+          "summary": "Free AI tools that help students in studies, projects and productivity.",
+          "content": {
+            "intro": "AI tools can help students save time, improve learning and increase productivity.",
+            "steps": [
+              "Use AI tools for note summarization",
+              "Create presentations and resumes using AI",
+              "Use plagiarism and grammar check tools"
+            ],
+            "tips": [
+              "Do not depend fully on AI",
+              "Always verify information"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Are AI tools free?",
+              "a": "Many AI tools offer free plans with limited features."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+  "id": "tech-news",
+  "icon": "📰",
+  "title": "Tech News & Updates",
+  "description": "Latest technology news, smartphone launches, AI updates and digital trends.",
+  "articles": [
+    {
+      "id": "iphone-17-features",
+      "title": "iPhone 17 New Features (Leaked)",
+      "summary": "Expected design changes, camera upgrades and AI features in iPhone 17.",
+      "date": "2026-01-10",
+      "url": "/technology/iphone-17-features.html"
+    },
+    {
+      "id": "chatgpt-new-update",
+      "title": "ChatGPT New Update – What’s New?",
+      "summary": "Latest AI features, improvements and how users can benefit.",
+      "date": "2026-01-08",
+      "url": "/technology/chatgpt-update.html"
+    }
+  ]
+},
+
+    {
+      "id": "cyber-safety",
+      "icon": "🔐",
+      "title": "Cyber Safety & Awareness",
+      "description": "Online fraud protection, OTP safety and scam awareness guides.",
+      "articles": [
+        {
+          "id": "online-fraud-safety",
+          "title": "Online Fraud Safety Tips",
+          "summary": "Tips to stay safe from cyber frauds, scams and phishing attacks.",
+          "content": {
+            "intro": "Online frauds are increasing rapidly. Awareness is the best protection.",
+            "steps": [
+              "Never share OTP or banking details",
+              "Verify unknown calls and messages",
+              "Report fraud immediately to bank and cybercrime portal"
+            ],
+            "tips": [
+              "Enable transaction alerts",
+              "Use strong passwords"
+            ]
+          },
+          "faq": [
+            {
+              "q": "Where to report online fraud?",
+              "a": "You can report cyber fraud at cybercrime.gov.in"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "trust": {
+    "note": "Data is compiled from public sources and official platforms. We do not provide legal, financial or investment advice."
+  }
+}

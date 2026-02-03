@@ -1,0 +1,77 @@
+[
+  {
+    "id": "mobile-phone-lost",
+    "title": "Mobile Phone Lost – What To Do?",
+    "intro": "Agar aapka mobile phone kho gaya hai ya chori ho gaya hai, turant action lena zaruri hai.",
+    "steps": [
+      "SIM Card turant block karein apne telecom operator se",
+      "Google Find My Device ya Apple Find My iPhone ka use karein",
+      "Google, WhatsApp aur banking passwords change karein",
+      "Zarurat ho to police complaint (FIR) file karein"
+    ],
+    "faq": [
+      {
+        "q": "Phone off ho to kya track ho sakta hai?",
+        "a": "Haan, last known location Google Find My Device ya iCloud me dikh sakti hai."
+      },
+      {
+        "q": "Police complaint zaruri hai?",
+        "a": "Insurance claim aur legal proof ke liye FIR karna recommended hota hai."
+      }
+    ]
+  },
+
+  {
+    "id": "upi-refund",
+    "title": "UPI Transaction Failed – Refund Process",
+    "intro": "UPI transaction fail hone par paisa wapas mil jata hai, bas sahi process follow karna hota hai.",
+    "steps": [
+      "UPI app me transaction status check karein",
+      "Kam se kam 24–48 ghante wait karein (auto refund aata hai)",
+      "UPI app ke help/support section se complaint raise karein",
+      "Agar refund na aaye to bank customer care se contact karein"
+    ],
+    "faq": [
+      {
+        "q": "UPI refund kitne din me aata hai?",
+        "a": "Aksar 3–5 working days ke andar refund credit ho jata hai."
+      }
+    ]
+  },
+
+  {
+    "id": "ai-tools-students",
+    "title": "Best Free AI Tools for Students (2026)",
+    "intro": "Artificial Intelligence (AI) tools students ke liye study, assignments, resume aur productivity ke liye kaafi helpful hote hain.",
+
+    "sections": [
+      {
+        "heading": "Why Students Should Use AI Tools?",
+        "content": [
+          "AI tools time save karte hain aur productivity badhate hain",
+          "Assignments aur notes fast aur accurate bante hain",
+          "Resume, presentations aur projects professional dikhte hain"
+        ]
+      },
+      {
+        "heading": "Top Free AI Tools for Students",
+        "content": [
+          "ChatGPT – doubts clear karne aur concepts samajhne ke liye",
+          "Canva AI – presentations, posters aur designs ke liye",
+          "Grammarly – English writing aur grammar improve karne ke liye",
+          "Notion AI – notes, planning aur task management ke liye"
+        ]
+      },
+      {
+        "heading": "How AI Helps in Exams & Study",
+        "content": [
+          "Quick revision notes generate karna",
+          "Difficult topics ko easy language me samajhna",
+          "Practice questions aur mock ideas banana"
+        ]
+      }
+    ],
+
+    "conclusion": "AI tools students ke liye ek smart study assistant ki tarah kaam karte hain. Agar inka sahi aur limited use kiya jaye, to ye exams aur career dono me kaafi madadgar sabit ho sakte hain."
+  }
+]

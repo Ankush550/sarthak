@@ -1,0 +1,18 @@
+[
+  {
+    "id": "galaxy-s24-fe",
+    "brand": "samsung",
+    "name": "Samsung Galaxy S24 FE",
+    "status": "Upcoming",
+    "price": "₹55,000",
+    "image": "s24fe.jpg"
+  },
+  {
+    "id": "galaxy-a56",
+    "brand": "samsung",
+    "name": "Samsung Galaxy A56",
+    "status": "Launched",
+    "price": "₹29,999",
+    "image": "a56.jpg"
+  }
+]

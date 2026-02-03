@@ -1,54 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>State Government Schemes</title>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <meta charset="UTF-8" />
+  <title>State Government Schemes in India</title>
 
-  gtag('config', 'G-HG8H9C38KD');
-</script>
-   <link rel="stylesheet" href="../assets/css/state-schemes.css">
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="../assets/css/state-schemes.css" />
 
+  <!-- Icons -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 </head>
 
 <body>
 
-<div class="page">
-  <h1>State Government Schemes</h1>
+  <!-- ================= HEADER ================= -->
+  <header class="top-bar">
+    <h1>🏛️ State Government Schemes</h1>
+    <p>Select a state to view schemes</p>
+  </header>
 
-  <div class="scheme-filter">
-  <div class="search-box">
-    <div class="scheme-filter-bar">
-  <select id="stateFilter">
-    <option value="">All States</option>
-  </select>
+  <!-- ================= INTRO ================= -->
+  <section class="page-intro">
+    <h2>State Government Schemes in India</h2>
+    <p>
+      Here you can find complete information about state government schemes,
+      including eligibility, benefits, application process and official links.
+      Select a state to view the latest schemes launched by the respective
+      governments for students, women, farmers, senior citizens and others.
+    </p>
+    <p class="note">
+      <strong>Note:</strong> All information is collected from official government sources.
+    </p>
+  </section>
 
-  <input
-    type="text"
-    id="stateSearch"
-    placeholder="Scheme ya State search karein..."
-  >
-</div>
-    
+  <!-- ================= STATES LIST ================= -->
+  <section id="states" class="card-grid"></section>
+
+  <!-- ================= ADS PLACEHOLDER ================= -->
+  <div class="ads-box">
+    Advertisement
   </div>
-</div>
 
- <div class="scheme-grid" id="stateSchemeGrid"></div>
- <!-- 🔙 ACTION BUTTONS -->
-<div class="action-buttons">
+  <!-- ================= SCHEMES LIST ================= -->
+  <section id="schemes" class="card-grid"></section>
 
-  <a href="../index.html" class="btn-home">
-    🏠 Back to Home
-  </a>
-</div>
+  <!-- ================= SCHEME DETAILS ================= -->
+  <section id="schemeDetails" class="details-box"></section>
 
-</div>
+  <!-- ================= COMMENTS NOTE (HIDDEN BY DEFAULT) ================= -->
+  <p id="commentNote" class="comment-note" style="display:none;">
+    Comments are moderated by admin. Spam or misleading content will be removed.
+  </p>
 
-<script src="../assets/js/state-schemes.js"></script>
+  <!-- ================= COMMENTS SECTION ================= -->
+  <section id="commentsSection" class="comments-box" style="display:none;">
+    <h3>💬 User Comments</h3>
+
+    <div class="comment-form">
+      <input type="text" id="userName" placeholder="Your name" />
+      <textarea id="userComment" placeholder="Write your comment..."></textarea>
+      <button onclick="addComment()">Post Comment</button>
+    </div>
+
+    <div id="commentsList"></div>
+  </section>
+
+  <!-- ================= INTERNAL LINKS ================= -->
+  <p class="internal-links">
+    You may also explore
+    <a href="/pages/central-schemes.html">Central Government Schemes</a>,
+    <a href="/pages/scholarships.html">Scholarship Schemes</a>
+    and
+    <a href="/pages/jobs.html">Jobs & Results</a>.
+  </p>
+
+  <!-- ================= BACK TO HOME ================= -->
+  <div class="back-home-wrapper">
+    <a href="../index.html" class="back-btn">🏠 Back to Home</a>
+  </div>
+
+  <!-- ================= JS ================= -->
+  <script src="../assets/js/state-schemes.js"></script>
+
 </body>
 </html>
