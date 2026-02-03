@@ -1,119 +1,213 @@
 [
-  {
+{
   "id": "mobile-phone-lost",
-  "title": "Mobile Phone Lost – What To Do? (Complete Step-by-Step Guide)",
-  "intro": "Aaj ke digital time me mobile phone sirf calling device nahi balki bank, documents, photos aur personal data ka store hota hai. Agar aapka mobile phone kho jata hai ya chori ho jata hai, to panic karna natural hai. Lekin agar sahi steps sahi time par follow kiye jayein, to aap apna data secure rakh sakte hain aur financial loss se bach sakte hain. Is article me hum aapko mobile phone lost hone par kya karein, kaise track karein, SIM kaise block karein aur police complaint kaise file karein – sab kuch detail me batayenge.",
+  "title": "Mobile Phone Lost Ho Gaya? Kya Karein, Kaise Track Karein, SIM Block, FIR & CEIR – Complete Detailed Guide",
+  "intro": "Aaj ke digital zamane me mobile phone sirf communication ka device nahi raha. Isme humare bank accounts, UPI apps, Aadhaar, PAN, photos, emails, office data aur personal chats sab kuch hota hai. Aise me agar mobile phone kho jata hai ya chori ho jata hai, to sirf device ka hi nahi balki data aur paise ka bhi risk hota hai. Is detailed guide me hum aapko step-by-step batayenge ki mobile phone lost hone par turant kya karein, kaise phone track karein, SIM aur bank accounts kaise secure karein, FIR aur CEIR portal ka use kaise karein, aur phone milne ke baad kya-kya check karna zaruri hai."
+,
   "sections": [
     {
-      "heading": "Step 1: Sabse Pehle Kya Karein (Immediate Actions)",
+      "heading": "Step 1: Mobile Lost Hote Hi Sabse Pehla Kaam Kya Karein",
       "content": [
-        "Sabse pehle apna SIM card turant block karwa dein. Iske liye apne telecom operator (Jio, Airtel, Vi, BSNL) ke customer care number par call karein.",
-        "SIM block karne se koi bhi OTP, call ya message misuse nahi ho payega.",
-        "Agar mobile me banking apps hain (UPI, Net Banking), to bank ko bhi inform karein."
+        "Sabse pehle panic na karein. Calm rehna bahut zaruri hai kyunki galat decision se loss badh sakta hai.",
+        "Turant apne mobile number ka SIM block karwa dein taaki koi OTP, call ya SMS ka misuse na kar sake.",
+        "SIM block karwane ke liye apne telecom operator (Jio, Airtel, Vi, BSNL) ke customer care number par call karein.",
+        "Agar aap business ya office SIM use karte hain, to apni company ke IT ya admin team ko bhi inform karein.",
+        "UPI, net banking aur wallet apps (PhonePe, Google Pay, Paytm) ke liye apne bank ko turant inform karein.",
+        "Bank ko inform karne se suspicious transactions par temporary block lagaya ja sakta hai."
       ]
     },
     {
-      "heading": "Step 2: Mobile Phone Track Kaise Karein",
+      "heading": "Step 2: Android aur iPhone Phone Track Kaise Karein",
       "content": [
-        "Agar aap Android phone use karte hain, to Google Find My Device ka use karein.",
-        "iPhone users Apple Find My iPhone ka use kar sakte hain.",
-        "Isse aap last known location dekh sakte hain, phone ring kar sakte hain ya data erase kar sakte hain.",
-        "Phone band hone par bhi last location visible ho sakti hai."
+        "Android users Google Find My Device ka use kar sakte hain. Iske liye kisi aur phone ya laptop se same Google account me login karein.",
+        "Find My Device se aap phone ki current ya last known location dekh sakte hain.",
+        "Agar phone silent par ho to aap use ring karwa sakte hain.",
+        "Agar phone recover hone ke chances kam lag rahe ho to aap remote data erase bhi kar sakte hain.",
+        "iPhone users Apple Find My iPhone ka use karein jo iCloud account se operate hota hai.",
+        "iPhone me Lost Mode enable karke phone ko lock aur message display kar sakte hain.",
+        "Phone agar switch off hai to bhi last known location available hoti hai."
       ]
     },
     {
-      "heading": "Step 3: Google, WhatsApp & Accounts Secure Karein",
+      "heading": "Step 3: Google Account, WhatsApp aur Social Media Secure Kaise Karein",
       "content": [
-        "Google account ka password turant change karein.",
-        "WhatsApp ke liye new SIM lene ke baad same number se login karein.",
-        "Email, social media aur payment apps ke passwords bhi update karein."
+        "Sabse pehle apne Google account ka password change karein.",
+        "Google account secure hone se Gmail, Drive, Photos aur linked services safe ho jati hain.",
+        "WhatsApp ke liye naya SIM lene ke baad same number se login karein.",
+        "WhatsApp automatically purane phone se logout ho jata hai.",
+        "Facebook, Instagram, Twitter, Telegram jaise social media apps ke passwords bhi change karein.",
+        "Agar 2-factor authentication enabled hai to naye device par hi access milega."
       ]
     },
     {
-      "heading": "Step 4: Police Complaint & CEIR Portal",
+      "heading": "Step 4: FIR, Lost Report aur CEIR Portal Ka Role",
       "content": [
-        "Agar phone recover nahi hota, to nearest police station me FIR ya lost report file karein.",
-        "Government ke CEIR portal par IMEI number ke through phone block karwa sakte hain.",
-        "IMEI number aapko phone box, bill ya Google account me mil jata hai."
+        "Agar phone nahi mil raha hai to nearest police station me FIR ya lost report file karein.",
+        "Kai states me online lost report facility bhi available hoti hai.",
+        "FIR insurance claim ke liye mandatory hoti hai.",
+        "Government ka CEIR (Central Equipment Identity Register) portal IMEI ke through phone block karta hai.",
+        "IMEI block hone ke baad phone kisi bhi network par kaam nahi karega.",
+        "IMEI number phone box, bill, Google account ya iCloud se mil sakta hai."
       ]
     },
     {
-      "heading": "Step 5: Agar Phone Mil Jaye To Kya Karein",
+      "heading": "Step 5: Agar Mobile Phone Wapas Mil Jaye To Kya Karein",
       "content": [
-        "SIM unblock karwa sakte hain.",
-        "Accounts ko verify karein aur suspicious activity check karein.",
-        "CEIR me phone unblock request dal sakte hain."
+        "SIM unblock karwa dein ya new SIM activate karein.",
+        "CEIR portal par unblock request submit karein.",
+        "Phone ko factory reset karein.",
+        "Sabhi accounts me login karke transaction history check karein.",
+        "Unknown apps ya settings ko remove karein."
       ]
     }
   ],
   "faq": [
     {
-      "q": "Agar phone switch off ho to kya track ho sakta hai?",
-      "a": "Haan, Google Find My Device ya Apple Find My iPhone par last known location dikh sakti hai."
+      "q": "Kya phone switch off hone par bhi track ho sakta hai?",
+      "a": "Haan, phone band hone se pehle ki last known location Google Find My Device ya Apple Find My iPhone par dikh sakti hai."
     },
     {
-      "q": "Police complaint zaruri hai?",
-      "a": "Haan, insurance claim aur CEIR blocking ke liye FIR ya lost report useful hoti hai."
+      "q": "CEIR portal par phone block karna safe hai?",
+      "a": "Haan, CEIR ek Government of India ka official portal hai aur bilkul safe hai."
     },
     {
-      "q": "IMEI number kaha se milega?",
-      "a": "Phone ke bill, box ya Google account ke Device section me IMEI mil jata hai."
+      "q": "IMEI block hone ke baad phone ka kya hoga?",
+      "a": "IMEI block hone ke baad phone kisi bhi SIM network par kaam nahi karega."
     }
   ],
-  "conclusion": "Mobile phone lost hona stressful hota hai, lekin agar aap upar bataye gaye steps follow karte hain to aap apne data aur paise dono ko secure rakh sakte hain. Hamesha calm rahein, official tools ka use karein aur kisi bhi unknown link ya call par trust na karein."
+  "conclusion": "Mobile phone lost hona ek serious situation ho sakti hai, lekin agar aap sahi time par sahi steps follow karte hain to aap apna data, paisa aur identity secure rakh sakte hain. Hamesha official tools ka use karein aur unknown calls ya links par trust na karein."
 },
+{
+  "id": "aadhaar-update-last-date",
+  "title": "Aadhaar Update Last Date 2026 – Free Aadhaar Update Online & Offline Complete Guide",
+  "intro": "Aadhaar card India ka sabse important identity document ban chuka hai. Bank account, PAN, mobile number, government schemes aur subsidy ke liye Aadhaar ka updated hona bahut zaruri hai. UIDAI time-to-time free Aadhaar update ki window provide karta hai jisme citizens apni details bina kisi charge ke update kar sakte hain. Is article me hum Aadhaar update ki importance, kaun-kaun si details update ho sakti hain, online aur offline process, required documents aur common FAQs cover kar rahe hain.",
+  "sections": [
+    {
+      "heading": "Aadhaar Update Kyun Zaruri Hai",
+      "content": [
+        "Government schemes jaise PM Awas, ration, pension ke liye",
+        "Bank account aur PAN linking ke liye",
+        "Mobile number verification ke liye",
+        "Fraud aur identity misuse se bachav ke liye",
+        "KYC related problems avoid karne ke liye"
+      ]
+    },
+    {
+      "heading": "Kaun-Kaun Si Aadhaar Details Update Kar Sakte Hain",
+      "content": [
+        "Name correction ya spelling change",
+        "Date of Birth correction",
+        "Gender update",
+        "Address update (online aur offline)",
+        "Mobile number update (center visit required)",
+        "Email ID update"
+      ]
+    },
+    {
+      "heading": "Free Aadhaar Update Online Process (Step-by-Step)",
+      "content": [
+        "myAadhaar portal par login karein",
+        "Aadhaar number aur OTP se verification karein",
+        "Update Aadhaar option select karein",
+        "Valid document upload karein",
+        "Request submit karke SRN number save karein",
+        "Status online track karein"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Free Aadhaar update ki last date kya hai?",
+      "a": "UIDAI free update ki window limited time ke liye provide karta hai."
+    },
+    {
+      "q": "Aadhaar update hone me kitna time lagta hai?",
+      "a": "Generally 7–10 working days lagte hain."
+    }
+  ],
+  "conclusion": "Aadhaar ko updated rakhna future me kisi bhi legal, banking ya government service me problem se bachata hai."
+},
+{
+  "id": "upi-refund-process",
+  "title": "UPI Transaction Failed? Paisa Kab Aur Kaise Milega – Complete Refund Process Explained",
+  "intro": "UPI India ka sabse popular digital payment system hai. Rozana crore-log UPI se payment karte hain. Lekin kai baar transaction fail ho jata hai aur paisa account se debit ho jata hai. Aise cases me refund ka process samajhna bahut zaruri hota hai. Is detailed guide me hum batayenge UPI transaction fail hone ke reasons, refund timeline, complaint kaise raise karein aur paisa wapas kaise milega.",
+  "sections": [
+    {
+      "heading": "UPI Transaction Fail Hone Ke Main Reasons",
+      "content": [
+        "Internet ya network issue",
+        "Bank server down hona",
+        "Receiver bank problem",
+        "Incorrect UPI ID",
+        "Technical timeout"
+      ]
+    },
+    {
+      "heading": "UPI Refund Timeline Samjhein",
+      "content": [
+        "Most cases me auto refund 24–48 hours me ho jata hai",
+        "Kuch cases me 3–5 working days lag sakte hain",
+        "Weekends aur bank holidays ke karan delay ho sakta hai"
+      ]
+    },
+    {
+      "heading": "UPI Complaint Kaise Raise Karein",
+      "content": [
+        "UPI app open karein",
+        "Help & Support section me jayein",
+        "Concerned transaction select karein",
+        "Issue type choose karke complaint submit karein"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Refund nahi aaya to kya karein?",
+      "a": "Bank customer care ya NPCI portal par complaint karein."
+    }
+  ],
+  "conclusion": "UPI system secure hai aur refund mechanism strong hai, bas sahi process follow karna zaruri hai."
+},
+{
+  "id": "best-ai-tools-students",
+  "title": "Best Free AI Tools for Students (2026) – Study, Exams & Productivity Guide",
+  "intro": "Artificial Intelligence education sector me revolution la chuka hai. Students ke liye AI tools ek smart assistant ki tarah kaam karte hain jo study, exams aur time management ko easy bana dete hain. Is article me hum students ke liye best free AI tools, unke benefits aur exam preparation me unka use detail me explain kar rahe hain.",
+  "sections": [
+    {
+      "heading": "AI Tools Students Ke Liye Kyun Important Hain",
+      "content": [
+        "Time management improve hota hai",
+        "Concept clarity better hoti hai",
+        "Self-study effective banti hai",
+        "Notes aur summaries fast banti hain"
+      ]
+    },
+    {
+      "heading": "Top Free AI Tools for Students",
+      "content": [
+        "ChatGPT – doubts solve karne aur concepts samajhne ke liye",
+        "Canva AI – projects, PPT aur posters ke liye",
+        "Grammarly – English writing improve karne ke liye",
+        "Notion AI – notes, planning aur revision ke liye"
+      ]
+    },
+    {
+      "heading": "Exam Preparation Me AI Tools Ka Use",
+      "content": [
+        "Quick revision notes",
+        "Practice questions",
+        "Mock test explanations",
+        "Smart learning approach"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kya AI tools students ke liye safe hain?",
+      "a": "Haan, agar official aur trusted platforms ka use kiya jaye."
+    }
+  ],
+  "conclusion": "AI tools future learning ka integral part ban chuke hain aur students ko smart aur competitive banate hain."
+}
 
-  {
-    "id": "upi-refund",
-    "title": "UPI Transaction Failed – Refund Process",
-    "intro": "UPI transaction fail hone par paisa wapas mil jata hai, bas sahi process follow karna hota hai.",
-    "steps": [
-      "UPI app me transaction status check karein",
-      "Kam se kam 24–48 ghante wait karein (auto refund aata hai)",
-      "UPI app ke help/support section se complaint raise karein",
-      "Agar refund na aaye to bank customer care se contact karein"
-    ],
-    "faq": [
-      {
-        "q": "UPI refund kitne din me aata hai?",
-        "a": "Aksar 3–5 working days ke andar refund credit ho jata hai."
-      }
-    ]
-  },
-
-  {
-    "id": "ai-tools-students",
-    "title": "Best Free AI Tools for Students (2026)",
-    "intro": "Artificial Intelligence (AI) tools students ke liye study, assignments, resume aur productivity ke liye kaafi helpful hote hain.",
-
-    "sections": [
-      {
-        "heading": "Why Students Should Use AI Tools?",
-        "content": [
-          "AI tools time save karte hain aur productivity badhate hain",
-          "Assignments aur notes fast aur accurate bante hain",
-          "Resume, presentations aur projects professional dikhte hain"
-        ]
-      },
-      {
-        "heading": "Top Free AI Tools for Students",
-        "content": [
-          "ChatGPT – doubts clear karne aur concepts samajhne ke liye",
-          "Canva AI – presentations, posters aur designs ke liye",
-          "Grammarly – English writing aur grammar improve karne ke liye",
-          "Notion AI – notes, planning aur task management ke liye"
-        ]
-      },
-      {
-        "heading": "How AI Helps in Exams & Study",
-        "content": [
-          "Quick revision notes generate karna",
-          "Difficult topics ko easy language me samajhna",
-          "Practice questions aur mock ideas banana"
-        ]
-      }
-    ],
-
-    "conclusion": "AI tools students ke liye ek smart study assistant ki tarah kaam karte hain. Agar inka sahi aur limited use kiya jaye, to ye exams aur career dono me kaafi madadgar sabit ho sakte hain."
-  }
 ]

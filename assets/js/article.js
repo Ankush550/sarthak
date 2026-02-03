@@ -86,3 +86,13 @@ fetch("../assets/data/articles.json")
   .catch(err => {
     console.error("Article load error:", err);
   });
+
+  // ===============================
+// ARTICLE BADGE (CATEGORY)
+// ===============================
+const badgeEl = document.getElementById("articleBadge");
+
+if (badgeEl && article.type) {
+  badgeEl.innerText = article.type.toUpperCase();
+  badgeEl.className = `badge ${article.type}`;
+}

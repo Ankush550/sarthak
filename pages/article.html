@@ -1,69 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Article | Sarthak Yojana</title>
+  <meta charset="UTF-8" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="index, follow">
+  <!-- ===== BASIC SEO ===== -->
+  <title id="pageTitle">Article | Sarthak Yojana</title>
+  
+  <meta name="description"
+        content="Latest guides, updates and informational articles related to technology, banking, documents, education and digital services." />
+  <meta name="robots" content="index, follow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" href="../assets/css/article.css">
+  <!-- ===== CANONICAL (JS se update ho jayega future me) ===== -->
+  <link rel="canonical" href="https://sarthakyojana.in/pages/article.html" />
+
+  <!-- ===== CSS ===== -->
+  <link rel="stylesheet" href="../assets/css/article.css" />
 </head>
 
 <body>
 
-<div class="article-container">
-
-  <!-- 🔙 BACK -->
+<!-- ================= HEADER ================= -->
+<header class="article-header">
   <a href="../index.html" class="back-btn">← Back to Home</a>
+</header>
+
+<!-- ================= MAIN ARTICLE ================= -->
+<main class="article-container">
 
   <!-- 📰 TITLE -->
-  <h1 id="articleTitle">Loading...</h1>
+  <h1 id="articleTitle">Loading article...</h1>
 
   <!-- ✍️ INTRO -->
   <p class="article-intro" id="articleIntro"></p>
 
-  <!-- 🔸 TOP AD -->
+  <!-- 🔹 TOP AD -->
   <div class="ad-slot">Advertisement</div>
 
-  <!-- ✅ STEP BY STEP (Mobile / UPI type) -->
+  <!-- ================= STEP BY STEP SECTION ================= -->
   <section id="stepsSection">
     <h2>📌 Step-by-Step Guide</h2>
     <ul id="articleSteps"></ul>
   </section>
 
-  <!-- 🔸 MID AD -->
+  <!-- 🔹 MID AD -->
   <div class="ad-slot">Advertisement</div>
 
-  <!-- 🧠 DYNAMIC SECTIONS (AI / Long Articles) -->
+  <!-- ================= DYNAMIC CONTENT SECTIONS ================= -->
   <section id="sectionsSection">
     <div id="articleSections"></div>
   </section>
 
-  <!-- ❓ FAQ -->
+  <!-- ================= FAQ ================= -->
   <section id="faqSection">
     <h2>❓ Frequently Asked Questions</h2>
-    <div class="faq" id="articleFaq"></div>
+    <div id="articleFaq" class="faq"></div>
   </section>
 
-  <!-- 🔸 BOTTOM AD -->
+  <!-- 🔹 BOTTOM AD -->
   <div class="ad-slot">Advertisement</div>
 
-  <!-- ✅ CONCLUSION -->
+  <!-- ================= CONCLUSION ================= -->
   <section id="conclusionSection">
     <h2>📝 Conclusion</h2>
     <p id="articleConclusion" class="article-conclusion"></p>
   </section>
 
-  <!-- ⚠️ DISCLAIMER -->
+  <!-- ================= DISCLAIMER ================= -->
   <div class="article-disclaimer">
-    ⚠️ This content is for informational purposes only.
-    Please verify details from official sources before taking any action.
+    ⚠️ This article is published for informational purposes only.
+    We do not claim any official association with government or private organizations.
+    Readers are advised to verify details from official sources.
   </div>
 
-</div>
+</main>
 
-<!-- 📜 ARTICLE JS -->
+<!-- ================= FOOTER ================= -->
+<footer class="article-footer">
+  <p>
+    © 2026 <strong>SarthakYojana.in</strong> |
+    <a href="../pages/privacy-policy.html">Privacy Policy</a> |
+    <a href="../pages/disclaimer.html">Disclaimer</a>
+  </p>
+</footer>
+
+<!-- ================= ARTICLE JS ================= -->
 <script src="../assets/js/article.js"></script>
 
 </body>

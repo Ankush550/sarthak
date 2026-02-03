@@ -1,130 +1,115 @@
-/* ===============================
-   ARTICLE PAGE BASE
-================================ */
-
-.article-container {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 16px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  color: #1f2937;
-  line-height: 1.8;
+/* =================================================
+   GLOBAL RESET
+================================================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* ===============================
-   BACK BUTTON
-================================ */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+  background: #f6f8fb;
+  color: #1f2937;
+  line-height: 1.75;
+}
+
+/* =================================================
+   ARTICLE LAYOUT
+================================================= */
+.article-container {
+  max-width: 860px;
+  margin: 28px auto;
+  padding: 28px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+}
 
 .back-btn {
   display: inline-block;
-  margin-bottom: 18px;
-  padding: 8px 14px;
-  background: #111827;
-  color: #ffffff;
+  margin-bottom: 14px;
   font-size: 14px;
-  border-radius: 8px;
+  font-weight: 600;
+  color: #2563eb;
   text-decoration: none;
 }
 
 .back-btn:hover {
-  background: #2563eb;
+  text-decoration: underline;
 }
 
-/* ===============================
-   ARTICLE TITLE
-================================ */
-
-.article-container h1 {
+#articleTitle {
   font-size: 32px;
-  font-weight: 800;
-  margin-bottom: 14px;
   line-height: 1.3;
+  margin-bottom: 14px;
+  color: #111827;
 }
-
-/* ===============================
-   INTRO / SUMMARY
-================================ */
 
 .article-intro {
-  font-size: 16px;
-  background: #f8fafc;
-  padding: 18px 20px;
-  border-left: 4px solid #2563eb;
-  border-radius: 10px;
+  font-size: 17px;
+  color: #374151;
   margin-bottom: 28px;
 }
 
-/* ===============================
+/* =================================================
+   ADSENSE SAFE AD SLOT
+================================================= */
+.ad-slot {
+  width: 100%;
+  min-height: 90px;
+  border: 2px dashed #e5e7eb;
+  border-radius: 10px;
+  background: #fafafa;
+  color: #6b7280;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 34px 0;
+}
+
+/* =================================================
    HEADINGS
-================================ */
-
-.article-container h2 {
+================================================= */
+h2 {
   font-size: 22px;
-  margin-top: 36px;
-  margin-bottom: 12px;
-  font-weight: 700;
+  margin: 30px 0 14px;
+  color: #111827;
+  border-left: 5px solid #2563eb;
+  padding-left: 10px;
 }
 
-.article-container h3 {
-  font-size: 18px;
-  margin-top: 24px;
+h3 {
+  font-size: 19px;
+  margin: 22px 0 10px;
+  color: #1f2937;
+}
+
+/* =================================================
+   LISTS
+================================================= */
+#articleSteps,
+.article-section ul {
+  margin-left: 22px;
+}
+
+#articleSteps li,
+.article-section li {
   margin-bottom: 10px;
-  font-weight: 600;
+  font-size: 16px;
 }
 
-/* ===============================
-   LISTS (STEPS)
-================================ */
-
-.article-container ul {
-  padding-left: 20px;
-  margin-bottom: 20px;
-}
-
-.article-container li {
-  margin-bottom: 10px;
-}
-
-/* ===============================
-   IMPORTANT BOX (HIGH TRUST)
-================================ */
-
-.info-box {
-  background: #ecfeff;
-  border-left: 4px solid #06b6d4;
-  padding: 16px 18px;
-  border-radius: 10px;
-  margin: 26px 0;
-  font-size: 15px;
-}
-
-/* ===============================
-   WARNING BOX
-================================ */
-
-.warning-box {
-  background: #fff7ed;
-  border-left: 4px solid #fb923c;
-  padding: 16px 18px;
-  border-radius: 10px;
-  margin: 26px 0;
-  font-size: 15px;
-}
-
-/* ===============================
-   FAQ SECTION
-================================ */
-
-.faq {
-  margin-top: 40px;
-}
-
+/* =================================================
+   FAQ
+================================================= */
 .faq-item {
-  margin-bottom: 18px;
-  padding: 16px;
   background: #f9fafb;
-  border-radius: 10px;
   border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 14px;
 }
 
 .faq-item strong {
@@ -133,48 +118,146 @@
   color: #111827;
 }
 
-/* ===============================
-   ADS PLACEMENT (ADSENSE SAFE)
-================================ */
-
-.ad-slot {
-  width: 100%;
-  min-height: 250px; /* CLS safe */
-  margin: 36px 0;
-  background: #f9fafb;
-  border: 1px dashed #d1d5db;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 13px;
-  color: #6b7280;
+.faq-item p {
+  font-size: 15px;
+  color: #374151;
 }
 
-/* ===============================
-   FOOTER DISCLAIMER
-================================ */
+/* =================================================
+   CONCLUSION & DISCLAIMER
+================================================= */
+.article-conclusion {
+  background: #f0f9ff;
+  padding: 16px;
+  border-left: 4px solid #0ea5e9;
+  border-radius: 8px;
+  font-size: 16px;
+}
 
 .article-disclaimer {
-  margin-top: 50px;
-  padding: 16px 18px;
+  margin-top: 30px;
+  font-size: 13px;
+  color: #6b7280;
   background: #fff7ed;
   border-left: 4px solid #fb923c;
-  border-radius: 10px;
-  font-size: 13px;
-  color: #7c2d12;
+  padding: 14px;
+  border-radius: 8px;
 }
 
-/* ===============================
-   MOBILE
-================================ */
+/* =================================================
+   🔥 TRENDING & HOT UPDATES
+================================================= */
+.trending-section {
+  max-width: 1200px;
+  margin: 50px auto;
+  padding: 0 16px;
+}
 
+.trending-section h2 {
+  font-size: 28px;
+  margin-bottom: 26px;
+  color: #0f172a;
+}
+
+/* GRID */
+.trending-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+/* =================================================
+   TRENDING CARD (FINAL)
+================================================= */
+.trending-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  position: relative;
+}
+
+.trending-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg, #2563eb, #7c3aed);
+}
+
+.trending-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.1);
+}
+
+/* TAG */
+.trending-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 6px;
+}
+
+.tag-hot { background:#ffe5e5; color:#b91c1c; }
+.tag-trending { background:#fff3e0; color:#c2410c; }
+.tag-scheme { background:#e0f7fa; color:#0f766e; }
+.tag-alert { background:#fff8e1; color:#b45309; }
+
+/* CATEGORY */
+.trending-category {
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 6px;
+}
+
+/* TITLE */
+.trending-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+/* DESCRIPTION */
+.trending-desc {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #4b5563;
+  margin-bottom: 14px;
+}
+
+/* LINK */
+.trending-link {
+  font-size: 14px;
+  font-weight: 600;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.trending-link:hover {
+  text-decoration: underline;
+}
+
+/* =================================================
+   RESPONSIVE
+================================================= */
 @media (max-width: 768px) {
-  .article-container h1 {
+  .article-container {
+    margin: 16px;
+    padding: 20px;
+  }
+
+  #articleTitle {
     font-size: 26px;
   }
 
-  .article-container h2 {
-    font-size: 20px;
+  .trending-section h2 {
+    font-size: 24px;
   }
 }

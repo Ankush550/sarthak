@@ -1,26 +1,22 @@
-document.addEventListener("DOMContentLoaded", () => {
-  fetch("assets/data/home-trending.json")
-    .then(res => res.json())
-    .then(data => renderTrending(data));
-});
+fetch("assets/data/articles.json")
+  .then(res => res.json())
+  .then(data => {
+    const container = document.getElementById("trendingCards");
 
-function renderTrending(items) {
-  const box = document.getElementById("trendingCards");
-  box.innerHTML = "";
+    data.forEach(item => {
+      const card = document.createElement("div");
+      card.className = "trending-card";
 
-  items.forEach(item => {
-    box.innerHTML += `
-      <div class="trending-card" onclick="openArticle('${item.id}')">
-        <span class="badge ${item.tag.toLowerCase()}">${item.tag}</span>
-        <small class="category">${item.category}</small>
+      card.innerHTML = `
+        <span class="tag">GUIDE</span>
         <h3>${item.title}</h3>
-        <p>${item.summary}</p>
-        <span class="read-more">Read Full Guide →</span>
-      </div>
-    `;
+        <p>${item.intro.slice(0, 90)}...</p>
+        <a href="pages/article.html?id=${item.id}">
+          Read Full Guide →
+        </a>
+      `;
+      container.appendChild(card);
+    });
   });
-}
 
-function openArticle(id) {
-  window.location.href = `/pages/article.html?id=${id}`;
-}
+  
