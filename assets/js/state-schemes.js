@@ -73,6 +73,11 @@ function showDetails(scheme) {
       <ul>${scheme.documentsRequired.map(d => `<li>${d}</li>`).join("")}</ul>
     ` : ""}
 
+    ${scheme.notes ? `
+      <h4>Important Notes</h4>
+      <ul>${scheme.notes.map(n => `<li>${n}</li>`).join("")}</ul>
+    ` : ""}
+
     ${scheme.faqs ? `
       <h4>Frequently Asked Questions (FAQs)</h4>
       <div class="faq-box">
@@ -93,16 +98,22 @@ function showDetails(scheme) {
     <a href="${scheme.apply}" target="_blank" class="apply-btn">
       Apply Officially
     </a>
+    <p class="apply-note">
+  You will be redirected to the official government website.
+</p>
   `;
 
   detailsBox.style.display = "block";
 
   // show comments
+  
   document.getElementById("commentsSection").style.display = "block"; 
  document.getElementById("commentNote").style.display = "block";
 
   loadComments();
+  
 }
+
 
 /* =====================
    FAQ TOGGLE

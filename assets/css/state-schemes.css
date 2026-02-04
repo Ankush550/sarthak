@@ -1039,3 +1039,226 @@ body {
     font-size: 16.5px;
   }
 }
+
+.disclaimer-box {
+  margin-top: 30px;
+  padding: 15px;
+  background: #fff4e5;
+  border-left: 4px solid #ff9800;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+.disclaimer-box strong {
+  color: #d35400;
+}
+
+.apply-note {
+  font-size: 13px;
+  color: #666;
+  margin-top: 8px;
+}
+
+.comment-warning {
+  background: #fff3cd;
+  border-left: 4px solid #ff9800;
+  padding: 8px 12px;
+  font-size: 13px;
+  color: #856404;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+/* ===============================
+   SCHEME DETAILS CONTAINER
+================================ */
+.details-box {
+  display: none;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 24px;
+  margin-top: 24px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  line-height: 1.7;
+}
+
+/* ===============================
+   TITLES & HEADINGS
+================================ */
+.details-box h2 {
+  font-size: 26px;
+  margin-bottom: 8px;
+  color: #1a237e;
+}
+
+.details-box h4 {
+  margin-top: 22px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #0d47a1;
+  border-left: 4px solid #1976d2;
+  padding-left: 10px;
+}
+
+/* ===============================
+   TEXT & PARAGRAPHS
+================================ */
+.details-box p {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.details-box b {
+  color: #000;
+}
+
+/* ===============================
+   LIST STYLING
+================================ */
+.details-box ul {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.details-box ul li {
+  margin-bottom: 6px;
+  font-size: 14.5px;
+  color: #444;
+}
+
+/* ===============================
+   APPLY BUTTON
+================================ */
+.apply-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 22px;
+  background: linear-gradient(135deg, #1976d2, #0d47a1);
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.apply-btn:hover {
+  background: linear-gradient(135deg, #0d47a1, #08306b);
+  transform: translateY(-1px);
+}
+
+/* ===============================
+   APPLY NOTE
+================================ */
+.apply-note {
+  margin-top: 6px;
+  font-size: 13px;
+  color: #555;
+}
+
+/* ===============================
+   FAQ SECTION
+================================ */
+.faq-box {
+  margin-top: 10px;
+}
+
+.faq-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+
+.faq-question {
+  background: #f5f7fa;
+  padding: 12px 14px;
+  cursor: pointer;
+  font-size: 14.5px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-question:hover {
+  background: #eef3f8;
+}
+
+.faq-answer {
+  display: none;
+  padding: 12px 14px;
+  background: #fff;
+  font-size: 14px;
+  color: #444;
+  border-top: 1px solid #e0e0e0;
+}
+
+.faq-icon {
+  font-size: 18px;
+  color: #1976d2;
+}
+
+/* ===============================
+   IMPORTANT NOTES
+================================ */
+.details-box .important-notes {
+  background: #f9fbff;
+  border-left: 4px solid #ff9800;
+  padding: 12px 14px;
+  margin-top: 18px;
+  font-size: 14px;
+}
+
+/* ===============================
+   DISCLAIMER / WARNING
+================================ */
+.scheme-note {
+  margin-top: 22px;
+  padding: 12px 14px;
+  background: #fff3cd;
+  border-left: 4px solid #ffb300;
+  font-size: 13px;
+  color: #856404;
+  border-radius: 4px;
+}
+
+/* ===============================
+   COMMENTS SECTION
+================================ */
+.comments-box {
+  margin-top: 30px;
+  padding: 20px;
+  background: #fafafa;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.comment-warning {
+  background: #fff3cd;
+  border-left: 4px solid #ff9800;
+  padding: 8px 12px;
+  font-size: 13px;
+  color: #856404;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+/* ===============================
+   MOBILE FRIENDLY
+================================ */
+@media (max-width: 768px) {
+  .details-box {
+    padding: 18px;
+  }
+
+  .details-box h2 {
+    font-size: 22px;
+  }
+
+  .apply-btn {
+    width: 100%;
+    text-align: center;
+  }
+}

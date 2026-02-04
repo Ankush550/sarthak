@@ -1,221 +1,293 @@
 {
   "Rajasthan": [
     {
-      "id": "raj-3",
-      "title": "Rajasthan Chief Minister's Relief Fund – Medical Help",
-      "department": "Medical Welfare",
+  "id": "raj-3",
+  "title": "Rajasthan Chief Minister's Relief Fund – Medical Help",
+  "department": "Medical Welfare Department, Government of Rajasthan",
 
-      "benefits": [
-        "Demand Draft or Direct Bank Transfer to beneficiary",
-        "Cochlear Implant Surgery support for deaf and mute children up to 6 years (income up to ₹2 lakh)",
-        "Thalassemia Major treatment assistance up to ₹50.7 lakh",
-        "Financial assistance for serious diseases like cancer, kidney, urinary and heart disease",
-        "Medical assistance in government and recognized private hospitals"
-      ],
+  "overview": "Rajasthan Chief Minister's Relief Fund (CMRF) – Medical Help Scheme is a welfare initiative of the Government of Rajasthan designed to provide financial assistance to residents of the state who are suffering from serious, life-threatening and chronic diseases. Medical treatment for critical illnesses often involves high costs, which can become unaffordable for many families despite having a moderate income. This scheme aims to bridge that financial gap by offering monetary support for medical treatment in government as well as recognized private hospitals.\n\nUnder this scheme, eligible patients can receive financial assistance through Direct Bank Transfer (DBT) or Demand Draft, depending on the nature of treatment and approval. The assistance helps patients continue or complete their medical treatment without interruption due to lack of funds. The scheme is particularly helpful for individuals suffering from diseases such as cancer, kidney failure, heart ailments, major surgeries, and rare disorders like Thalassemia Major.\n\nThe Chief Minister's Relief Fund Medical Help Scheme reflects the Rajasthan government's commitment to ensuring that no citizen is deprived of essential healthcare due to financial constraints. By providing timely assistance, the scheme plays a crucial role in saving lives and improving the overall healthcare accessibility in the state.",
 
-      "eligibility": [
-        "Applicant should be a resident of Rajasthan",
-        "Applicant should be Non-BPL",
-        "Annual family income should be more than ₹2 lakh",
-        "Applicant should not be covered under ABMGRSBY (Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana)"
-      ],
-
-      "applicationProcess": [
-        "Visit the official portal https://cmrf.rajasthan.gov.in/",
-        "Click on 'Apply for Medical Help'",
-        "Select 'Apply Online'",
-        "Fill personal, address and medical details",
-        "Upload medical certificates, doctor's reports and bills",
-        "Submit the application and note the acknowledgment number"
-      ],
-
-      "documentsRequired": [
-        "Income Certificate",
-        "Address Proof",
-        "Ration Card",
-        "Treatment Estimate by Doctor",
-        "Medical Certificate"
-      ],
-
-      "apply": "https://cmrf.rajasthan.gov.in/",
-
-      "faqs": [
-        {
-          "q": "Who can apply for Rajasthan Chief Minister’s Relief Fund?",
-          "a": "Residents of Rajasthan who are Non-BPL and suffering from serious medical conditions can apply."
-        },
-        {
-          "q": "Is online application mandatory?",
-          "a": "Yes, applications are accepted only through the official online portal."
-        },
-        {
-          "q": "How much financial assistance is provided?",
-          "a": "The assistance amount depends on the disease and treatment, subject to government limits."
-        },
-        {
-          "q": "How can I check application status?",
-          "a": "You can track your application using the acknowledgment number on the official website."
-        }
-      ]
-    },
-
-    {
-      "id": "raj-4",
-      "title": "Chief Minister Ekal Nari Samman Pension Yojana",
-      "department": "Social Welfare",
-
-      "benefits": [
-        "₹500 per month for women aged 18–55 years",
-        "₹750 per month for women aged 55–60 years",
-        "₹1000 per month for women aged 60–75 years",
-        "₹1500 per month for women above 75 years",
-        "Financial support to widowed, divorced and abandoned women for livelihood"
-      ],
-
-      "eligibility": [
-        "Applicant must be a resident of Rajasthan",
-        "Age should be 18 years or above",
-        "Applicant must be widowed, divorced or abandoned",
-        "Applicant should not have any regular source of income",
-        "Annual family income should be less than ₹48,000",
-        "Applicant should not be a government employee or pension holder"
-      ],
-
-      "applicationProcess": [
-        "Visit the official Rajasthan social security portal",
-        "Click on 'Apply Online'",
-        "Fill the application form with required details",
-        "Upload necessary documents",
-        "Submit the application and save the receipt"
-      ],
-
-      "documentsRequired": [
-        "Aadhaar Card",
-        "Birth Certificate",
-        "Ration Card",
-        "Residence Certificate",
-        "Bank Account Details",
-        "Passport Size Photograph",
-        "Income Declaration Form",
-        "Husband's Death Certificate (for widows)",
-        "Divorce Certificate (for divorced women)",
-        "Abandonment Certificate issued by competent authority"
-      ],
-
-      "apply": "https://socialsecurity.rajasthan.gov.in/",
-
-      "faqs": [
-        {
-          "q": "Who can get benefits under this scheme?",
-          "a": "Widowed, divorced or abandoned women of Rajasthan with low income are eligible."
-        },
-        {
-          "q": "What is the minimum age for eligibility?",
-          "a": "The minimum age is 18 years."
-        },
-        {
-          "q": "Can women from other states apply?",
-          "a": "No, only permanent residents of Rajasthan are eligible."
-        },
-        {
-          "q": "Is a government employee eligible?",
-          "a": "No, government employees or pension holders are not eligible."
-        },
-        {
-          "q": "How to apply for the scheme?",
-          "a": "Applications can be submitted online through the official Rajasthan social security portal."
-        }
-      ]
-    },
-    {
-  "id": "raj-5",
-  "title": "Rajasthan Scheme for Study Abroad (Meritorious Girl Students)",
-  "department": "Higher Education & Social Welfare",
-
-  "overview": "The Rajasthan State Government provides an opportunity to meritorious girl students studying in government schools to pursue graduate-level education abroad for four years. This scheme is aimed at empowering talented girls through global education exposure.",
-
-  "benefits": [
-    "Up to ₹30,000 for SAT coaching expenses per student",
-    "Up to ₹50,000 for SAT (Scholastic Aptitude Test) registration fee",
-    "₹25,000 assistance for applying to foreign universities",
-    "Full accommodation facility provided by the foreign university after admission",
-    "Economy class airfare for the student and one parental visit per year",
-    "Up to ₹10 lakh per year expenditure covered for each student during the 4-year course"
+  "objectives": [
+    "To provide immediate financial assistance to Rajasthan residents suffering from serious and life-threatening diseases",
+    "To reduce the financial burden of expensive medical treatments on families",
+    "To support patients undergoing long-term and critical medical procedures",
+    "To ensure access to quality medical treatment in government and recognized private hospitals",
+    "To strengthen the state’s social security and healthcare support system"
   ],
 
+  "benefits": [
+    "Financial assistance provided through Direct Bank Transfer or Demand Draft",
+    "Support for treatment of critical diseases such as cancer, kidney disorders, heart diseases and serious surgeries",
+    "Special assistance for Thalassemia Major patients up to ₹50.7 lakh as per medical requirement",
+    "Cochlear Implant Surgery assistance for deaf and mute children up to 6 years of age (subject to income criteria)",
+    "Medical treatment support in government hospitals and approved private hospitals",
+    "Timely help during medical emergencies to avoid treatment delays"
+  ],
+
+  "detailed_benefits": "The Rajasthan Chief Minister's Relief Fund – Medical Help Scheme provides customized financial assistance based on the nature of disease, estimated treatment cost, and medical recommendations. Unlike fixed-amount schemes, the relief amount under CMRF varies from case to case. This flexible approach ensures that patients receive adequate financial help according to their medical needs.\n\nFor patients suffering from chronic and long-term illnesses such as cancer, kidney failure requiring dialysis or transplant, and serious heart conditions, the scheme covers a significant portion of treatment expenses. In the case of Thalassemia Major, which requires lifelong medical care, the scheme provides assistance up to ₹50.7 lakh, making it one of the most impactful medical support initiatives in the state.\n\nAdditionally, the scheme supports Cochlear Implant Surgery for deaf and mute children below 6 years of age, helping them gain access to advanced medical procedures that can significantly improve their quality of life. The assistance is directly transferred to beneficiaries or hospitals to maintain transparency and accountability.",
+
   "eligibility": [
-    "Applicant must be a girl student studying in a government school of Rajasthan",
-    "Must be among the top three girl students at the state level in Class 10th Board Examination",
-    "Board of Secondary Education, Rajasthan must recommend the candidate",
-    "Consent of father/guardian is mandatory",
-    "Only Rajasthan domicile students are eligible"
+    "Applicant must be a permanent resident of Rajasthan",
+    "Applicant should belong to the Non-BPL category",
+    "Annual family income should be more than ₹2 lakh",
+    "Applicant must be suffering from a serious or life-threatening medical condition",
+    "Applicant should not be covered under Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana (ABMGRSBY)",
+    "Treatment must be recommended by a registered medical practitioner",
+    "Medical treatment should be undertaken in a government or recognized private hospital"
   ],
 
   "applicationProcess": [
-    "Visit the official education department web portal",
-    "Download the application form from page number 12 of the guideline",
-    "Fill the application form carefully in the prescribed format",
-    "Attach all required documents",
-    "Submit the completed application to the District Education Officer",
-    "Await selection and consent verification process"
+    "Visit the official Rajasthan Chief Minister's Relief Fund portal at https://cmrf.rajasthan.gov.in/",
+    "Click on the option 'Apply for Medical Help'",
+    "Select the 'Apply Online' option from the dashboard",
+    "Fill in personal details such as name, address, Aadhaar number and contact information",
+    "Enter medical details including disease type, hospital name and treatment estimate",
+    "Upload required medical documents such as doctor’s certificate and treatment cost estimate",
+    "Review the application carefully to avoid errors",
+    "Submit the application and note down the acknowledgment number for future reference"
   ],
 
-  "specialFacilities": [
-    "SAT exam preparation facility available only in Jaipur",
-    "Student must take admission in Class 11 in a Jaipur-based school for SAT preparation",
-    "Hostel accommodation available at Government Girls Higher Secondary School, Malviya Nagar, Jaipur",
-    "Students may arrange their own accommodation if they do not wish to use hostel facility"
+  "documentsRequired": [
+    "Income Certificate issued by competent authority",
+    "Proof of Rajasthan residence",
+    "Ration Card (if available)",
+    "Medical Certificate issued by a registered doctor",
+    "Treatment cost estimate from the hospital",
+    "Hospital admission or recommendation letter",
+    "Aadhaar Card or valid identity proof"
+  ],
+
+  "important_guidelines": [
+    "Incomplete or incorrect applications may be rejected",
+    "All documents must be clear and valid at the time of submission",
+    "Financial assistance amount depends on medical evaluation and approval",
+    "Submission of false information can lead to cancellation of assistance",
+    "Approval time may vary depending on case complexity and verification process"
+  ],
+
+  "impact": "The Rajasthan Chief Minister's Relief Fund – Medical Help Scheme has played a significant role in supporting thousands of families across the state. By offering financial assistance during medical emergencies, the scheme has helped patients continue life-saving treatments without financial distress. It has also strengthened public trust in the state’s healthcare and welfare system by ensuring transparency and timely support. Overall, the scheme contributes to improved healthcare outcomes and social security for vulnerable citizens.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+  "faqs": [
+    {
+      "q": "Who can apply for Rajasthan Chief Minister’s Relief Fund Medical Help?",
+      "a": "Residents of Rajasthan who are Non-BPL and suffering from serious or life-threatening medical conditions can apply."
+    },
+    {
+      "q": "Is online application mandatory for this scheme?",
+      "a": "Yes, applications are accepted only through the official online portal."
+    },
+    {
+      "q": "How much financial assistance is provided under this scheme?",
+      "a": "The assistance amount varies depending on the disease, treatment cost and approval by authorities."
+    },
+    {
+      "q": "Can treatment be taken in private hospitals?",
+      "a": "Yes, treatment can be taken in government or recognized private hospitals."
+    },
+    {
+      "q": "How can I check my application status?",
+      "a": "You can track the application status using the acknowledgment number on the official website."
+    }
+  ],
+
+  "apply": "https://cmrf.rajasthan.gov.in/",
+
+  "disclaimer": "This website is not affiliated with the Government of Rajasthan or any government authority. The information provided here is for educational and informational purposes only. Scheme guidelines, eligibility criteria and benefits may change from time to time. Applicants are advised to verify all details from the official Rajasthan Chief Minister's Relief Fund website before applying."
+},
+
+
+    {
+  "id": "raj-4",
+  "title": "Chief Minister Ekal Nari Samman Pension Yojana",
+  "department": "Social Welfare Department, Government of Rajasthan",
+
+  "overview": "Chief Minister Ekal Nari Samman Pension Yojana is a flagship social security scheme of the Government of Rajasthan aimed at providing monthly financial assistance to widowed, divorced and abandoned women (Ekal Nari) belonging to economically weaker sections of society. Women who lose spousal or family support often face serious financial and social challenges, especially in rural and semi-urban areas. This scheme is designed to ensure dignity, financial independence and basic livelihood support for such women.\n\nUnder this pension scheme, eligible women receive a fixed monthly pension directly in their bank accounts through Direct Benefit Transfer (DBT). The pension amount increases with age, ensuring better financial security as beneficiaries grow older. The scheme not only provides economic relief but also strengthens women empowerment and social inclusion in Rajasthan.\n\nBy offering continuous financial support, the Ekal Nari Samman Pension Yojana helps beneficiaries meet daily expenses such as food, medicines and basic household needs, reducing their dependency on others.",
+
+  "objectives": [
+    "To provide monthly financial assistance to widowed, divorced and abandoned women",
+    "To ensure basic livelihood and dignity for economically weak women",
+    "To promote social security and women empowerment in Rajasthan",
+    "To reduce poverty and financial dependency among single women",
+    "To provide age-based increasing pension benefits"
+  ],
+
+  "benefits": [
+    "₹500 per month for women aged 18 to 55 years",
+    "₹750 per month for women aged 55 to 60 years",
+    "₹1000 per month for women aged 60 to 75 years",
+    "₹1500 per month for women above 75 years",
+    "Monthly pension credited directly to bank account via DBT",
+    "Regular financial support for daily living expenses"
+  ],
+
+  "detailed_benefits": "The pension amount under the Ekal Nari Samman Pension Yojana is structured according to age groups to ensure increased support as beneficiaries grow older. Younger beneficiaries receive a basic pension amount, while senior women receive higher assistance considering their increased healthcare and living costs.\n\nThe pension is transferred directly to the beneficiary’s bank account, ensuring transparency and eliminating middlemen. This continuous financial support helps beneficiaries manage essential expenses such as food, healthcare, rent and utilities. The scheme plays a vital role in preventing extreme poverty among single women and provides a safety net against financial insecurity.",
+
+  "eligibility": [
+    "Applicant must be a permanent resident of Rajasthan",
+    "Applicant must be a widowed, divorced or abandoned woman",
+    "Minimum age should be 18 years",
+    "Applicant should not have any regular source of income",
+    "Annual family income should be less than ₹48,000",
+    "Applicant should not be a government employee or pension holder",
+    "Applicant should not be receiving benefits from similar pension schemes"
+  ],
+
+  "applicationProcess": [
+    "Visit the official Rajasthan Social Security Pension portal",
+    "Click on the 'Apply Online' option",
+    "Login using Jan Aadhaar or SSO credentials",
+    "Fill the pension application form with personal and bank details",
+    "Upload required documents in prescribed format",
+    "Submit the application and save the acknowledgment receipt",
+    "Track application status through the portal"
   ],
 
   "documentsRequired": [
     "Aadhaar Card",
-    "Age Proof",
-    "Address Proof",
-    "Bonafide / Domicile Certificate",
-    "Class 10th Marksheet",
-    "Class 12th Marksheet (if applicable)",
-    "Passport"
+    "Residence Certificate of Rajasthan",
+    "Bank Account Details",
+    "Passport Size Photograph",
+    "Income Declaration Form",
+    "Husband’s Death Certificate (for widows)",
+    "Divorce Certificate (for divorced women)",
+    "Abandonment Certificate issued by competent authority"
+  ],
+
+  "important_guidelines": [
+    "Incorrect or false information may lead to rejection",
+    "Beneficiary details are periodically verified by authorities",
+    "Pension may be discontinued if eligibility conditions are violated",
+    "Bank account must be active and Aadhaar-linked"
+  ],
+
+  "impact": "The Ekal Nari Samman Pension Yojana has significantly improved the socio-economic condition of single women in Rajasthan. By ensuring a steady source of income, the scheme reduces dependency, enhances self-respect and supports women in leading a dignified life. It has also contributed to social inclusion and poverty reduction among vulnerable women.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
+  "faqs": [
+    {
+      "q": "Who is eligible for Ekal Nari Samman Pension Yojana?",
+      "a": "Widowed, divorced or abandoned women who are permanent residents of Rajasthan and meet income criteria are eligible."
+    },
+    {
+      "q": "How much pension is provided under this scheme?",
+      "a": "Pension ranges from ₹500 to ₹1500 per month depending on the age of the beneficiary."
+    },
+    {
+      "q": "How is the pension amount paid?",
+      "a": "The pension amount is transferred directly to the beneficiary’s bank account via DBT."
+    },
+    {
+      "q": "Can working women apply for this scheme?",
+      "a": "No, women with regular income or government employment are not eligible."
+    }
+  ],
+
+  "apply": "https://socialsecurity.rajasthan.gov.in/",
+
+  "disclaimer": "This website is not affiliated with the Government of Rajasthan. Information provided is for awareness purposes only. Applicants must verify details from the official portal before applying."
+},
+
+
+
+    {
+  "id": "raj-5",
+  "title": "Rajasthan Scheme for Study Abroad (Meritorious Girl Students)",
+  "department": "Higher Education & Social Welfare Department, Government of Rajasthan",
+
+  "overview": "Rajasthan Scheme for Study Abroad for Meritorious Girl Students is a prestigious educational empowerment initiative of the Rajasthan Government. The scheme aims to provide international higher education opportunities to exceptionally talented girl students studying in government schools. By offering full financial and logistical support, the scheme enables selected students to pursue graduate-level education abroad for four years.\n\nThe primary objective of this scheme is to promote gender equality in higher education and empower girls from Rajasthan with global exposure. Selected students receive comprehensive support including tuition-related expenses, accommodation, airfare and academic preparation costs. The scheme ensures that financial limitations do not restrict meritorious girls from achieving global academic excellence.",
+
+  "objectives": [
+    "To promote international education opportunities for meritorious girl students",
+    "To empower girls through global academic exposure",
+    "To encourage excellence among students studying in government schools",
+    "To support gender equality in higher education",
+    "To develop future global leaders from Rajasthan"
+  ],
+
+  "benefits": [
+    "Up to ₹30,000 assistance for SAT coaching",
+    "Up to ₹50,000 for SAT registration fee",
+    "₹25,000 for foreign university application process",
+    "Accommodation facility provided by foreign university",
+    "Economy class airfare for student and one parental visit per year",
+    "Up to ₹10 lakh per year expenditure covered for 4 years"
+  ],
+
+  "detailed_benefits": "The scheme covers nearly all major expenses associated with international education. Financial support includes coaching and registration for SAT examinations, university application assistance, travel costs and annual academic expenses. The state government ensures accommodation support through foreign universities, significantly reducing financial stress on families.\n\nAdditionally, selected students receive structured academic preparation and mentoring support, ensuring their smooth transition to international education systems. This holistic approach enables beneficiaries to focus on academics and personal development without financial concerns.",
+
+  "eligibility": [
+    "Applicant must be a girl student studying in a government school of Rajasthan",
+    "Applicant must be among the top three girl students at state level in Class 10 board examination",
+    "Recommendation from Board of Secondary Education, Rajasthan is mandatory",
+    "Consent of father or legal guardian is required",
+    "Applicant must be a permanent resident of Rajasthan"
+  ],
+
+  "applicationProcess": [
+    "Visit the official Rajasthan Education Department portal",
+    "Download the scheme application form from official guidelines",
+    "Fill the application form carefully in prescribed format",
+    "Attach all required documents",
+    "Submit application to the District Education Officer",
+    "Await merit-based selection and consent verification",
+    "Selected candidates proceed for SAT preparation and admission process"
+  ],
+
+  "specialFacilities": [
+    "SAT preparation facility available in Jaipur",
+    "Mandatory admission in Jaipur-based school for preparation",
+    "Hostel accommodation at Government Girls Higher Secondary School, Malviya Nagar, Jaipur",
+    "Option to arrange private accommodation if hostel is not preferred"
+  ],
+
+  "documentsRequired": [
+    "Aadhaar Card",
+    "Domicile Certificate of Rajasthan",
+    "Class 10 Marksheet",
+    "Bonafide Certificate",
+    "Passport",
+    "Parental Consent Letter",
+    "Academic Recommendation Letter"
+  ],
+
+  "impact": "This scheme has played a transformative role in promoting international education among girls from government schools. By offering global exposure, it enhances academic excellence, confidence and leadership skills. The initiative contributes significantly to women empowerment and global representation of Rajasthan’s talent.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
+  "faqs": [
+    {
+      "q": "Who can apply for this scheme?",
+      "a": "Meritorious girl students from Rajasthan government schools who are top state-level performers."
+    },
+    {
+      "q": "How many students are selected each year?",
+      "a": "A maximum of three girl students are selected annually."
+    },
+    {
+      "q": "Is the application process online?",
+      "a": "No, the application process is offline."
+    }
   ],
 
   "apply": "https://education.rajasthan.gov.in/",
 
-  "faqs": [
-    {
-      "q": "What is the scope of this scheme?",
-      "a": "The scheme allows meritorious girl students from Rajasthan government schools to pursue graduate-level education abroad."
-    },
-    {
-      "q": "Who can get the benefits under the scheme?",
-      "a": "Top three girl students at the state level in Class 10th from government schools of Rajasthan."
-    },
-    {
-      "q": "Can students from other states apply?",
-      "a": "No, only permanent residents of Rajasthan are eligible."
-    },
-    {
-      "q": "What is the qualification eligibility?",
-      "a": "The applicant must secure one of the first three positions among girl students in the Rajasthan Board Class 10 examination."
-    },
-    {
-      "q": "How many students are selected each year?",
-      "a": "A maximum of three girl students are selected every year, subject to consent availability."
-    },
-    {
-      "q": "How to apply for the scheme?",
-      "a": "The application process is offline and applications must be submitted to the District Education Officer."
-    },
-    {
-      "q": "How to download the application form?",
-      "a": "The application form can be downloaded from the official guideline document available on the education department portal."
-    }
-  ],
-
-  "sources": [
-    "Rajasthan Board of Secondary Education",
-    "Directorate of Secondary Education, Rajasthan",
-    "Official Scheme Guidelines"
-  ]
+  "disclaimer": "This website is not affiliated with the Government of Rajasthan. Information is provided for educational purposes only. Applicants should verify scheme details from official government sources."
 },
+
 {
   "id": "raj-6",
   "title": "Rajasthan Widow / Abandoned Women B.Ed Fee Reimbursement Scheme",
@@ -263,6 +335,13 @@
     "B.Ed Fee Receipt",
     "Jan Aadhaar / Bhamashah Card"
   ],
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
   "apply": "https://sso.rajasthan.gov.in/",
 
@@ -317,230 +396,284 @@
     {
   "id": "up-1",
   "title": "Samaj Kalyan Vibhag Scholarship – Uttar Pradesh",
-  "department": "Social Welfare Department, Uttar Pradesh",
+  "department": "Social Welfare Department, Government of Uttar Pradesh",
 
-  "overview": "The Samaj Kalyan Vibhag Scholarship aims to provide financial support to students from economically weaker and disadvantaged communities in Uttar Pradesh, including SC, ST, OBC and General-EWS categories, to help them continue their education without financial burden.",
+  "overview": "Samaj Kalyan Vibhag Scholarship is one of the most important and wide-coverage scholarship schemes implemented by the Social Welfare Department of Uttar Pradesh. The scheme is designed to provide financial assistance to students belonging to economically weaker and socially disadvantaged sections of society so that lack of money does not become a barrier in their education.\n\nUnder this scholarship program, students from Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Classes (OBC), Minority communities and Economically Weaker Sections (EWS) receive financial support for their education from school level to postgraduate and professional courses. The scholarship helps cover expenses related to tuition fees, maintenance allowance, books and other educational needs.\n\nThe scheme plays a crucial role in reducing dropout rates, encouraging higher education and promoting social equality by ensuring that students from underprivileged backgrounds can continue their studies with dignity and confidence.",
+
+  "objectives": [
+    "To provide financial assistance to economically weaker students of Uttar Pradesh",
+    "To promote access to education for SC, ST, OBC, Minority and EWS students",
+    "To reduce school and college dropout rates",
+    "To encourage students to pursue higher and professional education",
+    "To promote social inclusion and educational equality"
+  ],
 
   "benefits": [
-    "Financial aid and maintenance allowance for students from disadvantaged backgrounds",
-    "Support for education from primary to higher and postgraduate levels",
-    "Helps reduce dropout rates among economically weaker students"
+    "Scholarship amount for pre-matric and post-matric students",
+    "Maintenance allowance to support daily educational expenses",
+    "Fee reimbursement for eligible courses",
+    "Direct transfer of scholarship amount to bank account",
+    "Support for education from school level to postgraduate courses"
   ],
+
+  "detailed_benefits": "The Samaj Kalyan Vibhag Scholarship provides financial assistance in multiple categories depending on the student’s level of education. Pre-matric students receive support to continue schooling without financial stress, while post-matric and higher education students receive higher scholarship amounts to cover tuition fees, examination fees and maintenance expenses.\n\nThe scholarship amount is transferred directly to the student’s bank account through Direct Benefit Transfer (DBT), ensuring transparency and timely payment. This financial support helps students purchase books, pay fees and manage living expenses, thereby reducing the economic burden on families.\n\nBy supporting education across various levels, the scheme helps build a skilled and educated workforce in Uttar Pradesh and contributes to long-term socio-economic development.",
 
   "eligibility": [
     "Applicant must be a permanent resident of Uttar Pradesh",
-    "Student must belong to a disadvantaged category (SC, ST, OBC, EWS) or be from low-income families",
-    "Student must be enrolled in a recognized school or college",
-    "Student must satisfy income and academic criteria as per official scholarship norms"
+    "Student must belong to SC, ST, OBC, Minority or EWS category",
+    "Student must be enrolled in a recognized school, college or university",
+    "Applicant must meet income criteria as prescribed by the government",
+    "Student must have passed previous qualifying examination",
+    "Applicant should not be availing another similar scholarship for the same course"
   ],
 
   "applicationMode": "Online",
 
   "applicationProcess": [
-    "Visit the official Social Welfare / Samaj Kalyan Vibhag portal of UP",
-    "Navigate to the scholarship section",
-    "Register or login using your credentials",
-    "Fill out the scholarship application form with required details",
-    "Upload required academic, identity and income documents",
-    "Submit the form and save the acknowledgment for future reference"
+    "Visit the official Samaj Kalyan / Social Welfare Department portal of Uttar Pradesh",
+    "Register as a new user using Aadhaar or other required credentials",
+    "Login to the portal and select the appropriate scholarship category",
+    "Fill the online application form with personal, academic and bank details",
+    "Upload required documents in the prescribed format",
+    "Review the application carefully and submit it",
+    "Save the application number for future reference",
+    "Track application and payment status online"
   ],
 
   "documentsRequired": [
-    "Identity Proof (Aadhaar / Voter ID)",
-    "Residential Certificate (UP domicile)",
+    "Aadhaar Card",
+    "Uttar Pradesh Domicile Certificate",
+    "Caste Certificate (SC / ST / OBC / Minority, if applicable)",
     "Income Certificate",
-    "Caste Certificate (if applicable)",
-    "Academic mark sheets and enrollment proof",
-    "Bank account details"
+    "Previous Year Marksheet",
+    "Bonafide Certificate from institution",
+    "Bank Account Passbook (Aadhaar linked)",
+    "Passport Size Photograph"
+  ],
+
+  "important_guidelines": [
+    "All details must match official records to avoid rejection",
+    "Bank account must be active and Aadhaar linked",
+    "Incomplete or incorrect applications may be rejected",
+    "Scholarship renewal depends on academic performance",
+    "Students must apply within the official application timeline"
+  ],
+
+  "selection_process": [
+    "Verification of application details by institution",
+    "Verification by district authorities",
+    "Final approval by Social Welfare Department",
+    "Direct transfer of scholarship amount to student’s bank account"
+  ],
+
+  "impact": "The Samaj Kalyan Vibhag Scholarship has significantly improved access to education for millions of students in Uttar Pradesh. By providing financial assistance, the scheme has reduced dropout rates, increased enrollment in higher education and empowered students from marginalized communities. The initiative plays a vital role in promoting social justice, equality and human resource development in the state.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
+  "faqs": [
+    {
+      "q": "Who can apply for Samaj Kalyan Vibhag Scholarship?",
+      "a": "Students who are permanent residents of Uttar Pradesh and belong to SC, ST, OBC, Minority or EWS categories can apply."
+    },
+    {
+      "q": "How is the scholarship amount paid?",
+      "a": "The scholarship amount is transferred directly to the student’s bank account through DBT."
+    },
+    {
+      "q": "Is income certificate mandatory?",
+      "a": "Yes, income certificate is required to verify eligibility."
+    },
+    {
+      "q": "Can students apply for renewal?",
+      "a": "Yes, students can apply for renewal subject to academic performance and eligibility."
+    }
   ],
 
   "apply": "https://samajkalyan.up.gov.in/",
 
-  "faqs": [
-    {
-      "q": "What is the Samaj Kalyan Vibhag Scholarship?",
-      "a": "It is a financial assistance scheme for students from disadvantaged communities to support their education from school to postgraduate level."
-    },
-    {
-      "q": "Who can apply for the scholarship?",
-      "a": "Students who are permanent residents of Uttar Pradesh and meet the socio-economic and academic eligibility criteria."
-    },
-    {
-      "q": "How do I apply for the scholarship?",
-      "a": "Applications are submitted online through the official Samaj Kalyan / Social Welfare Department portal of Uttar Pradesh."
-    }
-  ],
-
-  "sources": [
-    "Department of Social Welfare, Uttar Pradesh",
-    "Samaj Kalyan Vibhag Scholarship official guidance"
-  ]
+  "disclaimer": "This website is not affiliated with the Government of Uttar Pradesh. The information provided is for educational and informational purposes only. Applicants are advised to verify details from the official Social Welfare Department portal before applying."
 },
 {
   "id": "up-2",
   "title": "Uttar Pradesh Marriage Incentive Reward Scheme (Divyangjan)",
-  "department": "Social Welfare Department, Uttar Pradesh",
+  "department": "Social Welfare Department, Government of Uttar Pradesh",
 
-  "overview": "The Marriage Incentive Reward Scheme is a state-sponsored welfare scheme of the Government of Uttar Pradesh. Under this scheme, financial assistance is provided to differently-abled (Divyangjan) citizens to encourage their marriage and social empowerment. The marriage must be legally registered and at least one member of the couple should be a person with disability.",
+  "overview": "The Uttar Pradesh Marriage Incentive Reward Scheme for Divyangjan is a welfare-oriented initiative of the Social Welfare Department aimed at promoting social inclusion, dignity and equality for persons with disabilities. In many cases, differently-abled individuals face social stigma, financial challenges and limited support during major life events such as marriage. Recognizing these challenges, the Government of Uttar Pradesh introduced this scheme to provide one-time financial assistance at the time of marriage.\n\nThe scheme is not merely a financial aid program but a social empowerment measure that encourages acceptance and integration of Divyangjan citizens into mainstream society. By offering monetary support, the government helps reduce the economic burden associated with marriage-related expenses, thereby enabling differently-abled individuals to begin married life with confidence and dignity.\n\nThe incentive amount is credited directly to the beneficiary’s bank account through Direct Benefit Transfer (DBT), ensuring transparency, accountability and timely assistance. Only legally registered marriages are eligible, and strict verification mechanisms are followed to ensure benefits reach genuine beneficiaries.",
+
+  "objectives": [
+    "To promote social inclusion and dignity of persons with disabilities",
+    "To encourage marriage among eligible Divyangjan citizens",
+    "To reduce financial stress related to marriage expenses",
+    "To ensure equal participation of differently-abled individuals in society",
+    "To strengthen the state’s disability welfare support system"
+  ],
 
   "benefits": [
-    "₹15,000 incentive if the groom (man) is differently-abled",
-    "₹20,000 incentive if the bride (woman) is differently-abled",
+    "₹15,000 incentive if the groom is differently-abled",
+    "₹20,000 incentive if the bride is differently-abled",
     "₹35,000 incentive if both bride and groom are differently-abled",
-    "One-time financial assistance directly to the beneficiary"
+    "One-time financial assistance",
+    "Direct Benefit Transfer to beneficiary’s bank account"
   ],
+
+  "detailed_benefits": "The Marriage Incentive Reward Scheme provides graded financial assistance depending on the disability status of the bride and groom. When only the groom is a person with disability, an incentive of ₹15,000 is provided. If the bride is differently-abled, the incentive increases to ₹20,000, acknowledging the additional social and economic challenges faced by women with disabilities. In cases where both partners are Divyangjan, a higher incentive of ₹35,000 is granted.\n\nThis financial support can be used for marriage-related expenses such as household setup, essential goods or initial financial stability. The amount is transferred directly to the bank account to prevent misuse and ensure transparency. The scheme emphasizes dignity and empowerment rather than charity, reinforcing the idea of equal rights and opportunities.",
 
   "eligibility": [
-    "Applicant(s) must be permanent residents of Uttar Pradesh or domiciled for at least 5 years",
+    "Applicant must be a permanent resident of Uttar Pradesh or domiciled for at least 5 years",
     "At least one member of the couple must have a minimum of 40% disability",
-    "Marriage must be registered with the State Registrar",
-    "Neither spouse should have been convicted in any criminal case",
-    "Bride’s age must be between 18 and 45 years at the time of marriage",
-    "Groom’s age must be between 21 and 45 years at the time of marriage",
-    "Neither spouse should be an income tax payer"
+    "Marriage must be legally registered",
+    "Bride must be between 18 and 45 years of age",
+    "Groom must be between 21 and 45 years of age",
+    "Neither spouse should be an income tax payer",
+    "Neither spouse should have any criminal conviction"
   ],
 
-  "applicationMode": "Online (with mandatory offline submission)",
+  "applicationMode": "Online with mandatory offline verification",
 
   "applicationProcess": [
     "Visit the official Social Welfare Department portal of Uttar Pradesh",
-    "Click on the registration option for the Marriage Incentive Reward Scheme",
-    "Fill in the online application form with required details",
-    "Provide information about type and percentage of disability",
-    "Enter details such as couple’s name, address and marriage registration certificate",
-    "Submit the online application form",
-    "Take a printout of the application",
-    "Submit the hard copy to the District Disabled Empowerment Office within 15 days"
+    "Select the Marriage Incentive Reward Scheme for Divyangjan",
+    "Register or login using required credentials",
+    "Fill the online application form with personal, disability and marriage details",
+    "Upload disability certificate, marriage registration certificate and identity proof",
+    "Submit the online application",
+    "Print the submitted application form",
+    "Submit hard copy along with documents to the District Disabled Empowerment Office within the prescribed time"
   ],
 
   "documentsRequired": [
-    "Age Proof of bride and groom",
-    "Address Proof",
-    "Recent Photograph",
     "Disability Certificate (minimum 40%)",
-    "Marriage Registration Certificate"
+    "Marriage Registration Certificate",
+    "Age Proof of Bride and Groom",
+    "Uttar Pradesh Residence Certificate",
+    "Aadhaar Card",
+    "Bank Account Details",
+    "Passport Size Photographs"
+  ],
+
+  "important_guidelines": [
+    "Only legally registered marriages are eligible",
+    "Benefit is provided only once per marriage",
+    "Incorrect or false information may lead to rejection",
+    "Offline verification is mandatory",
+    "Bank account must be Aadhaar linked"
+  ],
+
+  "impact": "This scheme has contributed significantly to the social empowerment of Divyangjan citizens in Uttar Pradesh. By offering financial assistance at the time of marriage, it helps reduce social barriers, promotes dignity and supports equal participation of persons with disabilities in society.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
+  "faqs": [
+    {
+      "q": "Is this incentive given every year?",
+      "a": "No, it is a one-time incentive provided at the time of marriage."
+    },
+    {
+      "q": "Is offline submission compulsory?",
+      "a": "Yes, offline verification is mandatory after online submission."
+    }
   ],
 
   "apply": "https://samajkalyan.up.gov.in/",
 
-  "faqs": [
-    {
-      "q": "What is the scope of this scheme?",
-      "a": "The scheme encourages the marriage of differently-abled citizens by providing financial incentives and promoting social inclusion."
-    },
-    {
-      "q": "Who can get the benefits under the scheme?",
-      "a": "Divyangjan couples where at least one member has a minimum 40% disability and fulfills the eligibility criteria."
-    },
-    {
-      "q": "Is there any minimum disability percentage required?",
-      "a": "Yes, a minimum of 40% disability is mandatory."
-    },
-    {
-      "q": "Can couples from other states apply?",
-      "a": "No, only permanent residents or domiciled citizens of Uttar Pradesh can apply."
-    },
-    {
-      "q": "What is the financial eligibility?",
-      "a": "Neither spouse should be an income tax payer."
-    },
-    {
-      "q": "How to apply for the scheme?",
-      "a": "Applications are submitted online, followed by mandatory submission of a hard copy to the District Disabled Empowerment Office."
-    },
-    {
-      "q": "What documents are required?",
-      "a": "Age proof, address proof, disability certificate, marriage certificate and photographs are required."
-    }
-  ],
-
-  "sources": [
-    "Social Welfare Department, Uttar Pradesh",
-    "Official Scheme Guidelines",
-    "Samaj Kalyan UP Portal"
-  ]
+  "disclaimer": "This website is not affiliated with the Government of Uttar Pradesh. Information provided is for educational purposes only. Please verify details from the official portal before applying."
 },
+
 {
   "id": "up-3",
   "title": "Uttar Pradesh Pre Examination Training Centers Scheme",
-  "department": "Social Welfare Department, Uttar Pradesh",
+  "department": "Social Welfare Department, Government of Uttar Pradesh",
 
-  "overview": "The Uttar Pradesh Social Welfare Department has established Pre Examination Training Centers to provide high-quality coaching for UPSC, UPPSC and other competitive examinations to candidates from Scheduled Castes (SC), Scheduled Tribes (ST) and Other Backward Classes (OBC) in the state. These centers aim to enhance educational equality and social justice by supporting economically and socially disadvantaged students.",
+  "overview": "The Uttar Pradesh Pre Examination Training Centers Scheme is a major educational empowerment initiative aimed at providing free and quality coaching to students from Scheduled Castes (SC), Scheduled Tribes (ST) and Other Backward Classes (OBC). Competitive examinations such as UPSC, UPPSC and other government recruitment exams often require expensive coaching, which many economically disadvantaged students cannot afford.\n\nTo bridge this gap, the Government of Uttar Pradesh established Pre Examination Training Centers across the state. These centers offer structured classroom coaching, expert faculty guidance, study materials, mock tests and interview preparation at no cost to selected candidates. The scheme ensures that talented students are not deprived of opportunities due to financial constraints.\n\nBy promoting equal access to competitive exam preparation, the scheme supports social justice, educational equality and inclusive representation in government services.",
+
+  "objectives": [
+    "To provide free coaching for competitive examinations",
+    "To support SC, ST and OBC candidates from economically weaker backgrounds",
+    "To promote representation of marginalized communities in civil services",
+    "To reduce dependence on expensive private coaching institutes",
+    "To enhance academic confidence and exam readiness"
+  ],
 
   "benefits": [
-    "Free coaching for competitive exams such as UPSC and UPPSC",
-    "Expert faculty guidance and classroom sessions",
-    "Mock tests, interview preparation and doubt-clearing sessions",
-    "Special facilities and reservations for women candidates at certain centers",
-    "Capacities to train over 1000 aspirants across multiple centers"
+    "Free coaching for UPSC, UPPSC and other competitive exams",
+    "Experienced faculty and academic mentoring",
+    "Mock tests and interview preparation",
+    "Study materials and structured syllabus coverage",
+    "Special facilities for women candidates at select centers"
   ],
+
+  "detailed_benefits": "The scheme offers comprehensive preparation support covering preliminary, mains and interview stages of competitive examinations. Classroom sessions focus on conceptual clarity, answer-writing skills and exam strategy. Mock tests and practice sessions help candidates evaluate performance and improve time management.\n\nSelected training centers also provide counseling, motivational sessions and academic mentoring. Women candidates receive additional support through reserved seats and dedicated facilities at selected centers. By eliminating financial barriers, the scheme enables students to compete on merit and confidence.",
 
   "eligibility": [
-    "Candidate must be a permanent resident of Uttar Pradesh",
-    "Candidate must belong to Scheduled Caste (SC), Scheduled Tribe (ST) or Other Backward Class (OBC)",
-    "Candidate should have passed a bachelor’s degree from a recognized university",
-    "Family annual income should be within limits specified by the department"
+    "Applicant must be a permanent resident of Uttar Pradesh",
+    "Candidate must belong to SC, ST or OBC category",
+    "Candidate must have completed graduation from a recognized university",
+    "Family income must be within prescribed limits",
+    "Applicant should not be availing similar coaching benefits from another government scheme"
   ],
 
-  "applicationMode": "Online / Offline (as per official notification)",
+  "applicationMode": "Online / Offline as per notification",
 
   "applicationProcess": [
     "Visit the official Samaj Kalyan Vibhag portal of Uttar Pradesh",
-    "Check the notification for Pre Examination Training Centers",
-    "Fill in the application form with personal and educational details",
-    "Upload required documents including caste certificate and income certificate",
-    "Submit the application online or follow instructions for offline submission",
-    "Await selection details and attend counseling if required"
+    "Check notification for Pre Examination Training Centers",
+    "Fill application form with personal and educational details",
+    "Upload caste and income certificates",
+    "Submit application as per instructions",
+    "Attend counseling or entrance test if required",
+    "Join allotted training center after selection"
   ],
 
   "centers": [
     "Lucknow – Shri Chhatrapati Shahu Ji Maharaj Research & Training Institute, Gomti Nagar",
     "Lucknow – Model Pre Examination Centre (Girls), Aliganj",
     "Prayagraj – Judicial Services Training Centre",
-    "Varanasi – Sant Ravidas IAS/PCS Pre-Exam Training Centre",
+    "Varanasi – Sant Ravidas IAS/PCS Training Centre",
     "Aligarh – Dr. B.R. Ambedkar IAS/PCS Training Centre",
     "Hapur – IAS/PCS Coaching Centre, Nizampur"
   ],
 
   "documentsRequired": [
-    "Aadhaar Card / Identity Proof",
-    "Caste Certificate (SC / ST / OBC)",
+    "Aadhaar Card",
+    "Caste Certificate",
     "Graduation Marksheet / Degree",
-    "Income Certificate of family",
-    "Residence Certificate / UP Domicile Proof",
-    "Passport-size photo"
+    "Income Certificate",
+    "Uttar Pradesh Domicile Certificate",
+    "Passport Size Photograph"
+  ],
+
+  "impact": "The Pre Examination Training Centers Scheme has empowered thousands of students from marginalized communities by providing free access to competitive exam preparation. The scheme has improved participation, confidence and success rates of SC, ST and OBC candidates in government recruitment exams, contributing to inclusive governance.",
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
+  "faqs": [
+    {
+      "q": "Is the coaching completely free?",
+      "a": "Yes, all coaching and study support is provided free of cost."
+    },
+    {
+      "q": "Which exams are covered?",
+      "a": "UPSC, UPPSC and other central and state competitive examinations."
+    }
   ],
 
   "apply": "https://samajkalyan.up.gov.in/",
 
-  "faqs": [
-    {
-      "q": "What is the Pre Examination Training Centers scheme?",
-      "a": "It is a government initiative by the Uttar Pradesh Social Welfare Department to provide free coaching for competitive exams to socially and economically disadvantaged students."
-    },
-    {
-      "q": "Who can apply for this scheme?",
-      "a": "Students belonging to SC, ST or OBC communities who are permanent residents of Uttar Pradesh and have completed a bachelor’s degree."
-    },
-    {
-      "q": "What exams does the coaching cover?",
-      "a": "The coaching covers civil service exams such as UPSC, UPPSC and other state and central competitive exams."
-    },
-    {
-      "q": "Are there special facilities for women?",
-      "a": "Yes, some centers provide special facilities and reserved seats for women candidates."
-    },
-    {
-      "q": "Is the coaching free?",
-      "a": "Yes, coaching is provided free of cost to eligible candidates under this scheme."
-    }
-  ],
-
-  "sources": [
-    "Samaj Kalyan Department – UP Official Portal (Pre Examination Training Centers)", 
-    "Social Welfare Department, Uttar Pradesh – Scheme Details"
-  ]
+  "disclaimer": "This website is not affiliated with the Government of Uttar Pradesh. Information provided is for awareness and educational purposes only. Please verify details from official notifications."
 }
+
 ],
   "Madhya Pradesh": [
     {
@@ -593,6 +726,13 @@
     "Madhya Pradesh Domicile Certificate",
     "Passport-size Photograph"
   ],
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
   "apply": "https://socialjustice.mp.gov.in/",
 
@@ -673,6 +813,13 @@
     "संभागीय श्रम कार्यालय",
     "जिला श्रम कार्यालय"
   ],
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
   "faqs": [
     {
@@ -766,6 +913,13 @@
     "योग्य उम्मीदवार ऑनलाइन आवेदन कर सकेंगे",
     "चयन प्रक्रिया में लिखित परीक्षा / साक्षात्कार / दस्तावेज सत्यापन शामिल हो सकता है"
   ],
+  "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
   "faqs": [
     {
@@ -837,6 +991,12 @@
         "जाति प्रमाण पत्र (यदि लागू हो)",
         "बीपीएल प्रमाण पत्र"
       ],
+      "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
 
       "faqs": [
         {
@@ -892,6 +1052,13 @@
         "आय प्रमाण पत्र",
         "निवास प्रमाण"
       ],
+      "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
       "faqs": [
         {
@@ -943,6 +1110,13 @@
         "Aadhaar Card",
         "Driving License"
       ],
+      "notes": [
+  "Scheme rules and benefits may change as per government notification",
+  "Applicants must verify eligibility from the official portal",
+  "Incomplete or incorrect applications may be rejected",
+  "This scheme is subject to availability of government funds"
+],
+
 
       "faqs": [
         {
