@@ -1,488 +1,695 @@
 [
   {
-    "id": "nts-pg",
-    "title": "National Talent Scholarship (Postgraduate)",
-    "ministry": "agriculture",
-    "category": "Agriculture • Postgraduate • Scholarship",
-    "tags": ["Agriculture", "Scholarship", "Postgraduate", "ICAR"],
-    "intro": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research (ICAR) to support students pursuing a Master's degree in agriculture outside their state of domicile.",
-    "details": [
-      "Launched by Indian Council of Agricultural Research (ICAR)",
-      "Applicable for ICAR-recognized Agricultural Universities",
-      "Student must pursue studies outside the state of domicile"
-    ],
-    "benefits": [
-      "₹3,000 per month scholarship",
-      "Scholarship provided for the full postgraduate duration",
-      "No contingency grant is paid"
-    ],
-    "eligibility": [
-      "Applicant must be a postgraduate agriculture student",
-      "Must study outside the domicile state",
-      "Should not receive any other scholarship",
-      "Must maintain good academic performance and conduct"
-    ],
-    "documents": [
-      "Recent Photograph",
-      "Signature",
-      "Thumb Impression"
-    ],
-    "application": {
-      "mode": "Online",
-      "website": "https://icar.nta.ac.in",
-      "steps": [
-        "Visit the ICAR NTA official website",
-        "Complete online registration",
-        "Fill the application form",
-        "Upload required documents",
-        "Submit the application"
-      ]
-    }
-  },
-
-  {
-    "id": "education-scholarship-pg",
-    "title": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
-    "ministry": "education",
-    "category": "Education • Postgraduate • Scholarship",
-    "tags": ["Education", "Scholarship", "SC", "ST", "Postgraduate"],
-    "intro": "This scheme provides financial assistance to SC/ST students pursuing postgraduate studies in professional courses such as Engineering, Management, Pharmacy and Technology.",
-    "details": [
-      "Scholarship for SC/ST postgraduate students",
-      "Applicable to professional courses like Engineering, Technology, Management and Pharmacy",
-      "Applicable in recognized Indian Universities and Institutions"
-    ],
-    "benefits": [
-      "₹7,800 per month for ME/M.Tech students",
-      "₹4,500 per month for other professional postgraduate courses",
-      "Scholarship tenure limited to course duration (2–3 years)",
-      "No contingency grant provided"
-    ],
-    "eligibility": [
-      "Applicant must belong to SC or ST category",
-      "Must have completed graduation in a relevant discipline",
-      "Must be admitted to a full-time regular postgraduate professional course",
-      "Only first-year postgraduate students are eligible",
-      "Institution must be recognized by UGC / Central / State Government"
-    ],
-    "documents": [
-      "Photograph",
-      "Signature",
-      "Thumb Impression"
-    ],
-    "application": {
-      "mode": "Online",
-      "website": "https://scholarships.gov.in",
-      "steps": [
-        "Register on National Scholarship Portal",
-        "Fill postgraduate scholarship application form",
-        "Upload required documents",
-        "Submit application online"
-      ]
-    }
-  },
-
-  {
-    "id": "pragati-scholarship-girls",
-    "title": "Pragati Scholarship Scheme for Girl Students (Technical Degree)",
-    "ministry": "education",
-    "category": "Education • Technical Degree • Scholarship",
-    "tags": ["Education", "Scholarship", "Girls", "AICTE", "Technical"],
-    "intro": "Pragati Scholarship Scheme by AICTE provides financial assistance to girl students pursuing technical degree courses in AICTE-approved institutions.",
-    "details": [
-      "Implemented by AICTE under Ministry of Education",
-      "Applicable for first-year and lateral-entry students",
-      "Maximum two girl children per family are eligible",
-      "Scholarship duration up to 4 years or 3 years for lateral entry"
-    ],
-    "benefits": [
-      "₹50,000 per annum as lump sum",
-      "Can be used for fees, books, computer, software and equipment"
-    ],
-    "eligibility": [
-      "Applicant must be a girl student",
-      "Must be admitted to first year or lateral entry of a technical degree course",
-      "Family annual income must not exceed ₹8,00,000",
-      "Applicable for selected Union Territories and North Eastern States"
-    ],
-    "documents": [
-      "10th Certificate",
-      "12th / Diploma Certificate",
-      "Income Certificate",
-      "Category Certificate",
-      "Aadhaar Card",
-      "Bank Passbook",
-      "Study Certificate",
-      "Parent Declaration"
-    ],
-    "application": {
-      "mode": "Online",
-      "website": "https://scholarships.gov.in",
-      "steps": [
-        "Register on National Scholarship Portal",
-        "Login using Application ID and password",
-        "Fill the application form",
-        "Upload required documents",
-        "Final submit the application",
-        "Track payment status via PFMS portal"
-      ]
-    }
-  },
-
-  {
-    "id": "Nikshay-Yojana",
-    "title": "Nikshay Poshan Yojana",
-    "ministry": "health",
-    "category": "Health • Nutrition • Welfare",
-    "tags": ["Health", "Tuberculosis", "Nutrition", "Financial Assistance"],
-    "intro": "Nikshay Poshan Yojana provides monthly nutritional financial assistance to tuberculosis (TB) patients during the course of their treatment.",
-    "details": [
-      "Launched in 2018 by the Ministry of Health and Family Welfare",
-      "Applicable to TB patients registered on the Nikshay portal",
-      "Aims to improve treatment outcomes by addressing malnutrition"
-    ],
-    "benefits": [
-      "₹1,000 per month financial assistance for each notified TB patient"
-    ],
-    "eligibility": [
-      "Patient must be diagnosed with tuberculosis (TB)",
-      "Patient must be notified on or after 1 April 2018",
-      "Patient must be registered on the Nikshay portal"
-    ],
-    "documents": [
-      "Bank Account Proof",
-      "Bank Passbook or Cancelled Cheque",
-      "Aadhaar Card (optional)",
-      "Consent or Declaration Form (if applicable)"
-    ],
-    "application": {
-      "mode": "Through Health Facility",
-      "website": "https://nikshay.in",
-      "steps": [
-        "Patient submits Aadhaar-linked bank account details to TB health provider",
-        "Health staff enters details in Nikshay portal",
-        "Bank details validated via PFMS",
-        "Monthly incentive credited to the validated bank account"
-      ]
-    }
-  },
-
-  {
-    "id": "Minority-Affairs",
-    "title": "Coaching Scheme for SC/ST/OBC (Non-Creamy Layer) & Minority Students",
-    "ministry": "minority",
-    "category": "Education • Coaching • Welfare",
-    "tags": ["Coaching", "SC", "ST", "OBC", "Minority", "Students"],
-    "intro": "This scheme provides financial assistance to universities and institutions for coaching SC, ST, OBC (Non-Creamy Layer) and Minority students to improve access to higher education and competitive exams.",
-    "details": [
-      "Provides coaching support at UG and PG levels",
-      "Includes coaching for competitive exams, NET and entry into services",
-      "Assistance provided to universities over and above general development grants"
-    ],
-    "benefits": [
-      "One-time non-recurring grant up to ₹5 lakh for equipment and learning material",
-      "Recurring assistance up to ₹7 lakh per year for coaching-related expenses"
-    ],
-    "eligibility": [
-      "Universities and colleges recognized under UGC Act",
-      "Institutions with sufficient SC, ST, OBC and Minority student strength",
-      "BPL general category students may also be considered in limited cases"
-    ],
-    "documents": [
-      "Institution Recognition Certificate",
-      "Student Category Certificate",
-      "Academic Records",
-      "Bank Account Details"
-    ],
-    "application": {
-      "mode": "Offline / Online (Institution Level)",
-      "website": "https://www.ugc.ac.in",
-      "steps": [
-        "Institution submits proposal to UGC",
-        "UGC evaluates eligibility and proposal",
-        "Approved institutions receive financial assistance",
-        "Coaching programs are implemented by institutions"
-      ]
-    }
-  },
-
-  {
-    "id": "Ministry-Culture",
-    "title": "Seva Bhoj Yojna",
-    "ministry": "culture",
-    "category": "Culture • Free Food • Welfare",
-    "tags": ["Free Food", "Langar", "Prasad", "GST Reimbursement", "Religious Institutions"],
-    "intro": "Seva Bhoj Yojna is a scheme by the Ministry of Culture to support charitable and religious institutions that provide free food to the public by reimbursing GST paid on selected food items.",
-    "details": [
-      "Launched in August 2018 by the Ministry of Culture",
-      "Applicable across India",
-      "Supports institutions serving free food such as Langar, Prasad or Bhandara",
-      "Reimburses Central GST (CGST) and Central share of IGST paid on food items",
-      "Applications are accepted every month from 1st to 15th"
-    ],
-    "benefits": [
-      "Reimbursement of GST paid on raw food items like rice, wheat flour, pulses, sugar, edible oil and ghee",
-      "Helps reduce operational cost of free food services",
-      "Encourages charitable and religious food distribution"
-    ],
-    "eligibility": [
-      "Applicant must be a registered charitable or religious institution",
-      "Institution must be distributing free food for at least the last 3 years",
-      "Must serve free food to a minimum of 5,000 people per month",
-      "Institution should not be receiving similar financial assistance from any other government scheme"
-    ],
-    "exclusion": [
-      "Institutions blacklisted under FCRA or any Central/State Government Act are not eligible"
-    ],
-    "documents": [
-      "Registration Certificate of Institution",
-      "PAN / TAN of the Institution",
-      "Audited Accounts of last 3 years",
-      "Annual Reports (if available)",
-      "Self-declaration for free food distribution",
-      "Bank Authorization Letter",
-      "Invoices for purchase of raw food items"
-    ],
-    "application": {
-      "mode": "Online (Institution Level)",
-      "website": "https://seva-bhoj.nic.in",
-      "steps": [
-        "Register the institution on NGO Darpan Portal (NITI Aayog)",
-        "Enroll on the CSMS portal of Ministry of Culture",
-        "Upload required documents and registration details",
-        "Obtain unique enrollment number from Ministry of Culture",
-        "Submit GST reimbursement claims through the portal",
-        "GST authorities verify and approve the claim",
-        "Reimbursement amount is released to the institution"
-      ]
-    }
-  },
-
-  {
-  "id": "Ministry-Finance",
-  "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-  "ministry": "finance",
-  "category": "Accident Insurance • Social Security • Bank Account Holders",
-  "tags": ["Accident Insurance", "Social Security", "Bank Account Holder", "Death Insurance"],
-  "intro": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is a government-backed accident insurance scheme that provides financial protection in case of accidental death or disability at a very low annual premium.",
-  "details": [
-    "Launched by the Government of India to provide accident insurance coverage",
-    "Covers accidental death and permanent disability",
-    "Insurance coverage is valid for one year and renewable annually",
-    "Premium is auto-debited from the subscriber’s bank or post office account"
-  ],
-  "benefits": [
-    "₹2,00,000 in case of accidental death",
-    "₹2,00,000 for total and irrecoverable loss of both eyes or loss of use of both hands or feet",
-    "₹1,00,000 for total and irrecoverable loss of one eye or loss of use of one hand or foot"
-  ],
-  "eligibility": [
-    "Individual must be a bank or post office account holder",
-    "Age should be between 18 years and 70 years",
-    "Subscriber must give consent for auto-debit of premium",
-    "Sufficient balance must be maintained in the account"
-  ],
-  "documents": [
-    "Bank Account Details",
-    "Aadhaar Card (if available)",
-    "Consent-cum-declaration form"
-  ],
-  "application": {
-    "mode": "Online / Offline (via Bank or Post Office)",
-    "website": "https://jansuraksha.gov.in/Forms-PMSBY.aspx",
-    "steps": [
-      "Visit the bank branch or post office where you have a savings account",
-      "Alternatively, download the PMSBY application form from the official website",
-      "Fill in the required details and submit the form to the bank or post office",
-      "Provide consent for auto-debit of annual premium",
-      "After successful enrolment, insurance coverage starts from 1st June"
-    ]
-  }
-},
-
-{
-  "id": "Ministry-External",
-  "title": "Pravasi Bharatiya Bima Yojana (PBBY)",
-  "ministry": "external-affairs",
-  "category": "Overseas Workers • Insurance • Social Security",
+  "id": "nts-pg",
+  "title": "National Talent Scholarship (Postgraduate)",
+  "ministry": "Agriculture",
+  "category": "Agriculture • Postgraduate • Scholarship",
+  "appl_link" :"https://icar.nta.ac.in",
   "tags": [
-    "Overseas Employment",
-    "Insurance",
-    "Migrant Workers",
-    "Medical Cover",
-    "External Affairs"
+    "National Talent Scholarship",
+    "NTS PG",
+    "ICAR Scholarship",
+    "Postgraduate Scholarship",
+    "Agriculture Scholarship"
   ],
-  "intro": "Pravasi Bharatiya Bima Yojana (PBBY) is a mandatory insurance scheme introduced by the Ministry of External Affairs (MEA) to safeguard Indian emigrant workers, especially those under the Emigration Check Required (ECR) category, going abroad for employment.",
-  "details": [
-    "Mandatory insurance scheme for Indian emigrant workers under ECR category",
-    "Applicable to workers going to notified ECR countries for overseas employment",
-    "Provides comprehensive insurance coverage irrespective of change in employer or job location",
-    "Insurance policy must be obtained before emigration clearance",
-    "Online policy issuance and renewal facility available",
-    "Aims at speedy settlement of insurance claims through simplified procedures",
-    "Certification by Indian Missions / Posts abroad is accepted for claim processing"
+  "intro": "The National Talent Scholarship (Postgraduate), commonly known as NTS-PG, is a prestigious scholarship scheme launched by the Indian Council of Agricultural Research (ICAR). The scheme is designed to support meritorious students who wish to pursue a Master’s degree in agriculture and allied sciences outside their state of domicile. By providing financial assistance during postgraduate studies, the scholarship aims to promote higher education, research excellence, and skilled manpower development in the agricultural sector of India.",
+  "objective": [
+    "To encourage talented students to pursue postgraduate education in agriculture and allied disciplines",
+    "To promote inter-state academic exposure by encouraging students to study outside their domicile state",
+    "To support agricultural research, innovation, and technology development",
+    "To create a pool of skilled agricultural professionals for national development",
+    "To reduce financial burden on students pursuing higher education in agriculture"
   ],
+  "about_scheme": "Agriculture plays a vital role in India’s economy and food security. Recognizing the need for highly qualified professionals in this sector, ICAR introduced the National Talent Scholarship (PG) scheme. The scholarship is awarded to students who qualify the ICAR All India Entrance Examination and secure admission in ICAR-recognized agricultural universities. The scheme ensures that talented students receive consistent financial support throughout their postgraduate education, allowing them to focus on academics and research without financial stress.",
   "benefits": [
-    "₹10,00,000 insurance cover in case of accidental death or permanent disability during overseas employment",
-    "Medical insurance cover up to ₹1,00,000 for injuries, sickness or diseases (maximum ₹50,000 per hospitalization)",
-    "Repatriation expenses covered for medically unfit workers or premature termination of employment (one-way economy airfare to India)",
-    "Family hospitalization in India covered up to ₹50,000 for spouse and first two dependent children up to 21 years of age",
-    "Maternity benefit for women emigrants available up to ₹50,000",
-    "Reimbursement of one-way return economy airfare for one attendant in case of accidental death or permanent disability of the insured",
-    "Legal expenses related to overseas employment disputes covered up to ₹45,000",
-    "Facility for online renewal of insurance policy"
+    "Monthly scholarship of ₹3,000 provided to selected postgraduate students",
+    "Financial support continues for the entire duration of the postgraduate program",
+    "Direct Benefit Transfer (DBT) ensures transparency and timely payment",
+    "Encourages students to pursue education in reputed agricultural institutions",
+    "Supports academic excellence and research-oriented learning"
   ],
   "eligibility": [
-    "Applicant must be an Indian emigrant cleared for overseas employment",
-    "Applicable to Emigration Check Required (ECR) passport holders",
-    "Age of the applicant should be between 18 and 65 years",
-    "Must be traveling to a notified ECR country for employment"
+    "Applicant must be an Indian citizen",
+    "Candidate must be pursuing a postgraduate degree in agriculture or allied sciences",
+    "Admission must be taken in an ICAR-recognized agricultural university",
+    "Student must pursue studies outside the state of domicile",
+    "Applicant should not be receiving any other scholarship or financial assistance",
+    "Candidate must maintain satisfactory academic performance throughout the course",
+    "Good conduct and discipline are mandatory during the scholarship period"
   ],
-  "documents": [
-    "Valid Passport (all pages copy)",
-    "Employment Visa / Work Permit",
-    "Emigration Clearance Certificate",
-    "Insurance Policy Certificate",
-    "Medical Records (in case of injury or disability)",
-    "Police Report (in case of accidental death)",
-    "Post-Mortem Report (if applicable)",
-    "Certificate from Indian Embassy / Mission abroad",
-    "Disability Certificate issued by competent medical authority (for disability claims)"
+  "who_should_apply": "The National Talent Scholarship (PG) is ideal for students who have completed their undergraduate degree in agriculture or related fields and aspire to pursue higher studies. Students who are interested in agricultural research, innovation, rural development, food security, and sustainable farming practices can greatly benefit from this scholarship. It is particularly suitable for meritorious students who require financial assistance to continue their education at the postgraduate level.",
+  "selection_process": [
+    "Selection is based on merit in the ICAR All India Entrance Examination",
+    "Candidates must qualify for admission in ICAR-recognized universities",
+    "Final selection is subject to verification of eligibility criteria",
+    "Document verification is mandatory before scholarship approval",
+    "Scholarship continuation depends on academic performance"
   ],
-  "application": {
-    "mode": "Online / Offline (through authorized insurance companies)",
-    "website": "https://www.mea.gov.in",
+  "application_process": {
+    "mode": "Online",
     "steps": [
-      "Before applying, keep passport, visa, work permit and employment details ready",
-      "Choose an authorized insurance provider offering PBBY policy",
-      "Fill the online PBBY application form with personal and travel details",
-      "Select the insurance plan as per duration of overseas employment",
-      "Make payment through available online modes such as UPI, debit card, credit card or net banking",
-      "After successful payment, download and save the insurance policy certificate",
-      "Submit the insurance policy details during emigration clearance process",
-      "Policy can be renewed online if employment period is extended"
-    ]
-  }
-},
-
-{
-  "id": "Commu",
-  "title": "National Centre for Communication Security (NCCS) Internship Scheme",
-  "ministry": "communications",
-  "category": "Cyber Security • Internship • Technical Training",
-  "tags": [
-    "Cyber Security",
-    "Internship",
-    "NCCS",
-    "Telecom Security",
-    "Government Internship"
-  ],
-  "intro": "The National Centre for Communication Security (NCCS) Internship Scheme provides an opportunity to young scholars to gain practical exposure in advanced areas of communication and cyber security while contributing to the technical work of NCCS.",
-  "details": [
-    "Internships are offered on a quarterly basis",
-    "Interns work with NCCS divisions under the guidance of senior officers",
-    "Focus areas include hardware security, source code analysis, cryptography, malware detection and network vulnerabilities",
-    "An orientation workshop is conducted at the beginning of the internship",
-    "Interns are required to submit a final report at the end of the internship",
-    "The total number of interns at any time shall not exceed 20"
-  ],
-  "duration": [
-    "Category I: Minimum 60 days",
-    "Category II: Minimum 6 months, extendable up to 12 months with approval"
-  ],
-  "eligibility": [
-    "Category I: Indian students in 3rd or 4th year (pre-final/final year) of Bachelor’s degree in Electronics, Communication, Telecommunication, IT, Computer Science or related disciplines with minimum 60% marks",
-    "Category II: Indian graduates or postgraduates in Electronics, Communication, Telecommunication, IT, Computer Science or related disciplines with minimum 60% marks",
-    "Students pursuing or having completed postgraduate degrees are also eligible under Category II",
-    "Relaxation in qualifications may be considered in deserving cases",
-    "Meeting minimum eligibility does not guarantee selection"
-  ],
-  "documents": [
-    "Proof of Date of Birth (Class 10 certificate)",
-    "Class 12 mark sheet",
-    "Engineering graduation mark sheets (completed semesters)",
-    "Degree certificate (for Category II, if applicable)",
-    "Postgraduate degree/mark sheets (if applicable)",
-    "CGPA to percentage conversion proof (if applicable)",
-    "Internship or work experience certificates (if available)",
-    "Updated CV / Resume"
-  ],
-  "application": {
-    "mode": "Online + Offline (Email Submission Mandatory)",
-    "website": "https://nccs.gov.in",
-    "steps": [
-      "Check the official NCCS notification for the relevant quarter",
-      "Download and fill the prescribed application form (Annexure-II)",
-      "Prepare CV and clearly mention areas of interest",
-      "Email the completed application to jtohq.nccs-dot@gov.in with a copy to adethq.nccs-dot@gov.in",
-      "Select the internship category (Category I or Category II) in the application",
-      "Shortlisted candidates may be called for interview (physical or telephonic)",
-      "Selected interns must submit a No Objection Certificate from their institution before joining"
-    ]
+      "Visit the official ICAR or ICAR NTA website",
+      "Register using valid personal and academic details",
+      "Fill out the online application form carefully",
+      "Upload required documents in the prescribed format",
+      "Review the application and submit it online",
+      "Take a printout or save the acknowledgment for future reference"
+    ] 
+   
   },
-  "notes": [
-    "Applications must be submitted in the quarter preceding the intended internship period",
-    "The internship does not guarantee employment with NCCS",
-    "No TA/DA will be provided for interviews or internship"
+  "documents_required": [
+    "Recent passport-size photograph",
+    "Candidate’s signature",
+    "Thumb impression",
+    "Proof of admission in postgraduate course",
+    "Domicile certificate",
+    "Academic qualification certificates",
+    "Valid identity proof"
+  ],
+  "scholarship_amount": "Selected candidates receive a scholarship amount of ₹3,000 per month. The amount is usually credited directly to the student’s bank account through Direct Benefit Transfer (DBT). The scholarship is provided for the complete duration of the postgraduate course, subject to satisfactory academic performance and adherence to ICAR guidelines.",
+  "important_guidelines": [
+    "Students must maintain good academic performance throughout the course",
+    "Any false information provided may lead to cancellation of the scholarship",
+    "Scholarship may be discontinued if the student violates rules or guidelines",
+    "Change of university or course is not allowed without prior approval",
+    "Regular attendance and discipline are mandatory"
+  ],
+  "renewal_and_duration": "The National Talent Scholarship (PG) is awarded for the full duration of the postgraduate program. Renewal of the scholarship is subject to the student maintaining satisfactory academic progress and good conduct. Performance reviews may be conducted periodically by the concerned authorities.",
+  "impact_of_scheme": "The NTS-PG scheme has significantly contributed to strengthening agricultural education and research in India. By supporting students financially, the scheme helps develop skilled professionals who contribute to agricultural innovation, policy development, and sustainable farming practices. It also promotes national integration by encouraging students to study outside their home states.",
+  "faqs": [
+    {
+      "question": "Is the National Talent Scholarship (PG) available for all postgraduate students?",
+      "answer": "No, the scholarship is available only to students pursuing postgraduate studies in agriculture and allied sciences in ICAR-recognized universities."
+    },
+    {
+      "question": "Can a student receive another scholarship along with NTS-PG?",
+      "answer": "No, students receiving NTS-PG are not allowed to avail any other scholarship simultaneously."
+    },
+    {
+      "question": "How is the scholarship amount paid?",
+      "answer": "The scholarship amount is paid directly to the student’s bank account through Direct Benefit Transfer (DBT)."
+    }
+  ],
+  "disclaimer": "This website is not affiliated with any government authority or ICAR. The information provided here is for educational and informational purposes only. Scheme details, eligibility criteria, and benefits may change from time to time. Applicants are advised to verify all details from the official ICAR website before applying.",
+  "related_links": [
+    "Central Government Schemes",
+    "Scholarship Schemes",
+    "Jobs & Results"
   ]
 },
+{
+  "id": "education-scholarship-pg",
+  "title": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+  "ministry": "education",
+  "category": "Education • Postgraduate • Scholarship",
 
-[
-  {
-    "id": "Ankush",
-    "title": "National Centre for Communication Security (NCCS) Internship Scheme",
-    "ministry": "communications",
-    "category": "Cyber Security • Internship • Technical Training",
-    "tags": [
-      "Cyber Security",
-      "Internship",
-      "NCCS",
-      "Telecom Security",
-      "Government Internship"
-    ],
-    "intro": "The National Centre for Communication Security (NCCS) Internship Scheme offers young scholars hands-on exposure in advanced communication and cyber security domains while contributing to NCCS technical work.",
-    "details": [
-      "Internships are offered on a quarterly basis",
-      "Interns work under NCCS divisions and senior officers",
-      "Key focus areas include hardware security, cryptography, source code analysis, malware detection and network vulnerabilities",
-      "Orientation workshop is conducted at the start of internship",
-      "Maximum 20 interns are engaged at any given time"
-    ],
-    "benefits": [
-      "Exposure to real-world cyber and telecom security projects",
-      "Guidance from senior government technical experts",
-      "Certificate of Internship on successful completion",
-      "Opportunity to publish technical report or paper"
-    ],
-    "eligibility": [
-      "Category I: Indian students in 3rd or 4th year of Bachelor’s degree in Electronics, Communication, IT, Computer Science or related fields with minimum 60% marks",
-      "Category II: Indian graduates or postgraduates in Electronics, Communication, IT, Computer Science or related fields with minimum 60% marks",
-      "Qualification relaxation may be granted in deserving cases",
-      "Meeting eligibility criteria does not guarantee selection"
-    ],
-    "documents": [
-      "Class 10 certificate (Date of Birth proof)",
-      "Class 12 mark sheet",
-      "Engineering graduation mark sheets",
-      "Degree certificate (for Category II, if applicable)",
-      "Postgraduate certificates (if applicable)",
-      "CGPA to percentage conversion proof",
-      "Internship or work experience certificates (if any)",
-      "Updated CV / Resume"
-    ],
-    "application": {
-      "mode": "Online + Offline (Email submission mandatory)",
-      "website": "https://nccs.gov.in",
-      "steps": [
-        "Check NCCS official notification for the relevant quarter",
-        "Download and fill the prescribed application form (Annexure-II)",
-        "Prepare CV and clearly mention preferred work areas",
-        "Email application to jtohq.nccs-dot@gov.in with CC to adethq.nccs-dot@gov.in",
-        "Mention internship category (Category I or II) in the application",
-        "Shortlisted candidates may be called for interview",
-        "Submit No Objection Certificate from institution before joining"
-      ]
+  "appl_link": "https://scholarships.gov.in",
+
+  "tags": [
+    "SC ST Scholarship",
+    "Postgraduate Scholarship",
+    "Professional Courses Scholarship",
+    "Education Ministry Scholarship",
+    "NSP Scholarship"
+  ],
+
+  "intro": "The Post-Graduate Scholarships for Professional Courses for SC/ST Candidates is a centrally sponsored scholarship scheme implemented by the Ministry of Education, Government of India. The scheme aims to provide financial assistance to students belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories who are pursuing postgraduate studies in professional courses such as Engineering, Technology, Management, Pharmacy and allied disciplines. The primary objective of this scholarship is to reduce financial barriers, promote higher education, and enhance employability among SC/ST students.",
+
+  "objective": [
+    "To support SC/ST students pursuing postgraduate professional courses",
+    "To reduce financial burden on students from marginalized communities",
+    "To promote access to quality higher education",
+    "To increase representation of SC/ST students in technical and professional fields",
+    "To improve employability and career prospects through higher education"
+  ],
+
+  "about_scheme": "Higher education in professional courses often involves significant financial expenditure, which can be a major obstacle for students from economically weaker backgrounds. Recognizing this challenge, the Government of India introduced the Post-Graduate Scholarships for Professional Courses for SC/ST Candidates scheme. The scholarship is awarded to meritorious SC/ST students admitted to full-time regular postgraduate professional courses in recognized institutions. The scheme is implemented through the National Scholarship Portal (NSP) to ensure transparency, accountability, and timely disbursement of scholarship amounts.",
+
+  "benefits": [
+    "₹7,800 per month for students pursuing ME, M.Tech or equivalent postgraduate courses",
+    "₹4,500 per month for students pursuing other postgraduate professional courses",
+    "Scholarship is provided for the entire duration of the course (generally 2–3 years)",
+    "Direct Benefit Transfer (DBT) ensures direct credit to the student’s bank account",
+    "No repayment required as the scholarship is a grant-in-aid"
+  ],
+
+  "eligibility": [
+    "Applicant must belong to Scheduled Caste (SC) or Scheduled Tribe (ST) category",
+    "Applicant must be an Indian citizen",
+    "Candidate must have completed graduation in a relevant discipline",
+    "Admission must be taken in a full-time regular postgraduate professional course",
+    "Only first-year postgraduate students are eligible to apply",
+    "The institution must be recognized by UGC / AICTE / Central or State Government",
+    "Applicant should not be availing any other scholarship for the same course"
+  ],
+
+  "who_should_apply": "This scholarship is ideal for SC/ST students who have successfully completed their undergraduate studies and wish to pursue postgraduate education in professional fields. Students aiming for careers in engineering, management, pharmacy, technology, or other professional domains can greatly benefit from this scheme. It is particularly suitable for students who require financial assistance to continue their education without interruption.",
+
+  "selection_process": [
+    "Selection is based on admission to a recognized postgraduate professional course",
+    "Priority may be given based on merit and availability of funds",
+    "Verification of caste, academic records, and admission details is mandatory",
+    "Final approval is granted by the concerned ministry through the National Scholarship Portal",
+    "Scholarship continuation depends on satisfactory academic performance"
+  ],
+
+  "application_process": {
+    "mode": "Online",
+    "steps": [
+      "Visit the National Scholarship Portal (NSP)",
+      "Register using Aadhaar or other valid identification",
+      "Login and select the Post-Graduate Scholarship for SC/ST Candidates",
+      "Fill in personal, academic and bank details carefully",
+      "Upload required documents in the prescribed format",
+      "Submit the application and note the application ID",
+      "Track application and payment status through the NSP dashboard"
+    ]
+  },
+
+  "documents_required": [
+    "Recent passport-size photograph",
+    "SC/ST caste certificate",
+    "Graduation mark sheets and degree certificate",
+    "Admission proof for postgraduate course",
+    "Income certificate (if required)",
+    "Aadhaar card",
+    "Bank passbook (for DBT)",
+    "Institution verification form"
+  ],
+
+  "scholarship_amount": "Under this scheme, selected students receive a monthly scholarship of ₹7,800 for ME/M.Tech courses and ₹4,500 for other postgraduate professional courses. The scholarship amount is credited directly to the student’s bank account through Direct Benefit Transfer (DBT).",
+
+  "important_guidelines": [
+    "Scholarship is available only for full-time regular courses",
+    "Students must maintain satisfactory academic progress",
+    "Any false or incorrect information may lead to rejection or cancellation",
+    "Change of course or institution is not permitted without prior approval",
+    "Failure in examinations may result in discontinuation of scholarship"
+  ],
+
+  "renewal_and_duration": "The scholarship is provided for the normal duration of the postgraduate course, typically 2 to 3 years. Renewal of the scholarship is subject to the student maintaining satisfactory academic performance and fulfilling attendance requirements as prescribed by the institution.",
+
+  "impact_of_scheme": "The Post-Graduate Scholarships for Professional Courses for SC/ST Candidates scheme has played a significant role in promoting inclusive education in India. By providing financial support, the scheme enables students from disadvantaged communities to pursue advanced education, acquire professional skills, and contribute meaningfully to the nation’s workforce and economic development.",
+
+  "faqs": [
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "SC/ST students admitted to full-time regular postgraduate professional courses in recognized institutions are eligible."
+    },
+    {
+      "question": "Can students apply offline?",
+      "answer": "No, applications are accepted only through the National Scholarship Portal (NSP)."
+    },
+    {
+      "question": "Is the scholarship renewable every year?",
+      "answer": "Yes, renewal is subject to satisfactory academic performance and institutional verification."
+    },
+    {
+      "question": "Is income certificate mandatory?",
+      "answer": "Income certificate requirements may vary based on guidelines for the academic year."
     }
-  }
-]
+  ],
+
+  "disclaimer": "This website is not affiliated with the Government of India or the Ministry of Education. The information provided is for educational and informational purposes only. Applicants are advised to verify details from the official National Scholarship Portal before applying."
+},
+{
+  "id": "pragati-scholarship-girls",
+  "title": "Pragati Scholarship Scheme for Girl Students (Technical Degree)",
+  "ministry": "education",
+  "category": "Education • Technical Degree • Scholarship",
+
+  "appl_link": "https://scholarships.gov.in",
+
+  "tags": [
+    "Pragati Scholarship",
+    "Girl Students Scholarship",
+    "AICTE Scholarship",
+    "Technical Education Scholarship",
+    "Education for Girls"
+  ],
+
+  "intro": "The Pragati Scholarship Scheme for Girl Students is a flagship scholarship program implemented by the All India Council for Technical Education (AICTE) under the Ministry of Education, Government of India. The scheme aims to encourage and support meritorious girl students pursuing technical degree education by providing financial assistance. By reducing the financial burden on families, the Pragati Scholarship promotes higher education among women and helps bridge the gender gap in technical and professional fields.",
+
+  "objective": [
+    "To promote technical education among girl students in India",
+    "To reduce the financial burden of higher education on families",
+    "To increase enrollment and retention of women in technical courses",
+    "To empower women through education and skill development",
+    "To encourage gender equality in engineering and technical professions"
+  ],
+
+  "about_scheme": "Despite significant progress, the participation of women in technical education remains lower compared to men. Recognizing this challenge, AICTE introduced the Pragati Scholarship Scheme to motivate girl students to pursue technical degree programs. The scheme provides financial assistance to girl students admitted to AICTE-approved institutions, ensuring that economic constraints do not hinder their academic aspirations. The scholarship is disbursed through the National Scholarship Portal (NSP) using Direct Benefit Transfer (DBT) for transparency and efficiency.",
+
+  "benefits": [
+    "₹50,000 per annum provided as a lump sum",
+    "Financial assistance can be used for tuition fees, books, stationery, computer, software and equipment",
+    "Scholarship is available for up to 4 years for first-year students",
+    "Scholarship is available for up to 3 years for lateral entry students",
+    "Direct Benefit Transfer (DBT) ensures timely payment to the student’s bank account"
+  ],
+
+  "eligibility": [
+    "Applicant must be a girl student",
+    "Must be admitted to the first year or lateral entry of a technical degree course",
+    "Course must be approved by AICTE",
+    "Family annual income should not exceed ₹8,00,000",
+    "Maximum two girl children per family are eligible",
+    "Applicant must be an Indian citizen",
+    "Student should not be receiving any other scholarship for the same course"
+  ],
+
+  "who_should_apply": "The Pragati Scholarship Scheme is ideal for girl students who have secured admission in technical degree programs such as engineering, technology, or other AICTE-approved courses. It is particularly beneficial for students from economically weaker families who require financial support to continue their education. Girls aspiring to build careers in engineering, technology, and innovation can leverage this scholarship to achieve their academic and professional goals.",
+
+  "selection_process": [
+    "Selection is based on merit and eligibility criteria",
+    "Applications are processed through the National Scholarship Portal (NSP)",
+    "Verification of academic records, income certificate and institution details is mandatory",
+    "Final approval is granted by AICTE based on availability of funds",
+    "Scholarship continuation depends on satisfactory academic performance"
+  ],
+
+  "application_process": {
+    "mode": "Online",
+    "steps": [
+      "Visit the National Scholarship Portal (NSP)",
+      "Register using Aadhaar or other valid credentials",
+      "Login and select Pragati Scholarship Scheme for Girl Students",
+      "Fill in personal, academic and bank details",
+      "Upload required documents in the prescribed format",
+      "Submit the application and save the application ID",
+      "Track application status and payment details on the NSP portal"
+    ]
+  },
+
+  "documents_required": [
+    "Recent passport-size photograph",
+    "Aadhaar card",
+    "Income certificate",
+    "Admission letter from AICTE-approved institution",
+    "10th and 12th mark sheets or diploma certificate",
+    "Bank passbook or account details",
+    "Category certificate (if applicable)",
+    "Parent declaration"
+  ],
+
+  "scholarship_amount": "Under the Pragati Scholarship Scheme, selected girl students receive ₹50,000 per annum as financial assistance. The amount is provided as a lump sum and is credited directly to the student’s bank account through Direct Benefit Transfer (DBT).",
+
+  "important_guidelines": [
+    "Scholarship is applicable only for AICTE-approved institutions",
+    "Students must maintain satisfactory academic progress",
+    "Any false information may lead to rejection or cancellation of scholarship",
+    "Change of course or institution is not permitted without prior approval",
+    "Scholarship may be discontinued in case of academic failure or misconduct"
+  ],
+
+  "renewal_and_duration": "The scholarship is provided for the normal duration of the technical degree course. For first-year students, the scholarship can be availed for up to four years, while lateral entry students can avail it for up to three years. Renewal is subject to academic performance and institutional verification each year.",
+
+  "impact_of_scheme": "The Pragati Scholarship Scheme has played a crucial role in empowering women through technical education. By providing financial assistance, the scheme encourages girl students to pursue careers in engineering and technology, contributes to gender equality in higher education, and supports the development of a skilled and inclusive workforce in India.",
+
+  "faqs": [
+    {
+      "question": "Who can apply for the Pragati Scholarship Scheme?",
+      "answer": "Girl students admitted to AICTE-approved technical degree courses are eligible to apply."
+    },
+    {
+      "question": "Is the scholarship available for diploma courses?",
+      "answer": "No, the Pragati Scholarship Scheme is applicable only for technical degree courses."
+    },
+    {
+      "question": "How is the scholarship amount paid?",
+      "answer": "The scholarship amount is paid directly to the student’s bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Can the scholarship be renewed every year?",
+      "answer": "Yes, the scholarship can be renewed subject to satisfactory academic performance."
+    }
+  ],
+
+  "disclaimer": "This website is not affiliated with AICTE or the Government of India. The information provided here is for educational and informational purposes only. Applicants are advised to verify details from the official National Scholarship Portal before applying."
+},
+{
+  "id": "Nikshay-Yojana",
+  "title": "Nikshay Poshan Yojana",
+  "ministry": "health",
+  "category": "Health • Nutrition • Welfare",
+  "appl_link": "https://nikshay.in",
+
+  "tags": ["Tuberculosis", "TB Nutrition Scheme", "Health Welfare", "Financial Assistance"],
+
+  "intro": "Nikshay Poshan Yojana is a flagship health and nutrition support scheme launched by the Ministry of Health and Family Welfare, Government of India. The scheme aims to provide nutritional and financial support to tuberculosis (TB) patients during the course of their treatment to improve recovery rates and reduce mortality.",
+
+  "objective": [
+    "To provide nutritional support to TB patients",
+    "To improve treatment adherence and outcomes",
+    "To reduce TB-related mortality",
+    "To financially assist patients during treatment",
+    "To strengthen India’s TB elimination program"
+  ],
+
+  "about_scheme": "Tuberculosis is a major public health concern in India. Poor nutrition is one of the key factors affecting treatment success. To address this issue, the Government of India launched the Nikshay Poshan Yojana in 2018. Under this scheme, TB patients receive direct financial assistance every month during treatment to help meet nutritional requirements.",
+
+  "benefits": [
+    "₹1,000 per month nutritional assistance",
+    "Direct transfer to patient’s bank account",
+    "Support provided for entire treatment duration",
+    "Applicable to drug-sensitive and drug-resistant TB patients"
+  ],
+
+  "eligibility": [
+    "Patient must be diagnosed with tuberculosis",
+    "Patient must be notified on the Nikshay portal",
+    "Patient must be undergoing TB treatment",
+    "Bank account details must be provided"
+  ],
+
+  "application_process": {
+    "mode": "Through Health Facility",
+    "steps": [
+      "TB patient is diagnosed at a government or private health facility",
+      "Patient details are registered on Nikshay portal",
+      "Bank account details are collected and verified",
+      "Monthly assistance is credited via DBT"
+    ]
+  },
+
+  "documents_required": [
+    "TB diagnosis report",
+    "Aadhaar card (if available)",
+    "Bank account details",
+    "Consent form (if required)"
+  ],
+
+  "impact_of_scheme": "Nikshay Poshan Yojana has significantly improved treatment adherence among TB patients by addressing nutritional deficiencies and reducing financial stress during treatment.",
+
+  "disclaimer": "Information is for awareness purposes only. Verify details from official Nikshay portal."
+},
+{
+  "id": "minority",
+  "title": "Coaching Scheme for SC/ST/OBC (Non-Creamy Layer) & Minority Students",
+  "ministry": "minority",
+  "category": "Education • Coaching • Welfare",
+  "appl_link": "https://www.ugc.ac.in",
+
+  "intro": "This scheme provides financial assistance to universities and institutions for offering coaching to SC, ST, OBC (Non-Creamy Layer) and Minority students to help them succeed in higher education and competitive examinations.",
+
+  "objective": [
+    "To provide academic coaching support",
+    "To improve access to higher education",
+    "To support disadvantaged students",
+    "To enhance success in competitive exams"
+  ],
+
+  "about_scheme": "The Government of India supports universities and institutions to conduct specialized coaching programs aimed at improving academic performance and employability of students from disadvantaged communities.",
+
+  "benefits": [
+    "Recurring grants for coaching programs",
+    "Non-recurring grants for study material and equipment",
+    "Institution-level support"
+  ],
+
+  "eligibility": [
+    "Recognized universities and colleges",
+    "Institutions with adequate SC/ST/OBC/Minority students",
+    "Compliance with UGC guidelines"
+  ],
+
+  "application_process": {
+    "mode": "Institution Level",
+    "steps": [
+      "Institution submits proposal to UGC",
+      "Evaluation and approval by UGC",
+      "Release of funds to institution"
+    ]
+  },
+
+  "impact_of_scheme": "The scheme improves academic inclusion and helps students from marginalized communities compete at national and international levels.",
+
+  "disclaimer": "Scheme details may change. Refer to UGC notifications."
+},
+{
+  "id": "Ministry-Culture",
+  "title": "Seva Bhoj Yojana",
+  "ministry": "culture",
+  "category": "Culture • Free Food • Welfare",
+  "appl_link": "https://seva-bhoj.nic.in",
+
+  "intro": "Seva Bhoj Yojana is a welfare scheme by the Ministry of Culture to reimburse GST paid on food items used for free food distribution by charitable and religious institutions.",
+
+  "objective": [
+    "To support free food services",
+    "To reduce operational cost of charities",
+    "To encourage community service"
+  ],
+
+  "benefits": [
+    "GST reimbursement on raw food items",
+    "Supports langar, prasad and bhandara services"
+  ],
+
+  "eligibility": [
+    "Registered charitable or religious institutions",
+    "Free food service for minimum 3 years",
+    "Serving at least 5,000 people per month"
+  ],
+
+  "application_process": {
+    "mode": "Online",
+    "steps": [
+      "Register on NGO Darpan",
+      "Enroll on CSMS portal",
+      "Submit GST reimbursement claims"
+    ]
+  },
+
+  "impact_of_scheme": "The scheme supports India’s rich tradition of free community food services.",
+
+  "disclaimer": "Verify GST and eligibility rules from official portal."
+},
+{
+  "id": "ministry-external",
+  "title": "Pravasi Bharatiya Bima Yojana",
+  "ministry": "external-affairs",
+  "category": "Overseas Workers • Insurance • Welfare",
+  "appl_link": "https://www.mea.gov.in",
+
+  "intro": "Pravasi Bharatiya Bima Yojana provides insurance protection to Indian migrant workers going abroad for employment.",
+
+  "benefits": [
+    "₹10 lakh insurance cover",
+    "Medical coverage",
+    "Repatriation expenses",
+    "Legal assistance"
+  ],
+
+  "eligibility": [
+    "Indian emigrant workers",
+    "ECR passport holders",
+    "Age 18–65 years"
+  ],
+
+  "impact_of_scheme": "The scheme safeguards migrant workers from financial risks during overseas employment.",
+
+  "disclaimer": "Policy terms vary by insurer."
+},
+{
+  "id": "commu",
+  "title": "National Centre for Communication Security (NCCS) Internship Scheme",
+  "ministry": "communication",
+  "category": "Cyber Security • Internship • Training",
+  "appl_link": "https://nccs.gov.in",
+
+  "tags": [
+    "Cyber Security",
+    "NCCS Internship",
+    "Government Internship",
+    "Telecom Security",
+    "Students Internship"
+  ],
+
+  "intro": "The National Centre for Communication Security (NCCS) Internship Scheme is an advanced technical internship program launched under the Ministry of Communication, Government of India. The scheme is designed to provide hands-on exposure to students and young professionals in the fields of cyber security, telecom security, cryptography, network protection and secure communication systems.",
+
+  "objective": [
+    "To develop skilled manpower in cyber and communication security",
+    "To provide real-world exposure to students in government cyber security projects",
+    "To strengthen national cyber and telecom security ecosystem",
+    "To encourage research and innovation in secure communication technologies",
+    "To create future-ready cyber security professionals"
+  ],
+
+  "about_scheme": "With the rapid growth of digital communication and telecom infrastructure in India, ensuring secure and reliable communication systems has become a national priority. The NCCS Internship Scheme was introduced to bridge the gap between academic learning and real-world cyber security challenges. Interns work closely with senior government experts on live projects related to telecom security, source code analysis, hardware security and cyber threat mitigation.",
+
+  "benefits": [
+    "Hands-on experience in cyber and telecom security projects",
+    "Mentorship by senior government cyber security experts",
+    "Exposure to national-level security infrastructure",
+    "Internship completion certificate from NCCS",
+    "Opportunity to build a strong career foundation in cyber security"
+  ],
+
+  "eligibility": [
+    "Applicant must be an Indian citizen",
+    "Engineering students or graduates in Computer Science, IT, Electronics, Communication or related fields",
+    "Minimum 60% marks or equivalent CGPA",
+    "Strong interest in cyber security and telecom security",
+    "Meeting eligibility does not guarantee selection"
+  ],
+
+  "who_should_apply": "This internship is ideal for students and young professionals who are passionate about cyber security, ethical hacking, telecom security and secure communication systems. Candidates aspiring to work in government cyber security agencies, telecom sector or advanced security research roles can greatly benefit from this internship.",
+
+  "selection_process": [
+    "Shortlisting based on academic background and application",
+    "Evaluation of technical knowledge and area of interest",
+    "Interview or technical interaction (if required)",
+    "Final selection by NCCS authorities"
+  ],
+
+  "application_process": {
+    "mode": "Online + Email",
+    "steps": [
+      "Visit the official NCCS website",
+      "Download the prescribed internship application form",
+      "Fill in academic and personal details",
+      "Prepare updated CV highlighting cyber security skills",
+      "Email the completed application to official NCCS email IDs",
+      "Await shortlisting and further communication"
+    ]
+  },
+
+  "documents_required": [
+    "Updated CV / Resume",
+    "Proof of identity",
+    "Academic mark sheets",
+    "No Objection Certificate (from institution, if applicable)",
+    "Cover letter (optional)"
+  ],
+
+  "duration_and_structure": "The internship is offered in different categories ranging from a minimum of 60 days to extended durations of up to 6 or 12 months, depending on the category and approval. Interns are required to submit a final report at the end of the internship.",
+
+  "impact_of_scheme": "The NCCS Internship Scheme plays a vital role in strengthening India’s cyber security ecosystem by nurturing skilled professionals. It contributes to national security, supports secure digital infrastructure and prepares youth for future challenges in cyber and telecom security.",
+
+  "faqs": [
+    {
+      "question": "Is the NCCS internship paid?",
+      "answer": "The internship primarily focuses on training and exposure. Stipend availability depends on NCCS guidelines for the specific internship category."
+    },
+    {
+      "question": "Does this internship guarantee a job?",
+      "answer": "No, the internship does not guarantee employment with NCCS or the government."
+    },
+    {
+      "question": "Can final-year students apply?",
+      "answer": "Yes, final-year students meeting eligibility criteria can apply."
+    }
+  ],
+
+  "disclaimer": "This website is not affiliated with the Ministry of Communication or NCCS. The information provided is for educational and informational purposes only. Applicants must verify details from the official NCCS website before applying."
+},
+{
+  "id": "pmsby",
+  "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "ministry": "finance",
+  "category": "Accident Insurance • Social Security • Banking",
+  "appl_link": "https://jansuraksha.gov.in",
+
+  "tags": [
+    "PMSBY",
+    "Accident Insurance Scheme",
+    "Government Insurance",
+    "Social Security Scheme",
+    "Bank Account Insurance"
+  ],
+
+  "intro": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is a flagship social security and accident insurance scheme launched by the Government of India under the Ministry of Finance. The scheme provides affordable accident insurance coverage to citizens at a very low annual premium, ensuring financial protection for individuals and their families in case of accidental death or disability.",
+
+  "objective": [
+    "To provide low-cost accident insurance to all sections of society",
+    "To ensure financial security for families in case of accidental death or disability",
+    "To promote social security through banking channels",
+    "To encourage financial inclusion among citizens",
+    "To reduce financial hardship caused by unexpected accidents"
+  ],
+
+  "about_scheme": "Accidental deaths and disabilities often result in severe financial distress for families, especially among economically weaker sections. Recognizing this need, the Government of India launched PMSBY as part of the Jan Suraksha initiatives. The scheme is linked with bank and post office accounts and offers accident insurance coverage at a nominal annual premium, making it accessible to millions of Indians.",
+
+  "benefits": [
+    "₹2,00,000 insurance cover in case of accidental death",
+    "₹2,00,000 for permanent total disability (loss of both eyes, hands or feet)",
+    "₹1,00,000 for permanent partial disability (loss of one eye, hand or foot)",
+    "Affordable annual premium of ₹20 only",
+    "Auto-debit facility ensures hassle-free renewal"
+  ],
+
+  "eligibility": [
+    "Applicant must be an Indian citizen",
+    "Age should be between 18 years and 70 years",
+    "Must have an active bank or post office savings account",
+    "Consent for auto-debit of premium is mandatory",
+    "Sufficient balance must be maintained in the account"
+  ],
+
+  "who_should_apply": "Pradhan Mantri Suraksha Bima Yojana is suitable for all bank or post office account holders who wish to secure themselves and their families against accidental risks. It is especially beneficial for workers, daily wage earners, small traders and individuals from low-income households who may not be able to afford expensive insurance policies.",
+
+  "selection_process": [
+    "Enrollment through bank or post office account",
+    "Submission of consent-cum-declaration form",
+    "Auto-debit of annual premium",
+    "Policy activation after successful enrollment"
+  ],
+
+  "application_process": {
+    "mode": "Online / Offline",
+    "steps": [
+      "Visit your bank branch or post office",
+      "Fill the PMSBY consent-cum-declaration form",
+      "Submit the form to the bank or post office",
+      "Alternatively, apply through net banking or mobile banking (if available)",
+      "Premium is auto-debited from the account",
+      "Insurance coverage starts from 1st June of the enrollment year"
+    ]
+  },
+
+  "documents_required": [
+    "Bank or post office account details",
+    "Aadhaar card (if available)",
+    "Consent-cum-declaration form",
+    "Valid identity proof"
+  ],
+
+  "premium_and_duration": "Under PMSBY, subscribers are required to pay an annual premium of ₹20 only. The insurance coverage is valid for one year, from 1st June to 31st May, and can be renewed automatically every year through auto-debit, subject to eligibility.",
+
+  "important_guidelines": [
+    "The scheme is optional and based on voluntary enrollment",
+    "Insurance coverage is available only if premium is successfully debited",
+    "Claim settlement is subject to policy terms and conditions",
+    "False or incorrect information may lead to rejection of claims",
+    "Policy lapses if sufficient balance is not maintained"
+  ],
+
+  "impact_of_scheme": "Pradhan Mantri Suraksha Bima Yojana has significantly strengthened India’s social security framework by providing affordable accident insurance to millions of citizens. The scheme has helped families cope with financial losses due to accidents and has promoted insurance awareness and financial inclusion across the country.",
+
+  "faqs": [
+    {
+      "question": "What is the premium for PMSBY?",
+      "answer": "The annual premium for PMSBY is ₹20 per year."
+    },
+    {
+      "question": "Who can enroll in PMSBY?",
+      "answer": "Any Indian citizen aged between 18 and 70 years with a bank or post office account can enroll."
+    },
+    {
+      "question": "Is PMSBY renewable every year?",
+      "answer": "Yes, the scheme is renewable annually through auto-debit of premium."
+    },
+    {
+      "question": "How is the claim amount paid?",
+      "answer": "The claim amount is paid to the nominee or beneficiary as per policy rules."
+    }
+  ],
+
+  "disclaimer": "This website is not affiliated with the Ministry of Finance or any insurance provider. The information provided is for educational and informational purposes only. Applicants are advised to verify details from the official Jan Suraksha website or their bank before enrolling."
+}
+
+
+
+
 ]

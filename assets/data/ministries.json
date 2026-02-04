@@ -15,29 +15,28 @@
     "count": 1
   },
   {
-    "id": "Minority",
-    "name": "Ministry of Minority affairs",
+    "id": "minority",
+    "name": "Ministry of Minority Affairs",
     "count": 1
   },
   {
-    "id": "Culture",
+    "id": "culture",
     "name": "Ministry of Culture",
     "count": 1
   },
   {
-    "id": "Finance",
+    "id": "finance",
     "name": "Ministry of Finance",
     "count": 1
   },
   {
-    "id": "External Affairs",
+    "id": "external-affairs",
     "name": "Ministry of External Affairs",
     "count": 1
   },
   {
-    "id": "Communication",
+    "id": "communication",
     "name": "Ministry of Communication",
     "count": 1
   }
-  
 ]

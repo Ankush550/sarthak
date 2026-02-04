@@ -1,112 +1,111 @@
 {
   "agriculture": {
     "title": "Ministry of Agriculture & Farmers Welfare",
-    "desc": "Schemes related to farmers, agriculture and rural support.",
+    "desc": "Schemes related to farmers, agriculture, research and rural development.",
     "schemes": [
       {
         "id": "nts-pg",
-        "name": "National Talent Scholarship (PG)",
-        "details": "Merit based scholarship for agriculture postgraduate students.",
-        "tags": ["Agriculture", "Scholarship", "Postgraduate"]
+        "name": "National Talent Scholarship (Postgraduate)",
+        "details": "Merit-based postgraduate scholarship for agriculture students.",
+        "tags": ["Agriculture", "Scholarship", "Postgraduate", "ICAR"]
       }
     ]
   },
 
   "education": {
     "title": "Ministry of Education",
-    "desc": "Schemes related to education and student welfare.",
+    "desc": "Schemes related to education, scholarships and student welfare.",
     "schemes": [
       {
         "id": "education-scholarship-pg",
         "name": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
-        "details": "Scholarship support for postgraduate students.",
-        "tags": ["Education", "Scholarship", "Postgraduate"]
+        "details": "Financial support for SC/ST students pursuing postgraduate professional courses.",
+        "tags": ["Education", "Scholarship", "SC/ST", "Postgraduate"]
       },
       {
         "id": "pragati-scholarship-girls",
         "name": "Pragati Scholarship Scheme for Girl Students",
-        "details": "Pragati Scholarship Scheme for girl students pursuing technical degree education.",
-        "tags": ["Education", "Scholarship", "Girls", "Technical"]
+        "details": "Scholarship for girl students pursuing technical degree education.",
+        "tags": ["Education", "Scholarship", "Girls", "Technical", "AICTE"]
       }
     ]
   },
 
   "health": {
-    "title": "Ministry of Health",
-    "desc": "Schemes related to Health & family welfare.",
+    "title": "Ministry of Health & Family Welfare",
+    "desc": "Schemes related to health care, nutrition and family welfare.",
     "schemes": [
       {
         "id": "Nikshay-Yojana",
         "name": "Nikshay Poshan Yojana",
-        "details": "Health support.",
-        "tags": ["Finalcial Assistance", "Health"]
+        "details": "Monthly nutritional financial assistance for tuberculosis (TB) patients.",
+        "tags": ["Health", "Nutrition", "TB", "Financial Assistance"]
       }
     ]
   },
 
-  "Minority": {
-    "title": "Ministry of Minority",
-    "desc": "Schemes related to Minority affairs.",
+  "minority": {
+    "title": "Ministry of Minority Affairs",
+    "desc": "Schemes related to minority welfare, education and coaching support.",
     "schemes": [
       {
-        "id": "Minority-Affairs",
-        "name": "Coaching Schemes For Sc/st/obc (non-creamy Layer) & Minority Students For Universities",
-        "details": "Coaching Scheme for minority Students.",
-        "tags": ["Coaching Assistance", "SC/ST", "OBC"]
+        "id": "minority",
+        "name": "Coaching Scheme for SC/ST/OBC (Non-Creamy Layer) & Minority Students",
+        "details": "Coaching support for disadvantaged and minority students in universities.",
+        "tags": ["Coaching", "SC", "ST", "OBC", "Minority"]
       }
     ]
   },
-  "Culture": {
+
+  "culture": {
     "title": "Ministry of Culture",
-    "desc": "Schemes related to Cultures of India.",
+    "desc": "Schemes related to Indian culture, heritage and community services.",
     "schemes": [
       {
         "id": "Ministry-Culture",
-        "name": "Seva Bhoj Yojna",
-        "details": "Seva Bhoj Yojna.",
-        "tags": ["Bhoj", "Free Food", "Prasad"]
+        "name": "Seva Bhoj Yojana",
+        "details": "GST reimbursement scheme for institutions providing free food.",
+        "tags": ["Free Food", "Langar", "Prasad", "Bhandara"]
       }
     ]
   },
 
-  "Finance": {
+  "finance": {
     "title": "Ministry of Finance",
-    "desc": "Schemes related to Ministry of finance.",
+    "desc": "Schemes related to insurance, banking and financial security.",
     "schemes": [
       {
-        "id": "Ministry-Finance",
-        "name": "Pradhan Mantri Suraksha Bima Yojana",
-        "details": "Pradhan Mantri Suraksha Bima Yojana.",
-        "tags": ["Accident Insurance", "Bank Account Holder", "Death Insurance"]
+        "id": "pmsby",
+        "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "details": "Accident insurance scheme providing financial protection at low premium.",
+        "tags": ["Accident Insurance", "Social Security", "Bank Account Holder"]
       }
     ]
   },
 
-  "External Affairs": {
+  "external-affairs": {
     "title": "Ministry of External Affairs",
-    "desc": "Schemes related to Ministry of External Affairs.",
+    "desc": "Schemes related to overseas employment and migrant worker welfare.",
     "schemes": [
       {
-        "id": "Ministry-External",
-        "name": "Pravasi Bharatiya Bima Yojana",
-        "details": "Pravasi Bharatiya Bima Yojana.",
-        "tags": ["Employment", "Finalcial Assistance", "Medical Insurance"]
+        "id": "ministry-external",
+        "name": "Pravasi Bharatiya Bima Yojana (PBBY)",
+        "details": "Insurance protection for Indian migrant workers going abroad for employment.",
+        "tags": ["Employment", "Insurance", "Overseas Workers"]
       }
     ]
   },
 
-"Communication": {
+  "communication": {
     "title": "Ministry of Communication",
-    "desc": "Schemes related to Ministry of Communication.",
+    "desc": "Schemes related to communication, technology and cyber security.",
     "schemes": [
       {
-        "id": "",
-        "name": "National Centre For Communication Security (NCCS) Internship Scheme",
-        "details": "National Centre For Communication Security (NCCS) Internship Scheme.",
-        "tags": ["Bangalore", "Cyber Security", "Internship","Students"]
+        "id": "commu",
+        "name": "National Centre for Communication Security (NCCS) Internship Scheme",
+        "details": "Cyber security internship program for students.",
+        "tags": ["Cyber Security", "Internship", "Students", "Telecom"]
       }
     ]
   }
 }
-
-
