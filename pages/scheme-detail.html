@@ -1,26 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Scheme Details</title>
+  <!-- BASIC META -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO TITLE (JS se dynamic bhi ho sakta hai) -->
+  <title>Government Scheme Details – Eligibility, Benefits & Apply Online</title>
+
+  <!-- META DESCRIPTION -->
+  <meta name="description"
+    content="Get complete government scheme details including eligibility, benefits, application process, documents required and official apply link." />
+
+  <!-- ROBOTS -->
+  <meta name="robots" content="index, follow">
+
+  <!-- CSS -->
   <link rel="stylesheet" href="../assets/css/schemes.css">
 </head>
-<button id="backCentralBtn" class="back-btn">
-  ← Back to Central Schemes
-</button>
 
-</div>
 <body>
 
-<div class="container">
-  <div id="schemeDetail" class="scheme-card">Loading...</div>
+  <!-- BACK TO CENTRAL SCHEMES -->
+  <button id="backCentralBtn" class="back-btn" onclick="location.href='central-schemes.html'">
+    ← Back to Central Schemes
+  </button>
 
-  <div class="back-wrap">
-    <a href="javascript:history.back()" class="back">← Back</a>
+  <div class="container">
+
+    <!-- MAIN CONTENT (JS WILL RENDER HERE) -->
+    <div id="schemeDetail" class="scheme-card">
+      Loading scheme details...
+    </div>
+
+    <!-- INTERNAL BACK LINK -->
+    <div class="back-wrap">
+      <a href="central-schemes.html" class="back">← Back to Central Schemes</a>
+    </div>
+
+    <!-- DISCLAIMER (MANDATORY FOR ADSENSE) -->
+    <p class="disclaimer">
+      <strong>Disclaimer:</strong> This website is not affiliated with any government authority.
+      All scheme information is collected from publicly available official sources and is provided
+      for informational purposes only. Please verify details from the official website before applying.
+    </p>
+
   </div>
-</div>
 
+  <!-- JS -->
+  <script src="../assets/js/scheme-detail.js"></script>
 
-
-<script src="../assets/js/scheme-detail.js"></script>
 </body>
 </html>

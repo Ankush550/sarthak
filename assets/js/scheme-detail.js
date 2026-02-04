@@ -1,7 +1,13 @@
+/* =========================
+   GET SCHEME ID FROM URL
+========================= */
 const params = new URLSearchParams(window.location.search);
 const schemeId = params.get("scheme");
 const box = document.getElementById("schemeDetail");
 
+/* =========================
+   LOAD SCHEME DATA
+========================= */
 fetch("../assets/data/scheme-detail.json")
   .then(res => res.json())
   .then(data => {
@@ -12,46 +18,65 @@ fetch("../assets/data/scheme-detail.json")
       return;
     }
 
+    /* 🔹 UPDATE PAGE TITLE & META (SEO BOOST) */
+    document.title = `${scheme.title} – Eligibility, Benefits & Apply Online`;
+
+    const metaDesc = document.querySelector("meta[name='description']");
+    if (metaDesc && scheme.intro) {
+      metaDesc.setAttribute(
+        "content",
+        scheme.intro.substring(0, 150)
+      );
+    }
+
     let html = `
       <h1>${scheme.title}</h1>
       <p class="tag">${scheme.category}</p>
       <p class="scheme-intro">${scheme.intro}</p>
     `;
 
-    if (scheme.objective) {
+    /* OBJECTIVES */
+    if (scheme.objective && scheme.objective.length) {
       html += `
-        <h3>Objectives</h3>
+        <h2>Objectives</h2>
         <ul>${scheme.objective.map(o => `<li>${o}</li>`).join("")}</ul>
       `;
     }
 
+    /* ABOUT */
     if (scheme.about_scheme) {
-      html += `<h3>About the Scheme</h3><p>${scheme.about_scheme}</p>`;
+      html += `
+        <h2>About the Scheme</h2>
+        <p>${scheme.about_scheme}</p>
+      `;
     }
 
-    if (scheme.benefits) {
+    /* BENEFITS */
+    if (scheme.benefits && scheme.benefits.length) {
       html += `
-        <h3>Benefits</h3>
+        <h2>Benefits</h2>
         <ul>${scheme.benefits.map(b => `<li>${b}</li>`).join("")}</ul>
       `;
     }
 
-    if (scheme.eligibility) {
+    /* ELIGIBILITY */
+    if (scheme.eligibility && scheme.eligibility.length) {
       html += `
-        <h3>Eligibility</h3>
+        <h2>Eligibility</h2>
         <ul>${scheme.eligibility.map(e => `<li>${e}</li>`).join("")}</ul>
       `;
     }
 
+    /* APPLICATION PROCESS */
     if (scheme.application_process) {
       html += `
-        <h3>Application Process</h3>
-        <p><b>Mode:</b> ${scheme.application_process.mode}</p>
+        <h2>Application Process</h2>
+        <p><strong>Mode:</strong> ${scheme.application_process.mode}</p>
         <ol>${scheme.application_process.steps.map(s => `<li>${s}</li>`).join("")}</ol>
       `;
     }
 
-    /* 🔥 APPLY ONLINE – TUMHARE appl_link SE */
+    /* APPLY ONLINE BUTTON (SAFE) */
     if (scheme.appl_link) {
       html += `
         <div class="apply-section">
@@ -59,36 +84,45 @@ fetch("../assets/data/scheme-detail.json")
              target="_blank"
              rel="nofollow noopener"
              class="apply-btn">
-             Apply Online
+             Apply on Official Website
           </a>
         </div>
       `;
     }
 
-    if (scheme.documents_required) {
+    /* DOCUMENTS */
+    if (scheme.documents_required && scheme.documents_required.length) {
       html += `
-        <h3>Documents Required</h3>
+        <h2>Documents Required</h2>
         <ul>${scheme.documents_required.map(d => `<li>${d}</li>`).join("")}</ul>
       `;
     }
 
-    if (scheme.faqs) {
-      html += `
-        <h3>FAQs</h3>
-        ${scheme.faqs.map((f, i) => `
-          <div class="faq-item">
-            <div class="faq-question" onclick="toggleFaq(${i})">
-              ${f.question} <span class="faq-icon">+</span>
-            </div>
-            <div class="faq-answer" id="faq-${i}">
-              ${f.answer}
-            </div>
+    /* FAQ SECTION */
+    if (scheme.faqs && scheme.faqs.length) {
+      html += `<h2>Frequently Asked Questions (FAQs)</h2>`;
+      html += scheme.faqs.map((f, i) => `
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(${i})">
+            ${f.question}
+            <span class="faq-icon">+</span>
+          </button>
+          <div class="faq-answer" id="faq-${i}">
+            ${f.answer}
           </div>
-        `).join("")}
+        </div>
+      `).join("");
+    }
+
+    /* DISCLAIMER (JSON + PAGE BOTH) */
+    if (scheme.disclaimer) {
+      html += `
+        <p class="scheme-note">
+          <strong>Disclaimer:</strong> ${scheme.disclaimer}
+        </p>
       `;
     }
 
-    html += `<p class="scheme-note">${scheme.disclaimer}</p>`;
     box.innerHTML = html;
   })
   .catch(err => {
@@ -96,12 +130,28 @@ fetch("../assets/data/scheme-detail.json")
     box.innerHTML = "<p>Error loading scheme details.</p>";
   });
 
+/* =========================
+   FAQ TOGGLE (ACCESSIBLE)
+========================= */
 function toggleFaq(i) {
   const ans = document.getElementById(`faq-${i}`);
-  ans.style.display = ans.style.display === "block" ? "none" : "block";
+  const isOpen = ans.style.display === "block";
+
+  document.querySelectorAll(".faq-answer").forEach(a => a.style.display = "none");
+  document.querySelectorAll(".faq-icon").forEach(i => i.innerText = "+");
+
+  if (!isOpen) {
+    ans.style.display = "block";
+    ans.previousElementSibling.querySelector(".faq-icon").innerText = "−";
+  }
 }
 
-document.getElementById("backCentralBtn")
-  .addEventListener("click", () => {
+/* =========================
+   BACK BUTTON
+========================= */
+const backBtn = document.getElementById("backCentralBtn");
+if (backBtn) {
+  backBtn.addEventListener("click", () => {
     window.location.href = "central-schemes.html";
   });
+}
