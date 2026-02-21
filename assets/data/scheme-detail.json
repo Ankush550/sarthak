@@ -687,9 +687,131 @@
   ],
 
   "disclaimer": "This website is not affiliated with the Ministry of Finance or any insurance provider. The information provided is for educational and informational purposes only. Applicants are advised to verify details from the official Jan Suraksha website or their bank before enrolling."
+},
+
+{
+  "id": "ACS",
+  "title": "CM Anuprati Coaching Scheme",
+  "ministry": "Social Justice & Empowerment Department, Government of Rajasthan",
+  "category": "Education • Coaching Assistance • Competitive Exams • SC/ST/OBC/EWS/Minority",
+
+  "appl_link": "https://sso.rajasthan.gov.in",
+
+  "tags": [
+    "CM Anuprati",
+    "RPSC",
+    "UPSC",
+    "RAS",
+    "REET",
+    "Engineering Entrance",
+    "Medical Entrance",
+    "CLAT",
+    "Competitive Exams Rajasthan"
+  ],
+
+  "intro": "The CM Anuprati Coaching Scheme is a welfare initiative launched by the Government of Rajasthan to provide financial assistance to meritorious students belonging to socially and economically weaker sections. The scheme supports candidates preparing for various state and national level competitive examinations by helping them cover coaching expenses.",
+
+  "objective": [
+    "To encourage talented students from reserved and minority categories",
+    "To provide financial support for preparation of competitive examinations",
+    "To improve representation of underprivileged communities in government services",
+    "To promote equal educational opportunities",
+    "To reduce financial burden of coaching fees"
+  ],
+
+  "about_scheme": "The scheme aims to assist students of Rajasthan belonging to SC, ST, OBC, EBC, EWS and Minority communities who aspire to qualify prestigious examinations like UPSC, RPSC, Engineering, Medical, CLAT and other government recruitment exams. Financial assistance is provided for coaching through recognized institutes, subject to eligibility and merit conditions.",
+
+  "benefits": [
+    "Financial assistance for UPSC Civil Services coaching up to ₹75,000",
+    "Support for RPSC/RAS preparation up to ₹50,000",
+    "Assistance for Engineering and Medical entrance coaching up to ₹70,000 per year",
+    "Coaching support for REET, Constable, Patwari and other state exams",
+    "Funding available for CLAT, CAFC, CSEET and Commerce-based entrance exams"
+  ],
+
+  "eligibility": [
+    "Applicant must be a domicile of Rajasthan",
+    "Must belong to SC, ST, OBC, EBC, EWS or Minority category",
+    "Annual family income should not exceed ₹8 lakh",
+    "Parents (if government employees) must not be above Pay Matrix Level-11",
+    "Candidate should not have previously availed benefits under the scheme",
+    "Must meet minimum academic qualifications required for respective exam"
+  ],
+
+  "who_should_apply": "Students of Rajasthan who belong to eligible categories and are preparing for state or national level competitive examinations but face financial challenges in affording coaching fees should apply under this scheme.",
+
+  "selection_process": [
+    "Online application through Rajasthan SSO portal",
+    "Automatic verification of documents through Jan Aadhaar/DigiLocker database",
+    "Merit-based selection",
+    "Allocation of coaching institute as per available district quota"
+  ],
+
+  "application_process": {
+    "mode": "Online",
+    "steps": [
+      "Visit the Rajasthan SSO portal (https://sso.rajasthan.gov.in)",
+      "Register using Jan Aadhaar under Citizen category",
+      "Login using SSO ID and password",
+      "Update profile information",
+      "Select SJMS SMS portal and choose CM Anuprati Coaching Scheme",
+      "Fill application form and upload required details",
+      "Submit application before the last date"
+    ]
+  },
+
+  "documents_required": [
+    "Aadhaar Card",
+    "Jan Aadhaar Number",
+    "SSO ID",
+    "Passport size photograph",
+    "Caste/Category certificate",
+    "Domicile certificate",
+    "10th and 12th mark sheets",
+    "Graduation certificate (if applicable)",
+    "Income certificate",
+    "Computer certificate (RSCIT/O Level/Diploma if required)",
+    "Any other document specified in notification"
+  ],
+
+  "financial_assistance_details": [
+    "UPSC Civil Services – Up to ₹75,000 (reputed institutes)",
+    "RAS/RPSC Exams – Up to ₹50,000",
+    "Sub Inspector & Similar Exams – ₹20,000",
+    "REET – ₹15,000",
+    "Patwari/Junior Assistant/Constable – ₹10,000",
+    "Engineering/Medical Entrance – Up to ₹70,000 per year",
+    "CLAT – Up to ₹40,000 per year",
+    "Commerce Entrance Exams – Up to ₹40,000 per year"
+  ],
+
+  "important_guidelines": [
+    "Application must be submitted online through SSO portal",
+    "Coaching institute must be selected from approved list",
+    "Benefit is subject to merit and availability of target seats",
+    "Incomplete applications may be rejected",
+    "Scheme guidelines may change as per government notification"
+  ],
+
+  "faqs": [
+    {
+      "question": "What is the purpose of CM Anuprati Coaching Scheme?",
+      "answer": "The scheme provides financial assistance to eligible students for preparation of competitive examinations."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Students belonging to SC, ST, OBC, EBC, EWS or Minority categories who are domiciled in Rajasthan and meet income criteria."
+    },
+    {
+      "question": "How to apply for CM Anuprati Coaching Scheme?",
+      "answer": "Applications can be submitted online through the Rajasthan SSO portal."
+    },
+    {
+      "question": "Is selection automatic after applying?",
+      "answer": "No, selection is based on eligibility, document verification and merit criteria."
+    }
+  ],
+
+  "disclaimer": "This content is created for informational purposes only. Applicants are advised to refer to the official Rajasthan Government notifications and SSO portal for latest updates and accurate guidelines."
 }
-
-
-
-
 ]

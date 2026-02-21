@@ -27,7 +27,17 @@
         "name": "Pragati Scholarship Scheme for Girl Students",
         "details": "Scholarship for girl students pursuing technical degree education.",
         "tags": ["Education", "Scholarship", "Girls", "Technical", "AICTE"]
+      },
+      {
+        "id": "ACS",
+        "name": "CM Anuprati Coaching Scheme",
+        "details": "Social Justice & Empowerment Department, Government of Rajasthan",
+        "tags": ["Education", "Coaching Assistance", "Competitive Exams", "SC/ST/OBC/EWS/Minority"]
       }
+      
+
+
+
     ]
   },
 
