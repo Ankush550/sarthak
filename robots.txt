@@ -1,19 +1,14 @@
 User-agent: *
 Allow: /
 
-# Block unnecessary paths
-Disallow: /cdn-cgi/
-Disallow: /assets/js/
-Disallow: /.htaccess
-
-# Allow important paths
-Allow: /pages/
-Allow: /data/
+Allow: /assets/
+Allow: /assets/js/
 Allow: /assets/css/
 Allow: /assets/images/
+Allow: /pages/
+Allow: /data/
 
-# Sitemap location
+Disallow: /cdn-cgi/
+Disallow: /.git/
+
 Sitemap: https://sarthakyojana.in/sitemap.xml
-
-# Crawl delay (optional - helps server load)
-Crawl-delay: 1
