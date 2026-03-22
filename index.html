@@ -70,12 +70,6 @@
     .wa-btn { display:inline-flex; align-items:center; gap:6px; background:#16a34a; color:white; font-size:13px; font-weight:600; padding:9px 20px; border-radius:50px; text-decoration:none; margin:8px 0 10px; }
     .wa-btn:hover { background:#15803d; }
 
-    /* TABS */
-    .tabs-wrap { background:white; border-radius:8px; border:1px solid #e2e8f0; overflow-x:auto; margin-bottom:12px; }
-    .tabs { display:flex; gap:0; white-space:nowrap; padding:6px 8px; }
-    .tab-btn { padding:6px 12px; border-radius:6px; font-size:12px; font-weight:500; color:#374151; cursor:pointer; border:none; background:none; font-family:Poppins,sans-serif; transition:background .2s; }
-    .tab-btn:hover, .tab-btn.active { background:#eff6ff; color:#1a56db; }
-
     /* 3 COLUMN CONTENT */
     .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; margin-bottom:12px; }
     .col-box { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; }
@@ -92,10 +86,20 @@
 
     /* MOBILE */
     @media(max-width:900px) {
-      .page-wrapper { grid-template-columns:1fr; }
+      .page-wrapper { grid-template-columns:1fr; padding:8px; }
       .sidebar { display:none; }
-      .cards-grid-top { grid-template-columns:repeat(3,1fr); }
-      .three-col { grid-template-columns:1fr 1fr; }
+      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:6px; }
+      .three-col { grid-template-columns:1fr; }
+      .col-box { margin-bottom:0; }
+    }
+    @media(max-width:480px) {
+      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:5px; }
+      .job-card { min-height:55px; padding:8px 6px; }
+      .card-title { font-size:11px; }
+      .top-bar { font-size:11px; padding:4px 10px; flex-direction:column; gap:2px; text-align:center; }
+      .header-inner { padding:6px 12px; }
+      .nav-link { font-size:12px; padding:7px 10px; }
+      .wa-btn { font-size:12px; padding:8px 14px; }
     }
     @media(max-width:500px) {
       .cards-grid-top { grid-template-columns:repeat(2,1fr); }
@@ -209,20 +213,6 @@
           <button onclick="searchFrom('mainSearch')" style="background:#1a56db;border:none;color:white;padding:0 14px;cursor:pointer;font-size:13px;">🔍</button>
         </div>
       </div>
-
-      <!-- TABS -->
-      <div class="tabs-wrap">
-        <div class="tabs">
-          <button class="tab-btn active">💼 Jobs</button>
-          <button class="tab-btn">📋 Schemes</button>
-          <button class="tab-btn">📚 Education</button>
-          <button class="tab-btn">📄 Certificate</button>
-          <button class="tab-btn">🔗 Useful Links</button>
-          <button class="tab-btn">🎟️ Admitcard</button>
-          <button class="tab-btn">📊 Results</button>
-          <button class="tab-btn">📄 Pdf Forms</button>
-          <button class="tab-btn">🔔 Upcoming</button>
-        </div>
       </div>
 
       <!-- 4 COLUMN CONTENT -->
@@ -465,12 +455,7 @@
           });
         }
       });
-      document.querySelectorAll('.tab-btn').forEach(function(btn) {
-        btn.addEventListener('click', function() {
-          document.querySelectorAll('.tab-btn').forEach(function(b) { b.classList.remove('active'); });
-          this.classList.add('active');
-        });
-      });
+
     });
   </script>
 
