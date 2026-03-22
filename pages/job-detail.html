@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title id="pageTitle">Job Detail – Sarthak Yojana</title>
+  <meta name="description" id="pageDesc" content="Sarthak Yojana – Sarkari Job Details">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    .detail-wrap { max-width:1100px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:1fr 260px; gap:16px; }
+
+    /* MAIN CONTENT */
+    .detail-main { display:flex; flex-direction:column; gap:14px; }
+
+    .d-card { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; }
+    .d-card-head { background:#1a56db; color:white; font-size:13px; font-weight:600; padding:9px 16px; display:flex; align-items:center; gap:6px; }
+    .d-card-body { padding:14px 16px; }
+
+    /* TITLE SECTION */
+    .title-box { background:white; border-radius:10px; border:1px solid #e2e8f0; padding:16px; }
+    .title-box h1 { font-size:17px; font-weight:700; color:#1e293b; line-height:1.4; margin-bottom:8px; }
+    .title-meta { font-size:12px; color:#64748b; display:flex; gap:12px; flex-wrap:wrap; }
+    .cat-badge { background:#eff6ff; color:#1a56db; font-size:11px; font-weight:600; padding:3px 10px; border-radius:50px; border:1px solid #bfdbfe; }
+    .notif-box { background:#fefce8; border:1.5px solid #fde047; border-radius:8px; padding:10px 14px; font-size:12px; color:#713f12; margin-top:10px; }
+
+    /* TABLES */
+    table { width:100%; border-collapse:collapse; font-size:13px; }
+    table th { background:#1a56db; color:white; padding:8px 12px; text-align:left; font-weight:500; }
+    table td { padding:8px 12px; border-bottom:1px solid #f1f5f9; color:#374151; vertical-align:top; }
+    table tr:last-child td { border-bottom:none; }
+    table tr:nth-child(even) td { background:#f8fafc; }
+    .highlight-date { color:#dc2626; font-weight:600; }
+
+    /* DOCS LIST */
+    .docs-list { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+    .doc-item { display:flex; align-items:center; gap:6px; font-size:13px; color:#374151; padding:5px 0; }
+    .doc-item::before { content:"✅"; font-size:12px; flex-shrink:0; }
+
+    /* HOW TO APPLY — Accordion */
+    .steps-list { display:flex; flex-direction:column; gap:6px; }
+    .step-item { background:#f8fafc; border-radius:8px; border:1px solid #e2e8f0; overflow:hidden; }
+    .step-header { display:flex; align-items:center; gap:12px; padding:12px 16px; cursor:pointer; transition:background 0.15s; user-select:none; }
+    .step-header:hover { background:#eff6ff; }
+    .step-item.open .step-header { background:#eff6ff; border-bottom:1px solid #bfdbfe; }
+    .step-num { width:30px; height:30px; border-radius:50%; background:#1a56db; color:white; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .step-title { font-size:14px; color:#1e293b; font-weight:600; flex:1; }
+    .step-plus { font-size:18px; color:#1a56db; font-weight:300; flex-shrink:0; transition:transform 0.2s; line-height:1; }
+    .step-item.open .step-plus { transform:rotate(45deg); }
+    .step-body { display:none; padding:10px 16px 12px 58px; font-size:13px; color:#64748b; line-height:1.6; }
+    .step-item.open .step-body { display:block; }
+
+    /* HIGHLIGHTS BOX */
+    .highlight-box { background:#eff6ff; border:2px solid #bfdbfe; border-radius:10px; padding:14px 16px; }
+    .highlight-box h3 { font-size:13px; font-weight:700; color:#1a56db; margin-bottom:10px; display:flex; align-items:center; gap:6px; }
+    .hl-table { width:100%; font-size:12px; }
+    .hl-table td { padding:5px 8px; border-bottom:1px solid #dbeafe; }
+    .hl-table td:first-child { color:#64748b; font-weight:500; width:100px; }
+    .hl-table td:last-child { color:#1e293b; font-weight:600; }
+    .hl-table tr:last-child td { border-bottom:none; }
+
+    /* FEES BOX */
+    .fees-item { display:flex; align-items:center; gap:8px; padding:6px 0; font-size:13px; color:#374151; border-bottom:1px solid #f1f5f9; }
+    .fees-item:last-child { border-bottom:none; }
+    .fees-item::before { content:"💚"; font-size:12px; }
+
+    /* SHARE BUTTONS */
+    .share-btns { display:flex; gap:8px; flex-wrap:wrap; margin-top:12px; }
+    .share-btn { display:inline-flex; align-items:center; gap:5px; padding:7px 14px; border-radius:6px; font-size:12px; font-weight:600; cursor:pointer; border:none; font-family:'Poppins',sans-serif; text-decoration:none; }
+    .btn-wa     { background:#25D366; color:white; }
+    .btn-tg     { background:#229ED9; color:white; }
+    .btn-copy   { background:#6366f1; color:white; }
+    .btn-home   { background:#1a56db; color:white; }
+
+    /* KEYWORDS */
+    .keywords-wrap { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+    .keyword-tag { background:#f1f5f9; color:#475569; font-size:11px; padding:4px 10px; border-radius:50px; border:1px solid #e2e8f0; }
+
+    /* SIDEBAR */
+    .detail-sidebar { display:flex; flex-direction:column; gap:12px; }
+    .sb-box { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; }
+    .sb-head2 { background:#1a56db; color:white; font-size:12px; font-weight:600; padding:8px 12px; }
+    .sb-item { padding:8px 12px; border-bottom:1px solid #f1f5f9; }
+    .sb-item:last-child { border-bottom:none; }
+    .sb-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.4; text-decoration:none; display:block; }
+    .sb-item a:hover { color:#dc2626; text-decoration:underline; }
+    .sb-date2 { font-size:10px; color:#94a3b8; margin-top:2px; }
+    .ad-side { background:#f8fafc; border:1px dashed #e2e8f0; border-radius:8px; height:250px; display:flex; align-items:center; justify-content:center; color:#cbd5e1; font-size:11px; text-align:center; padding:10px; }
+
+    /* LOADING */
+    .loading { text-align:center; padding:60px 20px; color:#64748b; font-size:15px; }
+
+    /* NOT FOUND */
+    .not-found { text-align:center; padding:60px 20px; }
+    .not-found h2 { color:#dc2626; margin-bottom:10px; }
+
+    /* ELIGIBILITY TABLE */
+    .elig-table th { font-size:11px; }
+    .elig-table td { font-size:11px; }
+
+    @media(max-width:768px) {
+      .detail-wrap { grid-template-columns:1fr; }
+      .detail-sidebar { display:none; }
+      .docs-list { grid-template-columns:1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <div class="top-bar">
+    <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
+    <span>📅 रविवार, 22 मार्च 2026</span>
+  </div>
+
+  <!-- HEADER -->
+  <header class="main-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo-link">
+        <div class="logo-circle">
+          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42">
+            <circle cx="30" cy="30" r="30" fill="#1a56db"/>
+            <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+            <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
+            <text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text>
+          </svg>
+        </div>
+      </a>
+      <button class="hamburger" onclick="toggleMenu()" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav class="main-nav" id="mainNav">
+        <a href="../index.html"         class="nav-link">🏠 Home</a>
+        <a href="../pages/jobs.html"    class="nav-link">💼 Latest Jobs</a>
+        <a href="../pages/schemes.html" class="nav-link">📋 Latest Schemes</a>
+        <a href="../pages/about.html"   class="nav-link">ℹ️ About Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- BREADCRUMB -->
+  <div style="background:white;border-bottom:1px solid #e2e8f0;padding:8px 0;">
+    <div style="max-width:1100px;margin:0 auto;padding:0 12px;font-size:12px;color:#64748b;">
+      <a href="../index.html" style="color:#1a56db;text-decoration:none;">Home</a>
+      <span> › </span>
+      <span id="breadCat">Details</span>
+      <span> › </span>
+      <span id="breadTitle" style="color:#374151;">Loading...</span>
+    </div>
+  </div>
+
+  <!-- MAIN -->
+  <div class="detail-wrap" id="mainWrap">
+    <div class="loading" id="loadingMsg">⏳ Loading details...</div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer style="background:#1e293b;color:#94a3b8;text-align:center;padding:20px 16px;font-size:13px;margin-top:20px;">
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="about.html"          style="color:#93c5fd;">About Us</a>
+      <a href="privacy-policy.html" style="color:#93c5fd;">Privacy Policy</a>
+      <a href="disclaimer.html"     style="color:#93c5fd;">Disclaimer</a>
+      <a href="contact.html"        style="color:#93c5fd;">Contact</a>
+    </div>
+    <p>© 2026 SarthakYojana.in – All Rights Reserved</p>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+  <script>
+    function toggleMenu() { document.getElementById('mainNav').classList.toggle('open'); }
+
+    function toggleStep(i) {
+      const el = document.getElementById('step-' + i);
+      el.classList.toggle('open');
+    }
+
+    // Get ID from URL
+    const params = new URLSearchParams(window.location.search);
+    const jobId  = params.get('id');
+
+    // Load JSON and render
+    fetch('../data/jobs.json')
+      .then(r => r.json())
+      .then(jobs => {
+        const job = jobs.find(j => j.id === jobId);
+        if (!job) {
+          document.getElementById('mainWrap').innerHTML = `
+            <div class="not-found">
+              <h2>❌ Page Not Found</h2>
+              <p>Yeh post abhi available nahi hai.</p>
+              <a href="../index.html" style="color:#1a56db;">← Home par wapas jaayein</a>
+            </div>`;
+          return;
+        }
+        renderJob(job);
+      })
+      .catch(() => {
+        document.getElementById('mainWrap').innerHTML = `<div class="loading">❌ Data load nahi ho saka. Internet check karein.</div>`;
+      });
+
+    function renderJob(j) {
+      document.title = j.title + ' – Sarthak Yojana';
+      document.getElementById('pageTitle').textContent = j.title + ' – Sarthak Yojana';
+      document.getElementById('pageDesc').content = j.description;
+      document.getElementById('breadCat').textContent = j.category;
+      document.getElementById('breadTitle').textContent = j.title.substring(0,40) + '...';
+
+      // Build Important Dates rows
+      const dateRows = j.importantDates.map(d => `
+        <tr>
+          <td>${d.label}</td>
+          <td class="${d.highlight ? 'highlight-date' : ''}">${d.value}</td>
+        </tr>`).join('');
+
+      // Build Fees
+      const feesHTML = j.fees.map(f => `<div class="fees-item">${f}</div>`).join('');
+
+      // Build Documents
+      const docsHTML = j.documents.map(d => `<div class="doc-item">${d}</div>`).join('');
+
+      // Build Eligibility Table
+      let eligHTML = '';
+      if (j.eligibility && j.eligibility.length > 0) {
+        eligHTML = `
+          <div class="d-card">
+            <div class="d-card-head">✅ Eligibility Criteria / पात्रता शर्तें</div>
+            <div class="d-card-body" style="overflow-x:auto;">
+              <table class="elig-table">
+                <thead><tr><th>Class</th><th>Age Eligibility</th><th>Category</th><th>Residence</th></tr></thead>
+                <tbody>${j.eligibility.map(e => `<tr><td><b>${e.class}</b></td><td>${e.age}</td><td>${e.category}</td><td>${e.residence}</td></tr>`).join('')}</tbody>
+              </table>
+            </div>
+          </div>`;
+      }
+
+      // Build How to Apply — Accordion style
+      const stepsHTML = j.howToApply.map((s,i) => {
+        const title  = typeof s === 'object' ? s.title  : s;
+        const detail = typeof s === 'object' ? s.detail : '';
+        return `
+        <div class="step-item" id="step-${i}">
+          <div class="step-header" onclick="toggleStep(${i})">
+            <div class="step-num">${i+1}</div>
+            <span class="step-title">${title}</span>
+            <span class="step-plus">+</span>
+          </div>
+          ${detail ? `<div class="step-body">${detail}</div>` : ''}
+        </div>`;
+      }).join('');
+
+      // Build Important Links
+      const linksHTML = j.importantLinks.map(l => `
+        <tr>
+          <td>${l.label}</td>
+          <td><a href="${l.url}" target="_blank" style="color:#1a56db;font-weight:500;">${l.text}</a></td>
+        </tr>`).join('');
+
+      // Build Keywords
+      const kwHTML = j.keywords.map(k => `<span class="keyword-tag">${k}</span>`).join('');
+
+      // Build Highlights
+      const hl = j.highlights;
+
+      document.getElementById('mainWrap').innerHTML = `
+        <div class="detail-main">
+
+          <!-- TITLE -->
+          <div class="title-box">
+            <span class="cat-badge">${j.category}</span>
+            <h1 style="margin-top:8px;">${j.title}</h1>
+            <div class="title-meta">
+              <span>🕐 Last Update: ${j.lastUpdate}</span>
+            </div>
+            <p style="font-size:13px;color:#374151;line-height:1.8;margin-top:10px;">${j.description}</p>
+            ${j.notification ? `<div class="notif-box">📢 Notification: ${j.notification}</div>` : ''}
+          </div>
+
+          <!-- IMPORTANT DATES + FEES -->
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;">
+            <div class="d-card">
+              <div class="d-card-head">📅 Important Dates / महत्वपूर्ण तिथि</div>
+              <div class="d-card-body" style="padding:0;">
+                <table>${dateRows}</table>
+              </div>
+            </div>
+            <div class="d-card">
+              <div class="d-card-head">💰 Application Fee / आवेदन शुल्क</div>
+              <div class="d-card-body">${feesHTML}</div>
+            </div>
+          </div>
+
+          <!-- AD SLOT -->
+          <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
+            <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
+            <div style="background:#f8fafc;border:1px dashed #e2e8f0;border-radius:6px;height:80px;display:flex;align-items:center;justify-content:center;color:#cbd5e1;font-size:11px;">Ad Space — 728x90</div>
+          </div>
+
+          <!-- ELIGIBILITY -->
+          ${eligHTML}
+
+          <!-- DOCUMENTS -->
+          <div class="d-card">
+            <div class="d-card-head">📋 Required Documents / आवश्यक दस्तावेज</div>
+            <div class="d-card-body">
+              <div class="docs-list">${docsHTML}</div>
+            </div>
+          </div>
+
+          <!-- HOW TO APPLY -->
+          <div class="d-card">
+            <div class="d-card-head">🔢 How to Apply / आवेदन प्रक्रिया</div>
+            <div class="d-card-body">
+              <div class="steps-list">${stepsHTML}</div>
+            </div>
+          </div>
+
+          <!-- IMPORTANT LINKS -->
+          <div class="d-card">
+            <div class="d-card-head">🔗 Important Links / महत्वपूर्ण लिंक</div>
+            <div class="d-card-body" style="padding:0;">
+              <table>
+                <thead><tr><th>Description</th><th>Link</th></tr></thead>
+                <tbody>${linksHTML}</tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- HIGHLIGHTS -->
+          <div class="highlight-box">
+            <h3>⭐ Highlight | Short Details | #${j.id.toUpperCase().replace(/-/g,'')}</h3>
+            <table class="hl-table">
+              <tr><td>📌 Post Name</td><td>${hl.postName}</td></tr>
+              <tr><td>🗺️ Domicile</td><td>${hl.domicile}</td></tr>
+              <tr><td>🎂 Age Limit</td><td>${hl.ageLimit}</td></tr>
+              <tr><td>📅 Apply Date</td><td>${hl.applyDate}</td></tr>
+              <tr><td>📄 Documents</td><td>${hl.documents}</td></tr>
+              <tr><td>🏛️ Department</td><td>${hl.department}</td></tr>
+            </table>
+          </div>
+
+          <!-- SHARE BUTTONS -->
+          <div>
+            <div style="font-size:13px;font-weight:600;color:#374151;margin-bottom:8px;">Share This Post:</div>
+            <div class="share-btns">
+              <a class="share-btn btn-wa"   href="https://wa.me/?text=${encodeURIComponent(j.title + ' – ' + window.location.href)}" target="_blank">💬 Join WhatsApp</a>
+              <a class="share-btn btn-tg"   href="https://t.me/share/url?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(j.title)}" target="_blank">📨 Join Telegram</a>
+              <button class="share-btn btn-copy" onclick="navigator.clipboard.writeText(window.location.href);alert('Link copy ho gaya!')">🔗 Copy Link</button>
+              <a class="share-btn btn-home" href="../index.html">🏠 Back to Home</a>
+            </div>
+          </div>
+
+          <!-- KEYWORDS -->
+          <div>
+            <div style="font-size:12px;font-weight:600;color:#64748b;margin-bottom:6px;">Related Keywords:</div>
+            <div class="keywords-wrap">${kwHTML}</div>
+          </div>
+
+        </div>
+
+        <!-- SIDEBAR -->
+        <div class="detail-sidebar">
+
+          <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
+            <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
+            <div class="ad-side">Ad Space<br>300x250</div>
+          </div>
+
+          <div class="sb-box">
+            <div class="sb-head2">📌 Recommended Post</div>
+            <div id="recommendedPosts"></div>
+            <div style="padding:6px 12px;"><a href="../index.html" style="font-size:11px;color:#1a56db;">More &gt;&gt;</a></div>
+          </div>
+
+        </div>`;
+
+      // Load recommended posts
+      fetch('../data/jobs.json')
+        .then(r => r.json())
+        .then(all => {
+          const others = all.filter(x => x.id !== j.id).slice(0,5);
+          document.getElementById('recommendedPosts').innerHTML = others.map(o => `
+            <div class="sb-item">
+              <a href="job-detail.html?id=${o.id}">${o.title}</a>
+              <div class="sb-date2">📅 ${o.lastUpdate.split(' ')[0]}</div>
+            </div>`).join('');
+        });
+    }
+  </script>
+
+</body>
+</html>

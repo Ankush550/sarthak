@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Search – Sarthak Yojana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <style>
+    .search-page { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+    .search-top { background: white; border-radius: 12px; border: 1px solid #e2e8f0; padding: 20px; margin-bottom: 20px; }
+    .search-bar { display: flex; gap: 8px; }
+    .search-bar input { flex: 1; border: 1.5px solid #e2e8f0; border-radius: 8px; padding: 10px 16px; font-size: 14px; font-family: 'Poppins', sans-serif; outline: none; }
+    .search-bar input:focus { border-color: #1a56db; }
+    .search-bar button { background: #1a56db; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-size: 14px; cursor: pointer; font-family: 'Poppins', sans-serif; font-weight: 600; }
+    .results-count { font-size: 13px; color: #64748b; margin-top: 10px; }
+
+    .result-card { background: white; border-radius: 10px; border: 1px solid #e2e8f0; padding: 16px; margin-bottom: 12px; transition: box-shadow 0.2s; }
+    .result-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+    .result-cat { font-size: 11px; font-weight: 600; background: #eff6ff; color: #1a56db; padding: 3px 10px; border-radius: 50px; display: inline-block; margin-bottom: 8px; }
+    .result-title { font-size: 15px; font-weight: 700; color: #1e293b; margin-bottom: 6px; text-decoration: none; display: block; }
+    .result-title:hover { color: #1a56db; }
+    .result-desc { font-size: 13px; color: #64748b; line-height: 1.6; }
+    .result-date { font-size: 11px; color: #94a3b8; margin-top: 8px; }
+
+    .no-results { text-align: center; padding: 60px 20px; color: #64748b; }
+    .no-results h2 { font-size: 20px; color: #374151; margin-bottom: 8px; }
+
+    .loading { text-align: center; padding: 40px; color: #64748b; }
+  </style>
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <div class="top-bar">
+    <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
+    <span>📅 रविवार, 22 मार्च 2026</span>
+  </div>
+
+  <!-- HEADER -->
+  <header class="main-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo-link">
+        <div class="logo-circle">
+          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42">
+            <circle cx="30" cy="30" r="30" fill="#1a56db"/>
+            <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+            <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
+            <text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text>
+          </svg>
+        </div>
+      </a>
+      <button class="hamburger" onclick="toggleMenu()" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav class="main-nav" id="mainNav">
+        <a href="../index.html"         class="nav-link">🏠 Home</a>
+        <a href="../pages/jobs.html"    class="nav-link">💼 Latest Jobs</a>
+        <a href="../pages/schemes.html" class="nav-link">📋 Latest Schemes</a>
+        <a href="../pages/about.html"   class="nav-link">ℹ️ About Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- SEARCH PAGE -->
+  <div class="search-page">
+
+    <!-- SEARCH BAR -->
+    <div class="search-top">
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Yojana, Job, Result dhundein..." />
+        <button onclick="doSearch()">🔍 Search</button>
+      </div>
+      <div class="results-count" id="resultsCount"></div>
+    </div>
+
+    <!-- RESULTS -->
+    <div id="resultsArea">
+      <div class="loading">⏳ Loading...</div>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer style="background:#1e293b;color:#94a3b8;text-align:center;padding:20px 16px;font-size:13px;margin-top:20px;">
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="about.html"          style="color:#93c5fd;">About Us</a>
+      <a href="privacy-policy.html" style="color:#93c5fd;">Privacy Policy</a>
+      <a href="disclaimer.html"     style="color:#93c5fd;">Disclaimer</a>
+      <a href="contact.html"        style="color:#93c5fd;">Contact</a>
+    </div>
+    <p>© 2026 SarthakYojana.in – All Rights Reserved</p>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+  <script>
+    function toggleMenu() { document.getElementById('mainNav').classList.toggle('open'); }
+
+    const params = new URLSearchParams(window.location.search);
+    let query = params.get('q') || '';
+
+    if (query) {
+      document.getElementById('searchInput').value = query;
+      runSearch(query);
+    } else {
+      document.getElementById('resultsArea').innerHTML = '<div class="no-results"><h2>🔍 Kuch Dhundein</h2><p>Search box mein type karein</p></div>';
+    }
+
+    function doSearch() {
+      const q = document.getElementById('searchInput').value.trim();
+      if (!q) { alert('Kuch likho phir search karein!'); return; }
+      window.history.pushState({}, '', '?q=' + encodeURIComponent(q));
+      runSearch(q);
+    }
+
+    document.getElementById('searchInput').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') doSearch();
+    });
+
+    function runSearch(q) {
+      document.getElementById('resultsArea').innerHTML = '<div class="loading">⏳ Searching...</div>';
+      fetch('../data/jobs.json')
+        .then(r => r.json())
+        .then(data => {
+          const lower = q.toLowerCase();
+          const results = data.filter(item =>
+            item.title.toLowerCase().includes(lower) ||
+            item.description.toLowerCase().includes(lower) ||
+            item.category.toLowerCase().includes(lower) ||
+            (item.keywords && item.keywords.some(k => k.toLowerCase().includes(lower)))
+          );
+
+          document.getElementById('resultsCount').textContent =
+            results.length > 0
+              ? `"${q}" ke liye ${results.length} result(s) mile`
+              : '';
+
+          if (results.length === 0) {
+            document.getElementById('resultsArea').innerHTML = `
+              <div class="no-results">
+                <h2>😔 Koi Result Nahi Mila</h2>
+                <p>"${q}" se koi bhi post match nahi hui</p>
+                <p style="margin-top:12px;"><a href="../index.html" style="color:#1a56db;">← Home par jaayein</a></p>
+              </div>`;
+            return;
+          }
+
+          document.getElementById('resultsArea').innerHTML = results.map(item => `
+            <div class="result-card">
+              <span class="result-cat">${item.category}</span>
+              <a href="job-detail.html?id=${item.id}" class="result-title">${item.title}</a>
+              <div class="result-desc">${item.description.replace(/<[^>]*>/g,'').substring(0, 180)}...</div>
+              <div class="result-date">📅 ${item.lastUpdate}</div>
+            </div>`).join('');
+        })
+        .catch(() => {
+          document.getElementById('resultsArea').innerHTML = '<div class="no-results"><h2>❌ Error</h2><p>Data load nahi ho saka</p></div>';
+        });
+    }
+  </script>
+
+</body>
+</html>
