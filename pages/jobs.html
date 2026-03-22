@@ -1,112 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Jobs & Results</title>
-  <link rel="stylesheet" href="../assets/css/jobs.css" />
-</head>
 
+  <title>Latest Jobs</title>
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <link rel="stylesheet" href="../assets/css/jobs.css">
+  <div class="ad-section">
+  Top Banner Ad
+</div>
+</head>
 <body>
 
-<a href="../index.html" class="back-btn">🏠 Back to Home</a>
+<h1 class="page-title">Latest Jobs</h1>
 
-<h1 class="page-title">💼 Jobs & Results</h1>
-
-<p class="page-intro">
-  This page provides latest government job notifications, recruitment updates
-  and exam results from official public sources such as SSC, UPSC, Railways
-  and Banks. Candidates are advised to always verify details from the official
-  website before applying.
-</p>
-
-<!-- 🔹 TOP AD PLACEHOLDER -->
-<div class="ads-placeholder">
-  Advertisement
-</div>
-
-<div class="jobs-page">
-
-  <div class="jobs-layout">
-
-    <!-- LEFT SIDE -->
-    <div class="job-left">
-
-      <h2 id="jobTitle">Job Details</h2>
-
-      <!-- JOB CARDS (JS se load honge) -->
-      <div id="jobs-container" class="grid"></div>
-
-      <!-- 🔹 MID AD PLACEHOLDER -->
-      <div class="ads-placeholder">
-        Advertisement
-      </div>
-
-    </div>
-
-    <!-- RIGHT SIDEBAR -->
-    <aside class="sidebar">
-      <h4>Notifications</h4>
-      <a onclick="loadJobs('latest')">Latest Notifications</a>
-      <a onclick="loadJobs('banks')">Banks</a>
-      <a onclick="loadJobs('ssc')">SSC</a>
-      <a onclick="loadJobs('upsc')">UPSC</a>
-      <a onclick="loadJobs('railways')">Railways</a>
-      <a onclick="loadJobs('state')">State Jobs</a>
-    </aside>
-
-  </div>
-
-  <!-- JOB TABLE SECTION -->
-  <section class="job-content">
-
-    <h3 id="jobCategory" style="display:none;">LATEST</h3>
-
-    <div id="jobTableWrapper" style="display:none;">
-      <table class="job-table">
-        <thead>
-          <tr>
-            <th>Post Date</th>
-            <th>Recruitment Board</th>
-            <th>Exam / Post Name</th>
-            <th>Qualification</th>
-            <th>Advt No</th>
-            <th>Last Date</th>
-            <th>More Info</th>
-          </tr>
-        </thead>
-        <tbody id="jobTableBody"></tbody>
-      </table>
-    </div>
-
-    <!-- ARTICLE / DETAILS BOX -->
-    <div id="articleBox" class="article-box" style="display:none;"></div>
-
-  </section>
-
-</div>
-
-<!-- 🔹 DISCLAIMER (ADSENSE MUST) -->
-<div class="job-disclaimer">
-  Disclaimer: This website is an independent informational portal.
-  We are not associated with any government organization.
-  Job details are collected from official notifications and public sources.
-</div>
-
-<!-- 🔹 INTERNAL LINKS -->
-<p class="internal-links">
-  You may also explore
-  <a href="/pages/central-schemes.html">Central Government Schemes</a>,
-  <a href="/pages/state-schemes.html">State Government Schemes</a> and
-  <a href="/pages/scholarships.html">Scholarships</a>.
-</p>
-
-<!-- 🔹 BOTTOM AD PLACEHOLDER -->
-<div class="ads-placeholder">
-  Advertisement
-</div>
+<div id="job-list" class="job-list"></div>
 
 <script src="../assets/js/jobs.js"></script>
-<script src="job-detail.js"></script>
+<script src="../assets/js/header.js"></script>
+<script src="../assets/js/footer.js"></script>
 
 </body>
 </html>

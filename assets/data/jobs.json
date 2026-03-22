@@ -1,0 +1,194 @@
+[
+  {
+    "id": "rrb-group-d-2026",
+    "title": "RRB Group-D Recruitment 2026",
+    "postDate": "February 21, 2026 11:41 AM",
+
+    "description": "<p><strong>Railway Recruitment Boards (RRB), has released the official notification on the official website for the recruitment of Group-D (Level-1) posts across various railway zones in India. This recruitment is for 22,195 positions. RRB Application Form Has Started on 31 January 2026 & the candidates can apply till the 02 March 2026. The Minimum age required is 18 Years & The Maximum Age Is 33 Years as on 01 January 2026. Candidates Can Also Check All Details of RRB Group-D Recruitment 2026 Link are given below. (Advt. No. CEN 09/2025)</strong> posts.</p>",
+
+    "overview": {
+      "Organization Name": "Railway Recruitment Board (RRB)",
+      "Total Vacancies": "22,195 Posts",
+      "Qualification": "10th Pass / ITI",
+      "Age Limit": "18 to 33 Years",
+      "Application Fee": "₹500 / ₹250",
+      "Apply Start Date": "31.01.2026",
+      "Last Date": "02.03.2026",
+      "Payment Method": "Debit Card, • Credit Card, • Net Banking, • UPI"
+    },
+
+    "vacancyDetails": {
+      "heading": "RRB Group D Various Posts In Level 1 Recruitment 2026 : Vacancy Details",
+      "columns": ["Post Name", "No. Of Post"],
+      "rows": [
+        ["Pointsman-B", "5053"],
+        ["Assistant (Track Machine)", "597"],
+        ["Assistant (Bridge)", "600"],
+        ["Track Maintainer Gr. IV", "11032"],
+        ["Assistant P-Way", "300"],
+        ["Assistant (C&W)", "1000"]
+      ]
+    },
+
+    "eligibility": {
+      "heading": "RRB Group D Eligibility Criteria",
+      "points": [
+        "Candidates must have completed Class 10 from recognized board.",
+        "OR hold National Apprenticeship Certificate (NAC)."
+      ]
+    },
+
+    "howToApply": {
+      "heading": "How To Fill RRB Group-D Online Form 2026",
+      "steps": [
+        "Apply online before 02 March 2026.",
+        "Use Apply Online link given below.",
+        "Visit official RRB website.",
+        "Read official notification carefully before applying."
+      ]
+    },
+
+    "importantLinks": [
+  {
+    "label": "Apply Online Link",
+    "links": [
+      { "text": "Click Here", "url": "https://www.rrbapply.gov.in/#/auth/landing" }
+    ]
+  },
+  {
+    "label": "Check Official Notification",
+    "links": [
+      { "text": "Hindi", "url": "../assets/pdfs/rrb-hindi.pdf" },
+      { "text": "English", "url": "../assets/pdfs/rrb-english.pdf" }
+    ]
+  },
+  {
+    "label": "Check Revised Vacancy Notice",
+    "links": [
+      { "text": "Click Here", "url": "../assets/pdfs/revise-vacancy.pdf" }
+    ]
+  },
+  {
+    "label": "Check Revised Date Notice",
+    "links": [
+      { "text": "Click Here", "url": "../assets/pdfs/revise-date.pdf" }
+    ]
+  },
+  {
+    "label": "Check Short Notice",
+    "links": [
+      { "text": "Click Here", "url": "../assets/pdfs/short-notice.pdf" }
+    ]
+  },
+  {
+    "label": "RRB Group D Official Website",
+    "links": [
+      { "text": "Click Here", "url": "https://www.rrbapply.gov.in" }
+    ]
+  }
+]
+  },
+
+  {
+    "id": "upsc-capf-2026",
+    "title": "UPSC CAPF AC Online Form 2026",
+    "postDate": "February 25, 2026 10:00 AM",
+    "description": "<p>UPSC has released CAPF Assistant Commandant recruitment notification.</p>",
+    "overview": {
+      "Organization Name": "UPSC",
+      "Total Vacancies": "Various Posts",
+      "Qualification": "Graduate",
+      "Age Limit": "20-25 Years",
+      "Apply Start Date": "25.02.2026",
+      "Last Date": "20.03.2026"
+    }
+  },
+
+  {
+    "id": "rrc-wr-apprentice-2026",
+    "title": "Railway RRC WR Apprentice Online Form 2026",
+    "postDate": "February 26, 2026 09:00 AM",
+    "description": "<p>Western Railway Apprentice recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "RRC Western Railway",
+      "Total Vacancies": "5349 Posts",
+      "Qualification": "10th + ITI"
+    }
+  },
+
+  {
+    "id": "dsssb-legal-2026",
+    "title": "DSSSB Legal Asst, AE, JE Online Form 2026",
+    "postDate": "February 27, 2026 12:00 PM",
+    "description": "<p>DSSSB recruitment notification for multiple posts.</p>",
+    "overview": {
+      "Organization Name": "DSSSB",
+      "Total Vacancies": "Multiple Posts",
+      "Qualification": "Graduate / Engineering"
+    }
+  },
+
+  {
+    "id": "indian-army-agniveer-2026",
+    "title": "Indian Army Agniveer CEE Online Form 2026",
+    "postDate": "February 28, 2026 08:30 AM",
+    "description": "<p>Indian Army Agniveer Common Entrance Exam notification released.</p>",
+    "overview": {
+      "Organization Name": "Indian Army",
+      "Qualification": "10th / 12th"
+    }
+  },
+
+  {
+    "id": "bpsc-teacher-2026",
+    "title": "BPSC School Teacher TRE 4.0 Online Form 2026",
+    "postDate": "March 01, 2026 11:00 AM",
+    "description": "<p>BPSC School Teacher recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "BPSC",
+      "Total Vacancies": "44,000+ Posts",
+      "Qualification": "Graduate + B.Ed"
+    }
+  },
+
+  {
+    "id": "yil-apprentice-2026",
+    "title": "Yantra India Limited (YIL) Apprentice Online Form 2026",
+    "postDate": "March 02, 2026 02:00 PM",
+    "description": "<p>Yantra India Limited Apprentice recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "Yantra India Limited",
+      "Total Vacancies": "3979 Posts"
+    }
+  },
+
+  {
+    "id": "bihar-police-csbc-2026",
+    "title": "Bihar Police CSBC Constable Online Form 2026",
+    "postDate": "March 03, 2026 09:30 AM",
+    "description": "<p>Bihar Police Constable recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "CSBC Bihar Police"
+    }
+  },
+
+  {
+    "id": "bihar-police-bpssc-2026",
+    "title": "Bihar Police BPSSC ASI (Operation) Online Form 2026",
+    "postDate": "March 04, 2026 01:15 PM",
+    "description": "<p>BPSSC ASI recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "BPSSC"
+    }
+  },
+
+  {
+    "id": "south-indian-bank-2026",
+    "title": "South Indian Bank SIB Junior Officer Online Form 2026",
+    "postDate": "March 05, 2026 10:45 AM",
+    "description": "<p>South Indian Bank Junior Officer recruitment notification released.</p>",
+    "overview": {
+      "Organization Name": "South Indian Bank"
+    }
+  }
+]
