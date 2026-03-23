@@ -1,5 +1,28 @@
 [
   {
+    "id": "base-implementation-specialist-2026",
+    "category": "software",
+    "title": "Implementation Specialist – eCommerce Platform",
+    "company": "Base.com",
+    "logo": "🛒",
+    "city": "Gurugram",
+    "salary": "6-12 LPA",
+    "experience": "2-5 Years",
+    "type": "Full Time",
+    "date": "24 Mar 2026",
+    "isNew": true,
+    "description": "Base.com ek international eCommerce technology platform hai jo duniya bhar ke merchants ko Amazon, eBay, Shopify, DHL jaise platforms se connect karta hai. Company pichhle 3 saalon mein 15 guna grow kar chuki hai. Is role mein aapko naye clients ka technical onboarding karna hoga, custom integrations banana honge aur unhe platform adopt karne mein madad karni hogi. Ye ek amazing opportunity hai jinhe eCommerce aur tech dono mein interest hai.",
+    "skills": [
+      "PHP",
+      "Python",
+      "REST APIs",
+      "MySQL",
+      "JavaScript",
+      "eCommerce"
+    ],
+    "applyUrl": "https://www.linkedin.com/company/base-com/jobs/"
+  },
+  {
     "id": "tcs-java-2026",
     "category": "software",
     "title": "Software Engineer – Java/Spring Boot",
@@ -12,7 +35,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "TCS is hiring Software Engineers for Java/Spring Boot development. Work on enterprise-level applications for global clients. Agile environment with excellent growth opportunities.",
-    "skills": ["Java", "Spring Boot", "Microservices", "REST API", "SQL"],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "REST API",
+      "SQL"
+    ],
     "applyUrl": "https://www.tcs.com/careers"
   },
   {
@@ -28,7 +57,13 @@
     "date": "21 Mar 2026",
     "isNew": true,
     "description": "Infosys is looking for Python Developers to work on AI/ML based projects. Strong knowledge of Django or Flask required.",
-    "skills": ["Python", "Django", "Machine Learning", "REST APIs", "Git"],
+    "skills": [
+      "Python",
+      "Django",
+      "Machine Learning",
+      "REST APIs",
+      "Git"
+    ],
     "applyUrl": "https://www.infosys.com/careers"
   },
   {
@@ -44,7 +79,13 @@
     "date": "20 Mar 2026",
     "isNew": false,
     "description": "Wipro seeks Full Stack Developers with React and Node.js expertise. Work on product development for international clients.",
-    "skills": ["React", "Node.js", "JavaScript", "MongoDB", "AWS"],
+    "skills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "MongoDB",
+      "AWS"
+    ],
     "applyUrl": "https://careers.wipro.com"
   },
   {
@@ -60,7 +101,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "HDFC Bank hiring Relationship Managers for retail banking in Jaipur. Manage customer portfolios and achieve sales targets.",
-    "skills": ["Banking Products", "Sales", "Customer Service", "Excel", "Communication"],
+    "skills": [
+      "Banking Products",
+      "Sales",
+      "Customer Service",
+      "Excel",
+      "Communication"
+    ],
     "applyUrl": "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?folder=www.hdfcbank.com/careers"
   },
   {
@@ -76,7 +123,13 @@
     "date": "21 Mar 2026",
     "isNew": true,
     "description": "ICICI Bank seeking Credit Analysts for corporate banking. Analyze financial statements and assess credit risk.",
-    "skills": ["Financial Analysis", "Credit Risk", "Excel", "Banking", "Report Writing"],
+    "skills": [
+      "Financial Analysis",
+      "Credit Risk",
+      "Excel",
+      "Banking",
+      "Report Writing"
+    ],
     "applyUrl": "https://www.icicicareers.com"
   },
   {
@@ -92,7 +145,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Amazon hiring Customer Support for WFH role. Handle customer queries via chat and email. Fixed shifts available. Hindi and English communication required.",
-    "skills": ["Communication", "Customer Service", "Computer Basics", "English", "Hindi"],
+    "skills": [
+      "Communication",
+      "Customer Service",
+      "Computer Basics",
+      "English",
+      "Hindi"
+    ],
     "applyUrl": "https://www.amazon.jobs/en/locations/india"
   },
   {
@@ -108,7 +167,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Zomato building robust infrastructure. DevOps engineers with Kubernetes and Docker needed. Manage CI/CD pipelines and cloud deployments at scale.",
-    "skills": ["Kubernetes", "Docker", "Jenkins", "AWS/GCP", "Linux"],
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Jenkins",
+      "AWS/GCP",
+      "Linux"
+    ],
     "applyUrl": "https://www.zomato.com/careers"
   },
   {
@@ -124,7 +189,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Reliance hiring Accountants for GST filing, Tally entries and financial reporting. B.Com with Tally ERP experience preferred.",
-    "skills": ["Tally ERP", "GST", "TDS", "Financial Reporting", "Excel"],
+    "skills": [
+      "Tally ERP",
+      "GST",
+      "TDS",
+      "Financial Reporting",
+      "Excel"
+    ],
     "applyUrl": "https://careers.ril.com"
   },
   {
@@ -140,7 +211,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "L&T Technology Services hiring fresh engineering graduates. 6-month paid training program followed by permanent placement. B.E./B.Tech from any branch eligible.",
-    "skills": ["Engineering Basics", "Problem Solving", "Communication", "MS Office", "Aptitude"],
+    "skills": [
+      "Engineering Basics",
+      "Problem Solving",
+      "Communication",
+      "MS Office",
+      "Aptitude"
+    ],
     "applyUrl": "https://www.ltts.com/careers"
   },
   {
@@ -156,7 +233,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "HCL hiring IT Support Engineers for helpdesk and desktop support. Handle hardware/software issues and user queries.",
-    "skills": ["Windows OS", "Networking", "Active Directory", "Troubleshooting", "ITIL"],
+    "skills": [
+      "Windows OS",
+      "Networking",
+      "Active Directory",
+      "Troubleshooting",
+      "ITIL"
+    ],
     "applyUrl": "https://www.hcltech.com/careers"
   },
   {
@@ -172,7 +255,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Vedantu hiring online tutors for Maths and Science (Class 6-12). Flexible hours, work from home. B.Sc/B.Tech/M.Sc candidates preferred.",
-    "skills": ["Subject Knowledge", "Teaching", "Communication", "Online Tools", "Patience"],
+    "skills": [
+      "Subject Knowledge",
+      "Teaching",
+      "Communication",
+      "Online Tools",
+      "Patience"
+    ],
     "applyUrl": "https://www.vedantu.com/careers"
   },
   {
@@ -188,7 +277,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Ola Electric hiring Data Analysts for EV business intelligence. Create dashboards and provide actionable insights to leadership.",
-    "skills": ["Python", "SQL", "Tableau", "Power BI", "Statistics"],
+    "skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Statistics"
+    ],
     "applyUrl": "https://www.olaelectric.com/careers"
   },
   {
@@ -204,7 +299,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "Sun Pharma hiring Medical Representatives for Rajasthan territory. Promote pharmaceutical products to doctors and hospitals.",
-    "skills": ["Pharma Knowledge", "Sales", "Doctor Visits", "Communication", "Target Achievement"],
+    "skills": [
+      "Pharma Knowledge",
+      "Sales",
+      "Doctor Visits",
+      "Communication",
+      "Target Achievement"
+    ],
     "applyUrl": "https://www.sunpharma.com/careers"
   },
   {
@@ -220,7 +321,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "HUL hiring Sales Managers for Rajasthan. Manage distributor network and achieve sales targets.",
-    "skills": ["Sales", "Distribution Management", "FMCG", "Team Leadership", "Market Analysis"],
+    "skills": [
+      "Sales",
+      "Distribution Management",
+      "FMCG",
+      "Team Leadership",
+      "Market Analysis"
+    ],
     "applyUrl": "https://www.unilever.com/careers"
   },
   {
@@ -236,7 +343,13 @@
     "date": "22 Mar 2026",
     "isNew": true,
     "description": "InfoEdge hiring HR Executives for talent acquisition. Handle end-to-end recruitment for tech and non-tech roles.",
-    "skills": ["Recruitment", "LinkedIn Sourcing", "Communication", "Excel", "HR Tools"],
+    "skills": [
+      "Recruitment",
+      "LinkedIn Sourcing",
+      "Communication",
+      "Excel",
+      "HR Tools"
+    ],
     "applyUrl": "https://careers.infoedge.in"
   }
 ]
