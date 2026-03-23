@@ -124,6 +124,43 @@
   </div>
 
   <!-- HEADER -->
+  <!-- BREAKING NEWS TICKER -->
+  <div class="ticker-wrap" id="newsTicker">
+    <div class="ticker-label">
+      <span></span> BREAKING NEWS
+    </div>
+    <div class="ticker-content">
+      <div class="ticker-inner" id="tickerInner">
+        <span style="color:white;font-size:12px;padding:0 20px;">Loading latest news...</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Load latest 8 articles from jobs.json for ticker
+    fetch('data/jobs.json')
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        // Sort by date — latest first (use lastUpdate field)
+        var latest = data.slice(-8).reverse();
+        var html = '';
+        latest.forEach(function(item, i){
+          html += '<a href="pages/job-detail.html?id=' + item.id + '" class="ticker-item">' +
+            (i < 3 ? '<span class="ticker-new">NEW</span>' : '') +
+            item.title +
+          '</a>';
+        });
+        // Duplicate for seamless loop
+        document.getElementById('tickerInner').innerHTML = html + html;
+      })
+      .catch(function(){
+        document.getElementById('tickerInner').innerHTML =
+          '<a href="pages/jobs.html" class="ticker-item">Latest Sarkari Jobs 2026</a>' +
+          '<a href="pages/schemes.html" class="ticker-item">Latest Govt Schemes 2026</a>' +
+          '<a href="pages/job-detail.html?id=nib-recruitment-2026" class="ticker-item">NIB Scientist Bharti 2026 – 46 Posts</a>';
+      });
+  </script>
+
   <header class="main-header">
     <div class="header-inner">
       <a href="index.html" class="logo-link">

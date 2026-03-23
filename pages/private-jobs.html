@@ -78,6 +78,30 @@
     <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
     <span><span class="auto-date">📅 रविवार, 22 मार्च 2026</span></span>
   </div>
+  <!-- BREAKING NEWS TICKER -->
+  <div class="ticker-wrap">
+    <div class="ticker-label"><span></span> BREAKING NEWS</div>
+    <div class="ticker-content">
+      <div class="ticker-inner" id="tickerInner">
+        <span style="color:white;font-size:12px;padding:0 20px;">Loading...</span>
+      </div>
+    </div>
+  </div>
+  <script>
+    fetch('../data/jobs.json')
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        var latest = data.slice(-8).reverse();
+        var html = '';
+        latest.forEach(function(item, i){
+          html += '<a href="job-detail.html?id=' + item.id + '" class="ticker-item">' +
+            (i < 3 ? '<span class="ticker-new">NEW</span>' : '') +
+            item.title + '</a>';
+        });
+        document.getElementById('tickerInner').innerHTML = html + html;
+      });
+  </script>
+
   <header class="main-header">
     <div class="header-inner">
       <a href="../index.html" class="logo-link">
