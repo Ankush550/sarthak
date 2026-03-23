@@ -124,42 +124,6 @@
   </div>
 
   <!-- HEADER -->
-  <!-- BREAKING NEWS TICKER -->
-  <div class="ticker-wrap" id="newsTicker">
-    <div class="ticker-label">
-      <span></span> BREAKING NEWS
-    </div>
-    <div class="ticker-content">
-      <div class="ticker-inner" id="tickerInner">
-        <span style="color:white;font-size:12px;padding:0 20px;">Loading latest news...</span>
-      </div>
-    </div>
-  </div>
-
-  <script>
-    // Load latest 8 articles from jobs.json for ticker
-    fetch('data/jobs.json')
-      .then(function(r){ return r.json(); })
-      .then(function(data){
-        // Sort by date — latest first (use lastUpdate field)
-        var latest = data.slice(-8).reverse();
-        var html = '';
-        latest.forEach(function(item, i){
-          html += '<a href="pages/job-detail.html?id=' + item.id + '" class="ticker-item">' +
-            (i < 3 ? '<span class="ticker-new">NEW</span>' : '') +
-            item.title +
-          '</a>';
-        });
-        // Duplicate for seamless loop
-        document.getElementById('tickerInner').innerHTML = html + html;
-      })
-      .catch(function(){
-        document.getElementById('tickerInner').innerHTML =
-          '<a href="pages/jobs.html" class="ticker-item">Latest Sarkari Jobs 2026</a>' +
-          '<a href="pages/schemes.html" class="ticker-item">Latest Govt Schemes 2026</a>' +
-          '<a href="pages/job-detail.html?id=nib-recruitment-2026" class="ticker-item">NIB Scientist Bharti 2026 – 46 Posts</a>';
-      });
-  </script>
 
   <header class="main-header">
     <div class="header-inner">
@@ -519,5 +483,77 @@
       els.forEach(function(el){ el.textContent = '📅 ' + dateStr; });
     })();
   </script>
+
+  <!-- LATEST NEWS POPUP -->
+  <div id="newsPopup" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:9999;align-items:center;justify-content:center;">
+    <div style="background:white;border-radius:16px;width:92%;max-width:480px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.3);animation:popIn 0.3s ease;">
+      <!-- Header -->
+      <div style="background:#dc2626;padding:14px 18px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span style="width:9px;height:9px;border-radius:50%;background:#fca5a5;animation:blink2 1s infinite;display:inline-block;"></span>
+          <span style="color:white;font-size:14px;font-weight:700;font-family:Poppins,sans-serif;letter-spacing:0.5px;">🔴 TAAZA KHABAR</span>
+        </div>
+        <button onclick="closePopup()" style="background:rgba(255,255,255,0.2);border:none;color:white;width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;">✕</button>
+      </div>
+      <!-- News Items -->
+      <div id="popupItems" style="padding:6px 0;"></div>
+      <!-- Footer -->
+      <div style="padding:12px 18px;border-top:1px solid #f1f5f9;display:flex;justify-content:space-between;align-items:center;">
+        <span style="font-size:11px;color:#94a3b8;font-family:Poppins,sans-serif;">Roz nayi updates milein →</span>
+        <button onclick="closePopup()" style="background:#1a56db;color:white;border:none;padding:8px 20px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Dekhein →</button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    @keyframes popIn { from{transform:scale(0.85);opacity:0} to{transform:scale(1);opacity:1} }
+    @keyframes blink2 { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  </style>
+
+  <script>
+    // Show popup with latest 3 articles
+    fetch('data/jobs.json')
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        var latest = data.slice(-3).reverse();
+        var html = '';
+        latest.forEach(function(item, i){
+          var colors = ['#dc2626','#d97706','#1a56db'];
+          var labels = ['नई खबर','अपडेट','जरूरी'];
+          html += '<a href="pages/job-detail.html?id=' + item.id + '" onclick="closePopup()" style="display:flex;align-items:flex-start;gap:12px;padding:12px 18px;border-bottom:1px solid #f1f5f9;text-decoration:none;transition:background 0.15s;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background='white'">' +
+            '<span style="background:' + colors[i] + ';color:white;font-size:9px;font-weight:700;padding:3px 7px;border-radius:4px;white-space:nowrap;margin-top:2px;font-family:Poppins,sans-serif;">' + labels[i] + '</span>' +
+            '<div>' +
+              '<div style="font-size:13px;font-weight:600;color:#1e293b;line-height:1.45;font-family:Poppins,sans-serif;">' + item.title + '</div>' +
+              '<div style="font-size:11px;color:#94a3b8;margin-top:3px;font-family:Poppins,sans-serif;">📅 ' + item.lastUpdate + '</div>' +
+            '</div>' +
+          '</a>';
+        });
+        document.getElementById('popupItems').innerHTML = html;
+
+        // Show popup after 1 second — only once per session
+        if(!sessionStorage.getItem('popupShown')){
+          setTimeout(function(){
+            var p = document.getElementById('newsPopup');
+            p.style.display = 'flex';
+            sessionStorage.setItem('popupShown','1');
+          }, 1000);
+        }
+      });
+
+    function closePopup(){
+      document.getElementById('newsPopup').style.display = 'none';
+    }
+
+    // Close on background click
+    document.getElementById('newsPopup').addEventListener('click', function(e){
+      if(e.target === this) closePopup();
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', function(e){
+      if(e.key === 'Escape') closePopup();
+    });
+  </script>
+
 </body>
 </html>
