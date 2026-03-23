@@ -180,7 +180,7 @@
   <!-- TOP INFO BAR -->
   <div class="top-bar">
     <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
-    <span>📅 रविवार, 22 मार्च 2026</span>
+    <span><span class="auto-date">📅 रविवार, 22 मार्च 2026</span></span>
   </div>
 
   <!-- HEADER -->
@@ -327,5 +327,17 @@
   </footer>
 
   <script src="../assets/js/main.js"></script>
+
+  <script>
+    // Auto date update
+    (function(){
+      var days = ['रविवार','सोमवार','मंगलवार','बुधवार','गुरुवार','शुक्रवार','शनिवार'];
+      var months = ['जनवरी','फरवरी','मार्च','अप्रैल','मई','जून','जुलाई','अगस्त','सितंबर','अक्टूबर','नवंबर','दिसंबर'];
+      var d = new Date();
+      var dateStr = days[d.getDay()] + ', ' + d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
+      var els = document.querySelectorAll('.auto-date');
+      els.forEach(function(el){ el.textContent = '📅 ' + dateStr; });
+    })();
+  </script>
 </body>
 </html>
