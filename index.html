@@ -484,75 +484,93 @@
     })();
   </script>
 
-  <!-- LATEST NEWS POPUP -->
-  <div id="newsPopup" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:9999;align-items:center;justify-content:center;">
-    <div style="background:white;border-radius:16px;width:92%;max-width:480px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.3);animation:popIn 0.3s ease;">
-      <!-- Header -->
-      <div style="background:#dc2626;padding:14px 18px;display:flex;align-items:center;justify-content:space-between;">
-        <div style="display:flex;align-items:center;gap:8px;">
-          <span style="width:9px;height:9px;border-radius:50%;background:#fca5a5;animation:blink2 1s infinite;display:inline-block;"></span>
-          <span style="color:white;font-size:14px;font-weight:700;font-family:Poppins,sans-serif;letter-spacing:0.5px;">🔴 TAAZA KHABAR</span>
-        </div>
-        <button onclick="closePopup()" style="background:rgba(255,255,255,0.2);border:none;color:white;width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;">✕</button>
-      </div>
-      <!-- News Items -->
-      <div id="popupItems" style="padding:6px 0;"></div>
-      <!-- Footer -->
-      <div style="padding:12px 18px;border-top:1px solid #f1f5f9;display:flex;justify-content:space-between;align-items:center;">
-        <span style="font-size:11px;color:#94a3b8;font-family:Poppins,sans-serif;">Roz nayi updates milein →</span>
-        <button onclick="closePopup()" style="background:#1a56db;color:white;border:none;padding:8px 20px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Dekhein →</button>
+
+  <!-- SPLASH SCREEN -->
+  <div id="splashScreen" style="position:fixed;inset:0;z-index:99999;background:#0f172a;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;">
+
+    <!-- Logo -->
+    <div style="margin-bottom:20px;text-align:center;">
+      <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="56" height="56">
+        <circle cx="30" cy="30" r="30" fill="#1a56db"/>
+        <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+        <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
+        <text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text>
+      </svg>
+      <div style="color:white;font-size:18px;font-weight:700;font-family:Poppins,sans-serif;margin-top:8px;">SarthakYojana.in</div>
+      <div style="color:#94a3b8;font-size:12px;font-family:Poppins,sans-serif;margin-top:4px;">Sarkari Yojana & Naukri ki Puri Jaankari</div>
+    </div>
+
+    <!-- RED BAR -->
+    <div style="background:#dc2626;color:white;font-size:11px;font-weight:700;padding:6px 16px;border-radius:50px;margin-bottom:14px;font-family:Poppins,sans-serif;display:flex;align-items:center;gap:6px;">
+      <span style="width:7px;height:7px;border-radius:50%;background:#fca5a5;animation:sp-blink 1s infinite;display:inline-block;"></span>
+      TAAZA KHABAR
+    </div>
+
+    <!-- NEWS CARDS -->
+    <div id="splashCards" style="width:100%;max-width:420px;display:flex;flex-direction:column;gap:10px;margin-bottom:20px;">
+      <div style="background:#1e293b;border-radius:12px;padding:16px;display:flex;align-items:center;gap:12px;">
+        <div style="width:36px;height:36px;background:#1a56db;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0;">⏳</div>
+        <div style="color:#94a3b8;font-size:13px;font-family:Poppins,sans-serif;">Loading latest news...</div>
       </div>
     </div>
+
+    <!-- CONTINUE BUTTON -->
+    <button onclick="closeSplash()" style="background:#1a56db;color:white;border:none;padding:14px 40px;border-radius:50px;font-size:15px;font-weight:700;cursor:pointer;font-family:Poppins,sans-serif;display:flex;align-items:center;gap:8px;transition:background 0.2s;">
+      Continue to Website →
+    </button>
+
+    <div style="color:#475569;font-size:11px;font-family:Poppins,sans-serif;margin-top:12px;">Tap anywhere to continue</div>
   </div>
 
   <style>
-    @keyframes popIn { from{transform:scale(0.85);opacity:0} to{transform:scale(1);opacity:1} }
-    @keyframes blink2 { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    @keyframes sp-blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    @keyframes sp-fadeout { from{opacity:1;transform:scale(1)} to{opacity:0;transform:scale(1.03)} }
+    .sp-card { background:#1e293b;border-radius:12px;padding:14px 16px;display:flex;align-items:flex-start;gap:12px;cursor:pointer;text-decoration:none;transition:background 0.2s; }
+    .sp-card:hover { background:#263548; }
+    .sp-badge { font-size:9px;font-weight:800;padding:3px 7px;border-radius:4px;white-space:nowrap;flex-shrink:0;margin-top:2px;font-family:Poppins,sans-serif; }
+    .sp-title { color:white;font-size:13px;font-weight:600;line-height:1.45;font-family:Poppins,sans-serif; }
+    .sp-date { color:#64748b;font-size:11px;margin-top:4px;font-family:Poppins,sans-serif; }
   </style>
 
   <script>
-    // Show popup with latest 3 articles
+    // Load latest 2 articles
     fetch('data/jobs.json')
       .then(function(r){ return r.json(); })
       .then(function(data){
-        var latest = data.slice(-3).reverse();
+        var latest = data.slice(-2).reverse();
+        var colors = [['#dc2626','#fca5a5','#7f1d1d'], ['#d97706','#fcd34d','#78350f']];
+        var labels = ['नई खबर', 'ताज़ा'];
         var html = '';
         latest.forEach(function(item, i){
-          var colors = ['#dc2626','#d97706','#1a56db'];
-          var labels = ['नई खबर','अपडेट','जरूरी'];
-          html += '<a href="pages/job-detail.html?id=' + item.id + '" onclick="closePopup()" style="display:flex;align-items:flex-start;gap:12px;padding:12px 18px;border-bottom:1px solid #f1f5f9;text-decoration:none;transition:background 0.15s;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background='white'">' +
-            '<span style="background:' + colors[i] + ';color:white;font-size:9px;font-weight:700;padding:3px 7px;border-radius:4px;white-space:nowrap;margin-top:2px;font-family:Poppins,sans-serif;">' + labels[i] + '</span>' +
+          var c = colors[i];
+          html += '<a href="pages/job-detail.html?id=' + item.id + '" class="sp-card" onclick="closeSplash()">' +
+            '<span class="sp-badge" style="background:' + c[0] + ';color:white;">' + labels[i] + '</span>' +
             '<div>' +
-              '<div style="font-size:13px;font-weight:600;color:#1e293b;line-height:1.45;font-family:Poppins,sans-serif;">' + item.title + '</div>' +
-              '<div style="font-size:11px;color:#94a3b8;margin-top:3px;font-family:Poppins,sans-serif;">📅 ' + item.lastUpdate + '</div>' +
+              '<div class="sp-title">' + item.title + '</div>' +
+              '<div class="sp-date">📅 ' + item.lastUpdate + '</div>' +
             '</div>' +
           '</a>';
         });
-        document.getElementById('popupItems').innerHTML = html;
-
-        // Show popup after 1 second — only once per session
-        if(!sessionStorage.getItem('popupShown')){
-          setTimeout(function(){
-            var p = document.getElementById('newsPopup');
-            p.style.display = 'flex';
-            sessionStorage.setItem('popupShown','1');
-          }, 1000);
-        }
+        document.getElementById('splashCards').innerHTML = html;
       });
 
-    function closePopup(){
-      document.getElementById('newsPopup').style.display = 'none';
+    function closeSplash(){
+      var el = document.getElementById('splashScreen');
+      el.style.animation = 'sp-fadeout 0.3s ease forwards';
+      setTimeout(function(){ el.style.display = 'none'; }, 280);
     }
 
-    // Close on background click
-    document.getElementById('newsPopup').addEventListener('click', function(e){
-      if(e.target === this) closePopup();
+    // Tap anywhere on background to close
+    document.getElementById('splashScreen').addEventListener('click', function(e){
+      if(e.target === this) closeSplash();
     });
 
-    // Close on Escape key
-    document.addEventListener('keydown', function(e){
-      if(e.key === 'Escape') closePopup();
-    });
+    // Show only once per session
+    if(sessionStorage.getItem('splashShown')){
+      document.getElementById('splashScreen').style.display = 'none';
+    } else {
+      sessionStorage.setItem('splashShown','1');
+    }
   </script>
 
 </body>
