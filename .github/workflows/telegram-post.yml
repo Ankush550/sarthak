@@ -33,3 +33,21 @@ d=urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode()
 urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',d))
 print('Sent!')
 "
+```
+
+---
+
+## Commit Karo
+```
+Commit message: "Add workflow_dispatch trigger"
+→ Commit changes ✅
+```
+
+---
+
+## Phir Run Karo
+```
+Actions → telegram-post.yml
+→ "Run workflow" button aayega upar right mein
+→ Branch: master
+→ Run workflow click karo ✅
