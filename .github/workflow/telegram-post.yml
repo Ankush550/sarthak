@@ -1,12 +1,11 @@
 name: Auto Telegram Post
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
       - main
-    paths:
-      - 'data/jobs.json'
 
 jobs:
   telegram:
@@ -21,46 +20,34 @@ jobs:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: |
-          python3 << 'PYEOF'
-import json, urllib.request, urllib.parse, subprocess, sys, os
+          python3 -c "
+import json,urllib.request,urllib.parse,os
+BOT=os.environ['BOT_TOKEN']
+CID=os.environ['CHANNEL_ID']
+with open('data/jobs.json',encoding='utf-8') as f:
+  data=json.load(f)
+a=data[-1]
+h=a.get('highlights',{})
+msg='Nayi Khabar SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'
+d=urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode()
+urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',d))
+print('Sent!')
+"
+```
 
-BOT = os.environ.get('BOT_TOKEN','')
-CID = os.environ.get('CHANNEL_ID','')
+---
 
-print(f"BOT: {BOT[:10]}... CID: {CID}")
+## Commit Karo
+```
+Commit message: "Add workflow_dispatch trigger"
+→ Commit changes ✅
+```
 
-with open('data/jobs.json', encoding='utf-8') as f:
-    now = json.load(f)
+---
 
-res = subprocess.run(['git','show','HEAD~1:data/jobs.json'], capture_output=True, text=True)
-old_ids = set()
-if res.returncode == 0:
-    old_ids = {a['id'] for a in json.loads(res.stdout)}
-
-new = [a for a in now if a['id'] not in old_ids]
-print(f"New: {len(new)}")
-
-for a in new:
-    h = a.get('highlights',{})
-    msg = "🔔 Nayi Khabar — SarthakYojana.in\n\n"
-    msg += "💼 " + a.get('title','') + "\n\n"
-    msg += "📊 Vacancy: " + h.get('vacancy','-') + "\n"
-    msg += "📅 Last Date: " + h.get('applyDate','-') + "\n\n"
-    msg += "👉 " + "https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','') + "\n\n"
-    msg += "🌐 sarthakyojana.in"
-
-    data = urllib.parse.urlencode({
-        'chat_id': CID,
-        'text': msg
-    }).encode()
-
-    req = urllib.request.Request(
-        f'https://api.telegram.org/bot{BOT}/sendMessage',
-        data=data
-    )
-    try:
-        resp = urllib.request.urlopen(req)
-        print("Sent:", a.get('title','')[:50])
-    except Exception as e:
-        print("Error:", str(e))
-PYEOF
+## Phir Run Karo
+```
+Actions → telegram-post.yml
+→ "Run workflow" button aayega upar right mein
+→ Branch: master
+→ Run workflow click karo ✅
