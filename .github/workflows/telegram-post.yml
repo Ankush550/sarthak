@@ -19,34 +19,25 @@ jobs:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: |
-          python3 << 'EOF'
-          import json, urllib.request, urllib.parse, os
-          BOT = os.environ['BOT_TOKEN']
-          CID = os.environ['CHANNEL_ID']
-          with open('data/jobs.json', encoding='utf-8') as f:
-              data = json.load(f)
-          a = data[-1]
-          h = a.get('highlights', {})
-          msg = 'Nayi Khabar - SarthakYojana.in\n\n' + a.get('title', '') + '\n\nVacancy: ' + h.get('vacancy', '-') + '\nLast Date: ' + h.get('applyDate', '-') + '\n\nhttps://sarthakyojana.in/pages/job-detail.html?id=' + a.get('id', '') + '\n\nsarthakyojana.in'
-          d = urllib.parse.urlencode({'chat_id': CID, 'text': msg}).encode()
-          urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot' + BOT + '/sendMessage', d))
-          print('Sent!')
-          EOF
+          python3 -c "
+import json,urllib.request,urllib.parse,os
+BOT=os.environ['BOT_TOKEN']
+CID=os.environ['CHANNEL_ID']
+with open('data/jobs.json',encoding='utf-8') as f:
+  data=json.load(f)
+a=data[-1]
+h=a.get('highlights',{})
+msg='Nayi Khabar - SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'
+d=urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode()
+urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',d))
+print('Sent!')
+"
 ```
 
 ---
 
-## Commit karo
-```
-Commit message: "Fix YAML syntax"
-→ Commit changes ✅
-```
-
----
-
-## Phir Run Karo
+## Commit karo phir:
 ```
 Actions → telegram-post.yml
-→ "Run workflow" button
-→ master select karo
-→ Run! ✅
+→ "Run workflow" button aayega ✅
+→ Click karo → Run!v
