@@ -276,7 +276,15 @@
   .stat-num { font-family: 'Playfair Display', serif; font-size: 26px; color: var(--gold); }
   .stat-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
 
-  @media (max-width: 600px) {
+  .nav-link {
+    background: none; border: none; color: var(--muted);
+    font-family: 'DM Sans', sans-serif; font-size: 14px;
+    cursor: pointer; padding: 6px 4px; transition: color 0.2s;
+  }
+  .nav-link:hover { color: var(--text); }
+  .nav-link-gold { color: var(--gold) !important; font-weight: 600; }
+  .nav-link-gold:hover { color: var(--gold2) !important; }
+
     nav { padding: 14px 20px; }
     .section { padding: 40px 20px; }
     .jobs-header { padding: 28px 20px; }
@@ -291,6 +299,10 @@
 <!-- NAV -->
 <nav>
   <div class="logo">Career<span>Edge</span></div>
+  <div style="display:flex; align-items:center; gap:24px;">
+    <button class="nav-link" onclick="showPage('homePage')">Home</button>
+    <button class="nav-link nav-link-gold" onclick="goToJobs()">🔒 Private Jobs</button>
+  </div>
   <div class="nav-btns" id="navBtns">
     <button class="btn-ghost" onclick="openModal('signin')">Sign In</button>
     <button class="btn-primary" onclick="openModal('signup')">Sign Up</button>
