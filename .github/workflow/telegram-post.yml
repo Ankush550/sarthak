@@ -4,50 +4,26 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
-      - main
+      - master   # ✅ sirf master listen karega
 
 jobs:
   telegram:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
 
-      - name: Send Telegram
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Telegram Script
+        run: python3 script.py
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-        run: |
-          python3 -c "
-import json,urllib.request,urllib.parse,os
-BOT=os.environ['BOT_TOKEN']
-CID=os.environ['CHANNEL_ID']
-with open('data/jobs.json',encoding='utf-8') as f:
-  data=json.load(f)
-a=data[-1]
-h=a.get('highlights',{})
-msg='Nayi Khabar SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'
-d=urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode()
-urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',d))
-print('Sent!')
-"
-```
-
----
-
-## Commit Karo
-```
-Commit message: "Add workflow_dispatch trigger"
-→ Commit changes ✅
-```
-
----
-
-## Phir Run Karo
-```
-Actions → telegram-post.yml
-→ "Run workflow" button aayega upar right mein
-→ Branch: master
-→ Run workflow click karo ✅
