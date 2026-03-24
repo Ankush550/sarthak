@@ -662,9 +662,7 @@
     var fstarted = false;
 
     var fsteps = [
-      { key:'qualification', q:'Namaste! 🙏
-
-Aapki qualification kya hai?', opts:['10th Pass','12th Pass','Graduation','B.Tech/B.E.','B.Ed/Teacher','CA/CMA'] },
+      { key:'qualification', q:'Namaste! 🙏\n\nAapki qualification kya hai?', opts:['10th Pass','12th Pass','Graduation','B.Tech/B.E.','B.Ed/Teacher','CA/CMA'] },
       { key:'state', q:'Aap kahan se hain?', opts:['Rajasthan','Uttar Pradesh','Madhya Pradesh','Bihar','All India'] },
       { key:'interest', q:'Kis field mein job chahiye?', opts:['Police/Defence','Teaching','Engineering/Tech','Banking/Finance','Any Govt Job'] }
     ];
@@ -705,8 +703,7 @@ Aapki qualification kya hai?', opts:['10th Pass','12th Pass','Graduation','B.Tec
         t.remove();
         var m = document.createElement('div');
         m.className = 'f-bot-msg';
-        m.innerHTML = text.replace(/
-/g,'<br>');
+        m.innerHTML = text.replace(/\n/g,'<br>');
         msgs.appendChild(m);
         msgs.scrollTop = msgs.scrollHeight;
         if(cb) cb();
