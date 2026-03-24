@@ -13,12 +13,12 @@ a = data[-1]
 h = a.get('highlights', {})
 
 msg = (
-    "🔔 Nayi Khabar - SarthakYojana.in\n\n"
-    + "💼 " + a.get('title','') + "\n\n"
-    + "📊 Vacancy: " + h.get('vacancy','-') + "\n"
-    + "📅 Last Date: " + h.get('applyDate','-') + "\n\n"
-    + "👉 https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
-    + "\n\n🌐 sarthakyojana.in"
+    "Nayi Khabar - SarthakYojana.in\n\n"
+    + a.get('title','') + "\n\n"
+    + "Vacancy: " + h.get('vacancy','-') + "\n"
+    + "Last Date: " + h.get('applyDate','-') + "\n\n"
+    + "Details: https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
+    + "\n\nsarthakyojana.in"
 )
 
 res = requests.post(
@@ -27,11 +27,3 @@ res = requests.post(
 )
 print("STATUS:", res.status_code)
 print("RESPONSE:", res.text)
-```
-
----
-
-## Commit → Run Workflow
-```
-Actions → Auto Telegram Post
-→ Run workflow → main → Run ✅
