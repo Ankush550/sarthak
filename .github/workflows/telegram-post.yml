@@ -17,52 +17,38 @@ jobs:
 
       - name: Send Telegram Message
         run: |
-          python3 <<EOF
-import os
-import json
-import urllib.request
-import urllib.parse
-import subprocess
+          python3 << 'EOF'
+          import os
+          import json
+          import urllib.request
+          import urllib.parse
+          import subprocess
 
-# ENV
-BOT = os.environ['BOT_TOKEN']
-CID = os.environ['CHANNEL_ID']
+          BOT = os.environ['BOT_TOKEN']
+          CID = os.environ['CHANNEL_ID']
 
-# Get latest file from master
-subprocess.run(['git','fetch','origin','master'], check=True)
-subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
+          subprocess.run(['git','fetch','origin','master'], check=True)
+          subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
 
-# Load JSON
-with open('data/jobs.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+          with open('data/jobs.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
 
-# Last job
-a = data[-1]
-h = a.get('highlights', {})
+          a = data[-1]
+          h = a.get('highlights', {})
 
-msg = f"""🔥 Nayi Khabar - SarthakYojana.in
+          msg = f"🔥 Nayi Khabar - SarthakYojana.in\n\n{a.get('title','')}\n\nVacancy: {h.get('vacancy','-')}\nLast Date: {h.get('applyDate','-')}\n\nhttps://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}"
 
-{a.get('title','')}
+          url = f"https://api.telegram.org/bot{BOT}/sendMessage"
 
-Vacancy: {h.get('vacancy','-')}
-Last Date: {h.get('applyDate','-')}
+          payload = urllib.parse.urlencode({
+              "chat_id": CID,
+              "text": msg
+          }).encode()
 
-https://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}
+          urllib.request.urlopen(url, data=payload)
 
-#Jobs #SarkariJob
-"""
-
-# Send to Telegram
-url = f"https://api.telegram.org/bot{BOT}/sendMessage"
-payload = urllib.parse.urlencode({
-    "chat_id": CID,
-    "text": msg
-}).encode()
-
-urllib.request.urlopen(url, data=payload)
-
-print("✅ Message Sent!")
-EOF
+          print("Message Sent")
+          EOF
 
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
