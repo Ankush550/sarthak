@@ -1,7 +1,7 @@
 import os, json, requests, subprocess
 
 BOT = os.environ['BOT_TOKEN']
-CID = "-1003719598023"  # Direct daalo pehle test ke liye
+CID = "@sarthakyojana"
 
 subprocess.run(['git','fetch','origin','master'], check=True)
 subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
@@ -13,11 +13,12 @@ a = data[-1]
 h = a.get('highlights', {})
 
 msg = (
-    "Nayi Khabar SarthakYojana.in\n\n"
+    "Nayi Khabar - SarthakYojana.in\n\n"
     + a.get('title','') + "\n\n"
     + "Vacancy: " + h.get('vacancy','-') + "\n"
     + "Last Date: " + h.get('applyDate','-') + "\n\n"
     + "https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
+    + "\n\nsarthakyojana.in"
 )
 
 url = "https://api.telegram.org/bot" + BOT + "/sendMessage"
