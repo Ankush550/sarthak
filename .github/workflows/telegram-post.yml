@@ -1,55 +1,41 @@
-name: Auto Telegram Post
+- name: Send Telegram Message
+  run: |
+    pip install requests
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
+    python3 << 'EOF'
+    import os
+    import json
+    import requests
+    import subprocess
 
-jobs:
-  telegram:
-    runs-on: ubuntu-latest
+    BOT = os.environ['BOT_TOKEN']
+    CID = os.environ['CHANNEL_ID']
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+    subprocess.run(['git','fetch','origin','master'], check=True)
+    subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
 
-      - name: Send Telegram Message
-        run: |
-          python3 << 'EOF'
-          import os
-          import json
-          import urllib.request
-          import urllib.parse
-          import subprocess
+    with open('data/jobs.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-          BOT = os.environ['BOT_TOKEN']
-          CID = os.environ['CHANNEL_ID']
+    a = data[-1]
+    h = a.get('highlights', {})
 
-          subprocess.run(['git','fetch','origin','master'], check=True)
-          subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
+    msg = f"""🔥 Nayi Khabar - SarthakYojana.in
 
-          with open('data/jobs.json', 'r', encoding='utf-8') as f:
-              data = json.load(f)
+{a.get('title','')}
 
-          a = data[-1]
-          h = a.get('highlights', {})
+Vacancy: {h.get('vacancy','-')}
+Last Date: {h.get('applyDate','-')}
 
-          msg = f"🔥 Nayi Khabar - SarthakYojana.in\n\n{a.get('title','')}\n\nVacancy: {h.get('vacancy','-')}\nLast Date: {h.get('applyDate','-')}\n\nhttps://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}"
+https://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}
+"""
 
-          url = f"https://api.telegram.org/bot{BOT}/sendMessage"
+    url = f"https://api.telegram.org/bot{BOT}/sendMessage"
 
-          payload = urllib.parse.urlencode({
-              "chat_id": CID,
-              "text": msg
-          }).encode()
+    requests.post(url, data={
+        "chat_id": CID,
+        "text": msg
+    })
 
-          urllib.request.urlopen(url, data=payload)
-
-          print("Message Sent")
-          EOF
-
-        env:
-          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+    print("✅ Message Sent")
+    EOF
