@@ -3938,5 +3938,129 @@
       "RRC WR 5349 Posts",
       "ITI Railway Job 2026"
     ]
+  },
+  {
+    "id": "bsnl-set-2026",
+    "title": "BSNL Senior Executive Trainee Bharti 2026 – 120 Posts, Apply Online till 15 April",
+    "category": "Jobs",
+    "lastUpdate": "24/03/2026 | 12:00 PM",
+    "description": "Bharat Sanchar Nigam Limited yaani BSNL ne Senior Executive Trainee yaani SET posts ke liye notification jari ki hai. BSNL India ki sabse badi government telecom company hai. Is bharti mein kul 120 posts hain — Telecom Stream mein 95 aur Finance Stream mein 25. Last date 15 April 2026 tak extend ho gayi hai toh abhi bhi apply kar sakte hain.\n\n<strong>BSNL SET Bharti 2026 — Kya Hai Yeh Naukri?</strong>\n\nBSNL mein Senior Executive Trainee ek Group-A level ki post hai. Telecom Stream mein selected candidates ko network planning, operations aur technical management ka kaam milega. Finance Stream mein CA ya CMA qualified candidates ko financial management aur accounts ka kaam milega. BSNL ki naukri government naukri hoti hai jisme achha salary aur benefits milte hain.\n\n<strong>Vacancy Details — Kitni Posts Hain?</strong>\n\nSenior Executive Trainee Telecom Stream ke liye 95 posts hain. Iske liye B.E. ya B.Tech Electronics, Telecommunication, Computer Science, IT, Electrical ya Instrumentation Engineering mein minimum 60% marks hone chahiye. Senior Executive Trainee Finance Stream ke liye 25 posts hain. Iske liye Chartered Accountant yaani CA ya Cost and Management Accountancy yaani CMA qualification honi chahiye.\n\n<strong>Age Limit Kya Hai?</strong>\n\nMinimum age 21 saal aur maximum age 30 saal hai 7 March 2026 ki date ke hisaab se General, EWS aur OBC CL candidates ke liye. OBC NCL candidates ke liye maximum age 33 saal hai. SC aur ST candidates ke liye maximum age 35 saal hai. BSNL niyamon ke hisaab se age relaxation milegi reserved categories ko.\n\n<strong>Application Fee Kitni Hai?</strong>\n\nGeneral, OBC aur EWS categories ke liye application fee 2500 rupaye hai. SC, ST aur PwBD candidates ke liye 1250 rupaye ki fee lagegi. Payment online mode se hogi — Debit Card, Credit Card, Internet Banking, IMPS ya Mobile Wallet se payment kar sakte hain.\n\n<strong>Selection Process Kya Hoga?</strong>\n\nBSNL SET Bharti 2026 mein selection Written Exam aur Merit List ke basis par hoga. Written exam ki date baad mein announce hogi. Exam qualify karne ke baad merit list banegi. Merit list mein selected candidates ko interview ya document verification ke liye bulaya jaayega. Final selection merit ke hisaab se hogi.\n\n<strong>Apply Kaise Karein?</strong>\n\nBSNL ki official website bsnl.co.in par jaayein aur recruitment section mein SET 2026 ka link dhundhein. Pehle registration karein apna naam, email aur mobile number daalo. Login karke application form sahi sahi bharein. Educational qualification aur personal details daalen. Required documents upload karein — photo, signature aur degree certificate. Application fee online pay karein. Submit karne ke baad printout zaroor lein. Last date 15 April 2026 hai — aur correction 16 se 23 April 2026 tak ho sakti hai.",
+    "notification": "BSNL SET Recruitment 2026 — Advt. No. BSNLCO-11/12(11)/1/2025-RECTT-CO-Part (1)",
+    "importantDates": [
+      {
+        "label": "Application Start",
+        "value": "05 February 2026",
+        "highlight": false
+      },
+      {
+        "label": "Last Date Apply",
+        "value": "15 April 2026 (Extended)",
+        "highlight": true
+      },
+      {
+        "label": "Fee Payment Last Date",
+        "value": "15 April 2026",
+        "highlight": true
+      },
+      {
+        "label": "Correction Date",
+        "value": "16 – 23 April 2026",
+        "highlight": false
+      },
+      {
+        "label": "Exam Date",
+        "value": "Baad mein announce hogi",
+        "highlight": false
+      }
+    ],
+    "fees": [
+      "General / OBC / EWS: Rs. 2500/-",
+      "SC / ST / PwBD: Rs. 1250/-",
+      "Payment: Online (Debit/Credit Card, Net Banking, UPI)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "B.E./B.Tech Degree Certificate (60%+ marks)",
+      "CA / CMA Certificate (Finance Stream)",
+      "Caste Certificate (if applicable)",
+      "Passport Size Photo",
+      "Signature"
+    ],
+    "eligibility": [
+      {
+        "class": "SET Telecom Stream",
+        "age": "21 to 30 Years",
+        "category": "B.E./B.Tech (Electronics/CS/IT/Electrical) 60%+ marks",
+        "residence": "All India"
+      },
+      {
+        "class": "SET Finance Stream",
+        "age": "21 to 30 Years",
+        "category": "CA (Chartered Accountant) ya CMA",
+        "residence": "All India"
+      }
+    ],
+    "howToApply": [
+      {
+        "title": "bsnl.co.in par jaayein",
+        "detail": "Official BSNL website open karein"
+      },
+      {
+        "title": "Recruitment section dhundhein",
+        "detail": "SET 2026 application link par click karein"
+      },
+      {
+        "title": "Registration karein",
+        "detail": "Naam, email aur mobile se account banao"
+      },
+      {
+        "title": "Form bharein",
+        "detail": "Personal aur educational details sahi bharein"
+      },
+      {
+        "title": "Documents upload karein",
+        "detail": "Photo, signature aur degree certificate upload karein"
+      },
+      {
+        "title": "Fee pay karein",
+        "detail": "Rs. 2500 ya Rs. 1250 online pay karein"
+      },
+      {
+        "title": "Submit karein",
+        "detail": "Preview ke baad final submit karo"
+      },
+      {
+        "title": "Printout lo",
+        "detail": "Application ka printout zaroor nikaalo"
+      }
+    ],
+    "importantLinks": [
+      {
+        "label": "Apply Online",
+        "url": "https://bsnl.co.in/en",
+        "text": "BSNL Official Website"
+      },
+      {
+        "label": "Official Notification",
+        "url": "https://bsnl.co.in/en",
+        "text": "Download Notification PDF"
+      }
+    ],
+    "highlights": {
+      "postName": "Senior Executive Trainee (Telecom & Finance Stream)",
+      "vacancy": "120 Posts",
+      "domicile": "All India",
+      "ageLimit": "21 to 30 Years (Category wise)",
+      "applyDate": "05 Feb to 15 Apr 2026",
+      "documents": "B.E./B.Tech Degree | CA/CMA Certificate | Aadhaar | Photo",
+      "department": "Bharat Sanchar Nigam Limited (BSNL)"
+    },
+    "keywords": [
+      "BSNL SET Recruitment 2026",
+      "BSNL Senior Executive Trainee",
+      "BSNL Telecom Job 2026",
+      "BSNL Finance Stream Vacancy",
+      "Government Telecom Job 2026"
+    ]
   }
 ]
