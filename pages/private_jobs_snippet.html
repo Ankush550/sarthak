@@ -1,0 +1,337 @@
+<!-- ====================================================
+   JAI HIND — PRIVATE JOBS MODAL
+   Yeh code </body> se pehle paste karo apni website mein
+   ===================================================== -->
+
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+.pj-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.75); backdrop-filter: blur(6px);
+  z-index: 99999; align-items: center; justify-content: center;
+  font-family: 'DM Sans', sans-serif;
+}
+.pj-overlay.show { display: flex; animation: pjFade 0.25s ease; }
+@keyframes pjFade { from { opacity: 0; } to { opacity: 1; } }
+
+/* MODAL BOX */
+.pj-modal {
+  background: #13131a; border: 1px solid #2a2a38;
+  border-radius: 20px; width: 100%; max-width: 440px;
+  margin: 16px; position: relative; overflow: hidden;
+  animation: pjSlide 0.25s ease;
+}
+@keyframes pjSlide { from { transform: translateY(20px); opacity:0; } to { transform: translateY(0); opacity:1; } }
+
+.pj-close {
+  position: absolute; top: 14px; right: 18px;
+  background: none; border: none; color: #666; font-size: 24px;
+  cursor: pointer; z-index: 10; line-height: 1;
+}
+.pj-close:hover { color: #fff; }
+
+/* AUTH SECTION */
+.pj-auth { padding: 36px 32px 28px; }
+.pj-logo { font-size: 32px; margin-bottom: 12px; }
+.pj-auth h2 { color: #f0ede8; font-size: 24px; font-weight: 700; margin-bottom: 4px; }
+.pj-auth p { color: #7a7a90; font-size: 14px; margin-bottom: 24px; }
+
+.pj-tabs { display: flex; background: #1a1a24; border-radius: 10px; padding: 4px; margin-bottom: 24px; gap: 4px; }
+.pj-tab {
+  flex: 1; padding: 9px; text-align: center; border-radius: 8px;
+  cursor: pointer; font-size: 14px; font-weight: 500; color: #7a7a90;
+  background: none; border: none; font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s;
+}
+.pj-tab.active { background: #f5c842; color: #0a0a0f; font-weight: 700; }
+
+.pj-field { margin-bottom: 16px; }
+.pj-field label { display: block; font-size: 12px; color: #7a7a90; margin-bottom: 5px; font-weight: 500; }
+.pj-field input {
+  width: 100%; background: #1a1a24; border: 1px solid #2a2a38;
+  color: #f0ede8; padding: 11px 14px; border-radius: 10px;
+  font-family: 'DM Sans', sans-serif; font-size: 15px; outline: none;
+  transition: border-color 0.2s; box-sizing: border-box;
+}
+.pj-field input:focus { border-color: #f5c842; }
+.pj-field input::placeholder { color: #444; }
+
+.pj-btn {
+  width: 100%; background: #f5c842; color: #0a0a0f;
+  border: none; padding: 13px; border-radius: 10px; font-size: 16px;
+  font-weight: 700; cursor: pointer; font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s; margin-top: 4px;
+}
+.pj-btn:hover { background: #e8a020; }
+.pj-err { color: #ff6b6b; font-size: 13px; margin-top: 8px; text-align: center; }
+.pj-ok  { color: #3dd68c; font-size: 13px; margin-top: 8px; text-align: center; }
+
+/* JOBS SECTION */
+.pj-jobs { display: none; max-height: 90vh; overflow-y: auto; }
+.pj-jobs-head {
+  background: linear-gradient(135deg, #1a1a24, #13131a);
+  padding: 24px 28px; border-bottom: 1px solid #2a2a38;
+  position: sticky; top: 0;
+}
+.pj-welcome { color: #f5c842; font-size: 12px; font-weight: 600; margin-bottom: 4px; }
+.pj-jobs-head h3 { color: #f0ede8; font-size: 20px; font-weight: 700; margin-bottom: 2px; }
+.pj-jobs-head p { color: #7a7a90; font-size: 13px; }
+.pj-logout {
+  float: right; margin-top: -44px; background: none;
+  border: 1px solid #2a2a38; color: #7a7a90; padding: 5px 12px;
+  border-radius: 8px; font-size: 12px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+}
+.pj-logout:hover { color: #ff6b6b; border-color: #ff6b6b; }
+
+/* RESUME */
+.pj-resume-area { padding: 20px 28px; border-bottom: 1px solid #2a2a38; }
+.pj-resume-area h4 { color: #f0ede8; font-size: 14px; font-weight: 600; margin-bottom: 12px; }
+.pj-drop {
+  border: 2px dashed #2a2a38; border-radius: 12px; padding: 20px;
+  text-align: center; cursor: pointer; transition: all 0.2s;
+  background: #1a1a24;
+}
+.pj-drop:hover, .pj-drop.over { border-color: #f5c842; background: rgba(245,200,66,0.04); }
+.pj-drop p { color: #7a7a90; font-size: 13px; margin-top: 6px; }
+.pj-drop .di { font-size: 28px; }
+.pj-drop b { color: #f5c842; font-size: 14px; }
+.pj-file-input { display: none; }
+.pj-uploaded {
+  display: none; background: rgba(61,214,140,0.08);
+  border: 1px solid rgba(61,214,140,0.2); border-radius: 10px;
+  padding: 14px 16px; align-items: center; gap: 12px;
+}
+.pj-uploaded .fn { color: #f0ede8; font-weight: 600; font-size: 14px; }
+.pj-uploaded .fs { color: #7a7a90; font-size: 12px; }
+.pj-rmv { margin-left: auto; background: none; border: none; color: #ff6b6b; cursor: pointer; font-size: 18px; }
+
+/* FILTERS */
+.pj-filters { padding: 16px 28px 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+.pj-chip {
+  padding: 5px 14px; border-radius: 20px; border: 1px solid #2a2a38;
+  background: transparent; color: #7a7a90; cursor: pointer;
+  font-family: 'DM Sans', sans-serif; font-size: 12px; transition: all 0.2s;
+}
+.pj-chip.on, .pj-chip:hover { border-color: #f5c842; color: #f5c842; background: rgba(245,200,66,0.08); }
+
+/* JOB CARDS */
+.pj-list { padding: 8px 28px 24px; }
+.pj-job {
+  background: #1a1a24; border: 1px solid #2a2a38;
+  border-radius: 12px; padding: 16px; margin-bottom: 10px;
+  display: flex; gap: 14px; align-items: center;
+  transition: all 0.2s; cursor: pointer;
+}
+.pj-job:hover { border-color: rgba(245,200,66,0.4); transform: translateX(3px); }
+.pj-icon {
+  width: 44px; height: 44px; border-radius: 10px; flex-shrink: 0;
+  background: linear-gradient(135deg, #f5c842, #e8a020);
+  display: flex; align-items: center; justify-content: center; font-size: 18px;
+}
+.pj-job-info { flex: 1; min-width: 0; }
+.pj-job-title { color: #f0ede8; font-size: 14px; font-weight: 600; }
+.pj-job-co { color: #7a7a90; font-size: 12px; margin: 2px 0 6px; }
+.pj-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.pj-t { background: rgba(255,255,255,0.05); color: #7a7a90; font-size: 11px; padding: 2px 8px; border-radius: 5px; }
+.pj-sal { text-align: right; flex-shrink: 0; }
+.pj-sal-num { color: #3dd68c; font-size: 14px; font-weight: 700; }
+.pj-sal-lbl { color: #7a7a90; font-size: 10px; }
+</style>
+
+<!-- MODAL HTML -->
+<div class="pj-overlay" id="pjOverlay">
+  <div class="pj-modal" id="pjModal">
+    <button class="pj-close" onclick="pjClose()">×</button>
+
+    <!-- AUTH PANEL -->
+    <div class="pj-auth" id="pjAuth">
+      <div class="pj-logo">🏢</div>
+      <h2>Private Jobs Access</h2>
+      <p>Sirf registered users ke liye — sign in karke dekho</p>
+      <div class="pj-tabs">
+        <button class="pj-tab active" id="pjT1" onclick="pjTab('in')">Sign In</button>
+        <button class="pj-tab" id="pjT2" onclick="pjTab('up')">Sign Up</button>
+      </div>
+
+      <div id="pjIn">
+        <div class="pj-field"><label>Email</label><input id="pjSiE" type="email" placeholder="aapka@email.com"></div>
+        <div class="pj-field"><label>Password</label><input id="pjSiP" type="password" placeholder="••••••••"></div>
+        <button class="pj-btn" onclick="pjSignIn()">Sign In →</button>
+        <div id="pjSiM"></div>
+      </div>
+
+      <div id="pjUp" style="display:none">
+        <div class="pj-field"><label>Aapka Naam</label><input id="pjSuN" type="text" placeholder="Full name"></div>
+        <div class="pj-field"><label>Email</label><input id="pjSuE" type="email" placeholder="aapka@email.com"></div>
+        <div class="pj-field"><label>Password</label><input id="pjSuP" type="password" placeholder="Min 6 characters"></div>
+        <button class="pj-btn" onclick="pjSignUp()">Account Banao →</button>
+        <div id="pjSuM"></div>
+      </div>
+    </div>
+
+    <!-- JOBS PANEL -->
+    <div class="pj-jobs" id="pjJobsPanel">
+      <div class="pj-jobs-head">
+        <div class="pj-welcome" id="pjWelcome">✅ Welcome!</div>
+        <button class="pj-logout" onclick="pjLogout()">Logout</button>
+        <h3>Private Jobs 💼</h3>
+        <p>Verified companies — real salaries</p>
+      </div>
+
+      <!-- RESUME -->
+      <div class="pj-resume-area">
+        <h4>📄 Resume Upload Karo</h4>
+        <div class="pj-drop" id="pjDrop"
+          onclick="document.getElementById('pjFileInput').click()"
+          ondragover="pjDragOver(event)" ondragleave="pjDragLeave(event)" ondrop="pjDrop2(event)">
+          <div class="di">📎</div>
+          <b>Click karo ya Drag & Drop karo</b>
+          <p>PDF, DOC, DOCX — Max 5MB</p>
+        </div>
+        <div class="pj-uploaded" id="pjUploaded"></div>
+        <input type="file" id="pjFileInput" class="pj-file-input" accept=".pdf,.doc,.docx" onchange="pjFileSelect(event)">
+      </div>
+
+      <!-- JOB LIST -->
+      <div class="pj-filters">
+        <button class="pj-chip on" onclick="pjFilter('all',this)">All</button>
+        <button class="pj-chip" onclick="pjFilter('tech',this)">💻 Tech</button>
+        <button class="pj-chip" onclick="pjFilter('sales',this)">🗣️ Sales</button>
+        <button class="pj-chip" onclick="pjFilter('finance',this)">📊 Finance</button>
+        <button class="pj-chip" onclick="pjFilter('design',this)">🎨 Design</button>
+      </div>
+      <div class="pj-list" id="pjList"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  const JOBS = [
+    {icon:"🧑‍💻", title:"Full Stack Developer",    co:"TechNova Jaipur",      sal:"₹90K–₹1.2L", type:"tech",    tags:["React","Node.js","Remote OK"]},
+    {icon:"📊",   title:"Data Analyst",             co:"Genpact (Jaipur)",     sal:"₹65K–₹90K",  type:"tech",    tags:["SQL","Excel","Tableau"]},
+    {icon:"🤝",   title:"B2B Sales Manager",        co:"Infra Solutions Ltd.", sal:"₹60K+Commission", type:"sales", tags:["B2B","Field Sales"]},
+    {icon:"🏘️",  title:"Real Estate Executive",    co:"Mahindra Lifespaces",  sal:"₹50K+2% Commission", type:"sales", tags:["Jaipur","Client Handling"]},
+    {icon:"💹",   title:"Financial Analyst",         co:"HDFC Asset Mgmt",      sal:"₹80K–₹1.1L", type:"finance", tags:["CFA","Mutual Funds"]},
+    {icon:"🎨",   title:"UI/UX Designer",            co:"DesignCraft Studio",   sal:"₹55K–₹85K",  type:"design",  tags:["Figma","Remote"]},
+    {icon:"🤖",   title:"Python Developer (ML)",     co:"AI Startups Jaipur",   sal:"₹1L–₹1.5L",  type:"tech",    tags:["Python","ML"]},
+    {icon:"🛡️",  title:"Insurance Sales Manager",  co:"HDFC Life",            sal:"₹40K+Commission", type:"sales", tags:["BFSI","Incentives"]},
+  ];
+
+  let users = JSON.parse(localStorage.getItem('jh_users')||'{}');
+  let curr   = JSON.parse(localStorage.getItem('jh_curr')||'null');
+
+  // Open modal
+  window.openPrivateJobs = function(){
+    document.getElementById('pjOverlay').classList.add('show');
+    if(curr){ showJobs(); } else { showAuth(); }
+  };
+
+  window.pjClose = function(){
+    document.getElementById('pjOverlay').classList.remove('show');
+  };
+
+  // Click outside to close
+  document.getElementById('pjOverlay').addEventListener('click', function(e){
+    if(e.target===this) pjClose();
+  });
+
+  function showAuth(){
+    document.getElementById('pjAuth').style.display='block';
+    document.getElementById('pjJobsPanel').style.display='none';
+  }
+  function showJobs(){
+    document.getElementById('pjAuth').style.display='none';
+    document.getElementById('pjJobsPanel').style.display='block';
+    document.getElementById('pjWelcome').textContent='✅ Welcome, '+curr.name+'!';
+    pjRender('all');
+  }
+
+  window.pjTab = function(t){
+    document.getElementById('pjIn').style.display = t==='in'?'block':'none';
+    document.getElementById('pjUp').style.display = t==='up'?'block':'none';
+    document.getElementById('pjT1').className='pj-tab'+(t==='in'?' active':'');
+    document.getElementById('pjT2').className='pj-tab'+(t==='up'?' active':'');
+  };
+
+  window.pjSignIn = function(){
+    const e=document.getElementById('pjSiE').value.trim();
+    const p=document.getElementById('pjSiP').value;
+    const m=document.getElementById('pjSiM');
+    if(!e||!p){m.className='pj-err';m.textContent='Email aur password bharo!';return;}
+    if(!users[e]||users[e].pass!==p){m.className='pj-err';m.textContent='Email ya password galat hai!';return;}
+    curr={name:users[e].name,email:e};
+    localStorage.setItem('jh_curr',JSON.stringify(curr));
+    m.className='pj-ok';m.textContent='Login ho gaya ✅';
+    setTimeout(showJobs,700);
+  };
+
+  window.pjSignUp = function(){
+    const n=document.getElementById('pjSuN').value.trim();
+    const e=document.getElementById('pjSuE').value.trim();
+    const p=document.getElementById('pjSuP').value;
+    const m=document.getElementById('pjSuM');
+    if(!n||!e||!p){m.className='pj-err';m.textContent='Sab fields bharo!';return;}
+    if(p.length<6){m.className='pj-err';m.textContent='Password min 6 characters ka hona chahiye!';return;}
+    if(users[e]){m.className='pj-err';m.textContent='Yeh email already registered hai!';return;}
+    users[e]={name:n,email:e,pass:p};
+    localStorage.setItem('jh_users',JSON.stringify(users));
+    curr={name:n,email:e};
+    localStorage.setItem('jh_curr',JSON.stringify(curr));
+    m.className='pj-ok';m.textContent='Account ban gaya ✅';
+    setTimeout(showJobs,700);
+  };
+
+  window.pjLogout = function(){
+    curr=null; localStorage.removeItem('jh_curr');
+    showAuth();
+    pjTab('in');
+  };
+
+  // Jobs render
+  window.pjFilter = function(type,el){
+    document.querySelectorAll('.pj-chip').forEach(c=>c.classList.remove('on'));
+    el.classList.add('on'); pjRender(type);
+  };
+  function pjRender(type){
+    const list=document.getElementById('pjList');
+    const data=type==='all'?JOBS:JOBS.filter(j=>j.type===type);
+    list.innerHTML=data.map(j=>`
+      <div class="pj-job">
+        <div class="pj-icon">${j.icon}</div>
+        <div class="pj-job-info">
+          <div class="pj-job-title">${j.title}</div>
+          <div class="pj-job-co">🏢 ${j.co}</div>
+          <div class="pj-tags">${j.tags.map(t=>`<span class="pj-t">${t}</span>`).join('')}</div>
+        </div>
+        <div class="pj-sal">
+          <div class="pj-sal-num">${j.sal}</div>
+          <div class="pj-sal-lbl">per month</div>
+        </div>
+      </div>`).join('');
+  }
+
+  // Resume upload
+  window.pjDragOver = function(e){e.preventDefault();document.getElementById('pjDrop').classList.add('over');};
+  window.pjDragLeave= function(e){document.getElementById('pjDrop').classList.remove('over');};
+  window.pjDrop2    = function(e){e.preventDefault();document.getElementById('pjDrop').classList.remove('over');const f=e.dataTransfer.files[0];if(f)pjShowFile(f);};
+  window.pjFileSelect=function(e){const f=e.target.files[0];if(f)pjShowFile(f);};
+  function pjShowFile(f){
+    document.getElementById('pjDrop').style.display='none';
+    const u=document.getElementById('pjUploaded');
+    u.style.display='flex';
+    u.innerHTML=`<span style="font-size:24px">📄</span><div><div class="fn">${f.name}</div><div class="fs">${(f.size/1024).toFixed(0)} KB • Upload ho gaya ✅</div></div><button class="pj-rmv" onclick="pjRemove()">×</button>`;
+  }
+  window.pjRemove=function(){
+    document.getElementById('pjDrop').style.display='block';
+    document.getElementById('pjUploaded').style.display='none';
+    document.getElementById('pjFileInput').value='';
+  };
+
+  // Auto-open if already logged in
+  if(curr) {} // ready
+})();
+</script>
+<!-- ====== SNIPPET KHATAM ====== -->
