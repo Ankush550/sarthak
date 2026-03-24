@@ -1,37 +1,26 @@
-import os
-import json
-import requests
-import subprocess
+import os, json, requests, subprocess
 
 BOT = os.environ['BOT_TOKEN']
-CID = os.environ['CHANNEL_ID']
+CID = "-1003719598023"  # Direct daalo pehle test ke liye
 
-# 🔥 MASTER se latest jobs.json fetch karo
 subprocess.run(['git','fetch','origin','master'], check=True)
 subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
 
-# ✅ JSON load
 with open('data/jobs.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-# ✅ Last job
 a = data[-1]
 h = a.get('highlights', {})
 
-msg = f"""🔥 {a.get('title','')}
+msg = (
+    "Nayi Khabar SarthakYojana.in\n\n"
+    + a.get('title','') + "\n\n"
+    + "Vacancy: " + h.get('vacancy','-') + "\n"
+    + "Last Date: " + h.get('applyDate','-') + "\n\n"
+    + "https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
+)
 
-Vacancy: {h.get('vacancy','-')}
-Last Date: {h.get('applyDate','-')}
-
-https://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}
-"""
-
-url = f"https://api.telegram.org/bot{BOT}/sendMessage"
-
-res = requests.post(url, data={
-    "chat_id": CID,
-    "text": msg
-})
-
+url = "https://api.telegram.org/bot" + BOT + "/sendMessage"
+res = requests.post(url, data={"chat_id": CID, "text": msg})
 print("STATUS:", res.status_code)
 print("RESPONSE:", res.text)
