@@ -6,26 +6,31 @@ BOT = "8351410114:AAHSOO0BYcF40UV66wbC5O11Z3bbe6zleXQ"
 CID = "@sarthakyojana"
 
 subprocess.run(['git', 'fetch', 'origin', 'master'], check=True)
-subprocess.run(['git', 'checkout', 'origin/master', '--', 'data/jobs.json'], check=True)
 
+# Current jobs.json
+subprocess.run(['git', 'checkout', 'origin/master', '--', 'data/jobs.json'], check=True)
 with open('data/jobs.json', 'r', encoding='utf-8') as f:
     current = json.load(f)
 
+# Previous commit jobs.json
 result = subprocess.run(
     ['git', 'show', 'origin/master~1:data/jobs.json'],
     capture_output=True, text=True
 )
 
-old_ids = set()
-if result.returncode == 0:
+if result.returncode != 0:
+    print("First commit - sending latest article")
+    new_articles = [current[-1]]
+else:
     old_ids = {a['id'] for a in json.loads(result.stdout)}
+    new_articles = [a for a in current if a['id'] not in old_ids]
 
-new_articles = [a for a in current if a['id'] not in old_ids]
 print("New articles:", len(new_articles))
 
 if not new_articles:
-    print("No new articles found")
-    exit(0)
+    # Fallback - send latest article
+    print("No new found - sending latest")
+    new_articles = [current[-1]]
 
 for a in new_articles:
     h = a.get('highlights', {})
