@@ -2,107 +2,65 @@ name: Auto Telegram Post
 
 on:
   push:
-    paths:
-      - 'data/jobs.json'
     branches:
       - master
+      - main
+    paths:
+      - 'data/jobs.json'
 
 jobs:
-  post-to-telegram:
+  telegram:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 2
 
-      - name: Post new articles to Telegram
+      - name: Send Telegram
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: |
-          python3 - <<'PYEOF'
-          import json, urllib.request, urllib.parse, subprocess, sys, os
+          python3 << 'PYEOF'
+import json, urllib.request, urllib.parse, subprocess, sys, os
 
-          BOT_TOKEN = os.environ.get('BOT_TOKEN', '')
-          CHANNEL_ID = os.environ.get('CHANNEL_ID', '')
+BOT = os.environ.get('BOT_TOKEN','')
+CID = os.environ.get('CHANNEL_ID','')
 
-          if not BOT_TOKEN or not CHANNEL_ID:
-              print("Secrets missing!")
-              sys.exit(1)
+print(f"BOT: {BOT[:10]}... CID: {CID}")
 
-          with open('data/jobs.json', 'r', encoding='utf-8') as f:
-              current = json.load(f)
+with open('data/jobs.json', encoding='utf-8') as f:
+    now = json.load(f)
 
-          result = subprocess.run(
-              ['git', 'show', 'HEAD~1:data/jobs.json'],
-              capture_output=True, text=True
-          )
+res = subprocess.run(['git','show','HEAD~1:data/jobs.json'], capture_output=True, text=True)
+old_ids = set()
+if res.returncode == 0:
+    old_ids = {a['id'] for a in json.loads(res.stdout)}
 
-          prev_ids = set()
-          if result.returncode == 0:
-              try:
-                  prev_ids = {a['id'] for a in json.loads(result.stdout)}
-              except:
-                  prev_ids = set()
+new = [a for a in now if a['id'] not in old_ids]
+print(f"New: {len(new)}")
 
-          new_articles = [a for a in current if a['id'] not in prev_ids]
+for a in new:
+    h = a.get('highlights',{})
+    msg = "🔔 Nayi Khabar — SarthakYojana.in\n\n"
+    msg += "💼 " + a.get('title','') + "\n\n"
+    msg += "📊 Vacancy: " + h.get('vacancy','-') + "\n"
+    msg += "📅 Last Date: " + h.get('applyDate','-') + "\n\n"
+    msg += "👉 " + "https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','') + "\n\n"
+    msg += "🌐 sarthakyojana.in"
 
-          if not new_articles:
-              print("No new articles found")
-              sys.exit(0)
+    data = urllib.parse.urlencode({
+        'chat_id': CID,
+        'text': msg
+    }).encode()
 
-          print(f"Found {len(new_articles)} new articles!")
-
-          cat_map = {
-              'Jobs': '💼',
-              'Schemes': '📋',
-              'Education': '📚',
-              'Documents': '📄'
-          }
-
-          for article in new_articles:
-              cat = article.get('category', 'Jobs')
-              emoji = cat_map.get(cat, '📌')
-              h = article.get('highlights', {})
-
-              title = article.get('title', '')
-              aid = article.get('id', '')
-              updated = article.get('lastUpdate', '')
-              vacancy = h.get('vacancy', '-')
-              dept = h.get('department', '-')
-              apply_date = h.get('applyDate', '-')
-
-              msg = (
-                  "🔔 *नई खबर — SarthakYojana.in*\n\n"
-                  + emoji + " *" + title + "*\n\n"
-                  + "📂 Category: " + cat + "\n"
-                  + "🏛️ Department: " + dept + "\n"
-                  + "📊 Vacancy: " + vacancy + "\n"
-                  + "📅 Apply Date: " + apply_date + "\n"
-                  + "🗓️ Updated: " + updated + "\n\n"
-                  + "👉 *Poori Jaankari:*\n"
-                  + "https://sarthakyojana.in/pages/job-detail.html?id=" + aid + "\n\n"
-                  + "━━━━━━━━━━━━━━━━━━━━\n"
-                  + "🌐 sarthakyojana.in\n"
-                  + "📲 Free Sarkari Updates Daily\n"
-                  + "━━━━━━━━━━━━━━━━━━━━"
-              )
-
-              url = "https://api.telegram.org/bot" + BOT_TOKEN + "/sendMessage"
-              params = {
-                  'chat_id': CHANNEL_ID,
-                  'text': msg,
-                  'parse_mode': 'Markdown',
-                  'disable_web_page_preview': 'false'
-              }
-              data = urllib.parse.urlencode(params).encode('utf-8')
-              req = urllib.request.Request(url, data=data, method='POST')
-
-              try:
-                  resp = urllib.request.urlopen(req)
-                  print("Posted: " + title[:60])
-              except Exception as e:
-                  print("Error: " + str(e))
-
-          PYEOF
+    req = urllib.request.Request(
+        f'https://api.telegram.org/bot{BOT}/sendMessage',
+        data=data
+    )
+    try:
+        resp = urllib.request.urlopen(req)
+        print("Sent:", a.get('title','')[:50])
+    except Exception as e:
+        print("Error:", str(e))
+PYEOF
