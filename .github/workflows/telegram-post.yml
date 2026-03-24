@@ -1,41 +1,27 @@
-- name: Send Telegram Message
-  run: |
-    pip install requests
+name: Auto Telegram Post
 
-    python3 << 'EOF'
-    import os
-    import json
-    import requests
-    import subprocess
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-    BOT = os.environ['BOT_TOKEN']
-    CID = os.environ['CHANNEL_ID']
+jobs:
+  telegram:
+    runs-on: ubuntu-latest
 
-    subprocess.run(['git','fetch','origin','master'], check=True)
-    subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    with open('data/jobs.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
+      - name: Install requests
+        run: pip install requests
 
-    a = data[-1]
-    h = a.get('highlights', {})
+      - name: Run Telegram Script
+        run: |
+          python3 script.py
 
-    msg = f"""🔥 Nayi Khabar - SarthakYojana.in
-
-{a.get('title','')}
-
-Vacancy: {h.get('vacancy','-')}
-Last Date: {h.get('applyDate','-')}
-
-https://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}
-"""
-
-    url = f"https://api.telegram.org/bot{BOT}/sendMessage"
-
-    requests.post(url, data={
-        "chat_id": CID,
-        "text": msg
-    })
-
-    print("✅ Message Sent")
-    EOF
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
