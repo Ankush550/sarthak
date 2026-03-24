@@ -1,6 +1,6 @@
-import os, json, requests, subprocess
+import json, requests, subprocess
 
-BOT = os.environ['BOT_TOKEN']
+BOT = "8351410114:AAHSOO0BYcF40UV66wbC5O11Z3bbe6zleXQ"
 CID = "@sarthakyojana"
 
 subprocess.run(['git','fetch','origin','master'], check=True)
@@ -13,15 +13,25 @@ a = data[-1]
 h = a.get('highlights', {})
 
 msg = (
-    "Nayi Khabar - SarthakYojana.in\n\n"
-    + a.get('title','') + "\n\n"
-    + "Vacancy: " + h.get('vacancy','-') + "\n"
-    + "Last Date: " + h.get('applyDate','-') + "\n\n"
-    + "https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
-    + "\n\nsarthakyojana.in"
+    "🔔 Nayi Khabar - SarthakYojana.in\n\n"
+    + "💼 " + a.get('title','') + "\n\n"
+    + "📊 Vacancy: " + h.get('vacancy','-') + "\n"
+    + "📅 Last Date: " + h.get('applyDate','-') + "\n\n"
+    + "👉 https://sarthakyojana.in/pages/job-detail.html?id=" + a.get('id','')
+    + "\n\n🌐 sarthakyojana.in"
 )
 
-url = "https://api.telegram.org/bot" + BOT + "/sendMessage"
-res = requests.post(url, data={"chat_id": CID, "text": msg})
+res = requests.post(
+    "https://api.telegram.org/bot" + BOT + "/sendMessage",
+    data={"chat_id": CID, "text": msg}
+)
 print("STATUS:", res.status_code)
 print("RESPONSE:", res.text)
+```
+
+---
+
+## Commit → Run Workflow
+```
+Actions → Auto Telegram Post
+→ Run workflow → main → Run ✅
