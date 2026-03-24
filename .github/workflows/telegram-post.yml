@@ -1,1 +1,35 @@
+name: Auto Telegram Post
 
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Send Telegram
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: |
+          python3 -c "
+import json,urllib.request,urllib.parse,os
+BOT=os.environ['BOT_TOKEN']
+CID=os.environ['CHANNEL_ID']
+with open('data/jobs.json',encoding='utf-8') as f:
+  data=json.load(f)
+a=data[-1]
+h=a.get('highlights',{})
+msg='Nayi Khabar SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'
+d=urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode()
+urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',d))
+print('Sent!')
+"
