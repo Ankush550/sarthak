@@ -11,7 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          python3 -c "import json,urllib.request,urllib.parse,os; BOT=os.environ['BOT_TOKEN']; CID=os.environ['CHANNEL_ID']; data=json.load(open('data/jobs.json',encoding='utf-8')); a=data[-1]; h=a.get('highlights',{}); msg='Nayi Khabar SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'; urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode())); print('Sent!')"
+          python3 -c "import json,urllib.request,urllib.parse,os; BOT=os.environ['BOT_TOKEN']; CID=os.environ['CHANNEL_ID']; 
+          import subprocess
+          subprocess.run(['git','fetch','origin','master'])
+          subprocess.run(['git','checkout','origin/master','--','data/jobs.json'])
+          ``` a=data[-1]; h=a.get('highlights',{}); msg='Nayi Khabar SarthakYojana.in\n\n'+a.get('title','')+'\n\nVacancy: '+h.get('vacancy','-')+'\nLast Date: '+h.get('applyDate','-')+'\n\nhttps://sarthakyojana.in/pages/job-detail.html?id='+a.get('id','')+'\n\nsarthakyojana.in'; urllib.request.urlopen(urllib.request.Request('https://api.telegram.org/bot'+BOT+'/sendMessage',urllib.parse.urlencode({'chat_id':CID,'text':msg}).encode())); print('Sent!')"
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
