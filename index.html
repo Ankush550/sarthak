@@ -597,5 +597,224 @@
     }
   </script>
 
+
+  <!-- FLOATING JOB FINDER CHATBOT -->
+  <div id="chatFloat" style="position:fixed;bottom:24px;right:20px;z-index:9998;">
+
+    <!-- Floating Button -->
+    <button id="chatToggleBtn" onclick="toggleChatBot()" style="width:58px;height:58px;border-radius:50%;background:linear-gradient(135deg,#1a56db,#7c3aed);border:none;cursor:pointer;box-shadow:0 4px 20px rgba(26,86,219,0.4);display:flex;align-items:center;justify-content:center;font-size:26px;transition:transform 0.2s;">
+      🤖
+    </button>
+
+    <!-- Notification Badge -->
+    <div id="chatBadge" style="position:absolute;top:-4px;right:-4px;background:#dc2626;color:white;font-size:10px;font-weight:700;width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:Poppins,sans-serif;">1</div>
+
+    <!-- Chat Popup -->
+    <div id="chatPopup" style="display:none;position:absolute;bottom:70px;right:0;width:340px;background:white;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.15);overflow:hidden;border:1px solid #e2e8f0;animation:slideUp 0.3s ease;">
+
+      <!-- Header -->
+      <div style="background:linear-gradient(135deg,#1a56db,#7c3aed);padding:14px 16px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="display:flex;align-items:center;gap:10px;">
+          <div style="width:36px;height:36px;background:rgba(255,255,255,0.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px;">🤖</div>
+          <div>
+            <div style="color:white;font-size:13px;font-weight:700;font-family:Poppins,sans-serif;">SarthakBot</div>
+            <div style="color:rgba(255,255,255,0.8);font-size:10px;font-family:Poppins,sans-serif;display:flex;align-items:center;gap:4px;"><span style="width:6px;height:6px;background:#4ade80;border-radius:50%;display:inline-block;"></span> Online</div>
+          </div>
+        </div>
+        <button onclick="toggleChatBot()" style="background:rgba(255,255,255,0.2);border:none;color:white;width:26px;height:26px;border-radius:50%;cursor:pointer;font-size:14px;">✕</button>
+      </div>
+
+      <!-- Messages -->
+      <div id="floatMessages" style="padding:14px;height:280px;overflow-y:auto;display:flex;flex-direction:column;gap:10px;background:#f8fafc;"></div>
+
+      <!-- Options -->
+      <div id="floatOptions" style="padding:10px 12px;border-top:1px solid #f1f5f9;display:flex;flex-wrap:wrap;gap:6px;background:white;"></div>
+
+      <!-- Restart -->
+      <div id="floatRestart" style="display:none;padding:8px 12px;border-top:1px solid #f1f5f9;background:white;">
+        <button onclick="floatRestart()" style="width:100%;background:#f1f5f9;border:1px solid #e2e8f0;padding:8px;border-radius:8px;font-size:12px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">🔄 Nayi Khoj Shuru Karein</button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    @keyframes slideUp { from{opacity:0;transform:translateY(20px)} to{opacity:1;transform:translateY(0)} }
+    .f-opt { background:#f1f5f9;border:1.5px solid #e2e8f0;color:#374151;padding:6px 12px;border-radius:50px;font-size:11px;font-weight:500;cursor:pointer;font-family:Poppins,sans-serif;transition:all 0.2s; }
+    .f-opt:hover { background:#ede9ff;border-color:#7c3aed;color:#7c3aed; }
+    .f-bot-msg { background:white;border:1px solid #e2e8f0;padding:9px 12px;border-radius:12px;border-bottom-left-radius:3px;font-size:12px;color:#1e293b;line-height:1.6;font-family:Poppins,sans-serif;max-width:85%; }
+    .f-user-msg { background:#1a56db;color:white;padding:9px 12px;border-radius:12px;border-bottom-right-radius:3px;font-size:12px;font-family:Poppins,sans-serif;align-self:flex-end;max-width:85%; }
+    .f-result { background:white;border:1px solid #e2e8f0;border-radius:10px;padding:10px;margin-top:4px; }
+    .f-result-title { font-size:12px;font-weight:700;color:#1e293b;margin-bottom:5px;font-family:Poppins,sans-serif; }
+    .f-result-link { display:inline-block;background:#1a56db;color:white;font-size:10px;font-weight:600;padding:5px 10px;border-radius:6px;text-decoration:none;margin-top:4px; }
+    .f-typing { display:flex;gap:3px;align-items:center;padding:9px 12px;background:white;border:1px solid #e2e8f0;border-radius:12px;width:fit-content; }
+    .f-typing span { width:6px;height:6px;background:#94a3b8;border-radius:50%;animation:fbounce 1.2s infinite; }
+    .f-typing span:nth-child(2){animation-delay:0.2s}
+    .f-typing span:nth-child(3){animation-delay:0.4s}
+    @keyframes fbounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-5px)}}
+    @media(max-width:380px){#chatPopup{width:300px;right:-10px;}}
+  </style>
+
+  <script>
+    var fchatOpen = false;
+    var fallJobs = [];
+    var fstep = 0;
+    var fuserProfile = {};
+    var fstarted = false;
+
+    var fsteps = [
+      { key:'qualification', q:'Namaste! 🙏\n\nAapki qualification kya hai?', opts:['10th Pass','12th Pass','Graduation','B.Tech/B.E.','B.Ed/Teacher','CA/CMA'] },
+      { key:'state', q:'Aap kahan se hain?', opts:['Rajasthan','Uttar Pradesh','Madhya Pradesh','Bihar','All India'] },
+      { key:'interest', q:'Kis field mein job chahiye?', opts:['Police/Defence','Teaching','Engineering/Tech','Banking/Finance','Any Govt Job'] }
+    ];
+
+    function toggleChatBot(){
+      fchatOpen = !fchatOpen;
+      document.getElementById('chatPopup').style.display = fchatOpen ? 'flex' : 'none';
+      document.getElementById('chatPopup').style.flexDirection = 'column';
+      document.getElementById('chatBadge').style.display = 'none';
+      document.getElementById('chatToggleBtn').textContent = fchatOpen ? '✕' : '🤖';
+      document.getElementById('chatToggleBtn').style.background = fchatOpen ? 'linear-gradient(135deg,#dc2626,#b91c1c)' : 'linear-gradient(135deg,#1a56db,#7c3aed)';
+      if(fchatOpen && !fstarted){
+        fstarted = true;
+        // Load jobs
+        fetch('data/jobs.json')
+          .then(function(r){ return r.json(); })
+          .then(function(d){ fallJobs = d; floatStart(); });
+      }
+    }
+
+    function floatStart(){
+      fstep = 0; fuserProfile = {};
+      document.getElementById('floatMessages').innerHTML = '';
+      document.getElementById('floatRestart').style.display = 'none';
+      fBotMsg(fsteps[0].q, function(){ fShowOpts(fsteps[0].opts); });
+    }
+
+    function floatRestart(){ fstarted = false; fBotMsg = fBotMsg; floatStart(); document.getElementById('floatRestart').style.display='none'; }
+
+    function fBotMsg(text, cb){
+      var msgs = document.getElementById('floatMessages');
+      var t = document.createElement('div');
+      t.className = 'f-typing';
+      t.innerHTML = '<span></span><span></span><span></span>';
+      msgs.appendChild(t);
+      msgs.scrollTop = msgs.scrollHeight;
+      setTimeout(function(){
+        t.remove();
+        var m = document.createElement('div');
+        m.className = 'f-bot-msg';
+        m.innerHTML = text.replace(/\n/g,'<br>');
+        msgs.appendChild(m);
+        msgs.scrollTop = msgs.scrollHeight;
+        if(cb) cb();
+      }, 700);
+    }
+
+    function fUserMsg(text){
+      var msgs = document.getElementById('floatMessages');
+      var m = document.createElement('div');
+      m.className = 'f-user-msg';
+      m.textContent = text;
+      msgs.appendChild(m);
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+
+    function fShowOpts(opts){
+      var wrap = document.getElementById('floatOptions');
+      wrap.innerHTML = '';
+      opts.forEach(function(o){
+        var b = document.createElement('button');
+        b.className = 'f-opt';
+        b.textContent = o;
+        b.onclick = function(){ fSelect(o); };
+        wrap.appendChild(b);
+      });
+    }
+
+    function fSelect(val){
+      document.getElementById('floatOptions').innerHTML = '';
+      fUserMsg(val);
+      fuserProfile[fsteps[fstep].key] = val;
+      fstep++;
+      if(fstep < fsteps.length){
+        fBotMsg(fsteps[fstep].q, function(){ fShowOpts(fsteps[fstep].opts); });
+      } else {
+        fBotMsg('Dhundh raha hoon aapke liye best jobs... 🔍', function(){ fFindJobs(); });
+      }
+    }
+
+    function fFindJobs(){
+      var qual = fuserProfile.qualification || '';
+      var state = fuserProfile.state || '';
+      var interest = fuserProfile.interest || '';
+      var scored = [];
+
+      fallJobs.forEach(function(job){
+        var score = 0;
+        var title = (job.title||'').toLowerCase();
+        var desc = (job.description||'').toLowerCase();
+        var h = job.highlights || {};
+        var dom = (h.domicile||'').toLowerCase();
+        var eli = JSON.stringify(job.eligibility||'').toLowerCase();
+
+        if(qual==='10th Pass' && (title.includes('10th')||eli.includes('10th')||desc.includes('10th'))) score+=3;
+        if(qual==='12th Pass' && (title.includes('12th')||eli.includes('12th')||desc.includes('12th'))) score+=3;
+        if(qual==='Graduation' && (eli.includes('graduat')||desc.includes('graduat'))) score+=3;
+        if(qual==='B.Tech/B.E.' && (eli.includes('b.tech')||desc.includes('engineering'))) score+=3;
+        if(qual==='B.Ed/Teacher' && (title.includes('teacher')||eli.includes('b.ed'))) score+=3;
+        if(qual==='CA/CMA' && (eli.includes('ca ')||eli.includes('cma')||desc.includes('finance'))) score+=3;
+
+        if(state==='All India') score+=1;
+        if(state==='Rajasthan' && (dom.includes('rajasthan')||title.includes('rajasthan')||desc.includes('rajasthan'))) score+=2;
+        if(state==='Uttar Pradesh' && (dom.includes('uttar')||title.includes('up ')||title.includes('upsssc'))) score+=2;
+        if(state==='Madhya Pradesh' && (dom.includes('madhya')||title.includes('mp ')||title.includes('mpesb'))) score+=2;
+        if(state==='Bihar' && (dom.includes('bihar')||title.includes('bihar'))) score+=2;
+        if(dom.includes('all india')) score+=1;
+
+        if(interest==='Police/Defence' && (title.includes('police')||title.includes('constable')||title.includes('ssb')||title.includes('army'))) score+=3;
+        if(interest==='Teaching' && (title.includes('teacher')||title.includes('reet')||title.includes('tet'))) score+=3;
+        if(interest==='Engineering/Tech' && (title.includes('engineer')||title.includes('technical')||title.includes('iti'))) score+=3;
+        if(interest==='Banking/Finance' && (title.includes('bank')||title.includes('finance')||title.includes('accountant'))) score+=3;
+
+        if(score>0) scored.push({job:job,score:score});
+      });
+
+      scored.sort(function(a,b){return b.score-a.score;});
+      var results = scored.slice(0,4);
+      var msgs = document.getElementById('floatMessages');
+
+      if(!results.length){
+        fBotMsg('Abhi limited jobs hain. Saari jobs yahan dekhein! 👇', function(){
+          document.getElementById('floatOptions').innerHTML = '<a href="pages/jobs.html" style="background:#1a56db;color:white;padding:8px 16px;border-radius:8px;font-size:11px;font-weight:600;text-decoration:none;">Saari Jobs Dekhen</a>';
+          document.getElementById('floatRestart').style.display='block';
+        });
+        return;
+      }
+
+      var header = document.createElement('div');
+      header.className = 'f-bot-msg';
+      header.innerHTML = '<strong>🎯 ' + results.length + ' jobs mili aapke liye!</strong>';
+      msgs.appendChild(header);
+
+      results.forEach(function(r){
+        var job = r.job;
+        var h = job.highlights||{};
+        var card = document.createElement('div');
+        card.className = 'f-result';
+        card.innerHTML = '<div class="f-result-title">' + job.title.substring(0,60) + '...</div>' +
+          '<div style="font-size:10px;color:#64748b;font-family:Poppins,sans-serif;">📊 ' + (h.vacancy||'-') + ' &nbsp; 📅 ' + (h.applyDate||'-') + '</div>' +
+          '<a href="pages/job-detail.html?id=' + job.id + '" class="f-result-link">Dekhen →</a>';
+        msgs.appendChild(card);
+      });
+
+      msgs.scrollTop = msgs.scrollHeight;
+      setTimeout(function(){
+        fBotMsg('Koi aur job dhundhni hai? 😊', function(){
+          document.getElementById('floatRestart').style.display = 'block';
+        });
+      }, 400);
+    }
+  </script>
+
 </body>
 </html>
