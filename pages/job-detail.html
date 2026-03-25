@@ -7,6 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title id="pageTitle">Job Detail – Sarthak Yojana</title>
   <meta name="description" id="pageDesc" content="Sarthak Yojana – Sarkari Job Details">
+  <link rel="canonical" id="canonicalTag" href="https://sarthakyojana.in/pages/job-detail.html">
+  <meta property="og:title" id="ogTitle" content="Job Detail – Sarthak Yojana">
+  <meta property="og:description" id="ogDesc" content="Sarthak Yojana – Sarkari Job Details">
+  <meta property="og:url" id="ogUrl" content="https://sarthakyojana.in/pages/job-detail.html">
+  <meta property="og:type" content="article">
+  <meta name="robots" content="index, follow">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../assets/css/style.css">
@@ -209,9 +215,38 @@
       });
 
     function renderJob(j) {
-      document.title = j.title + ' – Sarthak Yojana';
-      document.getElementById('pageTitle').textContent = j.title + ' – Sarthak Yojana';
-      document.getElementById('pageDesc').content = j.description;
+      // Unique title per job
+      const pageTitle = j.title + ' 2026 – ' + j.category + ' | Sarthak Yojana';
+      const pageDesc  = j.description ? j.description.substring(0, 155) : j.title + ' – Eligibility, Dates, Apply Online at SarthakYojana.in';
+      const pageUrl   = 'https://sarthakyojana.in/pages/job-detail.html?id=' + j.id;
+
+      document.title = pageTitle;
+      document.getElementById('pageTitle').textContent   = pageTitle;
+      document.getElementById('pageDesc').setAttribute('content', pageDesc);
+
+      // Canonical — most important for duplicate fix
+      document.getElementById('canonicalTag').setAttribute('href', pageUrl);
+
+      // Open Graph
+      document.getElementById('ogTitle').setAttribute('content', pageTitle);
+      document.getElementById('ogDesc').setAttribute('content', pageDesc);
+      document.getElementById('ogUrl').setAttribute('content', pageUrl);
+
+      // JSON-LD Structured Data — Google ko clearly samjhao
+      const schema = {
+        "@context": "https://schema.org",
+        "@type": "JobPosting",
+        "title": j.title,
+        "description": pageDesc,
+        "datePosted": j.lastUpdate,
+        "hiringOrganization": { "@type": "Organization", "name": j.highlights?.department || "Government of India" },
+        "jobLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "addressCountry": "IN" } },
+        "url": pageUrl
+      };
+      let schemaTag = document.getElementById('jobSchema');
+      if (!schemaTag) { schemaTag = document.createElement('script'); schemaTag.id = 'jobSchema'; schemaTag.type = 'application/ld+json'; document.head.appendChild(schemaTag); }
+      schemaTag.textContent = JSON.stringify(schema);
+
       document.getElementById('breadCat').textContent = j.category;
       document.getElementById('breadTitle').textContent = j.title.substring(0,40) + '...';
 
