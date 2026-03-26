@@ -140,13 +140,18 @@
     // ---- AUTH FUNCTIONS ----
     window.fbSignup = async function(name, email, pass) {
       var cred = await auth.createUserWithEmailAndPassword(email, pass);
-      await db.collection("users").doc(cred.user.uid).set({
+      var userData = {
         name: name, email: email,
         plan: "free", planExpiry: null,
         questionsToday: 0, lastQuestionDate: "",
-        totalSessions: 0, totalScore: 0, history: [],
+        totalSessions: 0, totalScore: 0, history: []
+      };
+      // Save to localStorage immediately (fast)
+      localStorage.setItem('sy_user_' + cred.user.uid, JSON.stringify(userData));
+      // Save to Firestore in background (don't await)
+      db.collection("users").doc(cred.user.uid).set(Object.assign({}, userData, {
         createdAt: firebase.firestore.FieldValue.serverTimestamp()
-      });
+      })).catch(function(e){ console.log('Firestore sync error:', e); });
       return cred.user;
     };
 
@@ -174,26 +179,68 @@
     window.fbLogout = function() { return auth.signOut(); };
 
     window.getUserData = async function(uid) {
+      // Try localStorage cache first (instant)
+      var cached = localStorage.getItem('sy_user_' + uid);
+      if (cached) {
+        var data = JSON.parse(cached);
+        // Sync from Firestore in background
+        db.collection("users").doc(uid).get().then(function(snap) {
+          if (snap.exists) {
+            localStorage.setItem('sy_user_' + uid, JSON.stringify(snap.data()));
+          }
+        }).catch(function(e){ console.log('Sync error:', e); });
+        return data;
+      }
+      // No cache - fetch from Firestore
       var snap = await db.collection("users").doc(uid).get();
-      return snap.exists ? snap.data() : null;
+      if (snap.exists) {
+        localStorage.setItem('sy_user_' + uid, JSON.stringify(snap.data()));
+        return snap.data();
+      }
+      // New user - create default data
+      var defaultData = {
+        name: uid, email: "",
+        plan: "free", planExpiry: null,
+        questionsToday: 0, lastQuestionDate: "",
+        totalSessions: 0, totalScore: 0, history: []
+      };
+      localStorage.setItem('sy_user_' + uid, JSON.stringify(defaultData));
+      return defaultData;
     };
 
     window.activatePlan = async function(uid, planName, days) {
       var expiry = new Date();
       expiry.setDate(expiry.getDate() + days);
-      await db.collection("users").doc(uid).update({
+      // Update localStorage immediately
+      var cached = localStorage.getItem('sy_user_' + uid);
+      if (cached) {
+        var data = JSON.parse(cached);
+        data.plan = planName; data.planExpiry = expiry.toISOString();
+        data.questionsToday = 0; data.lastQuestionDate = "";
+        localStorage.setItem('sy_user_' + uid, JSON.stringify(data));
+      }
+      // Sync to Firestore in background
+      db.collection("users").doc(uid).update({
         plan: planName, planExpiry: expiry.toISOString(),
         questionsToday: 0, lastQuestionDate: ""
-      });
+      }).catch(function(e){ console.log('Sync error:', e); });
     };
 
     window.incrementQuestionCount = async function(uid, userData) {
       var today = new Date().toDateString();
       var isNewDay = userData.lastQuestionDate !== today;
-      await db.collection("users").doc(uid).update({
-        questionsToday: isNewDay ? 1 : (userData.questionsToday || 0) + 1,
-        lastQuestionDate: today
-      });
+      var newCount = isNewDay ? 1 : (userData.questionsToday || 0) + 1;
+      // Update localStorage immediately
+      var cached = localStorage.getItem('sy_user_' + uid);
+      if (cached) {
+        var data = JSON.parse(cached);
+        data.questionsToday = newCount; data.lastQuestionDate = today;
+        localStorage.setItem('sy_user_' + uid, JSON.stringify(data));
+      }
+      // Sync to Firestore in background
+      db.collection("users").doc(uid).update({
+        questionsToday: newCount, lastQuestionDate: today
+      }).catch(function(e){ console.log('Sync error:', e); });
     };
 
     // ---- AUTH STATE LISTENER ----
@@ -734,6 +781,10 @@
   // ---- FIREBASE CALLBACKS ----
   window.onUserLoggedIn = function(user, userData) {
     window._userData = userData || {};
+    // Also update localStorage with latest name/email
+    if (user && user.displayName && window._userData) {
+      window._userData.name = window._userData.name || user.displayName;
+    }
     showScreen('main');
     refreshUI();
   };
@@ -776,12 +827,15 @@
     var pass = document.getElementById('signup-pass').value;
     if (!name || !email || !pass) return showAuthError('Sab fields bharo!');
     if (pass.length < 6) return showAuthError('Password kam se kam 6 characters ka hona chahiye.');
+    var btn = document.querySelector('#tab-signup .btn-primary');
+    if (btn) { btn.textContent = '⏳ Creating Account...'; btn.disabled = true; }
+    hideAuthError();
     try {
-      showScreen('loading');
       await window.fbSignup(name, email, pass);
     } catch(e) {
-      showScreen('auth');
-      showAuthError(e.code === 'auth/email-already-in-use' ? 'Yeh email already registered hai.' : 'Error: ' + e.message);
+      if (btn) { btn.textContent = 'Account Banayein'; btn.disabled = false; }
+      showAuthError(e.code === 'auth/email-already-in-use' ? 'Yeh email already registered hai.' : 
+                    e.code === 'auth/network-request-failed' ? 'Network error! Internet check karo.' : 'Error: ' + e.message);
     }
   }
 
@@ -789,12 +843,18 @@
     var email = document.getElementById('login-email').value.trim();
     var pass = document.getElementById('login-pass').value;
     if (!email || !pass) return showAuthError('Email aur password daalo!');
+    var btn = document.querySelector('#tab-login .btn-primary');
+    if (btn) { btn.textContent = '⏳ Login Ho Raha Hai...'; btn.disabled = true; }
+    hideAuthError();
     try {
-      showScreen('loading');
       await window.fbLogin(email, pass);
     } catch(e) {
-      showScreen('auth');
-      showAuthError('Email ya password galat hai.');
+      if (btn) { btn.textContent = 'Login Karein'; btn.disabled = false; }
+      showAuthError(
+        e.code === 'auth/wrong-password' || e.code === 'auth/user-not-found' ? 'Email ya password galat hai.' :
+        e.code === 'auth/network-request-failed' ? 'Network error! Internet check karo.' :
+        'Error: ' + e.message
+      );
     }
   }
 
