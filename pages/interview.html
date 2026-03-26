@@ -117,11 +117,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../assets/css/style.css">
 
-  <!-- ===== FIREBASE CDN (Reliable Version) ===== -->
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+  <!-- ===== FIREBASE CDN ===== -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js" defer></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js" defer></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js" defer></script>
   <script>
+  window.addEventListener("load", function() {
+    try {
     var firebaseConfig = {
       apiKey: "AIzaSyAZK0Bgi2c0xyeW3AsQGCvuJmEQLMjXw60",
       authDomain: "sarthak-yojana.firebaseapp.com",
@@ -214,13 +216,16 @@
           window._userData = await window.getUserData(user.uid);
           if (window.onUserLoggedIn) window.onUserLoggedIn(user, window._userData);
         } else {
-          if (window.onUserLoggedOut) window.onUserLoggedOut();
+          // User not logged in - auth screen already showing, do nothing
         }
       } catch(err) {
         console.error('Auth error:', err);
-        if (window.onUserLoggedOut) window.onUserLoggedOut();
       }
     });
+    } catch(e) {
+      console.error('Firebase init error:', e);
+    }
+  }); // end window.load
   </script>
 
   <style>
@@ -412,7 +417,7 @@
 <body>
 
 <!-- LOADING -->
-<div id="screen-loading" class="loading-screen screen active">
+<div id="screen-loading" class="loading-screen screen">
   <div class="spinner"></div>
   <div class="loading-text" id="loading-text">Loading...</div>
   <div id="loading-error" style="display:none;margin-top:12px;text-align:center;">
@@ -422,7 +427,7 @@
 </div>
 
 <!-- AUTH SCREEN -->
-<div id="screen-auth" class="screen">
+<div id="screen-auth" class="screen active">
   <div class="auth-wrap">
     <div class="auth-card">
       <div class="auth-logo">
@@ -479,7 +484,7 @@
       <div class="user-info">
         <span id="nav-name">User</span>
         <span id="nav-plan-badge" class="plan-badge">Free</span>
-        <button class="btn-logout" onclick="doLogout()">Logout</button>
+        <button class="btn-logout" onclick="window.doLogout ? window.doLogout() : showScreen('auth')">Logout</button>
       </div>
     </div>
 
@@ -736,6 +741,13 @@
   window.onUserLoggedOut = function() {
     showScreen('auth');
   };
+  // Also handle manual logout
+  window.doLogout = async function() {
+    if (window.fbLogout) await window.fbLogout();
+    window._currentUser = null;
+    window._userData = null;
+    showScreen('auth');
+  };
 
   // ---- SCREEN ----
   function showScreen(name) {
@@ -796,9 +808,7 @@
     }
   }
 
-  async function doLogout() {
-    await window.fbLogout();
-  }
+  // doLogout handled by window.doLogout
 
   // ---- REFRESH UI ----
   function refreshUI() {
