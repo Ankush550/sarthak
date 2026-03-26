@@ -220,14 +220,38 @@
     };
 
     // ---- AUTH STATE LISTENER ----
-    onAuthStateChanged(auth, async (user) => {
-      window._currentUser = user;
-      if (user) {
-        window._userData = await getUserData(user.uid);
-        window.onUserLoggedIn(user, window._userData);
-      } else {
+    // Timeout fallback — 8 sec mein auth na ho toh login page dikhao
+    // Show "connecting" message after 3 sec
+    setTimeout(function() {
+      var lt = document.getElementById('loading-text');
+      if (lt) lt.textContent = 'Connecting to server...';
+    }, 3000);
+
+    var authTimeout = setTimeout(function() {
+      if (document.getElementById('screen-loading').classList.contains('active')) {
+        console.log('Auth timeout — showing login');
         window.onUserLoggedOut();
       }
+    }, 8000);
+
+    onAuthStateChanged(auth, async (user) => {
+      clearTimeout(authTimeout);
+      window._currentUser = user;
+      try {
+        if (user) {
+          window._userData = await getUserData(user.uid);
+          window.onUserLoggedIn(user, window._userData);
+        } else {
+          window.onUserLoggedOut();
+        }
+      } catch(err) {
+        console.error('Auth error:', err);
+        window.onUserLoggedOut();
+      }
+    }, (error) => {
+      clearTimeout(authTimeout);
+      console.error('Firebase Auth Error:', error);
+      window.onUserLoggedOut();
     });
   </script>
 
@@ -422,7 +446,11 @@
 <!-- LOADING -->
 <div id="screen-loading" class="loading-screen screen active">
   <div class="spinner"></div>
-  <div class="loading-text">Loading...</div>
+  <div class="loading-text" id="loading-text">Loading...</div>
+  <div id="loading-error" style="display:none;margin-top:12px;text-align:center;">
+    <div style="font-size:12px;color:#dc2626;margin-bottom:10px;">Connection mein problem aa rahi hai</div>
+    <button onclick="location.reload()" style="background:#1a56db;color:white;border:none;padding:8px 20px;border-radius:8px;font-size:13px;cursor:pointer;font-family:Poppins,sans-serif;">🔄 Reload Karein</button>
+  </div>
 </div>
 
 <!-- AUTH SCREEN -->
