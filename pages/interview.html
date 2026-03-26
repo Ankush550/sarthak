@@ -117,16 +117,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../assets/css/style.css">
 
-  <!-- ===== FIREBASE ===== -->
-  <!-- STEP 1: Yahan apni Firebase config paste karo (console.firebase.google.com) -->
-  <script type="module">
-    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
-    import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut, onAuthStateChanged, GoogleAuthProvider, signInWithPopup }
-      from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
-    import { getFirestore, doc, setDoc, getDoc, updateDoc, arrayUnion, serverTimestamp }
-      from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
-
-    const firebaseConfig = {
+  <!-- ===== FIREBASE CDN (Reliable Version) ===== -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+  <script>
+    var firebaseConfig = {
       apiKey: "AIzaSyAZK0Bgi2c0xyeW3AsQGCvuJmEQLMjXw60",
       authDomain: "sarthak-yojana.firebaseapp.com",
       projectId: "sarthak-yojana",
@@ -135,123 +131,95 @@
       appId: "1:415549619039:web:9d119879d78ee17ed1d4ea",
       measurementId: "G-H8ZLJG7LN7"
     };
-
-    const app = initializeApp(firebaseConfig);
-    const auth = getAuth(app);
-    const db = getFirestore(app);
-    const googleProvider = new GoogleAuthProvider();
+    firebase.initializeApp(firebaseConfig);
+    var auth = firebase.auth();
+    var db = firebase.firestore();
 
     // ---- AUTH FUNCTIONS ----
     window.fbSignup = async function(name, email, pass) {
-      const cred = await createUserWithEmailAndPassword(auth, email, pass);
-      await setDoc(doc(db, "users", cred.user.uid), {
-        name, email,
-        plan: "free",
-        planExpiry: null,
-        questionsToday: 0,
-        lastQuestionDate: "",
-        totalSessions: 0,
-        totalScore: 0,
-        history: [],
-        createdAt: serverTimestamp()
+      var cred = await auth.createUserWithEmailAndPassword(email, pass);
+      await db.collection("users").doc(cred.user.uid).set({
+        name: name, email: email,
+        plan: "free", planExpiry: null,
+        questionsToday: 0, lastQuestionDate: "",
+        totalSessions: 0, totalScore: 0, history: [],
+        createdAt: firebase.firestore.FieldValue.serverTimestamp()
       });
       return cred.user;
     };
 
     window.fbLogin = async function(email, pass) {
-      const cred = await signInWithEmailAndPassword(auth, email, pass);
+      var cred = await auth.signInWithEmailAndPassword(email, pass);
       return cred.user;
     };
 
     window.fbGoogleLogin = async function() {
-      const cred = await signInWithPopup(auth, googleProvider);
-      const ref = doc(db, "users", cred.user.uid);
-      const snap = await getDoc(ref);
-      if (!snap.exists()) {
-        await setDoc(ref, {
-          name: cred.user.displayName,
-          email: cred.user.email,
-          plan: "free",
-          planExpiry: null,
-          questionsToday: 0,
-          lastQuestionDate: "",
-          totalSessions: 0,
-          totalScore: 0,
-          history: [],
-          createdAt: serverTimestamp()
+      var provider = new firebase.auth.GoogleAuthProvider();
+      var cred = await auth.signInWithPopup(provider);
+      var snap = await db.collection("users").doc(cred.user.uid).get();
+      if (!snap.exists) {
+        await db.collection("users").doc(cred.user.uid).set({
+          name: cred.user.displayName, email: cred.user.email,
+          plan: "free", planExpiry: null,
+          questionsToday: 0, lastQuestionDate: "",
+          totalSessions: 0, totalScore: 0, history: [],
+          createdAt: firebase.firestore.FieldValue.serverTimestamp()
         });
       }
       return cred.user;
     };
 
-    window.fbLogout = () => signOut(auth);
+    window.fbLogout = function() { return auth.signOut(); };
 
     window.getUserData = async function(uid) {
-      const snap = await getDoc(doc(db, "users", uid));
-      return snap.exists() ? snap.data() : null;
+      var snap = await db.collection("users").doc(uid).get();
+      return snap.exists ? snap.data() : null;
     };
 
     window.activatePlan = async function(uid, planName, days) {
-      const expiry = new Date();
+      var expiry = new Date();
       expiry.setDate(expiry.getDate() + days);
-      await updateDoc(doc(db, "users", uid), {
-        plan: planName,
-        planExpiry: expiry.toISOString(),
-        questionsToday: 0,
-        lastQuestionDate: ""
-      });
-    };
-
-    window.saveSession = async function(uid, sessionData) {
-      await updateDoc(doc(db, "users", uid), {
-        totalSessions: (window._userData.totalSessions || 0) + 1,
-        totalScore: (window._userData.totalScore || 0) + sessionData.score,
-        history: arrayUnion(sessionData)
+      await db.collection("users").doc(uid).update({
+        plan: planName, planExpiry: expiry.toISOString(),
+        questionsToday: 0, lastQuestionDate: ""
       });
     };
 
     window.incrementQuestionCount = async function(uid, userData) {
-      const today = new Date().toDateString();
-      const isNewDay = userData.lastQuestionDate !== today;
-      await updateDoc(doc(db, "users", uid), {
+      var today = new Date().toDateString();
+      var isNewDay = userData.lastQuestionDate !== today;
+      await db.collection("users").doc(uid).update({
         questionsToday: isNewDay ? 1 : (userData.questionsToday || 0) + 1,
         lastQuestionDate: today
       });
     };
 
     // ---- AUTH STATE LISTENER ----
-    // Timeout fallback — 8 sec mein auth na ho toh login page dikhao
-    // Show "connecting" message after 3 sec
+    // Fallback: 6 sec baad bhi load na ho toh login dikhao
+    var authDone = false;
     setTimeout(function() {
-      var lt = document.getElementById('loading-text');
-      if (lt) lt.textContent = 'Connecting to server...';
-    }, 3000);
-
-    var authTimeout = setTimeout(function() {
-      if (document.getElementById('screen-loading').classList.contains('active')) {
-        console.log('Auth timeout — showing login');
-        window.onUserLoggedOut();
+      if (!authDone) {
+        console.log('Auth timeout — going to login');
+        authDone = true;
+        if (window.onUserLoggedOut) window.onUserLoggedOut();
       }
-    }, 8000);
+    }, 6000);
 
-    onAuthStateChanged(auth, async (user) => {
-      clearTimeout(authTimeout);
+    auth.onAuthStateChanged(async function(user) {
+      if (authDone) return;
+      authDone = true;
       window._currentUser = user;
       try {
         if (user) {
-          window._userData = await getUserData(user.uid);
-          window.onUserLoggedIn(user, window._userData);
+          window._userData = await window.getUserData(user.uid);
+          if (window.onUserLoggedIn) window.onUserLoggedIn(user, window._userData);
         } else {
-          window.onUserLoggedOut();
+          if (window.onUserLoggedOut) window.onUserLoggedOut();
         }
       } catch(err) {
         console.error('Auth error:', err);
-        window.onUserLoggedOut();
+        if (window.onUserLoggedOut) window.onUserLoggedOut();
       }
-    }, (error) => {
-      clearTimeout(authTimeout);
-      console.error('Firebase Auth Error:', error);
-      window.onUserLoggedOut();
     });
   </script>
 
