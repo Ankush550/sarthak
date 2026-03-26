@@ -85,6 +85,25 @@
 
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
 
+    /* LATEST RESULTS SECTION */
+    .result-section { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; margin-bottom:12px; }
+    .result-head { background:linear-gradient(135deg,#dc2626,#b91c1c); color:white; font-size:13px; font-weight:600; padding:9px 14px; display:flex; align-items:center; justify-content:space-between; }
+    .result-head a { color:rgba(255,255,255,0.85); font-size:11px; font-weight:500; text-decoration:none; }
+    .result-head a:hover { color:white; text-decoration:underline; }
+    .result-grid { display:grid; grid-template-columns:1fr 1fr; }
+    .result-col { border-right:1px solid #f1f5f9; }
+    .result-col:last-child { border-right:none; }
+    .result-col-head { background:#fff5f5; color:#dc2626; font-size:11px; font-weight:700; padding:7px 14px; border-bottom:1px solid #fee2e2; letter-spacing:0.5px; }
+    .result-item { padding:7px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:5px; }
+    .result-item:last-child { border-bottom:none; }
+    .result-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; flex:1; }
+    .result-item a:hover { color:#dc2626; text-decoration:underline; }
+    .result-status { font-size:9px; font-weight:700; padding:2px 6px; border-radius:4px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .status-out  { background:#dcfce7; color:#16a34a; }
+    .status-soon { background:#fef9c3; color:#b45309; }
+    .status-live { background:#fee2e2; color:#dc2626; animation:blink 1.5s infinite; }
+    @media(max-width:600px) { .result-grid { grid-template-columns:1fr; } .result-col { border-right:none; border-bottom:1px solid #f1f5f9; } .result-col:last-child { border-bottom:none; } }
+
     /* MOBILE */
     @media(max-width:900px) {
       .page-wrapper { grid-template-columns:1fr; padding:8px; }
@@ -141,6 +160,7 @@
       <nav class="main-nav" id="mainNav">
         <a href="index.html"         class="nav-link active">🏠 Home</a>
         <a href="pages/jobs.html"    class="nav-link">💼 Latest Jobs</a>
+        <a href="pages/results.html" class="nav-link">🏆 Results</a>
         <a href="pages/schemes.html" class="nav-link">📋 Latest Schemes</a>
         <a href="pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
         <a href="pages/about.html"   class="nav-link">ℹ️ About Us</a>
@@ -284,7 +304,38 @@
 
       </div>
 
-      <!-- BOTTOM AD -->
+      <!-- LATEST RESULTS -->
+      <div class="result-section" id="latest-results">
+        <div class="result-head">
+          🏆 Latest Results
+          <a href="pages/results.html">सभी Results देखें →</a>
+        </div>
+        <div class="result-grid">
+
+          <!-- Board Results Column -->
+          <div class="result-col">
+            <div class="result-col-head">📋 Board Results</div>
+            <div class="result-item"><span class="result-status status-out">OUT</span><div><a href="pages/job-detail.html?id=bihar-board-2026">Bihar Board 10th Result 2026</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-out">OUT</span><div><a href="pages/job-detail.html?id=bihar-board-12-2026">Bihar Board 12th Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-soon">SOON</span><div><a href="pages/job-detail.html?id=mp-board-2026">MP Board 10th & 12th Result 2026</a><div class="sb-date">📅 19 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-soon">SOON</span><div><a href="pages/job-detail.html?id=raj-board-2026">Rajasthan Board Result 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-soon">SOON</span><div><a href="pages/job-detail.html?id=up-board-2026">UP Board 10th & 12th Result 2026</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
+            <div class="result-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=cbse-board-2026">CBSE Board Result 2026 – Date Jari</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
+          </div>
+
+          <!-- Sarkari Exam Results Column -->
+          <div class="result-col">
+            <div class="result-col-head">🏛️ Sarkari Exam Results</div>
+            <div class="result-item"><span class="result-status status-live">LIVE</span><div><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2 Result</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-out">OUT</span><div><a href="pages/job-detail.html?id=upsssc-aso-result-2026">UPSSSC ASO Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-out">OUT</span><div><a href="pages/job-detail.html?id=reet-result-2026">REET Result 2026 – Rajasthan</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-soon">SOON</span><div><a href="pages/job-detail.html?id=ssc-cgl-result-2026">SSC CGL Result 2026</a><div class="sb-date">📅 17 Mar 2026</div></div></div>
+            <div class="result-item"><span class="result-status status-soon">SOON</span><div><a href="pages/job-detail.html?id=rrb-ntpc-result-2026">RRB NTPC Result 2026</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
+            <div class="result-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=neet-result-2026">NEET UG Result 2026 – Latest Update</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
+          </div>
+
+        </div>
+      </div>
       <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;margin-bottom:10px;">
         <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
         <div style="background:#f8fafc;border:1px dashed #e2e8f0;border-radius:6px;height:90px;display:flex;align-items:center;justify-content:center;color:#cbd5e1;font-size:11px;">Ad Space — 336x280</div>
@@ -366,6 +417,7 @@
           <div style="display:flex;flex-direction:column;gap:9px;">
             <a href="index.html"          style="color:#94a3b8;font-size:13px;text-decoration:none;">🏠 Home</a>
             <a href="pages/jobs.html"     style="color:#94a3b8;font-size:13px;text-decoration:none;">💼 Latest Jobs</a>
+            <a href="pages/results.html"  style="color:#94a3b8;font-size:13px;text-decoration:none;">🏆 Results</a>
             <a href="pages/schemes.html"  style="color:#94a3b8;font-size:13px;text-decoration:none;">📋 Latest Schemes</a>
             <a href="pages/about.html"    style="color:#94a3b8;font-size:13px;text-decoration:none;">ℹ️ About Us</a>
           </div>
