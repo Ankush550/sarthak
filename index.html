@@ -183,6 +183,79 @@
     @media(max-width:500px) {
       .cards-grid-top { grid-template-columns:repeat(2,1fr); }
     }
+
+    /* ===== NEWS TICKER ===== */
+    .news-ticker-wrap {
+      background: #0f172a;
+      border-bottom: 2px solid #1a56db;
+      display: flex;
+      align-items: center;
+      height: 36px;
+      overflow: hidden;
+      position: relative;
+      z-index: 100;
+    }
+    .ticker-label {
+      background: #dc2626;
+      color: white;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 0 14px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      letter-spacing: 0.5px;
+      z-index: 2;
+    }
+    .ticker-live-dot {
+      width: 7px; height: 7px;
+      background: white;
+      border-radius: 50%;
+      animation: ticker-blink 1s infinite;
+    }
+    @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+    .ticker-track {
+      display: flex;
+      align-items: center;
+      height: 100%;
+      overflow: hidden;
+      flex: 1;
+    }
+    .ticker-inner {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      white-space: nowrap;
+      animation: ticker-scroll 60s linear infinite;
+    }
+    .ticker-inner:hover { animation-play-state: paused; }
+    @keyframes ticker-scroll {
+      0%   { transform: translateX(100vw); }
+      100% { transform: translateX(-100%); }
+    }
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0 20px;
+      font-size: 12px;
+      color: #e2e8f0;
+      text-decoration: none;
+      border-right: 1px solid #334155;
+      height: 100%;
+      transition: color .2s;
+    }
+    .ticker-item:hover { color: #60a5fa; }
+    .ticker-item .t-icon { font-size: 13px; }
+    .ticker-sep { color: #1a56db; font-size: 16px; font-weight: 700; padding: 0 4px; }
+    .ticker-loading { color: #64748b; font-size: 12px; padding: 0 16px; }
+    @media(max-width:600px) {
+      .ticker-label { font-size: 10px; padding: 0 8px; }
+      .ticker-item { font-size: 11px; padding: 0 14px; }
+    }
   </style>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
@@ -199,6 +272,19 @@
   <div class="top-bar">
     <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
     <span><span class="auto-date">📅 रविवार, 22 मार्च 2026</span></span>
+  </div>
+
+  <!-- NEWS TICKER -->
+  <div class="news-ticker-wrap" id="newsTicker">
+    <div class="ticker-label">
+      <div class="ticker-live-dot"></div>
+      🔴 LIVE
+    </div>
+    <div class="ticker-track">
+      <div class="ticker-inner" id="tickerInner">
+        <span class="ticker-loading">⏳ Taza khabar load ho rahi hai...</span>
+      </div>
+    </div>
   </div>
 
   <!-- HEADER -->
@@ -222,6 +308,7 @@
         <a href="pages/results.html"      class="nav-link">🏆 Results</a>
         <a href="pages/schemes.html"      class="nav-link">📋 Latest Schemes</a>
         <a href="pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
+        <a href="pages/pdf-store.html"     class="nav-link">📚 PDF Store</a>
         <a href="pages/about.html"        class="nav-link">ℹ️ About Us</a>
       </nav>
     </div>
@@ -285,6 +372,7 @@
           <a href="pages/job-detail.html?id=jee-mains-2026"    class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">JEE Mains 2026 Session 2 – Exam City</span></a>
           <a href="pages/job-detail.html?id=vahan-rc-2026"     class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Vahan RC Card Online Download</span></a>
           <a href="pages/job-detail.html?id=upsssc-aso-2026"   class="job-card c-green"><span class="card-title">UPSSSC ASO Recruitment 2026</span></a>
+          <a href="pages/pdf-store.html" class="job-card" style="background:linear-gradient(135deg,#fef9c3,#fde68a);border-color:#f59e0b;"><span class="badge-new">NEW</span><span class="card-title" style="color:#92400e;">📚 PDF Notes Store</span></a>
         </div>
       </div>
 
@@ -517,6 +605,7 @@
             <a href="pages/jobs.html"     style="color:#94a3b8;font-size:13px;text-decoration:none;">💼 Latest Jobs</a>
             <a href="pages/results.html"  style="color:#94a3b8;font-size:13px;text-decoration:none;">🏆 Results</a>
             <a href="pages/schemes.html"  style="color:#94a3b8;font-size:13px;text-decoration:none;">📋 Latest Schemes</a>
+            <a href="pages/pdf-store.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">📚 PDF Store</a>
             <a href="pages/about.html"    style="color:#94a3b8;font-size:13px;text-decoration:none;">ℹ️ About Us</a>
           </div>
         </div>
@@ -576,6 +665,89 @@
   </footer>
 
   <script src="assets/js/main.js" defer></script>
+
+  <!-- NEWS TICKER JS -->
+  <script>
+  (function() {
+    // Multiple RSS sources for Sarkari news
+    var feeds = [
+      'https://news.google.com/rss/search?q=sarkari+naukri+bharti+2026&hl=hi&gl=IN&ceid=IN:hi',
+      'https://news.google.com/rss/search?q=sarkari+yojana+india+2026&hl=hi&gl=IN&ceid=IN:hi',
+      'https://news.google.com/rss/search?q=SSC+railway+recruitment+2026&hl=hi&gl=IN&ceid=IN:hi'
+    ];
+
+    // Static fallback news (shown if API fails)
+    var fallbackNews = [
+      { title: 'SSC GD Constable Bharti 2026 — Aavedan Shuru', link: 'pages/jobs.html' },
+      { title: 'Railway Group D Vacancy 2026 — Notification Jari', link: 'pages/jobs.html' },
+      { title: 'PM Kisan 22vi Kisht — Jald Aayegi', link: 'pages/schemes.html' },
+      { title: 'REET 2026 Bharti — 46,500 Posts', link: 'pages/jobs.html' },
+      { title: 'Bihar Board 10th Result 2026 — Dekhen', link: 'pages/results.html' },
+      { title: 'Rajasthan Patwari Bharti 2026 — Notification', link: 'pages/jobs.html' },
+      { title: 'UPSSSC PET 2026 — Registration Shuru', link: 'pages/jobs.html' },
+      { title: 'Ladli Bahna Yojana 34vi Kisht — Date', link: 'pages/schemes.html' },
+      { title: 'RRB NTPC Bharti 2026 — 11,558 Posts', link: 'pages/jobs.html' },
+      { title: 'Agneepath Scheme 2026 — Nayi Bharti', link: 'pages/jobs.html' },
+    ];
+
+    function buildTicker(items) {
+      var inner = document.getElementById('tickerInner');
+      if (!inner) return;
+      var html = '';
+      var icons = ['📢','🔔','📋','🎯','📌','💼','🏛️','📝','⚡','🇮🇳'];
+      items.forEach(function(item, i) {
+        var icon = icons[i % icons.length];
+        html += '<a href="' + (item.link || '#') + '" class="ticker-item" target="' + (item.external ? '_blank' : '_self') + '">' +
+          '<span class="t-icon">' + icon + '</span>' + item.title +
+          '</a><span class="ticker-sep">|</span>';
+      });
+      // Duplicate for seamless loop
+      html += html;
+      inner.innerHTML = html;
+
+      // Set animation duration based on content length
+      var duration = Math.max(40, items.length * 8);
+      inner.style.animationDuration = duration + 's';
+    }
+
+    function fetchNews() {
+      // Try rss2json API (free, no key needed)
+      var rssUrl = encodeURIComponent(feeds[0]);
+      var apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + rssUrl + '&count=15';
+
+      fetch(apiUrl)
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          if (data.status === 'ok' && data.items && data.items.length > 0) {
+            var items = data.items.slice(0, 12).map(function(item) {
+              return {
+                title: item.title.replace(/ - .+$/, '').substring(0, 80),
+                link: item.link,
+                external: true
+              };
+            });
+            buildTicker(items);
+          } else {
+            buildTicker(fallbackNews);
+          }
+        })
+        .catch(function() {
+          // API fail → use fallback
+          buildTicker(fallbackNews);
+        });
+    }
+
+    // Load after page ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fetchNews);
+    } else {
+      fetchNews();
+    }
+
+    // Refresh every 10 minutes
+    setInterval(fetchNews, 600000);
+  })();
+  </script>
   <script>
     function toggleMenu() {
       document.getElementById('mainNav').classList.toggle('open');
