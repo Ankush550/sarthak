@@ -117,165 +117,160 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../assets/css/style.css">
 
-  <!-- ===== FIREBASE CDN ===== -->
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js" defer></script>
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js" defer></script>
-  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js" defer></script>
+  <!-- ===== AUTH SYSTEM (localStorage - No Firebase needed) ===== -->
   <script>
-  window.addEventListener("load", function() {
-    try {
-    var firebaseConfig = {
-      apiKey: "AIzaSyAZK0Bgi2c0xyeW3AsQGCvuJmEQLMjXw60",
-      authDomain: "sarthak-yojana.firebaseapp.com",
-      projectId: "sarthak-yojana",
-      storageBucket: "sarthak-yojana.firebasestorage.app",
-      messagingSenderId: "415549619039",
-      appId: "1:415549619039:web:9d119879d78ee17ed1d4ea",
-      measurementId: "G-H8ZLJG7LN7"
-    };
-    firebase.initializeApp(firebaseConfig);
-    var auth = firebase.auth();
-    var db = firebase.firestore();
-
-    // ---- AUTH FUNCTIONS ----
-    window.fbSignup = async function(name, email, pass) {
-      var cred = await auth.createUserWithEmailAndPassword(email, pass);
-      var userData = {
-        name: name, email: email,
-        plan: "free", planExpiry: null,
-        questionsToday: 0, lastQuestionDate: "",
-        totalSessions: 0, totalScore: 0, history: []
-      };
-      // Save to localStorage immediately (fast)
-      localStorage.setItem('sy_user_' + cred.user.uid, JSON.stringify(userData));
-      // Save to Firestore in background (don't await)
-      db.collection("users").doc(cred.user.uid).set(Object.assign({}, userData, {
-        createdAt: firebase.firestore.FieldValue.serverTimestamp()
-      })).catch(function(e){ console.log('Firestore sync error:', e); });
-      return cred.user;
-    };
-
-    window.fbLogin = async function(email, pass) {
-      var cred = await auth.signInWithEmailAndPassword(email, pass);
-      return cred.user;
-    };
-
-    window.fbGoogleLogin = async function() {
-      var provider = new firebase.auth.GoogleAuthProvider();
-      var cred = await auth.signInWithPopup(provider);
-      var snap = await db.collection("users").doc(cred.user.uid).get();
-      if (!snap.exists) {
-        await db.collection("users").doc(cred.user.uid).set({
-          name: cred.user.displayName, email: cred.user.email,
-          plan: "free", planExpiry: null,
-          questionsToday: 0, lastQuestionDate: "",
-          totalSessions: 0, totalScore: 0, history: [],
-          createdAt: firebase.firestore.FieldValue.serverTimestamp()
-        });
-      }
-      return cred.user;
-    };
-
-    window.fbLogout = function() { return auth.signOut(); };
-
-    window.getUserData = async function(uid) {
-      // Try localStorage cache first (instant)
-      var cached = localStorage.getItem('sy_user_' + uid);
-      if (cached) {
-        var data = JSON.parse(cached);
-        // Sync from Firestore in background
-        db.collection("users").doc(uid).get().then(function(snap) {
-          if (snap.exists) {
-            localStorage.setItem('sy_user_' + uid, JSON.stringify(snap.data()));
-          }
-        }).catch(function(e){ console.log('Sync error:', e); });
-        return data;
-      }
-      // No cache - fetch from Firestore
-      var snap = await db.collection("users").doc(uid).get();
-      if (snap.exists) {
-        localStorage.setItem('sy_user_' + uid, JSON.stringify(snap.data()));
-        return snap.data();
-      }
-      // New user - create default data
-      var defaultData = {
-        name: uid, email: "",
-        plan: "free", planExpiry: null,
-        questionsToday: 0, lastQuestionDate: "",
-        totalSessions: 0, totalScore: 0, history: []
-      };
-      localStorage.setItem('sy_user_' + uid, JSON.stringify(defaultData));
-      return defaultData;
-    };
-
-    window.activatePlan = async function(uid, planName, days) {
-      var expiry = new Date();
-      expiry.setDate(expiry.getDate() + days);
-      // Update localStorage immediately
-      var cached = localStorage.getItem('sy_user_' + uid);
-      if (cached) {
-        var data = JSON.parse(cached);
-        data.plan = planName; data.planExpiry = expiry.toISOString();
-        data.questionsToday = 0; data.lastQuestionDate = "";
-        localStorage.setItem('sy_user_' + uid, JSON.stringify(data));
-      }
-      // Sync to Firestore in background
-      db.collection("users").doc(uid).update({
-        plan: planName, planExpiry: expiry.toISOString(),
-        questionsToday: 0, lastQuestionDate: ""
-      }).catch(function(e){ console.log('Sync error:', e); });
-    };
-
-    window.incrementQuestionCount = async function(uid, userData) {
-      var today = new Date().toDateString();
-      var isNewDay = userData.lastQuestionDate !== today;
-      var newCount = isNewDay ? 1 : (userData.questionsToday || 0) + 1;
-      // Update localStorage immediately
-      var cached = localStorage.getItem('sy_user_' + uid);
-      if (cached) {
-        var data = JSON.parse(cached);
-        data.questionsToday = newCount; data.lastQuestionDate = today;
-        localStorage.setItem('sy_user_' + uid, JSON.stringify(data));
-      }
-      // Sync to Firestore in background
-      db.collection("users").doc(uid).update({
-        questionsToday: newCount, lastQuestionDate: today
-      }).catch(function(e){ console.log('Sync error:', e); });
-    };
-
-    // ---- AUTH STATE LISTENER ----
-    // Fallback: 6 sec baad bhi load na ho toh login dikhao
-    var authDone = false;
-    setTimeout(function() {
-      if (!authDone) {
-        console.log('Auth timeout — going to login');
-        authDone = true;
-        if (window.onUserLoggedOut) window.onUserLoggedOut();
-      }
-    }, 6000);
-
-    auth.onAuthStateChanged(async function(user) {
-      if (authDone) return;
-      authDone = true;
-      window._currentUser = user;
-      try {
-        if (user) {
-          window._userData = await window.getUserData(user.uid);
-          if (window.onUserLoggedIn) window.onUserLoggedIn(user, window._userData);
-        } else {
-          // User not logged in - auth screen already showing, do nothing
-        }
-      } catch(err) {
-        console.error('Auth error:', err);
-      }
-    });
-    } catch(e) {
-      console.error('Firebase init error:', e);
+  // ---- PURE LOCAL AUTH — INSTANT, NO SERVER NEEDED ----
+  var SY = {
+    // Get all users from storage
+    getUsers: function() {
+      try { return JSON.parse(localStorage.getItem('sy_users') || '{}'); } catch(e) { return {}; }
+    },
+    saveUsers: function(users) {
+      localStorage.setItem('sy_users', JSON.stringify(users));
+    },
+    // Current session
+    getSession: function() {
+      try { return JSON.parse(localStorage.getItem('sy_session') || 'null'); } catch(e) { return null; }
+    },
+    saveSession: function(uid) {
+      localStorage.setItem('sy_session', JSON.stringify(uid));
+    },
+    clearSession: function() {
+      localStorage.removeItem('sy_session');
+    },
+    // Simple hash for password (basic security)
+    hashPass: function(pass) {
+      var h = 0;
+      for(var i=0; i<pass.length; i++) { h = ((h<<5)-h)+pass.charCodeAt(i); h|=0; }
+      return 'sy_' + Math.abs(h).toString(36) + pass.length;
+    },
+    genUID: function() {
+      return 'u_' + Date.now().toString(36) + Math.random().toString(36).substr(2,5);
     }
-  }); // end window.load
+  };
+
+  // ---- SIGNUP ----
+  window.fbSignup = async function(name, email, pass) {
+    var users = SY.getUsers();
+    // Check duplicate email
+    for(var uid in users) {
+      if (users[uid].email === email.toLowerCase()) {
+        throw { code: 'auth/email-already-in-use' };
+      }
+    }
+    var newUID = SY.genUID();
+    var userData = {
+      uid: newUID, name: name, email: email.toLowerCase(),
+      passHash: SY.hashPass(pass),
+      plan: 'free', planExpiry: null,
+      questionsToday: 0, lastQuestionDate: '',
+      totalSessions: 0, totalScore: 0, history: [],
+      createdAt: new Date().toISOString()
+    };
+    users[newUID] = userData;
+    SY.saveUsers(users);
+    SY.saveSession(newUID);
+    return { uid: newUID, displayName: name, email: email };
+  };
+
+  // ---- LOGIN ----
+  window.fbLogin = async function(email, pass) {
+    var users = SY.getUsers();
+    var found = null;
+    for(var uid in users) {
+      if (users[uid].email === email.toLowerCase()) { found = users[uid]; break; }
+    }
+    if (!found) throw { code: 'auth/user-not-found' };
+    if (found.passHash !== SY.hashPass(pass)) throw { code: 'auth/wrong-password' };
+    SY.saveSession(found.uid);
+    return { uid: found.uid, displayName: found.name, email: found.email };
+  };
+
+  // ---- GOOGLE LOGIN (not available without Firebase) ----
+  window.fbGoogleLogin = async function() {
+    throw { code: 'auth/operation-not-allowed', message: 'Google login ke liye Firebase use karo. Email se sign up karein.' };
+  };
+
+  // ---- LOGOUT ----
+  window.fbLogout = function() { SY.clearSession(); };
+
+  // ---- GET USER DATA ----
+  window.getUserData = async function(uid) {
+    var users = SY.getUsers();
+    var data = users[uid];
+    if (!data) return { name:'User', email:'', plan:'free', questionsToday:0, lastQuestionDate:'', totalSessions:0, totalScore:0, history:[] };
+    // Return without sensitive fields
+    return {
+      name: data.name, email: data.email, plan: data.plan || 'free',
+      planExpiry: data.planExpiry || null,
+      questionsToday: data.questionsToday || 0,
+      lastQuestionDate: data.lastQuestionDate || '',
+      totalSessions: data.totalSessions || 0,
+      totalScore: data.totalScore || 0,
+      history: data.history || []
+    };
+  };
+
+  // ---- ACTIVATE PLAN ----
+  window.activatePlan = async function(uid, planName, days) {
+    var users = SY.getUsers();
+    if (!users[uid]) return;
+    var expiry = new Date();
+    expiry.setDate(expiry.getDate() + days);
+    users[uid].plan = planName;
+    users[uid].planExpiry = expiry.toISOString();
+    users[uid].questionsToday = 0;
+    users[uid].lastQuestionDate = '';
+    SY.saveUsers(users);
+  };
+
+  // ---- INCREMENT QUESTION COUNT ----
+  window.incrementQuestionCount = async function(uid, userData) {
+    var users = SY.getUsers();
+    if (!users[uid]) return;
+    var today = new Date().toDateString();
+    var isNewDay = users[uid].lastQuestionDate !== today;
+    users[uid].questionsToday = isNewDay ? 1 : (users[uid].questionsToday || 0) + 1;
+    users[uid].lastQuestionDate = today;
+    SY.saveUsers(users);
+  };
+
+  // ---- SAVE SESSION HISTORY ----
+  window.saveSessionHistory = async function(uid, sessionData) {
+    var users = SY.getUsers();
+    if (!users[uid]) return;
+    if (!users[uid].history) users[uid].history = [];
+    users[uid].history.push(sessionData);
+    if (users[uid].history.length > 50) users[uid].history = users[uid].history.slice(-50);
+    users[uid].totalSessions = (users[uid].totalSessions || 0) + 1;
+    users[uid].totalScore = (users[uid].totalScore || 0) + (sessionData.score || 0);
+    SY.saveUsers(users);
+  };
+
+  // ---- AUTO LOGIN CHECK (instant) ----
+  (function() {
+    var uid = SY.getSession();
+    if (uid) {
+      var users = SY.getUsers();
+      if (users[uid]) {
+        window._currentUser = { uid: uid, displayName: users[uid].name, email: users[uid].email };
+        // Call onUserLoggedIn when ready
+        document.addEventListener('DOMContentLoaded', function() {
+          setTimeout(function() {
+            window.getUserData(uid).then(function(data) {
+              window._userData = data;
+              if (window.onUserLoggedIn) window.onUserLoggedIn(window._currentUser, data);
+            });
+          }, 50);
+        });
+      } else {
+        SY.clearSession(); // Invalid session
+      }
+    }
+  })();
   </script>
 
-  <style>
+    <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: 'Poppins', sans-serif; background: #f1f5f9; color: #1e293b; }
 
@@ -531,7 +526,7 @@
       <div class="user-info">
         <span id="nav-name">User</span>
         <span id="nav-plan-badge" class="plan-badge">Free</span>
-        <button class="btn-logout" onclick="window.doLogout ? window.doLogout() : showScreen('auth')">Logout</button>
+        <button class="btn-logout" onclick="doLogout()">Logout</button>
       </div>
     </div>
 
@@ -859,16 +854,15 @@
   }
 
   async function doGoogleLogin() {
-    try {
-      showScreen('loading');
-      await window.fbGoogleLogin();
-    } catch(e) {
-      showScreen('auth');
-      showAuthError('Google login failed. Dubara try karo.');
-    }
+    showAuthError('Google login abhi available nahi. Email aur password se sign up karein — bilkul free hai!');
   }
 
-  // doLogout handled by window.doLogout
+  async function doLogout() {
+    if (window.fbLogout) window.fbLogout();
+    window._currentUser = null;
+    window._userData = null;
+    showScreen('auth');
+  }
 
   // ---- REFRESH UI ----
   function refreshUI() {
@@ -1024,7 +1018,7 @@
       removeTyping();
       addBotMsg(currentQ);
 
-      // Increment count in firebase
+      // Increment question count
       await window.incrementQuestionCount(window._currentUser.uid, ud);
       window._userData.questionsToday = (window._userData.questionsToday || 0) + 1;
       window._userData.lastQuestionDate = today;
