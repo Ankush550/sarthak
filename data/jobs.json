@@ -4,7 +4,7 @@
     "title": "CTET February Result 2026 – Soon",
     "category": "Result",
     "lastUpdate": "26 Mar 2026",
-    "description": "Central Board of Secondary Education (CBSE) CTET February 2026 ka Result jald jari hoga. Exam 07-08 February 2026 ko hua tha. Candidates apna result Enrollment Number ya Registration Number aur Date of Birth se check kar sakte hain. Direct link neeche available hoga.",
+    "description": "Central Board of Secondary Education (CBSE) CTET February 2026 ka Result jald jari hoga. Exam 07-08 February 2026 ko hua tha. Candidates apna result Enrollment Number ya Registration Number aur Date of Birth se check kar sakte hain.",
     "notification": "CTET official website ctet.nic.in par result jari hoga.",
     "importantDates": [
       {
@@ -18,12 +18,22 @@
         "highlight": false
       },
       {
+        "label": "Fee Payment Last Date",
+        "value": "18 December 2025",
+        "highlight": false
+      },
+      {
         "label": "Correction Date",
         "value": "23-26 December 2025",
         "highlight": false
       },
       {
-        "label": "Exam Date",
+        "label": "Complete Submit Form",
+        "value": "27-30 December 2025",
+        "highlight": false
+      },
+      {
+        "label": "CTET Exam Date",
         "value": "07-08 February 2026",
         "highlight": false
       },
@@ -48,45 +58,44 @@
         "highlight": false
       },
       {
-        "label": "Result",
+        "label": "Exam Result",
         "value": "Available Soon",
         "highlight": true
       }
     ],
     "fees": [
-      "Paper-I Only — General/OBC: ₹1000, SC/ST/PWD: ₹500",
+      "Paper-I — General/OBC: ₹1000, SC/ST/PWD: ₹500",
       "Both Papers — General/OBC: ₹1200, SC/ST/PWD: ₹600",
-      "Payment Mode: Debit Card, Credit Card, Net Banking, UPI, Mobile Wallet"
+      "Payment Mode: Debit Card, Credit Card, Net Banking, IMPS, Mobile Wallet"
     ],
     "eligibility": [
       {
         "class": "Level-1 (Class 1-5)",
-        "age": "Koi Age Limit Nahi",
+        "age": "No Age Limit",
         "category": "12th Pass + D.Ed/JBT/B.El.Ed/B.Ed",
         "residence": "All India"
       },
       {
         "class": "Level-2 (Class 6-8)",
-        "age": "Koi Age Limit Nahi",
+        "age": "No Age Limit",
         "category": "Graduation + B.Ed / B.El.Ed",
         "residence": "All India"
       }
     ],
     "documents": [
-      "Enrollment Number / Registration Number",
+      "Application Number / Roll Number",
       "Date of Birth",
       "Admit Card (Reference ke liye)",
-      "Photo ID Proof",
-      "Internet Browser (Mobile ya Computer)"
+      "Photo ID Proof (Aadhaar/PAN)"
     ],
     "howToApply": [
       {
         "title": "ctet.nic.in par jaayein",
-        "detail": "Official CTET website apne browser mein kholen."
+        "detail": "Apne mobile ya computer ke browser mein official CTET website kholen."
       },
       {
-        "title": "CTET February Result 2026 link dhundhen",
-        "detail": "Homepage par result link activate hone par click karein."
+        "title": "Result link dhundhen",
+        "detail": "Homepage par 'CTET February Result 2026' link dikhega, us par click karein."
       },
       {
         "title": "Credentials enter karein",
@@ -98,16 +107,16 @@
       },
       {
         "title": "Submit click karein",
-        "detail": "Submit/Login button click karein — result screen par aayega."
+        "detail": "Submit button click karein — result screen par aa jayega."
       },
       {
         "title": "Download aur Print karein",
-        "detail": "Result check karein aur future reference ke liye printout lein."
+        "detail": "Result download karein aur future reference ke liye printout zaroor lein."
       }
     ],
     "importantLinks": [
       {
-        "label": "Result Check Karein",
+        "label": "Result Check / Register",
         "url": "https://ctet.nic.in",
         "text": "Link Activate Soon"
       },
@@ -137,12 +146,22 @@
         "text": "Click Here"
       },
       {
+        "label": "Schedule Notice",
+        "url": "https://ctet.nic.in",
+        "text": "Click Here"
+      },
+      {
+        "label": "Online Correction",
+        "url": "https://ctet.nic.in",
+        "text": "Click Here"
+      },
+      {
         "label": "Apply Online",
         "url": "https://ctet.nic.in",
         "text": "Click Here"
       },
       {
-        "label": "CTET Official Notification",
+        "label": "CTET February Notification",
         "url": "https://ctet.nic.in",
         "text": "Click Here"
       },
@@ -168,8 +187,7 @@
       "CTET Paper 1 Result",
       "CTET Paper 2 Result",
       "ctet.nic.in Result",
-      "CTET February 2026",
-      "Central Teacher Eligibility Test"
+      "CTET 2026"
     ]
   },
   {
