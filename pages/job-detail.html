@@ -232,15 +232,47 @@
       document.getElementById('ogDesc').setAttribute('content', pageDesc);
       document.getElementById('ogUrl').setAttribute('content', pageUrl);
 
-      // JSON-LD Structured Data — Google ko clearly samjhao
+      // JSON-LD Structured Data — Google Search Console fix (all required fields)
       const schema = {
         "@context": "https://schema.org",
         "@type": "JobPosting",
         "title": j.title,
         "description": pageDesc,
         "datePosted": j.lastUpdate,
-        "hiringOrganization": { "@type": "Organization", "name": j.highlights?.department || "Government of India" },
-        "jobLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "addressCountry": "IN" } },
+        "validThrough": (j.highlights?.applyDate ? (function(d){ try{ var p=d.split(' '); var months={'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}; return '2026-'+(months[p[1]]||'12')+'-'+(p[0].padStart(2,'0'))+'T23:59:59'; } catch(e){ return '2026-12-31T23:59:59'; } })(j.highlights.applyDate) : '2026-12-31T23:59:59'),
+        "employmentType": "FULL_TIME",
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": j.highlights?.department || "Government of India",
+          "sameAs": "https://india.gov.in",
+          "logo": "https://sarthakyojana.in/assets/images/logo.png"
+        },
+        "jobLocation": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": j.highlights?.domicile || "All India",
+            "addressLocality": "New Delhi",
+            "addressRegion": "Delhi",
+            "postalCode": "110001",
+            "addressCountry": "IN"
+          }
+        },
+        "baseSalary": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": {
+            "@type": "QuantitativeValue",
+            "minValue": 18000,
+            "maxValue": 100000,
+            "unitText": "MONTH"
+          }
+        },
+        "applicantLocationRequirements": {
+          "@type": "Country",
+          "name": "India"
+        },
+        "directApply": true,
         "url": pageUrl
       };
       let schemaTag = document.getElementById('jobSchema');
@@ -335,9 +367,8 @@
           </div>
 
           <!-- AD SLOT -->
-          <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
+          <div id="midAdSlot" style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
             <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
-            <div style="background:#f8fafc;border:1px dashed #e2e8f0;border-radius:6px;height:80px;display:flex;align-items:center;justify-content:center;color:#cbd5e1;font-size:11px;">Ad Space — 728x90</div>
           </div>
 
           <!-- ELIGIBILITY -->
@@ -405,9 +436,8 @@
         <!-- SIDEBAR -->
         <div class="detail-sidebar">
 
-          <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
+          <div id="sideAdSlot" style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;">
             <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
-            <div class="ad-side">Ad Space<br>300x250</div>
           </div>
 
           <div class="sb-box">
@@ -429,6 +459,32 @@
               <div class="sb-date2">📅 ${o.lastUpdate.split(' ')[0]}</div>
             </div>`).join('');
         });
+
+      // Inject AdSense ads after innerHTML is set (script tags can't be in innerHTML)
+      var midAd = document.getElementById('midAdSlot');
+      if (midAd) {
+        var ins1 = document.createElement('ins');
+        ins1.className = 'adsbygoogle';
+        ins1.style.cssText = 'display:block;width:100%;min-height:80px;';
+        ins1.setAttribute('data-ad-client', 'ca-pub-8602963796651751');
+        ins1.setAttribute('data-ad-slot', 'YOUR_AD_SLOT_JOB_1');
+        ins1.setAttribute('data-ad-format', 'horizontal');
+        ins1.setAttribute('data-full-width-responsive', 'true');
+        midAd.appendChild(ins1);
+        try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+      }
+
+      var sideAd = document.getElementById('sideAdSlot');
+      if (sideAd) {
+        var ins2 = document.createElement('ins');
+        ins2.className = 'adsbygoogle';
+        ins2.style.cssText = 'display:block;width:300px;height:250px;';
+        ins2.setAttribute('data-ad-client', 'ca-pub-8602963796651751');
+        ins2.setAttribute('data-ad-slot', 'YOUR_AD_SLOT_JOB_2');
+        ins2.setAttribute('data-ad-format', 'rectangle');
+        sideAd.appendChild(ins2);
+        try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+      }
     }
   </script>
 
