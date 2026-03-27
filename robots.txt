@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap location
 Sitemap: https://sarthakyojana.in/sitemap.xml
-
-# Block unnecessary files
-Disallow: /assets/
-Disallow: /data/
