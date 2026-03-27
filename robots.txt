@@ -1,13 +1,9 @@
 User-agent: *
 Allow: /
-Allow: /assets/
-Allow: /assets/js/
-Allow: /assets/css/
-Allow: /assets/images/
-Allow: /pages/
-Allow: /data/
 
-Disallow: /cdn-cgi/
-Disallow: /.git/
-
+# Sitemap location
 Sitemap: https://sarthakyojana.in/sitemap.xml
+
+# Block unnecessary files
+Disallow: /assets/
+Disallow: /data/

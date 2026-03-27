@@ -1,62 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
     <loc>https://sarthakyojana.in/</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Main Pages -->
   <url>
     <loc>https://sarthakyojana.in/pages/jobs.html</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/schemes.html</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/about.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://sarthakyojana.in/pages/results.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/contact.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/privacy-policy.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/disclaimer.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/search.html</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/pdf-store.html</loc>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/private-jobs.html</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=mpesb-forest-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/about.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/contact.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/privacy-policy.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/disclaimer.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Job Detail Pages -->
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=uppsc-lt-grade-admit-2026</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ctet-feb-result-2026</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bsnl-set-2026</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -73,67 +97,85 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bihar-board-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=jee-mains-2026</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=vahan-rc-2026</loc>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bihar-board-2026</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=upsssc-aso-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=ssb-paramedical-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=ssb-si-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=ssb-hc-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ssb-constable-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=rrb-alp-2026</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=mp-rte-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=navy-agniveer-2026</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=patwari-2026</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=reet-2026</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=nta-neet-2026</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=raj-board-2026</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=up-board-2026</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=pm-kisan-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=pm-kisan</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -145,105 +187,52 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ladli-behna</loc>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=mpesb-forest-2026</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=reet-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=nib-recruitment-2026</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=patwari-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=rrb-alp-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ayushman-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=pm-ujjwala-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ration-card-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=navy-agniveer-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=raj-board-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=up-board-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=nta-neet-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bihar-iti-cat-2026</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=gaon-beti-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=upsssc-jtc-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ayushman-2026</loc>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=pm-svanidhi-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=pm-ujjwala-2026</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=mp-pension-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ration-card-2026</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=jan-aadhaar-2026</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://sarthakyojana.in/pages/job-detail.html?id=raj-mobile-2026</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>
