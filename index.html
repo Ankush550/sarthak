@@ -11,7 +11,6 @@
   <meta name="robots" content="index, follow">
   <meta name="author" content="SarthakYojana.in">
   <link rel="canonical" href="https://sarthakyojana.in/">
-  <link rel="sitemap" type="application/xml" href="https://sarthakyojana.in/sitemap.xml">
   <!-- Open Graph -->
   <meta property="og:title" content="Sarthak Yojana 2026 – Sarkari Yojana & Latest Govt Jobs">
   <meta property="og:description" content="PM Kisan, REET, SSB, RRB – sabhi sarkari naukri aur yojanaon ki puri jaankari.">
@@ -80,184 +79,142 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
-    /* PAGE LAYOUT */
-    .page-wrapper { max-width:1200px; margin:0 auto; padding:14px 12px; display:grid; grid-template-columns:210px 1fr 210px; gap:12px; }
+    /* ═══ PAGE LAYOUT ═══ */
+    .page-wrapper { max-width:1200px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:220px 1fr 220px; gap:14px; }
 
-    /* SIDEBARS */
+    /* ═══ SIDEBARS ═══ */
     .sidebar { display:flex; flex-direction:column; gap:12px; }
-    .sidebar-box { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; }
-    .sidebar-box .sb-head { background:#1a56db; color:white; font-size:12px; font-weight:600; padding:7px 12px; }
-    .sidebar-box .sb-body { padding:8px 0; }
+    .sidebar-box { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.05); }
+    .sidebar-box .sb-head { background:linear-gradient(90deg,#1a56db,#1e40af); color:white; font-size:12px; font-weight:600; padding:8px 12px; letter-spacing:0.2px; }
+    .sidebar-box .sb-body { padding:4px 0; }
 
-    /* SEARCH */
-    .search-wrap { display:flex; border:1px solid #e2e8f0; border-radius:6px; overflow:hidden; margin:8px 10px; }
-    .search-wrap input { flex:1; border:none; outline:none; padding:7px 8px; font-size:12px; font-family:Poppins,sans-serif; }
-    .search-wrap button { background:#1a56db; border:none; color:white; padding:0 10px; cursor:pointer; font-size:13px; }
+    /* ═══ SEARCH ═══ */
+    .search-wrap { display:flex; border:1.5px solid #e2e8f0; border-radius:8px; overflow:hidden; margin:8px 10px; transition:border-color .2s; }
+    .search-wrap:focus-within { border-color:#1a56db; }
+    .search-wrap input { flex:1; border:none; outline:none; padding:8px 10px; font-size:12px; font-family:Poppins,sans-serif; background:#f8fafc; }
+    .search-wrap button { background:#1a56db; border:none; color:white; padding:0 12px; cursor:pointer; font-size:14px; transition:background .2s; }
+    .search-wrap button:hover { background:#1e40af; }
 
-    /* SIDEBAR POST LIST */
-    .sb-post { padding:6px 12px; border-bottom:1px solid #f1f5f9; }
+    /* ═══ SIDEBAR POST LIST ═══ */
+    .sb-post { padding:7px 12px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:6px; transition:background .15s; }
     .sb-post:last-child { border-bottom:none; }
-    .sb-post a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.4; display:block; text-decoration:none; }
+    .sb-post:hover { background:#f8fafc; }
+    .sb-post > div, .sb-post > a { flex:1; min-width:0; }
+    .sb-post a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; display:block; text-decoration:none; overflow:hidden; text-overflow:ellipsis; }
     .sb-post a:hover { color:#dc2626; text-decoration:underline; }
-    .sb-post .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; }
-    .sb-new { background:#dc2626; color:white; font-size:10px; font-weight:700; padding:1px 4px; border-radius:3px; margin-right:4px; animation:blink 1.5s infinite; }
+    .sb-post .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; display:block; }
+    .sb-new { background:#dc2626; color:white; font-size:9px; font-weight:700; padding:2px 5px; border-radius:3px; flex-shrink:0; margin-top:2px; display:inline-block; animation:blink 1.5s infinite; }
 
-    /* AD BOX */
-    .ad-box { background:white; border-radius:10px; border:1px dashed #cbd5e1; padding:8px; text-align:center; }
-    .ad-box .ad-lbl { font-size:10px; color:#94a3b8; margin-bottom:6px; }
-    .ad-placeholder { background:#f8fafc; border:1px dashed #e2e8f0; border-radius:6px; height:250px; display:flex; align-items:center; justify-content:center; color:#cbd5e1; font-size:11px; }
-
-    /* SCHEME SIDEBAR */
-    .scheme-item { padding:7px 12px; border-bottom:1px solid #f1f5f9; }
+    /* ═══ SCHEME SIDEBAR ═══ */
+    .scheme-item { padding:7px 12px; border-bottom:1px solid #f1f5f9; transition:background .15s; }
     .scheme-item:last-child { border-bottom:none; }
-    .scheme-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.4; display:block; text-decoration:none; }
+    .scheme-item:hover { background:#f8fafc; }
+    .scheme-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; display:block; text-decoration:none; }
     .scheme-item a:hover { color:#dc2626; }
     .scheme-item .sc-date { font-size:10px; color:#94a3b8; margin-top:2px; }
 
-    /* CARDS GRID (top) */
-    .cards-top { background:white; border-radius:10px; border:1px solid #e2e8f0; padding:10px; margin-bottom:12px; }
-    .cards-grid-top { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; }
-    .job-card { position:relative; border-radius:8px; border:1px solid rgba(0,0,0,0.08); padding:10px 10px 10px; display:flex; align-items:center; justify-content:center; text-align:center; min-height:65px; cursor:pointer; transition:transform .18s; text-decoration:none; }
-    .job-card:hover { transform:translateY(-2px); box-shadow:0 4px 12px rgba(0,0,0,0.1); }
-    .c-pink   { background:#ffe4ec; border-color:#f9a8c9; }
-    .c-purple { background:#ede9ff; border-color:#c4b5fd; }
-    .c-yellow { background:#fef9c3; border-color:#fde047; }
-    .c-green  { background:#dcfce7; border-color:#86efac; }
-    .card-title { font-size:12px; font-weight:600; color:#1e293b; line-height:1.4; }
+    /* ═══ AD BOX ═══ */
+    .ad-box { background:white; border-radius:12px; border:1px dashed #cbd5e1; padding:8px; text-align:center; }
+    .ad-box .ad-lbl { font-size:10px; color:#94a3b8; margin-bottom:6px; }
+
+    /* ═══ TOP CARDS ═══ */
+    .cards-top { background:white; border-radius:14px; border:1px solid #e2e8f0; padding:14px; margin-bottom:14px; box-shadow:0 2px 8px rgba(26,86,219,0.06); }
+    .cards-top-head { font-size:12px; font-weight:600; color:#64748b; margin-bottom:10px; display:flex; align-items:center; gap:6px; letter-spacing:0.3px; text-transform:uppercase; }
+    .cards-grid-top { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
+    .job-card { position:relative; border-radius:10px; border:1.5px solid rgba(0,0,0,0.07); padding:12px 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; min-height:72px; cursor:pointer; transition:transform .18s, box-shadow .18s; text-decoration:none; gap:4px; }
+    .job-card:hover { transform:translateY(-3px); box-shadow:0 8px 20px rgba(0,0,0,0.1); }
+    .c-pink   { background:linear-gradient(135deg,#ffe4ec,#fce7f3); border-color:#f9a8c9; }
+    .c-purple { background:linear-gradient(135deg,#ede9ff,#f3f0ff); border-color:#c4b5fd; }
+    .c-yellow { background:linear-gradient(135deg,#fef9c3,#fef3c7); border-color:#fde047; }
+    .c-green  { background:linear-gradient(135deg,#dcfce7,#d1fae5); border-color:#86efac; }
+    .c-blue   { background:linear-gradient(135deg,#dbeafe,#eff6ff); border-color:#93c5fd; }
+    .c-orange { background:linear-gradient(135deg,#ffedd5,#fed7aa); border-color:#fdba74; }
+    .card-title { font-size:11.5px; font-weight:600; color:#1e293b; line-height:1.4; }
+    .card-icon { font-size:18px; }
     .pin { position:absolute; top:5px; right:7px; font-size:11px; }
-    .badge-new { position:absolute; top:5px; left:6px; background:#dc2626; color:#fff; font-size:10px; font-weight:700; padding:1px 4px; border-radius:3px; animation:blink 1.5s infinite; }
+    .badge-new { position:absolute; top:5px; left:6px; background:#dc2626; color:#fff; font-size:9px; font-weight:700; padding:2px 5px; border-radius:3px; animation:blink 1.5s infinite; letter-spacing:0.3px; }
 
-    /* WHATSAPP BUTTON */
-    .wa-btn { display:inline-flex; align-items:center; gap:6px; background:#16a34a; color:white; font-size:13px; font-weight:600; padding:9px 20px; border-radius:50px; text-decoration:none; margin:8px 0 10px; }
-    .wa-btn:hover { background:#15803d; }
+    /* ═══ WHATSAPP BUTTON ═══ */
+    .wa-btn { display:inline-flex; align-items:center; gap:8px; background:linear-gradient(135deg,#16a34a,#15803d); color:white; font-size:13px; font-weight:600; padding:10px 22px; border-radius:50px; text-decoration:none; box-shadow:0 4px 12px rgba(22,163,74,0.3); transition:transform .2s, box-shadow .2s; }
+    .wa-btn:hover { transform:translateY(-1px); box-shadow:0 6px 18px rgba(22,163,74,0.4); }
 
-    /* 3 COLUMN CONTENT */
-    .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; margin-bottom:12px; }
-    .col-box { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; }
-    .col-head { background:#1a56db; color:white; font-size:13px; font-weight:600; padding:9px 14px; }
+    /* ═══ 3 COLUMN CONTENT ═══ */
+    .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:14px; margin-bottom:14px; }
+    .col-box { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,0.04); transition:box-shadow .2s, transform .2s; }
+    .col-box:hover { box-shadow:0 4px 16px rgba(26,86,219,0.1); transform:translateY(-1px); }
+    .col-head { color:white; font-size:13px; font-weight:600; padding:10px 14px; display:flex; align-items:center; gap:7px; letter-spacing:0.2px; }
+    .col-head-jobs    { background:linear-gradient(90deg,#1a56db,#2563eb); }
+    .col-head-edu     { background:linear-gradient(90deg,#0891b2,#0e7490); }
+    .col-head-schemes { background:linear-gradient(90deg,#16a34a,#15803d); }
     .col-body { padding:4px 0; }
-    .col-item { padding:7px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:5px; }
+    .col-item { padding:8px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:7px; transition:background .15s; }
     .col-item:last-child { border-bottom:none; }
-    .col-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; flex:1; }
+    .col-item:hover { background:#f8fafc; }
+    .col-item > div { flex:1; min-width:0; }
+    .col-item a { font-size:12.5px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; display:block; overflow:hidden; text-overflow:ellipsis; }
     .col-item a:hover { color:#dc2626; text-decoration:underline; }
+    .col-item .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; display:block; }
     .col-item .it-date { font-size:10px; color:#94a3b8; white-space:nowrap; }
-    .pin-icon { font-size:11px; flex-shrink:0; margin-top:1px; }
+    .pin-icon { font-size:11px; flex-shrink:0; margin-top:3px; }
 
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
 
-    /* LATEST RESULTS SECTION */
-    .result-section { background:white; border-radius:10px; border:1px solid #e2e8f0; overflow:hidden; margin-bottom:12px; }
-    .result-head { background:linear-gradient(135deg,#dc2626,#b91c1c); color:white; font-size:13px; font-weight:600; padding:9px 14px; display:flex; align-items:center; justify-content:space-between; }
-    .result-head a { color:rgba(255,255,255,0.85); font-size:11px; font-weight:500; text-decoration:none; }
-    .result-head a:hover { color:white; text-decoration:underline; }
+    /* ═══ RESULTS SECTION ═══ */
+    .result-section { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; margin-bottom:14px; box-shadow:0 1px 4px rgba(0,0,0,0.04); }
+    .result-head { background:linear-gradient(135deg,#dc2626,#b91c1c); color:white; font-size:13px; font-weight:600; padding:10px 16px; display:flex; align-items:center; justify-content:space-between; }
+    .result-head a { color:rgba(255,255,255,0.85); font-size:11px; font-weight:500; text-decoration:none; background:rgba(255,255,255,0.15); padding:3px 10px; border-radius:50px; }
+    .result-head a:hover { background:rgba(255,255,255,0.25); color:white; }
     .result-grid { display:grid; grid-template-columns:1fr 1fr; }
     .result-col { border-right:1px solid #f1f5f9; }
     .result-col:last-child { border-right:none; }
-    .result-col-head { background:#fff5f5; color:#dc2626; font-size:11px; font-weight:700; padding:7px 14px; border-bottom:1px solid #fee2e2; letter-spacing:0.5px; }
-    .result-item { padding:7px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:5px; }
+    .result-col-head { background:#fff5f5; color:#dc2626; font-size:11px; font-weight:700; padding:7px 14px; border-bottom:1px solid #fee2e2; letter-spacing:0.4px; }
+    .result-item { padding:8px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:6px; transition:background .15s; }
     .result-item:last-child { border-bottom:none; }
-    .result-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; flex:1; }
+    .result-item:hover { background:#fff5f5; }
+    .result-item > div { flex:1; min-width:0; }
+    .result-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; display:block; }
     .result-item a:hover { color:#dc2626; text-decoration:underline; }
-    .result-status { font-size:9px; font-weight:700; padding:2px 6px; border-radius:4px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .result-status { font-size:9px; font-weight:700; padding:2px 6px; border-radius:4px; white-space:nowrap; flex-shrink:0; margin-top:2px; }
     .status-out  { background:#dcfce7; color:#16a34a; }
     .status-soon { background:#fef9c3; color:#b45309; }
     .status-live { background:#fee2e2; color:#dc2626; animation:blink 1.5s infinite; }
     @media(max-width:600px) { .result-grid { grid-template-columns:1fr; } .result-col { border-right:none; border-bottom:1px solid #f1f5f9; } .result-col:last-child { border-bottom:none; } }
 
-    /* MOBILE */
+    /* ═══ MOBILE ═══ */
     @media(max-width:900px) {
       .page-wrapper { grid-template-columns:1fr; padding:8px; }
       .sidebar { display:none; }
-      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:6px; }
+      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:8px; }
       .three-col { grid-template-columns:1fr; }
       .col-box { margin-bottom:0; }
     }
     @media(max-width:480px) {
-      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:5px; }
-      .job-card { min-height:55px; padding:8px 6px; }
+      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:6px; }
+      .job-card { min-height:60px; padding:10px 8px; }
       .card-title { font-size:11px; }
       .top-bar { font-size:11px; padding:4px 10px; flex-direction:column; gap:2px; text-align:center; }
       .header-inner { padding:6px 12px; }
       .nav-link { font-size:12px; padding:7px 10px; }
-      .wa-btn { font-size:12px; padding:8px 14px; }
-    }
-    @media(max-width:500px) {
-      .cards-grid-top { grid-template-columns:repeat(2,1fr); }
+      .wa-btn { font-size:12px; padding:8px 16px; }
     }
 
-    /* ===== NEWS TICKER ===== */
-    .news-ticker-wrap {
-      background: #0f172a;
-      border-bottom: 2px solid #1a56db;
-      display: flex;
-      align-items: center;
-      height: 36px;
-      overflow: hidden;
-      position: relative;
-      z-index: 100;
-    }
-    .ticker-label {
-      background: #dc2626;
-      color: white;
-      font-size: 11px;
-      font-weight: 800;
-      padding: 0 14px;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-      white-space: nowrap;
-      flex-shrink: 0;
-      letter-spacing: 0.5px;
-      z-index: 2;
-    }
-    .ticker-live-dot {
-      width: 7px; height: 7px;
-      background: white;
-      border-radius: 50%;
-      animation: ticker-blink 1s infinite;
-    }
+    /* ═══ NEWS TICKER ═══ */
+    .news-ticker-wrap { background:#0f172a; border-bottom:2px solid #1a56db; display:flex; align-items:center; height:36px; overflow:hidden; position:relative; z-index:100; }
+    .ticker-label { background:#dc2626; color:white; font-size:11px; font-weight:800; padding:0 14px; height:100%; display:flex; align-items:center; gap:5px; white-space:nowrap; flex-shrink:0; letter-spacing:0.5px; z-index:2; }
+    .ticker-live-dot { width:7px; height:7px; background:white; border-radius:50%; animation:ticker-blink 1s infinite; }
     @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
-    .ticker-track {
-      display: flex;
-      align-items: center;
-      height: 100%;
-      overflow: hidden;
-      flex: 1;
-    }
-    .ticker-inner {
-      display: flex;
-      align-items: center;
-      gap: 0;
-      white-space: nowrap;
-      animation: ticker-scroll 60s linear infinite;
-    }
-    .ticker-inner:hover { animation-play-state: paused; }
-    @keyframes ticker-scroll {
-      0%   { transform: translateX(100vw); }
-      100% { transform: translateX(-100%); }
-    }
-    .ticker-item {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 0 20px;
-      font-size: 12px;
-      color: #e2e8f0;
-      text-decoration: none;
-      border-right: 1px solid #334155;
-      height: 100%;
-      transition: color .2s;
-    }
-    .ticker-item:hover { color: #60a5fa; }
-    .ticker-item .t-icon { font-size: 13px; }
-    .ticker-sep { color: #1a56db; font-size: 16px; font-weight: 700; padding: 0 4px; }
-    .ticker-loading { color: #64748b; font-size: 12px; padding: 0 16px; }
-    @media(max-width:600px) {
-      .ticker-label { font-size: 10px; padding: 0 8px; }
-      .ticker-item { font-size: 11px; padding: 0 14px; }
-    }
+    .ticker-track { display:flex; align-items:center; height:100%; overflow:hidden; flex:1; }
+    .ticker-inner { display:flex; align-items:center; gap:0; white-space:nowrap; animation:ticker-scroll 60s linear infinite; }
+    .ticker-inner:hover { animation-play-state:paused; }
+    @keyframes ticker-scroll { 0%{transform:translateX(100vw)} 100%{transform:translateX(-100%)} }
+    .ticker-item { display:inline-flex; align-items:center; gap:8px; padding:0 20px; font-size:12px; color:#e2e8f0; text-decoration:none; border-right:1px solid #334155; height:100%; transition:color .2s; }
+    .ticker-item:hover { color:#60a5fa; }
+    .ticker-item .t-icon { font-size:13px; }
+    .ticker-sep { color:#1a56db; font-size:16px; font-weight:700; padding:0 4px; }
+    .ticker-loading { color:#64748b; font-size:12px; padding:0 16px; }
+    @media(max-width:600px) { .ticker-label { font-size:10px; padding:0 8px; } .ticker-item { font-size:11px; padding:0 14px; } }
   </style>
+  <!-- Google Analytics -->
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
@@ -336,10 +293,10 @@
       <div class="sidebar-box">
         <div class="sb-head">📌 Recommended</div>
         <div class="sb-body">
-          <div class="sb-post"><a href="pages/job-detail.html?id=ssb-paramedical-2026">SSB Head Constable & ASI Paramedical Staff Vacancy 2026</a><div class="sb-date">📅 21 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Rajasthan Teacher</a><div class="sb-date">📅 20 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=pm-kisan">PM Kisan Samman Nidhi 22vi Kisht</a><div class="sb-date">📅 18 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=ladli-behna">Ladli Behna Yojana 34vi Kisht</a><div class="sb-date">📅 10 Mar 2026</div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=ssb-paramedical-2026">SSB Head Constable & ASI Paramedical Staff Vacancy 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Rajasthan Teacher</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=pm-kisan">PM Kisan Samman Nidhi 22vi Kisht</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=ladli-behna">Ladli Behna Yojana 34vi Kisht</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
         </div>
       </div>
 
@@ -347,15 +304,14 @@
       <div class="sidebar-box">
         <div class="sb-head">🔥 Latest Update</div>
         <div class="sb-body">
-          <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=uppsc-lt-grade-admit-2026">UPPSC LT Grade Admit Card 2026</a><div class="sb-date">📅 26 Mar 2026</div></div>
-          <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=ctet-feb-result-2026">CTET February Result 2026</a><div class="sb-date">📅 26 Mar 2026</div></div>
-          <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=mp-fsl-2026">MP FSL Recruitment 2026</a><div class="sb-date">📅 22 Mar 2026</div></div>
+          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City 2026</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
+          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=mp-fsl-2026">MP FSL Recruitment 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
           <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=bihar-board-2026">Bihar Board Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div>
           <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2</a><div class="sb-date">📅 22 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=upsssc-aso-2026">UPSSSC ASO Vacancy 2026</a><div class="sb-date">📅 21 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=ssb-si-2026">SSB SI Recruitment 2026</a><div class="sb-date">📅 21 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=ssb-hc-2026">SSB Head Constable 2026</a><div class="sb-date">📅 21 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=patwari-2026">Patwari Bharti 2026</a><div class="sb-date">📅 20 Mar 2026</div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=upsssc-aso-2026">UPSSSC ASO Vacancy 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=ssb-si-2026">SSB SI Recruitment 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=ssb-hc-2026">SSB Head Constable 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=patwari-2026">Patwari Bharti 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
         </div>
       </div>
 
@@ -366,12 +322,13 @@
 
       <!-- TOP CARDS -->
       <div class="cards-top">
+        <div class="cards-top-head">⚡ Quick Access — Popular Categories</div>
         <div class="cards-grid-top">
-          <a href="pages/job-detail.html?id=mp-rte-2026"      class="job-card c-pink"><span class="pin">📌</span><span class="card-title">MP RTE Admission 2026-27</span></a>
+          <a href="pages/job-detail.html?id=ssc-je-tier2-city-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">SSC JE Tier-II City 2026</span></a>
+          <a href="pages/job-detail.html?id=mp-rte-2026" class="job-card c-pink"><span class="pin">📌</span><span class="card-title">MP RTE Admission 2026-27</span></a>
           <a href="pages/job-detail.html?id=mpesb-forest-2026" class="job-card c-purple"><span class="pin">📌</span><span class="card-title">MPESB Forest Guard & Jail Prahari 2026</span></a>
           <a href="pages/job-detail.html?id=army-agniveer-2026" class="job-card c-yellow"><span class="pin">📌</span><span class="card-title">Indian Army Agniveer Rally 2026</span></a>
           <a href="pages/job-detail.html?id=mp-fsl-2026"       class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">MP FSL Recruitment 2026</span></a>
-          <a href="pages/job-detail.html?id=ctet-feb-result-2026" class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">CTET Feb Result 2026</span></a>
           <a href="pages/job-detail.html?id=bihar-board-2026"  class="job-card c-pink"><span class="badge-new">NEW</span><span class="card-title">Bihar Board 10th & 12th Result 2026</span></a>
           <a href="pages/job-detail.html?id=jee-mains-2026"    class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">JEE Mains 2026 Session 2 – Exam City</span></a>
           <a href="pages/job-detail.html?id=vahan-rc-2026"     class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Vahan RC Card Online Download</span></a>
@@ -406,8 +363,9 @@
 
         <!-- Latest Jobs -->
         <div class="col-box" id="latest-jobs">
-          <div class="col-head">💼 Latest Jobs</div>
+          <div class="col-head col-head-jobs">💼 Latest Jobs</div>
           <div class="col-body">
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City Details 2026 — Out</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bsnl-set-2026">BSNL Senior Executive Trainee 2026 – 120 Posts</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="#">MPESB Forest Guard & Field Guard Vacancy 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=army-agniveer-2026">Indian Army Agniveer Rally 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
@@ -425,10 +383,8 @@
 
         <!-- Education -->
         <div class="col-box" id="education">
-          <div class="col-head">📚 Education</div>
+          <div class="col-head col-head-edu">📚 Education</div>
           <div class="col-body">
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=uppsc-lt-grade-admit-2026">UPPSC LT Grade (Computer) Admit Card 2026</a><div class="sb-date">📅 26 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ctet-feb-result-2026">CTET February Result 2026 – Soon</a><div class="sb-date">📅 26 Mar 2026</div></div></div>
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=mp-rte-2026">MP RTE Admission 2026-27</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-board-2026">Bihar Board 10th & 12th Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2 – Exam City</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
@@ -446,7 +402,7 @@
 
         <!-- Schemes -->
         <div class="col-box" id="latest-schemes">
-          <div class="col-head">📋 Schemes</div>
+          <div class="col-head col-head-schemes">📋 Schemes</div>
           <div class="col-body">
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 – 34th Kisht</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht – Kab Aayegi?</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
@@ -539,10 +495,10 @@
         <div class="sb-head">💼 Latest Jobs Update</div>
         <div class="sb-body">
           <div class="sb-post"><span class="sb-new">NEW</span><a href="pages/job-detail.html?id=reet-2026">UPTET Online Form 2026</a><div class="sb-date">📅 21 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026</a><div class="sb-date">📅 20 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=ssb-constable-2026">SSB Constable Tradesman 2026</a><div class="sb-date">📅 20 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=mp-fsl-2026">MPPSC Scientific Officer 2026</a><div class="sb-date">📅 19 Mar 2026</div></div>
-          <div class="sb-post"><a href="pages/job-detail.html?id=patwari-2026">Patwari Bharti Rajasthan 2026</a><div class="sb-date">📅 18 Mar 2026</div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=ssb-constable-2026">SSB Constable Tradesman 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=mp-fsl-2026">MPPSC Scientific Officer 2026</a><div class="sb-date">📅 19 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=patwari-2026">Patwari Bharti Rajasthan 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
         </div>
       </div>
 
@@ -684,7 +640,6 @@
 
     // Static fallback news (shown if API fails)
     var fallbackNews = [
-      { title: 'UPPSC LT Grade Computer Admit Card 2026 — Available Now', link: 'pages/job-detail.html?id=uppsc-lt-grade-admit-2026' },
       { title: 'SSC GD Constable Bharti 2026 — Aavedan Shuru', link: 'pages/jobs.html' },
       { title: 'Railway Group D Vacancy 2026 — Notification Jari', link: 'pages/jobs.html' },
       { title: 'PM Kisan 22vi Kisht — Jald Aayegi', link: 'pages/schemes.html' },
