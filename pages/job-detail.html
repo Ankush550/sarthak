@@ -33,16 +33,6 @@
     .cat-badge { background:#eff6ff; color:#1a56db; font-size:11px; font-weight:600; padding:3px 10px; border-radius:50px; border:1px solid #bfdbfe; }
     .notif-box { background:#fefce8; border:1.5px solid #fde047; border-radius:8px; padding:10px 14px; font-size:12px; color:#713f12; margin-top:10px; }
 
-    /* JOB IMAGE BANNER */
-    .job-img-wrap { width:100%; height:200px; border-radius:10px; overflow:hidden; position:relative; margin-bottom:14px; background:#f1f5f9; }
-    .job-img-wrap img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .4s ease; }
-    .job-img-wrap:hover img { transform:scale(1.03); }
-    .job-img-overlay { position:absolute; bottom:0; left:0; right:0; background:linear-gradient(transparent, rgba(15,23,42,0.75)); padding:12px 16px 10px; }
-    .job-img-title { color:white; font-size:15px; font-weight:700; line-height:1.4; text-shadow:0 1px 3px rgba(0,0,0,0.4); }
-    .job-img-cat { color:rgba(255,255,255,0.85); font-size:11px; margin-top:3px; }
-    .job-img-placeholder { width:100%; height:100%; display:flex; align-items:center; justify-content:center; flex-direction:column; gap:8px; background:linear-gradient(135deg,#eff6ff,#dbeafe); }
-    .job-img-placeholder .ph-icon { font-size:48px; }
-    .job-img-placeholder .ph-text { font-size:12px; color:#64748b; }
 
     /* TABLES */
     table { width:100%; border-collapse:collapse; font-size:13px; }
@@ -218,114 +208,6 @@
     // data loaded below after all functions
     window.__jobId = jobId;
 
-    // ── IMAGE MAPPING ──────────────────────────────────────
-    // Unsplash free API — category se relevant image milti hai
-    // source.unsplash.com redirect hota hai — koi API key nahi chahiye
-    var imageKeywords = {
-      // Defence / Army
-      'army-agniveer-2026':          'indian+army+soldier',
-      'navy-agniveer-2026':          'indian+navy+ship',
-      'ssb-si-2026':                 'police+uniform+india',
-      'ssb-hc-2026':                 'police+india+constable',
-      'ssb-paramedical-2026':        'medical+hospital+india',
-      'ssb-constable-2026':          'security+guard+india',
-      // Railway
-      'rrb-alp-2026':                'indian+railway+train',
-      'rrс-wr-apprentice-2026':      'railway+workshop+india',
-      // SSC / Central Govt
-      'ssc-je-tier2-city-2026':      'civil+engineer+construction',
-      'ssc-chsl-2026':               'government+office+india',
-      'bsnl-set-2026':               'telecom+tower+india',
-      'nib-recruitment-2026':        'science+laboratory+research',
-      // State Govt / MP
-      'mpesb-forest-2026':           'forest+india+nature',
-      'mp-fsl-2026':                 'forensic+science+lab',
-      'mp-rte-2026':                 'school+children+india',
-      'mp-pension-2026':             'elderly+india+pension',
-      'mp-police-constable-2026':    'police+india+uniform',
-      // Rajasthan
-      'reet-2026':                   'teacher+classroom+india',
-      'patwari-2026':                'government+office+revenue',
-      'raj-board-2026':              'exam+students+india',
-      'raj-mobile-2026':             'mobile+phone+india',
-      'jan-aadhaar-2026':            'aadhaar+card+india',
-      'rpsc-2nd-grade-teacher-2026': 'teacher+india+school',
-      'rajasthan-police-constable-2026': 'police+rajasthan+india',
-      'rbse-10th-result-2026':       'exam+result+students',
-      'gaon-beti-2026':              'girl+student+india+scholarship',
-      // UP
-      'upsssc-aso-2026':             'statistics+data+government',
-      'upsssc-jtc-2026':             'teacher+india+classroom',
-      'up-board-2026':               'exam+board+students+india',
-      'up-police-constable-2026':    'police+uttar+pradesh',
-      // Bihar
-      'bihar-board-2026':            'exam+students+bihar',
-      'bseb-10th-result-2026':       'exam+result+board+india',
-      'bihar-iti-cat-2026':          'iti+technical+training',
-      // Education / Entrance
-      'jee-mains-2026':              'engineering+college+india',
-      'nta-neet-2026':               'medical+college+india+mbbs',
-      'hprca-math-teacher-admit-2026': 'teacher+himachal+india',
-      // Schemes / Yojana
-      'ladli-bahna-2026':            'women+empowerment+india',
-      'ladli-behna':                 'women+india+scheme',
-      'pm-kisan-2026':               'farmer+india+agriculture',
-      'pm-kisan':                    'farmer+india+crop',
-      'ayushman-2026':               'health+hospital+india',
-      'pm-ujjwala-2026':             'lpg+gas+cylinder+india',
-      'ration-card-2026':            'food+grains+india+ration',
-      'pm-svanidhi-2026':            'street+vendor+india+market',
-      'vahan-rc-2026':               'vehicle+registration+india',
-    };
-
-    function getJobImage(j) {
-      var kw = imageKeywords[j.id] || getCategoryKeyword(j.category, j.title);
-      var imgUrl = 'https://source.unsplash.com/800x300/?' + kw;
-      return \`<div class="job-img-wrap">
-        <img
-          src="\${imgUrl}"
-          alt="\${j.title}"
-          loading="lazy"
-          onerror="this.parentElement.innerHTML='<div class=\"job-img-placeholder\"><div class=\"ph-icon\">\${getCategoryEmoji(j.category)}</div><div class=\"ph-text\">\${j.category}</div></div>'"
-        />
-        <div class="job-img-overlay">
-          <div class="job-img-title">\${j.title}</div>
-          <div class="job-img-cat">\${j.category} &nbsp;|&nbsp; \${j.lastUpdate}</div>
-        </div>
-      </div>\`;
-    }
-
-    function getCategoryKeyword(category, title) {
-      var t = (category + ' ' + title).toLowerCase();
-      if (t.includes('army') || t.includes('defence') || t.includes('agniveer')) return 'indian+army+soldier';
-      if (t.includes('navy')) return 'indian+navy+warship';
-      if (t.includes('police') || t.includes('constable')) return 'police+india+uniform';
-      if (t.includes('railway') || t.includes('rrb')) return 'indian+railway+train';
-      if (t.includes('teacher') || t.includes('reet') || t.includes('tgt')) return 'teacher+classroom+india';
-      if (t.includes('engineer') || t.includes('je ')) return 'engineer+construction+india';
-      if (t.includes('forest') || t.includes('guard')) return 'forest+india+nature+green';
-      if (t.includes('medical') || t.includes('neet') || t.includes('paramedical')) return 'hospital+medical+india';
-      if (t.includes('result') || t.includes('board')) return 'exam+students+india';
-      if (t.includes('farmer') || t.includes('kisan')) return 'farmer+agriculture+india';
-      if (t.includes('women') || t.includes('mahila') || t.includes('behna')) return 'women+india+empowerment';
-      if (t.includes('scholarship') || t.includes('beti')) return 'girl+student+scholarship+india';
-      if (t.includes('admit') || t.includes('city')) return 'examination+hall+india';
-      if (t.includes('scheme') || t.includes('yojana')) return 'government+scheme+india';
-      return 'government+india+sarkari';
-    }
-
-    function getCategoryEmoji(cat) {
-      var c = (cat||'').toLowerCase();
-      if (c.includes('defence')) return '🪖';
-      if (c.includes('railway')) return '🚂';
-      if (c.includes('teacher')) return '📖';
-      if (c.includes('result')) return '📋';
-      if (c.includes('admit')) return '🎫';
-      if (c.includes('police')) return '👮';
-      if (c.includes('scheme') || c.includes('yojana')) return '🏛️';
-      return '📢';
-    }
-    // ───────────────────────────────────────────────────────
 
     function renderJob(j) {
       // Unique title per job
@@ -469,11 +351,7 @@
 
       document.getElementById('mainWrap').innerHTML = `
         <div class="detail-main">
-
-          <!-- JOB IMAGE BANNER -->
-          ${getJobImage(j)}
-
-          <!-- TITLE -->
+<!-- TITLE -->
           <div class="title-box">
             <span class="cat-badge">${j.category}</span>
             <h1 style="margin-top:8px;">${j.title}</h1>
