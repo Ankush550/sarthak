@@ -330,8 +330,35 @@
         "@type": "JobPosting",
         "title": j.title,
         "description": pageDesc,
-        "datePosted": j.lastUpdate,
-        "validThrough": (j.highlights?.applyDate ? (function(d){ try{ var p=d.split(' '); var months={'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}; return '2026-'+(months[p[1]]||'12')+'-'+(p[0].padStart(2,'0'))+'T23:59:59'; } catch(e){ return '2026-12-31T23:59:59'; } })(j.highlights.applyDate) : '2026-12-31T23:59:59'),
+        "datePosted": (function(){
+          try {
+            var lu = j.lastUpdate || '';
+            // Format "22/03/2026 | 12:05 PM"
+            var m = lu.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+            if (m) return m[3]+'-'+m[2]+'-'+m[1];
+            // Format "27 Mar 2026"
+            var months = {Jan:'01',Feb:'02',Mar:'03',Apr:'04',May:'05',Jun:'06',Jul:'07',Aug:'08',Sep:'09',Oct:'10',Nov:'11',Dec:'12'};
+            var m2 = lu.match(/(\d{1,2})\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})/i);
+            if (m2) return m2[3]+'-'+(months[m2[2].substring(0,3)]||'01')+'-'+m2[1].padStart(2,'0');
+          } catch(e){}
+          return '2026-03-28';
+        })(),
+        "validThrough": (function(){
+          try {
+            var d = j.highlights && j.highlights.applyDate ? j.highlights.applyDate : '';
+            // Format: "DD/MM/YYYY" e.g. "30/04/2026"
+            var m1 = d.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+            if (m1) return m1[3]+'-'+m1[2]+'-'+m1[1]+'T23:59:59';
+            // Format: "28 Feb to 30 Apr 2026" — take last date
+            var months = {Jan:'01',Feb:'02',Mar:'03',Apr:'04',May:'05',Jun:'06',Jul:'07',Aug:'08',Sep:'09',Oct:'10',Nov:'11',Dec:'12'};
+            var m2 = d.match(/(\d{1,2})\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})(?!.*\d)/i);
+            if (m2) return m2[3]+'-'+(months[m2[2]]||'12')+'-'+m2[1].padStart(2,'0')+'T23:59:59';
+            // Format: "April 2026" or "Apr 2026"
+            var m3 = d.match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{4})/i);
+            if (m3) return m3[2]+'-'+(months[m3[1].substring(0,3)]||'12')+'-30T23:59:59';
+          } catch(e){}
+          return '2026-12-31T23:59:59';
+        })(),
         "employmentType": "FULL_TIME",
         "hiringOrganization": {
           "@type": "Organization",
