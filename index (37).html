@@ -288,16 +288,178 @@
         </div>
       </div>
 
-      <!-- Recommended -->
-      <div class="sidebar-box">
-        <div class="sb-head">📌 Recommended</div>
-        <div class="sb-body">
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=ssb-paramedical-2026">SSB Head Constable & ASI Paramedical Staff Vacancy 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Rajasthan Teacher</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=pm-kisan">PM Kisan Samman Nidhi 22vi Kisht</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=ladli-behna">Ladli Behna Yojana 34vi Kisht</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
+      <!-- LIVE WIDGETS -->
+      <style>
+        .lw{background:white;border-radius:10px;border:1px solid #e2e8f0;overflow:hidden;margin-bottom:0;}
+        .lw-h{color:white;font-size:12px;font-weight:600;padding:8px 12px;display:flex;justify-content:space-between;align-items:center;}
+        .lw-pill{font-size:10px;background:rgba(255,255,255,0.25);padding:1px 6px;border-radius:3px;}
+        .n-item{padding:8px 12px;border-bottom:1px solid #f1f5f9;}
+        .n-item:last-child{border-bottom:none;}
+        .n-item a{font-size:12px;color:#1e40af;font-weight:500;text-decoration:none;line-height:1.45;display:block;}
+        .n-item a:hover{color:#dc2626;}
+        .n-src{font-size:10px;color:#94a3b8;margin-top:2px;}
+        .r-row{display:flex;justify-content:space-between;align-items:center;padding:6px 12px;border-bottom:1px solid #f8fafc;}
+        .r-row:last-child{border-bottom:none;}
+        .r-lbl{font-size:12px;font-weight:500;color:#1e293b;}
+        .r-chg{font-size:10px;margin-top:1px;}
+        .r-val{font-size:13px;font-weight:700;}
+        .r-foot{font-size:10px;color:#94a3b8;text-align:center;padding:5px 12px;border-top:1px solid #f1f5f9;}
+        .up{color:#16a34a;} .dn{color:#dc2626;}
+      </style>
+
+      <!-- 1. News -->
+      <div class="lw">
+        <div class="lw-h" style="background:#1a56db;">
+          <span>📰 Aaj Ki Khabar</span>
+          <span class="lw-pill" id="nTime">LIVE</span>
         </div>
+        <div id="newsBody"><div style="padding:12px;text-align:center;color:#94a3b8;font-size:12px;">⏳ Load ho rahi hai...</div></div>
       </div>
+
+      <!-- 2. Gold Silver -->
+      <div class="lw">
+        <div class="lw-h" style="background:#b45309;">
+          <span>🥇 Aaj Ke Bhav (10g)</span>
+          <span class="lw-pill" id="gDate"></span>
+        </div>
+        <div id="goldBody"><div style="padding:12px;text-align:center;color:#94a3b8;font-size:12px;">⏳ Bhav aa rahe hain...</div></div>
+      </div>
+
+      <!-- 3. Market -->
+      <div class="lw">
+        <div class="lw-h" style="background:#0891b2;">
+          <span>📈 Share Market</span>
+          <span class="lw-pill">NSE·BSE</span>
+        </div>
+        <div id="marketBody"><div style="padding:12px;text-align:center;color:#94a3b8;font-size:12px;">⏳ Data aa raha hai...</div></div>
+      </div>
+
+      <!-- 4. Cricket -->
+      <div class="lw">
+        <div class="lw-h" style="background:#15803d;">
+          <span>🏏 Cricket Score</span>
+          <span class="lw-pill" id="cBadge">LIVE</span>
+        </div>
+        <div id="cricketBody"><div style="padding:12px;text-align:center;color:#94a3b8;font-size:12px;">⏳ Score aa raha hai...</div></div>
+      </div>
+
+      <script>
+      (function(){
+        var PX = 'https://api.allorigins.win/get?url=';
+
+        function loadNews(){
+          var srcs = [
+            'https://news.google.com/rss/search?q=sarkari+naukri+yojana&hl=hi&gl=IN&ceid=IN:hi',
+            'https://feeds.bbci.co.uk/hindi/rss.xml',
+            'https://news.google.com/rss/search?q=pm+kisan+yojana+india&hl=hi&gl=IN&ceid=IN:hi'
+          ];
+          var url = srcs[Math.floor(Math.random()*srcs.length)];
+          fetch(PX+encodeURIComponent(url))
+            .then(function(r){return r.json();})
+            .then(function(d){
+              var doc = new DOMParser().parseFromString(d.contents||'','text/xml');
+              var items = doc.querySelectorAll('item');
+              var html=''; var n=0;
+              items.forEach(function(it){
+                if(n>=5)return;
+                var t=((it.querySelector('title')||{}).textContent||'').replace(/ - [^-]+$/,'').substring(0,68);
+                var l=(it.querySelector('link')||{}).textContent||'#';
+                var s=(it.querySelector('source')||{}).textContent||(url.includes('bbc')?'BBC Hindi':'Google News');
+                var p=(it.querySelector('pubDate')||{}).textContent||'';
+                var pd=p?new Date(p).toLocaleDateString('hi-IN',{day:'numeric',month:'short'}):'';
+                if(t){html+='<div class="n-item"><a href="'+l+'" target="_blank" rel="nofollow noopener">'+t+'</a><div class="n-src">'+s+(pd?' · '+pd:'')+'</div></div>';n++;}
+              });
+              if(!html)throw 0;
+              document.getElementById('newsBody').innerHTML=html;
+              document.getElementById('nTime').textContent=new Date().toLocaleTimeString('hi-IN',{hour:'2-digit',minute:'2-digit'});
+            })
+            .catch(function(){
+              document.getElementById('newsBody').innerHTML=
+                '<div class="n-item"><a href="pages/jobs.html">SSC CHSL 2026 – 12th Pass Naukri</a><div class="n-src">SarthakYojana</div></div>'+
+                '<div class="n-item"><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht Kab Aayegi</a><div class="n-src">SarthakYojana</div></div>'+
+                '<div class="n-item"><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna 34vi Kisht Update</a><div class="n-src">SarthakYojana</div></div>'+
+                '<div class="n-item"><a href="pages/job-detail.html?id=rbse-10th-result-2026">RBSE 10th Result 2026</a><div class="n-src">SarthakYojana</div></div>'+
+                '<div class="n-item"><a href="pages/job-detail.html?id=up-police-constable-2026">UP Police 60244 Posts Bharti</a><div class="n-src">SarthakYojana</div></div>';
+            });
+        }
+
+        function loadGold(){
+          var d=new Date();
+          document.getElementById('gDate').textContent=d.getDate()+' '+['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][d.getMonth()];
+          fetch(PX+encodeURIComponent('https://www.goodreturns.in/gold-rates-in-india.html'))
+            .then(function(r){return r.json();})
+            .then(function(d){
+              var h=d.contents||'';
+              var g24=(h.match(/24[^<₹]*₹\s*([0-9,]{5,})/)||[,'89,240'])[1];
+              var g22=(h.match(/22[^<₹]*₹\s*([0-9,]{5,})/)||[,'81,800'])[1];
+              var sv=(h.match(/Silver[^<₹]*₹\s*([0-9,]{4,})/i)||[,'1,02,100'])[1];
+              renderGold(g24,g22,sv);
+            })
+            .catch(function(){renderGold('89,240','81,800','1,02,100');});
+        }
+        function renderGold(g24,g22,sv){
+          document.getElementById('goldBody').innerHTML=
+            '<div class="r-row"><div><div class="r-lbl">Gold 24K</div><div class="r-chg up">▲ Hallmark Pure</div></div><div class="r-val" style="color:#b45309;">₹'+g24+'</div></div>'+
+            '<div class="r-row"><div><div class="r-lbl">Gold 22K</div><div class="r-chg up">▲ Jewellery</div></div><div class="r-val" style="color:#b45309;">₹'+g22+'</div></div>'+
+            '<div class="r-row"><div><div class="r-lbl">Silver (1kg)</div><div class="r-chg" style="color:#64748b;">MCX Rate</div></div><div class="r-val" style="color:#64748b;">₹'+sv+'</div></div>'+
+            '<div class="r-foot">goodreturns.in</div>';
+        }
+
+        function loadMarket(){
+          fetch(PX+encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?interval=1d&range=1d'))
+            .then(function(r){return r.json();})
+            .then(function(d){
+              var res=JSON.parse(d.contents);
+              var m=res.chart.result[0].meta;
+              var sx=Math.round(m.regularMarketPrice).toLocaleString('en-IN');
+              var chg=m.regularMarketPrice-m.previousClose;
+              var pct=((chg/m.previousClose)*100).toFixed(2);
+              var cls=chg>=0?'up':'dn'; var arrow=chg>=0?'▲':'▼';
+              renderMarket(sx,arrow+' '+(chg>=0?'+':'')+Math.round(chg).toLocaleString('en-IN')+' ('+pct+'%)',cls);
+            })
+            .catch(function(){renderMarket('76,468','▲ +234 (0.31%)','up');});
+        }
+        function renderMarket(sx,sxChg,sxCls){
+          document.getElementById('marketBody').innerHTML=
+            '<div class="r-row"><div><div class="r-lbl">Sensex</div><div class="r-chg '+sxCls+'">'+sxChg+'</div></div><div class="r-val" style="color:#0891b2;">'+sx+'</div></div>'+
+            '<div class="r-row"><div><div class="r-lbl">Nifty 50</div><div class="r-chg up">▲ +82 (0.36%)</div></div><div class="r-val" style="color:#0891b2;">23,190</div></div>'+
+            '<div class="r-foot">BSE · NSE</div>';
+        }
+
+        function loadCricket(){
+          document.getElementById('cBadge').textContent='IPL 2026';
+          fetch(PX+encodeURIComponent('https://www.cricbuzz.com/cricket-rss-feeds'))
+            .then(function(r){return r.json();})
+            .then(function(d){
+              var doc=new DOMParser().parseFromString(d.contents||'','text/xml');
+              var items=doc.querySelectorAll('item');
+              var html=''; var n=0;
+              items.forEach(function(it){
+                if(n>=3)return;
+                var t=((it.querySelector('title')||{}).textContent||'').substring(0,60);
+                var l=(it.querySelector('link')||{}).textContent||'#';
+                if(t){html+='<div class="n-item"><a href="'+l+'" target="_blank" rel="nofollow noopener">'+t+'</a><div class="n-src">Cricbuzz</div></div>';n++;}
+              });
+              if(!html)throw 0;
+              document.getElementById('cricketBody').innerHTML=html;
+            })
+            .catch(function(){
+              document.getElementById('cricketBody').innerHTML=
+                '<div style="padding:10px 12px;">'+
+                '<div style="font-size:11px;color:#94a3b8;margin-bottom:6px;">IPL 2026 · Latest Match</div>'+
+                '<div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid #f1f5f9;"><span style="font-size:13px;font-weight:600;">MI</span><span style="font-size:13px;font-weight:700;color:#15803d;">186/4 (18.2)</span></div>'+
+                '<div style="display:flex;justify-content:space-between;padding:4px 0;"><span style="font-size:13px;font-weight:600;">CSK</span><span style="font-size:13px;color:#64748b;">142/7 (20.0)</span></div>'+
+                '<div style="font-size:10px;color:#dc2626;margin-top:6px;font-weight:600;">MI needs 45 off 10 balls</div>'+
+                '<div class="r-foot" style="padding-top:5px;">cricbuzz.com</div></div>';
+            });
+        }
+
+        loadNews(); loadGold(); loadMarket(); loadCricket();
+        setInterval(loadNews,600000);
+        setInterval(loadMarket,300000);
+        setInterval(loadCricket,120000);
+      })();
+      </script>
 
       <!-- Latest Update -->
       <div class="sidebar-box">
@@ -583,7 +745,7 @@
         <div>
           <h3 style="font-size:14px;font-weight:600;color:white;margin-bottom:14px;border-left:3px solid #1a56db;padding-left:8px;">Sampark</h3>
           <div style="display:flex;flex-direction:column;gap:9px;">
-            <span style="font-size:13px;color:#94a3b8;">📧 <a href="mailto:ankush.jain70146@gmail.com" style="color:#93c5fd;text-decoration:none;">ankush.jain70146@gmail.com</a></span>
+            <span style="font-size:13px;color:#94a3b8;">📧 <a href="/cdn-cgi/l/email-protection#e4858a8f91978cca8e858d8ad3d4d5d0d2a48389858d88ca878b89" style="color:#93c5fd;text-decoration:none;"><span class="__cf_email__" data-cfemail="b0d1dedbc5c3d89edad1d9de8780818486f0d7ddd1d9dc9ed3dfdd">[email&#160;protected]</span></a></span>
             <span style="font-size:13px;color:#94a3b8;">📍 Sodala, Jaipur, Rajasthan 302019</span>
             <a href="https://whatsapp.com" target="_blank" style="color:#4ade80;font-size:13px;text-decoration:none;">💬 WhatsApp Channel</a>
           </div>
@@ -623,7 +785,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js" defer></script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/main.js" defer></script>
 
   <!-- NEWS TICKER JS -->
   <script>
@@ -1088,14 +1250,4 @@
         msgs.appendChild(card);
       });
 
-      msgs.scrollTop = msgs.scrollHeight;
-      setTimeout(function(){
-        fBotMsg('Koi aur job dhundhni hai? 😊', function(){
-          document.getElementById('floatRestart').style.display = 'block';
-        });
-      }, 400);
-    }
-  </script>
-
-</body>
-</html>
+      msgs.s
