@@ -376,6 +376,7 @@
             <div class="col-item"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
             <div class="col-item"><div><a href="pages/job-detail.html?id=nib-recruitment-2026">NIB Scientist &amp; Lab Technician 2026 – 46 Posts</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
           </div>
+        </div>
 
         <!-- Education -->
         <div class="col-box" id="education">
@@ -476,7 +477,7 @@
     </div>
   </footer>
 
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/main.js" defer></script>
+  <script src="assets/js/main.js" defer></script>
 
   <!-- NEWS TICKER JS -->
   <script>
@@ -697,7 +698,9 @@
             '<div class="sp-date">📅 ' + item.lastUpdate + '</div></div></a>';
         });
         document.getElementById('splashCards').innerHTML = html;
-      });tion closeSplash(){
+      });
+
+    function closeSplash(){
       var el = document.getElementById('splashScreen');
       el.style.animation = 'sp-fadeout 0.3s ease forwards';
       setTimeout(function(){ el.style.display='none'; }, 280);
