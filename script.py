@@ -3,35 +3,58 @@ import json
 import requests
 import subprocess
 
-BOT = os.environ['BOT_TOKEN']
-CID = os.environ['CHANNEL_ID']
+# 🔐 ENV variables
+BOT = os.environ.get('BOT_TOKEN')
+CID = os.environ.get('CHANNEL_ID')
 
-# 🔥 MASTER se latest jobs.json fetch karo
-subprocess.run(['git','fetch','origin','master'], check=True)
-subprocess.run(['git','checkout','origin/master','--','data/jobs.json'], check=True)
+if not BOT or not CID:
+    raise Exception("❌ BOT_TOKEN or CHANNEL_ID missing")
 
-# ✅ JSON load
+# 🔄 Latest jobs.json fetch from master
+subprocess.run(['git', 'fetch', 'origin', 'master'], check=True)
+subprocess.run(['git', 'checkout', 'origin/master', '--', 'data/jobs.json'], check=True)
+
+# 📂 Load JSON
 with open('data/jobs.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-# ✅ Last job
+# 🆕 Latest job
 a = data[-1]
 h = a.get('highlights', {})
 
-msg = f"""🔥 {a.get('title','')}
+title = a.get('title', 'No Title')
+vacancy = h.get('vacancy', '-')
+last_date = h.get('applyDate', '-')
+job_id = a.get('id', '')
 
-Vacancy: {h.get('vacancy','-')}
-Last Date: {h.get('applyDate','-')}
+link = f"https://sarthakyojana.in/pages/job-detail.html?id={job_id}"
 
-https://sarthakyojana.in/pages/job-detail.html?id={a.get('id','')}
+# ✨ Message format
+msg = f"""🚨 NEW JOB UPDATE 🚨
+
+📌 {title}
+
+📊 Vacancy: {vacancy}
+📅 Last Date: {last_date}
+
+👉 Apply Now:
+{link}
 """
 
+# 📡 Telegram API call
 url = f"https://api.telegram.org/bot{BOT}/sendMessage"
 
-res = requests.post(url, data={
+payload = {
     "chat_id": CID,
-    "text": msg
-})
+    "text": msg,
+    "disable_web_page_preview": False
+}
+
+res = requests.post(url, data=payload)
 
 print("STATUS:", res.status_code)
 print("RESPONSE:", res.text)
+
+# ❌ Error handling
+if res.status_code != 200:
+    raise Exception(f"Telegram API Error: {res.text}")
