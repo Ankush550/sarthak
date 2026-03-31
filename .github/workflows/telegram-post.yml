@@ -1,60 +1,32 @@
-import os
-import json
-import requests
-import subprocess
+name: Auto Telegram Post
 
-# 🔐 ENV variables
-BOT = os.environ.get('BOT_TOKEN')
-CID = os.environ.get('CHANNEL_ID')
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
 
-if not BOT or not CID:
-    raise Exception("❌ BOT_TOKEN or CHANNEL_ID missing")
+jobs:
+  telegram:
+    runs-on: ubuntu-latest
 
-# 🔄 Latest jobs.json fetch from master
-subprocess.run(['git', 'fetch', 'origin', 'master'], check=True)
-subprocess.run(['git', 'checkout', 'origin/master', '--', 'data/jobs.json'], check=True)
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-# 📂 Load JSON
-with open('data/jobs.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-# 🆕 Latest job
-a = data[-1]
-h = a.get('highlights', {})
+      - name: Install dependencies
+        run: pip install requests
 
-title = a.get('title', 'No Title')
-vacancy = h.get('vacancy', '-')
-last_date = h.get('applyDate', '-')
-job_id = a.get('id', '')
-
-link = f"https://sarthakyojana.in/pages/job-detail.html?id={job_id}"
-
-# ✨ Message format
-msg = f"""🚨 NEW JOB UPDATE 🚨
-
-📌 {title}
-
-📊 Vacancy: {vacancy}
-📅 Last Date: {last_date}
-
-👉 Apply Now:
-{link}
-"""
-
-# 📡 Telegram API call
-url = f"https://api.telegram.org/bot{BOT}/sendMessage"
-
-payload = {
-    "chat_id": CID,
-    "text": msg,
-    "disable_web_page_preview": False
-}
-
-res = requests.post(url, data=payload)
-
-print("STATUS:", res.status_code)
-print("RESPONSE:", res.text)
-
-# ❌ Error handling
-if res.status_code != 200:
-    raise Exception(f"Telegram API Error: {res.text}")
+      - name: Run Telegram Script
+        run: python3 script.py
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
