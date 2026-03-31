@@ -609,12 +609,12 @@
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:10px;">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
         <ins class="adsbygoogle"
-             style="display:block;width:100%;min-height:60px;"
+             style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="1122334455"
-             data-ad-format="auto"
+             data-ad-lazy="true" data-ad-format="auto"
              data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>
 
       <!-- WHATSAPP + SEARCH -->
@@ -632,9 +632,9 @@
            style="display:block;width:100%;min-height:90px;margin-bottom:12px;"
            data-ad-client="ca-pub-8602963796651751"
            data-ad-slot="3456789012"
-           data-ad-format="horizontal"
+           data-ad-lazy="true" data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
 
       <!-- 4 COLUMN CONTENT -->
@@ -701,12 +701,12 @@
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
         <ins class="adsbygoogle"
-             style="display:block;width:100%;min-height:60px;"
+             style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="5544332211"
-             data-ad-format="auto"
+             data-ad-lazy="true" data-ad-format="auto"
              data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>
 
       <!-- LATEST RESULTS -->
@@ -743,9 +743,9 @@
            style="display:block;width:100%;min-height:90px;margin-top:12px;"
            data-ad-client="ca-pub-8602963796651751"
            data-ad-slot="6789012345"
-           data-ad-format="horizontal"
+           data-ad-lazy="true" data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
     </main>
 
@@ -818,9 +818,9 @@
              style="display:block;width:100%;min-height:200px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="2345678901"
-             data-ad-format="rectangle"
+             data-ad-lazy="true" data-ad-format="rectangle"
              data-full-width-responsive="false"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>
 
     </aside>
@@ -1028,7 +1028,44 @@
     renderCA(items);
   }
 
-    // Load on page ready
+  
+  function renderCA(items) {
+    var bodyEl = document.getElementById('caBody');
+    if (!bodyEl) return;
+    var catColors = {
+      'Economy':'#dbeafe|#1d4ed8',
+      'Scheme':'#dcfce7|#15803d',
+      'Sports':'#ffedd5|#ea580c',
+      'Science':'#f3e8ff|#7c3aed',
+      'Defence':'#fee2e2|#dc2626',
+      'Politics':'#fef9c3|#b45309',
+      'General':'#f1f5f9|#475569'
+    };
+    var html = '';
+    items.forEach(function(item, i) {
+      var cc = (catColors[item.cat] || catColors['General']).split('|');
+      html += '<div class="ca-item" id="caItem' + i + '">' +
+        '<div style="display:flex;align-items:flex-start;gap:7px;">' +
+          '<span style="background:' + cc[0] + ';color:' + cc[1] + ';font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;white-space:nowrap;flex-shrink:0;margin-top:2px;">' + item.cat + '</span>' +
+          '<div class="ca-q">' + item.q + '</div>' +
+        '</div>' +
+        '<button class="ca-ans-btn" onclick="toggleCA(' + i + ')">Jawab Dekhen ▼</button>' +
+        '<div class="ca-ans" id="caAns' + i + '">✅ ' + item.a + '</div>' +
+      '</div>';
+    });
+    bodyEl.innerHTML = html;
+  }
+
+  function toggleCA(i) {
+    var ans = document.getElementById('caAns' + i);
+    var btn = ans && ans.previousElementSibling;
+    if (!ans) return;
+    var open = ans.style.display === 'block';
+    ans.style.display = open ? 'none' : 'block';
+    if (btn) btn.textContent = open ? 'Jawab Dekhen ▼' : 'Band Karein ▲';
+  }
+
+  // Load on page ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', loadCurrentAffairs);
   } else {
