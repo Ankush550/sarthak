@@ -878,7 +878,7 @@
         <div>
           <h3 style="font-size:14px;font-weight:600;color:white;margin-bottom:14px;border-left:3px solid #1a56db;padding-left:8px;">Sampark</h3>
           <div style="display:flex;flex-direction:column;gap:9px;">
-            <span style="font-size:13px;color:#94a3b8;">📧 <a href="/cdn-cgi/l/email-protection#3a5b54514f495214505b53540d0a0b0e0c7a5d575b535614595557" style="color:#93c5fd;text-decoration:none;"><span class="__cf_email__" data-cfemail="4726292c32342f692d262e29707776737107202a262e2b6924282a">[email&#160;protected]</span></a></span>
+            <span style="font-size:13px;color:#94a3b8;">📧 <a href="mailto:ankush.jain70146@gmail.com" style="color:#93c5fd;text-decoration:none;">ankush.jain70146@gmail.com</a></span>
             <span style="font-size:13px;color:#94a3b8;">📍 Sodala, Jaipur, Rajasthan 302019</span>
             <a href="https://whatsapp.com" target="_blank" style="color:#4ade80;font-size:13px;text-decoration:none;">💬 WhatsApp Channel</a>
           </div>
@@ -909,7 +909,7 @@
     </div>
   </footer>
 
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+<script>
     // Auto date update
     (function(){
       var days = ['रविवार','सोमवार','मंगलवार','बुधवार','गुरुवार','शुक्रवार','शनिवार'];
@@ -946,103 +946,89 @@
     var today = new Date();
     var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
     var todayStr = today.getDate() + ' ' + months[today.getMonth()] + ' ' + today.getFullYear();
-    document.getElementById('caDateBadge').textContent = todayStr;
+    var badge = document.getElementById('caDateBadge');
+    if(badge) badge.textContent = todayStr;
 
     var bodyEl = document.getElementById('caBody');
     if (!bodyEl) return;
 
-    // Check sessionStorage cache
     var cacheKey = 'ca_' + today.toDateString();
     var cached = sessionStorage.getItem(cacheKey);
     if (cached) {
-      try {
-        renderCA(JSON.parse(cached));
-        return;
-      } catch(e) {}
+      try { renderCA(JSON.parse(cached)); return; } catch(e) {}
     }
 
-    bodyEl.innerHTML = '<div class="ca-loading"><div class="ca-spinner"></div><div style="font-size:11px;color:#94a3b8;">AI se taza GK la raha hoon...</div></div>';
-
     var refreshBtn = document.querySelector('.ca-refresh');
-    if(refreshBtn) { refreshBtn.style.animation='spin 0.8s linear infinite'; }
+    if(refreshBtn) refreshBtn.style.transform = 'rotate(360deg)';
+    setTimeout(function(){ if(refreshBtn) refreshBtn.style.transform = ''; }, 400);
 
-    var prompt = 'Generate 8 India current affairs GK questions for ' + todayStr + ' covering politics, economy, sports, science, schemes. Format as JSON array only, no extra text: [{"q":"Question here?","a":"Answer here","cat":"Politics/Economy/Sports/Science/Scheme"}]. Mix categories. Keep questions short (max 15 words). Answers short (max 10 words). Focus on India 2025-2026.';
+    // Day-based rotation — 7 different sets
+    var dayIdx = today.getDay();
+    var allGK = [
+      [{q:"India ka sabse bada PSU bank?", a:"State Bank of India (SBI)", cat:"Economy"},
+       {q:"2025-26 ka Union Budget kitne ka?", a:"₹50.65 lakh crore", cat:"Economy"},
+       {q:"RBI ke naye Governor 2025?", a:"Sanjay Malhotra", cat:"Economy"},
+       {q:"GST India mein kab lagu hua?", a:"1 July 2017", cat:"Economy"},
+       {q:"Mudra Yojana max loan kitna?", a:"₹10 lakh (Tarun category)", cat:"Scheme"},
+       {q:"PM Kisan mein saal mein kitna milta hai?", a:"₹6000 teen kiston mein", cat:"Scheme"},
+       {q:"Ayushman Bharat mein health cover kitna?", a:"₹5 lakh per family/year", cat:"Scheme"},
+       {q:"SEBI ka full form kya hai?", a:"Securities & Exchange Board of India", cat:"Economy"}],
+      [{q:"Ladli Bahna Yojana konse state mein?", a:"Madhya Pradesh (MP)", cat:"Scheme"},
+       {q:"PM Ujjwala Yojana kab shuru hui?", a:"1 May 2016", cat:"Scheme"},
+       {q:"Atal Pension Yojana max pension?", a:"₹5000 per month", cat:"Scheme"},
+       {q:"Jan Dhan Yojana overdraft facility?", a:"₹10,000 tak", cat:"Scheme"},
+       {q:"PM Fasal Bima min premium kharif mein?", a:"2% of sum insured", cat:"Scheme"},
+       {q:"SVANidhi mein pehla loan kitna?", a:"₹10,000", cat:"Scheme"},
+       {q:"Agniveer scheme kitne saal ki service?", a:"4 saal", cat:"Defence"},
+       {q:"India ka defence budget 2025-26?", a:"₹6.81 lakh crore", cat:"Defence"}],
+      [{q:"ISRO ka pehla solar mission?", a:"Aditya-L1 (September 2023)", cat:"Science"},
+       {q:"Chandrayaan-3 landing kab hua?", a:"23 August 2023", cat:"Science"},
+       {q:"5G India mein kab launch hua?", a:"October 2022", cat:"Science"},
+       {q:"UPI kitne countries mein available?", a:"7+ countries mein", cat:"Science"},
+       {q:"INS Vikrant kab commissioned?", a:"2 September 2022", cat:"Defence"},
+       {q:"India ka pehla private rocket?", a:"Skyroot Aerospace - Vikram-S", cat:"Science"},
+       {q:"Paris Olympics 2024 India ka result?", a:"6 medals (1 Silver, 5 Bronze)", cat:"Sports"},
+       {q:"Neeraj Chopra ne Olympic gold kab jeeta?", a:"Tokyo 2020 (2021 mein)", cat:"Sports"}],
+      [{q:"India ke rashtrapati 2022 se?", a:"Draupadi Murmu", cat:"Politics"},
+       {q:"Rajya Sabha mein max seats?", a:"250 seats (238+12)", cat:"Politics"},
+       {q:"India ke Chief Justice 2024?", a:"Justice Sanjiv Khanna", cat:"Politics"},
+       {q:"CAG ka full form?", a:"Comptroller & Auditor General", cat:"Politics"},
+       {q:"India ka pehla general election?", a:"1951-52 mein", cat:"Politics"},
+       {q:"Fundamental Rights konse articles mein?", a:"Article 12 se 35 tak", cat:"Politics"},
+       {q:"Panchayati Raj kis article ke tahat?", a:"Article 243", cat:"Politics"},
+       {q:"India ka 75th Independence Day?", a:"15 August 2022", cat:"Politics"}],
+      [{q:"Bharat Ratna 2024 mein kishe mila?", a:"LK Advani, MS Swaminathan", cat:"General"},
+       {q:"Nobel Peace Prize 2023?", a:"Narges Mohammadi (Iran)", cat:"General"},
+       {q:"Dronacharya Award kis ke liye?", a:"Outstanding Sports Coaches", cat:"Sports"},
+       {q:"India ka highest peak?", a:"Kangchenjunga (8,586m)", cat:"General"},
+       {q:"Project Tiger kab shuru hua?", a:"1973 mein Jim Corbett se", cat:"General"},
+       {q:"India ke UNESCO Heritage Sites?", a:"42 sites (2023 tak)", cat:"General"},
+       {q:"National Green Tribunal kab bana?", a:"2010 mein", cat:"General"},
+       {q:"Tiger Reserves India mein kitne?", a:"55 Tiger Reserves (2025)", cat:"General"}],
+      [{q:"India ka GDP growth rate 2025-26?", a:"6.4% (IMF estimate)", cat:"Economy"},
+       {q:"India ka sabse bada stock exchange?", a:"BSE (Bombay Stock Exchange)", cat:"Economy"},
+       {q:"RBI repo rate 2025 mein?", a:"6.25% (Feb 2025 cut)", cat:"Economy"},
+       {q:"India mein UPI transactions 2024?", a:"17,000+ crore monthly", cat:"Economy"},
+       {q:"Digital India kab launch hua?", a:"1 July 2015", cat:"Science"},
+       {q:"India ka IT exports 2024 mein?", a:"$254 billion+", cat:"Economy"},
+       {q:"Startup India kab launch hua?", a:"16 January 2016", cat:"Economy"},
+       {q:"Make in India kab shuru hua?", a:"25 September 2014", cat:"Economy"}],
+      [{q:"ICC Cricket World Cup 2023 winner?", a:"Australia", cat:"Sports"},
+       {q:"BCCI headquarters kahan hai?", a:"Mumbai (BCA Complex)", cat:"Sports"},
+       {q:"India ne T20 World Cup 2024 jeeta?", a:"Haan, June 2024 mein", cat:"Sports"},
+       {q:"Rohit Sharma ki test centuries?", a:"12 test centuries", cat:"Sports"},
+       {q:"Sunil Chhetri ne retirement kab li?", a:"June 2024 mein", cat:"Sports"},
+       {q:"India ka Chess World Champion 2024?", a:"D. Gukesh (youngest ever)", cat:"Sports"},
+       {q:"ISSF World Cup 2024 mein India medals?", a:"Multiple gold medals", cat:"Sports"},
+       {q:"India ka Davis Cup win last?", a:"1966 mein jeeta tha", cat:"Sports"}],
+    ];
 
-    fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        messages: [{ role: 'user', content: prompt }]
-      })
-    })
-    .then(function(r){ return r.json(); })
-    .then(function(data) {
-      if(refreshBtn) refreshBtn.style.animation='';
-      var text = (data.content && data.content[0] && data.content[0].text) || '';
-      // Clean JSON
-      var jsonMatch = text.match(/\[[\s\S]*\]/);
-      if (!jsonMatch) throw new Error('No JSON');
-      var items = JSON.parse(jsonMatch[0]);
-      sessionStorage.setItem(cacheKey, JSON.stringify(items));
-      renderCA(items);
-    })
-    .catch(function() {
-      if(refreshBtn) refreshBtn.style.animation='';
-      // Fallback static GK
-      var fallback = [
-        {q:"India ka sabse bada PSU bank konsa hai?", a:"State Bank of India (SBI)", cat:"Economy"},
-        {q:"PM Kisan mein saal mein kitni raqam milti hai?", a:"₹6000 (3 kiston mein)", cat:"Scheme"},
-        {q:"2026 mein India ka Budget kitna tha?", a:"₹50.65 lakh crore", cat:"Economy"},
-        {q:"Ladli Bahna Yojana konse state mein hai?", a:"Madhya Pradesh (MP)", cat:"Scheme"},
-        {q:"ISRO ka pehla solar mission kya tha?", a:"Aditya-L1 (2023)", cat:"Science"},
-        {q:"2026 mein India ka Defence Budget kitna?", a:"₹6.81 lakh crore", cat:"Defence"},
-        {q:"RBI ke naye Governor kaun hain 2025 mein?", a:"Sanjay Malhotra", cat:"Economy"},
-        {q:"Agniveer scheme kitne saal ki service deti hai?", a:"4 saal ki service", cat:"Defence"},
-      ];
-      renderCA(fallback);
-    });
+    var items = allGK[dayIdx % 7].sort(function(){ return Math.random() - 0.48; });
+    sessionStorage.setItem(cacheKey, JSON.stringify(items));
+    renderCA(items);
   }
 
-  function renderCA(items) {
-    var bodyEl = document.getElementById('caBody');
-    if (!bodyEl) return;
-    var catColors = {
-      'Economy':'#dbeafe:#1d4ed8',
-      'Scheme':'#dcfce7:#15803d',
-      'Sports':'#ffedd5:#ea580c',
-      'Science':'#f3e8ff:#7c3aed',
-      'Defence':'#fee2e2:#dc2626',
-      'Politics':'#fef9c3:#b45309',
-      'General':'#f1f5f9:#475569'
-    };
-
-    var html = '';
-    items.forEach(function(item, i) {
-      var cc = (catColors[item.cat] || catColors['General']).split(':');
-      html += '<div class="ca-item" id="caItem'+i+'">' +
-        '<div style="display:flex;align-items:flex-start;gap:7px;">' +
-          '<span style="background:'+cc[0]+';color:'+cc[1]+';font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;white-space:nowrap;flex-shrink:0;margin-top:2px;">'+item.cat+'</span>' +
-          '<div class="ca-q">'+item.q+'</div>' +
-        '</div>' +
-        '<button class="ca-ans-btn" onclick="toggleCA('+i+')">Jawab Dekhen ▼</button>' +
-        '<div class="ca-ans" id="caAns'+i+'">✅ '+item.a+'</div>' +
-      '</div>';
-    });
-    bodyEl.innerHTML = html;
-  }
-
-  function toggleCA(i) {
-    var ans = document.getElementById('caAns'+i);
-    var btn = ans && ans.previousElementSibling;
-    if (!ans) return;
-    var open = ans.style.display === 'block';
-    ans.style.display = open ? 'none' : 'block';
-    if(btn) btn.textContent = open ? 'Jawab Dekhen ▼' : 'Band Karein ▲';
-  }
-
-  // Load on page ready
+    // Load on page ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', loadCurrentAffairs);
   } else {

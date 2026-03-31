@@ -1,4 +1,34 @@
-User-agent: *
+# SarthakYojana.in - robots.txt
+# Allow all major search engine crawlers
+
+User-agent: Googlebot
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# CRITICAL: Allow Google AdSense crawler - ads nahi chalenge bina iske
+User-agent: Mediapartners-Google
+Allow: /
+
+# Allow Google AdsBot for ad quality checks
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+# Allow Bing crawler
+User-agent: bingbot
+Allow: /
+
+# Allow all other crawlers
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+# Sitemap location
 Sitemap: https://sarthakyojana.in/sitemap.xml
