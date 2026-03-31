@@ -1,36 +1,3 @@
-
-  <!-- NEWS TICKER JS -->
-  <script>
-  (function() {
-    var fallbackNews = [
-      { title: 'Punjab & Sind Bank 1000 LBO Posts 2026 — Apply by 20 April', link: 'pages/job-detail.html?id=psb-lbo-2026' },
-      { title: 'SSF Constable Barber Washerman 2026 — 10 Posts Apply', link: 'pages/job-detail.html?id=ssf-constable-2026' },
-      { title: 'NIC Scientist B 2026 — 243 Posts GATE Required', link: 'pages/job-detail.html?id=nic-scientist-b-2026' },
-      { title: 'SAI Assistant Coach 2026 — 323 Posts 26 Sports', link: 'pages/job-detail.html?id=sai-assistant-coach-2026' },
-      { title: 'Pune Police Constable Result 2026 — Merit List Out', link: 'pages/job-detail.html?id=pune-police-constable-result-2026' },
-      { title: 'ISRO URSC Scientist 2026 — 12 April Last Date', link: 'pages/job-detail.html?id=isro-ursc-2026' },
-      { title: 'Bank of Baroda 104 WMS Posts — Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
-      { title: 'RPSC School Lecturer Result 2026 — Maths & Sanskrit Out', link: 'pages/job-detail.html?id=rpsc-lecturer-result-2026' },
-      { title: 'PNB Apprentice Result 2026 — Provisional List Out', link: 'pages/job-detail.html?id=pnb-apprentice-result-2026' },
-      { title: 'DDA Mali Result 2026 — Select List Download', link: 'pages/job-detail.html?id=dda-mali-result-2026' },
-      { title: 'RRB ALP 2026 — 9000+ Posts Notification', link: 'pages/job-detail.html?id=rrb-alp-2026' },
-      { title: 'Navy Apprentice 2026 — 240 Posts ITI Apply', link: 'pages/job-detail.html?id=nsry-apprentice-2026' },
-    ];
-    function loadTicker(items) {
-      var inner = document.getElementById('tickerInner');
-      if (!inner) return;
-      var html = '';
-      items.forEach(function(item) {
-        html += '<a href="' + item.link + '" class="ticker-item">' + item.title + '</a>';
-      });
-      inner.innerHTML = html;
-      inner.style.animation = 'none';
-      inner.offsetHeight;
-      inner.style.animation = '';
-    }
-    document.addEventListener('DOMContentLoaded', function() { loadTicker(fallbackNews); });
-  })();
-  </script>
 <!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -45,8 +12,8 @@
   <meta name="author" content="SarthakYojana.in">
   <link rel="canonical" href="https://sarthakyojana.in/">
   <!-- Open Graph -->
-  <meta property="og:title" content="SarthakYojana.in – Sarkari Naukri, Yojana &amp; Results 2026">>
-  <meta property="og:description" content="SarthakYojana.in – Latest sarkari naukri 2026, Punjab Sind Bank 1000 LBO posts, government schemes, board results aur admit card ki puri jaankari Hindi mein. PM Kisan, Ladli Bahna, RBSE, SSC, Railway – sabhi updates.">>
+  <meta property="og:title" content="SarthakYojana.in – Sarkari Naukri, Yojana &amp; Results 2026">
+  <meta property="og:description" content="SarthakYojana.in – Latest sarkari naukri 2026, Punjab Sind Bank 1000 LBO posts, government schemes, board results aur admit card ki puri jaankari Hindi mein. PM Kisan, Ladli Bahna, RBSE, SSC, Railway – sabhi updates.">
   <meta property="og:url" content="https://sarthakyojana.in/">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://sarthakyojana.in/assets/images/og-banner.jpg">
@@ -113,38 +80,159 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
     /* ═══ PAGE LAYOUT ═══ */
-    .page-wrapper { max-width:1200px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:1fr 260px; gap:14px; }
+    .page-wrapper { max-width:1340px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:240px 1fr 260px; gap:14px; align-items:start; }
 
     /* ═══ SIDEBARS ═══ */
-    .sidebar { display:flex; flex-direction:column; gap:12px; }
-    .sidebar-box { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.05); }
-    .sidebar-box .sb-head { background:linear-gradient(90deg,#1a56db,#1e40af); color:white; font-size:12px; font-weight:600; padding:8px 12px; letter-spacing:0.2px; }
-    .sidebar-box .sb-body { padding:4px 0; }
+    .sidebar { display:flex; flex-direction:column; gap:14px; }
 
-    /* ═══ SEARCH ═══ */
-    .search-wrap { display:flex; border:1.5px solid #e2e8f0; border-radius:8px; overflow:hidden; margin:8px 10px; transition:border-color .2s; }
-    .search-wrap:focus-within { border-color:#1a56db; }
-    .search-wrap input { flex:1; border:none; outline:none; padding:8px 10px; font-size:12px; font-family:Poppins,sans-serif; background:#f8fafc; }
-    .search-wrap button { background:#1a56db; border:none; color:white; padding:0 12px; cursor:pointer; font-size:14px; transition:background .2s; }
-    .search-wrap button:hover { background:#1e40af; }
+    /* Sidebar Box */
+    .sidebar-box {
+      background:white;
+      border-radius:14px;
+      border:1px solid #e2e8f0;
+      overflow:hidden;
+      box-shadow:0 2px 10px rgba(26,86,219,0.07);
+      transition:box-shadow .2s;
+    }
+    .sidebar-box:hover { box-shadow:0 4px 18px rgba(26,86,219,0.12); }
 
-    /* ═══ SIDEBAR POST LIST ═══ */
-    .sb-post { padding:7px 12px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:6px; transition:background .15s; }
+    /* Sidebar Header */
+    .sidebar-box .sb-head {
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 14px;
+      font-size:12.5px;
+      font-weight:700;
+      color:white;
+      letter-spacing:0.3px;
+    }
+    .sb-head-jobs    { background:linear-gradient(90deg,#1d4ed8,#2563eb); }
+    .sb-head-schemes { background:linear-gradient(90deg,#15803d,#16a34a); }
+    .sb-head-results { background:linear-gradient(90deg,#dc2626,#b91c1c); }
+
+    /* Sidebar Body */
+    .sidebar-box .sb-body { padding:2px 0; }
+
+    /* Sidebar Post Row */
+    .sb-post {
+      padding:9px 14px 8px;
+      border-bottom:1px solid #f1f5f9;
+      display:flex;
+      align-items:flex-start;
+      gap:8px;
+      transition:background .15s;
+      cursor:pointer;
+    }
     .sb-post:last-child { border-bottom:none; }
-    .sb-post:hover { background:#f8fafc; }
-    .sb-post > div, .sb-post > a { flex:1; min-width:0; }
-    .sb-post a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; display:block; text-decoration:none; overflow:hidden; text-overflow:ellipsis; }
-    .sb-post a:hover { color:#dc2626; text-decoration:underline; }
-    .sb-post .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; display:block; }
-    .sb-new { background:#dc2626; color:white; font-size:9px; font-weight:700; padding:2px 5px; border-radius:3px; flex-shrink:0; margin-top:2px; display:inline-block; animation:blink 1.5s infinite; }
+    .sb-post:hover { background:#f0f6ff; }
+    .sb-post > div { flex:1; min-width:0; }
 
-    /* ═══ SCHEME SIDEBAR ═══ */
-    .scheme-item { padding:7px 12px; border-bottom:1px solid #f1f5f9; transition:background .15s; }
+    /* Sidebar post number circle */
+    .sb-num {
+      min-width:20px;
+      height:20px;
+      border-radius:50%;
+      background:#eff6ff;
+      border:1.5px solid #bfdbfe;
+      color:#1d4ed8;
+      font-size:10px;
+      font-weight:700;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      flex-shrink:0;
+      margin-top:1px;
+      font-family:Poppins,sans-serif;
+    }
+    .sb-post-new .sb-num {
+      background:#dc2626;
+      border-color:#dc2626;
+      color:white;
+    }
+
+    .sb-post a {
+      font-size:12px;
+      color:#1e293b;
+      font-weight:600;
+      line-height:1.5;
+      display:block;
+      text-decoration:none;
+    }
+    .sb-post a:hover { color:#1d4ed8; }
+    .sb-post .sb-date {
+      font-size:10.5px;
+      color:#94a3b8;
+      margin-top:3px;
+      display:flex;
+      align-items:center;
+      gap:4px;
+    }
+    .sb-new {
+      background:#dc2626;
+      color:white;
+      font-size:8px;
+      font-weight:800;
+      padding:1px 5px;
+      border-radius:3px;
+      flex-shrink:0;
+      margin-top:3px;
+      display:inline-block;
+      animation:blink 1.5s infinite;
+      letter-spacing:0.5px;
+    }
+
+    /* Scheme sidebar items */
+    .scheme-item {
+      padding:9px 14px 8px;
+      border-bottom:1px solid #f1f5f9;
+      display:flex;
+      align-items:flex-start;
+      gap:8px;
+      transition:background .15s;
+    }
     .scheme-item:last-child { border-bottom:none; }
-    .scheme-item:hover { background:#f8fafc; }
-    .scheme-item a { font-size:12px; color:#1e40af; font-weight:500; line-height:1.45; display:block; text-decoration:none; }
-    .scheme-item a:hover { color:#dc2626; }
-    .scheme-item .sc-date { font-size:10px; color:#94a3b8; margin-top:2px; }
+    .scheme-item:hover { background:#f0fdf4; }
+    .scheme-dot {
+      width:8px;
+      height:8px;
+      border-radius:50%;
+      background:#16a34a;
+      flex-shrink:0;
+      margin-top:5px;
+    }
+    .scheme-item > div { flex:1; min-width:0; }
+    .scheme-item a {
+      font-size:12px;
+      color:#1e293b;
+      font-weight:600;
+      line-height:1.5;
+      display:block;
+      text-decoration:none;
+    }
+    .scheme-item a:hover { color:#15803d; }
+    .scheme-item .sc-date {
+      font-size:10.5px;
+      color:#94a3b8;
+      margin-top:3px;
+      display:flex;
+      align-items:center;
+      gap:4px;
+    }
+
+    /* Sidebar "View All" link */
+    .sb-view-all {
+      display:block;
+      text-align:center;
+      padding:8px;
+      font-size:11.5px;
+      font-weight:600;
+      color:#1d4ed8;
+      text-decoration:none;
+      border-top:1px solid #f1f5f9;
+      background:#f8fafc;
+    }
+    .sb-view-all:hover { background:#eff6ff; color:#1d4ed8; }
 
     /* ═══ AD BOX ═══ */
     .ad-box { background:white; border-radius:12px; border:1px dashed #cbd5e1; padding:8px; text-align:center; }
@@ -154,7 +242,7 @@
     .cards-top { background:white; border-radius:14px; border:1px solid #e2e8f0; padding:14px; margin-bottom:14px; box-shadow:0 2px 8px rgba(26,86,219,0.06); }
     .cards-top-head { font-size:12px; font-weight:600; color:#64748b; margin-bottom:10px; display:flex; align-items:center; gap:6px; letter-spacing:0.3px; text-transform:uppercase; }
     .cards-grid-top { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
-    .job-card { position:relative; border-radius:10px; border:1.5px solid rgba(0,0,0,0.07); padding:12px 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; min-height:72px; cursor:pointer; transition:transform .18s, box-shadow .18s; text-decoration:none; gap:4px; }
+    .job-card { position:relative; border-radius:10px; border:1.5px solid rgba(0,0,0,0.07); padding:14px 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; min-height:76px; cursor:pointer; transition:transform .18s, box-shadow .18s; text-decoration:none; gap:4px; }
     .job-card:hover { transform:translateY(-3px); box-shadow:0 8px 20px rgba(0,0,0,0.1); }
     .c-pink   { background:linear-gradient(135deg,#ffe4ec,#fce7f3); border-color:#f9a8c9; }
     .c-purple { background:linear-gradient(135deg,#ede9ff,#f3f0ff); border-color:#c4b5fd; }
@@ -162,7 +250,7 @@
     .c-green  { background:linear-gradient(135deg,#dcfce7,#d1fae5); border-color:#86efac; }
     .c-blue   { background:linear-gradient(135deg,#dbeafe,#eff6ff); border-color:#93c5fd; }
     .c-orange { background:linear-gradient(135deg,#ffedd5,#fed7aa); border-color:#fdba74; }
-    .card-title { font-size:11.5px; font-weight:600; color:#1e293b; line-height:1.4; }
+    .card-title { font-size:11.5px; font-weight:700; color:#1e293b; line-height:1.4; }
     .card-icon { font-size:18px; }
     .pin { position:absolute; top:5px; right:7px; font-size:11px; }
     .badge-new { position:absolute; top:5px; left:6px; background:#dc2626; color:#fff; font-size:9px; font-weight:700; padding:2px 5px; border-radius:3px; animation:blink 1.5s infinite; letter-spacing:0.3px; }
@@ -172,21 +260,22 @@
     .wa-btn:hover { transform:translateY(-1px); box-shadow:0 6px 18px rgba(22,163,74,0.4); }
 
     /* ═══ 3 COLUMN CONTENT ═══ */
-    .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:14px; margin-bottom:14px; }
+    .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:16px; }
     .col-box { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,0.04); transition:box-shadow .2s, transform .2s; }
     .col-box:hover { box-shadow:0 4px 16px rgba(26,86,219,0.1); transform:translateY(-1px); }
-    .col-head { color:white; font-size:13px; font-weight:600; padding:10px 14px; display:flex; align-items:center; gap:7px; letter-spacing:0.2px; }
-    .col-head-jobs    { background:linear-gradient(90deg,#1a56db,#2563eb); }
-    .col-head-edu     { background:linear-gradient(90deg,#0891b2,#0e7490); }
-    .col-head-schemes { background:linear-gradient(90deg,#16a34a,#15803d); }
+    .col-head { color:white; font-size:13px; font-weight:700; padding:10px 14px; display:flex; align-items:center; gap:7px; letter-spacing:0.3px; }
+    .col-head-jobs    { background:linear-gradient(90deg,#1d4ed8,#2563eb); }
+    .col-head-edu     { background:linear-gradient(90deg,#0284c7,#0369a1); }
+    .col-head-schemes { background:linear-gradient(90deg,#15803d,#166534); }
     .col-body { padding:4px 0; }
-    .col-item { padding:8px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:7px; transition:background .15s; }
+    .col-item { padding:7px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:6px; transition:background .15s; }
+    .col-bullet { color:#1a56db; font-size:8px; flex-shrink:0; margin-top:4px; }
     .col-item:last-child { border-bottom:none; }
     .col-item:hover { background:#f8fafc; }
     .col-item > div { flex:1; min-width:0; }
-    .col-item a { font-size:12.5px; color:#1e40af; font-weight:500; line-height:1.45; text-decoration:none; display:block; overflow:hidden; text-overflow:ellipsis; }
+    .col-item a { font-size:12.5px; color:#1e40af; font-weight:600; line-height:1.45; text-decoration:none; display:block; overflow:hidden; text-overflow:ellipsis; }
     .col-item a:hover { color:#dc2626; text-decoration:underline; }
-    .col-item .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; display:block; }
+    .col-item .sb-date { font-size:10.5px; color:#6b7280; margin-top:2px; display:block; font-weight:500; }
     .col-item .it-date { font-size:10px; color:#94a3b8; white-space:nowrap; }
     .pin-icon { font-size:11px; flex-shrink:0; margin-top:3px; }
 
@@ -214,9 +303,14 @@
     @media(max-width:600px) { .result-grid { grid-template-columns:1fr; } .result-col { border-right:none; border-bottom:1px solid #f1f5f9; } .result-col:last-child { border-bottom:none; } }
 
     /* ═══ MOBILE ═══ */
+    @media(max-width:1024px) {
+      .page-wrapper { grid-template-columns:1fr 240px; padding:8px; }
+      .left-sidebar { display:none; }
+    }
     @media(max-width:900px) {
       .page-wrapper { grid-template-columns:1fr; padding:8px; }
       .sidebar { display:none; }
+      .left-sidebar { display:none; }
       .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:8px; }
       .three-col { grid-template-columns:1fr; }
       .col-box { margin-bottom:0; }
@@ -246,8 +340,70 @@
     .ticker-sep { color:#1a56db; font-size:16px; font-weight:700; padding:0 4px; }
     .ticker-loading { color:#64748b; font-size:12px; padding:0 16px; }
     @media(max-width:600px) { .ticker-label { font-size:10px; padding:0 8px; } .ticker-item { font-size:11px; padding:0 14px; } }
+
+    /* ═══ LEFT SIDEBAR ═══ */
+    .left-sidebar { display:flex; flex-direction:column; gap:14px; }
+
+    /* Stats vertical */
+    .ls-stats { background:white; border-radius:14px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 2px 8px rgba(26,86,219,0.07); }
+    .ls-stats-head { background:linear-gradient(90deg,#1d4ed8,#7c3aed); color:white; padding:9px 14px; font-size:12px; font-weight:700; letter-spacing:0.3px; display:flex; align-items:center; gap:7px; }
+    .ls-stat-row { display:flex; align-items:center; gap:10px; padding:9px 14px; border-bottom:1px solid #f1f5f9; }
+    .ls-stat-row:last-child { border-bottom:none; }
+    .ls-stat-icon { width:32px; height:32px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:16px; flex-shrink:0; }
+    .ls-stat-val { font-size:18px; font-weight:800; line-height:1; }
+    .ls-stat-lbl { font-size:11px; color:#64748b; font-weight:500; }
+
+    /* Current Affairs */
+    .ca-wrap { background:white; border-radius:14px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.05); }
+    .ca-head { background:linear-gradient(90deg,#dc2626,#ea580c); color:white; padding:9px 14px; font-size:12px; font-weight:700; display:flex; align-items:center; gap:7px; }
+    .ca-refresh { margin-left:auto; background:rgba(255,255,255,0.2); border:none; color:white; width:24px; height:24px; border-radius:50%; cursor:pointer; font-size:13px; display:flex; align-items:center; justify-content:center; transition:transform .3s; }
+    .ca-refresh:hover { transform:rotate(180deg); }
+    .ca-body { padding:4px 0; max-height:320px; overflow-y:auto; }
+    .ca-item { padding:8px 12px; border-bottom:1px solid #f8fafc; cursor:pointer; transition:background .15s; }
+    .ca-item:last-child { border-bottom:none; }
+    .ca-item:hover { background:#fff5f5; }
+    .ca-q { font-size:11.5px; font-weight:600; color:#1e293b; line-height:1.45; margin-bottom:4px; }
+    .ca-ans-btn { font-size:10px; color:#dc2626; font-weight:600; cursor:pointer; background:#fff5f5; border:none; border-radius:4px; padding:2px 8px; font-family:Poppins,sans-serif; }
+    .ca-ans { font-size:11px; color:#16a34a; font-weight:600; background:#f0fdf4; padding:4px 8px; border-radius:4px; margin-top:4px; display:none; line-height:1.4; }
+    .ca-loading { padding:20px 14px; text-align:center; color:#94a3b8; font-size:12px; }
+    .ca-spinner { width:20px; height:20px; border:2px solid #e2e8f0; border-top-color:#dc2626; border-radius:50%; animation:spin .8s linear infinite; margin:0 auto 8px; }
+    @keyframes spin { to{transform:rotate(360deg)} }
+    .ca-date-badge { background:#fee2e2; color:#dc2626; font-size:9px; font-weight:700; padding:2px 7px; border-radius:3px; }
+
+    /* Trending left sidebar compact */
+    .ls-trending { background:white; border-radius:14px; border:1px solid #e2e8f0; padding:12px 14px; box-shadow:0 1px 4px rgba(0,0,0,0.04); }
+    .ls-trending-head { font-size:12px; font-weight:700; color:#1e293b; margin-bottom:9px; display:flex; align-items:center; gap:6px; }
+    .ls-trend-item { display:flex; align-items:center; gap:8px; padding:6px 0; border-bottom:1px solid #f8fafc; text-decoration:none; transition:background .15s; }
+    .ls-trend-item:last-child { border-bottom:none; }
+    .ls-trend-item:hover .ls-trend-text { color:#dc2626; }
+    .ls-trend-rank { width:18px; height:18px; border-radius:4px; background:#f1f5f9; font-size:9px; font-weight:800; color:#64748b; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .ls-trend-rank.hot { background:#fee2e2; color:#dc2626; }
+    .ls-trend-text { font-size:11.5px; font-weight:600; color:#374151; flex:1; line-height:1.3; }
+
+    /* Deadline left sidebar compact */
+    .ls-deadline { background:white; border-radius:14px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,0.04); }
+    .ls-dl-head { background:linear-gradient(90deg,#d97706,#b45309); color:white; padding:9px 14px; font-size:12px; font-weight:700; display:flex; align-items:center; gap:7px; }
+    .ls-dl-row { display:flex; align-items:center; gap:9px; padding:7px 12px; border-bottom:1px solid #f1f5f9; }
+    .ls-dl-row:last-child { border-bottom:none; }
+    .ls-dl-date { background:#fef3c7; border:1px solid #fde68a; border-radius:7px; padding:3px 6px; text-align:center; flex-shrink:0; min-width:36px; }
+    .ls-dl-day { font-size:13px; font-weight:800; color:#92400e; line-height:1; }
+    .ls-dl-mon { font-size:8px; font-weight:700; color:#d97706; text-transform:uppercase; }
+    .ls-dl-title { font-size:11.5px; font-weight:600; color:#1e293b; line-height:1.35; }
+    .ls-dl-title a { color:#1e293b; text-decoration:none; }
+    .ls-dl-title a:hover { color:#d97706; }
+    .ls-dl-sub { font-size:10px; color:#94a3b8; margin-top:1px; }
+    .ls-urgent { background:#dc2626; color:white; font-size:8px; font-weight:700; padding:1px 5px; border-radius:3px; white-space:nowrap; animation:blink 1.5s infinite; }
+
+
+
+
+
+
+
+
+
+
   </style>
-  <!-- Google Analytics -->
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
@@ -258,6 +414,39 @@
   </script>
 </head>
 <body>
+
+  <!-- NEWS TICKER JS -->
+  <script>
+  (function() {
+    var fallbackNews = [
+      { title: 'Punjab & Sind Bank 1000 LBO Posts 2026 — Apply by 20 April', link: 'pages/job-detail.html?id=psb-lbo-2026' },
+      { title: 'SSF Constable Barber Washerman 2026 — 10 Posts Apply', link: 'pages/job-detail.html?id=ssf-constable-2026' },
+      { title: 'NIC Scientist B 2026 — 243 Posts GATE Required', link: 'pages/job-detail.html?id=nic-scientist-b-2026' },
+      { title: 'SAI Assistant Coach 2026 — 323 Posts 26 Sports', link: 'pages/job-detail.html?id=sai-assistant-coach-2026' },
+      { title: 'Pune Police Constable Result 2026 — Merit List Out', link: 'pages/job-detail.html?id=pune-police-constable-result-2026' },
+      { title: 'ISRO URSC Scientist 2026 — 12 April Last Date', link: 'pages/job-detail.html?id=isro-ursc-2026' },
+      { title: 'Bank of Baroda 104 WMS Posts — Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
+      { title: 'RPSC School Lecturer Result 2026 — Maths & Sanskrit Out', link: 'pages/job-detail.html?id=rpsc-lecturer-result-2026' },
+      { title: 'PNB Apprentice Result 2026 — Provisional List Out', link: 'pages/job-detail.html?id=pnb-apprentice-result-2026' },
+      { title: 'DDA Mali Result 2026 — Select List Download', link: 'pages/job-detail.html?id=dda-mali-result-2026' },
+      { title: 'RRB ALP 2026 — 9000+ Posts Notification', link: 'pages/job-detail.html?id=rrb-alp-2026' },
+      { title: 'Navy Apprentice 2026 — 240 Posts ITI Apply', link: 'pages/job-detail.html?id=nsry-apprentice-2026' },
+    ];
+    function loadTicker(items) {
+      var inner = document.getElementById('tickerInner');
+      if (!inner) return;
+      var html = '';
+      items.forEach(function(item) {
+        html += '<a href="' + item.link + '" class="ticker-item">' + item.title + '</a>';
+      });
+      inner.innerHTML = html;
+      inner.style.animation = 'none';
+      inner.offsetHeight;
+      inner.style.animation = '';
+    }
+    document.addEventListener('DOMContentLoaded', function() { loadTicker(fallbackNews); });
+  })();
+  </script>
 
   <!-- TOP BAR -->
   <div class="top-bar">
@@ -307,11 +496,100 @@
   <!-- PAGE WRAPPER -->
   <div class="page-wrapper">
 
+
+    <!-- ══════════ LEFT SIDEBAR ══════════ -->
+    <aside class="left-sidebar">
+
+      <!-- Stats Vertical -->
+      <div class="ls-stats">
+        <div class="ls-stats-head">📊 Quick Stats</div>
+        <div class="ls-stat-row">
+          <div class="ls-stat-icon" style="background:#eff6ff;">💼</div>
+          <div><div class="ls-stat-val" style="color:#1d4ed8;" id="statJobs">50+</div><div class="ls-stat-lbl">Active Jobs</div></div>
+        </div>
+        <div class="ls-stat-row">
+          <div class="ls-stat-icon" style="background:#fee2e2;">🏆</div>
+          <div><div class="ls-stat-val" style="color:#dc2626;">12+</div><div class="ls-stat-lbl">Results Out</div></div>
+        </div>
+        <div class="ls-stat-row">
+          <div class="ls-stat-icon" style="background:#dcfce7;">📋</div>
+          <div><div class="ls-stat-val" style="color:#16a34a;">20+</div><div class="ls-stat-lbl">Yojanaen</div></div>
+        </div>
+        <div class="ls-stat-row">
+          <div class="ls-stat-icon" style="background:#fef3c7;">🎟️</div>
+          <div><div class="ls-stat-val" style="color:#d97706;">8+</div><div class="ls-stat-lbl">Admit Cards</div></div>
+        </div>
+      </div>
+
+      <!-- ══ CURRENT AFFAIRS / GENERAL AWARENESS ══ -->
+      <div class="ca-wrap">
+        <div class="ca-head">
+          <span>📰</span>
+          Current Affairs
+          <span class="ca-date-badge" id="caDateBadge">Aaj</span>
+          <button class="ca-refresh" onclick="loadCurrentAffairs()" title="Refresh">↻</button>
+        </div>
+        <div class="ca-body" id="caBody">
+          <div class="ca-loading">
+            <div class="ca-spinner"></div>
+            Loading Current Affairs...
+          </div>
+        </div>
+      </div>
+
+      <!-- Trending Left -->
+      <div class="ls-trending">
+        <div class="ls-trending-head">
+          <span style="background:#fee2e2;color:#dc2626;padding:3px 7px;border-radius:5px;font-size:12px;">🔥</span>
+          Trending Searches
+        </div>
+        <a href="pages/search.html?q=SSC+2026" class="ls-trend-item"><div class="ls-trend-rank hot">1</div><span class="ls-trend-text">SSC 2026</span><span style="font-size:9px;color:#dc2626;">🔥</span></a>
+        <a href="pages/search.html?q=Army+Agniveer" class="ls-trend-item"><div class="ls-trend-rank hot">2</div><span class="ls-trend-text">Agniveer Rally</span><span style="font-size:9px;color:#dc2626;">🔥</span></a>
+        <a href="pages/search.html?q=Railway+ALP" class="ls-trend-item"><div class="ls-trend-rank">3</div><span class="ls-trend-text">RRB ALP 2026</span></a>
+        <a href="pages/search.html?q=PM+Kisan" class="ls-trend-item"><div class="ls-trend-rank">4</div><span class="ls-trend-text">PM Kisan Kisht</span></a>
+        <a href="pages/search.html?q=Police+Constable" class="ls-trend-item"><div class="ls-trend-rank hot">5</div><span class="ls-trend-text">Police Bharti</span><span style="font-size:9px;color:#dc2626;">🔥</span></a>
+        <a href="pages/search.html?q=RPSC+Result" class="ls-trend-item"><div class="ls-trend-rank">6</div><span class="ls-trend-text">RPSC Result</span></a>
+        <a href="pages/search.html?q=Ladli+Bahna" class="ls-trend-item"><div class="ls-trend-rank">7</div><span class="ls-trend-text">Ladli Bahna</span></a>
+        <a href="pages/search.html?q=Bank+Jobs" class="ls-trend-item"><div class="ls-trend-rank">8</div><span class="ls-trend-text">Bank Jobs 2026</span></a>
+      </div>
+
+      <!-- Deadlines Compact -->
+      <div class="ls-deadline">
+        <div class="ls-dl-head">⏰ Last Date Alert</div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">03</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title">NSRY Navy Apprentice – 240 Posts</div><div class="ls-dl-sub">Offline • ITI Pass</div></div>
+          <span class="ls-urgent">TODAY!</span>
+        </div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">08</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title"><a href="pages/job-detail.html?id=nib-recruitment-2026">NIB Scientist – 46 Posts</a></div><div class="ls-dl-sub">Online • Health Ministry</div></div>
+        </div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">12</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title"><a href="pages/job-detail.html?id=isro-ursc-2026">ISRO URSC Scientist – 4 Posts</a></div><div class="ls-dl-sub">Online • B.Tech / PhD</div></div>
+        </div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">15</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title"><a href="pages/job-detail.html?id=bsnl-set-2026">BSNL SET – 120 Posts</a></div><div class="ls-dl-sub">Online • B.Tech / CA</div></div>
+        </div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">20</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title"><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab Bank LBO – 1000 Posts</a></div><div class="ls-dl-sub">Online • Officer Exp.</div></div>
+        </div>
+        <div class="ls-dl-row">
+          <div class="ls-dl-date"><div class="ls-dl-day">21</div><div class="ls-dl-mon">Apr</div></div>
+          <div><div class="ls-dl-title"><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Coach – 323 Posts</a></div><div class="ls-dl-sub">Online • Coaching Diploma</div></div>
+        </div>
+      </div>
+
+    </aside>
+
 <main>
 
       <!-- TOP CARDS -->
       <div class="cards-top">
-        <div class="cards-top-head">⚡ Quick Access — Popular Categories</div>
+        <div class="cards-top-head">⚡ Quick Access — Latest & Popular Posts</div>
         <div class="cards-grid-top">
           <a href="pages/job-detail.html?id=psb-lbo-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Punjab Sind Bank LBO 2026 – 1000 Posts</span></a>
           <a href="pages/job-detail.html?id=ssf-constable-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">SSF Constable 2026 – 10 Posts</span></a>
@@ -327,6 +605,18 @@
 
       
 
+      <!-- ── COMPACT AD INLINE 1 ── -->
+      <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:10px;">
+        <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:60px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="1122334455"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+
       <!-- WHATSAPP + SEARCH -->
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
         <a href="https://whatsapp.com" target="_blank" class="wa-btn">💬 Join New WhatsApp Channel</a>
@@ -341,10 +631,11 @@
       <ins class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-bottom:12px;"
            data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="auto"
-           data-ad-format="auto"
+           data-ad-slot="3456789012"
+           data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
       <!-- 4 COLUMN CONTENT -->
       <div class="three-col">
@@ -360,11 +651,11 @@
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=isro-ursc-2026">ISRO URSC Scientist Engineer 2026 – 4 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bob-wms-2026">Bank of Baroda Deputy Manager AVP 2026 – 104 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ecil-walkin-2026">ECIL Walk-in 2026 – 32 Posts, April 9 &amp; 18</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=nsry-apprentice-2026">Navy Ship Repair Yard Apprentice 2026 – 240 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=nsry-apprentice-2026">Navy Ship Repair Yard Apprentice 2026 – 240 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=mpesb-forest-2026">MPESB Forest Guard &amp; Jail Prahari 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=army-agniveer-2026">Indian Army Agniveer Rally 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City Details 2026</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City Details 2026</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
           </div>
         </div>
 
@@ -375,13 +666,13 @@
             <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=mp-rte-2026">MP RTE Admission 2026-27</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-board-2026">Bihar Board 10th & 12th Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2 – Exam City</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="#">KVS Class 1 Admission Form 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="#">MP Board 10th & 12th Result 2026</a><div class="sb-date">📅 19 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=raj-board-2026">Rajasthan Board Result 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=nta-neet-2026">NTA NEET UG Online Form 2026</a><div class="sb-date">📅 17 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=up-board-2026">UP Board Result 2026 – Coming Soon</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=gaon-beti-2026">Gaon Ki Beti Scholarship 2025-26</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Full Details</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#">KVS Class 1 Admission Form 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#">MP Board 10th & 12th Result 2026</a><div class="sb-date">📅 19 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-board-2026">Rajasthan Board Result 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=nta-neet-2026">NTA NEET UG Online Form 2026</a><div class="sb-date">📅 17 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=up-board-2026">UP Board Result 2026 – Coming Soon</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=gaon-beti-2026">Gaon Ki Beti Scholarship 2025-26</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Full Details</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-iti-cat-2026">Bihar ITI CAT Admission Form 2026 – 33108 Seats</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=hprca-math-teacher-admit-2026">HPRCA Mathematics Teacher Admit Card 2026</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
           </div>
@@ -393,17 +684,29 @@
           <div class="col-body">
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 – 34th Kisht</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht – Kab Aayegi?</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="#">MP Samadhan Yojana 2025-26 – Bijli Mafi</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=pm-svanidhi-2026">PM SVANidhi Yojana 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=mp-pension-2026">MP Social Security Pension Yojana</a><div class="sb-date">📅 16 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=ration-card-2026">Ration Card Apply Online & Download</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026 – Free Gas</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card Kaise Banaye</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=raj-mobile-2026">Rajasthan Free Mobile Yojana 2026</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
-            <div class="col-item"><div><a href="pages/job-detail.html?id=jan-aadhaar-2026">Jan Aadhaar Card – Apply & Download</a><div class="sb-date">📅 08 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#">MP Samadhan Yojana 2025-26 – Bijli Mafi</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-svanidhi-2026">PM SVANidhi Yojana 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=mp-pension-2026">MP Social Security Pension Yojana</a><div class="sb-date">📅 16 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ration-card-2026">Ration Card Apply Online & Download</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026 – Free Gas</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card Kaise Banaye</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-mobile-2026">Rajasthan Free Mobile Yojana 2026</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=jan-aadhaar-2026">Jan Aadhaar Card – Apply & Download</a><div class="sb-date">📅 08 Mar 2026</div></div></div>
           </div>
         </div>
 
+      </div>
+
+      <!-- ── COMPACT AD INLINE 2 ── -->
+      <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
+        <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:60px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="5544332211"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
       <!-- LATEST RESULTS -->
@@ -439,8 +742,8 @@
       <ins class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-top:12px;"
            data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="auto"
-           data-ad-format="auto"
+           data-ad-slot="6789012345"
+           data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
@@ -449,27 +752,75 @@
     <!-- RIGHT SIDEBAR -->
     <aside class="sidebar">
 
-      <!-- Ad Box Sidebar -->
+      <!-- ── Latest Jobs Box ── -->
       <div class="sidebar-box">
-        <div class="sb-head">💼 Latest Jobs Update</div>
-        <div class="sb-body">
-          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab Sind Bank LBO 2026 – 1000 Posts</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
-          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssf-constable-2026">SSF Constable 2026 – 10 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=nic-scientist-b-2026">NIC Scientist B 2026 – 243 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Assistant Coach 2026</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+        <div class="sb-head sb-head-jobs">
+          <span style="background:rgba(255,255,255,0.2);border-radius:6px;padding:3px 7px;font-size:11px;">💼</span>
+          Latest Jobs
+          <span style="margin-left:auto;background:rgba(255,255,255,0.15);font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;letter-spacing:0.3px;animation:blink 1.5s infinite;">LIVE</span>
         </div>
+        <div class="sb-body">
+          <div class="sb-post sb-post-new">
+            <div class="sb-num">1</div>
+            <div><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab &amp; Sind Bank LBO 2026 – 1000 Posts</a><div class="sb-date">📅 31 Mar 2026</div></div>
+          </div>
+          <div class="sb-post sb-post-new">
+            <div class="sb-num">2</div>
+            <div><a href="pages/job-detail.html?id=ssf-constable-2026">SSF Constable Barber &amp; Washerman – 10 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div>
+          </div>
+          <div class="sb-post">
+            <div class="sb-num">3</div>
+            <div><a href="pages/job-detail.html?id=nic-scientist-b-2026">NIC Scientist B 2026 – 243 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div>
+          </div>
+          <div class="sb-post">
+            <div class="sb-num">4</div>
+            <div><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Assistant Coach 2026 – 323 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div>
+          </div>
+          <div class="sb-post">
+            <div class="sb-num">5</div>
+            <div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div>
+          </div>
+        </div>
+        <a href="pages/jobs.html" class="sb-view-all">Sabhi Jobs Dekhein →</a>
       </div>
 
-      <!-- Latest Schemes Sidebar -->
+      <!-- ── Latest Schemes Box ── -->
       <div class="sidebar-box">
-        <div class="sb-head">📋 Latest Schemes</div>
-        <div class="sb-body">
-          <div class="scheme-item"><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 | 34th Kisht</a><div class="sc-date">📅 22 Mar 2026</div></div>
-          <div class="scheme-item"><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan Samman Nidhi 22vi Kisht</a><div class="sc-date">📅 22 Mar 2026</div></div>
-          <div class="scheme-item"><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026</a><div class="sc-date">📅 04 Mar 2026</div></div>
-          <div class="scheme-item"><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card 2026</a><div class="sc-date">📅 02 Mar 2026</div></div>
+        <div class="sb-head sb-head-schemes">
+          <span style="background:rgba(255,255,255,0.2);border-radius:6px;padding:3px 7px;font-size:11px;">📋</span>
+          Latest Schemes
         </div>
+        <div class="sb-body">
+          <div class="scheme-item">
+            <div class="scheme-dot"></div>
+            <div><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 – 34th Kisht</a><div class="sc-date">📅 22 Mar 2026</div></div>
+          </div>
+          <div class="scheme-item">
+            <div class="scheme-dot"></div>
+            <div><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht – Kab Aayegi?</a><div class="sc-date">📅 22 Mar 2026</div></div>
+          </div>
+          <div class="scheme-item">
+            <div class="scheme-dot"></div>
+            <div><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026 – Free Gas</a><div class="sc-date">📅 04 Mar 2026</div></div>
+          </div>
+          <div class="scheme-item">
+            <div class="scheme-dot"></div>
+            <div><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card 2026</a><div class="sc-date">📅 02 Mar 2026</div></div>
+          </div>
+        </div>
+        <a href="pages/schemes.html" class="sb-view-all">Sabhi Yojanaen Dekhein →</a>
+      </div>
+
+      <!-- ── AdSense ── -->
+      <div style="background:white;border-radius:12px;border:1px dashed #e2e8f0;padding:8px;text-align:center;">
+        <div style="font-size:10px;color:#cbd5e1;margin-bottom:4px;">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:200px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="2345678901"
+             data-ad-format="rectangle"
+             data-full-width-responsive="false"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
     </aside>
@@ -527,7 +878,7 @@
         <div>
           <h3 style="font-size:14px;font-weight:600;color:white;margin-bottom:14px;border-left:3px solid #1a56db;padding-left:8px;">Sampark</h3>
           <div style="display:flex;flex-direction:column;gap:9px;">
-            <span style="font-size:13px;color:#94a3b8;">📧 <a href="mailto:ankush.jain70146@gmail.com" style="color:#93c5fd;text-decoration:none;">ankush.jain70146@gmail.com</a></span>
+            <span style="font-size:13px;color:#94a3b8;">📧 <a href="/cdn-cgi/l/email-protection#3a5b54514f495214505b53540d0a0b0e0c7a5d575b535614595557" style="color:#93c5fd;text-decoration:none;"><span class="__cf_email__" data-cfemail="4726292c32342f692d262e29707776737107202a262e2b6924282a">[email&#160;protected]</span></a></span>
             <span style="font-size:13px;color:#94a3b8;">📍 Sodala, Jaipur, Rajasthan 302019</span>
             <a href="https://whatsapp.com" target="_blank" style="color:#4ade80;font-size:13px;text-decoration:none;">💬 WhatsApp Channel</a>
           </div>
@@ -558,7 +909,7 @@
     </div>
   </footer>
 
-  <script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
     // Auto date update
     (function(){
       var days = ['रविवार','सोमवार','मंगलवार','बुधवार','गुरुवार','शुक्रवार','शनिवार'];
@@ -570,6 +921,134 @@
     })();
   </script>
 
+  <script>
+    // Stats counter animation
+    function animateCount(el, target) {
+      var start = 0; var step = Math.ceil(target / 30);
+      var timer = setInterval(function(){
+        start += step;
+        if (start >= target) { start = target; clearInterval(timer); }
+        el.textContent = start + '+';
+      }, 40);
+    }
+    window.addEventListener('DOMContentLoaded', function(){
+      var sj = document.getElementById('statJobs');
+      if(sj) animateCount(sj, 50);
+    });
+  </script>
+
+  <script>
+  // ── Current Affairs / GK — Claude API Powered ──────────────────────────────
+  var caCache = null;
+  var caDate = '';
+
+  function loadCurrentAffairs() {
+    var today = new Date();
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var todayStr = today.getDate() + ' ' + months[today.getMonth()] + ' ' + today.getFullYear();
+    document.getElementById('caDateBadge').textContent = todayStr;
+
+    var bodyEl = document.getElementById('caBody');
+    if (!bodyEl) return;
+
+    // Check sessionStorage cache
+    var cacheKey = 'ca_' + today.toDateString();
+    var cached = sessionStorage.getItem(cacheKey);
+    if (cached) {
+      try {
+        renderCA(JSON.parse(cached));
+        return;
+      } catch(e) {}
+    }
+
+    bodyEl.innerHTML = '<div class="ca-loading"><div class="ca-spinner"></div><div style="font-size:11px;color:#94a3b8;">AI se taza GK la raha hoon...</div></div>';
+
+    var refreshBtn = document.querySelector('.ca-refresh');
+    if(refreshBtn) { refreshBtn.style.animation='spin 0.8s linear infinite'; }
+
+    var prompt = 'Generate 8 India current affairs GK questions for ' + todayStr + ' covering politics, economy, sports, science, schemes. Format as JSON array only, no extra text: [{"q":"Question here?","a":"Answer here","cat":"Politics/Economy/Sports/Science/Scheme"}]. Mix categories. Keep questions short (max 15 words). Answers short (max 10 words). Focus on India 2025-2026.';
+
+    fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{ role: 'user', content: prompt }]
+      })
+    })
+    .then(function(r){ return r.json(); })
+    .then(function(data) {
+      if(refreshBtn) refreshBtn.style.animation='';
+      var text = (data.content && data.content[0] && data.content[0].text) || '';
+      // Clean JSON
+      var jsonMatch = text.match(/\[[\s\S]*\]/);
+      if (!jsonMatch) throw new Error('No JSON');
+      var items = JSON.parse(jsonMatch[0]);
+      sessionStorage.setItem(cacheKey, JSON.stringify(items));
+      renderCA(items);
+    })
+    .catch(function() {
+      if(refreshBtn) refreshBtn.style.animation='';
+      // Fallback static GK
+      var fallback = [
+        {q:"India ka sabse bada PSU bank konsa hai?", a:"State Bank of India (SBI)", cat:"Economy"},
+        {q:"PM Kisan mein saal mein kitni raqam milti hai?", a:"₹6000 (3 kiston mein)", cat:"Scheme"},
+        {q:"2026 mein India ka Budget kitna tha?", a:"₹50.65 lakh crore", cat:"Economy"},
+        {q:"Ladli Bahna Yojana konse state mein hai?", a:"Madhya Pradesh (MP)", cat:"Scheme"},
+        {q:"ISRO ka pehla solar mission kya tha?", a:"Aditya-L1 (2023)", cat:"Science"},
+        {q:"2026 mein India ka Defence Budget kitna?", a:"₹6.81 lakh crore", cat:"Defence"},
+        {q:"RBI ke naye Governor kaun hain 2025 mein?", a:"Sanjay Malhotra", cat:"Economy"},
+        {q:"Agniveer scheme kitne saal ki service deti hai?", a:"4 saal ki service", cat:"Defence"},
+      ];
+      renderCA(fallback);
+    });
+  }
+
+  function renderCA(items) {
+    var bodyEl = document.getElementById('caBody');
+    if (!bodyEl) return;
+    var catColors = {
+      'Economy':'#dbeafe:#1d4ed8',
+      'Scheme':'#dcfce7:#15803d',
+      'Sports':'#ffedd5:#ea580c',
+      'Science':'#f3e8ff:#7c3aed',
+      'Defence':'#fee2e2:#dc2626',
+      'Politics':'#fef9c3:#b45309',
+      'General':'#f1f5f9:#475569'
+    };
+
+    var html = '';
+    items.forEach(function(item, i) {
+      var cc = (catColors[item.cat] || catColors['General']).split(':');
+      html += '<div class="ca-item" id="caItem'+i+'">' +
+        '<div style="display:flex;align-items:flex-start;gap:7px;">' +
+          '<span style="background:'+cc[0]+';color:'+cc[1]+';font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;white-space:nowrap;flex-shrink:0;margin-top:2px;">'+item.cat+'</span>' +
+          '<div class="ca-q">'+item.q+'</div>' +
+        '</div>' +
+        '<button class="ca-ans-btn" onclick="toggleCA('+i+')">Jawab Dekhen ▼</button>' +
+        '<div class="ca-ans" id="caAns'+i+'">✅ '+item.a+'</div>' +
+      '</div>';
+    });
+    bodyEl.innerHTML = html;
+  }
+
+  function toggleCA(i) {
+    var ans = document.getElementById('caAns'+i);
+    var btn = ans && ans.previousElementSibling;
+    if (!ans) return;
+    var open = ans.style.display === 'block';
+    ans.style.display = open ? 'none' : 'block';
+    if(btn) btn.textContent = open ? 'Jawab Dekhen ▼' : 'Band Karein ▲';
+  }
+
+  // Load on page ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadCurrentAffairs);
+  } else {
+    loadCurrentAffairs();
+  }
+  </script>
   <!-- SPLASH SCREEN -->
   <div id="splashScreen" style="position:fixed;inset:0;z-index:99999;background:#0f172a;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;overflow-y:auto;">
 
@@ -881,10 +1360,11 @@
         card.className = 'f-result';
         card.innerHTML = '<div class="f-result-title">' + job.title.substring(0,60) + '...</div>' +
           '<div style="font-size:10px;color:#64748b;font-family:Poppins,sans-serif;">📊 ' + (h.vacancy||'-') + ' &nbsp; 📅 ' + (h.applyDate||'-') + '</div>' +
-          '<a href="pages/job-detail.html?id=' + job.id + '" class="f-result-link">Dekhen →</a>';
+          '<a href="pages/job-detail.html?id=' + job.id + '" class="f-result-link">Full Details →</a>' +
+        '</div>';
         msgs.appendChild(card);
       });
-      msgs.scrollTop = msgs.scrollHeight;
+
       document.getElementById('floatRestart').style.display = 'block';
     }
   </script>
