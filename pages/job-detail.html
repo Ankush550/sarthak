@@ -213,10 +213,12 @@
       </a>
       <button class="hamburger" onclick="toggleMenu()" aria-label="Menu"><span></span><span></span><span></span></button>
       <nav class="main-nav" id="mainNav">
-        <a href="../index.html"         class="nav-link">🏠 Home</a>
-        <a href="../pages/jobs.html"    class="nav-link">💼 Latest Jobs</a>
-        <a href="../pages/schemes.html" class="nav-link">📋 Latest Schemes</a>
-        <a href="../pages/about.html"   class="nav-link">ℹ️ About Us</a>
+        <a href="../index.html"              class="nav-link">🏠 Home</a>
+        <a href="../pages/jobs.html"         class="nav-link">💼 Latest Jobs</a>
+        <a href="../pages/results.html"      class="nav-link">🏆 Results</a>
+        <a href="../pages/schemes.html"      class="nav-link">📋 Latest Schemes</a>
+        <a href="../pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
+        <a href="../pages/about.html"        class="nav-link">ℹ️ About Us</a>
       </nav>
     </div>
   </header>
@@ -486,12 +488,12 @@
     <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;margin-bottom:14px;">
       <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
       <ins class="adsbygoogle"
+           id="topAdIns"
            style="display:block;width:100%;min-height:90px;"
            data-ad-client="ca-pub-8602963796651751"
            data-ad-slot="YOUR_AD_SLOT_4"
            data-ad-format="auto"
            data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
     <div class="detail-main">
           ${getJobBanner(j)}
@@ -643,6 +645,9 @@
         midAd.appendChild(ins1);
         try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
       }
+
+      // Push top banner ad
+      try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
 
       var sideAd = document.getElementById('sideAdSlot');
       if (sideAd) {
