@@ -77,7 +77,7 @@
 
   <div class="top-bar">
     <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
-    <span><span class="auto-date">📅 रविवार, 22 मार्च 2026</span></span>
+    <span><span class="auto-date">📅 अपडेट हो रहा है...</span></span>
   </div>
 
   <header class="main-header">
@@ -93,11 +93,13 @@
         </div>
       </a>
       <button class="hamburger" onclick="toggleMenu()"><span></span><span></span><span></span></button>
-      <nav class="main-nav" id="mainNav">
-        <a href="../index.html"          class="nav-link">🏠 Home</a>
-        <a href="../pages/jobs.html"     class="nav-link active">💼 Latest Jobs</a>
-        <a href="../pages/schemes.html"  class="nav-link">📋 Latest Schemes</a>
-        <a href="../pages/about.html"    class="nav-link">ℹ️ About Us</a>
+            <nav class="main-nav" id="mainNav">
+        <a href="../index.html" class="nav-link">🏠 Home</a>
+        <a href="jobs.html" class="nav-link active">💼 Latest Jobs</a>
+        <a href="results.html" class="nav-link">🏆 Results</a>
+        <a href="schemes.html" class="nav-link">📋 Latest Schemes</a>
+        <a href="private-jobs.html" class="nav-link">🏢 Private Jobs</a>
+        <a href="about.html" class="nav-link">ℹ️ About Us</a>
       </nav>
     </div>
   </header>
@@ -211,7 +213,7 @@
       }
       document.getElementById('jobListBody').innerHTML = jobs.map(j => `
         <div class="job-row">
-          <span class="job-badge ${j.lastUpdate.includes('22/03') ? 'badge-new' : 'badge-pin'}">${j.lastUpdate.includes('22/03') ? 'NEW' : '📌'}</span>
+          <span class="job-badge ${(j.lastUpdate.includes('31/03') || j.lastUpdate.includes('30/03') || j.lastUpdate.includes('29/03') || j.lastUpdate.includes('28/03') || j.lastUpdate.includes('24/03')) ? 'badge-new' : 'badge-pin'}">${(j.lastUpdate.includes('31/03') || j.lastUpdate.includes('30/03') || j.lastUpdate.includes('29/03') || j.lastUpdate.includes('28/03') || j.lastUpdate.includes('24/03')) ? 'NEW' : '📌'}</span>
           <div class="job-info">
             <a href="job-detail.html?id=${j.id}" class="job-title">${j.title}</a>
             <div class="job-meta">
@@ -229,13 +231,13 @@
       btn.classList.add('active');
       if (type === 'all') { renderJobs(allJobs); return; }
       const map = {
-        central: ['ssb','upsssc','army','navy'],
-        state: ['mp','raj','bihar','up'],
-        defence: ['army','ssb','navy'],
-        railway: ['rrb','railway'],
-        bank: ['hdfc','icici','bank','sbi'],
-        '10th': ['10th','constable','tradesman'],
-        graduate: ['aso','si','officer','graduate']
+        central: ['ssb','upsssc','army','navy','nic','sai','nib','ssf','ecil','isro','bsnl'],
+        state: ['mp','raj','bihar','up','pune','rpsc'],
+        defence: ['army','ssb','navy','agniveer','nsry'],
+        railway: ['rrb','railway','alp','rrc'],
+        bank: ['psb','bob','pnb','bank','sbi'],
+        '10th': ['constable','tradesman','apprentice','forest','iti'],
+        graduate: ['aso','si','officer','scientist','engineer','coach','lbo']
       };
       const keywords = map[type] || [];
       const filtered = allJobs.filter(j =>
