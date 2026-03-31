@@ -1377,4 +1377,10 @@
         card.className = 'f-result';
         card.innerHTML = '<div class="f-result-title">' + job.title.substring(0,60) + '...</div>' +
           '<div style="font-size:10px;color:#64748b;font-family:Poppins,sans-serif;">📊 ' + (h.vacancy||'-') + ' &nbsp; 📅 ' + (h.applyDate||'-') + '</div>' +
-          '<a href="pages/
+          '<a href="pages/job-detail.html?id=' + job.id + '" class="f-result-link">Poori Jaankari →</a>';
+        msgs.appendChild(card);
+      });
+
+      msgs.scrollTop = msgs.scrollHeight;
+      document.getElementById('floatRestart').style.display = 'block';
+    }
