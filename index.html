@@ -1,36 +1,3 @@
-
-  <!-- NEWS TICKER JS -->
-  <script>
-  (function() {
-    var fallbackNews = [
-      { title: 'Punjab & Sind Bank 1000 LBO Posts 2026 — Apply by 20 April', link: 'pages/job-detail.html?id=psb-lbo-2026' },
-      { title: 'SSF Constable Barber Washerman 2026 — 10 Posts Apply', link: 'pages/job-detail.html?id=ssf-constable-2026' },
-      { title: 'NIC Scientist B 2026 — 243 Posts GATE Required', link: 'pages/job-detail.html?id=nic-scientist-b-2026' },
-      { title: 'SAI Assistant Coach 2026 — 323 Posts 26 Sports', link: 'pages/job-detail.html?id=sai-assistant-coach-2026' },
-      { title: 'Pune Police Constable Result 2026 — Merit List Out', link: 'pages/job-detail.html?id=pune-police-constable-result-2026' },
-      { title: 'ISRO URSC Scientist 2026 — 12 April Last Date', link: 'pages/job-detail.html?id=isro-ursc-2026' },
-      { title: 'Bank of Baroda 104 WMS Posts — Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
-      { title: 'RPSC School Lecturer Result 2026 — Maths & Sanskrit Out', link: 'pages/job-detail.html?id=rpsc-lecturer-result-2026' },
-      { title: 'PNB Apprentice Result 2026 — Provisional List Out', link: 'pages/job-detail.html?id=pnb-apprentice-result-2026' },
-      { title: 'DDA Mali Result 2026 — Select List Download', link: 'pages/job-detail.html?id=dda-mali-result-2026' },
-      { title: 'RRB ALP 2026 — 9000+ Posts Notification', link: 'pages/job-detail.html?id=rrb-alp-2026' },
-      { title: 'Navy Apprentice 2026 — 240 Posts ITI Apply', link: 'pages/job-detail.html?id=nsry-apprentice-2026' },
-    ];
-    function loadTicker(items) {
-      var inner = document.getElementById('tickerInner');
-      if (!inner) return;
-      var html = '';
-      items.forEach(function(item) {
-        html += '<a href="' + item.link + '" class="ticker-item">' + item.title + '</a>';
-      });
-      inner.innerHTML = html;
-      inner.style.animation = 'none';
-      inner.offsetHeight;
-      inner.style.animation = '';
-    }
-    document.addEventListener('DOMContentLoaded', function() { loadTicker(fallbackNews); });
-  })();
-  </script>
 <!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -39,14 +6,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SarthakYojana.in – Sarkari Naukri, Yojana & Results 2026</title>
-  <meta name="description" content="SarthakYojana.in – Latest sarkari naukri 2026, Punjab Sind Bank 1000 LBO posts, government schemes, board results aur admit card ki puri jaankari Hindi mein. PM Kisan, Ladli Bahna, RBSE, SSC, Railway – sabhi updates.">
-  <meta name="keywords" content="sarkari naukri 2026, government jobs india, Punjab Sind Bank LBO 2026, SSF Constable 2026, NIC Scientist B, SAI Assistant Coach, PM Kisan 22vi kisht, Ladli Bahna 2026, RBSE result 2026, SSC bharti, Railway RRB ALP 2026, UPSSSC, Board Result 2026, sarkari yojana, admit card download, bank jobs 2026, sarthakyojana">
+  <meta name="description" content="SarthakYojana.in par milein latest sarkari naukri, PM Kisan, Ladli Bahna, RBSE Result, SSC, Railway, Police bharti 2026 ki puri jaankari Hindi mein.">
+  <meta name="keywords" content="sarkari naukri 2026, government jobs, PM Kisan, Ladli Bahna, RBSE result, SSC bharti, Railway jobs, sarkari yojana, sarthakyojana">
   <meta name="robots" content="index, follow">
   <meta name="author" content="SarthakYojana.in">
   <link rel="canonical" href="https://sarthakyojana.in/">
   <!-- Open Graph -->
-  <meta property="og:title" content="SarthakYojana.in – Sarkari Naukri, Yojana &amp; Results 2026">>
-  <meta property="og:description" content="SarthakYojana.in – Latest sarkari naukri 2026, Punjab Sind Bank 1000 LBO posts, government schemes, board results aur admit card ki puri jaankari Hindi mein. PM Kisan, Ladli Bahna, RBSE, SSC, Railway – sabhi updates.">>
+  <meta property="og:title" content="Sarthak Yojana 2026 – Sarkari Yojana & Latest Govt Jobs">
+  <meta property="og:description" content="PM Kisan, REET, SSB, RRB – sabhi sarkari naukri aur yojanaon ki puri jaankari.">
   <meta property="og:url" content="https://sarthakyojana.in/">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://sarthakyojana.in/assets/images/og-banner.jpg">
@@ -113,7 +80,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
     /* ═══ PAGE LAYOUT ═══ */
-    .page-wrapper { max-width:1200px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:1fr 260px; gap:14px; }
+    .page-wrapper { max-width:1200px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:210px 1fr 240px; gap:14px; }
 
     /* ═══ SIDEBARS ═══ */
     .sidebar { display:flex; flex-direction:column; gap:12px; }
@@ -246,6 +213,12 @@
     .ticker-sep { color:#1a56db; font-size:16px; font-weight:700; padding:0 4px; }
     .ticker-loading { color:#64748b; font-size:12px; padding:0 16px; }
     @media(max-width:600px) { .ticker-label { font-size:10px; padding:0 8px; } .ticker-item { font-size:11px; padding:0 14px; } }
+  
+    .qual-link { display:block; padding:6px 12px; font-size:12px; color:#374151; text-decoration:none; border-bottom:1px solid #f1f5f9; transition:background .15s; }
+    .qual-link:hover { background:#eff6ff; color:#1a56db; }
+    .qual-link:last-child { border-bottom:none; }
+    @media(max-width:1024px) { .page-wrapper { grid-template-columns:1fr 220px !important; } .sidebar:first-of-type { display:none; } }
+    @media(max-width:768px)  { .page-wrapper { grid-template-columns:1fr !important; } .sidebar { display:none; } }
   </style>
   <!-- Google Analytics -->
   <!-- Google Analytics -->
@@ -257,9 +230,10 @@
     gtag('config', 'G-HG8H9C38KD');
   </script>
 </head>
+
 <body>
 
-  <!-- TOP BAR -->
+<!-- TOP BAR -->
   <div class="top-bar">
     <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
     <span><span class="auto-date">📅 रविवार, 22 मार्च 2026</span></span>
@@ -305,9 +279,83 @@
   </header>
 
   <!-- PAGE WRAPPER -->
+
   <div class="page-wrapper">
 
-<main>
+    <!-- LEFT SIDEBAR -->
+    <aside class="sidebar">
+
+      <!-- Ad Slot Left Top -->
+      <div class="ad-box">
+        <div class="ad-lbl">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:250px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="YOUR_AD_SLOT_LEFT_1"
+             data-ad-format="rectangle"
+             data-full-width-responsive="false"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+
+      <!-- Qualification Wise Jobs -->
+      <div class="sidebar-box">
+        <div class="sb-head">🎓 Qualification Wise</div>
+        <div class="sb-body">
+          <a href="pages/jobs.html" class="qual-link">📗 8th Pass Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">📘 10th Pass Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">📙 12th Pass Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">🎓 ITI / Diploma</a>
+          <a href="pages/jobs.html" class="qual-link">📕 Graduation Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">🔬 B.Tech / B.E Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">🏛️ GATE / PG Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">👩‍⚕️ Medical Jobs</a>
+        </div>
+      </div>
+
+      <!-- State Wise Jobs -->
+      <div class="sidebar-box">
+        <div class="sb-head">🗺️ State Wise Jobs</div>
+        <div class="sb-body">
+          <a href="pages/jobs.html" class="qual-link">Rajasthan Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Uttar Pradesh Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Madhya Pradesh Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Bihar Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Maharashtra Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Delhi NCR Jobs</a>
+          <a href="pages/jobs.html" class="qual-link">Himachal Pradesh</a>
+          <a href="pages/jobs.html" class="qual-link">🏛️ All India Jobs</a>
+        </div>
+      </div>
+
+      <!-- Important Links -->
+      <div class="sidebar-box">
+        <div class="sb-head">🔗 Important Links</div>
+        <div class="sb-body">
+          <a href="https://ssc.gov.in" target="_blank" class="qual-link">🏛️ SSC Official</a>
+          <a href="https://indianrailways.gov.in" target="_blank" class="qual-link">🚂 Railway RRB</a>
+          <a href="https://upsc.gov.in" target="_blank" class="qual-link">🎯 UPSC Official</a>
+          <a href="https://pmkisan.gov.in" target="_blank" class="qual-link">🌾 PM Kisan Portal</a>
+          <a href="https://results.gov.in" target="_blank" class="qual-link">🏆 Sarkari Result</a>
+          <a href="https://digilocker.gov.in" target="_blank" class="qual-link">📄 DigiLocker</a>
+          <a href="https://naukri.com" target="_blank" class="qual-link">💼 Naukri.com</a>
+        </div>
+      </div>
+
+      <!-- Ad Slot Left Bottom -->
+      <div class="ad-box">
+        <div class="ad-lbl">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:250px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="YOUR_AD_SLOT_LEFT_2"
+             data-ad-format="rectangle"
+             data-full-width-responsive="false"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+
+    </aside>
+
+    <main>
 
       <!-- TOP CARDS -->
       <div class="cards-top">
@@ -325,7 +373,17 @@
         </div>
       </div>
 
-      
+      <!-- AD BANNER -->
+      <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;margin-bottom:10px;">
+        <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:60px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="YOUR_AD_SLOT_1"
+             data-ad-format="horizontal"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
 
       <!-- WHATSAPP + SEARCH -->
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
@@ -335,16 +393,6 @@
           <button onclick="searchFrom('mainSearch')" style="background:#1a56db;border:none;color:white;padding:0 14px;cursor:pointer;font-size:13px;">🔍</button>
         </div>
       </div>
-
-
-      <!-- Google AdSense – Below Search Bar -->
-      <ins class="adsbygoogle"
-           style="display:block;width:100%;min-height:90px;margin-bottom:12px;"
-           data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="auto"
-           data-ad-format="auto"
-           data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
       <!-- 4 COLUMN CONTENT -->
       <div class="three-col">
@@ -366,7 +414,6 @@
             <div class="col-item"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
             <div class="col-item"><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City Details 2026</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
           </div>
-        </div>
 
         <!-- Education -->
         <div class="col-box" id="education">
@@ -406,6 +453,14 @@
 
       </div>
 
+      
+      <!-- AD SLOT 2 - Between Sections -->
+      <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;margin-bottom:12px;">
+        <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
+        <ins class="adsbygoogle" style="display:block;width:100%;min-height:90px;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="YOUR_AD_SLOT_2" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+
       <!-- LATEST RESULTS -->
       <div class="result-section" id="latest-results">
         <div class="result-head">
@@ -435,30 +490,28 @@
 
       </div>
 
-      <!-- Google AdSense – After Results Section -->
-      <ins class="adsbygoogle"
-           style="display:block;width:100%;min-height:90px;margin-top:12px;"
-           data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="auto"
-           data-ad-format="auto"
-           data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      <!-- AD SLOT 5 - After Results -->
+      <div style="background:white;border-radius:8px;border:1px dashed #cbd5e1;padding:6px;text-align:center;margin-top:12px;">
+        <div style="font-size:10px;color:#94a3b8;margin-bottom:4px;">« Advertisement »</div>
+        <ins class="adsbygoogle" style="display:block;width:100%;min-height:90px;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="YOUR_AD_SLOT_5" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
 
+    
     </main>
 
     <!-- RIGHT SIDEBAR -->
     <aside class="sidebar">
 
-      <!-- Ad Box Sidebar -->
-      <div class="sidebar-box">
-        <div class="sb-head">💼 Latest Jobs Update</div>
-        <div class="sb-body">
-          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab Sind Bank LBO 2026 – 1000 Posts</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
-          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssf-constable-2026">SSF Constable 2026 – 10 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=nic-scientist-b-2026">NIC Scientist B 2026 – 243 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Assistant Coach 2026</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-          <div class="sb-post"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Vacancy 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-        </div>
+      <!-- Ad Box -->
+      <div class="ad-box">
+        <div class="ad-lbl">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:240px;height:250px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="YOUR_AD_SLOT_3"
+             data-ad-format="rectangle"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
       <!-- Latest Schemes Sidebar -->
@@ -467,34 +520,59 @@
         <div class="sb-body">
           <div class="scheme-item"><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 | 34th Kisht</a><div class="sc-date">📅 22 Mar 2026</div></div>
           <div class="scheme-item"><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan Samman Nidhi 22vi Kisht</a><div class="sc-date">📅 22 Mar 2026</div></div>
+          <div class="scheme-item"><a href="pages/job-detail.html?id=pm-svanidhi-2026">PM SVANidhi Loan Yojana 2026</a><div class="sc-date">📅 20 Mar 2026</div></div>
+          <div class="scheme-item"><a href="pages/job-detail.html?id=mp-pension-2026">MP Social Security Pension</a><div class="sc-date">📅 16 Mar 2026</div></div>
           <div class="scheme-item"><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026</a><div class="sc-date">📅 04 Mar 2026</div></div>
-          <div class="scheme-item"><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card 2026</a><div class="sc-date">📅 02 Mar 2026</div></div>
         </div>
+      </div>
+
+      <!-- Latest Jobs Sidebar -->
+      <div class="sidebar-box">
+        <div class="sb-head">💼 Latest Jobs</div>
+        <div class="sb-body">
+          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=uppsc-tech-principal-admit-2026">UPPSC Principal Admit Card 2026</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
+          <div class="sb-post"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssf-constable-2026">SSF Constable 2026 – 10 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=nic-scientist-b-2026">NIC Scientist B – 243 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Coach 2026 – 323 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+          <div class="sb-post"><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP 2026 – 9000+ Posts</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+        </div>
+      </div>
+
+      <!-- Ad Box Bottom -->
+      <div class="ad-box">
+        <div class="ad-lbl">« Advertisement »</div>
+        <ins class="adsbygoogle"
+             style="display:block;width:240px;height:250px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="YOUR_AD_SLOT_4"
+             data-ad-format="rectangle"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
     </aside>
 
   </div><!-- end page-wrapper -->
-  <!-- SEO CONTENT -->
+
+  <!-- SEO CONTENT BLOCK -->
   <div style="background:white;border-top:1px solid #e2e8f0;padding:20px 16px;">
     <div style="max-width:1200px;margin:0 auto;">
       <h2 style="font-size:15px;font-weight:700;color:#0f172a;margin-bottom:8px;">SarthakYojana.in – Sarkari Yojana &amp; Naukri ki Puri Jaankari</h2>
-      <p style="font-size:12px;color:#64748b;line-height:1.8;">SarthakYojana.in par milegi latest sarkari naukri 2026, board results, government schemes aur admit card ki puri jaankari Hindi mein.</p>
+      <p style="font-size:12px;color:#64748b;line-height:1.8;">SarthakYojana.in par milegi latest sarkari naukri 2026, board results, government schemes aur admit card ki puri jaankari Hindi mein. SSC, Railway, Police, Bank, UPSC sabhi ki updates.</p>
       <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
         <span style="background:#eff6ff;color:#1a56db;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">Sarkari Naukri 2026</span>
         <span style="background:#f0fdf4;color:#16a34a;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">Board Result 2026</span>
+        <span style="background:#fdf4ff;color:#7c3aed;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">UPPSC Admit Card 2026</span>
         <span style="background:#fff7ed;color:#ea580c;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">PM Kisan Yojana</span>
         <span style="background:#fef9c3;color:#b45309;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">REET Bharti 2026</span>
-        <span style="background:#ffe4ec;color:#be185d;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">Bank Jobs 2026</span>
+        <span style="background:#e0f2fe;color:#0369a1;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">SSC CGL 2026</span>
+        <span style="background:#dcfce7;color:#15803d;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">Ladli Behna Yojana</span>
+        <span style="background:#ffe4ec;color:#be185d;font-size:11px;padding:4px 10px;border-radius:50px;font-weight:600;">Admit Card Download</span>
       </div>
     </div>
   </div>
-
-  <!-- WHATSAPP STRIP -->
   <div style="background:#16a34a;text-align:center;padding:12px 16px;">
     <a href="https://whatsapp.com" target="_blank" style="color:white;font-size:14px;font-weight:600;text-decoration:none;">💬 WhatsApp Channel Join Karein — Daily Sarkari Updates Paayen</a>
   </div>
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
   <footer style="background:#1e293b;color:#94a3b8;padding:40px 16px 0;font-family:Poppins,sans-serif;">
     <div style="max-width:1100px;margin:0 auto;">
@@ -504,7 +582,7 @@
             <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="36" height="36"><circle cx="30" cy="30" r="30" fill="#1a56db"/><text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text><text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text></svg>
             <span style="font-size:18px;font-weight:700;color:white;">Sarthak Yojana</span>
           </div>
-          <p style="font-size:13px;line-height:1.8;color:#94a3b8;">Sarkari Yojana, Jobs, Results ki puri jaankari — bilkul free.</p>
+          <p style="font-size:13px;line-height:1.8;color:#94a3b8;">Sarkari Yojana, Jobs, Results aur Documents ki puri jaankari — bilkul free, bilkul sahi.</p>
         </div>
         <div>
           <h3 style="font-size:14px;font-weight:600;color:white;margin-bottom:14px;border-left:3px solid #1a56db;padding-left:8px;">Quick Links</h3>
@@ -534,6 +612,7 @@
         </div>
       </div>
       <div style="text-align:center;padding:24px 0 16px;">
+        <p style="font-size:13px;color:#94a3b8;margin-bottom:16px;letter-spacing:1px;">|| Follow us on Social Media ||</p>
         <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;">
           <a href="https://whatsapp.com" target="_blank" style="width:44px;height:44px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;text-decoration:none;color:white;font-size:20px;"><i class="fab fa-whatsapp"></i></a>
           <a href="https://t.me" target="_blank" style="width:44px;height:44px;border-radius:50%;background:#229ED9;display:flex;align-items:center;justify-content:center;text-decoration:none;color:white;font-size:20px;"><i class="fab fa-telegram"></i></a>
@@ -543,9 +622,7 @@
           <a href="https://x.com" target="_blank" style="width:44px;height:44px;border-radius:50%;background:#000;display:flex;align-items:center;justify-content:center;text-decoration:none;color:white;font-size:14px;font-weight:700;">𝕏</a>
         </div>
       </div>
-      <div style="background:#162032;border-radius:10px;padding:14px 18px;margin:0 0 16px;font-size:12px;color:#64748b;line-height:1.75;border:1px solid #1e3a5f;">
-        ⚠️ <strong style="color:#94a3b8;">Disclaimer:</strong> SarthakYojana.in ek swatantra informational platform hai. Hum kisi bhi kaam ke liye fees NAHI lete.
-      </div>
+      <div style="background:#162032;border-radius:10px;padding:14px 18px;margin:0 0 16px;font-size:12px;color:#64748b;line-height:1.75;border:1px solid #1e3a5f;">⚠️ <strong style="color:#94a3b8;">Disclaimer:</strong> SarthakYojana.in ek swatantra informational platform hai. Yeh kisi bhi government department ka official portal NAHI hai. Hum kisi bhi kaam ke liye fees NAHI lete.</div>
       <div style="border-top:1px solid #334155;padding:14px 0 20px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;">
         <p style="font-size:12px;color:#64748b;">© 2026 SarthakYojana.in – All Rights Reserved</p>
         <div style="display:flex;gap:16px;flex-wrap:wrap;">
@@ -557,6 +634,140 @@
       </div>
     </div>
   </footer>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/main.js" defer></script>
+
+<!-- NEWS TICKER JS -->
+  <script>
+  (function() {
+    // Multiple RSS sources for Sarkari news
+    var feeds = [
+      'https://news.google.com/rss/search?q=sarkari+naukri+bharti+2026&hl=hi&gl=IN&ceid=IN:hi',
+      'https://news.google.com/rss/search?q=sarkari+yojana+india+2026&hl=hi&gl=IN&ceid=IN:hi',
+      'https://news.google.com/rss/search?q=SSC+railway+recruitment+2026&hl=hi&gl=IN&ceid=IN:hi'
+    ];
+
+    // Static fallback news (shown if API fails)
+    var fallbackNews = [
+      { title: 'Punjab & Sind Bank 1000 LBO Posts 2026 — Apply by 20 April', link: 'pages/job-detail.html?id=psb-lbo-2026' },
+      { title: 'SSF Constable Barber Washerman 2026 — 10 Posts Apply', link: 'pages/job-detail.html?id=ssf-constable-2026' },
+      { title: 'NIC Scientist B 2026 — 243 Posts GATE Required', link: 'pages/job-detail.html?id=nic-scientist-b-2026' },
+      { title: 'SAI Assistant Coach 2026 — 323 Posts, 26 Sports', link: 'pages/job-detail.html?id=sai-assistant-coach-2026' },
+      { title: 'Pune City Police Constable Result 2026 — Merit List Out', link: 'pages/job-detail.html?id=pune-police-constable-result-2026' },
+      { title: 'ISRO URSC Scientist Engineer 2026 — 12 April Last Date', link: 'pages/job-detail.html?id=isro-ursc-2026' },
+      { title: 'Bank of Baroda 104 WMS Posts — Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
+      { title: 'RPSC School Lecturer Result 2026 — Maths & Sanskrit Out', link: 'pages/job-detail.html?id=rpsc-lecturer-result-2026' },
+      { title: 'PNB Apprentice Result 2026 — Provisional List Out', link: 'pages/job-detail.html?id=pnb-apprentice-result-2026' },
+      { title: 'Navy Ship Repair Yard 240 Apprentice — ITI Apply', link: 'pages/job-detail.html?id=nsry-apprentice-2026' },
+      { title: 'DDA Mali Result 2026 — Select List Download', link: 'pages/job-detail.html?id=dda-mali-result-2026' },
+      { title: 'RRB ALP 2026 — 9000+ Posts Notification', link: 'pages/job-detail.html?id=rrb-alp-2026' },
+    ];
+
+    function buildTicker(items) {
+      var inner = document.getElementById('tickerInner');
+      if (!inner) return;
+      var html = '';
+      var icons = ['📢','🔔','📋','🎯','📌','💼','🏛️','📝','⚡','🇮🇳'];
+      items.forEach(function(item, i) {
+        var icon = icons[i % icons.length];
+        html += '<a href="' + (item.link || '#') + '" class="ticker-item" target="' + (item.external ? '_blank' : '_self') + '">' +
+          '<span class="t-icon">' + icon + '</span>' + item.title +
+          '</a><span class="ticker-sep">|</span>';
+      });
+      // Duplicate for seamless loop
+      html += html;
+      inner.innerHTML = html;
+
+      // Set animation duration based on content length
+      var duration = Math.max(40, items.length * 8);
+      inner.style.animationDuration = duration + 's';
+    }
+
+    function fetchNews() {
+      // Try rss2json API (free, no key needed)
+      var rssUrl = encodeURIComponent(feeds[0]);
+      var apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + rssUrl + '&count=15';
+
+      fetch(apiUrl)
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          if (data.status === 'ok' && data.items && data.items.length > 0) {
+            var items = data.items.slice(0, 12).map(function(item) {
+              return {
+                title: item.title.replace(/ - .+$/, '').substring(0, 80),
+                link: item.link,
+                external: true
+              };
+            });
+            buildTicker(items);
+          } else {
+            buildTicker(fallbackNews);
+          }
+        })
+        .catch(function() {
+          // API fail → use fallback
+          buildTicker(fallbackNews);
+        });
+    }
+
+    // Load after page ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fetchNews);
+    } else {
+      fetchNews();
+    }
+
+    // Refresh every 10 minutes
+    setInterval(fetchNews, 600000);
+  })();
+  </script>
+  <script>
+    function toggleMenu() {
+      document.getElementById('mainNav').classList.toggle('open');
+    }
+
+    function searchFrom(id) {
+      var el = document.getElementById(id);
+      if (!el) return;
+      var q = el.value.trim();
+      if (!q) { el.focus(); return; }
+      window.location.href = 'pages/search.html?q=' + encodeURIComponent(q);
+    }
+
+    function doSearch() {
+      var ids = ['sideSearch', 'mainSearch'];
+      for (var i = 0; i < ids.length; i++) {
+        var el = document.getElementById(ids[i]);
+        if (el && el.value.trim()) {
+          window.location.href = 'pages/search.html?q=' + encodeURIComponent(el.value.trim());
+          return;
+        }
+      }
+    }
+
+    function smoothScroll(id) {
+      var el = document.getElementById(id);
+      if (el) {
+        var top = el.getBoundingClientRect().top + window.pageYOffset - 70;
+        window.scrollTo({ top: top, behavior: 'smooth' });
+      }
+    }
+
+    window.addEventListener('load', function() {
+      ['sideSearch', 'mainSearch'].forEach(function(id) {
+        var el = document.getElementById(id);
+        if (el) {
+          el.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' || e.keyCode === 13) {
+              searchFrom(id);
+            }
+          });
+        }
+      });
+
+    });
+  </script>
+
 
   <script>
     // Auto date update
@@ -570,7 +781,7 @@
     })();
   </script>
 
-  <!-- SPLASH SCREEN -->
+<!-- SPLASH SCREEN -->
   <div id="splashScreen" style="position:fixed;inset:0;z-index:99999;background:#0f172a;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;overflow-y:auto;">
 
     <!-- Logo -->
@@ -676,7 +887,7 @@
     }
   </script>
 
-  <!-- FLOATING JOB FINDER CHATBOT -->
+<!-- FLOATING JOB FINDER CHATBOT -->
   <div id="chatFloat" style="position:fixed;bottom:24px;right:20px;z-index:9998;">
 
     <!-- Floating Button -->
