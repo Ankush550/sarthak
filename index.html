@@ -428,7 +428,6 @@
       { title: 'SAI Assistant Coach 2026 — 323 Posts 26 Sports', link: 'pages/job-detail.html?id=sai-assistant-coach-2026' },
       { title: 'Pune Police Constable Result 2026 — Merit List Out', link: 'pages/job-detail.html?id=pune-police-constable-result-2026' },
       { title: 'ISRO URSC Scientist 2026 — 12 April Last Date', link: 'pages/job-detail.html?id=isro-ursc-2026' },
-      { title: 'Bank of Baroda 104 WMS Posts — Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
       { title: 'RPSC School Lecturer Result 2026 — Maths & Sanskrit Out', link: 'pages/job-detail.html?id=rpsc-lecturer-result-2026' },
       { title: 'PNB Apprentice Result 2026 — Provisional List Out', link: 'pages/job-detail.html?id=pnb-apprentice-result-2026' },
       { title: 'DDA Mali Result 2026 — Select List Download', link: 'pages/job-detail.html?id=dda-mali-result-2026' },
@@ -591,8 +590,7 @@
         <div class="cards-top-head">⚡ Quick Access — Latest & Popular Posts</div>
         <div class="cards-grid-top">
           <a href="pages/job-detail.html?id=army-agniveer-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">Indian Army Agniveer 2026 – 25000+ Posts</span></a>
-          <a href="pages/job-detail.html?id=bob-wms-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Bank of Baroda 104 Posts 2026 – Apply by 16 Apr</span></a>
-          <a href="pages/job-detail.html?id=psb-lbo-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">Punjab Sind Bank LBO 2026 – 1000 Posts</span></a>
+          <a href="pages/job-detail.html?id=psb-lbo-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Punjab Sind Bank LBO 2026 – 1000 Posts</span></a>
           <a href="pages/job-detail.html?id=ssf-constable-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">SSF Constable 2026 – 10 Posts</span></a>
           <a href="pages/job-detail.html?id=nic-scientist-b-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">NIC Scientist B 2026 – 243 Posts</span></a>
           <a href="pages/job-detail.html?id=sai-assistant-coach-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">SAI Assistant Coach 2026 – 323 Posts</span></a>
@@ -1388,4 +1386,14 @@
         card.className = 'f-result';
         card.innerHTML = '<div class="f-result-title">' + job.title.substring(0,60) + '...</div>' +
           '<div style="font-size:10px;color:#64748b;font-family:Poppins,sans-serif;">📊 ' + (h.vacancy||'-') + ' &nbsp; 📅 ' + (h.applyDate||'-') + '</div>' +
-          '<a href="pages/job-detail.html?id=' + jo
+          '<a href="pages/job-detail.html?id=' + job.id + '" class="f-result-link">Poori Jaankari →</a>';
+        msgs.appendChild(card);
+      });
+
+      msgs.scrollTop = msgs.scrollHeight;
+      document.getElementById('floatRestart').style.display = 'block';
+    }
+  </script>
+
+</body>
+</html>
