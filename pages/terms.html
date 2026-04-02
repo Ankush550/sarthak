@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Google AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
+  <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Terms and Conditions – SarthakYojana.in</title>
@@ -19,7 +19,8 @@
   <meta name="twitter:title" content="Terms and Conditions – SarthakYojana.in">
   <meta name="twitter:description" content="Terms and Conditions of SarthakYojana.in.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
   <link rel="stylesheet" href="../assets/css/style.css">
   <style>
     .policy-hero {
@@ -87,7 +88,7 @@
     }
   </style>
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
+  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-HG8H9C38KD');</script>
   <!-- Schema -->
   <script type="application/ld+json">
@@ -110,36 +111,65 @@
     }
   }
   </script>
+  <style>body{font-size:16px;}</style>
+  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" onerror="this.remove()">
+  <style>
+    .skip-nav{position:absolute;top:-60px;left:0;z-index:9999;padding:10px 20px;background:#1a56db;color:white;text-decoration:none;font-size:13px;transition:top 0.2s;}
+    .skip-nav:focus{top:0;}
+    .top-bar{background:linear-gradient(90deg,#0f172a,#1e293b);color:#94a3b8;display:flex;justify-content:space-between;align-items:center;padding:6px 20px;font-size:12px;font-family:'Poppins',sans-serif;border-bottom:1px solid #334155;}
+    .main-header{background:white;border-bottom:3px solid #1a56db;box-shadow:0 2px 20px rgba(26,86,219,0.12);position:sticky;top:0;z-index:1000;}
+    .header-inner{max-width:1340px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px;}
+    .logo-link{display:flex;align-items:center;gap:10px;text-decoration:none;flex-shrink:0;}
+    .logo-circle{display:flex;align-items:center;}
+    .logo-text{display:flex;flex-direction:column;line-height:1.1;}
+    .logo-name{font-size:17px;font-weight:800;color:#1a56db;letter-spacing:-0.3px;}
+    .logo-tagline{font-size:9px;color:#64748b;font-weight:500;letter-spacing:0.8px;text-transform:uppercase;}
+    .main-nav{display:flex;align-items:center;gap:2px;flex:1;justify-content:center;}
+    .nav-link{color:#374151;text-decoration:none;font-size:13px;font-weight:500;padding:8px 12px;border-radius:8px;transition:all 0.2s;white-space:nowrap;font-family:'Poppins',sans-serif;}
+    .nav-link:hover,.nav-link.active{background:#eff6ff;color:#1a56db;font-weight:600;}
+    .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:8px;border-radius:8px;}
+    .hamburger span{display:block;width:22px;height:2.5px;background:#374151;border-radius:2px;transition:all 0.3s;}
+    @media(max-width:900px){
+      .hamburger{display:flex;}
+      .main-nav{display:none;position:absolute;top:64px;left:0;right:0;background:white;flex-direction:column;align-items:stretch;padding:12px 16px;border-bottom:3px solid #1a56db;box-shadow:0 8px 24px rgba(0,0,0,0.1);gap:4px;z-index:999;justify-content:flex-start;}
+      .main-nav.open{display:flex;}
+      .logo-text{display:none;}
+      .header-inner{height:56px;padding:0 14px;}
+    }
+    @media(max-width:480px){.top-bar{font-size:11px;padding:5px 12px;}}
+  </style>
+
 </head>
 <body>
-
   <!-- TOP BAR -->
-  <div class="top-bar">
-    <span>🇮🇳 Jai Hind — Sarkari Yojana &amp; Naukri ki Puri Jaankari</span>
-    <span><span class="auto-date">📅 अपडेट हो रहा है...</span></span>
-  </div>
+  <a href="#main-content" class="skip-nav">Skip to main content</a>
+  <div class="top-bar"><span>🇮🇳 Jai Hind — Sarkari Yojana &amp; Naukri ki Puri Jaankari</span><span class="auto-date">📅 अपडेट हो रहा है...</span></div>
 
   <!-- HEADER -->
   <header class="main-header">
     <div class="header-inner">
-      <a href="../index.html" class="logo-link">
+      <a href="../index.html" class="logo-link" aria-label="SarthakYojana Home">
         <div class="logo-circle">
-          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42">
+          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="44" height="44" role="img" aria-label="SarthakYojana Logo">
             <circle cx="30" cy="30" r="30" fill="#1a56db"/>
             <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
-            <text x="30" y="25" text-anchor="middle" fill="#ffffff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
+            <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
             <text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text>
           </svg>
         </div>
+        <div class="logo-text">
+          <span class="logo-name">SarthakYojana</span>
+          <span class="logo-tagline">Sarkari Naukri &amp; Yojana</span>
+        </div>
       </a>
       <button class="hamburger" onclick="toggleMenu()" aria-label="Menu"><span></span><span></span><span></span></button>
-      <nav class="main-nav" id="mainNav">
+      <nav class="main-nav" id="mainNav" role="navigation">
         <a href="../index.html" class="nav-link">🏠 Home</a>
-        <a href="jobs.html" class="nav-link">💼 Latest Jobs</a>
-        <a href="results.html" class="nav-link">🏆 Results</a>
-        <a href="schemes.html" class="nav-link">📋 Latest Schemes</a>
-        <a href="private-jobs.html" class="nav-link">🏢 Private Jobs</a>
-        <a href="about.html" class="nav-link">ℹ️ About Us</a>
+        <a href="../pages/jobs.html" class="nav-link">💼 Latest Jobs</a>
+        <a href="../pages/results.html" class="nav-link">🏆 Results</a>
+        <a href="../pages/schemes.html" class="nav-link">📋 Schemes</a>
+        <a href="../pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
+        <a href="../pages/about.html" class="nav-link">ℹ️ About</a>
       </nav>
     </div>
   </header>
@@ -157,7 +187,7 @@
     <p>Last Updated: 22 March 2026 — Please read these terms carefully before using our website.</p>
   </div>
 
-  <div class="policy-body">
+  <div class="policy-body" id="main-content">
     <div class="policy-card">
       <p class="last-updated">Effective Date: 22 March 2026 &nbsp;|&nbsp; Website: sarthakyojana.in</p>
 
@@ -269,7 +299,7 @@
       <h2>14. Contact Us</h2>
       <p>
         If you have any questions about these Terms and Conditions, please contact us at:<br><br>
-        📧 <a href="mailto:ankush.jain70146@gmail.com" style="color:#0f766e;">ankush.jain70146@gmail.com</a><br>
+        📧 <a href="/cdn-cgi/l/email-protection#80e1eeebf5f3e8aeeae1e9eeb7b0b1b4b6c0e7ede1e9ecaee3efed" style="color:#0f766e;"><span class="__cf_email__" data-cfemail="65040b0e10160d4b0f040c0b5255545153250208040c094b060a08">[email&#160;protected]</span></a><br>
         🌐 <a href="https://sarthakyojana.in/pages/contact.html" style="color:#0f766e;">sarthakyojana.in/pages/contact.html</a><br>
         📍 Sodala, Jaipur, Rajasthan 302019, India
       </p>
@@ -290,7 +320,7 @@
     <p>© 2026 SarthakYojana.in – All Rights Reserved</p>
   </footer>
 
-  <script src="../assets/js/main.js"></script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="../assets/js/main.js"></script>
   <script>
     function toggleMenu() { document.getElementById('mainNav').classList.toggle('open'); }
     (function(){
@@ -306,6 +336,4 @@
     <div style="flex:1;min-width:200px;">🍪 <strong>Cookies Notice:</strong> Yeh website cookies use karti hai. <a href="privacy-policy.html" style="color:#93c5fd;text-decoration:underline;">Privacy Policy</a></div>
     <div style="display:flex;gap:8px;"><button onclick="cookieAccept()" style="background:#1a56db;color:white;border:none;padding:8px 18px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Accept</button><button onclick="cookieDecline()" style="background:#334155;color:#e2e8f0;border:none;padding:8px 14px;border-radius:6px;font-size:12px;cursor:pointer;font-family:Poppins,sans-serif;">Decline</button></div>
   </div>
-  <script>(function(){if(!localStorage.getItem('cookieConsent')){document.getElementById('cookieBanner').style.display='flex';}})();function cookieAccept(){localStorage.setItem('cookieConsent','accepted');document.getElementById('cookieBanner').style.display='none';}function cookieDecline(){localStorage.setItem('cookieConsent','declined');document.getElementById('cookieBanner').style.display='none';}</script>
-</body>
-</html>
+  <script>(function(){if(!localStorage.getItem('cookieConsent')){document.getElementById('cookieBanner').style.display='flex';}})();function cookieAccept(){localStorage.set
