@@ -419,6 +419,7 @@
   <script>
   (function() {
     var fallbackNews = [
+      { title: '🔴 NEW: Patna High Court Technical Assistant 2026 — 53 Posts, Apply by 30 April', link: 'pages/job-detail.html?id=patna-hc-technical-assistant-2026' },
       { title: '🔴 NEW: Bank of Baroda 104 Posts 2026 — Deputy Manager & AVP, Apply by 16 April', link: 'pages/job-detail.html?id=bob-wms-2026' },
       { title: 'Indian Army Agniveer Bharti 2026 — 25000+ Posts, Apply by 10 April', link: 'pages/job-detail.html?id=army-agniveer-2026' },
       { title: 'Bihar Board 10th Result 2026 — BSEB Matric Result Declared, Check Now', link: 'pages/job-detail.html?id=bseb-10th-result-2026' },
@@ -589,6 +590,7 @@
       <div class="cards-top">
         <div class="cards-top-head">⚡ Quick Access — Latest & Popular Posts</div>
         <div class="cards-grid-top">
+          <a href="pages/job-detail.html?id=patna-hc-technical-assistant-2026" class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">Patna HC Technical Assistant 2026 – 53 Posts</span></a>
           <a href="pages/job-detail.html?id=army-agniveer-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">Indian Army Agniveer 2026 – 25000+ Posts</span></a>
           <a href="pages/job-detail.html?id=psb-lbo-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Punjab Sind Bank LBO 2026 – 1000 Posts</span></a>
           <a href="pages/job-detail.html?id=ssf-constable-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">SSF Constable 2026 – 10 Posts</span></a>
@@ -644,6 +646,7 @@
         <div class="col-box" id="latest-jobs">
           <div class="col-head col-head-jobs">💼 Latest Jobs</div>
           <div class="col-body">
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=patna-hc-technical-assistant-2026">Patna High Court Technical Assistant 2026 – 53 Posts, Apply by 30 April</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bob-wms-2026">Bank of Baroda Deputy Manager &amp; AVP 2026 – 104 Posts, Apply by 16 April</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=army-agniveer-2026">Indian Army Agniveer 2026 – 25000+ Posts, Apply by 10 April</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab &amp; Sind Bank LBO 2026 – 1000 Posts, Apply by 20 April</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
@@ -1136,9 +1139,11 @@
       .then(function(r){ return r.json(); })
       .then(function(data){
         var jobs = data.filter(function(j){ return j.category === 'Jobs'; }).slice(0, 4);
+        // Patna HC specifically pin on splash
+        var patnaHC = data.filter(function(j){ return j.id === 'patna-hc-technical-assistant-2026'; });
         // Bihar Board 10th Result — specifically include
         var bseb = data.filter(function(j){ return j.id === 'bseb-10th-result-2026'; });
-        var combined = jobs.concat(bseb);
+        var combined = patnaHC.concat(jobs.filter(function(j){ return j.id !== 'patna-hc-technical-assistant-2026'; })).slice(0,4).concat(bseb);
         var badges = { 'Jobs': {bg:'#1a56db',label:'नई नौकरी'}, 'Education': {bg:'#dc2626',label:'नया अपडेट'} };
         var html = '';
         combined.forEach(function(item){
