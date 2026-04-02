@@ -420,7 +420,7 @@
         <div class="rr-actions">
           <span class="status s-out">✅ OUT</span>
           <a href="job-detail.html?id=pune-police-constable-result-2026" class="btn-result">Dekhen</a>
-          <a href="https://punepolice.gov.in" target="_blank" class="btn-result outline">Official</a>
+          <a href="https://punepolice.gov.in" target="_blank" rel="noopener noreferrer" class="btn-result outline">Official</a>
         </div>
       </div>
 
@@ -504,14 +504,14 @@
         <div style="font-size:13px;font-weight:700;color:#15803d;">💬 Latest Results ki instant jaankari chahiye?</div>
         <div style="font-size:12px;color:#16a34a;margin-top:2px;">WhatsApp Channel join karo — result aate hi notification milegi!</div>
       </div>
-      <a href="https://whatsapp.com" target="_blank" style="background:#16a34a;color:white;font-size:13px;font-weight:700;padding:10px 22px;border-radius:50px;text-decoration:none;">📲 Join WhatsApp</a>
+      <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer" style="background:#16a34a;color:white;font-size:13px;font-weight:700;padding:10px 22px;border-radius:50px;text-decoration:none;">📲 Join WhatsApp</a>
     </div>
 
   </div><!-- end page-wrapper -->
 
   <!-- WHATSAPP STRIP -->
   <div style="background:#16a34a;text-align:center;padding:12px 16px;">
-    <a href="https://whatsapp.com" target="_blank" style="color:white;font-size:14px;font-weight:600;text-decoration:none;">
+    <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer" style="color:white;font-size:14px;font-weight:600;text-decoration:none;">
       💬 WhatsApp Channel Join Karein — Daily Sarkari Updates Paayen
     </a>
   </div>
@@ -555,7 +555,7 @@
           <div style="display:flex;flex-direction:column;gap:9px;">
             <span style="font-size:13px;color:#94a3b8;">📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1d74737b725d6e7c6f69757c766472777c737c337473">[email&#160;protected]</a></span>
             <span style="font-size:13px;color:#94a3b8;">📍 Rajasthan, India</span>
-            <a href="https://whatsapp.com" target="_blank" style="color:#4ade80;font-size:13px;text-decoration:none;">💬 WhatsApp Channel</a>
+            <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer" style="color:#4ade80;font-size:13px;text-decoration:none;">💬 WhatsApp Channel</a>
           </div>
         </div>
       </div>
@@ -608,5 +608,33 @@
       });
     }
   </script>
+
+  <!-- COOKIE CONSENT BANNER -->
+  <div id="cookieBanner" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#1e293b;color:#e2e8f0;padding:14px 20px;font-family:Poppins,sans-serif;font-size:13px;border-top:2px solid #1a56db;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+    <div style="flex:1;min-width:200px;">
+      🍪 <strong>Cookies Notice:</strong> Yeh website cookies use karti hai — analytics aur advertising ke liye (Google AdSense). 
+      <a href="privacy-policy.html" style="color:#93c5fd;text-decoration:underline;">Privacy Policy</a> padhein.
+    </div>
+    <div style="display:flex;gap:8px;flex-shrink:0;">
+      <button onclick="cookieAccept()" style="background:#1a56db;color:white;border:none;padding:8px 18px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Accept</button>
+      <button onclick="cookieDecline()" style="background:#334155;color:#e2e8f0;border:none;padding:8px 14px;border-radius:6px;font-size:12px;cursor:pointer;font-family:Poppins,sans-serif;">Decline</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      if(!localStorage.getItem('cookieConsent')){
+        document.getElementById('cookieBanner').style.display='flex';
+      }
+    })();
+    function cookieAccept(){
+      localStorage.setItem('cookieConsent','accepted');
+      document.getElementById('cookieBanner').style.display='none';
+    }
+    function cookieDecline(){
+      localStorage.setItem('cookieConsent','declined');
+      document.getElementById('cookieBanner').style.display='none';
+    }
+  </script>
+
 </body>
 </html>

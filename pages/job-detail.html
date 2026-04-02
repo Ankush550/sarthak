@@ -245,6 +245,8 @@
       <a href="about.html"          style="color:#93c5fd;">About Us</a>
       <a href="privacy-policy.html" style="color:#93c5fd;">Privacy Policy</a>
       <a href="disclaimer.html"     style="color:#93c5fd;">Disclaimer</a>
+      <a href="terms.html"          style="color:#93c5fd;">Terms</a>
+      <a href="sitemap.html"        style="color:#93c5fd;">Sitemap</a>
       <a href="contact.html"        style="color:#93c5fd;">Contact</a>
     </div>
     <p>© 2026 SarthakYojana.in – All Rights Reserved</p>
@@ -575,8 +577,8 @@
           <div>
             <div style="font-size:13px;font-weight:600;color:#374151;margin-bottom:8px;">Share This Post:</div>
             <div class="share-btns">
-              <a class="share-btn btn-wa"   href="https://wa.me/?text=${encodeURIComponent(j.title + ' – ' + window.location.href)}" target="_blank">💬 Join WhatsApp</a>
-              <a class="share-btn btn-tg"   href="https://t.me/share/url?url=${encodeURIComponent(window.location.href)}&amp;text=${encodeURIComponent(j.title)}" target="_blank">📨 Join Telegram</a>
+              <a class="share-btn btn-wa"   href="https://wa.me/?text=${encodeURIComponent(j.title + ' – ' + window.location.href)}" target="_blank" rel="noopener noreferrer">💬 Join WhatsApp</a>
+              <a class="share-btn btn-tg"   href="https://t.me/share/url?url=${encodeURIComponent(window.location.href)}&amp;text=${encodeURIComponent(j.title)}" target="_blank" rel="noopener noreferrer">📨 Join Telegram</a>
               <button class="share-btn btn-copy" onclick="navigator.clipboard.writeText(window.location.href);alert('Link copy ho gaya!')">🔗 Copy Link</button>
               <a class="share-btn btn-home" href="../index.html">🏠 Back to Home</a>
             </div>
@@ -689,6 +691,14 @@
     }
   })();
 </script>
+
+
+  <!-- COOKIE CONSENT BANNER -->
+  <div id="cookieBanner" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#1e293b;color:#e2e8f0;padding:14px 20px;font-family:Poppins,sans-serif;font-size:13px;border-top:2px solid #1a56db;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+    <div style="flex:1;min-width:200px;">🍪 <strong>Cookies Notice:</strong> Yeh website cookies use karti hai. <a href="privacy-policy.html" style="color:#93c5fd;text-decoration:underline;">Privacy Policy</a></div>
+    <div style="display:flex;gap:8px;"><button onclick="cookieAccept()" style="background:#1a56db;color:white;border:none;padding:8px 18px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Accept</button><button onclick="cookieDecline()" style="background:#334155;color:#e2e8f0;border:none;padding:8px 14px;border-radius:6px;font-size:12px;cursor:pointer;font-family:Poppins,sans-serif;">Decline</button></div>
+  </div>
+  <script>(function(){if(!localStorage.getItem('cookieConsent')){document.getElementById('cookieBanner').style.display='flex';}})();function cookieAccept(){localStorage.setItem('cookieConsent','accepted');document.getElementById('cookieBanner').style.display='none';}function cookieDecline(){localStorage.setItem('cookieConsent','declined');document.getElementById('cookieBanner').style.display='none';}</script>
 
 </body>
 </html>

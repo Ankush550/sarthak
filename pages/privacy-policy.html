@@ -147,6 +147,13 @@
     </div>
   </header>
 
+  <!-- BREADCRUMB -->
+  <div style="background:white;border-bottom:1px solid #e2e8f0;padding:7px 0;">
+    <div style="max-width:1100px;margin:0 auto;padding:0 14px;font-size:12px;color:#64748b;">
+      <a href="../index.html" style="color:#1a56db;text-decoration:none;">Home</a> › <span>Privacy Policy</span>
+    </div>
+  </div>
+
   <!-- HERO -->
   <div class="policy-hero">
     <h1>🔒 Privacy Policy</h1>
@@ -184,12 +191,12 @@
         SarthakYojana.in uses <strong>Google AdSense</strong> to display advertisements. Google uses cookies to serve ads based on your prior visits to this website and other websites on the internet.
       </p>
       <p>
-        Google's use of advertising cookies enables it and its partners to serve ads based on your visit to our site and/or other sites on the Internet. You may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="color:#1a56db;">Google Ads Settings</a>.
+        Google's use of advertising cookies enables it and its partners to serve ads based on your visit to our site and/or other sites on the Internet. You may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" style="color:#1a56db;">Google Ads Settings</a>.
       </p>
       <ul>
         <li>Google AdSense uses the <strong>DART cookie</strong> to serve ads to users based on their visit to our site.</li>
         <li>Third-party vendors, including Google, use cookies to serve ads based on prior visits.</li>
-        <li>Users may opt out of third-party cookies via the <a href="https://optout.networkadvertising.org/" target="_blank" style="color:#1a56db;">Network Advertising Initiative opt-out page</a>.</li>
+        <li>Users may opt out of third-party cookies via the <a href="https://optout.networkadvertising.org/" target="_blank" rel="noopener noreferrer" style="color:#1a56db;">Network Advertising Initiative opt-out page</a>.</li>
       </ul>
 
       <h2>4. Third-Party Services</h2>
@@ -256,6 +263,8 @@
       <a href="about.html"          style="color:#93c5fd;">About Us</a>
       <a href="privacy-policy.html" style="color:#93c5fd;">Privacy Policy</a>
       <a href="disclaimer.html"     style="color:#93c5fd;">Disclaimer</a>
+      <a href="terms.html"          style="color:#93c5fd;">Terms</a>
+      <a href="sitemap.html"        style="color:#93c5fd;">Sitemap</a>
       <a href="contact.html"        style="color:#93c5fd;">Contact</a>
     </div>
     <p>© 2026 SarthakYojana.in – All Rights Reserved</p>
@@ -270,5 +279,33 @@
       document.querySelectorAll('.auto-date').forEach(function(el){el.textContent='📅 '+str;});
     })();
   </script>
+
+  <!-- COOKIE CONSENT BANNER -->
+  <div id="cookieBanner" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#1e293b;color:#e2e8f0;padding:14px 20px;font-family:Poppins,sans-serif;font-size:13px;border-top:2px solid #1a56db;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+    <div style="flex:1;min-width:200px;">
+      🍪 <strong>Cookies Notice:</strong> Yeh website cookies use karti hai — analytics aur advertising ke liye (Google AdSense). 
+      <a href="privacy-policy.html" style="color:#93c5fd;text-decoration:underline;">Privacy Policy</a> padhein.
+    </div>
+    <div style="display:flex;gap:8px;flex-shrink:0;">
+      <button onclick="cookieAccept()" style="background:#1a56db;color:white;border:none;padding:8px 18px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;font-family:Poppins,sans-serif;">Accept</button>
+      <button onclick="cookieDecline()" style="background:#334155;color:#e2e8f0;border:none;padding:8px 14px;border-radius:6px;font-size:12px;cursor:pointer;font-family:Poppins,sans-serif;">Decline</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      if(!localStorage.getItem('cookieConsent')){
+        document.getElementById('cookieBanner').style.display='flex';
+      }
+    })();
+    function cookieAccept(){
+      localStorage.setItem('cookieConsent','accepted');
+      document.getElementById('cookieBanner').style.display='none';
+    }
+    function cookieDecline(){
+      localStorage.setItem('cookieConsent','declined');
+      document.getElementById('cookieBanner').style.display='none';
+    }
+  </script>
+
 </body>
 </html>
