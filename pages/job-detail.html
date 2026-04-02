@@ -4,6 +4,13 @@
   <!-- Google AdSense -->
   <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <meta charset="UTF-8">
+  <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%231a56db'/%3E%3Ctext x='16' y='21' text-anchor='middle' fill='white' font-size='14' font-family='serif' font-weight='bold'%3E%E0%A4%B8%3C/text%3E%3C/svg%3E">
+  <meta name="theme-color" content="#1a56db">
+
   <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval';">
   <meta name="referrer" content="strict-origin-when-cross-origin">
 
@@ -270,6 +277,9 @@
   </div>
 
   <!-- MAIN -->
+  <!-- Static H1 for SEO (JS updates content dynamically) -->
+  <h1 id="pageH1Static" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Sarkari Naukri Yojana Details 2026 – SarthakYojana.in</h1>
+
   <div class="detail-wrap" id="mainWrap">
     <div class="loading" id="loadingMsg">⏳ Loading details...</div>
   </div>
@@ -353,6 +363,9 @@
     }
 
     function renderJob(j) {
+      // Update static H1 for SEO
+      var h1Static = document.getElementById('pageH1Static');
+      if(h1Static) { h1Static.textContent = j.title + ' – SarthakYojana.in'; h1Static.removeAttribute('style'); h1Static.style.cssText='font-size:0;height:0;overflow:hidden;'; }
       // Unique title per job
       const pageTitle = j.title + ' 2026 – ' + j.category + ' | Sarthak Yojana';
       const pageDesc  = j.description ? j.description.substring(0, 155) : j.title + ' – Eligibility, Dates, Apply Online at SarthakYojana.in';
@@ -483,7 +496,7 @@
           <div class="d-card">
             <div class="d-card-head">✅ Eligibility Criteria / पात्रता शर्तें</div>
             <div class="d-card-body" style="overflow-x:auto;">
-              <table class="elig-table">
+              <table class="elig-table"><caption style="font-size:12px;color:#64748b;text-align:left;padding:4px 0;caption-side:top;">✅ Eligibility / Paatrata Shartein</caption>
                 <thead><tr><th>Class</th><th>Age Eligibility</th><th>Category</th><th>Residence</th></tr></thead>
                 <tbody>${j.eligibility.map(e => `<tr><td><b>${e.class}</b></td><td>${e.age}</td><td>${e.category}</td><td>${e.residence}</td></tr>`).join('')}</tbody>
               </table>
@@ -539,6 +552,7 @@
           <div class="title-box">
             <span class="cat-badge">${j.category}</span>
             <h1 style="margin-top:8px;">${j.title}</h1>
+            <h2 style="font-size:14px;color:#64748b;font-weight:500;margin-top:6px;">📋 Puri Jaankari: Eligibility, Last Date, Apply Online</h2>
             <div class="title-meta">
               <span>🕐 Last Update: ${j.lastUpdate}</span>
             </div>
@@ -551,7 +565,7 @@
             <div class="d-card">
               <div class="d-card-head">📅 Important Dates / महत्वपूर्ण तिथि</div>
               <div class="d-card-body" style="padding:0;">
-                <table>${dateRows}</table>
+                <table><caption style="font-size:12px;color:#64748b;text-align:left;padding:4px 0;caption-side:top;">📅 Mahatvapurn Titiyan (Important Dates)</caption>${dateRows}</table>
               </div>
             </div>
             <div class="d-card">
