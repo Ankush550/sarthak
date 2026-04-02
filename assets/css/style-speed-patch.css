@@ -1,0 +1,115 @@
+/* ============================================================
+   SarthakYojana.in – Speed & CLS Optimization Patch
+   Add this to END of your assets/css/style.css file
+   ============================================================ */
+
+/* ── 1. Font Display: swap (prevents render-blocking fonts) ── */
+@font-face {
+  font-family: 'Poppins';
+  font-display: swap;
+}
+
+/* ── 2. Body font-size minimum 16px (AdSense readable fonts req) ── */
+body {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── 3. Fix CLS – Reserve space for images & ads ── */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* AdSense ad slots – reserve space to prevent layout shift */
+.adsbygoogle {
+  display: block;
+  min-height: 90px;
+}
+
+ins.adsbygoogle[data-ad-format="rectangle"] {
+  min-height: 250px;
+}
+
+/* ── 4. Logo SVG – fix dimensions to prevent CLS ── */
+.logo-circle svg {
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+}
+
+/* ── 5. Nav link font-size readability ── */
+.nav-link {
+  font-size: 14px;
+}
+
+/* ── 6. Card text min size ── */
+.col-item a,
+.sb-post a,
+.scheme-item a,
+.result-item a,
+.sb-item a {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+/* ── 7. Footer links ── */
+footer a {
+  font-size: 13px;
+}
+
+/* ── 8. Lazy loading placeholder ── */
+img[loading="lazy"] {
+  background-color: #f1f5f9;
+}
+
+/* ── 9. Smooth scrolling for better UX ── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── 10. Focus styles for accessibility (AdSense req) ── */
+a:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid #1a56db;
+  outline-offset: 2px;
+}
+
+/* ── 11. Skip navigation link (accessibility) ── */
+.skip-nav {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #1a56db;
+  color: white;
+  padding: 8px 16px;
+  z-index: 100;
+  text-decoration: none;
+  font-size: 14px;
+  transition: top 0.2s;
+}
+.skip-nav:focus {
+  top: 0;
+}
+
+/* ── 12. Print styles (reduces bounce, improves UX) ── */
+@media print {
+  .top-bar, .main-header, .news-ticker-wrap, footer, .sidebar, .ad-box { display: none; }
+  body { font-size: 12pt; }
+  a { text-decoration: none; color: #000; }
+}
+
+/* ── 13. Prefers-reduced-motion (accessibility) ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

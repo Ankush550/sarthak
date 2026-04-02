@@ -2,8 +2,14 @@
 <html lang="hi">
 <head>
   <!-- Google AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
+  <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <meta charset="UTF-8">
+  <!-- Performance: DNS Prefetch & Preconnect -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SarthakYojana.in – Sarkari Naukri, Yojana & Results 2026</title>
   <meta name="description" content="SarthakYojana.in – Latest sarkari naukri 2026, government schemes, board results aur admit card ki puri jaankari Hindi mein. SSC, Railway, Army – sabhi updates.">
@@ -76,8 +82,15 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
   <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    body { font-size: 16px; }
+    .col-item a, .sb-post a, .scheme-item a, .result-item a { font-size: 13px; }
+  </style>
   <style>
     /* ═══ PAGE LAYOUT ═══ */
     .page-wrapper { max-width:1340px; margin:0 auto; padding:16px 12px; display:grid; grid-template-columns:240px 1fr 260px; gap:14px; align-items:start; }
@@ -405,15 +418,17 @@
 
   </style>
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
+  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-HG8H9C38KD');
   </script>
+  <link rel="stylesheet" href="assets/css/style-speed-patch.css" media="print" onload="this.media='all'">
 </head>
 <body>
+  <a href="#main-content" class="skip-nav">Skip to main content</a>
 
   <!-- NEWS TICKER JS -->
   <script>
@@ -483,7 +498,7 @@
     <div class="header-inner">
       <a href="index.html" class="logo-link">
         <div class="logo-circle">
-          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42">
+          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42" role="img" aria-label="SarthakYojana.in Logo">
             <circle cx="30" cy="30" r="30" fill="#1a56db"/>
             <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
             <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
@@ -504,7 +519,7 @@
   </header>
 
   <!-- PAGE WRAPPER -->
-  <div class="page-wrapper">
+  <div class="page-wrapper" id="main-content">
 
 
     <!-- ══════════ LEFT SIDEBAR ══════════ -->
@@ -513,7 +528,7 @@
       <!-- Ad Block – Left Sidebar Top -->
       <div style="background:white;border-radius:14px;border:1px dashed #e2e8f0;padding:8px;text-align:center;box-shadow:0 2px 8px rgba(26,86,219,0.07);">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:4px;">« Advertisement »</div>
-        <ins class="adsbygoogle"
+        <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:250px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="7788990011"
@@ -591,7 +606,7 @@
 
     </aside>
 
-<main>
+<main id="main-content">
 
       <!-- TOP CARDS -->
       <div class="cards-top">
@@ -622,7 +637,7 @@
       <!-- ── COMPACT AD INLINE 1 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:10px;">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
-        <ins class="adsbygoogle"
+        <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="1122334455"
@@ -642,7 +657,7 @@
 
 
       <!-- Google AdSense – Below Search Bar -->
-      <ins class="adsbygoogle"
+      <ins loading="lazy" class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-bottom:12px;"
            data-ad-client="ca-pub-8602963796651751"
            data-ad-slot="3456789012"
@@ -723,7 +738,7 @@
       <!-- ── COMPACT AD INLINE 2 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
-        <ins class="adsbygoogle"
+        <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="5544332211"
@@ -767,7 +782,7 @@
       </div>
 
       <!-- Google AdSense – After Results Section -->
-      <ins class="adsbygoogle"
+      <ins loading="lazy" class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-top:12px;"
            data-ad-client="ca-pub-8602963796651751"
            data-ad-slot="6789012345"
@@ -850,7 +865,7 @@
       <!-- ── AdSense ── -->
       <div style="background:white;border-radius:12px;border:1px dashed #e2e8f0;padding:8px;text-align:center;">
         <div style="font-size:10px;color:#cbd5e1;margin-bottom:4px;">« Advertisement »</div>
-        <ins class="adsbygoogle"
+        <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:200px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="2345678901"
