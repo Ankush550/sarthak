@@ -124,7 +124,7 @@
   @media(max-width:768px){.course-grid{grid-template-columns:1fr;}.book-grid{grid-template-columns:repeat(2,1fr);}.aff-float{display:none;}}
   </style>
   <!-- Google Analytics -->
-  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -149,7 +149,7 @@
   <meta property="og:image" content="https://sarthakyojana.in/assets/og-banner.jpg">
   <!-- Twitter Card -->
   <style>body{font-size:16px;}</style>
-  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" onerror="this.remove()">
+  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" media="print" onload="this.media='all'" onerror="this.remove()">
   <style>
     .skip-nav{position:absolute;top:-60px;left:0;z-index:9999;padding:10px 20px;background:#1a56db;color:white;text-decoration:none;font-size:13px;transition:top 0.2s;}
     .skip-nav:focus{top:0;}
@@ -429,9 +429,9 @@ function renderJ(jobs){
   }
   // Affiliate inline cards to inject between jobs
   var affCards=[
-    '<div class="job-aff-inline"><span class="jai-icon">🎓</span><div class="jai-text"><strong>Adda247 — Banking & SSC Courses</strong><span>Flat 80% OFF — Limited Time Offer! Abhi Join Karo</span></div><a href="javascript:void(0)" aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Enroll Now →</a></div>',
-    '<div class="job-aff-inline"><span class="jai-icon">📄</span><div class="jai-text"><strong>Professional Resume — ATS-Friendly</strong><span>Expert writers se banwao — HR-approved format, ₹499 se shuru</span></div><a href="javascript:void(0)" aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Resume Banwao →</a></div>',
-    '<div class="job-aff-inline"><span class="jai-icon">🌟</span><div class="jai-text"><strong>Unacademy — IT & Tech Courses</strong><span>Full Stack, Data Science, DevOps — Career-ready bano aaj se</span></div><a href="javascript:void(0)" aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Join Free →</a></div>'
+    '<div class="job-aff-inline"><span class="jai-icon">🎓</span><div class="jai-text"><strong>Adda247 — Banking & SSC Courses</strong><span>Flat 80% OFF — Limited Time Offer! Abhi Join Karo</span></div><a href="#"  aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Enroll Now →</a></div>',
+    '<div class="job-aff-inline"><span class="jai-icon">📄</span><div class="jai-text"><strong>Professional Resume — ATS-Friendly</strong><span>Expert writers se banwao — HR-approved format, ₹499 se shuru</span></div><a href="#"  aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Resume Banwao →</a></div>',
+    '<div class="job-aff-inline"><span class="jai-icon">🌟</span><div class="jai-text"><strong>Unacademy — IT & Tech Courses</strong><span>Full Stack, Data Science, DevOps — Career-ready bano aaj se</span></div><a href="#"  aria-label="Coming soon" onclick="return false;" target="_blank" rel="nofollow sponsored" class="jai-btn">Join Free →</a></div>'
   ];
   var html='';
   jobs.forEach(function(j,i){

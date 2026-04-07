@@ -95,7 +95,8 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
   <link rel="stylesheet" href="../assets/css/style.css">
   <style>
     .page-wrapper { max-width:1100px; margin:0 auto; padding:16px 12px; }
@@ -168,14 +169,14 @@
       .nav-link { font-size:12px; padding:7px 10px; }
     }
   </style>
-  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date()); gtag('config', 'G-HG8H9C38KD');
   </script>
   <style>body{font-size:16px;}</style>
-  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" onerror="this.remove()">
+  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" media="print" onload="this.media='all'" onerror="this.remove()">
   <style>
     .skip-nav{position:absolute;top:-60px;left:0;z-index:9999;padding:10px 20px;background:#1a56db;color:white;text-decoration:none;font-size:13px;transition:top 0.2s;}
     .skip-nav:focus{top:0;}
@@ -562,7 +563,7 @@
   </div>
 
   <!-- FOOTER -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" onerror="this.remove()">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'" onerror="this.remove()">
   <footer style="background:#1e293b;color:#94a3b8;padding:40px 16px 0;font-family:Poppins,sans-serif;">
     <div style="max-width:1100px;margin:0 auto;">
       <div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:32px;padding-bottom:32px;border-bottom:1px solid #334155;">

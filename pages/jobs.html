@@ -47,7 +47,7 @@
     .job-title { font-size:13px; color:#1e40af; font-weight:500; text-decoration:none; line-height:1.4; display:block; }
     .job-title:hover { color:#dc2626; text-decoration:underline; }
     .job-meta { display:flex; gap:10px; margin-top:3px; flex-wrap:wrap; }
-    .job-meta span { font-size:11px; color:#94a3b8; }
+    .job-meta span { font-size:11px; color:#475569; }
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
 
     .sidebar-r { display:flex; flex-direction:column; gap:12px; }
@@ -57,13 +57,13 @@
     .sb-item:last-child { border-bottom:none; }
     .sb-item a { font-size:12px; color:#1e40af; font-weight:500; text-decoration:none; display:block; line-height:1.4; }
     .sb-item a:hover { color:#dc2626; }
-    .sb-date { font-size:10px; color:#94a3b8; margin-top:2px; }
+    .sb-date { font-size:10px; color:#475569; margin-top:2px; }
     .ad-box { background:#f8fafc; border:1px dashed #e2e8f0; border-radius:8px; height:250px; display:flex; align-items:center; justify-content:center; color:#cbd5e1; font-size:11px; text-align:center; }
 
     @media(max-width:768px) { .page-wrap { grid-template-columns:1fr; } .sidebar-r { display:none; } }
   </style>
   <!-- Google Analytics -->
-  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -88,7 +88,7 @@
   <meta property="og:image" content="https://sarthakyojana.in/assets/og-banner.jpg">
   <!-- Twitter Card -->
   <style>body{font-size:16px;}</style>
-  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" onerror="this.remove()">
+  <link rel="stylesheet" href="../assets/css/style-speed-patch.css" media="print" onload="this.media='all'" onerror="this.remove()">
   <style>
     .skip-nav{position:absolute;top:-60px;left:0;z-index:9999;padding:10px 20px;background:#1a56db;color:white;text-decoration:none;font-size:13px;transition:top 0.2s;}
     .skip-nav:focus{top:0;}
@@ -195,7 +195,26 @@
           <span>🔥 Latest Jobs</span>
           <span id="jobCount" style="font-size:11px;font-weight:400;opacity:0.8;"></span>
         </div>
-        <div id="jobListBody">
+        
+  <!-- SEO: Static links for Google crawler (noscript) -->
+  <noscript>
+    <div style="padding:16px;">
+      <h2>Latest Sarkari Naukri 2026</h2>
+      <ul style="list-style:none;padding:0;">
+        <li><a href="job-detail.html?id=uppsc-lt-grade-admit-2026">UPPSC LT Grade Teacher Admit Card 2026</a></li>
+        <li><a href="job-detail.html?id=ctet-feb-result-2026">CTET February Result 2026</a></li>
+        <li><a href="job-detail.html?id=bsnl-set-2026">BSNL SET Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=army-agniveer-2026">Army Agniveer Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=rrb-alp-2026">RRB ALP Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=navy-agniveer-2026">Navy Agniveer Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=ssb-si-2026">SSB SI Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=upsssc-aso-2026">UPSSSC ASO Recruitment 2026</a></li>
+        <li><a href="job-detail.html?id=reet-2026">REET 2026</a></li>
+        <li><a href="job-detail.html?id=nta-neet-2026">NTA NEET 2026</a></li>
+      </ul>
+    </div>
+  </noscript>
+  <div id="jobListBody">
           <div style="text-align:center;padding:30px;color:#64748b;">⏳ Loading jobs...</div>
         </div>
       </div>
