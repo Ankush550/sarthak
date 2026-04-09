@@ -385,10 +385,10 @@
         if(domicile.includes('all india')) score += 1;
 
         // Interest match
-        if(interest === 'Police/Defence' && (title.includes('police') || title.includes('constable') || title.includes('ssb') || title.includes('army'))) score += 3;
+        if(interest === 'Police/Defence' && (title.includes('police') || title.includes('constable') || title.includes('crpf') || title.includes('ssb') || title.includes('army') || title.includes('tradesman'))) score += 3;
         if(interest === 'Teaching' && (title.includes('teacher') || title.includes('tutor') || title.includes('reet') || title.includes('tet'))) score += 3;
-        if(interest === 'Engineering/Tech' && (title.includes('engineer') || title.includes('technical') || title.includes('iti') || title.includes('mes'))) score += 3;
-        if(interest === 'Banking/Finance' && (title.includes('bank') || title.includes('finance') || title.includes('accountant'))) score += 3;
+        if(interest === 'Engineering/Tech' && (title.includes('engineer') || title.includes('technical') || title.includes('iti') || title.includes('mining') || title.includes('sirdar') || title.includes('surveyor') || title.includes('foreman') || title.includes('scientist') || title.includes('electrician'))) score += 3;
+        if(interest === 'Banking/Finance' && (title.includes('bank') || title.includes('finance') || title.includes('accountant') || title.includes('risk') || title.includes('analyst'))) score += 3;
         if(interest === 'Medical/Health' && (title.includes('medical') || title.includes('nurse') || title.includes('health') || title.includes('nib'))) score += 3;
 
         // Category bonus
