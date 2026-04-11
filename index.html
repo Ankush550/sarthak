@@ -362,7 +362,7 @@
 
     /* ═══ NEWS TICKER ═══ */
     .news-ticker-wrap { background:#0f172a; border-bottom:2px solid #1a56db; display:flex; align-items:center; height:36px; overflow:hidden; position:relative; z-index:100; }
-    .ticker-label { background:#1e293b;color:#93c5fd;letter-spacing:.8px;text-transform:uppercase; border-right:1px solid #334155; /*  color:white; font-size:11px; font-weight:800; padding:0 14px; height:100%; display:flex; align-items:center; gap:5px; white-space:nowrap; flex-shrink:0; letter-spacing:0.5px; z-index:2; }
+    .ticker-label { background:#1e293b; color:#93c5fd; font-size:10px; font-weight:700; padding:0 16px; height:100%; display:flex; align-items:center; gap:6px; white-space:nowrap; flex-shrink:0; letter-spacing:0.8px; text-transform:uppercase; border-right:1px solid #334155; z-index:2; }
     .ticker-live-dot { display:none; }
     @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
     .ticker-track { display:flex; align-items:center; height:100%; overflow:hidden; flex:1; }
@@ -722,7 +722,8 @@
   <!-- NEWS TICKER -->
   <div class="news-ticker-wrap" id="newsTicker">
     <div class="ticker-label">
-      🆕 LATEST UPDATE
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;"><circle cx="7" cy="7" r="6" stroke="#93c5fd" stroke-width="1.5"/><path d="M5 7l2 2 3-3" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/></svg>
+      LATEST UPDATE
     </div>
     <div class="ticker-track">
       <div class="ticker-inner" id="tickerInner">
@@ -763,8 +764,7 @@
         <a href="pages/results.html"      class="nav-link">🏆 Results</a>
         <a href="pages/schemes.html"      class="nav-link">📋 Schemes</a>
         <a href="pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
-        <a href="pages/sarkari-rules.html" class="nav-link">⚖️ Rules & Laws</a>
-        <a href="pages/about.html"         class="nav-link">ℹ️ About</a>
+        <a href="pages/about.html"        class="nav-link">ℹ️ About</a>
       </nav>
 
       <!-- Search (right side) -->
@@ -1088,88 +1088,6 @@
            data-full-width-responsive="true"></ins>
       <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
-
-      <!-- ═══ SARKARI RULES & NEWS SECTION ═══ -->
-      <div style="background:white;border-radius:14px;border:1px solid #e2e8f0;overflow:hidden;margin-bottom:14px;box-shadow:0 2px 10px rgba(0,0,0,.05);" id="sarkari-rules">
-
-        <!-- Section Head -->
-        <div style="background:linear-gradient(90deg,#0f172a,#1e3a5f);padding:12px 18px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
-          <div style="display:flex;align-items:center;gap:10px;">
-            <span style="background:rgba(255,255,255,.15);border-radius:8px;padding:5px 8px;font-size:16px;">⚖️</span>
-            <div>
-              <div style="font-size:13px;font-weight:700;color:white;">Sarkari Rules &amp; Labour Laws 2026</div>
-              <div style="font-size:10px;color:#93c5fd;margin-top:1px;">New Laws • Calculators • Worker Rights • Hindi Mein</div>
-            </div>
-          </div>
-          <a href="pages/sarkari-rules.html" style="background:#1a56db;color:white;padding:7px 16px;border-radius:8px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Sabhi Rules Dekhein →</a>
-        </div>
-
-        <!-- Quick Rule Cards Grid -->
-        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid #f1f5f9;">
-
-          <a href="pages/sarkari-rules.html#minimum-wage" style="padding:14px 16px;border-right:1px solid #f1f5f9;border-bottom:1px solid #f1f5f9;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">💰</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">Minimum Wage 2026</span>
-              <span style="background:#dcfce7;color:#166534;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">CALC</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">State-wise rates + Monthly calculator. Central: ₹423-520/day</div>
-          </a>
-
-          <a href="pages/sarkari-rules.html#pf-rules" style="padding:14px 16px;border-right:1px solid #f1f5f9;border-bottom:1px solid #f1f5f9;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">🏦</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">PF Rules &amp; Calculator</span>
-              <span style="background:#dcfce7;color:#166634;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">CALC</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">8.25% interest. Withdrawal rules. Retirement corpus calculator.</div>
-          </a>
-
-          <a href="pages/sarkari-rules.html#gratuity" style="padding:14px 16px;border-bottom:1px solid #f1f5f9;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">🎁</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">Gratuity Calculator</span>
-              <span style="background:#fee2e2;color:#dc2626;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">MUST</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">5 saal baad kitna milega? Formula: Basic × 15 × Years ÷ 26</div>
-          </a>
-
-          <a href="pages/sarkari-rules.html#labour-codes" style="padding:14px 16px;border-right:1px solid #f1f5f9;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">📜</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">4 New Labour Codes</span>
-              <span style="background:#dbeafe;color:#1d4ed8;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">NEW</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">44 purane laws → 4 new codes. Kya badla? Aapke liye kya matlab?</div>
-          </a>
-
-          <a href="pages/sarkari-rules.html#leave-rules" style="padding:14px 16px;border-right:1px solid #f1f5f9;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">🗓️</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">Leave Rules 2026</span>
-              <span style="background:#fef9c3;color:#b45309;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">INFO</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">EL, CL, Maternity 26 weeks. Encashment ₹25L tax-free. Details yahan.</div>
-          </a>
-
-          <a href="pages/sarkari-rules.html#bonus" style="padding:14px 16px;text-decoration:none;transition:background .15s;display:block;" onmouseover="this.style.background='#f8fafc'" onmouseout="this.style.background=''">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
-              <span style="font-size:18px;">🎯</span>
-              <span style="font-size:11px;font-weight:700;color:#1e293b;">Bonus Calculator</span>
-              <span style="background:#dcfce7;color:#166534;font-size:9px;font-weight:700;padding:1px 6px;border-radius:10px;">CALC</span>
-            </div>
-            <div style="font-size:11px;color:#64748b;line-height:1.6;">Minimum 8.33% bonus aapka haq hai. Calculator se check karein.</div>
-          </a>
-
-        </div>
-
-        <!-- Bottom Strip -->
-        <div style="background:#f8fafc;padding:10px 18px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;border-top:1px solid #f1f5f9;">
-          <span style="font-size:11px;color:#64748b;">📢 Agar employer aapke rights deny kare — Labour Commissioner mein <strong>free complaint</strong> kar sakte hain</span>
-          <a href="pages/sarkari-rules.html" style="font-size:11px;font-weight:600;color:#1a56db;text-decoration:none;">Aur rules padhein →</a>
-        </div>
-      </div>
-      <!-- ═══ END RULES SECTION ═══ -->
     </main>
 
     <!-- RIGHT SIDEBAR -->
@@ -1180,7 +1098,7 @@
         <div class="sb-head sb-head-jobs">
           <span style="background:rgba(255,255,255,0.2);border-radius:6px;padding:3px 7px;font-size:11px;">💼</span>
           Latest Jobs
-          <span style="margin-left:auto;background:rgba(255,255,255,0.15);font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;letter-spacing:0.3px;animation:blink 1.5s infinite;">LIVE</span>
+          <span style="margin-left:auto;background:rgba(255,255,255,0.15);font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;letter-spacing:0.3px;">NEW ✨</span>
         </div>
         <div class="sb-body">
           <div class="sb-post sb-post-new">
@@ -1786,8 +1704,25 @@
 
 
   <script>
-    function searchFrom(id){var el=document.getElementById(id);if(!el)return;var v=el.value.trim();if(!v){el.focus();return;}window.location.href='pages/search.html?q='+encodeURIComponent(v);}
-    document.addEventListener('DOMContentLoaded',function(){['mainSearchHeader','mainSearch'].forEach(function(id){var el=document.getElementById(id);if(el)el.addEventListener('keydown',function(e){if(e.key==='Enter')searchFrom(id);});});});
+    function searchFrom(inputId) {
+      var el = document.getElementById(inputId);
+      if (!el) return;
+      var val = el.value.trim();
+      if (!val) {
+        el.focus();
+        el.style.outline = '2px solid #dc2626';
+        setTimeout(function(){ el.style.outline = ''; }, 1500);
+        return;
+      }
+      var isInPages = window.location.pathname.indexOf('/pages/') !== -1;
+      window.location.href = (isInPages ? 'search.html' : 'pages/search.html') + '?q=' + encodeURIComponent(val);
+    }
+    document.addEventListener('DOMContentLoaded', function(){
+      ['mainSearchHeader','mainSearch'].forEach(function(id){
+        var el = document.getElementById(id);
+        if(el) el.addEventListener('keydown', function(e){ if(e.key==='Enter') searchFrom(id); });
+      });
+    });
   </script>
 </body>
 </html>
