@@ -1,14 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://sarthakyojana.in/</loc><lastmod>2026-04-10</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/jobs.html</loc><lastmod>2026-04-10</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/results.html</loc><lastmod>2026-04-10</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/schemes.html</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/job-finder.html</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/search.html</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/about.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/contact.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://sarthakyojana.in/pages/privacy-policy.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://sarthakyojana.in/</loc><lastmod>2026-04-11</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/jobs.html</loc><lastmod>2026-04-11</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/results.html</loc><lastmod>2026-04-11</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/sarkari-rules.html</loc><lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/tools.html</loc><lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/exam-calendar.html</loc><lastmod>2026-04-11</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/schemes.html</loc><lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/job-finder.html</loc><lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/search.html</loc><lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/about.html</loc><lastmod>2026-04-11</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/contact.html</loc><lastmod>2026-04-11</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sarthakyojana.in/pages/privacy-policy.html</loc><lastmod>2026-04-11</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=indian-navy-agniveer-mr-musician-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>Indian Navy Agniveer Musician 02/2026 Bharti – 10th Pass Musical Talent Wale Apply Karein joinindian</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=rcfl-operator-trainee-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>RCFL Operator Trainee 2026 Bharti – 188 Posts Rashtriya Chemicals aur Fertilizers, rcflindia.com par</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=beml-junior-executive-admit-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>BEML Junior Executive Admit Card 2026 Jari – Bharat Earth Movers Exam Hall Ticket beml.in se Downloa</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=csl-executive-trainee-admit-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>CSL Executive Trainee Admit Card 2026 Jari – Cochin Shipyard Exam Hall Ticket cochinshipyard.in se D</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=osssc-forester-admit-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>OSSSC Forester Admit Card 2026 Jari – Odisha Forester Exam Hall Ticket osssc.gov.in se Download Kare</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=dshm-pharmacist-result-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>DSHM Pharmacist Result 2026 Jari – Delhi State Health Mission Merit List dshm.delhi.gov.in par Check</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=punjab-police-constable-result-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>Punjab Police Constable Result 2026 Jari – Selection List punjabpolice.gov.in par Check Karein</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=india-post-gds-2nd-merit-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>India Post GDS 2nd Merit List 2026 Jari – Gramin Dak Sevak Second Selection List indiapostgdsonline.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=rssb-ayush-officer-result-2026</loc>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
+      <news:title>RSSB Ayush Officer Result 2026 Jari – Rajasthan Ayush Officer Merit List rssb.rajasthan.gov.in par C</news:title>
+    </news:news>
+  </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=aadhaar-operator-supervisor-2026</loc>
     <lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
@@ -380,10 +464,10 @@
   </url>
   <url>
     <loc>https://sarthakyojana.in/pages/job-detail.html?id=ssc-je-tier2-city-2026</loc>
-    <lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+    <lastmod>2026-04-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
     <news:news>
       <news:publication><news:name>SarthakYojana.in</news:name><news:language>hi</news:language></news:publication>
-      <news:publication_date>2026-04-10T09:00:00+05:30</news:publication_date>
+      <news:publication_date>2026-04-11T09:00:00+05:30</news:publication_date>
       <news:title>SSC JE Junior Engineer Tier-II Exam City Details 2026 — Out</news:title>
     </news:news>
   </url>

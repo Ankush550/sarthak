@@ -465,5 +465,10 @@
   </div>
   <script>(function(){if(localStorage.getItem('cookieConsent')){var b=document.getElementById('cookieBanner');if(b)b.style.display='none';}})();function cookieAccept(){localStorage.setItem('cookieConsent','accepted');document.getElementById('cookieBanner').style.display='none';}function cookieDecline(){localStorage.setItem('cookieConsent','declined');document.getElementById('cookieBanner').style.display='none';}</script>
 
+
+  <script>
+    function searchFrom(id){var el=document.getElementById(id);if(!el)return;var v=el.value.trim();if(!v){el.focus();return;}var base=window.location.pathname.includes('/pages/')? 'search.html':'pages/search.html';window.location.href=base+'?q='+encodeURIComponent(v);}
+    document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('input[type="text"]').forEach(function(el){el.addEventListener('keydown',function(e){if(e.key==='Enter'&&el.id)searchFrom(el.id);});});});
+  </script>
 </body>
 </html>
