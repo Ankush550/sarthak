@@ -556,35 +556,6 @@
     }
 
     /* Search bar in header */
-    .header-search {
-      display: flex;
-      background: #f8fafc;
-      border: 1.5px solid #e2e8f0;
-      border-radius: 50px;
-      overflow: hidden;
-      flex-shrink: 0;
-    }
-    .header-search input {
-      border: none;
-      outline: none;
-      padding: 7px 14px;
-      font-size: 12px;
-      font-family: 'Poppins', sans-serif;
-      background: transparent;
-      width: 160px;
-      color: #1e293b;
-    }
-    .header-search button {
-      background: #1a56db;
-      border: none;
-      color: white;
-      padding: 0 14px;
-      cursor: pointer;
-      font-size: 14px;
-      transition: background 0.2s;
-    }
-    .header-search button:hover { background: #1e40af; }
-
     /* Hamburger */
     .hamburger {
       display: none;
@@ -634,8 +605,7 @@
       .mobile-search-wrap input:focus { border-color:#1a56db; }
       .mobile-search-wrap button { background:#1a56db; color:white; border:none; padding:0 14px; border-radius:0 8px 8px 0; cursor:pointer; font-size:14px; }
       /* Hide desktop search on mobile */
-      .header-search { display: none; }
-      .logo-text { display: none; }
+    .logo-text { display: none; }
       .header-inner { height: 56px; padding: 0 14px; }
     }
     @media (max-width: 480px) {
@@ -776,11 +746,7 @@
         <a href="pages/about.html"        class="nav-link">ℹ️ About</a>
       </nav>
 
-      <!-- Search (right side) -->
-      <div class="header-search">
-        <input type="text" id="mainSearchHeader" placeholder="Search jobs, yojana..." aria-label="Search"/>
-        <button onclick="searchFrom('mainSearchHeader')" aria-label="Search">🔍</button>
-      </div>
+
 
     </div>
   </header>
@@ -1751,7 +1717,7 @@
     }
     // Enter key support for both search inputs
     document.addEventListener('DOMContentLoaded', function(){
-      ['mainSearchHeader','mainSearch','mobileSearch'].forEach(function(id){
+      ['mainSearch','mobileSearch'].forEach(function(id){
         var el = document.getElementById(id);
         if(el){
           el.addEventListener('keydown', function(e){
