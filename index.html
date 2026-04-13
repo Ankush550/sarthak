@@ -6,7 +6,6 @@
   <meta charset="UTF-8">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval';">
 
-  <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
 
@@ -273,21 +272,112 @@
     .ad-box .ad-lbl { font-size:10px; color:#94a3b8; margin-bottom:6px; }
 
     /* ═══ TOP CARDS ═══ */
-    .cards-top { background:white; border-radius:14px; border:1px solid #e2e8f0; padding:14px; margin-bottom:14px; box-shadow:0 2px 8px rgba(26,86,219,0.06); }
-    .cards-top-head { font-size:12px; font-weight:600; color:#64748b; margin-bottom:10px; display:flex; align-items:center; gap:6px; letter-spacing:0.3px; text-transform:uppercase; }
-    .cards-grid-top { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
-    .job-card { position:relative; border-radius:10px; border:1.5px solid rgba(0,0,0,0.07); padding:14px 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; min-height:76px; cursor:pointer; transition:transform .18s, box-shadow .18s; text-decoration:none; gap:4px; }
-    .job-card:hover { transform:translateY(-3px); box-shadow:0 8px 20px rgba(0,0,0,0.1); }
-    .c-pink   { background:linear-gradient(135deg,#ffe4ec,#fce7f3); border-color:#f9a8c9; }
-    .c-purple { background:linear-gradient(135deg,#ede9ff,#f3f0ff); border-color:#c4b5fd; }
-    .c-yellow { background:linear-gradient(135deg,#fef9c3,#fef3c7); border-color:#fde047; }
-    .c-green  { background:linear-gradient(135deg,#dcfce7,#d1fae5); border-color:#86efac; }
-    .c-blue   { background:linear-gradient(135deg,#dbeafe,#eff6ff); border-color:#93c5fd; }
-    .c-orange { background:linear-gradient(135deg,#ffedd5,#fed7aa); border-color:#fdba74; }
-    .card-title { font-size:11.5px; font-weight:700; color:#1e293b; line-height:1.4; }
-    .card-icon { font-size:18px; }
-    .pin { position:absolute; top:5px; right:7px; font-size:11px; }
-    .badge-new { position:absolute; top:5px; left:6px; background:#dc2626; color:#fff; font-size:9px; font-weight:700; padding:2px 5px; border-radius:3px; animation:blink 1.5s infinite; letter-spacing:0.3px; }
+    .cards-top {
+      background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%);
+      border-radius: 16px;
+      border: 1px solid rgba(99,102,241,0.2);
+      padding: 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);
+      position: relative;
+      overflow: hidden;
+    }
+    .cards-top::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 180px; height: 180px;
+      background: radial-gradient(circle, rgba(99,102,241,0.15) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .cards-top-head {
+      font-size: 11px;
+      font-weight: 700;
+      color: #94a3b8;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .cards-grid-top {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 8px;
+    }
+    .job-card {
+      position: relative;
+      border-radius: 10px;
+      padding: 10px 10px 10px 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-decoration: none;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+      min-height: 72px;
+      border: 1px solid rgba(255,255,255,0.07);
+      overflow: hidden;
+    }
+    .job-card::after {
+      content: '→';
+      position: absolute;
+      bottom: 7px;
+      right: 9px;
+      font-size: 11px;
+      opacity: 0;
+      transform: translateX(-4px);
+      transition: all 0.18s ease;
+      font-weight: 700;
+    }
+    .job-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.4); }
+    .job-card:hover::after { opacity: 0.7; transform: translateX(0); }
+    .c-blue   { background: linear-gradient(135deg, #1e3a5f 0%, #1e3a8a 100%); border-color: rgba(59,130,246,0.3); }
+    .c-blue   .card-title { color: #bfdbfe; }
+    .c-blue::after { color: #60a5fa; }
+    .c-green  { background: linear-gradient(135deg, #14532d 0%, #166534 100%); border-color: rgba(34,197,94,0.3); }
+    .c-green  .card-title { color: #bbf7d0; }
+    .c-green::after { color: #4ade80; }
+    .c-orange { background: linear-gradient(135deg, #7c2d12 0%, #9a3412 100%); border-color: rgba(249,115,22,0.3); }
+    .c-orange .card-title { color: #fed7aa; }
+    .c-orange::after { color: #fb923c; }
+    .c-purple { background: linear-gradient(135deg, #3b0764 0%, #4c1d95 100%); border-color: rgba(168,85,247,0.3); }
+    .c-purple .card-title { color: #e9d5ff; }
+    .c-purple::after { color: #c084fc; }
+    .c-pink   { background: linear-gradient(135deg, #500724 0%, #831843 100%); border-color: rgba(236,72,153,0.3); }
+    .c-pink   .card-title { color: #fbcfe8; }
+    .c-pink::after { color: #f472b6; }
+    .c-yellow { background: linear-gradient(135deg, #422006 0%, #78350f 100%); border-color: rgba(234,179,8,0.3); }
+    .c-yellow .card-title { color: #fef08a; }
+    .c-yellow::after { color: #facc15; }
+    .card-title {
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-icon { font-size: 16px; }
+    .pin { position: absolute; top: 5px; right: 7px; font-size: 10px; opacity: 0.6; }
+    .badge-new {
+      display: inline-block;
+      font-size: 8.5px;
+      font-weight: 800;
+      padding: 2px 6px;
+      border-radius: 4px;
+      letter-spacing: 0.05em;
+      width: fit-content;
+    }
+    .badge-new        { background: rgba(220,38,38,0.85); color: #fff; }
+    .c-orange .badge-new[style*="RESULT"],
+    span.badge-new:not(:empty) { }
+    /* Badge color per type */
+    .job-card .badge-new { background: #dc2626; color: #fff; }
+    .job-card .badge-admit { background: #7c3aed; color: #fff; }
+    .job-card .badge-out { background: #15803d; color: #fff; }
+    .job-card .badge-live { background: #0369a1; color: #fff; }
 
     /* ═══ WHATSAPP BUTTON ═══ */
     .wa-btn { display:inline-flex; align-items:center; gap:8px; background:linear-gradient(135deg,#16a34a,#15803d); color:white; font-size:13px; font-weight:600; padding:10px 22px; border-radius:50px; text-decoration:none; box-shadow:0 4px 12px rgba(22,163,74,0.3); transition:transform .2s, box-shadow .2s; }
@@ -345,7 +435,7 @@
       .page-wrapper { grid-template-columns:1fr; padding:8px; }
       .sidebar { display:none; }
       .left-sidebar { display:none; }
-      .cards-grid-top { grid-template-columns:repeat(2,1fr); gap:8px; }
+      .cards-grid-top { grid-template-columns:repeat(3,1fr); gap:7px; }
       .three-col { grid-template-columns:1fr; }
       .col-box { margin-bottom:0; }
     }
@@ -360,19 +450,92 @@
     }
 
     /* ═══ NEWS TICKER ═══ */
-    .news-ticker-wrap { background:#0f172a; border-bottom:2px solid #1a56db; display:flex; align-items:center; height:36px; overflow:hidden; position:relative; z-index:100; }
-    .ticker-label { background:#dc2626; color:white; font-size:11px; font-weight:800; padding:0 14px; height:100%; display:flex; align-items:center; gap:5px; white-space:nowrap; flex-shrink:0; letter-spacing:0.5px; z-index:2; }
-    .ticker-live-dot { display:none; }
-    @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
-    .ticker-track { display:flex; align-items:center; height:100%; overflow:hidden; flex:1; }
-    .ticker-inner { display:flex; align-items:center; gap:0; white-space:nowrap; animation:ticker-scroll 130s linear infinite; }
-    .ticker-inner:hover { animation-play-state:paused; }
-    @keyframes ticker-scroll { 0%{transform:translateX(100vw)} 100%{transform:translateX(-100%)} }
-    .ticker-item { display:inline-flex; align-items:center; gap:8px; padding:0 20px; font-size:12px; color:#e2e8f0; text-decoration:none; border-right:1px solid #334155; height:100%; transition:color .2s; }
-    .ticker-item:hover { color:#60a5fa; }
-    .ticker-item .t-icon { font-size:13px; }
-    .ticker-sep { color:#1a56db; font-size:16px; font-weight:700; padding:0 4px; }
-    .ticker-loading { color:#64748b; font-size:12px; padding:0 16px; }
+    .news-ticker-wrap {
+      background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%);
+      border-bottom: 2px solid #1a56db;
+      display: flex;
+      align-items: center;
+      height: 38px;
+      overflow: hidden;
+      position: relative;
+      z-index: 100;
+    }
+    .ticker-label {
+      background: #dc2626;
+      color: white;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 0 16px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      position: relative;
+      z-index: 2;
+      box-shadow: 4px 0 12px rgba(220,38,38,0.4);
+    }
+    .ticker-live-dot {
+      width: 7px; height: 7px;
+      background: #fff;
+      border-radius: 50%;
+      display: inline-block;
+      animation: ticker-blink 1s infinite;
+    }
+    @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    .ticker-track {
+      display: flex;
+      align-items: center;
+      height: 100%;
+      overflow: hidden;
+      flex: 1;
+    }
+    .ticker-inner {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      white-space: nowrap;
+      animation: ticker-scroll 80s linear infinite;
+      will-change: transform;
+    }
+    .ticker-inner:hover { animation-play-state: paused; }
+    @keyframes ticker-scroll {
+      0%   { transform: translateX(100vw); }
+      100% { transform: translateX(-100%); }
+    }
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0 24px;
+      font-size: 13px;
+      font-weight: 500;
+      color: #e2e8f0;
+      text-decoration: none;
+      transition: color 0.2s;
+      letter-spacing: 0.01em;
+    }
+    .ticker-item:hover { color: #60a5fa; }
+    .ticker-item .t-badge {
+      font-size: 9px;
+      font-weight: 800;
+      padding: 2px 6px;
+      border-radius: 3px;
+      background: #dc2626;
+      color: white;
+      letter-spacing: 0.06em;
+    }
+    .ticker-sep {
+      color: #1a56db;
+      font-size: 18px;
+      font-weight: 700;
+      padding: 0 6px;
+      opacity: 0.6;
+    }
+    .ticker-loading { color: #64748b; font-size: 12px; padding: 0 16px; }
     @media(max-width:600px) { .ticker-label { font-size:10px; padding:0 8px; } .ticker-item { font-size:11px; padding:0 14px; } }
 
     /* ═══ LEFT SIDEBAR ═══ */
@@ -556,6 +719,7 @@
     }
 
     /* Search bar in header */
+
     /* Hamburger */
     .hamburger {
       display: none;
@@ -605,7 +769,7 @@
       .mobile-search-wrap input:focus { border-color:#1a56db; }
       .mobile-search-wrap button { background:#1a56db; color:white; border:none; padding:0 14px; border-radius:0 8px 8px 0; cursor:pointer; font-size:14px; }
       /* Hide desktop search on mobile */
-    .logo-text { display: none; }
+      .logo-text { display: none; }
       .header-inner { height: 56px; padding: 0 14px; }
     }
     @media (max-width: 480px) {
@@ -697,7 +861,7 @@
   <!-- NEWS TICKER -->
   <div class="news-ticker-wrap" id="newsTicker">
     <div class="ticker-label">
-      <span style="font-size:13px;">🆕</span>
+      <span class="ticker-live-dot"></span>
       LATEST UPDATE
     </div>
     <div class="ticker-track">
@@ -746,8 +910,6 @@
         <a href="pages/about.html"        class="nav-link">ℹ️ About</a>
       </nav>
 
-
-
     </div>
   </header>
 
@@ -760,12 +922,11 @@
 
       <!-- Ad Block – Left Sidebar Top -->
       <div style="background:white;border-radius:14px;border:1px dashed #e2e8f0;padding:8px;text-align:center;box-shadow:0 2px 8px rgba(26,86,219,0.07);">
-        <div style="font-size:9px;color:#cbd5e1;margin-bottom:4px;">« Advertisement »</div>
+        <div style="font-size:9px;color:#94a3b8;font-weight:600;letter-spacing:0.05em;margin-bottom:4px;">— Advertisement —</div>
         <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:250px;"
              data-ad-client="ca-pub-8602963796651751"
              data-ad-slot="7788990011"
-             data-ad-lazy="true"
              data-ad-format="rectangle"
              data-full-width-responsive="false"></ins>
         <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
@@ -850,15 +1011,15 @@
 <main id="main-content-inner">
 
       <!-- TOP CARDS -->
-      <div class="cards-top">
+      <div class="cards-top" role="navigation" aria-label="Latest Government Job Posts">
         <div class="cards-top-head">⚡ Quick Access — Latest & Popular Posts</div>
         <div class="cards-grid-top">
           <a href="pages/job-detail.html?id=indian-navy-agniveer-mr-musician-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">Navy Agniveer Musician 2026 – Apply by 26 Apr</span></a>
           <a href="pages/job-detail.html?id=rcfl-operator-trainee-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">RCFL Operator Trainee – 188 Posts</span></a>
-          <a href="pages/job-detail.html?id=punjab-police-constable-result-2026" class="job-card c-orange"><span class="badge-new">RESULT</span><span class="card-title">Punjab Police Constable Result 2026</span></a>
-          <a href="pages/job-detail.html?id=india-post-gds-2nd-merit-2026" class="job-card c-orange"><span class="badge-new">RESULT</span><span class="card-title">India Post GDS 2nd Merit List 2026</span></a>
-          <a href="pages/job-detail.html?id=beml-junior-executive-admit-2026" class="job-card c-purple"><span class="badge-new">ADMIT</span><span class="card-title">BEML Jr Executive Admit Card 2026</span></a>
-          <a href="pages/job-detail.html?id=csl-executive-trainee-admit-2026" class="job-card c-pink"><span class="badge-new">ADMIT</span><span class="card-title">CSL Executive Trainee Admit Card</span></a>
+          <a href="pages/job-detail.html?id=punjab-police-constable-result-2026" class="job-card c-orange"><span class="badge-out">RESULT</span><span class="card-title">Punjab Police Constable Result 2026</span></a>
+          <a href="pages/job-detail.html?id=india-post-gds-2nd-merit-2026" class="job-card c-orange"><span class="badge-out">RESULT</span><span class="card-title">India Post GDS 2nd Merit List 2026</span></a>
+          <a href="pages/job-detail.html?id=beml-junior-executive-admit-2026" class="job-card c-purple"><span class="badge-admit">ADMIT</span><span class="card-title">BEML Jr Executive Admit Card 2026</span></a>
+          <a href="pages/job-detail.html?id=csl-executive-trainee-admit-2026" class="job-card c-pink"><span class="badge-admit">ADMIT</span><span class="card-title">CSL Executive Trainee Admit Card</span></a>
           <a href="pages/job-detail.html?id=crpf-constable-tradesman-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">CRPF Constable Tradesman – 9195 Posts</span></a>
           <a href="pages/job-detail.html?id=secl-mining-sirdar-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">SECL Mining Sirdar – 1055 Posts</span></a>
           <a href="pages/job-detail.html?id=central-bank-so-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">Central Bank SO 2026 – 26 Posts</span></a>
@@ -866,22 +1027,22 @@
           <a href="pages/job-detail.html?id=nps-trust-staff-2026" class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">NPS Trust Staff 2026 – 15 Posts</span></a>
           <a href="pages/job-detail.html?id=cdot-scientist-consultant-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">C-DOT Scientist B/C 2026 – 16 Posts</span></a>
           <a href="pages/job-detail.html?id=ngel-dgm-am-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">NGEL DGM &amp; AM 2026 – 46 Posts</span></a>
-          <a href="pages/job-detail.html?id=aiims-norcet-10-admit-card-2026" class="job-card c-pink"><span class="badge-new">LIVE</span><span class="card-title">AIIMS NORCET Admit Card – 11 Apr</span></a>
-          <a href="pages/job-detail.html?id=moil-limited-result-2026" class="job-card c-orange"><span class="badge-new">RESULT</span><span class="card-title">MOIL Electrician Result 2026 – Out</span></a>
+          <a href="pages/job-detail.html?id=aiims-norcet-10-admit-card-2026" class="job-card c-pink"><span class="badge-live">LIVE</span><span class="card-title">AIIMS NORCET Admit Card – 11 Apr</span></a>
+          <a href="pages/job-detail.html?id=moil-limited-result-2026" class="job-card c-orange"><span class="badge-out">RESULT</span><span class="card-title">MOIL Electrician Result 2026 – Out</span></a>
           <a href="pages/job-detail.html?id=irctc-hospitality-monitor-2026" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">IRCTC Hospitality Monitor – Walk-in</span></a>
                     <a href="pages/job-detail.html?id=mecon-non-executive-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">MECON Non Executive 2026 – 24 Posts</span></a>
           <a href="pages/job-detail.html?id=ncl-trainee-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">NCL Trainee 2026 – 577 Posts HEMM/Nurse</span></a>
           <a href="pages/job-detail.html?id=pstet-result-2026" class="job-card c-orange"><span class="badge-out">RESULT</span><span class="card-title">Punjab PSTET Result 2026 – Out</span></a>
           <a href="pages/jobs.html" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">BEML Junior Executive 2026 – 78 Posts B.Tech</span></a>
-          <a href="pages/job-detail.html?id=ossc-cgl-admit-card-2026" class="job-card c-purple"><span class="badge-new">ADMIT</span><span class="card-title">OSSC CGL Admit Card – 19 April Exam</span></a>
-          <a href="pages/job-detail.html?id=cg-vyapam-pharmacist-admit-2026" class="job-card c-green"><span class="badge-new">ADMIT</span><span class="card-title">CG Vyapam Pharmacist Admit Card – 12 April</span></a>
-          <a href="pages/job-detail.html?id=kanker-gp-secretary-result-2026" class="job-card c-orange"><span class="badge-new">RESULT</span><span class="card-title">Kanker GP Secretary Final Merit List 2026</span></a>
+          <a href="pages/job-detail.html?id=ossc-cgl-admit-card-2026" class="job-card c-purple"><span class="badge-admit">ADMIT</span><span class="card-title">OSSC CGL Admit Card – 19 April Exam</span></a>
+          <a href="pages/job-detail.html?id=cg-vyapam-pharmacist-admit-2026" class="job-card c-green"><span class="badge-admit">ADMIT</span><span class="card-title">CG Vyapam Pharmacist Admit Card – 12 April</span></a>
+          <a href="pages/job-detail.html?id=kanker-gp-secretary-result-2026" class="job-card c-orange"><span class="badge-out">RESULT</span><span class="card-title">Kanker GP Secretary Final Merit List 2026</span></a>
           <a href="pages/job-detail.html?id=irfcl-assistant-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">IRFCL Assistant &amp; Manager 2026 – 23 Posts</span></a>
           <a href="pages/job-detail.html?id=scr-apprentice-2026" class="job-card c-orange"><span class="badge-new">NEW</span><span class="card-title">SCR Railway Apprentice 2026 – 2801 Posts</span></a>
-          <a href="pages/results.html" class="job-card c-pink"><span class="badge-new">LIVE</span><span class="card-title">RPSC SI Admit Card Out – Exam 5 & 6 Apr</span></a>
+          <a href="pages/results.html" class="job-card c-pink"><span class="badge-live">LIVE</span><span class="card-title">RPSC SI Admit Card Out – Exam 5 & 6 Apr</span></a>
           <a href="pages/job-detail.html?id=nda-1-admit-card-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">NDA 1 Admit Card 2026 – Exam 12 April</span></a>
           <a href="pages/job-detail.html?id=bpsc-aedo-admit-card-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">BPSC AEDO Admit Card – Exam 14-21 Apr</span></a>
-          <a href="pages/job-detail.html?id=uppsc-tgt-social-science-result-2026" class="job-card c-green"><span class="badge-new">OUT</span><span class="card-title">UPPSC TGT Social Science Result 2026</span></a>
+          <a href="pages/job-detail.html?id=uppsc-tgt-social-science-result-2026" class="job-card c-green"><span class="badge-out">OUT</span><span class="card-title">UPPSC TGT Social Science Result 2026</span></a>
           <a href="pages/job-detail.html?id=patna-hc-technical-assistant-2026" class="job-card c-purple"><span class="badge-new">NEW</span><span class="card-title">Patna HC Technical Assistant 2026 – 53 Posts</span></a>
           <a href="pages/jobs.html" class="job-card c-green"><span class="badge-new">NEW</span><span class="card-title">Indian Army Agniveer 2026 – 25000+ Posts</span></a>
           <a href="pages/job-detail.html?id=psb-lbo-2026" class="job-card c-yellow"><span class="badge-new">NEW</span><span class="card-title">Punjab Sind Bank LBO 2026 – 1000 Posts</span></a>
@@ -901,12 +1062,11 @@
 
       <!-- ── COMPACT AD INLINE 1 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:10px;">
-        <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
+        <div style="font-size:9px;color:#94a3b8;font-weight:600;letter-spacing:0.05em;margin-bottom:2px;">— Advertisement —</div>
         <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
-             data-ad-slot="1122334455"
-             data-ad-lazy="true" data-ad-format="auto"
+             data-ad-slot="1122334455" data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>
@@ -925,8 +1085,7 @@
       <ins loading="lazy" class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-bottom:12px;"
            data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="3456789012"
-           data-ad-lazy="true" data-ad-format="horizontal"
+           data-ad-slot="3456789012" data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
       <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
@@ -1019,12 +1178,11 @@
 
       <!-- ── COMPACT AD INLINE 2 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
-        <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
+        <div style="font-size:9px;color:#94a3b8;font-weight:600;letter-spacing:0.05em;margin-bottom:2px;">— Advertisement —</div>
         <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:90px;"
              data-ad-client="ca-pub-8602963796651751"
-             data-ad-slot="5544332211"
-             data-ad-lazy="true" data-ad-format="auto"
+             data-ad-slot="5544332211" data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>
@@ -1069,8 +1227,7 @@
       <ins loading="lazy" class="adsbygoogle"
            style="display:block;width:100%;min-height:90px;margin-top:12px;"
            data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="6789012345"
-           data-ad-lazy="true" data-ad-format="horizontal"
+           data-ad-slot="6789012345" data-ad-format="horizontal"
            data-full-width-responsive="true"></ins>
       <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
@@ -1173,12 +1330,11 @@
 
       <!-- ── AdSense ── -->
       <div style="background:white;border-radius:12px;border:1px dashed #e2e8f0;padding:8px;text-align:center;">
-        <div style="font-size:10px;color:#cbd5e1;margin-bottom:4px;">« Advertisement »</div>
+        <div style="font-size:10px;color:#94a3b8;font-weight:600;letter-spacing:0.05em;margin-bottom:4px;">— Advertisement —</div>
         <ins loading="lazy" class="adsbygoogle"
              style="display:block;width:100%;min-height:200px;"
              data-ad-client="ca-pub-8602963796651751"
-             data-ad-slot="2345678901"
-             data-ad-lazy="true" data-ad-format="rectangle"
+             data-ad-slot="2345678901" data-ad-format="rectangle"
              data-full-width-responsive="false"></ins>
         <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
       </div>

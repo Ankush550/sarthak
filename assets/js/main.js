@@ -32,7 +32,7 @@ function searchFrom(inputId) {
 }
 
 function doSearch() {
-  var ids = ['searchInput','sideSearch','mainSearch','mainSearchHeader'];
+  var ids = ['searchInput','sideSearch','mainSearch'];
   for (var i = 0; i < ids.length; i++) {
     var el = document.getElementById(ids[i]);
     if (el && el.value.trim()) { searchFrom(ids[i]); return; }
@@ -42,7 +42,7 @@ function doSearch() {
 // ── Enter key on search inputs ───────────────────────
 (function() {
   function bindSearch() {
-    ['searchInput','sideSearch','mainSearch','mainSearchHeader'].forEach(function(id) {
+    ['searchInput','sideSearch','mainSearch'].forEach(function(id) {
       var el = document.getElementById(id);
       if (el && !el._searchBound) {
         el._searchBound = true;
