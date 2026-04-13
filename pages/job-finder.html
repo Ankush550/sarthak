@@ -165,6 +165,35 @@
     </div>
   </header>
 
+  <div class="top-bar">
+    <span>🇮🇳 Jai Hind — Sarkari Yojana & Naukri ki Puri Jaankari</span>
+    <span class="auto-date">📅 अपडेट हो रहा है...</span>
+  </div>
+
+  <header class="main-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo-link">
+        <div class="logo-circle">
+          <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="42" height="42">
+            <circle cx="30" cy="30" r="30" fill="#1a56db"/>
+            <circle cx="30" cy="30" r="27" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+            <text x="30" y="25" text-anchor="middle" fill="#fff" font-size="11.5" font-family="Poppins,sans-serif" font-weight="700">सार्थक</text>
+            <text x="30" y="38" text-anchor="middle" fill="#93c5fd" font-size="7.5" font-family="Poppins,sans-serif" font-weight="500" letter-spacing="1">YOJANA</text>
+          </svg>
+        </div>
+      </a>
+      <button class="hamburger" onclick="toggleMenu()"><span></span><span></span><span></span></button>
+            <nav class="main-nav" id="mainNav-2">
+        <a href="../index.html" class="nav-link">🏠 Home</a>
+        <a href="jobs.html" class="nav-link">💼 Latest Jobs</a>
+        <a href="results.html" class="nav-link">🏆 Results</a>
+        <a href="schemes.html" class="nav-link">📋 Latest Schemes</a>
+        <a href="private-jobs.html" class="nav-link">🏢 Private Jobs</a>
+        <a href="about.html" class="nav-link">ℹ️ About Us</a>
+      </nav>
+    </div>
+  </header>
+
   <div class="finder-wrap" id="main-content">
     <div style="text-align:center;margin-bottom:16px;">
       <h1 style="font-size:20px;font-weight:700;color:#1e293b;">🤖 Job Finder</h1>
@@ -438,7 +467,6 @@
 
 
   <script>
-<<<<<<< HEAD
     if(typeof searchFrom === 'undefined'){
       window.searchFrom = function(inputId) {
         var q = document.getElementById(inputId);
@@ -454,10 +482,6 @@
         });
       });
     }
-=======
-    function searchFrom(id){var el=document.getElementById(id);if(!el)return;var v=el.value.trim();if(!v){el.focus();return;}var base=window.location.pathname.includes('/pages/')? 'search.html':'pages/search.html';window.location.href=base+'?q='+encodeURIComponent(v);}
-    document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('input[type="text"]').forEach(function(el){el.addEventListener('keydown',function(e){if(e.key==='Enter'&&el.id)searchFrom(el.id);});});});
->>>>>>> 556b9846e1650269625d1219527fd5882cbe2c47
   </script>
 </body>
 </html>

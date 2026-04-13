@@ -361,11 +361,7 @@
 
     /* ═══ NEWS TICKER ═══ */
     .news-ticker-wrap { background:#0f172a; border-bottom:2px solid #1a56db; display:flex; align-items:center; height:36px; overflow:hidden; position:relative; z-index:100; }
-<<<<<<< HEAD
     .ticker-label { background:#dc2626; color:white; font-size:11px; font-weight:800; padding:0 14px; height:100%; display:flex; align-items:center; gap:5px; white-space:nowrap; flex-shrink:0; letter-spacing:0.5px; z-index:2; }
-=======
-    .ticker-label { background:#1e293b; color:#93c5fd; font-size:10px; font-weight:700; padding:0 16px; height:100%; display:flex; align-items:center; gap:6px; white-space:nowrap; flex-shrink:0; letter-spacing:0.8px; text-transform:uppercase; border-right:1px solid #334155; z-index:2; }
->>>>>>> 556b9846e1650269625d1219527fd5882cbe2c47
     .ticker-live-dot { display:none; }
     @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
     .ticker-track { display:flex; align-items:center; height:100%; overflow:hidden; flex:1; }
@@ -731,11 +727,7 @@
   <!-- NEWS TICKER -->
   <div class="news-ticker-wrap" id="newsTicker">
     <div class="ticker-label">
-<<<<<<< HEAD
       <span style="font-size:13px;">🆕</span>
-=======
-      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0;"><circle cx="7" cy="7" r="6" stroke="#93c5fd" stroke-width="1.5"/><path d="M5 7l2 2 3-3" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/></svg>
->>>>>>> 556b9846e1650269625d1219527fd5882cbe2c47
       LATEST UPDATE
     </div>
     <div class="ticker-track">
@@ -777,13 +769,10 @@
         <a href="pages/results.html"      class="nav-link">🏆 Results</a>
         <a href="pages/schemes.html"      class="nav-link">📋 Schemes</a>
         <a href="pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
-<<<<<<< HEAD
         <div class="mobile-search-wrap">
           <input type="text" id="mobileSearch" placeholder="Search jobs, yojana..." aria-label="Mobile Search">
           <button onclick="searchFrom('mobileSearch')" aria-label="Search">🔍</button>
         </div>
-=======
->>>>>>> 556b9846e1650269625d1219527fd5882cbe2c47
         <a href="pages/about.html"        class="nav-link">ℹ️ About</a>
       </nav>
 
@@ -1746,7 +1735,6 @@
   </script>
 
 
-<<<<<<< HEAD
   <!-- ✅ SEARCH FIX — searchFrom function -->
   <script>
     function searchFrom(inputId) {
@@ -1770,26 +1758,6 @@
             if(e.key === 'Enter') searchFrom(id);
           });
         }
-=======
-  <script>
-    function searchFrom(inputId) {
-      var el = document.getElementById(inputId);
-      if (!el) return;
-      var val = el.value.trim();
-      if (!val) {
-        el.focus();
-        el.style.outline = '2px solid #dc2626';
-        setTimeout(function(){ el.style.outline = ''; }, 1500);
-        return;
-      }
-      var isInPages = window.location.pathname.indexOf('/pages/') !== -1;
-      window.location.href = (isInPages ? 'search.html' : 'pages/search.html') + '?q=' + encodeURIComponent(val);
-    }
-    document.addEventListener('DOMContentLoaded', function(){
-      ['mainSearchHeader','mainSearch'].forEach(function(id){
-        var el = document.getElementById(id);
-        if(el) el.addEventListener('keydown', function(e){ if(e.key==='Enter') searchFrom(id); });
->>>>>>> 556b9846e1650269625d1219527fd5882cbe2c47
       });
     });
   </script>
