@@ -57,9 +57,20 @@
 
   <!-- SEO Meta Tags -->
   <meta name="author" content="SarthakYojana.in">
-  <meta name="robots" content="index, follow">
   <meta name="keywords" content="sarkari naukri search, yojana search, govt job finder india, search government scheme">
-  <link rel="canonical" href="https://sarthakyojana.in/pages/search.html">
+  <script>
+    (function(){
+      var q = new URLSearchParams(window.location.search).get('q');
+      if (q) {
+        // Search result pages should NOT be indexed — saves crawl budget
+        document.write('<meta name="robots" content="noindex, follow">');
+        document.write('<link rel="canonical" href="https://sarthakyojana.in/pages/search.html">');
+      } else {
+        document.write('<meta name="robots" content="index, follow">');
+        document.write('<link rel="canonical" href="https://sarthakyojana.in/pages/search.html">');
+      }
+    })();
+  </script>
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="Search – Sarkari Naukri Yojana Dhundein | SarthakYojana">
