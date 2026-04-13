@@ -363,7 +363,7 @@
     /* ═══ NEWS TICKER ═══ */
     .news-ticker-wrap { background:#0f172a; border-bottom:2px solid #1a56db; display:flex; align-items:center; height:36px; overflow:hidden; position:relative; z-index:100; }
     .ticker-label { background:#dc2626; color:white; font-size:11px; font-weight:800; padding:0 14px; height:100%; display:flex; align-items:center; gap:5px; white-space:nowrap; flex-shrink:0; letter-spacing:0.5px; z-index:2; }
-    .ticker-live-dot { width:7px; height:7px; background:white; border-radius:50%; animation:ticker-blink 1s infinite; }
+    .ticker-live-dot { display:none; }
     @keyframes ticker-blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
     .ticker-track { display:flex; align-items:center; height:100%; overflow:hidden; flex:1; }
     .ticker-inner { display:flex; align-items:center; gap:0; white-space:nowrap; animation:ticker-scroll 130s linear infinite; }
@@ -614,21 +614,27 @@
       .main-nav {
         display: none;
         position: absolute;
-        top: 64px;
+        top: 56px;
         left: 0;
         right: 0;
         background: white;
         flex-direction: column;
         align-items: stretch;
-        padding: 12px 16px;
+        padding: 0;
         border-bottom: 3px solid #1a56db;
         box-shadow: 0 8px 24px rgba(0,0,0,0.1);
-        gap: 4px;
+        gap: 0;
         z-index: 999;
-        justify-content: flex-start;
       }
       .main-nav.open { display: flex; }
-      .nav-link { padding: 10px 14px; border-radius: 8px; }
+      .nav-link { padding: 12px 18px; border-radius: 0; border-bottom: 1px solid #f1f5f9; font-size:14px; }
+      /* Mobile Search — show inside nav when open */
+      .mobile-search-wrap { display:none; padding:10px 14px; border-bottom:1px solid #f1f5f9; background:#f8fafc; }
+      .main-nav.open .mobile-search-wrap { display:flex; gap:0; }
+      .mobile-search-wrap input { flex:1; border:1.5px solid #e2e8f0; border-right:none; border-radius:8px 0 0 8px; padding:9px 12px; font-size:13px; font-family:inherit; outline:none; }
+      .mobile-search-wrap input:focus { border-color:#1a56db; }
+      .mobile-search-wrap button { background:#1a56db; color:white; border:none; padding:0 14px; border-radius:0 8px 8px 0; cursor:pointer; font-size:14px; }
+      /* Hide desktop search on mobile */
       .header-search { display: none; }
       .logo-text { display: none; }
       .header-inner { height: 56px; padding: 0 14px; }
@@ -722,8 +728,8 @@
   <!-- NEWS TICKER -->
   <div class="news-ticker-wrap" id="newsTicker">
     <div class="ticker-label">
-      <div class="ticker-live-dot"></div>
-      🔴 LIVE
+      <span style="font-size:13px;">🆕</span>
+      LATEST UPDATE
     </div>
     <div class="ticker-track">
       <div class="ticker-inner" id="tickerInner">
@@ -764,9 +770,11 @@
         <a href="pages/results.html"      class="nav-link">🏆 Results</a>
         <a href="pages/schemes.html"      class="nav-link">📋 Schemes</a>
         <a href="pages/private-jobs.html" class="nav-link">🏢 Private Jobs</a>
-        <a href="pages/exam-calendar.html" class="nav-link">📅 Exam Calendar</a>
-        <a href="pages/tools.html"          class="nav-link">🔧 Free Tools</a>
-        <a href="pages/about.html"         class="nav-link">ℹ️ About</a>
+        <div class="mobile-search-wrap">
+          <input type="text" id="mobileSearch" placeholder="Search jobs, yojana..." aria-label="Mobile Search">
+          <button onclick="searchFrom('mobileSearch')" aria-label="Search">🔍</button>
+        </div>
+        <a href="pages/about.html"        class="nav-link">ℹ️ About</a>
       </nav>
 
       <!-- Search (right side) -->
@@ -1033,18 +1041,6 @@
 
       </div>
 
-
-      <!-- ═══ TOOLS PROMO BANNER ═══ -->
-      <div style="background:linear-gradient(135deg,#1a56db,#7c3aed);border-radius:14px;padding:18px 20px;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
-        <div>
-          <div style="font-size:16px;font-weight:800;color:white;margin-bottom:4px;">🔧 Free Sarkari Tools Launch Hua!</div>
-          <div style="font-size:12px;color:rgba(255,255,255,.85);">Salary Calculator • Age Checker • Exam Calendar • Application Checklist</div>
-        </div>
-        <div style="display:flex;gap:10px;flex-wrap:wrap;">
-          <a href="pages/tools.html" style="background:white;color:#1a56db;padding:9px 18px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;">🔧 Tools Try Karein →</a>
-          <a href="pages/exam-calendar.html" style="background:rgba(255,255,255,.2);color:white;padding:9px 18px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;border:1.5px solid rgba(255,255,255,.4);">📅 Exam Calendar</a>
-        </div>
-      </div>
       <!-- ── COMPACT AD INLINE 2 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
         <div style="font-size:9px;color:#cbd5e1;margin-bottom:2px;">« Advertisement »</div>
@@ -1256,11 +1252,13 @@
           <div style="display:flex;flex-direction:column;gap:9px;">
             <a href="index.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">🏠 Home</a>
             <a href="pages/jobs.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">💼 Latest Jobs</a>
-            <a href="pages/exam-calendar.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">📅 Exam Calendar</a>
-            <a href="pages/tools.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">🔧 Free Tools</a>
             <a href="pages/results.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">🏆 Results</a>
             <a href="pages/schemes.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">📋 Latest Schemes</a>
-            <a href="pages/about.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">ℹ️ About Us</a>
+            <div class="mobile-search-wrap">
+          <input type="text" id="mobileSearch" placeholder="Search jobs, yojana..." aria-label="Mobile Search">
+          <button onclick="searchFrom('mobileSearch')" aria-label="Search">🔍</button>
+        </div>
+        <a href="pages/about.html" style="color:#94a3b8;font-size:13px;text-decoration:none;">ℹ️ About Us</a>
           </div>
         </div>
         <div>
@@ -1300,7 +1298,11 @@
       <div style="border-top:1px solid #334155;padding:14px 0 20px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;">
         <p style="font-size:12px;color:#64748b;">© 2026 SarthakYojana.in – All Rights Reserved</p>
         <div style="display:flex;gap:16px;flex-wrap:wrap;">
-          <a href="pages/about.html" style="color:#64748b;font-size:12px;text-decoration:none;">About Us</a>
+          <div class="mobile-search-wrap">
+          <input type="text" id="mobileSearch" placeholder="Search jobs, yojana..." aria-label="Mobile Search">
+          <button onclick="searchFrom('mobileSearch')" aria-label="Search">🔍</button>
+        </div>
+        <a href="pages/about.html" style="color:#64748b;font-size:12px;text-decoration:none;">About Us</a>
           <a href="pages/privacy-policy.html" style="color:#64748b;font-size:12px;text-decoration:none;">Privacy Policy</a>
           <a href="pages/disclaimer.html" style="color:#64748b;font-size:12px;text-decoration:none;">Disclaimer</a>
           <a href="pages/terms.html" style="color:#64748b;font-size:12px;text-decoration:none;">Terms</a>
@@ -1718,5 +1720,32 @@
     }
   </script>
 
+
+  <!-- ✅ SEARCH FIX — searchFrom function -->
+  <script>
+    function searchFrom(inputId) {
+      var q = document.getElementById(inputId);
+      if (!q) return;
+      var val = q.value.trim();
+      if (!val) {
+        q.focus();
+        q.style.borderColor = '#dc2626';
+        setTimeout(function(){ q.style.borderColor = ''; }, 1500);
+        return;
+      }
+      window.location.href = 'pages/search.html?q=' + encodeURIComponent(val);
+    }
+    // Enter key support for both search inputs
+    document.addEventListener('DOMContentLoaded', function(){
+      ['mainSearchHeader','mainSearch','mobileSearch'].forEach(function(id){
+        var el = document.getElementById(id);
+        if(el){
+          el.addEventListener('keydown', function(e){
+            if(e.key === 'Enter') searchFrom(id);
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

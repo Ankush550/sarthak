@@ -147,7 +147,13 @@
         <a href="results.html" class="nav-link">🏆 Results</a>
         <a href="schemes.html" class="nav-link">📋 Latest Schemes</a>
         <a href="private-jobs.html" class="nav-link">🏢 Private Jobs</a>
-        <a href="about.html" class="nav-link">ℹ️ About Us</a>
+        <div style="padding:10px 14px;border-bottom:1px solid #f1f5f9;background:#f8fafc;display:none;" id="mobileSearchBar">
+        <div style="display:flex;">
+          <input type="text" id="mobSearch" placeholder="Jobs, yojana search..." style="flex:1;border:1.5px solid #e2e8f0;border-right:none;border-radius:8px 0 0 8px;padding:8px 12px;font-size:13px;font-family:inherit;outline:none;">
+          <button onclick="searchFrom('mobSearch')" style="background:#1a56db;color:white;border:none;padding:0 14px;border-radius:0 8px 8px 0;cursor:pointer;font-size:14px;">🔍</button>
+        </div>
+      </div>
+      <a href="about.html" class="nav-link">ℹ️ About Us</a>
       </nav>
     </div>
   </header>
@@ -376,5 +382,23 @@
     function cookieDecline(){localStorage.setItem('cookieConsent','declined');var b=document.getElementById('cookieBanner');if(b)b.style.display='none';}
   </script>
 
+
+  <script>
+    if(typeof searchFrom === 'undefined'){
+      window.searchFrom = function(inputId) {
+        var q = document.getElementById(inputId);
+        if(!q) return;
+        var val = q.value.trim();
+        if(!val){ q.focus(); q.style.outline='2px solid #dc2626'; setTimeout(function(){q.style.outline='';},1500); return; }
+        var isPages = window.location.pathname.indexOf('/pages/') !== -1;
+        window.location.href = (isPages ? 'search.html' : 'pages/search.html') + '?q=' + encodeURIComponent(val);
+      };
+      document.addEventListener('DOMContentLoaded', function(){
+        document.querySelectorAll('input[type="text"]').forEach(function(el){
+          el.addEventListener('keydown', function(e){ if(e.key==='Enter' && el.id) searchFrom(el.id); });
+        });
+      });
+    }
+  </script>
 </body>
 </html>
