@@ -811,38 +811,113 @@
     })();
   </script>
 <script>
-  // Use pre-loaded data from jobs-data.js (no fetch needed — Google indexes instantly)
+  // ═══ ROBUST JOB LOADER — with timeout + retry + friendly error UI ═══
   (function(){
     var jid = window.__jobId;
+
+    // ── No ID in URL ──
     if(!jid){
-      var el = document.getElementById('loadingMsg');
-      if(el) el.textContent = '❌ Invalid URL — koi job ID nahi mili';
+      showError('invalid-url', null);
       return;
     }
 
-    function loadJob(data) {
+    var loadTimeout;
+
+    // ── Show error/not-found UI ──
+    function showError(type, id){
+      var wrap = document.getElementById('mainWrap');
+      if(!wrap) return;
+      var title, sub, icon;
+      if(type === 'invalid-url'){
+        icon='🔗'; title='Invalid URL'; sub='Job ID URL mein nahi mila. Neeche se koi job dekhein.';
+      } else if(type === 'not-found'){
+        icon='🔍'; title='Job Detail Nahi Mili';
+        sub='<b style="color:#dc2626">"' + (id||'') + '"</b> ID ki job abhi available nahi hai ya removed ho gayi. Neeche latest jobs dekhein.';
+      } else {
+        icon='⚠️'; title='Data Load Nahi Hua';
+        sub='Internet slow hai ya server temporarily unavailable hai. Refresh karein ya <b>Latest Jobs</b> dekhein.';
+      }
+      wrap.innerHTML =
+        '<div class="detail-main" style="max-width:700px;margin:0 auto;">' +
+          '<div style="background:white;border-radius:14px;border:1px solid #e2e8f0;padding:36px 28px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,0.06);">' +
+            '<div style="font-size:52px;margin-bottom:16px;">' + icon + '</div>' +
+            '<h2 style="font-size:20px;font-weight:700;color:#1e293b;margin-bottom:10px;">' + title + '</h2>' +
+            '<p style="font-size:14px;color:#64748b;margin-bottom:24px;line-height:1.7;">' + sub + '</p>' +
+            '<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;">' +
+              '<a href="jobs.html" style="background:#1a56db;color:white;padding:11px 22px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;">💼 Latest Sarkari Jobs</a>' +
+              '<a href="../index.html" style="background:#f1f5f9;color:#374151;padding:11px 22px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;">🏠 Home</a>' +
+              '<a href="schemes.html" style="background:#f0fdf4;color:#15803d;padding:11px 22px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;">📋 Yojana</a>' +
+            '</div>' +
+            '<p style="font-size:12px;color:#94a3b8;margin-top:20px;">Job ID: <code style="background:#f1f5f9;padding:2px 6px;border-radius:4px;">' + (jid||'—') + '</code></p>' +
+          '</div>' +
+          // Latest jobs quick links
+          '<div style="background:white;border-radius:14px;border:1px solid #e2e8f0;overflow:hidden;margin-top:14px;">' +
+            '<div style="background:#1a56db;color:white;font-size:13px;font-weight:600;padding:10px 16px;">🔥 Latest Sarkari Naukri 2026 – Abhi Available</div>' +
+            '<div style="padding:4px 0;">' +
+              _quickLinks([
+                {id:'crpf-constable-tradesman-2026',   t:'CRPF Constable Tradesman 2026 – 9195 Posts',   d:'Last Date: 19 May 2026'},
+                {id:'secl-mining-sirdar-2026',          t:'SECL Mining Sirdar 2026 – 1055 Posts',          d:'Last Date: 14 May 2026'},
+                {id:'indian-bank-so-2026',              t:'Indian Bank SO 2026 – 350 Posts',               d:'Last Date: 28 Apr 2026'},
+                {id:'central-bank-so-2026',             t:'Central Bank SO 2026 – 26 Posts',               d:'Last Date: 30 Apr 2026'},
+                {id:'ngel-dgm-am-2026',                 t:'NGEL DGM & AM 2026 – 46 Posts',                d:'Last Date: 05 May 2026'},
+                {id:'ncl-trainee-2026',                 t:'NCL Trainee 2026 – 577 Posts',                  d:'Last Date: 01 May 2026'},
+                {id:'irctc-hospitality-monitor-2026',   t:'IRCTC Hospitality Monitor Walk-in – 84 Posts',  d:'25-28 Apr 2026'},
+              ]) +
+            '</div>' +
+          '</div>' +
+        '</div>';
+    }
+
+    function _quickLinks(arr){
+      return arr.map(function(x){
+        return '<div style="padding:9px 16px;border-bottom:1px solid #f1f5f9;">' +
+          '<a href="job-detail.html?id='+x.id+'" style="font-size:13px;color:#1e40af;font-weight:500;text-decoration:none;display:block;line-height:1.4;">'+x.t+'</a>' +
+          '<span style="font-size:11px;color:#64748b;">📅 '+x.d+'</span>' +
+        '</div>';
+      }).join('');
+    }
+
+    function loadJob(data){
+      clearTimeout(loadTimeout);
+      if(!Array.isArray(data) || data.length === 0){ showError('load-fail', null); return; }
       window.__JOBS = data;
       var job = data.find(function(j){ return j.id === jid; });
       if(job){
         renderJob(job);
       } else {
-        var el = document.getElementById('loadingMsg');
-        if(el) el.textContent = '❌ Job not found: ' + jid + '. Please check the URL.';
+        showError('not-found', jid);
       }
     }
 
-    // Try inline data first (fast, Google-friendly)
-    if(window.__JOBS_DATA){
+    // ── 8 second timeout ──
+    loadTimeout = setTimeout(function(){
+      // Only fire if still showing loading
+      var el = document.getElementById('loadingMsg');
+      if(el && el.textContent.indexOf('Loading') !== -1){
+        showError('load-fail', null);
+      }
+    }, 8000);
+
+    // ── Try inline data first ──
+    if(window.__JOBS_DATA && Array.isArray(window.__JOBS_DATA)){
       loadJob(window.__JOBS_DATA);
     } else {
-      // Fallback: fetch if inline script not loaded
-      fetch('../data/jobs.json')
-        .then(function(r){ return r.json(); })
-        .then(loadJob)
-        .catch(function(err){
-          var el = document.getElementById('loadingMsg');
-          if(el) el.textContent = '⚠️ Data load nahi hua. Refresh karein.';
-        });
+      // ── Fallback fetch with multiple paths ──
+      var paths = ['../data/jobs.json', 'data/jobs.json', '/data/jobs.json'];
+      var idx = 0;
+
+      function tryNext(){
+        if(idx >= paths.length){ showError('load-fail', null); clearTimeout(loadTimeout); return; }
+        var path = paths[idx++];
+        fetch(path)
+          .then(function(r){
+            if(!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
+          })
+          .then(loadJob)
+          .catch(function(){ tryNext(); });
+      }
+      tryNext();
     }
   })();
 </script>
