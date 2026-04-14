@@ -4,6 +4,15 @@
   <!-- Google AdSense -->
   <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <meta charset="UTF-8">
+  <title id="pageTitle">Job Detail – SarthakYojana.in</title>
+  <meta name="description" id="pageDesc" content="SarthakYojana.in – Sarkari naukri, results, yojana aur admit card ki puri jaankari Hindi mein. Eligibility, last date aur apply link ek jagah.">
+  <meta property="og:title" id="ogTitle" content="Job Detail – SarthakYojana.in">
+  <meta property="og:description" id="ogDesc" content="SarthakYojana.in – Sarkari naukri, results, yojana aur admit card ki puri jaankari Hindi mein.">
+  <meta property="og:url" id="ogUrl" content="https://sarthakyojana.in/pages/job-detail.html">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://sarthakyojana.in/assets/images/og-banner.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <meta name="keywords" content="sarkari naukri 2026, government job detail, sarkari bharti eligibility, last date apply, vacancy details, admit card download, sarkari result, SarthakYojana">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <meta name="author" content="SarthakYojana.in">
@@ -35,7 +44,7 @@
       var href = id
         ? 'https://sarthakyojana.in/pages/job-detail.html?id=' + encodeURIComponent(id)
         : 'https://sarthakyojana.in/pages/job-detail.html';
-      document.write('');
+      document.write('<link rel="canonical" id="canonicalTag" href="' + href + '">');
     })();
   </script>
 
@@ -457,16 +466,13 @@
       const pageUrl   = 'https://sarthakyojana.in/pages/job-detail.html?id=' + j.id;
 
       document.title = pageTitle;
-      document.getElementById('pageTitle').textContent   = pageTitle;
-      document.getElementById('pageDesc').setAttribute('content', pageDesc);
-
-      // Canonical — most important for duplicate fix
-      document.getElementById('canonicalTag').setAttribute('href', pageUrl);
-
-      // Open Graph
-      document.getElementById('ogTitle').setAttribute('content', pageTitle);
-      document.getElementById('ogDesc').setAttribute('content', pageDesc);
-      document.getElementById('ogUrl').setAttribute('content', pageUrl);
+      // Null-safe updates (IDs may not exist if page cached)
+      var _t=document.getElementById('pageTitle');       if(_t) _t.textContent=pageTitle;
+      var _d=document.getElementById('pageDesc');        if(_d) _d.setAttribute('content',pageDesc);
+      var _c=document.getElementById('canonicalTag');    if(_c) _c.setAttribute('href',pageUrl);
+      var _ot=document.getElementById('ogTitle');        if(_ot) _ot.setAttribute('content',pageTitle);
+      var _od=document.getElementById('ogDesc');         if(_od) _od.setAttribute('content',pageDesc);
+      var _ou=document.getElementById('ogUrl');          if(_ou) _ou.setAttribute('content',pageUrl);
 
       // JSON-LD Structured Data — Google Search Console fix (all required fields)
       const schema = {
@@ -562,17 +568,17 @@
       document.getElementById('breadTitle').textContent = j.title.substring(0,40) + '...';
 
       // Build Important Dates rows
-      const dateRows = j.importantDates.map(d => `
+      const dateRows = (j.importantDates||[]).map(d => `
         <tr>
           <td>${d.label}</td>
           <td class="${d.highlight ? 'highlight-date' : ''}">${d.value}</td>
         </tr>`).join('');
 
       // Build Fees
-      const feesHTML = j.fees.map(f => `<div class="fees-item">${f}</div>`).join('');
+      const feesHTML = (j.fees||[]).map(f => `<div class="fees-item">${f}</div>`).join('');
 
       // Build Documents
-      const docsHTML = j.documents.map(d => `<div class="doc-item">${d}</div>`).join('');
+      const docsHTML = (j.documents||[]).map(d => `<div class="doc-item">${d}</div>`).join('');
 
       // Build Eligibility Table
       let eligHTML = '';
@@ -590,7 +596,7 @@
       }
 
       // Build How to Apply — Accordion style
-      const stepsHTML = j.howToApply.map((s,i) => {
+      const stepsHTML = (j.howToApply||[]).map((s,i) => {
         const title  = typeof s === 'object' ? s.title  : s;
         const detail = typeof s === 'object' ? s.detail : '';
         return `
@@ -605,14 +611,14 @@
       }).join('');
 
       // Build Important Links
-      const linksHTML = j.importantLinks.map(l => `
+      const linksHTML = (j.importantLinks||[]).map(l => `
         <tr>
           <td>${l.label}</td>
           <td><a href="${l.url}" target="_blank" style="color:#1a56db;font-weight:500;">${l.text}</a></td>
         </tr>`).join('');
 
       // Build Keywords
-      const kwHTML = j.keywords.map(k => `<span class="keyword-tag">${k}</span>`).join('');
+      const kwHTML = (j.keywords||[]).map(k => `<span class="keyword-tag">${k}</span>`).join('');
 
       // Build Highlights
       const hl = j.highlights;
@@ -883,7 +889,12 @@
       window.__JOBS = data;
       var job = data.find(function(j){ return j.id === jid; });
       if(job){
-        renderJob(job);
+        try {
+          renderJob(job);
+        } catch(e) {
+          console.error('renderJob error:', e);
+          showError('not-found', jid);
+        }
       } else {
         showError('not-found', jid);
       }
