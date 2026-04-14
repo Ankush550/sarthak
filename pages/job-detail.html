@@ -1000,60 +1000,105 @@ document.addEventListener('DOMContentLoaded', function(){
     return;
   }
 
-  // Fetch jobs.json (government jobs)
-  fetch('../jobs.json')
-    .then(function(r){ return r.json(); })
-    .then(function(jobs){
-      loadSidebarJobs(jobs);
-      var found = jobs.find(function(j){ return j.id === jobId; });
-      if(found){
-        document.title = found.title + ' – SarthakYojana.in';
-        renderJob(found);
-        return;
-      }
-      // If not found in jobs.json, try private-jobs.json
-      return fetch('../private-jobs.json')
-        .then(function(r){ return r.json(); })
-        .then(function(pvtJobs){
-          var pvtFound = pvtJobs.find(function(j){ return j.id === jobId; });
-          if(pvtFound){
-            document.title = pvtFound.title + ' – SarthakYojana.in';
-            // Adapt private job format to display
-            var adapted = {
-              id: pvtFound.id,
-              title: pvtFound.title,
-              category: 'Private Job – ' + (pvtFound.category||''),
-              lastUpdate: pvtFound.date,
-              description: pvtFound.description || '',
-              highlights: {
-                vacancy: pvtFound.type || 'Full Time',
-                salary: pvtFound.salary || '—',
-                ageLimit: pvtFound.experience || '—',
-                department: pvtFound.company || '—',
-                domicile: pvtFound.city || 'India',
-                applyDate: pvtFound.date || '—'
-              },
-              importantLinks: pvtFound.applyUrl ? [{
-                label: 'Apply Online',
-                url: pvtFound.applyUrl,
-                text: pvtFound.applyUrl.replace('https://','').replace('http://','').split('/')[0]
-              }] : []
-            };
-            if(pvtFound.skills && pvtFound.skills.length){
-              adapted.documents = pvtFound.skills.map(function(s){ return 'Skill: ' + s; });
-            }
-            renderJob(adapted);
-          } else {
-            document.getElementById('loadingState').style.display = 'none';
-            document.getElementById('notFoundState').style.display = 'block';
+  // Try multiple fetch paths for jobs.json
+  // Path 1: ../jobs.json (when file is in /pages/ folder)
+  // Path 2: jobs.json (when file is in same folder)
+  // Path 3: /jobs.json (absolute from root)
+
+  function processJobs(jobs) {
+    loadSidebarJobs(jobs);
+    var found = jobs.find(function(j){ return j.id === jobId; });
+    if(found){
+      document.title = found.title + ' – SarthakYojana.in';
+      renderJob(found);
+      return true;
+    }
+    return false;
+  }
+
+  function tryPrivateJobs(paths) {
+    var pvtPath = paths[0];
+    var restPaths = paths.slice(1);
+    return fetch(pvtPath)
+      .then(function(r){
+        if(!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function(pvtJobs){
+        var pvtFound = pvtJobs.find(function(j){ return j.id === jobId; });
+        if(pvtFound){
+          document.title = pvtFound.title + ' – SarthakYojana.in';
+          var adapted = {
+            id: pvtFound.id,
+            title: pvtFound.title,
+            category: 'Private Job – ' + (pvtFound.category||''),
+            lastUpdate: pvtFound.date,
+            description: pvtFound.description || '',
+            highlights: {
+              vacancy: pvtFound.type || 'Full Time',
+              salary: pvtFound.salary || '—',
+              ageLimit: pvtFound.experience || '—',
+              department: pvtFound.company || '—',
+              domicile: pvtFound.city || 'India',
+              applyDate: pvtFound.date || '—'
+            },
+            importantLinks: pvtFound.applyUrl ? [{
+              label: 'Apply Online',
+              url: pvtFound.applyUrl,
+              text: pvtFound.applyUrl.replace('https://','').replace('http://','').split('/')[0]
+            }] : []
+          };
+          if(pvtFound.skills && pvtFound.skills.length){
+            adapted.documents = pvtFound.skills.map(function(s){ return 'Skill: ' + s; });
           }
-        });
-    })
-    .catch(function(err){
-      console.error('Error loading jobs:', err);
-      document.getElementById('loadingState').style.display = 'none';
-      document.getElementById('notFoundState').style.display = 'block';
-    });
+          renderJob(adapted);
+        } else if(restPaths.length) {
+          return tryPrivateJobs(restPaths);
+        } else {
+          document.getElementById('loadingState').style.display = 'none';
+          document.getElementById('notFoundState').style.display = 'block';
+        }
+      })
+      .catch(function(){
+        if(restPaths.length) return tryPrivateJobs(restPaths);
+        document.getElementById('loadingState').style.display = 'none';
+        document.getElementById('notFoundState').style.display = 'block';
+      });
+  }
+
+  function tryFetchJobs(paths) {
+    var path = paths[0];
+    var restPaths = paths.slice(1);
+    console.log('Trying to fetch jobs from:', path);
+    fetch(path)
+      .then(function(r){
+        if(!r.ok) throw new Error('HTTP ' + r.status + ' for ' + path);
+        return r.json();
+      })
+      .then(function(jobs){
+        console.log('Jobs loaded from:', path, '| Total:', jobs.length);
+        var found = processJobs(jobs);
+        if(!found){
+          // Try private jobs
+          var pvtPaths = ['../private-jobs.json','private-jobs.json','/private-jobs.json'];
+          tryPrivateJobs(pvtPaths);
+        }
+      })
+      .catch(function(err){
+        console.warn('Failed:', path, err.message);
+        if(restPaths.length){
+          tryFetchJobs(restPaths);
+        } else {
+          console.error('All paths failed. Make sure jobs.json is in the root folder.');
+          document.getElementById('loadingState').style.display = 'none';
+          document.getElementById('notFoundState').innerHTML = '<div style="font-size:48px;margin-bottom:14px;">⚠️</div><h2>Data Load Nahi Hua</h2><p>jobs.json file root folder mein rakho (index.html ke saath wali jagah)</p><br><a href="jobs.html" class="btn-go-home">💼 Saari Jobs Dekho</a>';
+          document.getElementById('notFoundState').style.display = 'block';
+        }
+      });
+  }
+
+  // Try paths in order: relative parent, same dir, absolute
+  tryFetchJobs(['../jobs.json', 'jobs.json', '/jobs.json']);
 });
 </script>
 
