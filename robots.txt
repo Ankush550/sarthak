@@ -1,34 +1,25 @@
-# SarthakYojana.in - robots.txt
-# Allow all major search engine crawlers
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Googlebot-Mobile
-Allow: /
-
-# CRITICAL: Allow Google AdSense crawler - ads nahi chalenge bina iske
-User-agent: Mediapartners-Google
-Allow: /
-
-# Allow Google AdsBot for ad quality checks
-User-agent: AdsBot-Google
-Allow: /
-
-User-agent: AdsBot-Google-Mobile
-Allow: /
-
-# Allow Bing crawler
-User-agent: bingbot
-Allow: /
-
-# Allow all other crawlers
 User-agent: *
 Allow: /
-Disallow: /cdn-cgi/
 
-# Sitemap location
+# Priority Pages – Crawl Karein
+Allow: /index.html
+Allow: /pages/jobs.html
+Allow: /pages/schemes.html
+Allow: /pages/results.html
+Allow: /pages/private-jobs.html
+Allow: /pages/sarkari-rules.html
+Allow: /pages/job-finder.html
+Allow: /pages/search.html
+Allow: /pages/sitemap.html
+
+# Block Unnecessary Pages
+Disallow: /assets/
+Disallow: /*.json$
+Disallow: /pages/terms.html
+Disallow: /pages/privacy-policy.html
+
+# Sitemap
 Sitemap: https://sarthakyojana.in/sitemap.xml
+
+# Crawl Delay (Google ke liye not needed, but Bing/others ke liye)
+Crawl-delay: 5
