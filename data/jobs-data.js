@@ -1,520 +1,76 @@
-// ════════════════════════════════════════════════════════════════
-//  SarthakYojana.in – Jobs Data File
-//  Path on server: /data/jobs-data.js
-//  Defines: window.__JOBS_DATA  (used by job-detail.html)
-// ════════════════════════════════════════════════════════════════
+// SarthakYojana.in — Complete Jobs Data File
+// Server path: /data/jobs-data.js
+// Local test:  put in /data/ folder (same level as /pages/)
 window.__JOBS_DATA = [
 
-  {
-    id: "rcfl-operator-trainee-2026",
-    title: "RCFL Operator Trainee Bharti 2026 – 188 Posts, rcflindia.com par Apply Karein",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 10:00 AM",
-    description: "Rashtriya Chemicals and Fertilizers Limited (RCFL) ne 2026 mein Operator Trainee ke 188 posts ke liye notification jari kiya hai. Yeh ek Navratna Central PSU hai jo Ministry of Chemicals & Fertilizers ke tahat kaam karti hai. 10th pass aur ITI/Diploma candidates ke liye ek bahut accha mauka hai. Online apply rcflindia.com par karein.",
-    notification: "Official notification PDF rcflindia.com par available hai. Apply karne se pehle poori eligibility zaroor padhein.",
-    highlights: {
-      postName: "Operator Trainee",
-      vacancy: "188 Posts",
-      domicile: "All India",
-      ageLimit: "18-27 Years (relaxation as per rules)",
-      applyDate: "30/04/2026",
-      documents: "10th, ITI/Diploma, Aadhar, Photo",
-      department: "RCFL – Rashtriya Chemicals and Fertilizers Ltd"
-    },
-    importantDates: [
-      { label: "Notification Date",       value: "April 2026",    highlight: false },
-      { label: "Apply Start Date",        value: "14 April 2026", highlight: false },
-      { label: "Last Date to Apply",      value: "30 April 2026", highlight: true  },
-      { label: "Admit Card",             value: "Notified Later", highlight: false },
-      { label: "Exam/Interview Date",    value: "Notified Later", highlight: false }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹300/-",
-      "SC/ST/PwD: ₹0/- (Free)",
-      "Payment Mode: Online (Debit/Credit/UPI)"
-    ],
-    eligibility: [
-      { class: "Operator Trainee", age: "18-27 Years", category: "All Categories", residence: "All India" }
-    ],
-    documents: [
-      "10th Pass Certificate & Marksheet",
-      "ITI / Diploma Certificate",
-      "Aadhar Card",
-      "Passport Size Photo",
-      "Signature",
-      "Caste Certificate (if applicable)",
-      "PwD Certificate (if applicable)"
-    ],
-    howToApply: [
-      { title: "Official Website Visit Karein",         detail: "rcflindia.com par jaaiye aur 'Careers' section mein jaayein." },
-      { title: "Operator Trainee Link Dhundhen",        detail: "Latest recruitment mein 'Operator Trainee 2026' notification dhundhen." },
-      { title: "Online Application Form Bharein",       detail: "Apna naam, date of birth, qualification aur contact details sahi bharein." },
-      { title: "Documents Upload Karein",               detail: "Photo, signature, 10th marksheet aur ITI certificate JPEG/PDF format mein upload karein." },
-      { title: "Fee Submit Karein",                     detail: "Online payment mode se application fee jama karein." },
-      { title: "Submit aur Print Karein",               detail: "Form submit karne ke baad confirmation print ya screenshot lete zaroor rakhein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",        url: "https://www.rcflindia.com",          text: "rcflindia.com par Apply Karein" },
-      { label: "Official Website",    url: "https://www.rcflindia.com",          text: "www.rcflindia.com" },
-      { label: "SarthakYojana Jobs",  url: "https://sarthakyojana.in/pages/jobs.html", text: "Aur Naukri Dekhein" }
-    ],
-    keywords: ["RCFL Operator Trainee 2026", "rcfl recruitment", "RCFL 188 posts", "fertilizer company job", "ITI sarkari naukri", "10th pass job 2026", "Navratna PSU job", "rcflindia.com recruitment"],
-    faq: [
-      { q: "RCFL Operator Trainee ke liye eligibility kya hai?", a: "10th pass ke saath ITI ya Diploma (Chemical / Mechanical / Electrical) honi chahiye. Age 18-27 years, relaxation as per rules." },
-      { q: "RCFL Operator Trainee apply karne ki last date kya hai?", a: "30 April 2026 tak apply kar sakte hain. Official website rcflindia.com check karte rahein." },
-      { q: "RCFL mein salary kitni milti hai?", a: "RCFL Operator Trainee ko training period mein stipend aur baad mein CTC approximately ₹3-4 LPA milti hai. Details official notification mein hain." },
-      { q: "RCFL kahan hai aur kya karta hai?", a: "RCFL yaani Rashtriya Chemicals and Fertilizers Limited ek Navratna Central PSU hai jo fertilizers aur chemicals banati hai. Headquarters Mumbai mein hai." }
-    ]
-  },
+/* ─────────────────── HELPER ───────────────────
+   Minimal job template — all fields safe for renderJob()
+   ─────────────────────────────────────────────── */
 
-  {
-    id: "crpf-constable-tradesman-2026",
-    title: "CRPF Constable Tradesman aur Technical Bharti 2026 – 9195 Posts, crpf.gov.in par Apply Karein",
-    category: "Police/Defence",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Central Reserve Police Force (CRPF) ne Constable Tradesman aur Technical posts ke liye 9195 vacancies ka notification jari kiya hai. 10th pass aur ITI certificate rakhne wale candidates ke liye yeh ek bahut bada mauka hai. Online apply rect.crpf.gov.in par karein.",
-    highlights: {
-      postName: "Constable Tradesman / Technical",
-      vacancy: "9195 Posts",
-      domicile: "All India",
-      ageLimit: "18-23 Years",
-      applyDate: "19/05/2026",
-      documents: "10th, ITI, Aadhar, Photo",
-      department: "CRPF – Ministry of Home Affairs"
-    },
-    importantDates: [
-      { label: "Apply Start Date",    value: "20 April 2026",  highlight: false },
-      { label: "Last Date to Apply",  value: "19 May 2026",    highlight: true  },
-      { label: "Exam Date",           value: "Notified Later", highlight: false }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹100/-",
-      "SC/ST/Ex-Servicemen: ₹0/- (Free)",
-      "Female Candidates: ₹0/- (Free)",
-      "Payment: Online"
-    ],
-    eligibility: [
-      { class: "Constable Tradesman", age: "18-23 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["10th Certificate", "ITI Certificate", "Aadhar Card", "Photo", "Signature", "Caste Certificate (if applicable)"],
-    howToApply: [
-      { title: "rect.crpf.gov.in par jaaiye", detail: "Official CRPF recruitment portal par jaayein." },
-      { title: "Registration Karein", detail: "Email aur phone se new registration karein." },
-      { title: "Form Bharein", detail: "Personal, educational aur ITI trade details bharein." },
-      { title: "Documents Upload", detail: "Photo, signature, 10th aur ITI certificate upload karein." },
-      { title: "Fee Jama Karein", detail: "Online payment karein (SC/ST/Female free)." },
-      { title: "Submit aur Print", detail: "Form submit karein aur print lein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",       url: "https://rect.crpf.gov.in",                         text: "rect.crpf.gov.in" },
-      { label: "Official Website",   url: "https://www.crpf.gov.in",                          text: "www.crpf.gov.in" },
-      { label: "All Police Jobs",    url: "https://sarthakyojana.in/pages/jobs.html",         text: "Aur Police Jobs" }
-    ],
-    keywords: ["CRPF constable 2026", "CRPF tradesman", "9195 posts", "police bharti 2026", "10th pass police job"],
-    faq: [
-      { q: "CRPF Constable Tradesman ke liye kya qualification chahiye?", a: "10th pass ke saath related ITI trade certificate honi chahiye. Age 18-23 years (OBC/SC/ST ko relaxation milti hai)." },
-      { q: "CRPF Constable Tradesman ki salary kitni hai?", a: "CRPF Constable ko Pay Level 3 (₹21,700–₹69,100) milta hai plus allowances. Total in-hand approximately ₹30,000+ per month." }
-    ]
-  },
+{id:"rcfl-operator-trainee-2026",title:"RCFL Operator Trainee Bharti 2026 – 188 Posts",category:"Jobs",lastUpdate:"14/04/2026",description:"Rashtriya Chemicals and Fertilizers Limited (RCFL) ne Operator Trainee ke 188 posts ke liye 2026 mein notification jari kiya hai. ITI/Diploma holders ke liye ek accha mauka. Apply: rcflindia.com",notification:"Last date 30 April 2026. rcflindia.com par apply karein.",highlights:{postName:"Operator Trainee",vacancy:"188 Posts",domicile:"All India",ageLimit:"18-27 Years",applyDate:"30/04/2026",documents:"10th, ITI/Diploma, Aadhar, Photo",department:"RCFL – Ministry of Chemicals & Fertilizers"},importantDates:[{label:"Apply Start",value:"14 April 2026",highlight:false},{label:"Last Date",value:"30 April 2026",highlight:true}],fees:["General/OBC: ₹300/-","SC/ST/PwD: Free","Payment: Online"],eligibility:[{class:"Operator Trainee",age:"18-27 Years",category:"All",residence:"All India"}],documents:["10th Certificate","ITI/Diploma Certificate","Aadhar Card","Passport Photo","Signature"],howToApply:[{title:"rcflindia.com visit karein",detail:"Official website Careers section mein jaayein."},{title:"Form Bharein",detail:"Details fill karein, documents upload karein, fee jama karein."}],importantLinks:[{label:"Apply Online",url:"https://www.rcflindia.com",text:"rcflindia.com"}],keywords:["RCFL operator trainee 2026","rcfl recruitment","188 posts","fertilizer company job","ITI sarkari naukri"],faq:[{q:"RCFL Operator Trainee eligibility kya hai?",a:"10th pass + ITI/Diploma (Chemical/Mechanical/Electrical). Age 18-27 years."},{q:"RCFL ki last date kya hai?",a:"30 April 2026. Official site rcflindia.com check karte rahein."}]},
 
-  {
-    id: "secl-mining-sirdar-2026",
-    title: "SECL Mining Sirdar, Dy. Surveyor aur Assistant Foreman Bharti 2026 – 1055 Posts",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "South Eastern Coalfields Limited (SECL) ne Mining Sirdar, Deputy Surveyor aur Assistant Foreman ke 1055 posts ke liye recruitment notification jari kiya hai. SECL ek Navratna Central PSU hai jo Coal India ka hissa hai. Diploma holders ke liye yeh ek accha mauka hai.",
-    highlights: {
-      postName: "Mining Sirdar / Dy. Surveyor / Asst. Foreman",
-      vacancy: "1055 Posts",
-      domicile: "All India",
-      ageLimit: "18-30 Years",
-      applyDate: "14/05/2026",
-      documents: "10th, Diploma, Aadhar, Photo",
-      department: "SECL – South Eastern Coalfields Limited (Coal India)"
-    },
-    importantDates: [
-      { label: "Apply Start Date",   value: "15 April 2026", highlight: false },
-      { label: "Last Date to Apply", value: "14 May 2026",   highlight: true  },
-      { label: "Exam Date",          value: "June 2026 (tentative)", highlight: false }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹500/-",
-      "SC/ST/PwD: ₹0/- (Free)",
-      "Payment: Online"
-    ],
-    eligibility: [
-      { class: "Mining Sirdar", age: "18-30 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["10th Certificate", "Mining Sirdar/Diploma Certificate", "Aadhar", "Photo", "Signature"],
-    howToApply: [
-      { title: "secl-cil.in par jaaiye", detail: "SECL official website par Careers section mein jaaiye." },
-      { title: "Online Form Bharein", detail: "Required details bharein." },
-      { title: "Documents Upload Karein", detail: "Sab documents upload karein." },
-      { title: "Fee Jama Karein", detail: "Online payment karein." },
-      { title: "Submit aur Print", detail: "Form submit karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",    url: "https://www.secl-cil.in",                    text: "secl-cil.in" },
-      { label: "Official Site",   url: "https://www.secl-cil.in",                    text: "www.secl-cil.in" }
-    ],
-    keywords: ["SECL mining sirdar 2026", "coal india job", "1055 posts", "SECL recruitment", "diploma job"],
-    faq: [
-      { q: "SECL Mining Sirdar ke liye qualification kya chahiye?", a: "Mining Sirdar Certificate of Competency honi chahiye ya Diploma in Mining Engineering. Age 18-30 years." }
-    ]
-  },
+{id:"crpf-constable-tradesman-2026",title:"CRPF Constable Tradesman & Technical Bharti 2026 – 9195 Posts",category:"Police/Defence",lastUpdate:"14/04/2026",description:"CRPF ne Constable Tradesman aur Technical posts ke liye 9195 vacancies ka notification jari kiya hai. 10th pass + ITI candidates apply kar sakte hain. India ke sabse bade paramilitary recruitments mein se ek.",notification:"Apply 20 Apr – 19 May 2026. rect.crpf.gov.in par.",highlights:{postName:"Constable Tradesman/Technical",vacancy:"9195 Posts",domicile:"All India",ageLimit:"18-23 Years",applyDate:"19/05/2026",documents:"10th, ITI, Aadhar, Photo",department:"CRPF – Ministry of Home Affairs"},importantDates:[{label:"Apply Start",value:"20 April 2026",highlight:false},{label:"Last Date",value:"19 May 2026",highlight:true}],fees:["General/OBC: ₹100/-","SC/ST/Ex-SM/Female: Free"],eligibility:[{class:"Constable Tradesman",age:"18-23 Years",category:"All",residence:"All India"}],documents:["10th Certificate","ITI Certificate","Aadhar","Photo","Caste Certificate (if applicable)"],howToApply:[{title:"rect.crpf.gov.in par jaaiye",detail:"CRPF official portal par register karein."},{title:"Form Submit Karein",detail:"Details fill karein, documents upload karein, fee jama karein."}],importantLinks:[{label:"Apply Online",url:"https://rect.crpf.gov.in",text:"rect.crpf.gov.in"}],keywords:["CRPF constable 2026","9195 posts","police bharti 2026","10th pass police"],faq:[{q:"CRPF Constable ke liye kya chahiye?",a:"10th pass + ITI. Age 18-23 years."},{q:"CRPF Constable salary kitni hai?",a:"Pay Level 3: ₹21,700–₹69,100 + allowances. In-hand ~₹30,000+"}]},
 
-  {
-    id: "indian-bank-so-2026",
-    title: "Indian Bank SO Bharti 2026 – 350 Specialist Officer Posts, indianbank.in par Apply Karein",
-    category: "Banking",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Indian Bank ne 2026 mein Specialist Officer (SO) ke 350 posts ke liye notification jari kiya hai. Graduates aur postgraduates ke liye yeh bank job ka ek acha mauka hai. Online apply indianbank.in par karein.",
-    highlights: {
-      postName: "Specialist Officer (SO)",
-      vacancy: "350 Posts",
-      domicile: "All India",
-      ageLimit: "20-35 Years (varies by post)",
-      applyDate: "28/04/2026",
-      documents: "Graduation, Aadhar, Photo",
-      department: "Indian Bank (Public Sector Bank)"
-    },
-    importantDates: [
-      { label: "Apply Start Date",   value: "April 2026",    highlight: false },
-      { label: "Last Date to Apply", value: "28 April 2026", highlight: true  },
-      { label: "Exam Date",          value: "June 2026",     highlight: false }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹850/-",
-      "SC/ST/PwD: ₹175/-",
-      "Payment: Online"
-    ],
-    eligibility: [
-      { class: "Specialist Officer", age: "20-35 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["Graduation Certificate", "Professional Certificate", "Aadhar Card", "Photo", "Signature"],
-    howToApply: [
-      { title: "indianbank.in par jaaiye", detail: "Official website par Careers section mein jaaiye." },
-      { title: "SO 2026 Link Click Karein", detail: "Specialist Officer recruitment link par click karein." },
-      { title: "Form Bharein aur Submit Karein", detail: "Details bharein aur documents upload karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",   url: "https://www.indianbank.in",   text: "indianbank.in" },
-      { label: "Official Site",  url: "https://www.indianbank.in",   text: "www.indianbank.in" }
-    ],
-    keywords: ["Indian Bank SO 2026", "specialist officer bank job", "350 posts bank", "bank job 2026"],
-    faq: [
-      { q: "Indian Bank SO ke liye qualification kya hai?", a: "Post ke hisaab se graduation ya post-graduation required hai. Age 20-35 years." }
-    ]
-  },
+{id:"secl-mining-sirdar-2026",title:"SECL Mining Sirdar, Dy. Surveyor & Assistant Foreman 2026 – 1055 Posts",category:"Jobs",lastUpdate:"14/04/2026",description:"South Eastern Coalfields Limited (SECL) ne 1055 posts ke liye notification jari kiya hai. Navratna PSU mein Coal sector ki naukri. Diploma holders apply karein.",notification:"Apply 15 Apr – 14 May 2026. secl-cil.in par.",highlights:{postName:"Mining Sirdar/Dy. Surveyor/Asst. Foreman",vacancy:"1055 Posts",domicile:"All India",ageLimit:"18-30 Years",applyDate:"14/05/2026",documents:"10th, Mining Certificate/Diploma, Aadhar",department:"SECL – Coal India Limited"},importantDates:[{label:"Apply Start",value:"15 April 2026",highlight:false},{label:"Last Date",value:"14 May 2026",highlight:true}],fees:["General/OBC: ₹500/-","SC/ST/PwD: Free"],eligibility:[{class:"Mining Sirdar",age:"18-30 Years",category:"All",residence:"All India"}],documents:["10th Certificate","Mining/Diploma Certificate","Aadhar","Photo"],howToApply:[{title:"secl-cil.in par apply karein",detail:"SECL official website Careers section mein online form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.secl-cil.in",text:"secl-cil.in"}],keywords:["SECL mining sirdar 2026","coal india job","1055 posts","diploma job PSU"],faq:[{q:"SECL Mining Sirdar eligibility kya hai?",a:"Mining Sirdar Certificate of Competency ya Mining Engineering Diploma. Age 18-30 years."}]},
 
-  {
-    id: "central-bank-so-2026",
-    title: "Central Bank of India SO Bharti 2026 – 26 Specialist Officer Risk Management Posts",
-    category: "Banking",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Central Bank of India ne Risk Management field mein Specialist Officer ke 26 posts ke liye 2026 mein notification jari kiya hai. Experienced professionals ke liye yeh ek accha mauka hai.",
-    highlights: {
-      postName: "Specialist Officer – Risk Management",
-      vacancy: "26 Posts",
-      domicile: "All India",
-      ageLimit: "25-35 Years",
-      applyDate: "30/04/2026",
-      documents: "Graduation, Experience, Aadhar, Photo",
-      department: "Central Bank of India (Public Sector Bank)"
-    },
-    importantDates: [
-      { label: "Apply Start Date",   value: "09 April 2026", highlight: false },
-      { label: "Last Date to Apply", value: "30 April 2026", highlight: true  }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹850/-",
-      "SC/ST/PwD: ₹175/-",
-      "Payment: Online"
-    ],
-    eligibility: [
-      { class: "SO Risk Management", age: "25-35 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["Graduation/PG Certificate", "Experience Certificate", "Aadhar Card", "Photo"],
-    howToApply: [
-      { title: "centralbank.bank.in par jaaiye", detail: "Careers section mein jaayein." },
-      { title: "SO 2026 Link Dhundhen", detail: "Risk Management SO link par apply karein." },
-      { title: "Submit Karein", detail: "Form fill karein aur fee jama karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",  url: "https://www.centralbank.net.in",  text: "centralbank.bank.in" }
-    ],
-    keywords: ["Central Bank SO 2026", "risk management job", "bank specialist officer", "26 posts bank"],
-    faq: [
-      { q: "Central Bank SO ke liye kya experience chahiye?", a: "Risk Management mein 2-5 saal ka experience preferred hai. MBA/CA/CFA qualification acchi rehti hai." }
-    ]
-  },
+{id:"mecon-non-executive-2026",title:"MECON Non-Executive Bharti 2026 – 24 Posts Accountant aur Assistant",category:"Jobs",lastUpdate:"14/04/2026",description:"MECON Limited ne non-executive posts ke liye 2026 mein recruitment notification jari kiya hai. Kul 24 posts hain jisme Accountant aur anya assistant category posts shamil hain. MECON Limited ek Mini Ratna Central PSU hai jo Ministry of Steel ke tahat kaam karti hai.",notification:"Last date 06 May 2026. meconlimited.co.in par apply karein.",highlights:{postName:"Accountant / Assistant",vacancy:"24 Posts",domicile:"All India",ageLimit:"18-30 Years",applyDate:"06/05/2026",documents:"12th/Graduation, Aadhar, Photo",department:"MECON Limited – Ministry of Steel"},importantDates:[{label:"Last Date to Apply",value:"06 May 2026",highlight:true}],fees:["General/OBC: ₹300/-","SC/ST/PwD: Free","Payment: Online"],eligibility:[{class:"Accountant/Assistant",age:"18-30 Years",category:"All",residence:"All India"}],documents:["12th/Graduation Certificate","Aadhar Card","Passport Photo","Signature","Caste Certificate (if applicable)"],howToApply:[{title:"meconlimited.co.in par jaaiye",detail:"MECON official website Careers section mein online apply karein."},{title:"Form Bharein & Submit Karein",detail:"Details fill karein, documents upload karein aur fee jama karein."}],importantLinks:[{label:"Apply Online",url:"https://www.meconlimited.co.in",text:"meconlimited.co.in"}],keywords:["MECON non executive 2026","MECON accountant assistant","steel ministry PSU job","24 posts 2026"],faq:[{q:"MECON Non-Executive ke liye kya qualification chahiye?",a:"Post ke hisaab se 12th pass ya graduation required hai. Accountant ke liye B.Com preferred."},{q:"MECON kya company hai?",a:"MECON Limited ek Mini Ratna Central PSU hai jo Ministry of Steel ke tahat engineering consultancy services provide karti hai."}]},
 
-  {
-    id: "ngel-dgm-am-2026",
-    title: "NTPC Green Energy NGEL DGM aur Assistant Manager Bharti 2026 – 46 Posts",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "NTPC Green Energy Limited (NGEL) ne Deputy General Manager aur Assistant Manager ke 46 posts ke liye 2026 mein recruitment notification jari kiya hai. Engineering graduates ke liye renewable energy sector mein yeh ek bada mauka hai.",
-    highlights: {
-      postName: "DGM / Assistant Manager",
-      vacancy: "46 Posts",
-      domicile: "All India",
-      ageLimit: "28-45 Years (varies by post)",
-      applyDate: "05/05/2026",
-      documents: "B.Tech/B.E., Experience, Aadhar, Photo",
-      department: "NTPC Green Energy Limited (NGEL)"
-    },
-    importantDates: [
-      { label: "Apply Start Date",   value: "15 April 2026", highlight: false },
-      { label: "Last Date to Apply", value: "05 May 2026",   highlight: true  }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹300/-",
-      "SC/ST/PwD: ₹0/- (Free)",
-      "Payment: Online"
-    ],
-    eligibility: [
-      { class: "DGM/AM", age: "28-45 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["B.Tech/B.E. Certificate", "Experience Certificate", "Aadhar", "Photo"],
-    howToApply: [
-      { title: "ngel.in par jaaiye", detail: "Official NGEL website Careers section mein jaaiye." },
-      { title: "Form Bharein", detail: "Details aur experience bharein." },
-      { title: "Submit Karein", detail: "Documents upload karein aur submit karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online",  url: "https://www.ngel.in",  text: "ngel.in" }
-    ],
-    keywords: ["NGEL DGM 2026", "NTPC Green Energy job", "renewable energy job india", "46 posts engineering"],
-    faq: [
-      { q: "NGEL DGM ke liye qualification kya chahiye?", a: "B.Tech/B.E. in relevant engineering discipline required hai. DGM ke liye significant work experience bhi chahiye." }
-    ]
-  },
+{id:"ncl-trainee-2026",title:"NCL Trainee Bharti 2026 – 577 Posts HEMM Operator, Staff Nurse, Overseer",category:"Jobs",lastUpdate:"14/04/2026",description:"Northern Coalfields Limited (NCL) ne 577 trainee posts ke liye notification jari kiya hai – HEMM Operator, Staff Nurse, Overseer aur aur bhi posts hain. NCL ek Navratna Central PSU hai (Coal India).",notification:"Last date 01 May 2026. nclcil.in par apply karein.",highlights:{postName:"HEMM Operator/Staff Nurse/Overseer",vacancy:"577 Posts",domicile:"All India",ageLimit:"18-30 Years",applyDate:"01/05/2026",documents:"10th/ITI/Diploma/GNM, Aadhar, Photo",department:"NCL – Coal India Limited"},importantDates:[{label:"Last Date",value:"01 May 2026",highlight:true}],fees:["General/OBC: ₹300/-","SC/ST/PwD: Free"],eligibility:[{class:"HEMM Operator",age:"18-28 Years",category:"All",residence:"All India"},{class:"Staff Nurse",age:"18-30 Years",category:"All",residence:"All India"}],documents:["10th Certificate","ITI/GNM Certificate","Aadhar","Photo"],howToApply:[{title:"nclcil.in par apply karein",detail:"NCL official website se online form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.nclcil.in",text:"nclcil.in"}],keywords:["NCL trainee 2026","577 posts coal india","HEMM operator job","staff nurse govt job"],faq:[{q:"NCL HEMM Operator ke liye kya chahiye?",a:"10th pass + HEMM operator certificate ya relevant ITI trade. Age 18-28 years."}]},
 
-  {
-    id: "ncl-trainee-2026",
-    title: "NCL Trainee Bharti 2026 – 577 Posts HEMM Operator, Staff Nurse, Overseer",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Northern Coalfields Limited (NCL) ne 577 trainee posts ke liye notification jari kiya hai jisme HEMM Operator Trainee, Staff Nurse, Overseer aur anya posts shamil hain. NCL ek Navratna Central PSU hai jo Coal India Limited ka hissa hai.",
-    highlights: {
-      postName: "HEMM Operator / Staff Nurse / Overseer",
-      vacancy: "577 Posts",
-      domicile: "All India",
-      ageLimit: "18-30 Years",
-      applyDate: "01/05/2026",
-      documents: "10th/12th/Diploma, Aadhar, Photo",
-      department: "Northern Coalfields Limited (NCL – Coal India)"
-    },
-    importantDates: [
-      { label: "Last Date to Apply", value: "01 May 2026", highlight: true }
-    ],
-    fees: [
-      "General/OBC/EWS: ₹300/-",
-      "SC/ST/PwD: ₹0/- (Free)"
-    ],
-    eligibility: [
-      { class: "HEMM Operator", age: "18-28 Years", category: "All", residence: "All India" },
-      { class: "Staff Nurse", age: "18-30 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["10th/12th Certificate", "ITI/Diploma/GNM Certificate", "Aadhar", "Photo"],
-    howToApply: [
-      { title: "nclcil.in par jaaiye", detail: "Careers section mein jaayein." },
-      { title: "Apply Online Karein", detail: "Form bharein aur submit karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online", url: "https://www.nclcil.in", text: "nclcil.in" }
-    ],
-    keywords: ["NCL trainee 2026", "coal india job", "HEMM operator", "577 posts", "staff nurse govt job"],
-    faq: [
-      { q: "NCL HEMM Operator ke liye kya qualification chahiye?", a: "10th pass ke saath Heavy Earth Moving Machinery (HEMM) operator certificate ya relevant ITI trade required hai." }
-    ]
-  },
+{id:"pstet-result-2026",title:"Punjab PSTET Result 2026 – Paper 1 & 2 Scorecard pstet2025.org par Check Karein",category:"Result",lastUpdate:"07/04/2026",description:"Punjab State Teacher Eligibility Test (PSTET) ka result 2026 jari ho gaya hai. Paper 1 aur Paper 2 dono ke scorecards ab official website pstet2025.org par available hain.",notification:"Result out. pstet2025.org par login karke check karein.",highlights:{postName:"Teacher Eligibility Test Result",vacancy:"Result Declared",domicile:"Punjab",ageLimit:"N/A",applyDate:"Result: 07/04/2026",documents:"Hall Ticket + Registration Number",department:"Punjab School Education Board (PSEB)"},importantDates:[{label:"Result Declared",value:"07 April 2026",highlight:true}],fees:["Already Paid – Result Check Free"],eligibility:[{class:"TET Qualified Teachers",age:"As per rules",category:"All",residence:"Punjab"}],documents:["Registration Number","Date of Birth","Hall Ticket"],howToApply:[{title:"pstet2025.org par jaaiye",detail:"Official website par login karein registration number se."},{title:"Scorecard Download Karein",detail:"Paper 1 ya Paper 2 result download karein aur print lein."}],importantLinks:[{label:"Check Result",url:"https://pstet2025.org",text:"pstet2025.org"}],keywords:["Punjab PSTET result 2026","PSTET scorecard","teacher eligibility test punjab","PSEB result"],faq:[{q:"PSTET result kaise check karein?",a:"pstet2025.org par jaaiye, registration number aur DOB se login karein, scorecard download karein."}]},
 
-  {
-    id: "irctc-hospitality-monitor-2026",
-    title: "IRCTC Hospitality Monitor Walk-in Interview 2026 – 84 Posts, Chennai mein 25 se 28 April",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Indian Railway Catering and Tourism Corporation (IRCTC) South Zone mein 84 Hospitality Monitor posts ke liye walk-in interview ka mauka hai. Hotel Management ya Hospitality degree holders ke liye yeh ek direct recruitment opportunity hai.",
-    highlights: {
-      postName: "Hospitality Monitor",
-      vacancy: "84 Posts",
-      domicile: "South Zone – Chennai",
-      ageLimit: "18-30 Years",
-      applyDate: "Walk-in: 25, 27-28 Apr 2026",
-      documents: "Graduation/Hotel Mgmt degree, Aadhar, Photo, CV",
-      department: "IRCTC South Zone (Indian Railways)"
-    },
-    importantDates: [
-      { label: "Walk-in Interview Date", value: "25, 27-28 April 2026 (Chennai)", highlight: true }
-    ],
-    fees: ["No Application Fee – Direct Walk-in Interview"],
-    eligibility: [
-      { class: "Hospitality Monitor", age: "18-30 Years", category: "All", residence: "South Zone preferred" }
-    ],
-    documents: ["Hotel Management / Hospitality Degree", "Resume/CV", "Aadhar Card", "Passport Photo", "All Certificates"],
-    howToApply: [
-      { title: "Chennai IRCTC Office Visit Karein", detail: "Walk-in interview ke liye directly Chennai IRCTC South Zone office mein jaayein 25, 27 ya 28 April 2026 ko." },
-      { title: "Documents Saath Laaiye", detail: "Original + photocopy of all certificates, Resume, Aadhar, 2 passport photos." }
-    ],
-    importantLinks: [
-      { label: "IRCTC Official Site", url: "https://www.irctc.co.in", text: "irctc.co.in" }
-    ],
-    keywords: ["IRCTC walk-in interview 2026", "hospitality monitor", "hotel management job", "84 posts railways", "Chennai job 2026"],
-    faq: [
-      { q: "IRCTC Hospitality Monitor walk-in kab hai?", a: "Walk-in interview 25, 27 aur 28 April 2026 ko Chennai mein hai. Directly IRCTC South Zone office mein jaaiye documents ke saath." }
-    ]
-  },
+{id:"ossc-cgl-admit-card-2026",title:"OSSC CGL Admit Card 2026 – Prelims 19 April, ossc.gov.in se Download Karein",category:"Admit Card",lastUpdate:"14/04/2026",description:"Odisha Staff Selection Commission (OSSC) ne Combined Graduate Level (CGL) Prelims 2026 ka admit card jari kar diya hai. Exam 19 April 2026 ko hogi.",notification:"Admit card out. ossc.gov.in par download karein.",highlights:{postName:"CGL – Combined Graduate Level",vacancy:"Admit Card",domicile:"Odisha",ageLimit:"N/A",applyDate:"Prelims: 19/04/2026",documents:"Admit Card + Photo ID",department:"Odisha Staff Selection Commission (OSSC)"},importantDates:[{label:"Prelims Exam",value:"19 April 2026",highlight:true}],fees:["Already Paid"],eligibility:[{class:"CGL Candidate",age:"As per OSSC norms",category:"All",residence:"Odisha"}],documents:["Admit Card (Downloaded)","Valid Photo ID","Passport Photo"],howToApply:[{title:"ossc.gov.in par jaaiye",detail:"OSSC official website par CGL admit card link par click karein."},{title:"Login & Download",detail:"Registration number se login karein aur admit card download karein."}],importantLinks:[{label:"Download Admit Card",url:"https://www.ossc.gov.in",text:"ossc.gov.in"}],keywords:["OSSC CGL admit card 2026","Odisha SSC exam","CGL prelims 19 april","ossc.gov.in"],faq:[{q:"OSSC CGL admit card kaise download karein?",a:"ossc.gov.in par jaaiye, CGL admit card section mein registration number se login karein."}]},
 
-  {
-    id: "aiims-norcet-10-admit-card-2026",
-    title: "AIIMS NORCET 10 Admit Card 2026 – Stage I CBT 11 April, aiimsexams.ac.in se Download Karein",
-    category: "Admit Card",
-    lastUpdate: "11/04/2026 | 08:00 AM",
-    description: "AIIMS New Delhi ne NORCET-10 (Nursing Officer Recruitment Common Eligibility Test) ke liye admit card jari kar diya hai. Stage I CBT 11 April 2026 ko hogi. Candidates aiimsexams.ac.in par jaake hall ticket download kar sakte hain.",
-    highlights: {
-      postName: "Nursing Officer",
-      vacancy: "2551 Posts (Various AIIMS)",
-      domicile: "All India",
-      ageLimit: "As per AIIMS rules",
-      applyDate: "Exam: 11/04/2026",
-      documents: "Admit Card + Photo ID",
-      department: "AIIMS New Delhi"
-    },
-    importantDates: [
-      { label: "Admit Card Released",  value: "April 2026",      highlight: false },
-      { label: "Stage I CBT Exam",     value: "11 April 2026",   highlight: true  }
-    ],
-    fees: ["Already Paid at Application Time"],
-    eligibility: [
-      { class: "Nursing Officer", age: "As per AIIMS norms", category: "All", residence: "All India" }
-    ],
-    documents: ["Admit Card (Downloaded)", "Valid Photo ID (Aadhar/Passport/Voter ID)", "Passport Photo"],
-    howToApply: [
-      { title: "aiimsexams.ac.in par jaaiye", detail: "AIIMS exams official portal par jaaiye." },
-      { title: "NORCET 10 Admit Card Link", detail: "'NORCET 10 Admit Card 2026' link par click karein." },
-      { title: "Login Karein", detail: "Registration number aur date of birth se login karein." },
-      { title: "Download Karein", detail: "Admit card download karein aur print lein." }
-    ],
-    importantLinks: [
-      { label: "Admit Card Download", url: "https://www.aiimsexams.ac.in", text: "aiimsexams.ac.in" }
-    ],
-    keywords: ["AIIMS NORCET 10 admit card 2026", "nursing officer exam", "AIIMS hall ticket", "NORCET exam date 2026"],
-    faq: [
-      { q: "AIIMS NORCET 10 admit card kahan se download karein?", a: "aiimsexams.ac.in par jaaiye, NORCET 10 section mein login karein registration number se aur admit card download karein." }
-    ]
-  },
+{id:"nda-1-admit-card-2026",title:"NDA 1 Admit Card 2026 – Exam 13 April, upsconline.nic.in se Download Karein",category:"Admit Card",lastUpdate:"05/04/2026",description:"UPSC ne NDA & NA Examination 1 2026 ke liye admit card jari kar diya hai. Exam 13 April 2026 ko hogi. upsconline.nic.in par download karein.",notification:"Admit card available. Exam: 13 April 2026.",highlights:{postName:"NDA & NA – Army/Navy/Air Force",vacancy:"Admit Card",domicile:"All India",ageLimit:"16.5-19.5 Years",applyDate:"Exam: 13/04/2026",documents:"Admit Card + Photo ID",department:"UPSC – Union Public Service Commission"},importantDates:[{label:"NDA 1 Exam",value:"13 April 2026",highlight:true}],fees:["Already Paid"],eligibility:[{class:"NDA Candidate",age:"16.5-19.5 Years",category:"All",residence:"All India"}],documents:["Admit Card","Valid Photo ID","Passport Photo"],howToApply:[{title:"upsconline.nic.in par jaaiye",detail:"UPSC portal par NDA admit card link dhundhen."},{title:"Download Karein",detail:"Roll number/registration se login karein aur admit card download karein."}],importantLinks:[{label:"Download Admit Card",url:"https://upsconline.nic.in",text:"upsconline.nic.in"}],keywords:["NDA admit card 2026","UPSC NDA exam","NDA 1 2026","defence entrance exam"],faq:[{q:"NDA exam ke liye eligibility kya hai?",a:"12th pass ya appearing. Age 16.5-19.5 years. Male/Female (unmarried) candidates."}]},
 
-  {
-    id: "moil-limited-result-2026",
-    title: "MOIL Limited Result 2026 – Electrician Fitter DV Schedule Out, moil.nic.in par Check Karein",
-    category: "Result",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "MOIL Limited ne Electrician aur Fitter posts ke recruitment ka result 2026 mein jari kar diya hai. Document Verification (DV) ke liye selected candidates ki list moil.nic.in par available hai.",
-    highlights: {
-      postName: "Electrician / Fitter",
-      vacancy: "As per notification",
-      domicile: "All India",
-      ageLimit: "As per MOIL norms",
-      applyDate: "Result: April 2026",
-      documents: "All original certificates for DV",
-      department: "MOIL Limited (Ministry of Steel)"
-    },
-    importantDates: [
-      { label: "Result Declared",    value: "April 2026",    highlight: false },
-      { label: "DV Schedule",        value: "As per call letter", highlight: true }
-    ],
-    fees: ["No Fee for Result/DV – Already Applied"],
-    eligibility: [
-      { class: "Electrician/Fitter", age: "As per MOIL norms", category: "All", residence: "All India" }
-    ],
-    documents: ["All Original Certificates", "Caste Certificate (if applicable)", "Aadhar", "Photo"],
-    howToApply: [
-      { title: "moil.nic.in par jaaiye", detail: "MOIL official website par result link dhundhen." },
-      { title: "Result Check Karein", detail: "Apna roll number daalkar result check karein." },
-      { title: "DV ke liye Ready Rahein", detail: "Select hone par sab original documents lekar DV mein jaaiye." }
-    ],
-    importantLinks: [
-      { label: "Result Link", url: "https://moil.nic.in", text: "moil.nic.in" }
-    ],
-    keywords: ["MOIL result 2026", "MOIL DV schedule", "electrician fitter govt job result", "MOIL limited recruitment"],
-    faq: [
-      { q: "MOIL DV ke liye kya documents chahiye?", a: "Sab original educational certificates, ITI certificate, caste certificate, Aadhar card aur 2 passport photos zaroor laaiye." }
-    ]
-  },
+{id:"rrb-alp-2026",title:"RRB ALP Recruitment 2026 – 11127 Assistant Loco Pilot Posts, Apply from 15 May",category:"Jobs",lastUpdate:"14/04/2026",description:"Railway Recruitment Board (RRB) ne Assistant Loco Pilot (ALP) ke 11,127 posts ke liye CEN 01/2026 notification jari kiya hai. 10th pass + ITI candidates apply kar sakte hain. India ki sabse popular railway bharti hai.",notification:"Online apply 15 May 2026 se shuru hoga. indianrailways.gov.in par notification check karein.",highlights:{postName:"Assistant Loco Pilot (ALP)",vacancy:"11,127 Posts",domicile:"All India",ageLimit:"18-28 Years",applyDate:"15/05/2026 (tentative)",documents:"10th, ITI, Aadhar, Photo",department:"Railway Recruitment Board (RRB) – Indian Railways"},importantDates:[{label:"Notification Date",value:"April 2026",highlight:false},{label:"Apply Start Date",value:"15 May 2026 (tentative)",highlight:true}],fees:["General/OBC/EWS: ₹500/-","SC/ST/Ex-SM/Female/Minority: ₹250/-"],eligibility:[{class:"ALP",age:"18-28 Years",category:"All",residence:"All India"}],documents:["10th Certificate","ITI Certificate","Aadhar","Photo","Caste Certificate"],howToApply:[{title:"rrbapply.gov.in par apply karein",detail:"RRB official portal par registration karein aur form bharein."},{title:"CBT Exam Dein",detail:"Computer Based Test qualify karne ke baad CBAT aur Medical hoga."}],importantLinks:[{label:"Apply Online",url:"https://www.rrbapply.gov.in",text:"rrbapply.gov.in"},{label:"Official Notification",url:"https://indianrailways.gov.in",text:"indianrailways.gov.in"}],keywords:["RRB ALP 2026","railway loco pilot","11127 posts railway","10th ITI railway job 2026"],faq:[{q:"RRB ALP ke liye kya qualification chahiye?",a:"10th pass + ITI in relevant trade (Electrician, Fitter, Machinist etc.) required hai. Age 18-28 years."},{q:"RRB ALP salary kitni hai?",a:"Pay Level 2: ₹19,900–₹63,200 + allowances. Total in-hand ~₹28,000-₹35,000 per month."}]},
 
-  {
-    id: "nps-trust-staff-2026",
-    title: "NPS Trust Staff Bharti 2026 – 15 Contractual Executive/Analyst Posts",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "National Pension System Trust (NPS Trust) ne 15 contractual posts ke liye 2026 mein notification jari kiya hai. Executive aur Analyst level positions hain. Graduates ke liye yeh ek accha mauka hai.",
-    highlights: {
-      postName: "Executive / Analyst",
-      vacancy: "15 Posts",
-      domicile: "All India",
-      ageLimit: "25-35 Years",
-      applyDate: "29/04/2026",
-      documents: "Graduation, Experience, Aadhar, Photo",
-      department: "NPS Trust – PFRDA"
-    },
-    importantDates: [
-      { label: "Last Date to Apply", value: "29 April 2026", highlight: true }
-    ],
-    fees: ["No Application Fee"],
-    eligibility: [
-      { class: "Executive/Analyst", age: "25-35 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["Graduation Certificate", "Experience Certificate (if any)", "Aadhar", "Photo", "Resume"],
-    howToApply: [
-      { title: "npstrust.org.in par jaaiye", detail: "NPS Trust official website Careers section mein jaayein." },
-      { title: "Online Apply Karein", detail: "Form fill karein aur submit karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online", url: "https://www.npstrust.org.in", text: "npstrust.org.in" }
-    ],
-    keywords: ["NPS Trust job 2026", "pension fund job", "PFRDA recruitment", "15 posts analyst executive"],
-    faq: [
-      { q: "NPS Trust mein kya kaam hota hai?", a: "NPS Trust PFRDA ke tahat National Pension System ka management karta hai. Yahan Executive/Analyst posts mein pension funds ka analysis aur management hota hai." }
-    ]
-  },
+{id:"bob-wms-2026",title:"Bank of Baroda 104 Posts 2026 – Deputy Manager & AVP, Apply by 16 April",category:"Banking",lastUpdate:"14/04/2026",description:"Bank of Baroda ne Deputy Manager aur AVP (Wealth Management Specialist) ke 104 posts ke liye 2026 mein notification jari kiya hai. Experienced banking professionals ke liye ek acha mauka.",notification:"Last date 16 April 2026. bankofbaroda.in par apply karein.",highlights:{postName:"Deputy Manager / AVP – Wealth Management",vacancy:"104 Posts",domicile:"All India",ageLimit:"25-40 Years",applyDate:"16/04/2026",documents:"Graduation, Experience, Aadhar, Photo",department:"Bank of Baroda (Public Sector Bank)"},importantDates:[{label:"Last Date",value:"16 April 2026",highlight:true}],fees:["General/OBC: ₹600/-","SC/ST/PwD: ₹100/-"],eligibility:[{class:"Deputy Manager/AVP",age:"25-40 Years",category:"All",residence:"All India"}],documents:["Graduation Certificate","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"bankofbaroda.in par apply karein",detail:"BOB official website Careers section mein online form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.bankofbaroda.in",text:"bankofbaroda.in"}],keywords:["Bank of Baroda 2026","BOB deputy manager","wealth management bank job","104 posts bank"],faq:[{q:"Bank of Baroda Wealth Management job ke liye kya chahiye?",a:"Graduation + relevant banking/wealth management experience required hai. Age 25-40 years."}]},
 
-  {
-    id: "cdot-scientist-consultant-2026",
-    title: "C-DOT Scientist B/C Bharti 2026 – 16 Posts Cyber/Cryptography",
-    category: "Jobs",
-    lastUpdate: "14/04/2026 | 09:00 AM",
-    description: "Centre for Development of Telematics (C-DOT) ne Scientist B aur C ke 16 posts ke liye 2026 mein notification jari kiya hai. Cyber security aur Cryptography field mein kaam karne ka mauka. B.Tech/M.Tech candidates apply kar sakte hain.",
-    highlights: {
-      postName: "Scientist B/C – Cyber/Cryptography",
-      vacancy: "16 Posts",
-      domicile: "All India",
-      ageLimit: "30-35 Years",
-      applyDate: "03/05/2026",
-      documents: "B.Tech/M.Tech, Aadhar, Photo",
-      department: "C-DOT – Ministry of Communications"
-    },
-    importantDates: [
-      { label: "Last Date to Apply", value: "03 May 2026", highlight: true }
-    ],
-    fees: ["General/OBC: ₹500/-", "SC/ST/PwD: ₹0/- (Free)"],
-    eligibility: [
-      { class: "Scientist B/C", age: "30-35 Years", category: "All", residence: "All India" }
-    ],
-    documents: ["B.Tech/M.Tech Certificate", "Experience Certificate", "Aadhar", "Photo"],
-    howToApply: [
-      { title: "cdot.in par jaaiye", detail: "C-DOT official website Careers section mein jaayein." },
-      { title: "Form Bharein", detail: "Technical details aur experience fill karein." }
-    ],
-    importantLinks: [
-      { label: "Apply Online", url: "https://www.cdot.in", text: "cdot.in" }
-    ],
-    keywords: ["CDOT scientist 2026", "cyber security job govt", "cryptography job india", "scientist B C recruitment"],
-    faq: [
-      { q: "C-DOT Scientist ke liye kya chahiye?", a: "B.Tech/M.Tech in Computer Science, Electronics ya related field. Cyber Security ya Cryptography mein specialization preferred." }
-    ]
-  }
+{id:"psb-lbo-2026",title:"Punjab & Sind Bank 1000 LBO Posts 2026 – Local Bank Officer, Apply by 20 April",category:"Banking",lastUpdate:"14/04/2026",description:"Punjab & Sind Bank ne Local Bank Officer (LBO) ke 1000 posts ke liye 2026 mein notification jari kiya hai. Graduation wale candidates apply kar sakte hain.",notification:"Apply by 20 April 2026. punjabandsindbank.co.in par.",highlights:{postName:"Local Bank Officer (LBO)",vacancy:"1000 Posts",domicile:"State-wise",ageLimit:"20-30 Years",applyDate:"20/04/2026",documents:"Graduation, Aadhar, Photo",department:"Punjab & Sind Bank"},importantDates:[{label:"Last Date",value:"20 April 2026",highlight:true}],fees:["General/OBC: ₹850/-","SC/ST/PwD: ₹175/-"],eligibility:[{class:"Local Bank Officer",age:"20-30 Years",category:"All",residence:"State domicile required"}],documents:["Graduation Certificate","Domicile Certificate","Aadhar","Photo"],howToApply:[{title:"punjabandsindbank.co.in par jaaiye",detail:"Bank official website Careers mein online apply karein."}],importantLinks:[{label:"Apply Online",url:"https://www.punjabandsindbank.co.in",text:"punjabandsindbank.co.in"}],keywords:["Punjab Sind Bank LBO 2026","local bank officer","1000 posts bank","bank bharti 2026"],faq:[{q:"PSB LBO ke liye kya chahiye?",a:"Graduation aur local domicile required hai. Age 20-30 years."}]},
+
+{id:"scr-apprentice-2026",title:"South Central Railway 2801 Apprentice Bharti 2026 – 10th ITI Pass, Apply by 11 April",category:"Jobs",lastUpdate:"05/04/2026",description:"South Central Railway ne 2801 Apprentice posts ke liye notification jari kiya hai. 10th pass aur ITI certificate holders ke liye yeh ek acha railway job ka mauka hai.",notification:"Apply by 11 April 2026. scr.indianrailways.gov.in par.",highlights:{postName:"Apprentice – Various Trades",vacancy:"2801 Posts",domicile:"South Central Railway Zone",ageLimit:"15-24 Years",applyDate:"11/04/2026",documents:"10th, ITI, Aadhar, Photo",department:"South Central Railway (SCR)"},importantDates:[{label:"Last Date",value:"11 April 2026",highlight:true}],fees:["No Application Fee"],eligibility:[{class:"Apprentice",age:"15-24 Years",category:"All",residence:"All India"}],documents:["10th Certificate","ITI Certificate","Aadhar","Photo"],howToApply:[{title:"scr.indianrailways.gov.in par apply",detail:"SCR official website par online registration karein."}],importantLinks:[{label:"Apply Online",url:"https://www.scr.indianrailways.gov.in",text:"scr.indianrailways.gov.in"}],keywords:["South Central Railway apprentice 2026","SCR 2801 posts","railway ITI job","apprentice railway 2026"],faq:[{q:"SCR Apprentice ke liye kya chahiye?",a:"10th pass + ITI in relevant trade. Age 15-24 years. No application fee."}]},
+
+{id:"patna-hc-technical-assistant-2026",title:"Patna High Court Technical Assistant Bharti 2026 – 53 Posts, Apply by 30 April",category:"Jobs",lastUpdate:"14/04/2026",description:"Patna High Court ne Technical Assistant ke 53 posts ke liye 2026 mein notification jari kiya hai. IT/Computer Science graduates apply kar sakte hain.",notification:"Apply by 30 April 2026. patnahighcourt.gov.in par.",highlights:{postName:"Technical Assistant",vacancy:"53 Posts",domicile:"Bihar",ageLimit:"21-37 Years",applyDate:"30/04/2026",documents:"Graduation (IT/CS), Aadhar, Photo",department:"Patna High Court"},importantDates:[{label:"Last Date",value:"30 April 2026",highlight:true}],fees:["General/OBC: ₹500/-","SC/ST: ₹200/-"],eligibility:[{class:"Technical Assistant",age:"21-37 Years",category:"All",residence:"Bihar"}],documents:["Graduation Certificate (IT/CS/MCA)","Aadhar","Photo","Caste Certificate"],howToApply:[{title:"patnahighcourt.gov.in par apply karein",detail:"Official website Recruitment section mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.patnahighcourt.gov.in",text:"patnahighcourt.gov.in"}],keywords:["Patna High Court technical assistant 2026","Bihar court job","53 posts IT job","high court recruitment"],faq:[{q:"Patna HC Technical Assistant ke liye kya chahiye?",a:"B.Tech/BCA/MCA/B.Sc Computer Science. Age 21-37 years. Bihar domicile preferred."}]},
+
+{id:"nic-scientist-b-2026",title:"NIC Scientist B Bharti 2026 – 243 Posts, GATE Required",category:"Jobs",lastUpdate:"14/04/2026",description:"National Informatics Centre (NIC) ne Scientist B ke 243 posts ke liye 2026 mein notification jari kiya hai. GATE qualified IT/CS engineers ke liye ek prestigious central govt job.",notification:"GATE score required. nic.in par apply karein.",highlights:{postName:"Scientist B",vacancy:"243 Posts",domicile:"All India",ageLimit:"30 Years (max)",applyDate:"As per notification",documents:"B.Tech/B.E. + GATE Score, Aadhar, Photo",department:"NIC – Ministry of Electronics & IT"},importantDates:[{label:"Check Official Site",value:"nic.in",highlight:true}],fees:["General/OBC: ₹500/-","SC/ST/PwD/Female: Free"],eligibility:[{class:"Scientist B",age:"Up to 30 Years",category:"All",residence:"All India"}],documents:["B.Tech/B.E. Certificate","GATE Scorecard","Aadhar","Photo"],howToApply:[{title:"nic.in par apply karein",detail:"NIC official website Careers section mein online form bharein."},{title:"GATE Score Ready Rakhein",detail:"Valid GATE score in CS/IT/Electronics required hai."}],importantLinks:[{label:"Apply Online",url:"https://www.nic.in",text:"nic.in"}],keywords:["NIC scientist B 2026","GATE government job","243 posts IT engineer","NIC recruitment 2026"],faq:[{q:"NIC Scientist B ke liye GATE zaroori hai?",a:"Haan, valid GATE score CS/IT/ECE mein required hai. Age 30 years se kam honi chahiye."},{q:"NIC mein salary kitni hai?",a:"Scientist B – Pay Level 10 (₹56,100–₹1,77,500) + allowances. CTC approximately ₹12-14 LPA."}]},
+
+{id:"sai-assistant-coach-2026",title:"SAI Assistant Coach Bharti 2026 – 323 Posts 26 Sports",category:"Jobs",lastUpdate:"14/04/2026",description:"Sports Authority of India (SAI) ne 26 sports mein Assistant Coach ke 323 posts ke liye 2026 mein notification jari kiya hai. National level sports persons ke liye sarkari naukri ka ek accha mauka.",notification:"Apply online. sportsauthorityofindia.nic.in par.",highlights:{postName:"Assistant Coach",vacancy:"323 Posts (26 Sports)",domicile:"All India",ageLimit:"As per SAI norms",applyDate:"As per notification",documents:"Coaching/Sports Certificate, Aadhar, Photo",department:"Sports Authority of India (SAI) – Ministry of Youth Affairs"},importantDates:[{label:"Check Official Site",value:"sportsauthorityofindia.nic.in",highlight:true}],fees:["General/OBC: ₹300/-","SC/ST/Female: Free"],eligibility:[{class:"Assistant Coach",age:"As per SAI norms",category:"All",residence:"All India"}],documents:["Sports/Coaching Certificate","National Level Achievement Proof","Aadhar","Photo"],howToApply:[{title:"sportsauthorityofindia.nic.in par apply karein",detail:"SAI official website Recruitment section mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://sportsauthorityofindia.nic.in",text:"sportsauthorityofindia.nic.in"}],keywords:["SAI coach job 2026","sports authority india recruitment","323 posts sports","assistant coach govt job"],faq:[{q:"SAI Assistant Coach ke liye kya chahiye?",a:"National/International level sports achievement + coaching certificate. Specific qualification sport-wise alag hoti hai."}]},
+
+{id:"isro-ursc-2026",title:"ISRO URSC Scientist/Engineer SC Bharti 2026 – Apply by 12 April",category:"Jobs",lastUpdate:"05/04/2026",description:"ISRO ke U R Rao Satellite Centre (URSC) ne Scientist/Engineer SC posts ke liye 2026 mein notification jari kiya hai. B.Tech/B.E. graduates ke liye India ki prestige sarkari job.",notification:"Apply by 12 April 2026. isro.gov.in par.",highlights:{postName:"Scientist/Engineer SC",vacancy:"As per notification",domicile:"All India",ageLimit:"35 Years (max)",applyDate:"12/04/2026",documents:"B.Tech/B.E., Aadhar, Photo",department:"ISRO – URSC (Dept. of Space)"},importantDates:[{label:"Last Date",value:"12 April 2026",highlight:true}],fees:["General/OBC: ₹250/-","SC/ST/Female/PwD: Free"],eligibility:[{class:"Scientist/Engineer SC",age:"Up to 35 Years",category:"All",residence:"All India"}],documents:["B.Tech/B.E. Certificate","Aadhar","Photo"],howToApply:[{title:"isro.gov.in par apply karein",detail:"ISRO official website Careers section mein online form bharein."},{title:"Documents Upload Karein",detail:"Technical certificates aur photo upload karein."}],importantLinks:[{label:"Apply Online",url:"https://www.isro.gov.in",text:"isro.gov.in"}],keywords:["ISRO URSC scientist 2026","space research job india","ISRO engineer recruitment","B.Tech govt job"],faq:[{q:"ISRO mein job ke liye kya chahiye?",a:"B.E./B.Tech in relevant engineering field with minimum 65% marks. GATE score bonus hai. Age 35 se kam."}]},
+
+{id:"indian-bank-so-2026",title:"Indian Bank SO Bharti 2026 – 350 Specialist Officer Posts",category:"Banking",lastUpdate:"14/04/2026",description:"Indian Bank ne Specialist Officer (SO) ke 350 posts ke liye 2026 mein notification jari kiya hai. Graduation aur post-graduation wale professionals apply kar sakte hain.",notification:"Apply by 28 April 2026. indianbank.in par.",highlights:{postName:"Specialist Officer (SO)",vacancy:"350 Posts",domicile:"All India",ageLimit:"20-35 Years",applyDate:"28/04/2026",documents:"Graduation, Aadhar, Photo",department:"Indian Bank (Public Sector Bank)"},importantDates:[{label:"Last Date",value:"28 April 2026",highlight:true}],fees:["General/OBC: ₹850/-","SC/ST/PwD: ₹175/-"],eligibility:[{class:"Specialist Officer",age:"20-35 Years",category:"All",residence:"All India"}],documents:["Graduation Certificate","Professional Certificate","Aadhar","Photo"],howToApply:[{title:"indianbank.in par apply karein",detail:"Official website Careers mein SO 2026 link par click karein."}],importantLinks:[{label:"Apply Online",url:"https://www.indianbank.in",text:"indianbank.in"}],keywords:["Indian Bank SO 2026","specialist officer bank","350 posts bank job"],faq:[{q:"Indian Bank SO ke liye kya chahiye?",a:"Post ke hisaab se graduation ya PG. Age 20-35 years."}]},
+
+{id:"central-bank-so-2026",title:"Central Bank of India SO Bharti 2026 – 26 Risk Management Posts",category:"Banking",lastUpdate:"14/04/2026",description:"Central Bank of India ne Risk Management Specialist Officer ke 26 posts ke liye 2026 mein notification jari kiya hai.",notification:"Apply by 30 April 2026. centralbank.bank.in par.",highlights:{postName:"Specialist Officer – Risk Management",vacancy:"26 Posts",domicile:"All India",ageLimit:"25-35 Years",applyDate:"30/04/2026",documents:"Graduation/PG, Experience, Aadhar",department:"Central Bank of India"},importantDates:[{label:"Apply Start",value:"09 April 2026",highlight:false},{label:"Last Date",value:"30 April 2026",highlight:true}],fees:["General/OBC: ₹850/-","SC/ST/PwD: ₹175/-"],eligibility:[{class:"SO Risk Mgmt",age:"25-35 Years",category:"All",residence:"All India"}],documents:["Graduation Certificate","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"centralbank.bank.in par apply karein",detail:"Careers section mein SO 2026 apply karein."}],importantLinks:[{label:"Apply Online",url:"https://www.centralbank.net.in",text:"centralbank.bank.in"}],keywords:["Central Bank SO 2026","risk management bank job","26 posts bank"],faq:[{q:"Central Bank SO ke liye experience chahiye?",a:"Risk Management mein 2-5 saal experience preferred. MBA/CA/CFA helpful."}]},
+
+{id:"ngel-dgm-am-2026",title:"NTPC Green Energy NGEL DGM & Assistant Manager 2026 – 46 Posts",category:"Jobs",lastUpdate:"14/04/2026",description:"NTPC Green Energy Limited (NGEL) ne DGM aur Assistant Manager ke 46 posts ke liye 2026 mein notification jari kiya hai. Renewable energy sector mein engineering graduates ke liye ek acha mauka.",notification:"Apply 15 Apr – 05 May 2026. ngel.in par.",highlights:{postName:"DGM / Assistant Manager",vacancy:"46 Posts",domicile:"All India",ageLimit:"28-45 Years",applyDate:"05/05/2026",documents:"B.Tech, Experience, Aadhar",department:"NTPC Green Energy Ltd (NGEL)"},importantDates:[{label:"Apply Start",value:"15 April 2026",highlight:false},{label:"Last Date",value:"05 May 2026",highlight:true}],fees:["General/OBC: ₹300/-","SC/ST/PwD: Free"],eligibility:[{class:"DGM/AM",age:"28-45 Years",category:"All",residence:"All India"}],documents:["B.Tech Certificate","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"ngel.in par apply karein",detail:"NGEL official website Careers section mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.ngel.in",text:"ngel.in"}],keywords:["NGEL DGM 2026","NTPC green energy job","46 posts engineering","renewable energy job"],faq:[{q:"NGEL ke liye kya chahiye?",a:"B.Tech in relevant field + experience. DGM ke liye substantial experience needed."}]},
+
+{id:"irctc-hospitality-monitor-2026",title:"IRCTC Hospitality Monitor Walk-in 2026 – 84 Posts, Chennai 25-28 April",category:"Jobs",lastUpdate:"14/04/2026",description:"IRCTC South Zone mein 84 Hospitality Monitor posts ke liye walk-in interview hai. Hotel Management degree holders ke liye direct recruitment opportunity. Chennai mein 25, 27-28 April 2026 ko jaayein.",notification:"Walk-in interview: 25, 27-28 April 2026. Chennai IRCTC office.",highlights:{postName:"Hospitality Monitor",vacancy:"84 Posts",domicile:"South Zone",ageLimit:"18-30 Years",applyDate:"Walk-in: 25-28 Apr",documents:"Degree + CV + Photo + Aadhar",department:"IRCTC South Zone"},importantDates:[{label:"Walk-in Interview",value:"25, 27-28 April 2026 (Chennai)",highlight:true}],fees:["No Fee – Direct Walk-in"],eligibility:[{class:"Hospitality Monitor",age:"18-30 Years",category:"All",residence:"South Zone preferred"}],documents:["Hotel Mgmt/Hospitality Degree","Resume","Aadhar","2 Passport Photos","All Certificates"],howToApply:[{title:"Chennai IRCTC Office Mein Jaayein",detail:"Walk-in ke liye directly Chennai IRCTC South Zone office mein 25, 27 ya 28 April ko jaayein."},{title:"Documents Saath Laaiye",detail:"Original + photocopy of all certificates, resume, Aadhar, 2 photos."}],importantLinks:[{label:"IRCTC Site",url:"https://www.irctc.co.in",text:"irctc.co.in"}],keywords:["IRCTC walk-in 2026","hospitality monitor railway","hotel management job","84 posts Chennai"],faq:[{q:"IRCTC Hospitality Monitor walk-in kab hai?",a:"25, 27 aur 28 April 2026 ko Chennai mein. Seedha office jaayein documents ke saath."}]},
+
+{id:"aiims-norcet-10-admit-card-2026",title:"AIIMS NORCET 10 Admit Card 2026 – Exam 11 April, aiimsexams.ac.in se Download Karein",category:"Admit Card",lastUpdate:"08/04/2026",description:"AIIMS New Delhi ne NORCET-10 (Nursing Officer Recruitment) ke liye admit card jari kar diya hai. Stage I CBT 11 April 2026 ko hogi. 2551 Nursing Officer posts ke liye exam.",notification:"Admit card out. aiimsexams.ac.in par download karein.",highlights:{postName:"Nursing Officer",vacancy:"2551 Posts",domicile:"All India",ageLimit:"As per AIIMS norms",applyDate:"Exam: 11/04/2026",documents:"Admit Card + Photo ID",department:"AIIMS New Delhi"},importantDates:[{label:"Stage I CBT Exam",value:"11 April 2026",highlight:true}],fees:["Already Paid"],eligibility:[{class:"Nursing Officer",age:"As per rules",category:"All",residence:"All India"}],documents:["Admit Card","Valid Photo ID","Photo"],howToApply:[{title:"aiimsexams.ac.in par jaaiye",detail:"AIIMS exams portal par NORCET 10 admit card link par click karein."},{title:"Login & Download",detail:"Registration number se login karein aur hall ticket download karein."}],importantLinks:[{label:"Download Admit Card",url:"https://www.aiimsexams.ac.in",text:"aiimsexams.ac.in"}],keywords:["AIIMS NORCET 10 admit card","nursing officer exam 2026","AIIMS hall ticket"],faq:[{q:"NORCET admit card kaise download karein?",a:"aiimsexams.ac.in par NORCET 10 section mein registration number se login karein."}]},
+
+{id:"moil-limited-result-2026",title:"MOIL Limited Result 2026 – Electrician Fitter DV Schedule",category:"Result",lastUpdate:"14/04/2026",description:"MOIL Limited ne Electrician aur Fitter posts ka result 2026 mein jari kar diya hai. Document Verification ke liye selected candidates ki list moil.nic.in par available hai.",notification:"Result out. DV schedule check karein moil.nic.in par.",highlights:{postName:"Electrician / Fitter",vacancy:"Result Declared",domicile:"All India",ageLimit:"N/A",applyDate:"DV: As per call letter",documents:"All Original Certificates for DV",department:"MOIL Limited – Ministry of Steel"},importantDates:[{label:"Result Declared",value:"April 2026",highlight:false},{label:"DV Schedule",value:"As per call letter",highlight:true}],fees:["No Fee – Already Applied"],eligibility:[{class:"Electrician/Fitter",age:"As per MOIL norms",category:"All",residence:"All India"}],documents:["All Original Certificates","Caste Certificate","Aadhar","Photo"],howToApply:[{title:"moil.nic.in par result check karein",detail:"Roll number daalkar result dekhen."},{title:"DV ke liye tayaar rahein",detail:"Select hone par sab original documents lekar DV mein jaaiye."}],importantLinks:[{label:"Check Result",url:"https://moil.nic.in",text:"moil.nic.in"}],keywords:["MOIL result 2026","DV schedule","electrician fitter govt job","MOIL limited"],faq:[{q:"MOIL DV ke liye kya documents chahiye?",a:"Sab original educational + ITI certificate, caste certificate, Aadhar aur 2 photos."}]},
+
+{id:"nps-trust-staff-2026",title:"NPS Trust Staff Bharti 2026 – 15 Contractual Executive/Analyst Posts",category:"Jobs",lastUpdate:"14/04/2026",description:"National Pension System Trust (NPS Trust) ne Executive aur Analyst level ke 15 contractual posts ke liye 2026 mein notification jari kiya hai. Graduates apply kar sakte hain.",notification:"Apply by 29 April 2026. npstrust.org.in par.",highlights:{postName:"Executive / Analyst",vacancy:"15 Posts",domicile:"All India",ageLimit:"25-35 Years",applyDate:"29/04/2026",documents:"Graduation, Aadhar, Photo, Resume",department:"NPS Trust – PFRDA"},importantDates:[{label:"Last Date",value:"29 April 2026",highlight:true}],fees:["No Application Fee"],eligibility:[{class:"Executive/Analyst",age:"25-35 Years",category:"All",residence:"All India"}],documents:["Graduation Certificate","Experience Certificate (if any)","Aadhar","Photo","Resume"],howToApply:[{title:"npstrust.org.in par apply karein",detail:"NPS Trust official website Careers mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.npstrust.org.in",text:"npstrust.org.in"}],keywords:["NPS Trust job 2026","pension fund job","15 posts analyst"],faq:[{q:"NPS Trust mein kya kaam hota hai?",a:"Pension fund management aur analysis. PFRDA ke tahat National Pension System ka management."}]},
+
+{id:"cdot-scientist-consultant-2026",title:"C-DOT Scientist B/C Bharti 2026 – 16 Posts Cyber Security/Cryptography",category:"Jobs",lastUpdate:"14/04/2026",description:"Centre for Development of Telematics (C-DOT) ne Scientist B aur C ke 16 posts ke liye 2026 mein notification jari kiya hai. Cyber security aur Cryptography mein specialization required.",notification:"Apply by 03 May 2026. cdot.in par.",highlights:{postName:"Scientist B/C",vacancy:"16 Posts",domicile:"All India",ageLimit:"30-35 Years",applyDate:"03/05/2026",documents:"B.Tech/M.Tech, Aadhar, Photo",department:"C-DOT – Ministry of Communications"},importantDates:[{label:"Last Date",value:"03 May 2026",highlight:true}],fees:["General/OBC: ₹500/-","SC/ST/PwD: Free"],eligibility:[{class:"Scientist B/C",age:"30-35 Years",category:"All",residence:"All India"}],documents:["B.Tech/M.Tech Certificate","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"cdot.in par apply karein",detail:"C-DOT official website Careers mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.cdot.in",text:"cdot.in"}],keywords:["CDOT scientist 2026","cyber security job govt","16 posts engineering"],faq:[{q:"C-DOT Scientist ke liye kya chahiye?",a:"B.Tech/M.Tech in CS/Electronics + Cyber Security/Cryptography specialization."}]},
+
+{id:"bpsc-aedo-admit-card-2026",title:"BPSC AEDO Admit Card 2026 – Exam 14-21 April, bpsc.bih.nic.in",category:"Admit Card",lastUpdate:"10/04/2026",description:"Bihar Public Service Commission (BPSC) ne AEDO (Assistant Engineer/District Officer) exam 2026 ke liye admit card jari kar diya hai. Exam 14-21 April 2026 ke beech hogi.",notification:"Admit card available. bpsc.bih.nic.in par download karein.",highlights:{postName:"AEDO Exam",vacancy:"Admit Card",domicile:"Bihar",ageLimit:"N/A",applyDate:"Exam: 14-21 Apr 2026",documents:"Admit Card + Photo ID",department:"BPSC – Bihar Public Service Commission"},importantDates:[{label:"Exam Dates",value:"14-21 April 2026",highlight:true}],fees:["Already Paid"],eligibility:[{class:"AEDO Candidate",age:"As per BPSC",category:"All",residence:"Bihar"}],documents:["Admit Card","Valid Photo ID","Photo"],howToApply:[{title:"bpsc.bih.nic.in par jaaiye",detail:"BPSC portal par AEDO admit card link par click karein."},{title:"Download Karein",detail:"Registration number se login karein aur admit card download karein."}],importantLinks:[{label:"Download Admit Card",url:"https://bpsc.bih.nic.in",text:"bpsc.bih.nic.in"}],keywords:["BPSC AEDO admit card 2026","Bihar PSC exam","AEDO exam date"],faq:[{q:"BPSC AEDO admit card kaise download karein?",a:"bpsc.bih.nic.in par jaaiye aur registration number se login karein."}]},
+
+{id:"uppsc-tgt-social-science-result-2026",title:"UPPSC TGT Social Science Result 2026 – Mains Qualified List PDF",category:"Result",lastUpdate:"14/04/2026",description:"Uttar Pradesh Public Service Commission (UPPSC) ne TGT Social Science Mains 2026 ka result jari kar diya hai. Qualified candidates ki list PDF mein uppsc.up.nic.in par available hai.",notification:"Result out. uppsc.up.nic.in par check karein.",highlights:{postName:"TGT Social Science",vacancy:"Result Declared",domicile:"Uttar Pradesh",ageLimit:"N/A",applyDate:"Result: April 2026",documents:"All Certificates for Interview",department:"UPPSC – UP Public Service Commission"},importantDates:[{label:"Mains Result",value:"April 2026",highlight:true}],fees:["No Fee – Already Applied"],eligibility:[{class:"TGT Social Science",age:"As per UPPSC norms",category:"All",residence:"Uttar Pradesh"}],documents:["All Original Certificates","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"uppsc.up.nic.in par check karein",detail:"Result PDF download karein aur apna roll number dhundhen."},{title:"Interview ke liye Ready Rahein",detail:"Select hone par sab original documents aur certificates tayyar rakhein."}],importantLinks:[{label:"Check Result",url:"https://uppsc.up.nic.in",text:"uppsc.up.nic.in"}],keywords:["UPPSC TGT result 2026","UP teacher result","social science TGT","UPPSC mains result"],faq:[{q:"UPPSC TGT result kaise check karein?",a:"uppsc.up.nic.in par jaaiye, TGT Social Science result PDF download karein aur apna roll number check karein."}]},
+
+{id:"pune-police-constable-result-2026",title:"Pune Police Constable Result 2026 – Merit List Out",category:"Result",lastUpdate:"14/04/2026",description:"Pune Police Department ne Constable Bharti 2026 ka result jari kar diya hai. Merit list official website par available hai.",notification:"Result out. punepolice.gov.in ya maharecruitment.maharashtra.gov.in par check karein.",highlights:{postName:"Police Constable",vacancy:"Result Declared",domicile:"Maharashtra – Pune",ageLimit:"N/A",applyDate:"Result: April 2026",documents:"All Original Certificates for next round",department:"Pune Police – Maharashtra"},importantDates:[{label:"Merit List Out",value:"April 2026",highlight:true}],fees:["No Fee – Already Applied"],eligibility:[{class:"Police Constable",age:"As per Maharashtra Police norms",category:"All",residence:"Maharashtra"}],documents:["All Original Educational Certificates","Caste Certificate","Physical Certificate","Aadhar","Photo"],howToApply:[{title:"Result Check Karein",detail:"punepolice.gov.in ya maharecruitment.maharashtra.gov.in par merit list check karein."}],importantLinks:[{label:"Check Result",url:"https://maharecruitment.maharashtra.gov.in",text:"maharecruitment.maharashtra.gov.in"}],keywords:["Pune police constable result 2026","Maharashtra police result","merit list police"],faq:[{q:"Pune police constable result kahan check karein?",a:"maharecruitment.maharashtra.gov.in ya punepolice.gov.in par merit list available hai."}]},
+
+{id:"kanker-gp-secretary-result-2026",title:"Kanker Gram Panchayat Secretary Final Merit List 2026 – kanker.gov.in",category:"Result",lastUpdate:"14/04/2026",description:"Kanker Jile (Chhattisgarh) ne Gram Panchayat Secretary posts ka final merit list 2026 mein jari kar diya hai. kanker.gov.in par check karein.",notification:"Final merit list out. kanker.gov.in par check karein.",highlights:{postName:"Gram Panchayat Secretary",vacancy:"Merit List Declared",domicile:"Kanker, Chhattisgarh",ageLimit:"N/A",applyDate:"Merit List: April 2026",documents:"All Certificates for Joining",department:"Kanker Jila Panchayat – Chhattisgarh"},importantDates:[{label:"Final Merit List",value:"April 2026",highlight:true}],fees:["No Fee"],eligibility:[{class:"GP Secretary",age:"As per CG rules",category:"All",residence:"Chhattisgarh"}],documents:["All Original Certificates","Domicile Certificate","Aadhar","Photo"],howToApply:[{title:"kanker.gov.in par check karein",detail:"Official website par merit list PDF download karein."}],importantLinks:[{label:"Check Result",url:"https://kanker.gov.in",text:"kanker.gov.in"}],keywords:["Kanker GP secretary result","Chhattisgarh panchayat job","gram panchayat secretary merit list"],faq:[{q:"Kanker GP Secretary result kaise dekhen?",a:"kanker.gov.in par official website par merit list PDF available hai."}]},
+
+{id:"irfcl-assistant-2026",title:"IRFCL Assistant & Manager Finance Bharti 2026 – 23 Posts",category:"Banking",lastUpdate:"14/04/2026",description:"Indian Railway Finance Corporation Limited (IRFCL) ne Assistant aur Manager (Finance) ke 23 posts ke liye 2026 mein notification jari kiya hai. Finance professionals ke liye ek acha mauka.",notification:"Apply online. irfc.co.in par.",highlights:{postName:"Assistant/Manager Finance",vacancy:"23 Posts",domicile:"All India",ageLimit:"25-35 Years",applyDate:"As per notification",documents:"Graduation/CA/MBA Finance, Aadhar",department:"IRFCL – Indian Railway Finance Corporation"},importantDates:[{label:"Check Official Site",value:"irfc.co.in",highlight:true}],fees:["General/OBC: ₹500/-","SC/ST/PwD: Free"],eligibility:[{class:"Assistant/Manager Finance",age:"25-35 Years",category:"All",residence:"All India"}],documents:["CA/MBA/Graduation Certificate","Experience Certificate","Aadhar","Photo"],howToApply:[{title:"irfc.co.in par apply karein",detail:"IRFC official website Careers mein form bharein."}],importantLinks:[{label:"Apply Online",url:"https://www.irfc.co.in",text:"irfc.co.in"}],keywords:["IRFCL finance job 2026","Indian Railway Finance Corporation","23 posts finance"],faq:[{q:"IRFCL job ke liye kya chahiye?",a:"CA/MBA Finance ya B.Com with experience. Finance sector mein 2+ saal ka experience helpful."}]},
+
+{id:"tn-railway-concession-artists-2026",title:"TN Railway 75% Chhoot Yojana – Tamil Nadu Kalaakaron Ke Liye",category:"Schemes",lastUpdate:"14/04/2026",description:"Tamil Nadu government ne kalaakaron (artists) ke liye railway mein 75% ticket concession yojana launch ki hai. Traditional arts aur performances mein involved artists is scheme ka fayda utha sakte hain.",notification:"Scheme launched. Details Tamil Nadu government official website par.",highlights:{postName:"Railway Concession – Artists",vacancy:"Scheme/Yojana",domicile:"Tamil Nadu",ageLimit:"N/A",applyDate:"Ongoing",documents:"Artist Certificate, Aadhar, Photo",department:"Tamil Nadu Government + Indian Railways"},importantDates:[{label:"Scheme Status",value:"Active",highlight:true}],fees:["No Fee – Government Scheme"],eligibility:[{class:"Traditional Artists",age:"No age limit",category:"All",residence:"Tamil Nadu"}],documents:["Artist/Performer Certificate","Aadhar Card","Photo"],howToApply:[{title:"District Office mein Apply Karein",detail:"TN government ke district cultural office mein artist certificate ke liye apply karein."},{title:"Railway Counter par Concession Lein",detail:"Certificate ke saath railway ticket counter par 75% concession milegi."}],importantLinks:[{label:"TN Govt Site",url:"https://www.tn.gov.in",text:"tn.gov.in"}],keywords:["Tamil Nadu railway concession artists","75% discount train ticket","kalaakaron yojana TN"],faq:[{q:"TN Railway Artist Concession ke liye kaun eligible hai?",a:"Tamil Nadu ke traditional/classical arts mein involved registered artists jo certificate holder hain."}]},
+
+{id:"nagaland-children-education-allowance-2026",title:"Nagaland Children Education Allowance – Construction Workers Bacchon Ko ₹500/Month",category:"Schemes",lastUpdate:"14/04/2026",description:"Nagaland Building & Construction Workers Welfare Board ne registered nirman majdooron ke bacchon ke liye ₹500 per month education allowance announce kiya hai.",notification:"Scheme active. Nagaland construction workers welfare board se apply karein.",highlights:{postName:"Education Allowance",vacancy:"Welfare Scheme",domicile:"Nagaland",ageLimit:"Children up to 18 Years",applyDate:"Ongoing",documents:"Worker Registration, Child Birth Certificate, School Certificate",department:"Nagaland Building & Construction Workers Welfare Board"},importantDates:[{label:"Scheme Status",value:"Active – Apply Now",highlight:true}],fees:["No Fee – Government Scheme"],eligibility:[{class:"Construction Worker's Children",age:"Up to 18 years",category:"Registered Workers",residence:"Nagaland"}],documents:["Construction Worker Registration Certificate","Child's Birth Certificate","School Enrollment Certificate","Aadhar","Bank Account Details"],howToApply:[{title:"Welfare Board Office mein Apply Karein",detail:"Nagaland Building & Construction Workers Welfare Board office mein jaayein aur application form bharein."},{title:"Documents Submit Karein",detail:"Sab required documents saath laaiye."}],importantLinks:[{label:"Nagaland Govt",url:"https://nagaland.gov.in",text:"nagaland.gov.in"}],keywords:["Nagaland education allowance","construction worker scheme","₹500 per month children","Nagaland welfare scheme"],faq:[{q:"Nagaland education allowance ke liye kya chahiye?",a:"Nagaland mein registered construction worker hona zaroori hai. Bacche ki school enrollment certificate chahiye."}]},
+
+{id:"cg-vyapam-pharmacist-admit-2026",title:"CG Vyapam Pharmacist Admit Card 2026 – Exam 12 April",category:"Admit Card",lastUpdate:"09/04/2026",description:"Chhattisgarh Vyapam ne Pharmacist exam 2026 ke liye admit card jari kar diya hai. Exam 12 April 2026 ko hogi. vyapam.cgstate.gov.in par download karein.",notification:"Admit card out. Exam: 12 April 2026. vyapam.cgstate.gov.in",highlights:{postName:"Pharmacist",vacancy:"Admit Card",domicile:"Chhattisgarh",ageLimit:"N/A",applyDate:"Exam: 12/04/2026",documents:"Admit Card + Photo ID",department:"CG Vyapam – Chhattisgarh"},importantDates:[{label:"Pharmacist Exam",value:"12 April 2026",highlight:true}],fees:["Already Paid"],eligibility:[{class:"Pharmacist Candidate",age:"As per rules",category:"All",residence:"Chhattisgarh"}],documents:["Admit Card","Valid Photo ID","Photo"],howToApply:[{title:"vyapam.cgstate.gov.in par jaaiye",detail:"CG Vyapam portal par pharmacist admit card download karein."},{title:"Login Karein",detail:"Registration number aur date of birth se login karein."}],importantLinks:[{label:"Download Admit Card",url:"https://vyapam.cgstate.gov.in",text:"vyapam.cgstate.gov.in"}],keywords:["CG Vyapam pharmacist admit card 2026","Chhattisgarh pharmacist exam","vyapam admit card"],faq:[{q:"CG Vyapam admit card kaise download karein?",a:"vyapam.cgstate.gov.in par login karein registration number se aur admit card download karein."}]},
+
+{id:"ssf-constable-2026",title:"SSF Constable Barber Washerman Bharti 2026 – 10 Posts",category:"Police/Defence",lastUpdate:"14/04/2026",description:"Sashastra Seema Bal (SSB) ne SSF Constable Barber aur Washerman posts ke liye 2026 mein notification jari kiya hai. 10th pass candidates apply kar sakte hain.",notification:"Apply online. ssb.nic.in par.",highlights:{postName:"SSF Constable (Barber/Washerman)",vacancy:"10 Posts",domicile:"All India",ageLimit:"18-25 Years",applyDate:"As per notification",documents:"10th Certificate, Aadhar, Photo",department:"Sashastra Seema Bal (SSB/SSF)"},importantDates:[{label:"Check Official Site",value:"ssb.nic.in",highlight:true}],fees:["No Fee for SC/ST/Ex-SM","General: ₹100/-"],eligibility:[{class:"SSF Constable",age:"18-25 Years",category:"All",residence:"All India"}],documents:["10th Certificate","Aadhar","Photo","Skill Certificate (Barber/Washerman)"],howToApply:[{title:"ssb.nic.in par apply karein",detail:"SSB official website par online form bharein."}],importantLinks:[{label:"Apply Online",url:"https://ssb.nic.in",text:"ssb.nic.in"}],keywords:["SSF constable 2026","SSB barber washerman","10 posts defence job","10th pass defence"],faq:[{q:"SSF Constable ke liye kya skill chahiye?",a:"Barber ya Washerman trade ka practical knowledge aur certificate chahiye. 10th pass compulsory."}]}
 
 ];
-// ════════════════════════════════════════════════════════════════
