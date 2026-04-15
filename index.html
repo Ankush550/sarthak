@@ -332,23 +332,31 @@
 
     /* ═══ 3 COLUMN CONTENT ═══ */
     .three-col { display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:16px; }
-    .col-box { background:white; border-radius:12px; border:1px solid #e2e8f0; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,0.04); transition:box-shadow .2s, transform .2s; }
-    .col-box:hover { box-shadow:0 4px 16px rgba(26,86,219,0.1); transform:translateY(-1px); }
-    .col-head { color:white; font-size:13px; font-weight:700; padding:10px 14px; display:flex; align-items:center; gap:7px; letter-spacing:0.3px; }
-    .col-head-jobs    { background:linear-gradient(90deg,#1d4ed8,#2563eb); }
+    .col-box { background:#ffffff; border-radius:14px; border:1px solid #e0e8f5; overflow:hidden; box-shadow:0 2px 10px rgba(26,86,219,0.07); transition:box-shadow .25s, transform .2s; }
+    .col-box:hover { box-shadow:0 6px 22px rgba(26,86,219,0.13); transform:translateY(-2px); }
+    .col-head { color:white; font-size:14px; font-weight:700; padding:12px 16px; display:flex; align-items:center; gap:8px; letter-spacing:0.4px; }
+    .col-head a { margin-left:auto; font-size:10.5px; font-weight:500; color:rgba(255,255,255,0.85); background:rgba(255,255,255,0.18); padding:3px 10px; border-radius:20px; text-decoration:none; }
+    .col-head a:hover { background:rgba(255,255,255,0.3); color:white; }
+    .col-head-jobs    { background:linear-gradient(90deg,#1d4ed8,#3b82f6); }
+    .col-head-admit   { background:linear-gradient(90deg,#7c3aed,#a855f7); }
+    .col-head-result  { background:linear-gradient(90deg,#dc2626,#ef4444); }
     .col-head-edu     { background:linear-gradient(90deg,#0284c7,#0369a1); }
     .col-head-schemes { background:linear-gradient(90deg,#15803d,#166534); }
+    .col-head-pvtjob  { background:linear-gradient(90deg,#b45309,#d97706); }
     .col-body { padding:4px 0; }
-    .col-item { padding:7px 14px; border-bottom:1px solid #f1f5f9; display:flex; align-items:flex-start; gap:6px; transition:background .15s; }
+    .col-item { padding:8px 14px; border-bottom:1px solid #f0f4fb; display:flex; align-items:flex-start; gap:7px; transition:background .15s; }
     .col-bullet { color:#1a56db; font-size:8px; flex-shrink:0; margin-top:4px; }
     .col-item:last-child { border-bottom:none; }
-    .col-item:hover { background:#f8fafc; }
+    .col-item:hover { background:#f5f8ff; }
     .col-item > div { flex:1; min-width:0; }
-    .col-item a { font-size:12.5px; color:#1e40af; font-weight:600; line-height:1.45; text-decoration:none; display:block; overflow:hidden; text-overflow:ellipsis; }
+    .col-item a { font-size:13px; color:#1e3a8a; font-weight:600; line-height:1.5; text-decoration:none; display:block; overflow:hidden; text-overflow:ellipsis; }
     .col-item a:hover { color:#dc2626; text-decoration:underline; }
-    .col-item .sb-date { font-size:10.5px; color:#6b7280; margin-top:2px; display:block; font-weight:500; }
+    .col-item .sb-date { font-size:11px; color:#7b8fa6; margin-top:3px; display:block; font-weight:500; }
     .col-item .it-date { font-size:10px; color:#94a3b8; white-space:nowrap; }
     .pin-icon { font-size:11px; flex-shrink:0; margin-top:3px; }
+    .sb-out { background:#dcfce7; color:#16a34a; font-size:8.5px; font-weight:800; padding:1.5px 6px; border-radius:3px; flex-shrink:0; margin-top:3px; display:inline-block; letter-spacing:0.5px; }
+    .section-row-label { font-size:11px; font-weight:700; color:#64748b; letter-spacing:0.08em; text-transform:uppercase; margin:18px 0 10px; display:flex; align-items:center; gap:8px; }
+    .section-row-label::after { content:''; flex:1; height:1px; background:linear-gradient(90deg,#e2e8f0,transparent); }
 
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
 
@@ -940,8 +948,8 @@
 
 <main id="main-content-inner">
 
-      <!-- TOP CARDS -->
-      <div class="cards-top" role="navigation" aria-label="Latest Government Job Posts">
+      <!-- TOP CARDS REMOVED – Now using clean sections below -->
+      <div style="display:none" role="navigation" aria-label="Latest Government Job Posts">
         <div class="cards-top-head">⚡ Quick Access — Latest & Popular Posts</div>
         <div class="cards-grid-top">
           <a href="pages/job-detail.html?id=indian-navy-agniveer-mr-musician-2026" class="job-card c-blue"><span class="badge-new">NEW</span><span class="card-title">Navy Agniveer Musician 2026 – Apply by 26 Apr</span></a>
@@ -1016,12 +1024,13 @@
            data-full-width-responsive="true"></ins>
       <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
 
-      <!-- 4 COLUMN CONTENT -->
+      <!-- ═══ ROW 1: LATEST JOBS | ADMIT CARD | RESULT ═══ -->
+      <div class="section-row-label">🎯 Sarkari Naukri – Admit Card – Result</div>
       <div class="three-col">
 
         <!-- Latest Jobs -->
         <div class="col-box" id="latest-jobs">
-          <div class="col-head col-head-jobs">💼 Latest Jobs</div>
+          <div class="col-head col-head-jobs">💼 Latest Govt Jobs <a href="pages/jobs.html">Sabhi Dekhen →</a></div>
           <div class="col-body">
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=mecon-non-executive-2026">MECON Non Executive 2026 – 24 Posts Accountant aur Assistant, 6 May Last Date</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ncl-trainee-2026">NCL Trainee 2026 – 577 Posts HEMM Operator, Staff Nurse, Overseer Civil, 1 May Last Date</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
@@ -1035,27 +1044,20 @@
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=cdot-scientist-consultant-2026">C-DOT Scientist B/C &amp; Consultant 2026 – 16 Posts, Apply by 3 May</a><div class="sb-date">📅 08 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ngel-dgm-am-2026">NGEL DGM &amp; Assistant Manager 2026 – 46 Posts RE/Finance</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=irctc-hospitality-monitor-2026">IRCTC Hospitality Monitor 2026 – 84 Posts Walk-in Chennai</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
-            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=pstet-result-2026">Punjab PSTET Result 2026 – Paper 1 &amp; 2 Scorecard pstet2025.org par</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=scr-apprentice-2026">South Central Railway Apprentice 2026 – 2801 Posts, Apply by 11 April</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=patna-hc-technical-assistant-2026">Patna High Court Technical Assistant 2026 – 53 Posts, Apply by 30 April</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bob-wms-2026">Bank of Baroda Deputy Manager &amp; AVP 2026 – 104 Posts, Apply by 16 April</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/jobs.html">Indian Army Agniveer 2026 – 25000+ Posts, Apply by 10 April</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=psb-lbo-2026">Punjab &amp; Sind Bank LBO 2026 – 1000 Posts, Apply by 20 April</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ssf-constable-2026">SSF Constable Barber &amp; Washerman 2026 – 10 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=nic-scientist-b-2026">NIC Scientist B 2026 – 243 Posts, GATE Required</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=sai-assistant-coach-2026">SAI Assistant Coach 2026 – 323 Posts, 26 Sports</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=isro-ursc-2026">ISRO URSC Scientist Engineer 2026 – 4 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ecil-walkin-2026">ECIL Walk-in 2026 – 32 Posts, April 9 &amp; 18</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/jobs.html">Navy Ship Repair Yard Apprentice 2026 – 240 Posts</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
-            <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=mpesb-forest-2026">MPESB Forest Guard &amp; Jail Prahari 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=rrb-alp-2026">RRB ALP Recruitment 2026 (CEN 01/2026) – 11,127 Posts</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ssc-je-tier2-city-2026">SSC JE Tier-II Exam City Details 2026</a><div class="sb-date">📅 27 Mar 2026</div></div></div>
           </div>
         </div>
 
-        <!-- Education -->
-        <div class="col-box" id="education">
-          <div class="col-head col-head-edu">📚 Education</div>
+        <!-- Admit Card -->
+        <div class="col-box" id="admit-card">
+          <div class="col-head col-head-admit">🪪 Admit Card <a href="pages/results.html">Sabhi Dekhen →</a></div>
           <div class="col-body">
             <div class="col-item"><span class="sb-new">OUT</span><div><a href="pages/job-detail.html?id=beml-junior-executive-admit-2026">BEML Junior Executive Admit Card 2026 – beml.in</a><div class="sb-date">📅 11 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">OUT</span><div><a href="pages/job-detail.html?id=csl-executive-trainee-admit-2026">CSL Executive Trainee Admit Card 2026 – cochinshipyard.in</a><div class="sb-date">📅 11 Apr 2026</div></div></div>
@@ -1064,43 +1066,112 @@
             <div class="col-item"><span class="sb-new">LIVE</span><div><a href="pages/results.html">RPSC SI Admit Card 2026 Out – Exam 5 &amp; 6 April, Download Now</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=nda-1-admit-card-2026">NDA 1 Admit Card 2026 – Exam 12 April, Download at upsconline.nic.in</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
             <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bpsc-aedo-admit-card-2026">BPSC AEDO Admit Card 2026 – Exam 14-21 April, Link Soon</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">OUT</span><div><a href="pages/job-detail.html?id=uppsc-tgt-social-science-result-2026">UPPSC TGT Social Science Result 2026 – Mains Qualified List Out</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/results.html">Bihar Board 10th Result 2026 – BSEB Matric Result, Direct Link</a><div class="sb-date">📅 25 Mar 2026</div></div></div>
-            <div class="col-item"><span class="pin-icon">📌</span><div><a href="pages/job-detail.html?id=mp-rte-2026">MP RTE Admission 2026-27</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-board-2026">Bihar Board 10th & 12th Result 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2 – Exam City</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#"  aria-label="Coming soon">KVS Class 1 Admission Form 2026</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#"  aria-label="Coming soon">MP Board 10th & 12th Result 2026</a><div class="sb-date">📅 19 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-board-2026">Rajasthan Board Result 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=nta-neet-2026">NTA NEET UG Online Form 2026</a><div class="sb-date">📅 17 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=up-board-2026">UP Board Result 2026 – Coming Soon</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=gaon-beti-2026">Gaon Ki Beti Scholarship 2025-26</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Full Details</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-iti-cat-2026">Bihar ITI CAT Admission Form 2026 – 33108 Seats</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/results.html">HPRCA Mathematics Teacher Admit Card 2026</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">OUT</span><div><a href="pages/job-detail.html?id=ossc-cgl-admit-card-2026">OSSC CGL Admit Card 2026 – 19 April Exam, Download Link Active</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">OUT</span><div><a href="pages/job-detail.html?id=cg-vyapam-pharmacist-admit-2026">CG Vyapam Pharmacist Admit Card 2026 – 12 April Exam</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">UPPSC Principal Admit Card 2026 – 9 Apr Exam</a><div class="sb-date">📅 31 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">SSC CGL Tier-II Admit Card 2026 – Download Link</a><div class="sb-date">📅 28 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">RRB NTPC Admit Card 2026 – Aayega Jald</a><div class="sb-date">📅 Jald Aayega</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">SBI Clerk Admit Card 2026 – Prelims</a><div class="sb-date">📅 Jald Aayega</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=hprca-maths-teacher-admit-2026">HPRCA Mathematics Teacher Admit Card 2026</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">IBPS PO Admit Card 2026 – Link Aayega</a><div class="sb-date">📅 Jald Aayega</div></div></div>
           </div>
         </div>
 
-        <!-- Schemes -->
-        <div class="col-box" id="latest-schemes">
-          <div class="col-head col-head-schemes">📋 Schemes</div>
+        <!-- Latest Result -->
+        <div class="col-box" id="latest-result-col">
+          <div class="col-head col-head-result">🏆 Latest Result <a href="pages/results.html">Sabhi Dekhen →</a></div>
           <div class="col-body">
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=tn-railway-concession-artists-2026">TN Railway 75% Chhoot – Kalaakaron Ke Liye Yojana</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=nagaland-children-education-allowance-2026">Nagaland Children Education Allowance – Rs.500/Month</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 – 34th Kisht</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht – Kab Aayegi?</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#"  aria-label="Coming soon">MP Samadhan Yojana 2025-26 – Bijli Mafi</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-svanidhi-2026">PM SVANidhi Yojana 2026</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=mp-pension-2026">MP Social Security Pension Yojana</a><div class="sb-date">📅 16 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ration-card-2026">Ration Card Apply Online & Download</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026 – Free Gas</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card Kaise Banaye</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-mobile-2026">Rajasthan Free Mobile Yojana 2026</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
-            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=jan-aadhaar-2026">Jan Aadhaar Card – Apply & Download</a><div class="sb-date">📅 08 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=moil-limited-result-2026">MOIL Electrician Fitter Welder Result 2026 – DV List Jari</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=uppsc-tgt-social-science-result-2026">UPPSC TGT Social Science Result 2026 – Mains Qualified List</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=pstet-result-2026">Punjab PSTET Result 2026 – Paper 1 &amp; 2 Scorecard</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=pune-police-constable-result-2026">Pune City Police Constable Result 2026</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/results.html">RPSC School Lecturer Result 2026 – Maths &amp; Sanskrit</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/results.html">PNB Apprentice Result 2026 – Provisional List</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/results.html">DDA Mali Result 2026 – Select List Out</a><div class="sb-date">📅 29 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/results.html">Bihar Board 10th Result 2026 – BSEB Matric</a><div class="sb-date">📅 25 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-out">OUT</span><div><a href="pages/job-detail.html?id=rpsc-2nd-grade-teacher-2026">RPSC 2nd Grade Teacher Result 2026</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=india-post-gds-2nd-merit-2026">India Post GDS 2nd Merit List 2026</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=kanker-gp-secretary-result-2026">Kanker GP Secretary Final Merit List 2026</a><div class="sb-date">📅 21 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">Punjab Police Constable Result 2026 – Out</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">SSC CGL Result 2026 – Jald Aayega</a><div class="sb-date">📅 Jald Aayega</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/results.html">RRB NTPC Result 2026 – Jald Aayega</a><div class="sb-date">📅 Jald Aayega</div></div></div>
           </div>
         </div>
 
       </div>
+
+      <!-- ── AD between rows ── -->
+      <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:16px;">
+        <div style="font-size:9px;color:#94a3b8;font-weight:600;letter-spacing:0.05em;margin-bottom:2px;">— Advertisement —</div>
+        <ins loading="lazy" class="adsbygoogle"
+             style="display:block;width:100%;min-height:90px;"
+             data-ad-client="ca-pub-8602963796651751"
+             data-ad-slot="1122334455" data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>try{(adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}</script>
+      </div>
+
+      <!-- ═══ ROW 2: LATEST GOVT SCHEME | PRIVATE JOBS | EDUCATION ═══ -->
+      <div class="section-row-label">📋 Yojana – Private Jobs – Education</div>
+      <div class="three-col">
+
+        <!-- Latest Govt Schemes -->
+        <div class="col-box" id="latest-schemes">
+          <div class="col-head col-head-schemes">📋 Latest Govt Scheme <a href="pages/schemes.html">Sabhi Dekhen →</a></div>
+          <div class="col-body">
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=tn-railway-concession-artists-2026">TN Railway 75% Chhoot – Kalaakaron Ke Liye Yojana</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=nagaland-children-education-allowance-2026">Nagaland Children Education Allowance – Rs.500/Month</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=ladli-bahna-2026">Ladli Bahna Yojana 2026 – 34th Kisht</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=pm-kisan-2026">PM Kisan 22vi Kisht – Kab Aayegi? Poori Jaankari</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-svanidhi-2026">PM SVANidhi Yojana 2026 – Street Vendor Loan</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=mp-pension-2026">MP Social Security Pension Yojana – Eligibility</a><div class="sb-date">📅 16 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ration-card-2026">Ration Card Apply Online &amp; Download 2026</a><div class="sb-date">📅 15 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=pm-ujjwala-2026">PM Ujjwala Yojana 2026 – Free Gas Connection</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=ayushman-2026">Ayushman Bharat Card Kaise Banaye 2026</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-mobile-2026">Rajasthan Free Mobile Yojana 2026 – Status Check</a><div class="sb-date">📅 10 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=jan-aadhaar-2026">Jan Aadhaar Card – Apply &amp; Download Online</a><div class="sb-date">📅 08 Mar 2026</div></div></div>
+          </div>
+        </div>
+
+        <!-- Private Jobs -->
+        <div class="col-box" id="private-jobs-col">
+          <div class="col-head col-head-pvtjob">🏢 Private Jobs <a href="pages/private-jobs.html">Sabhi Dekhen →</a></div>
+          <div class="col-body">
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">TCS BPS – 500+ Freshers, B.Com/BBA, Any Graduate Apply</a><div class="sb-date">📅 10 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">Infosys InfyTQ – 1000+ Entry Level IT Jobs 2026, B.Tech</a><div class="sb-date">📅 09 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">Wipro WASE – Fresher Tech Jobs 2026, Graduation Required</a><div class="sb-date">📅 08 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">Amazon India – Delivery Associates, 10th Pass, Pan India</a><div class="sb-date">📅 07 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">HDFC Bank – Sales Officer 2026, Freshers Welcome</a><div class="sb-date">📅 06 Apr 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/private-jobs.html">Flipkart – Warehouse &amp; Logistics Staff 2026, 10th Pass</a><div class="sb-date">📅 05 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/private-jobs.html">Accenture – System Engineer 2026, B.Tech/BCA</a><div class="sb-date">📅 04 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/private-jobs.html">Cognizant GenC – 2000+ IT Fresher Jobs 2026</a><div class="sb-date">📅 03 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/private-jobs.html">Bajaj Finance – Field Sales Executive, 12th Pass</a><div class="sb-date">📅 02 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/private-jobs.html">Reliance Jio – Customer Care Executive 2026</a><div class="sb-date">📅 01 Apr 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/private-jobs.html">Maruti Suzuki – ITI Apprentice 2026 – 800 Posts</a><div class="sb-date">📅 30 Mar 2026</div></div></div>
+          </div>
+        </div>
+
+        <!-- Education -->
+        <div class="col-box" id="education">
+          <div class="col-head col-head-edu">📚 Education <a href="pages/results.html">Sabhi Dekhen →</a></div>
+          <div class="col-body">
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=bihar-iti-cat-2026">Bihar ITI CAT Admission Form 2026 – 33108 Seats</a><div class="sb-date">📅 24 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/results.html">Bihar Board 10th Result 2026 – BSEB Matric, Direct Link</a><div class="sb-date">📅 25 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=jee-mains-2026">JEE Mains 2026 Session 2 – Exam City &amp; Schedule</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=mp-rte-2026">MP RTE Admission 2026-27 – Free School Form</a><div class="sb-date">📅 22 Mar 2026</div></div></div>
+            <div class="col-item"><span class="sb-new">NEW</span><div><a href="pages/job-detail.html?id=nta-neet-2026">NTA NEET UG Online Form 2026 – Apply Now</a><div class="sb-date">📅 17 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=up-board-2026">UP Board Result 2026 – 10th &amp; 12th Coming Soon</a><div class="sb-date">📅 Jald Aayega</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=reet-2026">REET Bharti 2026 – Full Details &amp; Notification</a><div class="sb-date">📅 12 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=gaon-beti-2026">Gaon Ki Beti Scholarship 2025-26 – Apply Now</a><div class="sb-date">📅 14 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="pages/job-detail.html?id=raj-board-2026">Rajasthan Board Result 2026 – Check Now</a><div class="sb-date">📅 18 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#">KVS Class 1 Admission Form 2026 – Online Apply</a><div class="sb-date">📅 20 Mar 2026</div></div></div>
+            <div class="col-item"><span class="col-bullet">▶</span><div><a href="#">MP Board 10th &amp; 12th Result 2026 – Jald Aayega</a><div class="sb-date">📅 Jald Aayega</div></div></div>
+          </div>
+        </div>
+
+      </div>
+
+
 
       <!-- ── COMPACT AD INLINE 2 ── -->
       <div style="background:white;border-radius:8px;border:1px dashed #e2e8f0;padding:4px 6px;text-align:center;margin-bottom:14px;">
