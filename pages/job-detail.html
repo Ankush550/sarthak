@@ -4,9 +4,27 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Job Detail – SarthakYojana</title>
-<meta name="description" id="pageDesc" content="Complete job details, eligibility, vacancies, salary and apply link.">
+<meta name="description" id="pageDesc" content="Complete government job details with eligibility, vacancies, salary and apply link.">
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/job-detail.html">
 <link rel="stylesheet" href="../assets/style.css">
+<style>
+.detail-table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:12.5px;}
+.detail-table th{background:#c0392b;color:#fff;padding:6px 10px;text-align:left;}
+.detail-table tr:nth-child(even){background:#f9f9f9;}
+.detail-table td{padding:6px 10px;border:1px solid #e8e8e8;}
+.content-article{background:#fff;border:1px solid #ddd;border-radius:3px;padding:18px;margin-bottom:12px;font-size:13px;color:#333;line-height:1.75;}
+.content-article h2{font-size:16px;color:#c0392b;font-weight:700;margin:18px 0 8px;padding-bottom:5px;border-bottom:2px solid #eee;}
+.content-article h2:first-child{margin-top:0;}
+.content-article h3{font-size:14px;color:#333;font-weight:700;margin:12px 0 6px;}
+.content-article p{margin-bottom:10px;}
+.content-article ul,.content-article ol{padding-left:18px;margin-bottom:10px;}
+.content-article ul li,.content-article ol li{margin-bottom:4px;}
+.content-article strong{color:#222;}
+.content-article table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:12.5px;}
+.content-article table th{background:#c0392b;color:#fff;padding:6px 10px;text-align:left;}
+.content-article table tr:nth-child(even){background:#f9f9f9;}
+.content-article table td{padding:6px 10px;border:1px solid #e8e8e8;}
+</style>
 </head>
 <body>
 <div id="site-header"></div>
@@ -14,117 +32,128 @@
 <div class="breadcrumb"><div class="breadcrumb-inner" id="bc"><a href="../index.html">Home</a> &rsaquo; Job Detail</div></div>
 
 <div class="center">
-  <div id="job-content"><p style="padding:30px;text-align:center;color:#888;">Loading...</p></div>
 
-  <div class="content-section" id="job-about" style="display:none;">
-    <h2 id="about-h2"></h2>
-    <div id="about-body"></div>
+  <!-- Quick Info Card -->
+  <div id="quickCard"></div>
+
+  <!-- Full Article Content -->
+  <div class="content-article" id="fullContent"></div>
+
+  <!-- Apply Box -->
+  <div class="apply-box" id="applyBox" style="display:none;">
+    <h3 id="applyTitle">Apply Online</h3>
+    <p id="applyMeta" style="font-size:12px;color:#666;margin-bottom:10px;"></p>
+    <div id="applyLinks"></div>
+    <p style="font-size:11px;color:#999;margin-top:12px;font-style:italic;">Disclaimer: SarthakYojana.in is not the official recruitment authority. Always verify all details from the official website before applying. We are not responsible for any discrepancy in the information provided.</p>
   </div>
 
+  <!-- Similar Jobs -->
   <div class="sec-box" style="margin-top:10px;">
-    <div class="sec-hdr"><h2>Similar / Related Jobs</h2></div>
+    <div class="sec-hdr"><h2>More Government Jobs 2026</h2></div>
     <ul class="sec-list" id="similarJobs"></ul>
+    <a href="jobs.html" class="view-more">View All Jobs &raquo;</a>
   </div>
+
 </div>
 
 <div id="site-footer"></div>
 <script src="../assets/jobs-data.js"></script>
+<script src="../assets/job-content.js"></script>
 <script src="../assets/main.js"></script>
 <script>
 renderHeader('Latest Job');
 renderTicker();
 renderFooter();
 
-const id = new URLSearchParams(window.location.search).get('id');
-document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + (id||'');
+const id = new URLSearchParams(window.location.search).get('id') || '';
+document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
 
 const all = [...JOBS_DATA, ...PRIVATE_JOBS_DATA, ...RESULTS_DATA, ...ADMIT_CARDS_DATA, ...ANSWER_KEYS_DATA];
 const job = all.find(j => j.id === id);
 
 if (!job) {
-  document.getElementById('job-content').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Job not found. <a href="../pages/jobs.html">View All Jobs</a></p>';
+  document.getElementById('quickCard').innerHTML = '<div class="content-article"><p style="text-align:center;color:#c0392b;padding:20px;">Job not found. <a href="jobs.html">Browse All Jobs</a></p></div>';
 } else {
-  document.title = job.title + ' – ' + job.organization + ' | SarthakYojana';
-  document.getElementById('pageDesc').content = job.description || job.title + ' recruitment 2026. Check vacancies, eligibility and apply online.';
-  document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="jobs.html">Jobs</a> &rsaquo; ${job.title}`;
+  // Page title & meta
+  const pageTitle = job.title + ' – ' + job.organization + ' Recruitment 2026 | SarthakYojana';
+  document.title = pageTitle;
+  document.getElementById('pageDesc').content = (job.description || job.title) + ' Check eligibility, vacancies, salary, last date and apply online at SarthakYojana.in.';
+  document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="jobs.html">Govt Jobs</a> &rsaquo; ${job.title}`;
 
-  // Schema
-  if (JOBS_DATA.find(j=>j.id===id)) {
+  // JSON-LD Schema for JobPosting
+  if (JOBS_DATA.find(j => j.id === id)) {
     const s = document.createElement('script');
     s.type = 'application/ld+json';
-    s.text = JSON.stringify(buildJobSchema(job));
+    s.text = JSON.stringify({
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": job.title,
+      "description": job.description || job.title + ' recruitment 2026.',
+      "identifier": {"@type":"PropertyValue","name":job.organization,"value":job.id},
+      "datePosted": job.datePosted || "2026-04-01",
+      "validThrough": job.validThrough || "2026-12-31T00:00",
+      "employmentType": job.employmentType || "FULL_TIME",
+      "hiringOrganization": {"@type":"Organization","name":job.organization,"sameAs":job.officialWebsite||job.applyLink||"https://sarthakyojana.in"},
+      "jobLocation": {"@type":"Place","address":{"@type":"PostalAddress","addressLocality":job.addressLocality||"India","addressRegion":job.addressRegion||"IN","addressCountry":"IN"}},
+      "baseSalary": {"@type":"MonetaryAmount","currency":"INR","value":{"@type":"QuantitativeValue","minValue":job.salaryMin||20000,"maxValue":job.salaryMax||100000,"unitText":"MONTH"}}
+    });
     document.head.appendChild(s);
   }
 
-  const daysLeft = (d)=>{
-    const diff = Math.ceil((new Date(d.split(' ').reverse().join('-')) - new Date()) / 86400000);
-    return diff > 0 ? diff + ' days left' : 'Expired';
-  };
-
-  document.getElementById('job-content').innerHTML = `
+  // Quick info card (H1 here)
+  const statusLabel = job.status === 'open' ? '<span class="badge-open">Open Now</span>' : job.status === 'closing_soon' ? '<span class="badge-soon">Closing Soon</span>' : '<span class="badge-closed">Closed</span>';
+  document.getElementById('quickCard').innerHTML = `
     <div class="jd-box">
-      <div class="jd-title-bar"><h1>${job.title} – ${job.organization} Recruitment 2026</h1></div>
+      <div class="jd-title-bar">
+        <h1>${job.title} – ${job.organization} 2026</h1>
+      </div>
       <div class="jd-body">
         <table class="jd-meta">
-          <tr><td>Organization</td><td>${job.organization}</td></tr>
+          <tr><td>Organization</td><td><strong>${job.organization}</strong></td></tr>
           <tr><td>Post Name</td><td>${job.title}</td></tr>
-          ${job.totalVacancies?`<tr><td>Total Vacancies</td><td><strong style="color:#c0392b;">${job.totalVacancies}</strong></td></tr>`:''}
-          ${job.qualification?`<tr><td>Qualification</td><td>${job.qualification}</td></tr>`:''}
-          ${job.ageLimit?`<tr><td>Age Limit</td><td>${job.ageLimit}</td></tr>`:''}
-          ${job.salaryMin?`<tr><td>Pay Scale</td><td>₹${job.salaryMin.toLocaleString()} – ₹${job.salaryMax.toLocaleString()} per month</td></tr>`:''}
-          ${job.location?`<tr><td>Location</td><td>${job.location}</td></tr>`:''}
-          ${job.employmentType?`<tr><td>Employment Type</td><td>${job.employmentType}</td></tr>`:''}
-          ${job.lastDate?`<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">${job.lastDate}</strong></td></tr>`:''}
-          ${job.examDate?`<tr><td>Exam / Interview Date</td><td>${job.examDate}</td></tr>`:''}
-          ${job.status?`<tr><td>Application Status</td><td><span class="badge-${job.status==='open'?'open':job.status==='closing_soon'?'soon':'closed'}">${job.status==='open'?'Open Now':job.status==='closing_soon'?'Closing Soon':'Closed'}</span></td></tr>`:''}
+          ${job.totalPosts || job.totalVacancies ? `<tr><td>Total Vacancies</td><td><strong style="color:#c0392b;font-size:14px;">${job.totalPosts || job.totalVacancies} Posts</strong></td></tr>` : ''}
+          ${job.qualification ? `<tr><td>Qualification</td><td>${job.qualification}</td></tr>` : ''}
+          ${job.ageLimit ? `<tr><td>Age Limit</td><td>${job.ageLimit}</td></tr>` : ''}
+          ${job.salaryMin ? `<tr><td>Pay Scale</td><td>₹${job.salaryMin.toLocaleString()} – ₹${job.salaryMax.toLocaleString()} / month</td></tr>` : ''}
+          ${job.location ? `<tr><td>Job Location</td><td>${job.location}</td></tr>` : ''}
+          ${job.employmentType ? `<tr><td>Employment Type</td><td>${job.employmentType.replace(/_/g,' ')}</td></tr>` : ''}
+          ${job.lastDate || job.lastDateDisplay ? `<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">${job.lastDateDisplay || job.lastDate}</strong></td></tr>` : ''}
+          ${job.examDate ? `<tr><td>Exam Date</td><td>${job.examDate}</td></tr>` : ''}
+          ${job.fee ? `<tr><td>Application Fee</td><td>${job.fee}</td></tr>` : ''}
+          <tr><td>Status</td><td>${statusLabel}</td></tr>
+          ${job.officialNotification ? `<tr><td>Official Notification</td><td><a href="${job.officialNotification}" target="_blank" rel="nofollow noopener" style="color:#c0392b;">Download PDF &rarr;</a></td></tr>` : ''}
         </table>
-
-        ${job.description?`<h2 style="font-size:14px;color:#c0392b;margin-bottom:8px;border-bottom:1px solid #eee;padding-bottom:5px;">About This Recruitment</h2><p style="font-size:12.5px;color:#444;line-height:1.75;margin-bottom:12px;">${job.description}</p>`:''}
-
-        ${job.importantDates?`<h2 style="font-size:14px;color:#c0392b;margin-bottom:8px;border-bottom:1px solid #eee;padding-bottom:5px;">Important Dates</h2>
-        <table class="jd-meta" style="margin-bottom:12px;">
-          ${Object.entries(job.importantDates).map(([k,v])=>`<tr><td>${k}</td><td>${v}</td></tr>`).join('')}
-        </table>`:''}
-
-        ${job.applicationFee?`<h2 style="font-size:14px;color:#c0392b;margin-bottom:8px;border-bottom:1px solid #eee;padding-bottom:5px;">Application Fee</h2>
-        <table class="jd-meta" style="margin-bottom:12px;">
-          ${Object.entries(job.applicationFee).map(([k,v])=>`<tr><td>${k}</td><td>${v}</td></tr>`).join('')}
-        </table>`:''}
-
-        <div class="apply-box">
-          <h3>Apply Online – ${job.title}</h3>
-          <p style="font-size:12px;color:#666;margin-bottom:10px;">Last Date: <strong style="color:#c0392b;">${job.lastDate||'N/A'}</strong> &nbsp;|&nbsp; Status: <strong>${job.status==='open'?'Open Now':'Check Official Site'}</strong></p>
-          ${job.applyLink?`<a href="${job.applyLink}" class="apply-btn-main" target="_blank" rel="nofollow noopener">Apply Online &rarr;</a>
-          <br><br><a href="${job.officialWebsite||job.applyLink}" target="_blank" rel="nofollow noopener" style="font-size:12px;color:#666;">Official Website</a>`:'<p style="color:#888;font-size:12px;">Application link not available yet. Check back soon.</p>'}
-        </div>
-
-        <p style="font-size:11px;color:#999;margin-top:10px;font-style:italic;">Disclaimer: SarthakYojana.in is not the official recruitment agency. Always verify details from the official website before applying. We are not responsible for any errors in recruitment information.</p>
       </div>
     </div>`;
 
-  // About section
-  const aboutEl = document.getElementById('job-about');
-  aboutEl.style.display = 'block';
-  document.getElementById('about-h2').textContent = 'About ' + job.organization + ' Recruitment 2026';
-  document.getElementById('about-body').innerHTML = `
-    <p>${job.organization} has released an official recruitment notification for the post of <strong>${job.title}</strong>. Eligible candidates can apply online through the official website before the last date.</p>
-    <h3>Selection Process</h3>
-    <p>The selection will be done through Written Exam / CBT, Physical Test (if applicable), and Document Verification.</p>
-    <h3>How to Apply</h3>
-    <ul>
-      <li>Visit the official website of ${job.organization}</li>
-      <li>Click on the Apply Online link for ${job.title} recruitment</li>
-      <li>Register with your valid email ID and mobile number</li>
-      <li>Fill the application form with correct details</li>
-      <li>Upload required documents and photograph</li>
-      <li>Pay the application fee if applicable</li>
-      <li>Submit and take a printout for future reference</li>
-    </ul>`;
+  // Full article content from JOB_CONTENT
+  const articleContent = JOB_CONTENT[id];
+  if (articleContent) {
+    document.getElementById('fullContent').innerHTML = articleContent;
+  } else {
+    // Fallback for jobs without detailed content
+    document.getElementById('fullContent').innerHTML = `
+      <h2>About ${job.organization} Recruitment 2026</h2>
+      <p>${job.description || job.organization + ' has released an official recruitment notification for ' + job.title + ' posts. Eligible and interested candidates can apply online through the official website before the last date mentioned above.'}</p>
+      <h2>How to Apply</h2>
+      <p>Visit the official website of ${job.organization}, navigate to the recruitment section, and complete the online application form before the last date. Ensure all documents are ready before filling the form.</p>`;
+  }
+
+  // Apply box
+  const applyBox = document.getElementById('applyBox');
+  applyBox.style.display = 'block';
+  document.getElementById('applyTitle').textContent = 'Apply Online – ' + job.title;
+  document.getElementById('applyMeta').innerHTML = 'Last Date: <strong style="color:#c0392b;">' + (job.lastDateDisplay || job.lastDate || 'Check Official Site') + '</strong> &nbsp;|&nbsp; Status: <strong>' + (job.status === 'open' ? 'Open Now' : job.status === 'closing_soon' ? 'Closing Soon' : 'Check Official Site') + '</strong>';
+  document.getElementById('applyLinks').innerHTML = job.applyLink ?
+    `<a href="${job.applyLink}" class="apply-btn-main" target="_blank" rel="nofollow noopener">Apply Online &rarr;</a>
+     &nbsp;&nbsp;
+     <a href="${job.officialNotification || job.applyLink}" target="_blank" rel="nofollow noopener" style="font-size:12.5px;color:#555;">Official Notification PDF</a>` :
+    '<p style="color:#888;font-size:12.5px;">Application link will be available soon. Bookmark this page.</p>';
 
   // Similar jobs
-  const sim = JOBS_DATA.filter(j=>j.id!==id).slice(0,8);
-  document.getElementById('similarJobs').innerHTML = sim.map(j=>
-    `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalVacancies||'N/A'} Posts)</a></li>`
+  const sim = JOBS_DATA.filter(j => j.id !== id).slice(0, 10);
+  document.getElementById('similarJobs').innerHTML = sim.map(j =>
+    `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`
   ).join('');
 }
 </script>
