@@ -1,0 +1,363 @@
+// SarthakYojana.in – Jobs Database (All Schema Fields Included)
+const JOBS_DATA = [
+  {
+    id:"territorial-army-officer-2026",
+    title:"Territorial Army Officer Recruitment 2026",
+    shortTitle:"Territorial Army Officer – 12 Posts",
+    organization:"Territorial Army Directorate, Indian Army",
+    orgWebsite:"https://www.indianarmy.nic.in",
+    category:"Defence", subCategory:"Officer",
+    totalPosts:12, lastDate:"2026-05-19", lastDateDisplay:"19 May 2026",
+    datePosted:"2026-04-15", examDate:"12 July 2026",
+    validThrough:"2026-05-19T23:55:00+05:30", employmentType:"PART_TIME",
+    salaryMin:56100, salaryMax:177500, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
+    qualification:"Graduate", qualificationCode:"Graduate",
+    ageLimit:"18–42 Years", applyLink:"https://www.indianarmy.nic.in",
+    officialNotification:"https://www.indianarmy.nic.in",
+    fee:"Rs. 500/-", isNew:true, isFeatured:true,
+    tags:["defence","army","officer","graduate","lieutenant"],
+    description:"Territorial Army Commission Examination 2026 for 12 Lieutenant posts. Apply online 20 Apr – 19 May 2026. CBT on 12 July 2026.",
+    fullContent:`<h2>Territorial Army Officer Recruitment 2026 – Overview</h2>
+<p>The Territorial Army Directorate under the Indian Army has officially announced the <strong>Territorial Army Commission Examination 2026</strong> offering 12 Lieutenant posts to gainfully employed graduates.</p>
+<h3>Important Dates</h3>
+<table class="detail-table"><tr><th>Event</th><th>Date</th></tr>
+<tr><td>Application Start</td><td>20 April 2026 (10:00 hrs)</td></tr>
+<tr><td>Last Date to Apply</td><td>19 May 2026 (23:55 hrs)</td></tr>
+<tr><td>Admit Card Release</td><td>10–15 days before CBT</td></tr>
+<tr><td>CBT (Written Exam)</td><td>12 July 2026</td></tr>
+<tr><td>SSB Interview</td><td>Post CBT (dates to be notified)</td></tr></table>
+<h3>Vacancy Details</h3>
+<table class="detail-table"><tr><th>Gender</th><th>Vacancies</th></tr>
+<tr><td>Male</td><td>11</td></tr><tr><td>Female</td><td>01</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>12</strong></td></tr></table>
+<h3>Eligibility Criteria</h3>
+<ul><li><strong>Nationality:</strong> Indian Citizens only (Male &amp; Female)</li>
+<li><strong>Age:</strong> 18 to 42 years as on 19 May 2026</li>
+<li><strong>Education:</strong> Graduate from any recognised university</li>
+<li><strong>Employment:</strong> Must be gainfully employed at time of application</li>
+<li><strong>Not Eligible:</strong> Regular Army, Navy, Air Force, Police, GREF, Para-Military personnel</li></ul>
+<h3>Application Fee</h3>
+<p><strong>Rs. 500/-</strong> (Online payment only). Non-refundable.</p>
+<h3>Exam Pattern (CBT – 2 Hours)</h3>
+<table class="detail-table"><tr><th>Part</th><th>Subject</th><th>Questions</th><th>Marks</th></tr>
+<tr><td>Part 1</td><td>Reasoning</td><td>40</td><td>40</td></tr>
+<tr><td>Part 2</td><td>General Knowledge</td><td>30</td><td>30</td></tr>
+<tr><td>Part 3</td><td>English</td><td>30</td><td>30</td></tr>
+<tr><td><strong>Total</strong></td><td></td><td><strong>100</strong></td><td><strong>100</strong></td></tr></table>
+<p><em>Negative Marking: 1/3 mark deducted per wrong answer.</em></p>
+<h3>Selection Process</h3>
+<ol><li><strong>Stage 1 – CBT:</strong> Computer Based Test (Reasoning + GK + English)</li>
+<li><strong>Stage 2 – SSB:</strong> Psychological Aptitude Test + Intelligence Test</li>
+<li><strong>Final Merit:</strong> Combined CBT + SSB marks. Separate merit for male/female.</li></ol>
+<h3>Pay Scale (7th CPC)</h3>
+<table class="detail-table"><tr><th>Rank</th><th>Level</th><th>Pay Matrix</th><th>MSP</th></tr>
+<tr><td>Lieutenant</td><td>Level 10</td><td>Rs. 56,100 – 1,77,500</td><td>Rs. 15,500/-</td></tr>
+<tr><td>Captain</td><td>Level 10A</td><td>Rs. 61,300 – 1,93,900</td><td>Rs. 15,500/-</td></tr>
+<tr><td>Major</td><td>Level 11</td><td>Rs. 69,400 – 2,07,200</td><td>Rs. 15,500/-</td></tr>
+<tr><td>Lt Colonel</td><td>Level 12A</td><td>Rs. 1,21,200 – 2,12,400</td><td>Rs. 15,500/-</td></tr></table>
+<h3>How to Apply</h3>
+<ol><li>Visit <strong>www.indianarmy.nic.in</strong></li>
+<li>Fill online form IAF (TA)-9 (Revised) Part-1 from 20 April – 19 May 2026</li>
+<li>Pay Rs. 500/- application fee online</li>
+<li>Submit and save printout</li>
+<li>Download Admit Card 10–15 days before CBT</li></ol>`
+  },
+  {
+    id:"crpf-constable-tradesman-2026",
+    title:"CRPF Constable Tradesman Recruitment 2026",
+    shortTitle:"CRPF 9195 Constable Tradesman",
+    organization:"Central Reserve Police Force (CRPF)",
+    orgWebsite:"https://www.crpf.gov.in",
+    category:"Police", subCategory:"Constable",
+    totalPosts:9195, lastDate:"2026-05-15", lastDateDisplay:"15 May 2026",
+    datePosted:"2026-04-10", validThrough:"2026-05-15T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:21700, salaryMax:69100, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
+    qualification:"10th Pass", qualificationCode:"10TH",
+    ageLimit:"18–23 Years", applyLink:"https://www.crpf.gov.in",
+    officialNotification:"https://www.crpf.gov.in",
+    fee:"Rs. 100/-", isNew:true, isFeatured:true,
+    tags:["police","constable","10th pass","crpf"],
+    description:"CRPF 9195 Constable Tradesman Recruitment 2026. 10th pass with ITI certificate candidates can apply online.",
+    fullContent:`<h2>CRPF Constable Tradesman Recruitment 2026</h2>
+<p>Central Reserve Police Force has announced <strong>9195 Constable (Tradesman)</strong> vacancies.</p>
+<h3>Eligibility</h3>
+<ul><li>Age: 18–23 years</li><li>10th pass + ITI certificate in relevant trade</li></ul>
+<h3>Selection Process</h3>
+<ol><li>Physical Efficiency Test (PET)</li><li>Physical Standard Test (PST)</li><li>Written Examination</li><li>Skill/Trade Test</li><li>Medical Examination</li></ol>`
+  },
+  {
+    id:"powergrid-non-executive-2026",
+    title:"POWERGRID Non Executive Recruitment 2026",
+    shortTitle:"POWERGRID 660 Non Executive Posts",
+    organization:"Power Grid Corporation of India Limited (POWERGRID)",
+    orgWebsite:"https://www.powergrid.in",
+    category:"PSU", subCategory:"Non-Executive",
+    totalPosts:660, lastDate:"2026-05-10", lastDateDisplay:"10 May 2026",
+    datePosted:"2026-04-08", validThrough:"2026-05-10T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:27500, salaryMax:84750, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Gurugram", addressRegion:"Haryana", addressCountry:"IN",
+    qualification:"ITI/Diploma", qualificationCode:"ITI",
+    ageLimit:"18–27 Years", applyLink:"https://www.powergrid.in",
+    officialNotification:"https://www.powergrid.in",
+    fee:"Rs. 300/-", isNew:true, isFeatured:false,
+    tags:["psu","powergrid","iti","diploma"],
+    description:"POWERGRID 660 Non-Executive posts. ITI/Diploma holders can apply online.",
+    fullContent:`<h2>POWERGRID Non Executive Recruitment 2026</h2>
+<p>POWERGRID (Maharatna PSU) has announced <strong>660 Non-Executive</strong> vacancies for Diploma and ITI holders.</p>
+<h3>Posts</h3><ul><li>Diploma Trainee (Electrical/Civil/IT)</li><li>ITI Trainee (Electrician/Electronics/Fitter)</li></ul>`
+  },
+  {
+    id:"rbi-junior-engineer-2026",
+    title:"RBI Junior Engineer Recruitment 2026",
+    shortTitle:"RBI JE Online Form 2026",
+    organization:"Reserve Bank of India (RBI)",
+    orgWebsite:"https://www.rbi.org.in",
+    category:"Bank", subCategory:"Engineer",
+    totalPosts:94, lastDate:"2026-05-05", lastDateDisplay:"05 May 2026",
+    datePosted:"2026-04-05", validThrough:"2026-05-05T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:35150, salaryMax:95440, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Mumbai", addressRegion:"Maharashtra", addressCountry:"IN",
+    qualification:"B.Tech/B.E", qualificationCode:"Graduate",
+    ageLimit:"20–30 Years", applyLink:"https://www.rbi.org.in",
+    officialNotification:"https://www.rbi.org.in",
+    fee:"Rs. 450/-", isNew:true, isFeatured:true,
+    tags:["bank","rbi","engineer","b.tech"],
+    description:"RBI Junior Engineer Civil/Electrical 94 posts. B.Tech/B.E graduates can apply.",
+    fullContent:`<h2>RBI Junior Engineer Recruitment 2026</h2>
+<p>Reserve Bank of India invites applications for <strong>94 Junior Engineer</strong> posts (Civil/Electrical).</p>
+<h3>Vacancies</h3><ul><li>JE – Civil: 60</li><li>JE – Electrical: 34</li></ul>
+<h3>Eligibility</h3><ul><li>Age: 20–30 years</li><li>B.E/B.Tech Civil/Electrical Engineering</li></ul>`
+  },
+  {
+    id:"lic-hfl-junior-assistant-2026",
+    title:"LIC HFL Junior Assistant Recruitment 2026",
+    shortTitle:"LIC HFL Junior Assistant Online Form 2026",
+    organization:"LIC Housing Finance Limited (LIC HFL)",
+    orgWebsite:"https://www.lichousing.com",
+    category:"Bank", subCategory:"Junior Assistant",
+    totalPosts:150, lastDate:"2026-04-30", lastDateDisplay:"30 April 2026",
+    datePosted:"2026-04-02", validThrough:"2026-04-30T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:22000, salaryMax:55000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Mumbai", addressRegion:"Maharashtra", addressCountry:"IN",
+    qualification:"Graduate", qualificationCode:"Graduate",
+    ageLimit:"21–28 Years", applyLink:"https://www.lichousing.com",
+    officialNotification:"https://www.lichousing.com",
+    fee:"Rs. 600/-", isNew:true, isFeatured:false,
+    tags:["lic","hfl","junior assistant","graduate","bank"],
+    description:"LIC HFL Junior Assistant 150 posts. Graduate candidates can apply online.",
+    fullContent:`<h2>LIC HFL Junior Assistant Recruitment 2026</h2>
+<p>LIC Housing Finance invites applications for <strong>150 Junior Assistant</strong> posts.</p>
+<h3>Eligibility</h3><ul><li>Age: 21–28 years</li><li>Graduate + Computer knowledge</li></ul>`
+  },
+  {
+    id:"nhpc-apprentice-2026",
+    title:"NHPC Apprentice Recruitment 2026",
+    shortTitle:"NHPC 182 Apprentice Online Form 2026",
+    organization:"National Hydroelectric Power Corporation (NHPC)",
+    orgWebsite:"https://www.nhpcindia.com",
+    category:"PSU", subCategory:"Apprentice",
+    totalPosts:182, lastDate:"2026-04-28", lastDateDisplay:"28 April 2026",
+    datePosted:"2026-04-01", validThrough:"2026-04-28T23:59:00+05:30", employmentType:"INTERN",
+    salaryMin:8000, salaryMax:9000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Faridabad", addressRegion:"Haryana", addressCountry:"IN",
+    qualification:"ITI/Diploma", qualificationCode:"ITI",
+    ageLimit:"18–24 Years", applyLink:"https://www.nhpcindia.com",
+    officialNotification:"https://www.nhpcindia.com",
+    fee:"No Fee", isNew:false, isFeatured:false,
+    tags:["nhpc","apprentice","iti","diploma","psu"],
+    description:"NHPC 182 Apprentice posts under Apprenticeship Act 1961.",
+    fullContent:`<h2>NHPC Apprentice Recruitment 2026</h2>
+<p>NHPC has released <strong>182 Apprentice</strong> posts under Apprenticeship Act 1961.</p>
+<h3>Trades</h3><ul><li>Electrician: 60</li><li>Fitter: 40</li><li>Welder: 25</li><li>Others: 57</li></ul>`
+  },
+  {
+    id:"itbp-assistant-commandant-2026",
+    title:"ITBP Assistant Commandant Recruitment 2026",
+    shortTitle:"ITBP Assistant Commandant Online Form 2026",
+    organization:"Indo-Tibetan Border Police (ITBP)",
+    orgWebsite:"https://www.itbpolice.nic.in",
+    category:"Defence", subCategory:"Officer",
+    totalPosts:48, lastDate:"2026-05-20", lastDateDisplay:"20 May 2026",
+    datePosted:"2026-04-12", validThrough:"2026-05-20T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:56100, salaryMax:177500, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
+    qualification:"Graduate", qualificationCode:"Graduate",
+    ageLimit:"26–31 Years", applyLink:"https://www.itbpolice.nic.in",
+    officialNotification:"https://www.itbpolice.nic.in",
+    fee:"Rs. 200/-", isNew:true, isFeatured:false,
+    tags:["itbp","officer","assistant commandant","graduate","defence"],
+    description:"ITBP Assistant Commandant 48 posts. Graduate candidates 26–31 years can apply.",
+    fullContent:`<h2>ITBP Assistant Commandant Recruitment 2026</h2>
+<p>ITBPF invites applications for <strong>48 Assistant Commandant</strong> posts.</p>
+<h3>Eligibility</h3><ul><li>Age: 26–31 years</li><li>Graduate in relevant discipline</li></ul>`
+  },
+  {
+    id:"mcl-technician-2026",
+    title:"MCL Asst Foreman Technician Recruitment 2026",
+    shortTitle:"MCL 500 Asst Foreman, Technician Online Form 2026",
+    organization:"Mahanadi Coalfields Limited (MCL)",
+    orgWebsite:"https://www.mcl.gov.in",
+    category:"PSU", subCategory:"Technical",
+    totalPosts:500, lastDate:"2026-05-08", lastDateDisplay:"08 May 2026",
+    datePosted:"2026-04-09", validThrough:"2026-05-08T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:29900, salaryMax:85000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Odisha", addressLocality:"Sambalpur", addressRegion:"Odisha", addressCountry:"IN",
+    qualification:"ITI/Diploma", qualificationCode:"ITI",
+    ageLimit:"18–30 Years", applyLink:"https://www.mcl.gov.in",
+    officialNotification:"https://www.mcl.gov.in",
+    fee:"Rs. 300/-", isNew:true, isFeatured:false,
+    tags:["mcl","coal","technician","iti","odisha","psu"],
+    description:"MCL 500 Asst Foreman and Technician posts. ITI/Diploma holders in Odisha can apply.",
+    fullContent:`<h2>MCL Asst Foreman Technician Recruitment 2026</h2>
+<p>Mahanadi Coalfields Limited has released <strong>500 vacancies</strong> for Asst Foreman and Technician in Odisha.</p>`
+  },
+  {
+    id:"secl-mining-sirdar-2026",
+    title:"SECL Mining Sirdar Surveyor Recruitment 2026",
+    shortTitle:"SECL 1055 Mining Sirdar, Asst Foreman, Surveyor Online Form 2026",
+    organization:"South Eastern Coalfields Limited (SECL)",
+    orgWebsite:"https://www.secl-cil.in",
+    category:"PSU", subCategory:"Technical",
+    totalPosts:1055, lastDate:"2026-05-12", lastDateDisplay:"12 May 2026",
+    datePosted:"2026-04-11", validThrough:"2026-05-12T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:29900, salaryMax:85000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Chhattisgarh", addressLocality:"Bilaspur", addressRegion:"Chhattisgarh", addressCountry:"IN",
+    qualification:"ITI/Diploma", qualificationCode:"ITI",
+    ageLimit:"18–30 Years", applyLink:"https://www.secl-cil.in",
+    officialNotification:"https://www.secl-cil.in",
+    fee:"Rs. 300/-", isNew:true, isFeatured:false,
+    tags:["secl","coal","mining sirdar","surveyor","chhattisgarh","psu"],
+    description:"SECL 1055 posts for Mining Sirdar, Asst Foreman, and Surveyor in Chhattisgarh.",
+    fullContent:`<h2>SECL Mining Sirdar Recruitment 2026</h2>
+<p>South Eastern Coalfields Limited has released <strong>1055 vacancies</strong> in Chhattisgarh.</p>`
+  },
+  {
+    id:"bpcl-entry-level-2026",
+    title:"BPCL Entry Level Posts Recruitment 2026",
+    shortTitle:"BPCL Entry-Level Posts Online Form 2026 (Short Notice)",
+    organization:"Bharat Petroleum Corporation Limited (BPCL)",
+    orgWebsite:"https://www.bharatpetroleum.in",
+    category:"PSU", subCategory:"Entry Level",
+    totalPosts:243, lastDate:"2026-04-25", lastDateDisplay:"25 April 2026",
+    datePosted:"2026-04-05", validThrough:"2026-04-25T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:40000, salaryMax:120000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Mumbai", addressRegion:"Maharashtra", addressCountry:"IN",
+    qualification:"Graduate/B.Tech", qualificationCode:"Graduate",
+    ageLimit:"26–28 Years", applyLink:"https://www.bharatpetroleum.in",
+    officialNotification:"https://www.bharatpetroleum.in",
+    fee:"No Fee", isNew:true, isFeatured:false,
+    tags:["bpcl","psu","petroleum","entry level","graduate"],
+    description:"BPCL 243 entry level posts for graduates. Apply before 25 April 2026.",
+    fullContent:`<h2>BPCL Entry Level Recruitment 2026</h2>
+<p>Bharat Petroleum Corporation Limited invites applications for <strong>243 entry-level</strong> positions across India.</p>`
+  },
+  {
+    id:"ngel-dgm-am-2026",
+    title:"NGEL DGM Assistant Manager Recruitment 2026",
+    shortTitle:"NGEL Deputy General Manager, Assistant Manager Online Form 2026",
+    organization:"NTPC Green Energy Limited (NGEL)",
+    orgWebsite:"https://www.ntpc.co.in",
+    category:"PSU", subCategory:"Manager",
+    totalPosts:75, lastDate:"2026-05-03", lastDateDisplay:"03 May 2026",
+    datePosted:"2026-04-07", validThrough:"2026-05-03T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:70000, salaryMax:200000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
+    qualification:"B.Tech/MBA", qualificationCode:"Graduate",
+    ageLimit:"30–45 Years", applyLink:"https://www.ntpc.co.in",
+    officialNotification:"https://www.ntpc.co.in",
+    fee:"Rs. 300/-", isNew:true, isFeatured:false,
+    tags:["ngel","ntpc","dgm","assistant manager","psu"],
+    description:"NGEL 75 posts for Deputy General Manager and Assistant Manager. Experienced B.Tech/MBA candidates apply.",
+    fullContent:`<h2>NGEL DGM Assistant Manager Recruitment 2026</h2>
+<p>NTPC Green Energy Limited invites applications for <strong>75 managerial</strong> positions for experienced professionals.</p>`
+  },
+  {
+    id:"aadhaar-operator-supervisor-2026",
+    title:"Aadhaar Operator Supervisor Recruitment 2026",
+    shortTitle:"Aadhaar Operator Supervisor Online Form 2026",
+    organization:"Unique Identification Authority of India (UIDAI)",
+    orgWebsite:"https://uidai.gov.in",
+    category:"Central Government", subCategory:"Operator/Supervisor",
+    totalPosts:8000, lastDate:"2026-04-30", lastDateDisplay:"30 April 2026",
+    datePosted:"2026-04-01", validThrough:"2026-04-30T23:59:00+05:30", employmentType:"CONTRACTOR",
+    salaryMin:15000, salaryMax:25000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
+    qualification:"12th Pass", qualificationCode:"12TH",
+    ageLimit:"18–35 Years", applyLink:"https://uidai.gov.in",
+    officialNotification:"https://uidai.gov.in",
+    fee:"No Fee", isNew:false, isFeatured:false,
+    tags:["aadhaar","uidai","operator","supervisor","12th pass"],
+    description:"UIDAI Aadhaar Operator and Supervisor certification for 12th pass candidates.",
+    fullContent:`<h2>Aadhaar Operator Supervisor Recruitment 2026</h2>
+<p>UIDAI enrolling Aadhaar Operators and Supervisors. 12th pass candidates must pass certification exam.</p>`
+  }
+];
+
+const PRIVATE_JOBS_DATA = [
+  {
+    id:"federal-bank-sales-2026",
+    title:"Federal Bank Sales Professionals Recruitment 2026",
+    shortTitle:"Federal Bank Sales Professionals Online Form 2026",
+    organization:"Federal Bank", orgWebsite:"https://www.federalbank.co.in",
+    category:"Private Bank", subCategory:"Sales",
+    totalPosts:200, lastDate:"2026-04-30", lastDateDisplay:"30 April 2026",
+    datePosted:"2026-04-05", validThrough:"2026-04-30T23:59:00+05:30", employmentType:"FULL_TIME",
+    salaryMin:25000, salaryMax:60000, salaryCurrency:"INR", salaryUnit:"MONTH",
+    location:"Pan India", addressLocality:"Aluva", addressRegion:"Kerala", addressCountry:"IN",
+    qualification:"Graduate", qualificationCode:"Graduate",
+    ageLimit:"22–28 Years", applyLink:"https://www.federalbank.co.in",
+    officialNotification:"https://www.federalbank.co.in",
+    fee:"No Fee", isNew:true, isFeatured:false,
+    tags:["federal bank","sales","private bank","graduate"],
+    description:"Federal Bank hiring 200 Sales Professionals across India. Graduates can apply.",
+    fullContent:`<h2>Federal Bank Sales Professionals 2026</h2>
+<p>Federal Bank invites applications for <strong>200 Sales Professional</strong> roles across India.</p>
+<h3>Eligibility</h3><ul><li>Age: 22–28 years</li><li>Graduate + Good communication skills</li></ul>`
+  }
+];
+
+const SCHEMES_DATA = [
+  {id:"pm-kisan",title:"PM Kisan Samman Nidhi Yojana",category:"Agriculture",benefit:"Rs. 6000/yr",eligibility:"All landholding farmers",isNew:false,applyLink:"https://pmkisan.gov.in",description:"Financial benefit of Rs. 6000 per year to all landholding farmer families in three equal installments."},
+  {id:"pm-awas",title:"PM Awas Yojana (PMAY)",category:"Housing",benefit:"Up to Rs. 2.67 Lakh",eligibility:"EWS/LIG/MIG families",isNew:false,applyLink:"https://pmaymis.gov.in",description:"Housing for all with interest subsidy on home loans under CLSS."},
+  {id:"sukanya-samriddhi",title:"Sukanya Samriddhi Yojana",category:"Finance",benefit:"8.2% interest rate",eligibility:"Girl child below 10 years",isNew:false,applyLink:"https://www.indiapost.gov.in",description:"Small savings scheme for girl child with high interest rate and tax benefits."},
+  {id:"ayushman-bharat",title:"Ayushman Bharat – PM Jan Arogya Yojana",category:"Health",benefit:"Rs. 5 Lakh health cover/year",eligibility:"Poor families as per SECC",isNew:false,applyLink:"https://pmjay.gov.in",description:"Health coverage of Rs. 5 lakh per family per year at empaneled hospitals."},
+  {id:"pm-mudra",title:"Pradhan Mantri MUDRA Yojana",category:"Business",benefit:"Loan up to Rs. 10 Lakh",eligibility:"Non-corporate micro enterprises",isNew:false,applyLink:"https://www.mudra.org.in",description:"Loans up to Rs. 10 lakh for small/micro enterprises. Shishu/Kishore/Tarun categories."}
+];
+
+const RESULTS_DATA = [
+  {title:"HSSC Constable Result 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
+  {title:"UPSSSC Instructor Result 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
+  {title:"AIIMS NORCET 10 Result 2026 – Out",date:"16 Apr 2026",link:"#",isNew:true},
+  {title:"Mumbai Railway Police Constable Result 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
+  {title:"CGPSC Asst Professor Final Result 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false},
+  {title:"RPSC School Lecturer Main Merit List 2026 – Out",date:"13 Apr 2026",link:"#",isNew:false},
+  {title:"CSIR NAL Technical Assistant Result 2026 – Out",date:"12 Apr 2026",link:"#",isNew:false},
+  {title:"Allahabad University Asst Professor Result 2026 – Out",date:"11 Apr 2026",link:"#",isNew:false},
+  {title:"BFUHS OTA and MLT Result 2026 – Out",date:"10 Apr 2026",link:"#",isNew:false},
+  {title:"UP LT Grade Result 2026 – Out",date:"09 Apr 2026",link:"#",isNew:false}
+];
+
+const ADMIT_CARDS_DATA = [
+  {title:"SSC CHSL Skill Test Admit Card 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
+  {title:"BPSC 71st Mains Admit Card 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
+  {title:"MPPSC Prelims Admit Card 2026 – Out",date:"16 Apr 2026",link:"#",isNew:true},
+  {title:"HSSC Constable Admit Card 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
+  {title:"AAI Junior Executive Admit Card 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false},
+  {title:"PSSSB PET Admit Card 2026 – Out",date:"13 Apr 2026",link:"#",isNew:false},
+  {title:"RSSB Platoon Commander PET Admit Card 2026 – Out",date:"12 Apr 2026",link:"#",isNew:false},
+  {title:"NPCIL Kakrapar Admit Card 2026 – Out",date:"11 Apr 2026",link:"#",isNew:false}
+];
+
+const ANSWER_KEYS_DATA = [
+  {title:"SSC JE Tier 2 Answer Key 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
+  {title:"UPSC NDA 1 Answer Key 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
+  {title:"MPPSC SET Answer Key 2026 – Out",date:"16 Apr 2026",link:"#",isNew:false},
+  {title:"Gujarat TAT HS Answer Key 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
+  {title:"DSSSB PRT Answer Key 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false}
+];
+
+function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.find(j=>j.id===id); }
+function searchJobs(q){ const s=q.toLowerCase(); return JOBS_DATA.filter(j=>j.title.toLowerCase().includes(s)||j.organization.toLowerCase().includes(s)||j.description.toLowerCase().includes(s)||(j.tags&&j.tags.some(t=>t.includes(s)))); }
+function getDaysLeft(d){ return Math.ceil((new Date(d)-new Date())/(1000*60*60*24)); }

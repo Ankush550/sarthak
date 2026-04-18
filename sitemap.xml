@@ -3,92 +3,108 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- Homepage – Highest Priority -->
+  <!-- Main Pages -->
   <url>
     <loc>https://sarthakyojana.in/</loc>
-    <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Sarkari Naukri / Govt Jobs -->
   <url>
     <loc>https://sarthakyojana.in/pages/jobs.html</loc>
-    <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.95</priority>
+    <priority>0.9</priority>
   </url>
-
-  <!-- Sarkari Yojana / Government Schemes -->
-  <url>
-    <loc>https://sarthakyojana.in/pages/schemes.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-
-  <!-- Results -->
   <url>
     <loc>https://sarthakyojana.in/pages/results.html</loc>
-    <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.90</priority>
+    <priority>0.9</priority>
   </url>
-
-  <!-- Private Jobs -->
+  <url>
+    <loc>https://sarthakyojana.in/pages/schemes.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://sarthakyojana.in/pages/private-jobs.html</loc>
-    <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <priority>0.8</priority>
   </url>
-
-  <!-- Private Jobs List -->
   <url>
     <loc>https://sarthakyojana.in/pages/private-jobs-list.html</loc>
-    <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.80</priority>
+    <priority>0.7</priority>
   </url>
-
-  <!-- Sarkari Rules / Govt News -->
-  <url>
-    <loc>https://sarthakyojana.in/pages/sarkari-rules.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Job Finder Tool -->
   <url>
     <loc>https://sarthakyojana.in/pages/job-finder.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
-
-  <!-- Search Page -->
-  <url>
-    <loc>https://sarthakyojana.in/pages/search.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
-  </url>
-
-  <!-- Sitemap HTML -->
   <url>
     <loc>https://sarthakyojana.in/pages/sitemap.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
   </url>
 
-  <!-- Tools Page -->
+  <!-- Job Detail Pages -->
   <url>
-    <loc>https://sarthakyojana.in/pages/tools.html</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=territorial-army-officer-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=crpf-constable-tradesman-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=powergrid-non-executive-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=rbi-junior-engineer-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=lic-hfl-junior-assistant-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=nhpc-apprentice-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=itbp-assistant-commandant-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=mcl-technician-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=secl-mining-sirdar-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bpcl-entry-level-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=ngel-dgm-am-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=aadhaar-operator-supervisor-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
