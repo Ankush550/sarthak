@@ -71,6 +71,26 @@ document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/j
 const all = [...JOBS_DATA, ...PRIVATE_JOBS_DATA, ...RESULTS_DATA, ...ADMIT_CARDS_DATA, ...ANSWER_KEYS_DATA];
 const job = all.find(j => j.id === id);
 
+// Auto-calculate status from lastDate if not explicitly set
+if (job && (!job.status || job.status === 'closed')) {
+  const ld = job.lastDate || job.lastDateDisplay;
+  if (ld) {
+    // Parse date like "2026-05-19" or "19 May 2026"
+    let d = new Date(ld);
+    if (isNaN(d.getTime())) {
+      // Try "DD May YYYY" format
+      const months = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+      const parts = ld.split(' ');
+      if (parts.length === 3) d = new Date(parseInt(parts[2]), months[parts[1]], parseInt(parts[0]));
+    }
+    const today = new Date(); today.setHours(0,0,0,0);
+    const diff = Math.ceil((d - today) / 86400000);
+    if (diff > 7) job.status = 'open';
+    else if (diff >= 0) job.status = 'closing_soon';
+    else job.status = 'expired';
+  }
+}
+
 if (!job) {
   document.getElementById('quickCard').innerHTML = '<div class="content-article"><p style="text-align:center;color:#c0392b;padding:20px;">Job not found. <a href="jobs.html">Browse All Jobs</a></p></div>';
 } else {

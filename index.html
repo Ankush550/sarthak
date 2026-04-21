@@ -93,14 +93,14 @@ document.getElementById('quickGrid').innerHTML = JOBS_DATA.slice(0,8).map((j,i)=
 const R = './';
 // Row 1
 document.getElementById('row1').innerHTML =
-  secBox('Results', RESULTS_DATA.map(r=>({label:r.title, href:r.link||'#', isNew:r.isNew})), R+'pages/results.html') +
-  secBox('Admit Cards', ADMIT_CARDS_DATA.map(a=>({label:a.title, href:a.link||'#', isNew:a.isNew})), R+'pages/results.html#admit') +
+  secBox('Results', RESULTS_DATA.map(r=>({label:r.title, href:R+'pages/item-detail.html?type=result&id='+r.id, isNew:r.isNew})), R+'pages/results.html') +
+  secBox('Admit Cards', ADMIT_CARDS_DATA.map(a=>({label:a.title, href:R+'pages/item-detail.html?type=admit&id='+a.id, isNew:a.isNew})), R+'pages/results.html#admit') +
   secBox('Latest Jobs', JOBS_DATA.map(j=>({label:j.title+' — '+(j.totalPosts||j.totalVacancies||'N/A')+' Posts', href:R+'pages/job-detail.html?id='+j.id, isNew:j.isNew})), R+'pages/jobs.html');
 
 // Row 2
 document.getElementById('row2').innerHTML =
-  secBox('Answer Key', ANSWER_KEYS_DATA.map(a=>({label:a.title, href:a.link||'#', isNew:a.isNew})), R+'pages/results.html#answer') +
-  secBox('Govt Schemes / Documents', SCHEMES_DATA.map(s=>({label:s.name, href:R+'pages/schemes.html#scheme-'+s.id})), R+'pages/schemes.html') +
+  secBox('Answer Key', ANSWER_KEYS_DATA.map(a=>({label:a.title, href:R+'pages/item-detail.html?type=answer&id='+a.id, isNew:a.isNew})), R+'pages/results.html#answer') +
+  secBox('Govt Schemes / Documents', SCHEMES_DATA.map(s=>({label:s.title||s.name, href:R+'pages/schemes.html#scheme-'+s.id})), R+'pages/schemes.html') +
   secBox('Admission', [
     {label:'JEE Main 2026 Registration Open', href:'#', isNew:true},
     {label:'NEET UG 2026 Admission Form', href:'#', isNew:true},

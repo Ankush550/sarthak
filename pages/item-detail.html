@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title id="pageTitle">Detail – SarthakYojana</title>
+<meta name="description" id="pageDesc" content="Check latest government exam results, admit cards and answer keys on SarthakYojana.in">
+<link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/item-detail.html">
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+.item-hero{border-radius:3px;overflow:hidden;margin-bottom:12px;}
+.item-hero-bar{padding:12px 16px;}
+.item-hero-bar h1{font-size:17px;font-weight:700;color:#fff;margin:0;}
+.item-hero-bar .sub{font-size:12px;color:rgba(255,255,255,.85);margin-top:4px;}
+.item-meta{background:#fff;border:1px solid #ddd;border-radius:3px;overflow:hidden;margin-bottom:12px;}
+.item-meta table{width:100%;border-collapse:collapse;font-size:13px;}
+.item-meta tr:nth-child(even){background:#f9f9f9;}
+.item-meta td{padding:8px 12px;border-bottom:1px solid #eee;}
+.item-meta td:first-child{font-weight:700;color:#555;width:38%;}
+.dl-box{border-radius:4px;padding:18px;text-align:center;margin-bottom:12px;}
+.dl-box h2{font-size:15px;margin-bottom:8px;}
+.dl-box p{font-size:12.5px;margin-bottom:12px;}
+.dl-btn{display:inline-block;padding:10px 28px;border-radius:4px;font-size:14px;font-weight:700;text-decoration:none;margin:4px;}
+.dl-btn-primary{background:#c0392b;color:#fff;}
+.dl-btn-primary:hover{background:#a93226;color:#fff;text-decoration:none;}
+.dl-btn-secondary{background:#1a1a1a;color:#fff;}
+.dl-btn-secondary:hover{background:#333;color:#fff;text-decoration:none;}
+.steps-box{background:#fff;border:1px solid #ddd;border-radius:3px;padding:14px;margin-bottom:12px;}
+.steps-box h2{font-size:14px;color:#c0392b;font-weight:700;border-bottom:1px solid #eee;padding-bottom:6px;margin-bottom:10px;}
+.step-item{display:flex;gap:12px;margin-bottom:10px;align-items:flex-start;}
+.step-num{background:#c0392b;color:#fff;width:24px;height:24px;border-radius:50%;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;}
+.step-text{font-size:12.5px;color:#444;line-height:1.6;}
+.notice-box{background:#fff8dc;border:1px solid #f0d080;border-radius:3px;padding:12px 14px;margin-bottom:12px;font-size:12.5px;color:#555;}
+.notice-box strong{color:#c0392b;}
+</style>
+</head>
+<body>
+<div id="site-header"></div>
+<div id="ticker-wrap"></div>
+<div class="breadcrumb"><div class="breadcrumb-inner" id="bc">
+  <a href="../index.html">Home</a> &rsaquo; Detail
+</div></div>
+
+<div class="center">
+  <div id="mainContent"></div>
+
+  <!-- Related items -->
+  <div class="sec-box" style="margin-top:10px;">
+    <div class="sec-hdr"><h2 id="relatedTitle">More Updates</h2></div>
+    <ul class="sec-list" id="relatedList"></ul>
+    <a href="results.html" class="view-more" id="viewAllLink">View All &raquo;</a>
+  </div>
+</div>
+
+<div id="site-footer"></div>
+<script src="../assets/jobs-data.js"></script>
+<script src="../assets/main.js"></script>
+<script>
+renderHeader('');
+renderTicker();
+renderFooter();
+
+const params = new URLSearchParams(window.location.search);
+const type = params.get('type'); // result | admit | answer
+const id   = params.get('id');
+
+document.getElementById('canonicalTag').href = window.location.href;
+
+const ALL = {
+  result: RESULTS_DATA,
+  admit:  ADMIT_CARDS_DATA,
+  answer: ANSWER_KEYS_DATA
+};
+
+const TYPE_LABELS = {
+  result: { label:'Result', color:'#c0392b', icon:'📊', viewAll:'results.html', dlLabel:'Check Result', sec:'All Results 2026' },
+  admit:  { label:'Admit Card', color:'#1a5276', icon:'🪪', viewAll:'results.html#admit', dlLabel:'Download Admit Card', sec:'All Admit Cards 2026' },
+  answer: { label:'Answer Key', color:'#1a7a3a', icon:'🗝️', viewAll:'results.html#answer', dlLabel:'Download Answer Key', sec:'All Answer Keys 2026' }
+};
+
+const dataset = ALL[type];
+const meta = TYPE_LABELS[type];
+
+if (!dataset || !meta) {
+  document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
+} else {
+  const item = dataset.find(x => x.id === id);
+
+  if (!item) {
+    document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Item not found. <a href="results.html">Browse All</a></p>';
+  } else {
+    // Page meta
+    document.title = item.title + ' | SarthakYojana.in';
+    document.getElementById('pageDesc').content = item.description || item.title + ' – Download from official website. Check complete details on SarthakYojana.in';
+    document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="results.html">${meta.sec}</a> &rsaquo; ${item.title}`;
+
+    // Build rows
+    const rows = [];
+    rows.push(['Organization', item.organization || '—']);
+    if (item.postName) rows.push([meta.label + ' For', item.postName]);
+    rows.push([meta.label + ' Date', item.declaredDate || item.date || '—']);
+    if (item.examDate)         rows.push(['Exam Date', item.examDate]);
+    if (item.objectionDeadline) rows.push(['Objection Last Date', `<strong style="color:#c0392b;">${item.objectionDeadline}</strong>`]);
+
+    // How-to steps
+    const rawSteps = item.howToCheck || item.howToDownload || '';
+    const steps = rawSteps.split('→').map(s => s.trim()).filter(Boolean);
+
+    // Build content
+    document.getElementById('mainContent').innerHTML = `
+      <div class="item-hero">
+        <div class="item-hero-bar" style="background:${meta.color};">
+          <h1>${item.title}</h1>
+          <div class="sub">${item.organization} &nbsp;|&nbsp; ${meta.label}</div>
+        </div>
+      </div>
+
+      <div class="notice-box">
+        <strong>Status: ${meta.label} Released!</strong> &nbsp; Official link is available below. Always download from official website only.
+      </div>
+
+      <div class="item-meta">
+        <table>
+          ${rows.map(([k,v])=>`<tr><td>${k}</td><td>${v}</td></tr>`).join('')}
+        </table>
+      </div>
+
+      <div class="dl-box" style="background:${meta.color}10;border:1px solid ${meta.color}40;">
+        <h2 style="color:${meta.color};">${item.icon || ''} ${item.title}</h2>
+        <p style="color:#555;">${item.description || 'Click the button below to access the official website.'}</p>
+        <a href="${item.link}" class="dl-btn dl-btn-primary" target="_blank" rel="nofollow noopener">${meta.dlLabel} &rarr;</a>
+        <a href="${item.link}" class="dl-btn dl-btn-secondary" target="_blank" rel="nofollow noopener">Official Website</a>
+        <p style="font-size:11px;color:#999;margin-top:12px;">You will be redirected to the official website of ${item.organization}. SarthakYojana.in is not the official website.</p>
+      </div>
+
+      ${steps.length > 1 ? `<div class="steps-box">
+        <h2>How to ${type === 'result' ? 'Check Result' : 'Download ' + meta.label}</h2>
+        ${steps.map((s,i)=>`<div class="step-item"><div class="step-num">${i+1}</div><div class="step-text">${s}</div></div>`).join('')}
+      </div>` : ''}
+
+      ${item.documentsRequired ? `<div class="steps-box">
+        <h2>Documents Required at Exam Centre</h2>
+        <ul style="font-size:12.5px;color:#444;padding-left:16px;list-style:disc;">
+          ${item.documentsRequired.split('+').map(d=>`<li>${d.trim()}</li>`).join('')}
+        </ul>
+      </div>` : ''}
+
+      ${item.objectionProcess ? `<div class="steps-box">
+        <h2>How to Raise Objection</h2>
+        <p style="font-size:12.5px;color:#444;line-height:1.7;">${item.objectionProcess}</p>
+      </div>` : ''}
+
+      <div class="content-section">
+        <h2>About ${item.organization}</h2>
+        <p>${item.organization} regularly conducts competitive examinations for various posts in India. Candidates appearing in these exams should bookmark SarthakYojana.in for instant updates on results, admit cards, answer keys, and new recruitment notifications.</p>
+        <h3>Important Tips for Candidates</h3>
+        <ul>
+          <li>Always download ${meta.label.toLowerCase()} from the <strong>official website</strong> only.</li>
+          <li>Keep multiple printout copies of your ${meta.label.toLowerCase()}.</li>
+          <li>Carry a valid photo ID (Aadhaar / PAN / Voter ID) along with the document.</li>
+          <li>Check for any corrigendum or updates on the official website regularly.</li>
+          <li>If the official link is not working, try again after some time or clear browser cache.</li>
+        </ul>
+      </div>`;
+
+    // Related items
+    const related = dataset.filter(x => x.id !== id).slice(0, 8);
+    document.getElementById('relatedTitle').textContent = 'More ' + meta.sec;
+    document.getElementById('viewAllLink').href = meta.viewAll;
+    document.getElementById('relatedList').innerHTML = related.map(r =>
+      `<li><a href="item-detail.html?type=${type}&id=${r.id}">${r.title}${r.isNew ? '<span class="new-tag">NEW</span>' : ''}</a></li>`
+    ).join('');
+  }
+}
+</script>
+</body>
+</html>

@@ -92,18 +92,18 @@ renderTicker();
 renderFooter();
 
 document.getElementById('resultsList').innerHTML = RESULTS_DATA.map(r=>
-  `<li><a href="${r.link||'#'}" target="_blank" rel="noopener">${r.title}${r.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
+  `<li><a href="item-detail.html?type=result&id=${r.id}">${r.title}${r.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
 document.getElementById('admitList').innerHTML = ADMIT_CARDS_DATA.map(a=>
-  `<li><a href="${a.link||'#'}" target="_blank" rel="noopener">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
+  `<li><a href="item-detail.html?type=admit&id=${a.id}">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
 document.getElementById('answerList').innerHTML = ANSWER_KEYS_DATA.map(a=>
-  `<li><a href="${a.link||'#'}" target="_blank" rel="noopener">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
+  `<li><a href="item-detail.html?type=answer&id=${a.id}">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
 
 document.getElementById('resultsTable').innerHTML = RESULTS_DATA.map((r,i)=>
-  `<tr><td>${i+1}</td><td><a href="${r.link||'#'}" target="_blank" rel="noopener" style="color:#c0392b;">${r.title}</a></td><td>${r.organization||'—'}</td><td>${r.date||'—'}</td><td><a href="${r.link||'#'}" target="_blank" rel="noopener" class="apply-small">Check</a></td></tr>`).join('');
+  `<tr><td>${i+1}</td><td><a href="item-detail.html?type=result&id=${r.id}" style="color:#c0392b;">${r.title}</a></td><td>${r.organization||'—'}</td><td>${r.date||'—'}</td><td><a href="item-detail.html?type=result&id=${r.id}" class="apply-small">Check</a></td></tr>`).join('');
 document.getElementById('admitTable').innerHTML = ADMIT_CARDS_DATA.map((a,i)=>
-  `<tr><td>${i+1}</td><td><a href="${a.link||'#'}" target="_blank" rel="noopener" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.examDate||'—'}</td><td><a href="${a.link||'#'}" target="_blank" rel="noopener" class="apply-small">Download</a></td></tr>`).join('');
+  `<tr><td>${i+1}</td><td><a href="item-detail.html?type=admit&id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.examDate||'—'}</td><td><a href="item-detail.html?type=admit&id=${a.id}" class="apply-small">Download</a></td></tr>`).join('');
 document.getElementById('answerTable').innerHTML = ANSWER_KEYS_DATA.map((a,i)=>
-  `<tr><td>${i+1}</td><td><a href="${a.link||'#'}" target="_blank" rel="noopener" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.date||'—'}</td><td><a href="${a.link||'#'}" target="_blank" rel="noopener" class="apply-small">Download</a></td></tr>`).join('');
+  `<tr><td>${i+1}</td><td><a href="item-detail.html?type=answer&id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.date||'—'}</td><td><a href="item-detail.html?type=answer&id=${a.id}" class="apply-small">Download</a></td></tr>`).join('');
 </script>
 </body>
 </html>

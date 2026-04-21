@@ -79,21 +79,39 @@ renderHeader('Latest Job');
 renderTicker();
 renderFooter();
 
+function getStatus(j) {
+  const ld = j.lastDate || j.lastDateDisplay;
+  if (!ld) return j.status || 'open';
+  const months = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+  let d = new Date(ld);
+  if (isNaN(d.getTime())) {
+    const parts = ld.split(' ');
+    if (parts.length === 3) d = new Date(parseInt(parts[2]), months[parts[1]], parseInt(parts[0]));
+  }
+  const today = new Date(); today.setHours(0,0,0,0);
+  const diff = Math.ceil((d - today) / 86400000);
+  if (diff > 7) return 'open';
+  if (diff >= 0) return 'closing_soon';
+  return 'expired';
+}
+
 function renderTable(data) {
   const tbody = document.getElementById('jobsTbody');
   const empty = document.getElementById('noJobs');
   if (!data.length) { tbody.innerHTML=''; empty.style.display='block'; return; }
   empty.style.display='none';
-  tbody.innerHTML = data.map((j,i)=>`<tr>
+  tbody.innerHTML = data.map((j,i)=>{
+    const st = getStatus(j);
+    return `<tr>
     <td>${i+1}</td>
     <td><a href="job-detail.html?id=${j.id}" style="color:#c0392b;font-weight:700;">${j.title}</a></td>
     <td>${j.organization}</td>
     <td>${j.totalPosts||j.totalVacancies||'N/A'}</td>
     <td>${j.qualification||'N/A'}</td>
     <td style="color:#c0392b;white-space:nowrap;">${j.lastDateDisplay||j.lastDate}</td>
-    <td><span class="badge-${j.status==='open'?'open':j.status==='closing_soon'?'soon':'closed'}">${j.status==='open'?'Open':j.status==='closing_soon'?'Closing Soon':'Closed'}</span></td>
+    <td><span class="badge-${st==='open'?'open':st==='closing_soon'?'soon':'closed'}">${st==='open'?'Open':st==='closing_soon'?'Closing Soon':'Expired'}</span></td>
     <td><a href="job-detail.html?id=${j.id}" class="apply-small">Apply</a></td>
-  </tr>`).join('');
+  </tr>`;}).join('');
 }
 
 function applyFilter() {
