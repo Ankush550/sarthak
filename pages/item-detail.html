@@ -92,6 +92,45 @@ if (!dataset || !meta) {
     // Page meta
     document.title = item.title + ' | SarthakYojana.in';
     document.getElementById('pageDesc').content = item.description || item.title + ' – Download from official website. Check complete details on SarthakYojana.in';
+    
+    // JSON-LD Schema - Article schema for all types
+    const schemaType = type === 'admit' ? 'Admit Card' : type === 'answer' ? 'Answer Key' : 'Exam Result';
+    const articleSchema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": item.title,
+      "description": item.description || item.title + ' – Official link and details on SarthakYojana.in.',
+      "datePublished": item.declaredDate || item.date || new Date().toISOString().split('T')[0],
+      "dateModified": new Date().toISOString().split('T')[0],
+      "author": {"@type":"Organization","name":"SarthakYojana.in","url":"https://sarthakyojana.in"},
+      "publisher": {
+        "@type": "Organization",
+        "name": "SarthakYojana.in",
+        "url": "https://sarthakyojana.in",
+        "logo": {"@type":"ImageObject","url":"https://sarthakyojana.in/assets/logo.png"}
+      },
+      "mainEntityOfPage": {"@type":"WebPage","@id":window.location.href},
+      "keywords": item.title + ', ' + item.organization + ', ' + schemaType + ' 2026, Sarkari Result'
+    };
+    const ss = document.createElement('script');
+    ss.type = 'application/ld+json';
+    ss.text = JSON.stringify(articleSchema);
+    document.head.appendChild(ss);
+    
+    // BreadcrumbList
+    const bcSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type":"ListItem","position":1,"name":"Home","item":"https://sarthakyojana.in/"},
+        {"@type":"ListItem","position":2,"name":meta.sec,"item":"https://sarthakyojana.in/pages/results.html"},
+        {"@type":"ListItem","position":3,"name":item.title,"item":window.location.href}
+      ]
+    };
+    const bcs = document.createElement('script');
+    bcs.type = 'application/ld+json';
+    bcs.text = JSON.stringify(bcSchema);
+    document.head.appendChild(bcs);
     document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="results.html">${meta.sec}</a> &rsaquo; ${item.title}`;
 
     // Build rows
