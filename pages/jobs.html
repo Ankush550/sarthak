@@ -88,9 +88,9 @@ function renderTable(data) {
     <td>${i+1}</td>
     <td><a href="job-detail.html?id=${j.id}" style="color:#c0392b;font-weight:700;">${j.title}</a></td>
     <td>${j.organization}</td>
-    <td>${j.totalVacancies||'N/A'}</td>
+    <td>${j.totalPosts||j.totalVacancies||'N/A'}</td>
     <td>${j.qualification||'N/A'}</td>
-    <td style="color:#c0392b;white-space:nowrap;">${j.lastDate}</td>
+    <td style="color:#c0392b;white-space:nowrap;">${j.lastDateDisplay||j.lastDate}</td>
     <td><span class="badge-${j.status==='open'?'open':j.status==='closing_soon'?'soon':'closed'}">${j.status==='open'?'Open':j.status==='closing_soon'?'Closing Soon':'Closed'}</span></td>
     <td><a href="job-detail.html?id=${j.id}" class="apply-small">Apply</a></td>
   </tr>`).join('');

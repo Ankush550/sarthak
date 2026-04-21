@@ -49,7 +49,7 @@ renderHeader('Sitemap');
 renderTicker();
 renderFooter();
 document.getElementById('smJobs').innerHTML=JOBS_DATA.map(j=>`<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization}</a></li>`).join('');
-document.getElementById('smResults').innerHTML=[...RESULTS_DATA,...ADMIT_CARDS_DATA,...ANSWER_KEYS_DATA].map(r=>`<li><a href="job-detail.html?id=${r.id}">${r.title}</a></li>`).join('');
+document.getElementById('smResults').innerHTML=[...RESULTS_DATA,...ADMIT_CARDS_DATA,...ANSWER_KEYS_DATA].map(r=>`<li><a href="${r.link||'#'}" target="_blank" rel="noopener">${r.title}</a></li>`).join('');
 </script>
 </body>
 </html>

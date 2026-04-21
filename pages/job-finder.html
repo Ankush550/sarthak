@@ -124,7 +124,7 @@ function renderFinder(data) {
     <td>${i+1}</td>
     <td><a href="job-detail.html?id=${j.id}" style="color:#c0392b;">${j.title}</a></td>
     <td>${j.organization}</td>
-    <td>${j.totalVacancies||'N/A'}</td>
+    <td>${j.totalPosts||j.totalVacancies||'N/A'}</td>
     <td>${j.qualification||'N/A'}</td>
     <td>${j.salaryMin?'₹'+j.salaryMin.toLocaleString():'N/A'}</td>
     <td style="color:#c0392b;white-space:nowrap;">${j.lastDate||'—'}</td>

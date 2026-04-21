@@ -327,35 +327,35 @@ const SCHEMES_DATA = [
 ];
 
 const RESULTS_DATA = [
-  {title:"HSSC Constable Result 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
-  {title:"UPSSSC Instructor Result 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
-  {title:"AIIMS NORCET 10 Result 2026 – Out",date:"16 Apr 2026",link:"#",isNew:true},
-  {title:"Mumbai Railway Police Constable Result 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
-  {title:"CGPSC Asst Professor Final Result 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false},
-  {title:"RPSC School Lecturer Main Merit List 2026 – Out",date:"13 Apr 2026",link:"#",isNew:false},
-  {title:"CSIR NAL Technical Assistant Result 2026 – Out",date:"12 Apr 2026",link:"#",isNew:false},
-  {title:"Allahabad University Asst Professor Result 2026 – Out",date:"11 Apr 2026",link:"#",isNew:false},
-  {title:"BFUHS OTA and MLT Result 2026 – Out",date:"10 Apr 2026",link:"#",isNew:false},
-  {title:"UP LT Grade Result 2026 – Out",date:"09 Apr 2026",link:"#",isNew:false}
+  {id:"hssc-constable-result-2026",organization:"HSSC",title:"HSSC Constable Result 2026 – Out",date:"18 Apr 2026",link:"https://www.hssc.gov.in",isNew:true},
+  {id:"upsssc-instructor-result-2026",organization:"UPSSSC",title:"UPSSSC Instructor Result 2026 – Out",date:"17 Apr 2026",link:"https://upsssc.gov.in",isNew:true},
+  {id:"aiims-norcet-result-2026",organization:"AIIMS",title:"AIIMS NORCET 10 Result 2026 – Out",date:"16 Apr 2026",link:"https://www.aiimsexams.ac.in",isNew:true},
+  {id:"mumbai-railway-police-result-2026",organization:"Mumbai Railway Police",title:"Mumbai Railway Police Constable Result 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
+  {id:"cgpsc-asst-professor-result-2026",organization:"CGPSC",title:"CGPSC Asst Professor Final Result 2026 – Out",date:"14 Apr 2026",link:"https://psc.cg.gov.in",isNew:false},
+  {id:"rpsc-school-lecturer-result-2026",organization:"RPSC",title:"RPSC School Lecturer Main Merit List 2026 – Out",date:"13 Apr 2026",link:"https://rpsc.rajasthan.gov.in",isNew:false},
+  {id:"csir-nal-result-2026",organization:"CSIR NAL",title:"CSIR NAL Technical Assistant Result 2026 – Out",date:"12 Apr 2026",link:"#",isNew:false},
+  {id:"allahabad-university-result-2026",organization:"Allahabad University",title:"Allahabad University Asst Professor Result 2026 – Out",date:"11 Apr 2026",link:"https://www.allduniv.ac.in",isNew:false},
+  {id:"bfuhs-ota-mlt-result-2026",organization:"BFUHS",title:"BFUHS OTA and MLT Result 2026 – Out",date:"10 Apr 2026",link:"#",isNew:false},
+  {id:"up-lt-grade-result-2026",organization:"UP Basic Shiksha Parishad",title:"UP LT Grade Result 2026 – Out",date:"09 Apr 2026",link:"#",isNew:false}
 ];
 
 const ADMIT_CARDS_DATA = [
-  {title:"SSC CHSL Skill Test Admit Card 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
-  {title:"BPSC 71st Mains Admit Card 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
-  {title:"MPPSC Prelims Admit Card 2026 – Out",date:"16 Apr 2026",link:"#",isNew:true},
-  {title:"HSSC Constable Admit Card 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
-  {title:"AAI Junior Executive Admit Card 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false},
-  {title:"PSSSB PET Admit Card 2026 – Out",date:"13 Apr 2026",link:"#",isNew:false},
-  {title:"RSSB Platoon Commander PET Admit Card 2026 – Out",date:"12 Apr 2026",link:"#",isNew:false},
-  {title:"NPCIL Kakrapar Admit Card 2026 – Out",date:"11 Apr 2026",link:"#",isNew:false}
+  {id:"ssc-chsl-skill-admit-2026",organization:"SSC",title:"SSC CHSL Skill Test Admit Card 2026 – Out",date:"18 Apr 2026",examDate:"May 2026",link:"https://ssc.gov.in",isNew:true},
+  {id:"bpsc-71-mains-admit-2026",organization:"BPSC",title:"BPSC 71st Mains Admit Card 2026 – Out",date:"17 Apr 2026",examDate:"May 2026",link:"https://bpsc.bih.nic.in",isNew:true},
+  {id:"mppsc-prelims-admit-2026",organization:"MPPSC",title:"MPPSC Prelims Admit Card 2026 – Out",date:"16 Apr 2026",examDate:"May 2026",link:"https://mppsc.mp.gov.in",isNew:true},
+  {id:"hssc-constable-admit-2026",organization:"HSSC",title:"HSSC Constable Admit Card 2026 – Out",date:"15 Apr 2026",examDate:"Apr 2026",link:"https://www.hssc.gov.in",isNew:false},
+  {id:"aai-junior-executive-admit-2026",organization:"AAI",title:"AAI Junior Executive Admit Card 2026 – Out",date:"14 Apr 2026",examDate:"May 2026",link:"https://www.aai.aero",isNew:false},
+  {id:"psssb-pet-admit-2026",organization:"PSSSB",title:"PSSSB PET Admit Card 2026 – Out",date:"13 Apr 2026",examDate:"May 2026",link:"#",isNew:false},
+  {id:"rssb-platoon-admit-2026",organization:"RSSB",title:"RSSB Platoon Commander PET Admit Card 2026 – Out",date:"12 Apr 2026",examDate:"May 2026",link:"#",isNew:false},
+  {id:"npcil-kakrapar-admit-2026",organization:"NPCIL",title:"NPCIL Kakrapar Admit Card 2026 – Out",date:"11 Apr 2026",examDate:"May 2026",link:"https://www.npcil.nic.in",isNew:false}
 ];
 
 const ANSWER_KEYS_DATA = [
-  {title:"SSC JE Tier 2 Answer Key 2026 – Out",date:"18 Apr 2026",link:"#",isNew:true},
-  {title:"UPSC NDA 1 Answer Key 2026 – Out",date:"17 Apr 2026",link:"#",isNew:true},
-  {title:"MPPSC SET Answer Key 2026 – Out",date:"16 Apr 2026",link:"#",isNew:false},
-  {title:"Gujarat TAT HS Answer Key 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
-  {title:"DSSSB PRT Answer Key 2026 – Out",date:"14 Apr 2026",link:"#",isNew:false}
+  {id:"ssc-je-tier2-answerkey-2026",organization:"SSC",title:"SSC JE Tier 2 Answer Key 2026 – Out",date:"18 Apr 2026",link:"https://ssc.gov.in",isNew:true},
+  {id:"upsc-nda1-answerkey-2026",organization:"UPSC",title:"UPSC NDA 1 Answer Key 2026 – Out",date:"17 Apr 2026",link:"https://upsc.gov.in",isNew:true},
+  {id:"mppsc-set-answerkey-2026",organization:"MPPSC",title:"MPPSC SET Answer Key 2026 – Out",date:"16 Apr 2026",link:"https://mppsc.mp.gov.in",isNew:false},
+  {id:"gujarat-tat-answerkey-2026",organization:"Gujarat TAT",title:"Gujarat TAT HS Answer Key 2026 – Out",date:"15 Apr 2026",link:"#",isNew:false},
+  {id:"dsssb-prt-answerkey-2026",organization:"DSSSB",title:"DSSSB PRT Answer Key 2026 – Out",date:"14 Apr 2026",link:"https://dsssb.delhi.gov.in",isNew:false}
 ];
 
 function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.find(j=>j.id===id); }
