@@ -152,3 +152,29 @@ function doSearch(q) {
     (j.qualification||'').toLowerCase().includes(lq)
   );
 }
+
+
+// ===== COOKIE CONSENT (GDPR/AdSense Compliance) =====
+function renderCookieConsent() {
+  if (localStorage.getItem('cookieConsent') === 'accepted') return;
+  
+  const banner = document.createElement('div');
+  banner.id = 'cookie-consent';
+  banner.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;color:#ccc;padding:12px 16px;z-index:9999;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:12px;font-family:Arial,sans-serif;';
+  banner.innerHTML = `
+    <div style="flex:1;min-width:200px;line-height:1.5;">
+      <strong style="color:#fff;">We use cookies</strong> — SarthakYojana.in uses cookies and Google AdSense to serve relevant ads and improve your experience. 
+      By continuing, you agree to our <a href="${SITE.root}pages/privacy-policy.html" style="color:#f9a825;">Privacy Policy</a>.
+    </div>
+    <div style="display:flex;gap:8px;flex-shrink:0;">
+      <button onclick="document.getElementById('cookie-consent').style.display='none';localStorage.setItem('cookieConsent','accepted');" 
+        style="background:#c0392b;color:#fff;border:none;padding:8px 18px;border-radius:3px;cursor:pointer;font-size:12px;font-weight:700;">
+        Accept
+      </button>
+      <a href="${SITE.root}pages/privacy-policy.html" 
+        style="background:transparent;color:#aaa;border:1px solid #555;padding:8px 14px;border-radius:3px;cursor:pointer;font-size:12px;text-decoration:none;display:inline-block;">
+        Learn More
+      </a>
+    </div>`;
+  document.body.appendChild(banner);
+}

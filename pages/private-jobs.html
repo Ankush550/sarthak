@@ -7,6 +7,7 @@
 <meta name="description" content="Private Jobs 2026 – Latest Private Sector Jobs India. Apply Online for IT, Banking, Manufacturing, Healthcare jobs. Fresher & Experienced vacancies updated daily.">
 <link rel="canonical" href="https://sarthakyojana.in/pages/private-jobs.html">
 <link rel="stylesheet" href="../assets/style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-8602963796651751" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="site-header"></div>
@@ -71,6 +72,18 @@
     <p>Create profiles on job portals like Naukri.com, LinkedIn, Indeed, and Internshala. Keep your resume updated. Apply directly on company career pages. Attend walk-in drives for immediate opportunities. Network through LinkedIn and professional associations for referral-based hiring.</p>
   </div>
 
+  <!-- AdSense Banner -->
+  <div style="margin:10px 0;">
+    <p style="font-size:11px;color:#888;text-align:center;margin:0 0 3px;">Advertisements</p>
+    <ins class="adsbygoogle"
+         style="display:block;width:100%;min-height:90px;"
+         data-ad-client="pub-8602963796651751"
+         data-ad-slot="XXXXXXXXXX"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
 <div id="site-footer"></div>
 <script src="../assets/jobs-data.js"></script>
 <script src="../assets/main.js"></script>
@@ -78,6 +91,7 @@
 renderHeader('Private Jobs');
 renderTicker();
 renderFooter();
+renderCookieConsent();
 document.getElementById('total').textContent = PRIVATE_JOBS_DATA.length || '10+';
 document.getElementById('openJobs').textContent = PRIVATE_JOBS_DATA.filter(j=>j.status==='open').length || '8+';
 document.getElementById('fresher').textContent = PRIVATE_JOBS_DATA.filter(j=>(j.experience||'').toLowerCase().includes('fresh')).length || '3+';

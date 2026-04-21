@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 renderHeader('');
 renderTicker();
 renderFooter();
+renderCookieConsent();
 
 const q = new URLSearchParams(window.location.search).get('q') || '';
 if (q) { document.getElementById('searchInput').value = q; document.title = q + ' – Search | SarthakYojana'; showResults(q); }

@@ -47,9 +47,6 @@ img{max-width:100%;}
 .ql-blue{background:#2980b9;}
 .ql-orange{background:#e67e22;}
 
-/* ===== AD BANNER ===== */
-.ad-banner{background:#e8e8e8;border:1px solid #ccc;min-height:90px;margin:10px 0;display:flex;align-items:center;justify-content:center;color:#999;font-size:12px;border-radius:3px;overflow:hidden;}
-
 /* ===== 3-COL GRID ===== */
 .three-col{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:8px 0;}
 
@@ -149,3 +146,8 @@ img{max-width:100%;}
   .nav-inner a{padding:6px 7px;font-size:11px;}
   .footer-main{grid-template-columns:1fr;}
 }
+
+/* ===== AD BANNER – AdSense Compliant ===== */
+.ad-banner-wrap{margin:12px 0;text-align:center;}
+.ad-banner-label{display:block;font-size:11px;color:#888;text-align:center;margin-bottom:3px;letter-spacing:.3px;}
+.ad-banner{background:#f9f9f9;border:1px solid #eee;min-height:90px;overflow:hidden;display:flex;align-items:center;justify-content:center;}

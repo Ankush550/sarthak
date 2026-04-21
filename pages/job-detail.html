@@ -25,6 +25,7 @@
 .content-article table tr:nth-child(even){background:#f9f9f9;}
 .content-article table td{padding:6px 10px;border:1px solid #e8e8e8;}
 </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-8602963796651751" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="site-header"></div>
@@ -35,6 +36,21 @@
 
   <!-- Quick Info Card -->
   <div id="quickCard"></div>
+
+
+  <!-- Advertisements -->
+  <div class="ad-banner-wrap">
+    <span class="ad-banner-label">Advertisements</span>
+    <div class="ad-banner">
+      <ins class="adsbygoogle"
+           style="display:block;width:100%;min-height:90px;"
+           data-ad-client="pub-8602963796651751"
+           data-ad-slot="1013901637"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </div>
 
   <!-- Full Article Content -->
   <div class="content-article" id="fullContent"></div>
@@ -64,6 +80,7 @@
 renderHeader('Latest Job');
 renderTicker();
 renderFooter();
+renderCookieConsent();
 
 const id = new URLSearchParams(window.location.search).get('id') || '';
 document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + id;

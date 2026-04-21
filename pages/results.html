@@ -18,6 +18,7 @@
   "publisher": {"@type":"Organization","name":"SarthakYojana.in","url":"https://sarthakyojana.in"}
 }
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-8602963796651751" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="site-header"></div>
@@ -106,6 +107,18 @@
     <p>Most recruitment boards release provisional answer keys after the examination and allow candidates to raise objections against incorrect answers within a specified window (usually 3–7 days). Each objection typically requires a fee of Rs. 100 per question. After reviewing objections, a final answer key is released and the result is computed based on the final answer key.</p>
   </div>
 
+  <!-- AdSense Banner -->
+  <div style="margin:10px 0;">
+    <p style="font-size:11px;color:#888;text-align:center;margin:0 0 3px;">Advertisements</p>
+    <ins class="adsbygoogle"
+         style="display:block;width:100%;min-height:90px;"
+         data-ad-client="pub-8602963796651751"
+         data-ad-slot="1013901637"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
 <div id="site-footer"></div>
 <script src="../assets/jobs-data.js"></script>
 <script src="../assets/main.js"></script>
@@ -113,6 +126,7 @@
 renderHeader('Result');
 renderTicker();
 renderFooter();
+renderCookieConsent();
 
 document.getElementById('resultsList').innerHTML = RESULTS_DATA.map(r=>
   `<li><a href="item-detail.html?type=result&id=${r.id}">${r.title}${r.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('');
