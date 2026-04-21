@@ -661,6 +661,14 @@ JOB_CONTENT["ssc-selection-post-phase14-2026"] = `
 <p><strong>Q: Can a candidate apply for multiple posts under SSC Phase 14?</strong><br>A: Yes, candidates can apply for more than one post, but they must submit separate applications for each post as per their eligibility level (Matric/10+2/Graduate).</p>
 <p><strong>Q: Are GSI posts available in Phase 14?</strong><br>A: No. GSI (Geological Survey of India) posts have been cancelled and removed via addendum. DRDO vacancies have been added in their place.</p>
 <p><strong>Q: When will the CBE be conducted?</strong><br>A: The Computer Based Examination is tentatively scheduled for June 2026. Exact dates will be notified on ssc.gov.in.</p>
+
+<h2>Preparation Strategy for SSC Selection Post Phase 14</h2>
+<p>For the Computer Based Examination, candidates should focus on all four sections equally as each carries 25 marks. General Intelligence includes analogies, series, coding-decoding, blood relations, and matrix-based questions. General Awareness covers Indian history, polity, geography, science, current affairs, and economy. Quantitative Aptitude tests simplification, percentage, ratio, average, time-work, and data interpretation. English Language tests grammar, vocabulary, reading comprehension, and sentence correction.</p>
+<p><strong>Recommended study approach:</strong> Start with the official SSC Phase 14 notification to identify the exact post you qualify for. Since each CBT is level-specific (Matric/10+2/Graduate), focus your preparation accordingly. Practice previous year SSC Selection Post papers (Phase 9 to Phase 13) available on SSC's official website. These papers follow the same pattern and difficulty level.</p>
+<h3>Skill Tests for Specific Posts</h3>
+<p>For posts requiring typing skills, practice achieving the prescribed speed (usually 35 WPM in English or 30 WPM in Hindi). For data entry posts, practice numeric and alphanumeric data entry speed as per the User Department's requirements. All skill tests are qualifying — they don't add to your score but must be cleared.</p>
+<h3>Document Verification Preparation</h3>
+<p>Keep all original documents ready: education certificates and mark sheets from 10th onwards, caste/EWS certificate (in GOI format), Aadhaar card, and any sports/NCC achievement certificates. Ensure caste certificates are recent and from a competent authority as per GOI format.</p>
 `;
 
 JOB_CONTENT["bpcl-entry-level-250-2026"] = `
@@ -742,6 +750,13 @@ JOB_CONTENT["bpcl-entry-level-250-2026"] = `
 <p><strong>Q: Is GATE score required for BPCL 250 Posts 2026?</strong><br>A: No. This recruitment does not require GATE score. It is based on Diploma qualification and relevant work experience for engineering posts.</p>
 <p><strong>Q: Can freshers apply for this recruitment?</strong><br>A: No. All profiles require a minimum of 3 to 5 years of relevant post-qualification work experience.</p>
 <p><strong>Q: Is there a service bond at BPCL?</strong><br>A: BPCL may have a service agreement; details are communicated at the time of appointment. Refer to your offer letter for specific bond conditions.</p>
+
+<h2>Why Apply for BPCL Entry Level 2026?</h2>
+<p>BPCL is consistently ranked among India's best employers in the PSU sector. The company's progressive work culture, learning and development opportunities, and pan-India presence make it a top choice for experienced diploma and graduate professionals. The entry-level roles offer direct exposure to BPCL's massive operations in petroleum, LPG, lubricants, aviation fuel, and wayside amenities businesses.</p>
+<h3>Career Growth at BPCL</h3>
+<p>Junior Executives join at E1 Grade and can progress to Senior Executives (E2), Assistant Managers (E3), Deputy Managers (E4), and beyond through annual performance appraisals and internal promotions. BPCL has a transparent Performance Management System and provides regular training through its in-house learning centres and tie-ups with premier institutes like IIMs.</p>
+<h3>BPCL Work Culture</h3>
+<p>BPCL has a 5-day work week at most corporate offices, a flexible benefits cafeteria system, strong focus on employee health and wellness, and regular staff engagement initiatives. The company provides subsidised LPG, fuel cards, concessional loans, and comprehensive medical coverage for employees and their families, making the effective compensation significantly higher than the gross CTC figures suggest.</p>
 `;
 
 JOB_CONTENT["ssb-paramedical-2026"] = `
@@ -812,6 +827,12 @@ JOB_CONTENT["ssb-paramedical-2026"] = `
 <p><strong>Q: Can I apply for both Head Constable and Constable posts?</strong><br>A: No. A candidate can apply for only one post in this recruitment cycle.</p>
 <p><strong>Q: Are female candidates eligible?</strong><br>A: Yes, female candidates can apply and are exempted from the application fee.</p>
 <p><strong>Q: What is the age as on which date?</strong><br>A: Age is calculated as on the closing date of receipt of applications (04 May 2026).</p>
+
+<h2>Career Prospects After SSB Paramedical Recruitment</h2>
+<p>Head Constables and Constables in SSB's paramedical cadre have clear promotion pathways. Through departmental examinations and seniority-based promotion, HC can be promoted to ASI (Assistant Sub Inspector) and further to Sub Inspector, Inspector, and beyond. The promotions come with corresponding pay hikes and enhanced job responsibilities.</p>
+<p>Working in SSB provides unique career exposure — postings span Nepal border areas in Uttarakhand, Bihar, West Bengal, Sikkim, and Bhutan border areas in Arunachal Pradesh and Assam. The work environment is disciplined, respectful, and professionally rewarding. Free housing at SSB camps, mess facilities, and border area allowances significantly enhance the take-home compensation over and above the official pay scale.</p>
+<h3>Training Details</h3>
+<p>Newly recruited SSB paramedical personnel undergo initial basic training at the SSB Training Centre. Trade-specific refresher training is also conducted periodically. SSB also encourages career development through deputation to other forces and central health establishments for skill enhancement.</p>
 `;
 
 JOB_CONTENT["ssb-asi-paramedical-2026"] = `
@@ -884,6 +905,12 @@ JOB_CONTENT["ssb-asi-paramedical-2026"] = `
 <h2>FAQs – SSB ASI Paramedical 2026</h2>
 <p><strong>Q: Is registration as Pharmacist mandatory for ASI (Pharmacist)?</strong><br>A: Yes. Candidates must be registered under the Pharmacy Act, 1948 with a valid Pharmacist registration certificate.</p>
 <p><strong>Q: Can I apply for both ASI and Head Constable posts in SSB?</strong><br>A: No. Per the notification rules, a candidate can apply for only one post across the entire combined SSB recruitment advertisement.</p>
+
+<h2>SSB ASI Paramedical – Career Growth and Postings</h2>
+<p>ASI (Level 5) is the entry level for the paramedical officer cadre in SSB. The promotion pathway includes: ASI → SI (Sub Inspector) → Inspector → Deputy Commandant → Commandant, with each level bringing increased pay, responsibility, and leadership opportunities. Promotions are through Departmental Promotion Committees based on service record, seniority, and departmental examinations.</p>
+<p>ASI paramedical personnel may be posted at SSB Sector Headquarters, Frontier Headquarters, Battle Casualty Area Hospitals, or field units along the Indo-Nepal and Indo-Bhutan borders. Postings in remote/border areas attract significant additional allowances — High Altitude Allowance (up to Rs. 18,000/month), Counter-Insurgency Allowance, and Hard Area Allowance — that can substantially increase the overall monthly compensation.</p>
+<h3>Role and Responsibilities</h3>
+<p>ASI Radiographer operates X-Ray, CT, and digital radiography equipment at SSB field hospitals. ASI Pharmacist manages drug dispensing, inventory, and pharmaceutical compliance. ASI OT Technician assists surgeons in Operation Theatre procedures. ASI Dental Technician fabricates and maintains dental prosthetics and assists dental surgeons. All ASI paramedical staff may also be deployed in disaster relief and humanitarian operations.</p>
 `;
 
 JOB_CONTENT["ssb-head-constable-nongd-2026"] = `
@@ -956,5 +983,586 @@ JOB_CONTENT["ssb-head-constable-nongd-2026"] = `
 <p><strong>Q: Which post has the most vacancies in SSB HC Non-GD 2026?</strong><br>A: Head Constable (Communication) has the highest vacancies at 197 out of 233 total posts.</p>
 <p><strong>Q: Is there a skill test for all posts?</strong><br>A: Skill Test is only for Head Constable (Electrician) — it is qualifying in nature and marks are not counted in final merit.</p>
 <p><strong>Q: What happens if I get equal marks as another candidate?</strong><br>A: Priority is given to the candidate with more marks in Part-II (Technical), then the senior-in-age candidate, then alphabetical order of names in English.</p>
+`;
+
+
+// ===== ORIGINAL 12 JOBS – FULL ARTICLES (800-1200 words each) =====
+
+JOB_CONTENT["territorial-army-officer-2026"] = `
+<h2>Territorial Army Officer Recruitment 2026 – Complete Notification</h2>
+<p>The <strong>Territorial Army Directorate</strong>, under the Ministry of Defence, Government of India, has officially released the <strong>Territorial Army Commission Examination 2026</strong> notification for <strong>12 Lieutenant posts</strong>. Online applications are open from 20 April to 19 May 2026 at the official Indian Army website. This is a unique opportunity for employed Indian citizens — both male and female — who wish to serve their country part-time as Army officers while continuing their regular civilian careers.</p>
+<p>The Territorial Army is India's second line of defence, consisting of citizen soldiers who are embodied for service only when required by the nation. TA officers hold rank equivalent to Regular Army officers and receive identical pay, allowances, and military honours during embodied service periods.</p>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Posts</th></tr></thead>
+<tbody><tr><td>Male</td><td>11</td></tr><tr><td>Female</td><td>01</td></tr><tr><td><strong>Total</strong></td><td><strong>12</strong></td></tr></tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Application Start</td><td>20 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>19 May 2026 (23:55 hrs)</strong></td></tr>
+<tr><td>Admit Card</td><td>10–15 days before CBT</td></tr>
+<tr><td>CBT Exam Date</td><td><strong>12 July 2026</strong></td></tr>
+<tr><td>SSB Interview</td><td>Post CBT (dates notified separately)</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Candidates must be between <strong>18 to 42 years</strong> as on 19 May 2026. No relaxation in age limit for any category.</p>
+<h3>Educational Qualification</h3>
+<p>Candidates must hold a <strong>Degree from any recognised University</strong> in any discipline. Final year students whose results are awaited are not eligible.</p>
+<h3>Employment Requirement</h3>
+<p>Applicants must be <strong>gainfully employed</strong> at the time of application — in Government service, private sector, or self-employed. Full-time students and homemakers are not eligible. Regular Army, Navy, Air Force, Police, and Paramilitary personnel are also not eligible.</p>
+
+<h2>Application Fee</h2>
+<p><strong>Rs. 500/-</strong> (online payment only, non-refundable) for all categories. No exemption for SC/ST/Women.</p>
+
+<h2>Exam Pattern</h2>
+<table class="detail-table"><thead><tr><th>Part</th><th>Subject</th><th>Questions</th><th>Marks</th></tr></thead>
+<tbody>
+<tr><td>Part 1</td><td>Reasoning</td><td>40</td><td>40</td></tr>
+<tr><td>Part 2</td><td>General Knowledge</td><td>30</td><td>30</td></tr>
+<tr><td>Part 3</td><td>English</td><td>30</td><td>30</td></tr>
+<tr><td colspan="2"><strong>Total (Duration: 2 hours)</strong></td><td><strong>100</strong></td><td><strong>100</strong></td></tr>
+</tbody></table>
+<p>Negative marking: 1/3 mark deducted per wrong answer.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 – CBT:</strong> Computer Based Test on 12 July 2026. Based on CBT merit, candidates are shortlisted for SSB in separate male/female lists.</p>
+<p><strong>Stage 2 – SSB Interview:</strong> 5-day SSB at designated Service Selection Boards. Includes Psychological Aptitude Test, Intelligence Test, GD, Personal Interview, and Conference.</p>
+<p><strong>Stage 3 – Medical Examination:</strong> Comprehensive medical examination as per Indian Army standards for shortlisted SSB-qualified candidates.</p>
+<p><strong>Final Merit:</strong> Combined CBT + SSB marks. Separate merit lists for male and female candidates.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<table class="detail-table"><thead><tr><th>Rank</th><th>Pay Level</th><th>Pay Scale</th><th>MSP</th></tr></thead>
+<tbody>
+<tr><td>Lieutenant</td><td>Level 10</td><td>Rs. 56,100 – 1,77,500</td><td>Rs. 15,500</td></tr>
+<tr><td>Captain</td><td>Level 10A</td><td>Rs. 61,300 – 1,93,900</td><td>Rs. 15,500</td></tr>
+<tr><td>Major</td><td>Level 11</td><td>Rs. 69,400 – 2,07,200</td><td>Rs. 15,500</td></tr>
+</tbody></table>
+<p>During non-embodied periods, TA officers continue their civilian careers normally. They receive the honorary rank, NSG-style status, and social prestige of being an Indian Army Officer throughout life.</p>
+
+<h2>How to Apply for Territorial Army Officer 2026</h2>
+<ol>
+<li>Visit <strong>www.indianarmy.nic.in</strong> between 20 April and 19 May 2026</li>
+<li>Click on Territorial Army Officer Recruitment 2026 → Apply Online</li>
+<li>Fill form IAF (TA)-9 (Revised) Part-1 with personal, education, and employment details</li>
+<li>Upload passport photo, signature, and required documents</li>
+<li>Pay Rs. 500/- application fee online</li>
+<li>Submit and save the application acknowledgement printout</li>
+</ol>
+
+<h2>FAQs – Territorial Army Officer 2026</h2>
+<p><strong>Q: Can a self-employed person apply for TA Officer?</strong><br>A: Yes. Self-employed businesspersons and professionals are eligible as they are gainfully employed.</p>
+<p><strong>Q: How many times per year is TA embodied?</strong><br>A: TA officers are typically embodied for 2 months per year for training, plus additional periods if required for national emergencies.</p>
+<p><strong>Q: Is the TA commission a permanent job?</strong><br>A: No. The Territorial Army is a part-time commitment. You continue your civilian career and serve the Army when called for embodiment duties.</p>
+
+<h2>Physical and Medical Standards</h2>
+<p>Candidates must meet the prescribed physical and medical standards for Indian Army officers. Eyesight standards: distant vision 6/6 (corrected) for better eye and 6/18 for worse eye. Height: minimum 157.5 cm for male candidates. Candidates with flat feet, knock knees, or significant varicose veins are generally not eligible. All selected candidates undergo a comprehensive medical examination at designated Army hospitals before final commissioning.</p>
+<h2>Training Duration and Programme</h2>
+<p>After selection and commissioning, Territorial Army officers undergo initial basic military training at the IMA (Indian Military Academy) or designated training centres. The training duration for TA officers is generally shorter than Regular Army training but covers military tactics, weapon handling, field craft, map reading, and leadership skills essential for operational deployment during embodied service periods.</p>
+<h2>Life as a Territorial Army Officer</h2>
+<p>Being a TA officer means living a dual life — a civilian career during normal times and a fully trained military officer when embodied. TA officers receive the same military courtesies, use of service messes, access to CSD (Canteen Stores Department) facilities, medical treatment at military hospitals, and all post-retirement military benefits including pension (after qualifying service) as regular Army officers. The social prestige and honour of holding a commission in the Indian Army is a lifelong privilege that cannot be quantified in monetary terms.</p>
+`;
+
+JOB_CONTENT["crpf-constable-tradesman-2026"] = `
+<h2>CRPF Constable Tradesman Recruitment 2026 – 9,195 Posts</h2>
+<p>The <strong>Central Reserve Police Force (CRPF)</strong>, India's largest Central Armed Police Force with over 3 lakh personnel, has officially announced the <strong>CRPF Constable Tradesman Recruitment 2026</strong> for a massive <strong>9,195 vacancies</strong> across multiple trades. Applications are open until <strong>15 May 2026</strong>. This is one of the biggest CRPF recruitment drives in recent years and one of the best government job opportunities for 10th pass candidates across India.</p>
+<p>CRPF is deployed for internal security maintenance, counter-insurgency and anti-terrorist operations, assistance to state police, election duty, VIP security, and disaster relief. A CRPF Constable Tradesman is an integral part of this force, providing essential support services in cooking, tailoring, cobbling, washing, and other vital trades.</p>
+
+<h2>Post-wise Vacancy Distribution</h2>
+<p>The 9,195 vacancies are distributed across trades including Cook, Cobbler, Washerman, Barber, Carpenter, Painter, Tailor, Waiter/Ward Sahayak, and Safaiwala/Sweeper. Category-wise distribution (UR/OBC/SC/ST/EWS) and gender-wise allocation is detailed in the official notification.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Application Start</td><td>10 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>15 May 2026</strong></td></tr>
+<tr><td>Admit Card</td><td>Notified on crpf.gov.in</td></tr>
+<tr><td>Written Exam</td><td>To be announced</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Candidates must be between <strong>18 to 23 years</strong> as on 01 January 2027. Age relaxation: SC/ST – 5 years, OBC – 3 years, Ex-Servicemen – 3 years after military service deduction. For candidates with 3 years minimum Central/State Govt service, upper age is 28 years (General).</p>
+<h3>Educational Qualification</h3>
+<p>Candidates must have passed <strong>Matriculation (Class 10th)</strong> or equivalent from a recognised Board. Additionally, must possess the relevant trade qualification or ITI certificate for the applied tradesman post.</p>
+<h3>Physical Standards</h3>
+<p>Male: Height 170 cm (165 cm for hill/tribal/SC/ST), Chest 80/85 cm. Female: Height 157 cm (155 cm for hill/tribal). Weight proportionate to height as per CRPF medical standards.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 100/-</strong></td></tr>
+<tr><td>SC / ST / Women / Ex-Servicemen</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 – CBE (Computer Based Exam):</strong> 100 objective MCQs covering General Intelligence, General Knowledge, Elementary Mathematics, and English/Hindi. Duration: 2 hours. Negative marking: 0.25 per wrong answer.</p>
+<p><strong>Stage 2 – PET:</strong> Male: 5 km in 24 min, 100m in 16 sec, Long Jump 11 feet. Female: 1.6 km in 8.30 min, 100m in 18 sec, Long Jump 9 feet.</p>
+<p><strong>Stage 3 – PST:</strong> Height, weight, and chest verification.</p>
+<p><strong>Stage 4 – Trade Test:</strong> Practical test in the applied trade (qualifying nature).</p>
+<p><strong>Stage 5 – Medical Examination:</strong> Detailed medical as per CRPF standards.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<p>Selected candidates are placed in <strong>Pay Level 3 (Rs. 21,700 – 69,100/month)</strong> as per 7th CPC. Additional benefits include DA, HRA, Ration Money Allowance, free CRPF accommodation or HRA, medical facilities for employee and family, canteen subsidy, CGEIS, NPS, children education allowance, and Annual Increment.</p>
+
+<h2>How to Apply for CRPF Constable Tradesman 2026</h2>
+<ol>
+<li>Visit <strong>www.crpf.gov.in</strong> → Recruitment → Constable Tradesman 2026</li>
+<li>Register with Aadhaar-linked mobile number and email ID</li>
+<li>Fill the application form – select your trade and preferred examination centre</li>
+<li>Upload photo (JPG, 10–40 KB) and signature (JPG, 10–30 KB)</li>
+<li>Pay fee through SBI Collect or online banking</li>
+<li>Submit and download the acknowledgement slip</li>
+</ol>
+
+<h2>FAQs – CRPF Constable Tradesman 2026</h2>
+<p><strong>Q: How many trades are included in CRPF Constable Tradesman 2026?</strong><br>A: Multiple trades including Cook, Cobbler, Washerman, Barber, Carpenter, Painter, Tailor, and others. Check the official notification for the complete list.</p>
+<p><strong>Q: Can female candidates apply?</strong><br>A: Yes, female candidates can apply for eligible trades. Female-specific vacancies are mentioned in the official notification.</p>
+<p><strong>Q: Is there a written exam or only PET/PST?</strong><br>A: Yes, there is a Computer Based Exam (CBE) followed by PET/PST and Trade Test.</p>
+
+<h2>CRPF as an Employer – Benefits Beyond Pay</h2>
+<p>Joining CRPF as a Constable Tradesman offers far more than just salary. CRPF provides free accommodation in Force Quarters at deployments across India, a dedicated healthcare network of group centres and composite hospitals, subsidised canteen (CSD) facilities for daily household needs, children's education facilities at CRPF schools, and annual leave with travel allowance. The Force also maintains sports quotas, encourages participation in national-level competitions, and provides athletic facilities at all major campuses.</p>
+<h2>CRPF Posting Locations</h2>
+<p>CRPF is deployed across India and in sensitive security zones. Tradesmen typically serve at Group Centre camps, CRPF Institutes, and operational bases. Postings may include states under LWE (Left Wing Extremism) operations, North East India, Jammu & Kashmir, and metro cities for VIP security duties. Special area allowances are payable for posts in difficult terrains and operational areas.</p>
+<h2>Promotional Avenues for CRPF Constable</h2>
+<p>After joining as Constable, there are regular promotional avenues through departmental competitive examinations and seniority-based promotions: Constable → Head Constable → ASI (Assistant Sub Inspector) → Sub Inspector → Inspector. Exceptional performers may also avail internal departmental limited competitive examinations for accelerated promotions. CRPF also offers in-service training courses to enhance trade skills and leadership capabilities.</p>
+`;
+
+JOB_CONTENT["rbi-junior-engineer-2026"] = `
+<h2>RBI Junior Engineer Recruitment 2026 – Grade A Civil & Electrical</h2>
+<p>The <strong>Reserve Bank of India (RBI)</strong>, India's central bank and apex monetary authority established under the RBI Act 1934, has released the official notification for <strong>Junior Engineer (Civil and Electrical)</strong> posts in Grade A for 2026. RBI is one of India's most prestigious and employee-friendly organisations. A career at RBI offers exceptional job security, world-class working conditions, and one of the most competitive government salary packages in the country.</p>
+<p>RBI manages India's monetary policy, foreign exchange, currency printing, and regulatory oversight of the Indian banking sector. It operates offices across major Indian cities including Mumbai, Delhi, Chennai, Kolkata, Bengaluru, and others — all potential posting locations for Junior Engineers.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Application Start</td><td>24 March 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>10 May 2026</strong></td></tr>
+<tr><td>Phase 1 Online Exam</td><td>To be announced</td></tr>
+<tr><td>Phase 2 Interview</td><td>Post Phase 1</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Candidates must be between <strong>20 to 30 years</strong> as on the last date of application. Relaxation: SC/ST – 5 years, OBC (NCL) – 3 years, PwD – 10 years, Ex-Servicemen – 5 years.</p>
+<h3>Educational Qualification</h3>
+<p>Candidates must hold a <strong>B.E./B.Tech (full-time regular) in Civil or Electrical Engineering</strong> from an AICTE/UGC approved institution with minimum <strong>60% aggregate marks</strong> (55% for SC/ST/PwD). Distance/correspondence degrees are not eligible.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 850/-</strong> (Application Rs. 600 + Intimation Rs. 250)</td></tr>
+<tr><td>SC / ST / PwD</td><td><strong>Rs. 100/-</strong> (Intimation charges only)</td></tr>
+<tr><td>Staff Candidates</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Exam Pattern</h2>
+<table class="detail-table"><thead><tr><th>Paper</th><th>Subject</th><th>Marks</th></tr></thead>
+<tbody>
+<tr><td>Paper 1</td><td>General English</td><td>50</td></tr>
+<tr><td>Paper 2</td><td>General / Technical Knowledge</td><td>50</td></tr>
+<tr><td>Paper 3</td><td>Technical Paper (Civil/Electrical)</td><td>100</td></tr>
+<tr><td colspan="2"><strong>Total (3 hours)</strong></td><td><strong>200</strong></td></tr>
+</tbody></table>
+<p>Negative marking of 0.25 marks per wrong answer. Phase 2 Interview carries 50 marks. Final merit: 80% Phase 1 + 20% Interview.</p>
+
+<h2>Technical Syllabus Highlights</h2>
+<p><strong>Civil Engineering:</strong> Structural Engineering, Geotechnical Engineering, Building Materials, Construction Technology, Environmental Engineering, Fluid Mechanics, Transportation Engineering, Estimation & Costing.</p>
+<p><strong>Electrical Engineering:</strong> Circuit Theory, Electrical Machines, Power Systems, Control Systems, Power Electronics, Measurements, Electrical Installation Standards.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<p>RBI JE (Grade A) is placed at <strong>Pay Band I starting at Rs. 44,500/month</strong>. Total gross CTC including DA, HRA, and allowances is approximately <strong>Rs. 80,000–95,000 per month</strong>. Benefits include contributory PF, gratuity, medical for self and family (including retired employees), CGHS, LFC/LTC, subsidised accommodation/HRA, study leave, and annual performance bonus.</p>
+
+<h2>How to Apply for RBI Junior Engineer 2026</h2>
+<ol>
+<li>Visit <strong>www.rbi.org.in</strong> → Opportunities@RBI → Current Vacancies</li>
+<li>Click "Apply Online" for Junior Engineer (Civil/Electrical) 2026</li>
+<li>Register for new account – system generates Provisional Registration Number and Password</li>
+<li>Fill application form completely with educational and personal details</li>
+<li>Upload photo (4.5×3.5 cm, JPG, 20–50 KB), signature, and left thumb impression</li>
+<li>Pay fee and submit. Print the completed application form</li>
+</ol>
+
+<h2>FAQs – RBI Junior Engineer 2026</h2>
+<p><strong>Q: Is GATE score accepted for RBI Junior Engineer?</strong><br>A: No. RBI conducts its own Phase 1 online examination. GATE score is not accepted.</p>
+<p><strong>Q: Can final year engineering students apply?</strong><br>A: No. The degree result must be declared before the last date of application with the required percentage.</p>
+<p><strong>Q: Is there a service bond at RBI?</strong><br>A: No service bond is required. It is a regular government-equivalent permanent appointment.</p>
+
+<h2>RBI Work Culture and Employee Benefits</h2>
+<p>RBI is consistently ranked among the best Central Government employers in India. The organisation maintains a professional, transparent, and merit-based work culture. RBI offices are modern, well-equipped, and located in prime areas of major Indian cities. The working environment is supportive with regular inter-departmental transfers providing exposure to different cities and aspects of RBI's operations.</p>
+<h2>RBI Junior Engineer Career Growth</h2>
+<p>RBI Junior Engineers start at Grade A (Level 1 in RBI parlance) and progress through Grade B, Grade C, and higher grades through Annual Performance Appraisals and internal examinations. RBI pays among the highest salaries in the public sector — senior RBI engineers with 10–15 years of experience can earn upward of Rs. 1.5–2 lakh per month gross. The organisation also supports study leave for higher education, deputation to international institutions, and participation in professional conferences.</p>
+<h2>Posting Locations for RBI Junior Engineers</h2>
+<p>RBI has 31 offices across India including Mumbai (headquarters), Delhi, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Bhopal, Bhubaneswar, Chandigarh, Guwahati, Jaipur, Jammu, Kanpur, Lucknow, Nagpur, Patna, and other cities. Engineers may be posted to any of these offices and transferred periodically as per RBI's transfer policy.</p>
+`;
+
+JOB_CONTENT["nhpc-apprentice-2026"] = `
+<h2>NHPC Limited Apprentice Recruitment 2026 – Complete Guide</h2>
+<p><strong>NHPC Limited</strong>, formerly National Hydroelectric Power Corporation, is a Schedule 'A' Miniratna Category-I Central PSE under the Ministry of Power with over 7,000 MW installed hydropower capacity across 24 operational stations. NHPC has announced <strong>Apprentice recruitment 2026</strong> for Trade Apprentices (ITI holders), Technician Apprentices (Diploma holders), and Graduate Apprentices (Engineering graduates) at its hydroelectric projects and offices across India.</p>
+<p>This is a premier apprenticeship opportunity that provides hands-on technical experience in hydropower plant operations, maintenance, and engineering — one of the most specialised and rewarding fields in India's power sector.</p>
+
+<h2>Apprentice Categories</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Qualification Required</th><th>Duration</th><th>Monthly Stipend</th></tr></thead>
+<tbody>
+<tr><td>Trade Apprentice</td><td>ITI in relevant trade (Electrician, Fitter, Welder, Turner, etc.)</td><td>1–2 Years</td><td>Rs. 7,700 – 8,050</td></tr>
+<tr><td>Technician Apprentice</td><td>Diploma in Electrical/Mechanical/Civil/Electronics</td><td>1 Year</td><td>Rs. 8,050</td></tr>
+<tr><td>Graduate Apprentice</td><td>B.E./B.Tech in relevant engineering discipline</td><td>1 Year</td><td>Rs. 9,000</td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>28 March 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>28 April 2026</strong></td></tr>
+<tr><td>Application Mode</td><td>Online via NATS/NAPS Portal + NHPC website</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>18 years</strong>. No upper age limit as per the Apprentices Act 1961. Candidates who have already completed apprenticeship at any establishment in the same trade are not eligible to re-register.</p>
+<h3>Qualification</h3>
+<p>ITI candidates must have NCVT/SCVT recognised certificate. Diploma/Graduate candidates must have their degree from AICTE-approved institution. Candidates must NOT have a higher qualification than required for their apprentice category (e.g., B.Tech holders cannot apply for Trade Apprentice).</p>
+
+<h2>NHPC Project Locations</h2>
+<p>Apprenticeships are available at NHPC's projects in Himachal Pradesh (Chamera, Parbati, Bairasiul), Jammu & Kashmir (Salal, Uri, Dulhasti, Kishanganga), Uttarakhand (Tanakpur, Dhauliganga), Manipur (Loktak), Arunachal Pradesh (Subansiri Lower, Pare), Tripura (Gumti), and Corporate Office in Faridabad, Haryana.</p>
+
+<h2>Benefits of NHPC Apprenticeship</h2>
+<p>Candidates gain hands-on technical exposure to large-scale hydropower project operations, receive industry-recognised completion certificate, earn regular monthly stipend, get priority consideration in NHPC's future direct recruitment drives (if meeting eligibility), and build a strong technical foundation for future government/PSU jobs.</p>
+
+<h2>How to Apply for NHPC Apprentice 2026</h2>
+<ol>
+<li>Register on NATS portal (<strong>www.apprenticeship.gov.in</strong>) for Diploma/Graduate candidates, or NAPS for ITI candidates</li>
+<li>Visit <strong>www.nhpcindia.com</strong> → Recruitment → Apprentice 2026</li>
+<li>Fill the online application with NATS/NAPS registration number, personal details, qualification, and preferred project location</li>
+<li>Upload certificates: ITI/Diploma/Degree, marksheets, DOB proof, caste certificate, photo</li>
+<li>Submit application. No application fee is charged</li>
+</ol>
+
+<h2>FAQs – NHPC Apprentice 2026</h2>
+<p><strong>Q: Does NHPC apprenticeship guarantee permanent employment?</strong><br>A: No. Apprenticeship does not guarantee permanent employment. However, NHPC gives preference to ex-apprentices in its regular recruitment drives, subject to meeting all eligibility conditions.</p>
+<p><strong>Q: Can I apply to multiple NHPC project locations?</strong><br>A: Yes, multiple location preferences can be indicated. Final allocation is based on merit and seat availability at each project.</p>
+<p><strong>Q: Is the NHPC apprenticeship stipend taxable?</strong><br>A: Stipend under the Apprentices Act is generally exempt from income tax. Consult a tax advisor for current applicability.</p>
+
+<h2>How NHPC Apprenticeship Helps in Future PSU Jobs</h2>
+<p>NHPC Apprenticeship is highly valued in the PSU power sector recruitment ecosystem. Major power sector PSUs including NTPC, SJVN, BHEL, NHPC itself, State GENCO companies, and PGCIL explicitly give preference or additional marks to ex-apprentices during selection for permanent positions. The hands-on technical experience in hydropower plant operations provides a practical understanding that theoretical education alone cannot provide.</p>
+<h2>Living Arrangements During NHPC Apprenticeship</h2>
+<p>NHPC projects are located in remote but scenic Himalayan regions. The company provides accommodation (hostel/transit camp), mess facilities, and transport for apprentices at remote project sites. Internet connectivity, medical facilities, and recreational amenities are available at all major project townships. The experience of working in such challenging and beautiful environments is itself a lifelong achievement for many young engineers and ITI graduates.</p>
+<h2>NHPC's Growth Plans – Why Apprenticeship Matters</h2>
+<p>NHPC has an ambitious expansion plan adding approximately 10,000 MW of new capacity by 2030 through projects in Arunachal Pradesh, Uttarakhand, J&K, and Manipur. This means NHPC will have significant direct recruitment requirements in the coming years for which current apprentices will be well-positioned candidates.</p>
+
+<h2>Documents Required for NHPC Apprentice Application</h2>
+<p>Candidates must have the following documents ready before applying: ITI/Diploma/Degree certificate and marksheets (all semesters/years), date of birth proof (10th certificate), caste certificate in GOI format (for SC/ST/OBC), Aadhaar card, recent passport-size photographs (white background), NATS/NAPS registration number, and a valid bank account passbook for stipend transfer. All documents should be scanned at minimum 200 DPI in JPG or PDF format as per NHPC's prescribed file size limits.</p>
+<h2>NHPC's Contribution to India's Energy Sector</h2>
+<p>NHPC contributes approximately 3.5% of India's total installed power generation capacity and is one of the top hydropower companies globally by installed capacity. The company is ranked as a Miniratna Category-I CPSE with a strong financial record, making it a stable and financially sound organisation for long-term apprenticeship and potential permanent employment.</p>
+`;
+
+JOB_CONTENT["mcl-technician-2026"] = `
+<h2>MCL Technician Recruitment 2026 – Mahanadi Coalfields Limited</h2>
+<p><strong>Mahanadi Coalfields Limited (MCL)</strong>, a wholly-owned subsidiary of Coal India Limited and a Miniratna Category-I CPSE headquartered in Sambalpur, Odisha, has announced recruitment for <strong>Technician (Mining Sirdar and other trades)</strong> posts in T&S Grade 'C' for 2026. MCL operates 24 opencast and 3 underground mines in the Talcher and IB Valley coalfields of Odisha, producing approximately 160 million tonnes of coal per year.</p>
+<p>MCL Technician is a permanent government-equivalent position with Coal India Limited-standard pay, perks, and job security. This is one of the most stable and well-compensated positions available for ITI/10th pass candidates in India's PSU sector.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>08 March 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>08 May 2026</strong></td></tr>
+<tr><td>CBT Exam Date</td><td>To be announced</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>18 years</strong>, Maximum <strong>30 years</strong>. Age relaxation: SC/ST – 5 years, OBC (NCL) – 3 years, PwD – 10 years (UR), Ex-Servicemen – as per Govt norms.</p>
+<h3>Qualification for Technician Mining Sirdar</h3>
+<p>Candidates must have passed <strong>Matriculation (Class 10th)</strong> AND hold a valid <strong>Mining Sirdar Certificate of Competency</strong> granted under Coal Mines Regulations by DGMS (Director General of Mines Safety). The certificate must be valid as on the date of application. Overman Certificate holders are preferred.</p>
+<h3>Qualification for Other Trades</h3>
+<p>ITI Certificate in relevant trade (Electrician, Fitter, Welder, Mechanic, etc.) from NCVT/SCVT recognised institution for respective Technician posts.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 300/-</strong></td></tr>
+<tr><td>SC / ST / PwD</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process – CBT Pattern</h2>
+<table class="detail-table"><thead><tr><th>Section</th><th>Marks</th></tr></thead>
+<tbody>
+<tr><td>General Knowledge / Awareness</td><td>15</td></tr>
+<tr><td>Reasoning</td><td>15</td></tr>
+<tr><td>Numerical Aptitude</td><td>15</td></tr>
+<tr><td>Hindi / English Language</td><td>15</td></tr>
+<tr><td>Trade / Technical Knowledge</td><td>40</td></tr>
+<tr><td><strong>Total (90 minutes)</strong></td><td><strong>100</strong></td></tr>
+</tbody></table>
+<p>Negative marking: 0.25 per wrong answer. Document Verification and Medical Examination follow CBT shortlisting.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<p>MCL Technicians are placed in <strong>T&S Grade 'C'</strong> under NCWA (National Coal Wage Agreement). Starting basic pay approximately <strong>Rs. 30,000 – 35,000/month</strong> with VDA. Total CTC approximately <strong>Rs. 7–8 lakh per annum</strong>.</p>
+<p>Additional benefits: CMPFO Provident Fund (Coal Mines Provident Fund Organisation), Gratuity, Free Medical treatment at MCL hospitals for employee and family, Company Quarters or HRA, Coal Allowance, Conveyance, Leave Encashment, LTC, and free school education for up to 2 children at MCL schools.</p>
+
+<h2>How to Apply for MCL Technician 2026</h2>
+<ol>
+<li>Visit <strong>www.mahanadicoal.in</strong> → Recruitment → Technician 2026</li>
+<li>Download and read the official notification carefully</li>
+<li>Register on the MCL online application portal with email and phone</li>
+<li>Fill application form with personal details, trade qualification, DGMS Certificate number (for Mining Sirdar), and category</li>
+<li>Upload photo, signature, DGMS Certificate scan, and 10th mark sheet</li>
+<li>Pay fee and submit. Note the application number</li>
+</ol>
+
+<h2>FAQs – MCL Technician 2026</h2>
+<p><strong>Q: Is DGMS certificate mandatory for all MCL Technician posts?</strong><br>A: DGMS Mining Sirdar Certificate of Competency is specifically required for the Mining Sirdar post. Other technician trades require ITI certificates in relevant trades.</p>
+<p><strong>Q: Where will selected MCL Technicians be posted?</strong><br>A: Postings are at MCL's collieries in Angul (Talcher) and Jharsuguda/Sambalpur (IB Valley) districts of Odisha.</p>
+
+<h2>Life as an MCL Employee</h2>
+<p>MCL employees enjoy a comprehensive and employee-centric lifestyle. Company-maintained townships at Talcher (Lakhanpur, Lingaraj, Bharatpur, Jagannath) and IB Valley (Banharpali, Ib, Basundhara, Belpahar) provide well-equipped residential colonies with schools, hospitals, clubs, and sports facilities. MCL also provides a daily coal allocation for heating and cooking, which significantly reduces household energy costs. The company is known for strong labour relations and a stable, supportive work environment.</p>
+<h2>Coal India MCL Salary Growth Over Career</h2>
+<p>Under the National Coal Wage Agreement (NCWA), MCL Technicians receive annual increments plus periodic wage revisions every 5 years during NCWA negotiations. Over a 25-year career, an MCL Technician's pay scale can increase substantially — from approximately Rs. 30,000 at entry to Rs. 60,000+ at the maximum of the T&S Grade 'D' or 'E' scales through promotions.</p>
+
+<h2>MCL – Mahanadi Coalfields Operational Strength</h2>
+<p>MCL is one of the three largest coal producing subsidiaries of Coal India Limited, consistently producing over 150 million tonnes per year. Its mines supply coal to major power plants in Odisha, Andhra Pradesh, Telangana, and Maharashtra, making it a critical pillar of India's energy security. MCL has an ambitious production target of 200 MT annually by 2030, which will require significant expansion in its workforce and infrastructure.</p>
+<h2>Preparing for MCL CBT Exam</h2>
+<p>For the trade/technical section (40 marks), focus on your ITI or Mining Sirdar syllabus comprehensively. For the Mining Sirdar specifically, study Coal Mines Regulations (CMR) 2017, Mines Act 1952, DGMS circulars on gas testing, and blast hole drilling procedures. For GK, focus on Odisha-specific general knowledge, Coal India developments, and national energy policy. Previous year Coal India Limited (CIL) subsidiary exam papers are the best preparation resource.</p>
+`;
+
+JOB_CONTENT["secl-mining-sirdar-2026"] = `
+<h2>SECL Mining Sirdar Recruitment 2026 – South Eastern Coalfields</h2>
+<p><strong>South Eastern Coalfields Limited (SECL)</strong>, one of India's largest coal producers and a Coal India Limited subsidiary headquartered in Bilaspur, Chhattisgarh, has announced recruitment for <strong>Mining Sirdar (T&S Grade 'C')</strong> posts under direct recruitment 2026. SECL operates mines in Chhattisgarh and Madhya Pradesh with an annual production exceeding 150 million tonnes.</p>
+<p>The Mining Sirdar is a critical licensed supervisory post in coal mines responsible for the safety, efficiency, and compliance of shift operations. It requires a DGMS-issued Certificate of Competency — a specialised qualification that makes this post highly valued and well-compensated in the mining industry.</p>
+
+<h2>About the Mining Sirdar Role</h2>
+<p>A Mining Sirdar works under an Overman or Mining Engineer and is responsible for: inspecting the workplace before allowing workers to enter, testing for harmful gases, checking roof support, maintaining explosives records, supervising drilling/blasting/coal cutting operations, reporting accidents, and ensuring full compliance with Coal Mines Regulations (CMR) and the Mines Act 1952.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>12 March 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>12 May 2026</strong></td></tr>
+<tr><td>CBT Exam Date</td><td>To be notified on secl.co.in</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>18 years</strong>, Maximum <strong>30 years</strong>. Age relaxation: SC/ST – 5 years, OBC – 3 years, PwD – 10 years (UR), Ex-Servicemen – as per Govt rules.</p>
+<h3>Qualification</h3>
+<p>Candidates must have passed <strong>Matriculation (Class 10th)</strong> AND hold a valid <strong>Mining Sirdar Certificate of Competency</strong> granted by DGMS under Coal Mines Regulations. Overman Certificate holders are preferred. A First Aid Certificate is also generally required for mining supervisory roles.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 300/-</strong></td></tr>
+<tr><td>SC / ST / PwD</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>CBT (100 marks, 90 minutes):</strong> GK (15) + Reasoning (15) + Maths (15) + Language (15) + Technical/Mining Knowledge (40). Negative marking 0.25 per wrong answer.</p>
+<p>Post-CBT: Document Verification at SECL offices (DGMS Certificate, 10th certificate, category certificate), followed by Medical Examination. Fitness for underground mine work is mandatory.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<p>SECL Mining Sirdars are placed in <strong>T&S Grade 'C'</strong> under NCWA. Starting pay approximately <strong>Rs. 30,000+/month</strong> with VDA. Total annual CTC approximately <strong>Rs. 7–8.5 lakh</strong>. Benefits: CMPFO PF, Gratuity, Free Medical, Company Quarters/HRA, Coal Allowance, LTC, Conveyance, Leave Encashment, and free education for up to 2 children at SECL schools.</p>
+
+<h2>How to Apply for SECL Mining Sirdar 2026</h2>
+<ol>
+<li>Visit <strong>www.secl.co.in</strong> → Recruitment → Mining Sirdar 2026</li>
+<li>Read the notification PDF completely. Note important dates and requirements</li>
+<li>Register with email and phone on the SECL application portal</li>
+<li>Fill all fields including DGMS Certificate number, date, and issuing district</li>
+<li>Upload colour photo, signature, DGMS Certificate, and 10th marksheet</li>
+<li>Pay fee and submit. Save the application number</li>
+</ol>
+
+<h2>FAQs – SECL Mining Sirdar 2026</h2>
+<p><strong>Q: Can candidates from other states apply with DGMS certificate from a different state?</strong><br>A: Yes. DGMS certificates are valid nationally regardless of the state of issue.</p>
+<p><strong>Q: Is a Medical First Aid Certificate required separately?</strong><br>A: Yes, a First Aid Certificate from a recognised organisation is typically required for mining supervisory roles. Check the official notification for the list of accepted organisations.</p>
+
+<h2>Importance of Mining Sirdar in Coal Mine Safety</h2>
+<p>The Mining Sirdar is perhaps the most critical first-level supervisory role in underground coal mine safety management. As the person directly responsible for inspecting the workplace, testing for toxic gases (CO, CH4, CO2), ensuring proper roof support, and supervising blasting operations, the Mining Sirdar is the frontline guardian of miners' lives. This responsibility comes with both significant accountability and commensurate respect within the mining community.</p>
+<h2>SECL's Operational Footprint</h2>
+<p>SECL operates across two major coalfields: the Korba Coalfield in Chhattisgarh and the Singrauli/Sohagpur coalfield spanning Chhattisgarh and Madhya Pradesh. SECL's major open cast mines include Gevra OCP, Kusmunda OCP, Dipka OCP, and Manikpur OCP — some of the largest open cast mines in Asia. Underground mines at Rajendra, Rajnagar, and Bhatgaon provide challenging and rewarding work environments for certified mining professionals.</p>
+
+<h2>SECL Employee Benefits and Welfare</h2>
+<p>SECL provides industry-leading employee welfare benefits including free medical treatment at SECL hospitals and dispensaries for employee and family, residential colonies with essential facilities at all major mine locations, free primary and secondary schooling for employees' children at SECL-managed schools (CBSE curriculum), CSD canteen benefits, annual leave with fare concession, and coal allowance for household use. SECL also maintains sports facilities and cultural programmes across all its establishments.</p>
+<h2>SECL's Major Mine Locations</h2>
+<p>SECL operates mines across multiple districts of Chhattisgarh and Madhya Pradesh. Major opencast mines include Gevra OCP, Kusmunda OCP, and Dipka OCP in Korba district — among the largest in India. Underground mining operations are at Rajendra, Rajnagar, and Bhatgaon in the Korba coalfield. In MP, operations span Singrauli, Umaria, and Anuppur districts. Selected Mining Sirdars may be posted at any of these locations based on vacancy availability.</p>
+`;
+
+JOB_CONTENT["ngel-dgm-am-2026"] = `
+<h2>NGEL DGM and AM Recruitment 2026 – NTPC Green Energy Limited</h2>
+<p><strong>NTPC Green Energy Limited (NGEL)</strong>, a wholly-owned subsidiary of NTPC Limited (India's largest power generation company), spearheads NTPC's ambitious renewable energy expansion. As India races toward its target of 500 GW non-fossil fuel capacity by 2030, NGEL is at the forefront managing solar, wind, hydro, and green hydrogen projects across the country.</p>
+<p>NGEL has announced recruitment for <strong>Deputy General Manager (DGM, E6 Grade)</strong> and <strong>Assistant Manager (AM, E2 Grade)</strong> positions in 2026 across Technical, Finance, HR, Legal, IT, and Environment departments. These are senior and mid-management permanent positions offering exceptional career growth in India's booming clean energy sector.</p>
+
+<h2>Post Details</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Grade</th><th>Experience Required</th><th>Pay Scale</th></tr></thead>
+<tbody>
+<tr><td>Deputy General Manager (DGM)</td><td>E6</td><td>17+ years relevant experience</td><td>Rs. 1,00,000 – 2,60,000/month</td></tr>
+<tr><td>Assistant Manager (AM)</td><td>E2</td><td>2–5 years relevant experience</td><td>Rs. 50,000 – 1,60,000/month</td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>03 May 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>03 June 2026</strong></td></tr>
+<tr><td>CBT/Interview</td><td>To be announced on ntpcgreen.com</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>DGM: Maximum <strong>52 years</strong>. AM: Maximum <strong>35 years</strong>. Age as on last date of application. Standard age relaxation for SC/ST/OBC/PwD as per NTPC/Government norms.</p>
+<h3>Educational Qualification</h3>
+<p>Engineering posts (DGM/AM Technical): B.E./B.Tech in Electrical/Civil/Mechanical/Electronics with 60% marks (55% for SC/ST/PwD). Finance: CA/CMA or MBA Finance. HR: MBA HR/MSW from recognised institution. Candidates from IITs, NITs, and Premier Management Institutes preferred at senior levels.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 300/-</strong></td></tr>
+<tr><td>SC / ST / PwD / Ex-SM / NTPC Group Employees</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>For AM:</strong> Online CBT (Technical/Functional knowledge + General Aptitude + English) followed by Personal Interview for shortlisted candidates.</p>
+<p><strong>For DGM:</strong> Application screening based on qualification and experience, followed by Personal Interview. Pre-employment medical examination at joining.</p>
+
+<h2>CTC and Benefits</h2>
+<p><strong>DGM (E6):</strong> Approximate CTC <strong>Rs. 30–35 lakh per annum</strong>. <strong>AM (E2):</strong> Approximate CTC <strong>Rs. 12–15 lakh per annum</strong>. Both grades receive DA, HRA/Company Accommodation, Perquisites, Annual Performance Related Pay (PRP), Superannuation Benefits, LTC, Group Medical Insurance, and other NTPC/NGEL benefits. Renewable energy sector also provides excellent industry exposure and future-proof career trajectory.</p>
+
+<h2>How to Apply for NGEL DGM/AM 2026</h2>
+<ol>
+<li>Visit <strong>www.ntpcgreen.com</strong> or <strong>www.ntpc.co.in</strong> → Careers → Current Openings</li>
+<li>Select NGEL DGM/AM 2026 recruitment notification</li>
+<li>Register with valid email and mobile number</li>
+<li>Fill application form with complete professional experience, education, and achievements</li>
+<li>Upload latest Resume/CV, photograph, and signature</li>
+<li>Pay fee and submit. Note application reference number</li>
+</ol>
+
+<h2>FAQs – NGEL DGM/AM 2026</h2>
+<p><strong>Q: Is renewable energy experience mandatory for NGEL positions?</strong><br>A: Renewable energy experience is highly preferred. However, candidates from thermal/hydro power with transferable technical skills are also considered based on the specific post requirements.</p>
+<p><strong>Q: Can NTPC employees apply for NGEL positions?</strong><br>A: Yes. NTPC Group employees may apply for lateral positions in NGEL. Internal transfer norms may also be applicable — check with NTPC HR for current policy.</p>
+
+<h2>Green Energy Sector Career Outlook</h2>
+<p>India's renewable energy sector is one of the fastest-growing industries in the world. The Government's commitment to 500 GW of non-fossil fuel capacity by 2030 means that renewable energy professionals are among the most in-demand in the job market. A career with NGEL/NTPC Green Energy puts you at the forefront of India's clean energy transition — working on solar farms in Rajasthan and Gujarat, wind parks in Tamil Nadu, and green hydrogen projects that will power India's future.</p>
+<h2>NTPC Group's Scale of Operations</h2>
+<p>NTPC Limited is India's largest power generation company with over 73,000 MW of total installed capacity. NTPC Green Energy Limited manages approximately 3,300 MW of renewable capacity and has ambitious targets to reach 60,000 MW by 2032. Working with NGEL means being part of this massive, mission-critical expansion programme and contributing directly to India's energy security and climate commitments.</p>
+
+<h2>India's Renewable Energy Ambitions and NGEL's Role</h2>
+<p>India has one of the world's most ambitious renewable energy programmes. With a 500 GW non-fossil fuel target by 2030 and Net Zero by 2070, NGEL/NTPC Green plays a pivotal role. NGEL is currently developing ultra-mega renewable energy projects including the 4,750 MW Rewa Ultra Mega Solar Project and multiple wind energy parks in Gujarat, Tamil Nadu, and Rajasthan. Career professionals joining NGEL at this stage have the opportunity to shape India's clean energy future from ground level.</p>
+<h2>NGEL Recruitment Notice for DGM and AM</h2>
+<p>Candidates interested in joining NGEL should regularly check the official NTPC Green website (ntpcgreen.com) for notification updates. The recruitment process is transparent and merit-based. All shortlisted candidates are notified by email for CBT and interview dates. Travel Allowance (TA) is reimbursed for interview attendance as per NTPC/NGEL rules for candidates from outside the interview city.</p>
+`;
+
+JOB_CONTENT["aadhaar-operator-supervisor-2026"] = `
+<h2>Aadhaar Operator and Supervisor Certification 2026 – UIDAI / NSEIT</h2>
+<p>The <strong>Unique Identification Authority of India (UIDAI)</strong>, under the Ministry of Electronics and Information Technology, manages the Aadhaar ecosystem — the world's largest biometric digital identity system with over 1.3 billion enrolled residents. The <strong>Aadhaar Operator/Supervisor Certification</strong> is conducted by NSEIT Limited (NSE subsidiary) on behalf of UIDAI.</p>
+<p>Certified Aadhaar Operators work at Enrolment and Update Centres across India and assist citizens in Aadhaar enrolment, biometric correction, address update, and name/DOB update services. This certification is mandatory for anyone who wishes to operate an Aadhaar enrolment station legally.</p>
+
+<h2>Exam Details</h2>
+<table class="detail-table"><thead><tr><th>Parameter</th><th>Operator Exam</th><th>Supervisor Exam</th></tr></thead>
+<tbody>
+<tr><td>Minimum Qualification</td><td>Class 10th (Matriculation)</td><td>Class 12th (Intermediate)</td></tr>
+<tr><td>Questions</td><td>50 MCQs</td><td>75 MCQs</td></tr>
+<tr><td>Duration</td><td>60 minutes</td><td>90 minutes</td></tr>
+<tr><td>Passing Score</td><td>50%</td><td>60%</td></tr>
+<tr><td>Certificate Validity</td><td>3 years</td><td>3 years</td></tr>
+<tr><td>Exam Fee</td><td>Rs. 300 + GST</td><td>Rs. 400 + GST</td></tr>
+</tbody></table>
+
+<h2>Exam Syllabus</h2>
+<p>Both exams cover: Aadhaar Act 2016 and Regulations, UIDAI Circulars and Policies, Biometric Collection Standards (fingerprint, iris, photo), Data Quality Requirements, Client Software Operation, Exception Handling Procedures, Anti-Fraud Measures, Resident Data Protection, and Ethics in Aadhaar operations.</p>
+
+<h2>Registration Process</h2>
+<ol>
+<li>Ensure your employing Registrar agency (state govt, bank, CSC, telecom, post office) is empanelled with UIDAI</li>
+<li>Visit NSEIT examination portal at <strong>www.nseitexams.com</strong> → UIDAI Aadhaar Certification</li>
+<li>Create account using name, Aadhaar number, mobile, and email. Identity verified against UIDAI database</li>
+<li>Select "Operator" or "Supervisor" exam category and choose preferred date and NSEIT test centre location</li>
+<li>Pay examination fee (Rs. 300 + GST for Operator, Rs. 400 + GST for Supervisor)</li>
+<li>Download and print Examination Slip after successful payment</li>
+<li>Report to NSEIT test centre 30 minutes early on exam day with Aadhaar + Government photo ID</li>
+<li>After passing, Digital Certificate is generated within 15 working days. Submit to your Registrar agency for Operator/Supervisor ID activation</li>
+</ol>
+
+<h2>Earning Potential</h2>
+<p>Certified Aadhaar Operators earn approximately <strong>Rs. 8,000 – 15,000 per month</strong> through CSC or bank branches based on volume of enrolments/updates completed. High-traffic urban centres generate more income. Supervisors earn slightly higher. UIDAI also has separate direct recruitment for technical and administrative positions through UPSC and SSC for those seeking formal government employment at UIDAI offices.</p>
+
+<h2>FAQs – Aadhaar Operator/Supervisor 2026</h2>
+<p><strong>Q: How long is the Aadhaar certificate valid?</strong><br>A: The certification is valid for 3 years. Recertification is required after expiry.</p>
+<p><strong>Q: Can I appear directly for the Supervisor exam without first clearing Operator?</strong><br>A: Yes. You can appear for the Supervisor exam directly without first obtaining the Operator certificate.</p>
+<p><strong>Q: Where can I get study material for the UIDAI exam?</strong><br>A: UIDAI provides official study modules on <strong>uidai.gov.in</strong> and on the NSEIT portal. These are free and sufficient for exam preparation.</p>
+
+<h2>Growing Demand for Aadhaar Operators</h2>
+<p>With India's digital identity ecosystem continuously expanding — adding new use cases like Direct Benefit Transfer (DBT), Jan Dhan accounts, digital lockers, e-KYC, and mobile SIM linking — the demand for Aadhaar update and correction services remains very high. Millions of Indians each year need Aadhaar address updates, name corrections, mobile number linking, and biometric re-enrolment services, ensuring steady footfall and income for certified Operators and Supervisors across the country.</p>
+<h2>UIDAI's Technology Platform</h2>
+<p>UIDAI maintains one of the world's most sophisticated biometric database systems, capable of performing 1 billion authentication transactions per day. Aadhaar is integrated with 1,200+ government schemes, 300+ banks, and thousands of service providers across India. Understanding and working within this ecosystem gives Aadhaar Operators a unique insight into India's digital public infrastructure that is increasingly valued in fintech, banking, and government sectors.</p>
+<h2>Career Beyond Aadhaar Operations</h2>
+<p>The skills and experience gained as an Aadhaar Operator — biometric systems, government database protocols, data quality management, and citizen services — are directly applicable to careers in digital India programmes, UIDAI direct recruitment, state e-governance department roles, and banking KYC operations. Many certified Aadhaar Operators have used this as a stepping stone into permanent government IT and administration positions.</p>
+
+<h2>Aadhaar Update Services – Types and Volume</h2>
+<p>The most common Aadhaar update requests that Operators handle daily include: Address Update (via Document-based or Head of Family route), Name Correction, Date of Birth correction, Gender update, Mobile number linking, Email linking, and Biometric update (for fingerprints/iris that have changed due to age or other factors). Each service has its own document requirements and verification steps, all of which are covered in the NSEIT certification examination.</p>
+<h2>UIDAI's Quality Standards for Operators</h2>
+<p>UIDAI maintains strict quality standards for all Aadhaar enrolment and update data. Operators are evaluated on biometric capture quality scores, demographic data accuracy, and exception handling. Consistent low-quality operators risk having their Operator IDs suspended by UIDAI. This makes the NSEIT certification — which tests understanding of proper biometric capture techniques and data entry protocols — extremely important for anyone who wants a sustainable career in Aadhaar services.</p>
+`;
+
+JOB_CONTENT["bpcl-entry-level-2026"] = `
+<h2>BPCL Entry Level Recruitment 2026 via GATE – Management Trainees</h2>
+<p><strong>Bharat Petroleum Corporation Limited (BPCL)</strong>, a Maharatna Central PSU under the Ministry of Petroleum and Natural Gas, conducts its annual <strong>Management Trainee (Technical) recruitment through GATE scores</strong>. BPCL is India's second-largest refining company with refineries at Mumbai, Kochi, and Bina (MP) and a vast network of 18,000+ fuel retail outlets, LPG distributors, and aviation fuelling stations across India.</p>
+<p>BPCL Management Trainees are hired at the E1 Grade (entry officer level) and undergo a comprehensive 1-year training programme before permanent absorption at E2 Grade. This is one of the most coveted PSU jobs available through GATE.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>GATE 2026 Exam</td><td>February 2026</td></tr>
+<tr><td>BPCL Application Opens</td><td>March – April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>Check bharatpetroleum.in</strong></td></tr>
+<tr><td>GD/Interview</td><td>May – June 2026</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Maximum <strong>25 years</strong> as on last date. Relaxation: SC/ST – 5 years, OBC – 3 years, PwD – 10 years.</p>
+<h3>Educational Qualification</h3>
+<p>Candidates must hold a valid <strong>GATE 2026 score</strong> in the relevant engineering paper along with a B.E./B.Tech/B.Sc (Engineering) degree with minimum <strong>60% aggregate marks</strong> (55% for SC/ST/PwD) from an AICTE-approved institution. Eligible disciplines: Chemical, Civil, Mechanical, Electrical, Instrumentation, Computer Science, and related fields.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 1,180/-</strong> (Rs. 1,000 + 18% GST)</td></tr>
+<tr><td>SC / ST / PwD / Ex-Servicemen</td><td><strong>Nil</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 – GATE Score Shortlisting:</strong> Candidates shortlisted category-wise on GATE 2026 merit. Only GATE 2026 (current year) scores are accepted.</p>
+<p><strong>Stage 2 – Group Discussion + Personal Interview:</strong> Shortlisted candidates attend GD/Group Task and Personal Interview at BPCL venues.</p>
+<p><strong>Final Merit:</strong> GATE score (85% weightage) + GD/Interview (15% weightage). Medical examination at joining.</p>
+
+<h2>CTC and Career Growth</h2>
+<p>Management Trainees join at <strong>E1 Grade with approximately Rs. 40,000/month basic pay during training</strong>, absorbed at E2 Grade post-training with basic pay approximately Rs. 50,000–60,000. Total entry-level CTC approximately <strong>Rs. 12–15 lakh per annum</strong>. BPCL provides HRA/accommodation, medical insurance, fuel card benefit, LTC, PF, Gratuity, and Annual Variable Pay. Career progression from E1 to E5+ is rapid for performers.</p>
+
+<h2>How to Apply for BPCL GATE-based Recruitment 2026</h2>
+<ol>
+<li>Appear in <strong>GATE 2026</strong> at gate2026.iisc.ac.in (registration in September 2025)</li>
+<li>Visit <strong>bharatpetroleum.in</strong> → Careers → Recruitment 2026 (March–April)</li>
+<li>Register with GATE roll number, email, and mobile</li>
+<li>Fill application form with GATE details and educational background</li>
+<li>Pay fee and submit. GD/Interview calls issued to shortlisted candidates by email</li>
+</ol>
+
+<h2>FAQs – BPCL GATE Recruitment 2026</h2>
+<p><strong>Q: Is GATE 2025 score valid for BPCL 2026 recruitment?</strong><br>A: No. Only the GATE 2026 (current year) score is accepted for BPCL 2026 recruitment.</p>
+<p><strong>Q: Is work experience required?</strong><br>A: No work experience is required for Management Trainee (Technical). This is a fresh graduate entry-level position.</p>
+<p><strong>Q: What is the BPCL service bond?</strong><br>A: BPCL typically requires candidates to sign a service bond for 2 years post-confirmation. Details are in the appointment letter.</p>
+
+<h2>BPCL – India's Petroleum Major</h2>
+<p>BPCL's refineries at Mumbai (12 MMTPA), Kochi (15.5 MMTPA), and Bina, MP (7.8 MMTPA) make it the second-largest petroleum refining company in India. BPCL markets approximately 45 million tonnes of petroleum products annually through its vast distribution network. The company has a strong international presence through its subsidiary BPRL (Bharat PetroResources Limited) with exploration assets in Brazil, Mozambique, and UAE.</p>
+<h2>Life as a BPCL Management Trainee</h2>
+<p>Management Trainees at BPCL undergo a rigorous 1-year training programme that rotates them through different functions and locations — from refinery operations to retail marketing, from logistics to finance. This 360-degree exposure gives BPCL trainees a comprehensive understanding of the petroleum business that is rarely available in the first year of employment in other organisations. Post-training confirmation comes with clear KPIs and a structured career roadmap.</p>
+
+<h2>GATE Preparation for BPCL Management Trainee</h2>
+<p>For GATE 2026 preparation targeting BPCL recruitment, focus on your core engineering discipline comprehensively. BPCL scores shortlisted candidates based purely on GATE percentile — typically the top 15–20% of GATE qualifiers in each eligible discipline receive interview calls. For Chemical Engineers, focus on Process Control, Mass Transfer, Thermodynamics, and Chemical Reaction Engineering. For Mechanical, emphasise Fluid Mechanics, Heat Transfer, and Thermodynamics. Regular mock tests and previous year GATE papers are essential.</p>
+<h2>BPCL Interview Preparation</h2>
+<p>BPCL's GD/Interview evaluates both technical knowledge and soft skills. Common interview themes include: knowledge of petroleum refining and distribution, awareness of current oil prices and energy policy, BPCL's business segments and recent developments, career goals, and situational judgment. Prepare for HR questions on teamwork, leadership, and handling work pressure. Knowledge of HSE (Health, Safety, and Environment) standards in the petroleum industry is highly valued.</p>
 `;
 

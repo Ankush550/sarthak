@@ -1,18 +1,20 @@
 User-agent: *
 Allow: /
 Allow: /pages/
+Allow: /assets/
 Allow: /pages/jobs.html
 Allow: /pages/job-detail.html
 Allow: /pages/results.html
 Allow: /pages/schemes.html
 Allow: /pages/private-jobs.html
-Allow: /pages/private-jobs-list.html
 Allow: /pages/job-finder.html
 Allow: /pages/sitemap.html
-Allow: /pages/search.html
+Allow: /pages/about-us.html
+Allow: /pages/contact.html
+Allow: /pages/privacy-policy.html
+Allow: /pages/disclaimer.html
+Allow: /pages/terms-conditions.html
 
-Disallow: /assets/
-Disallow: /*.json$
 Disallow: /pages/search.html?q=
 
 Sitemap: https://sarthakyojana.in/sitemap.xml
