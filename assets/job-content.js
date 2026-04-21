@@ -589,6 +589,15 @@ JOB_CONTENT["pnb-specialist-officer-2026"] = `
 <p><strong>Q: Can a fresh engineering graduate apply for PNB Specialist Officer 2026?</strong><br>A: No. Minimum 1 year post-qualification work experience in the relevant engineering field is mandatory.</p>
 <p><strong>Q: Can I apply for both Civil and Electrical posts?</strong><br>A: No. Only one post per candidate is permitted. If multiple applications are submitted, only the latest valid application will be considered.</p>
 <p><strong>Q: Is there an interview even if the online test is not held?</strong><br>A: Yes. If the number of applications is small, PNB may directly call shortlisted candidates for a Personal Interview of 50 marks under Scenario 2.</p>
+
+<h2>PNB Specialist Officer Salary 2026 – Pay Scale Details</h2>
+<p>Selected candidates will draw pay in <strong>JMG Scale I with starting basic pay of approximately Rs. 36,000 – 47,920 per month</strong>. The gross salary including DA, CCA, HRA (8.5%/7.5%/6.5% depending on city), and Special Allowance is approximately <strong>Rs. 75,000 – 90,000 per month</strong> in metro cities. PNB follows the IBA (Indian Banks' Association) wage structure applicable to all nationalised banks. In addition to salary, PNB officers are entitled to: Medical Aid (self and family), LFC/LTC, Gratuity, Pension/NPS, Professional Development Allowance, and Newspaper/Mobile reimbursement as per IBA norms.</p>
+<h2>Apply Online – PNB SO Engineer 2026</h2>
+<p>The online application for PNB Specialist Officer (Engineer) Recruitment 2026 is available at <strong>https://ibpsreg.ibps.in/pnbvpapr26/</strong> under the Recruitment/Career section on the official PNB website (<strong>pnb.bank.in</strong>). Candidates who want to apply online must keep their educational certificates, experience letters, Aadhaar, and bank details ready. After submission, download the application form PDF for future reference. The application portal closes on 05 May 2026 at 11:59 PM.</p>
+<h2>Admit Card and Result</h2>
+<p>After the application window closes, PNB will release Admit Cards/Call Letters for the Online Test approximately 7–10 days before the examination date. Admit cards will be available for download on the official PNB website. After the online test on 27 May 2026, results will be declared and shortlisted candidates called for Personal Interview. Final result and selection list will be published on pnb.bank.in.</p>
+
+<p>The <strong>official website</strong> for PNB Specialist Officer 2026 application is pnb.bank.in. Visit the official website for latest updates and notification PDF download.</p>
 `;
 
 JOB_CONTENT["ssc-selection-post-phase14-2026"] = `
@@ -669,6 +678,13 @@ JOB_CONTENT["ssc-selection-post-phase14-2026"] = `
 <p>For posts requiring typing skills, practice achieving the prescribed speed (usually 35 WPM in English or 30 WPM in Hindi). For data entry posts, practice numeric and alphanumeric data entry speed as per the User Department's requirements. All skill tests are qualifying — they don't add to your score but must be cleared.</p>
 <h3>Document Verification Preparation</h3>
 <p>Keep all original documents ready: education certificates and mark sheets from 10th onwards, caste/EWS certificate (in GOI format), Aadhaar card, and any sports/NCC achievement certificates. Ensure caste certificates are recent and from a competent authority as per GOI format.</p>
+
+<h2>SSC Selection Post Phase 14 Salary 2026</h2>
+<p>Selection Posts are placed in <strong>Pay Levels 1 to 8</strong> of the 7th CPC Pay Matrix. The basic pay ranges from approximately <strong>Rs. 18,000/month (Level 1) to Rs. 47,600/month (Level 8)</strong>. In addition to basic pay, all Central Government employees receive Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA), and other admissible allowances. The gross monthly salary for most Selection Post vacancies ranges from Rs. 25,000 to Rs. 65,000 depending on the pay level and city of posting.</p>
+<h2>Apply Online – SSC Phase 14 2026</h2>
+<p>Candidates must apply online through the official SSC website at <strong>www.ssc.gov.in</strong> or through the mySSC mobile application. The application window is open from 13 April to 04 May 2026 (23:00 hours). Fee payment deadline is 05 May 2026. The Application Form Correction Window is available from 11 to 13 May 2026 for candidates who need to edit their submitted forms. No other mode of application is accepted.</p>
+<h2>SSC Phase 14 Admit Card and Result 2026</h2>
+<p>Admit Cards for SSC Selection Post Phase 14 CBT will be available for download on ssc.gov.in approximately 7–10 days before the examination. The Computer Based Examination is tentatively scheduled for June 2026. Results will be declared on ssc.gov.in, and shortlisted candidates will be called for Skill Tests and Document Verification by respective User Departments. Final results and appointment orders are issued by the User Departments.</p>
 `;
 
 JOB_CONTENT["bpcl-entry-level-250-2026"] = `
@@ -757,6 +773,14 @@ JOB_CONTENT["bpcl-entry-level-250-2026"] = `
 <p>Junior Executives join at E1 Grade and can progress to Senior Executives (E2), Assistant Managers (E3), Deputy Managers (E4), and beyond through annual performance appraisals and internal promotions. BPCL has a transparent Performance Management System and provides regular training through its in-house learning centres and tie-ups with premier institutes like IIMs.</p>
 <h3>BPCL Work Culture</h3>
 <p>BPCL has a 5-day work week at most corporate offices, a flexible benefits cafeteria system, strong focus on employee health and wellness, and regular staff engagement initiatives. The company provides subsidised LPG, fuel cards, concessional loans, and comprehensive medical coverage for employees and their families, making the effective compensation significantly higher than the gross CTC figures suggest.</p>
+
+<h2>BPCL Entry Level 250 Posts – Salary, Vacancy and Apply Online</h2>
+<p>BPCL Entry Level Profiles 2026 has <strong>250 indicative vacancies</strong> across Junior Executive (Engineering – 175, Accounts – 25, Wayside Amenities – 10), Secretary BPCL (8), and Associate Executive (QA – 30, OL – 2). Category-wise reservation as per Government of India norms. All vacancies are on a regular/permanent basis.</p>
+<p><strong>Salary:</strong> Junior Executive/Secretary – Pay Scale Rs. 30,000–1,20,000 (CTC approx. <strong>Rs. 12.28 lakh/year</strong>). Associate Executive – Rs. 40,000–1,40,000 (CTC approx. <strong>Rs. 17.11 lakh/year</strong>). Apply online at <strong>bharatpetroleum.in</strong> → Careers → Job Openings → Entry Level Profiles 2026. Last date: <strong>17 May 2026</strong>. Application fee: Rs. 1,180 (UR/OBC/EWS) | Nil (SC/ST/PwBD).</p>
+<h2>Admit Card and Result for BPCL Entry Level 2026</h2>
+<p>BPCL will issue call letters/admit cards for the Written/CBT exam to shortlisted candidates by email on their registered email IDs. Post-exam shortlisted candidates receive GD/Interview call letters. Final selection list and offer letters are communicated to selected candidates through their registered email. Keep your registered email ID and mobile number active throughout the recruitment process to receive all updates from BPCL.</p>
+
+<p>The <strong>official website</strong> for BPCL Entry Level Profiles 2026 is bharatpetroleum.in. The official notification PDF is available under Careers → Job Openings.</p>
 `;
 
 JOB_CONTENT["ssb-paramedical-2026"] = `
@@ -833,6 +857,15 @@ JOB_CONTENT["ssb-paramedical-2026"] = `
 <p>Working in SSB provides unique career exposure — postings span Nepal border areas in Uttarakhand, Bihar, West Bengal, Sikkim, and Bhutan border areas in Arunachal Pradesh and Assam. The work environment is disciplined, respectful, and professionally rewarding. Free housing at SSB camps, mess facilities, and border area allowances significantly enhance the take-home compensation over and above the official pay scale.</p>
 <h3>Training Details</h3>
 <p>Newly recruited SSB paramedical personnel undergo initial basic training at the SSB Training Centre. Trade-specific refresher training is also conducted periodically. SSB also encourages career development through deputation to other forces and central health establishments for skill enhancement.</p>
+
+<h2>SSB Paramedical Salary 2026 – Pay Details</h2>
+<p>SSB Head Constable (Lab Assistant and Physiotherapy Assistant) posts carry <strong>Level 4 Pay Scale of Rs. 25,500 – 81,100 per month</strong>. Constable (Nursing Assistant cum Medic) carries <strong>Level 3 Pay Scale of Rs. 21,700 – 69,100 per month</strong>. With DA, HRA, Ration Money, and other allowances, the gross monthly take-home for Head Constable posts is approximately Rs. 40,000–50,000 per month depending on posting location. Border area postings attract additional High Altitude Allowance of Rs. 3,400–25,000 per month.</p>
+<h2>Apply Online – SSB Paramedical 2026</h2>
+<p>Candidates must apply online only at the official SSB Recruitment website: <strong>https://recruitment.ssb.gov.in/</strong>. The application window has been extended to <strong>04 May 2026</strong>. No offline applications are accepted. Each candidate can apply for only ONE post. After successful submission, download and print the application form for reference at the recruitment venue. Admission cards/Call letters for PET/PST will be available on recruitment.ssb.gov.in.</p>
+<h2>SSB Paramedical Admit Card and Result 2026</h2>
+<p>Admit Cards for PET/PST will be uploaded on <strong>recruitment.ssb.gov.in</strong> before the recruitment dates. Candidates must download and carry their admit card along with original certificates to the recruitment venue. Post-selection, the final result and merit list will be published on the official SSB website. Selected candidates will receive appointment/joining letters directly from SSB.</p>
+
+<p>The <strong>official website</strong> for SSB Paramedical Recruitment 2026 is recruitment.ssb.gov.in. All updates, admit cards, and results will be published only on the official website.</p>
 `;
 
 JOB_CONTENT["ssb-asi-paramedical-2026"] = `
@@ -911,6 +944,13 @@ JOB_CONTENT["ssb-asi-paramedical-2026"] = `
 <p>ASI paramedical personnel may be posted at SSB Sector Headquarters, Frontier Headquarters, Battle Casualty Area Hospitals, or field units along the Indo-Nepal and Indo-Bhutan borders. Postings in remote/border areas attract significant additional allowances — High Altitude Allowance (up to Rs. 18,000/month), Counter-Insurgency Allowance, and Hard Area Allowance — that can substantially increase the overall monthly compensation.</p>
 <h3>Role and Responsibilities</h3>
 <p>ASI Radiographer operates X-Ray, CT, and digital radiography equipment at SSB field hospitals. ASI Pharmacist manages drug dispensing, inventory, and pharmaceutical compliance. ASI OT Technician assists surgeons in Operation Theatre procedures. ASI Dental Technician fabricates and maintains dental prosthetics and assists dental surgeons. All ASI paramedical staff may also be deployed in disaster relief and humanitarian operations.</p>
+
+<h2>SSB ASI Salary and Vacancy Details 2026</h2>
+<p>Total <strong>7 vacancies</strong> for SSB ASI Paramedical posts: Radiographer (3), Pharmacist (2), OT Technician (1), Dental Technician (1). Category-wise distribution: UR–4, OBC–2, ST–1. All ASI posts carry <strong>Pay Level 5 (Rs. 29,200 – 92,300/month)</strong>. With DA, HRA, Ration Money, and other allowances, the approximate gross monthly salary is <strong>Rs. 40,000 – 50,000</strong>. Border area postings attract High Altitude Allowance up to Rs. 25,000/month additionally.</p>
+<h2>Apply Online – SSB ASI 2026 and Admit Card</h2>
+<p>Apply online at <strong>https://recruitment.ssb.gov.in/</strong>. Last date (extended): <strong>04 May 2026</strong>. Application fee: Rs. 100 (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM). Only ONE post can be applied for per candidate. Admit cards for PET/PST will be released on recruitment.ssb.gov.in before the recruitment test dates. CBT Admit Cards will also be released separately. Final result and merit list will be published on ssb.gov.in after all selection stages are completed.</p>
+
+<p>The <strong>official website</strong> for SSB ASI Paramedical Recruitment 2026 is recruitment.ssb.gov.in. Visit the official website regularly for exam schedule and admit card download.</p>
 `;
 
 JOB_CONTENT["ssb-head-constable-nongd-2026"] = `
@@ -983,6 +1023,13 @@ JOB_CONTENT["ssb-head-constable-nongd-2026"] = `
 <p><strong>Q: Which post has the most vacancies in SSB HC Non-GD 2026?</strong><br>A: Head Constable (Communication) has the highest vacancies at 197 out of 233 total posts.</p>
 <p><strong>Q: Is there a skill test for all posts?</strong><br>A: Skill Test is only for Head Constable (Electrician) — it is qualifying in nature and marks are not counted in final merit.</p>
 <p><strong>Q: What happens if I get equal marks as another candidate?</strong><br>A: Priority is given to the candidate with more marks in Part-II (Technical), then the senior-in-age candidate, then alphabetical order of names in English.</p>
+
+<h2>SSB Head Constable Non-GD Salary 2026</h2>
+<p>All Head Constable (Non-GD) posts — Communication, Electrician, Veterinary, and Steward — carry <strong>Level 4 Pay Scale of Rs. 25,500 – 81,100 per month</strong> as per 7th CPC. With Dearness Allowance, Ration Money, HRA, and all other allowances, the gross monthly compensation is approximately <strong>Rs. 38,000–52,000</strong> depending on posting location. Personnel posted in border areas receive additional allowances including Hard Area Allowance and High Altitude Allowance up to Rs. 25,000/month.</p>
+<h2>Apply Online – SSB Head Constable 2026</h2>
+<p>Apply only through the official SSB recruitment portal at <strong>https://recruitment.ssb.gov.in/</strong>. The application deadline has been extended to <strong>04 May 2026</strong>. Applications through any other mode (email/post/offline) will be rejected. Candidates should apply for only one post. After form submission, take a printout of the application and bring it along with all original certificates to the PET/PST venue as specified in the admit card.</p>
+<h2>Admit Card, Result and Selection List</h2>
+<p>SSB Head Constable Non-GD Admit Cards for PET/PST will be uploaded on recruitment.ssb.gov.in before the recruitment test dates. The Written Exam Admit Card will also be released separately on the official website. After all selection stages are completed, the final merit list and result will be published on the SSB recruitment portal and official SSB website ssb.gov.in.</p>
 `;
 
 
@@ -1064,6 +1111,8 @@ JOB_CONTENT["territorial-army-officer-2026"] = `
 <p>After selection and commissioning, Territorial Army officers undergo initial basic military training at the IMA (Indian Military Academy) or designated training centres. The training duration for TA officers is generally shorter than Regular Army training but covers military tactics, weapon handling, field craft, map reading, and leadership skills essential for operational deployment during embodied service periods.</p>
 <h2>Life as a Territorial Army Officer</h2>
 <p>Being a TA officer means living a dual life — a civilian career during normal times and a fully trained military officer when embodied. TA officers receive the same military courtesies, use of service messes, access to CSD (Canteen Stores Department) facilities, medical treatment at military hospitals, and all post-retirement military benefits including pension (after qualifying service) as regular Army officers. The social prestige and honour of holding a commission in the Indian Army is a lifelong privilege that cannot be quantified in monetary terms.</p>
+
+<p>Pay during training and embodied service: Lieutenant salary is Rs. 56,100 – 1,77,500/month (Level 10) plus MSP of Rs. 15,500. The <strong>official website</strong> for TA Officer application is indianarmy.nic.in.</p>
 `;
 
 JOB_CONTENT["crpf-constable-tradesman-2026"] = `
@@ -1129,6 +1178,15 @@ JOB_CONTENT["crpf-constable-tradesman-2026"] = `
 <p>CRPF is deployed across India and in sensitive security zones. Tradesmen typically serve at Group Centre camps, CRPF Institutes, and operational bases. Postings may include states under LWE (Left Wing Extremism) operations, North East India, Jammu & Kashmir, and metro cities for VIP security duties. Special area allowances are payable for posts in difficult terrains and operational areas.</p>
 <h2>Promotional Avenues for CRPF Constable</h2>
 <p>After joining as Constable, there are regular promotional avenues through departmental competitive examinations and seniority-based promotions: Constable → Head Constable → ASI (Assistant Sub Inspector) → Sub Inspector → Inspector. Exceptional performers may also avail internal departmental limited competitive examinations for accelerated promotions. CRPF also offers in-service training courses to enhance trade skills and leadership capabilities.</p>
+
+<h2>Apply Online for CRPF Constable Tradesman 2026</h2>
+<p>The official online application form for CRPF Constable Tradesman 2026 is available at <strong>www.crpf.gov.in</strong>. Candidates must apply online only — no offline applications are accepted. The last date to apply online is <strong>15 May 2026</strong>. Keep your Aadhaar card, 10th/ITI certificates, bank account details, and passport-size photograph ready before starting the application. Fee payment is through the SBI Collect portal.</p>
+<h2>CRPF Constable Tradesman Salary 2026</h2>
+<p>Selected CRPF Constable Tradesman candidates are placed in <strong>Pay Level 3 (Rs. 21,700 – 69,100/month)</strong> as per 7th CPC. With Dearness Allowance, Ration Money, HRA, and other applicable allowances, the effective gross monthly compensation is approximately <strong>Rs. 32,000 – 42,000 per month</strong>. CRPF also provides free accommodation, medical benefits, CSD canteen, and pension benefits through NPS.</p>
+<h2>CRPF Constable Tradesman Admit Card and Result</h2>
+<p>After the application window closes, CRPF will issue Admit Cards for the Computer Based Examination on www.crpf.gov.in. Candidates must carry the admit card along with a valid photo ID to the CBE centre. After the written test, PET and Trade Test admit cards/call letters will be issued separately. The final selection list and result will be published on the official CRPF website.</p>
+
+<p>The <strong>official website</strong> for CRPF Constable Tradesman 2026 application is www.crpf.gov.in. All recruitment updates, admit cards, and results are published on the official CRPF website.</p>
 `;
 
 JOB_CONTENT["rbi-junior-engineer-2026"] = `
@@ -1197,6 +1255,15 @@ JOB_CONTENT["rbi-junior-engineer-2026"] = `
 <p>RBI Junior Engineers start at Grade A (Level 1 in RBI parlance) and progress through Grade B, Grade C, and higher grades through Annual Performance Appraisals and internal examinations. RBI pays among the highest salaries in the public sector — senior RBI engineers with 10–15 years of experience can earn upward of Rs. 1.5–2 lakh per month gross. The organisation also supports study leave for higher education, deputation to international institutions, and participation in professional conferences.</p>
 <h2>Posting Locations for RBI Junior Engineers</h2>
 <p>RBI has 31 offices across India including Mumbai (headquarters), Delhi, Chennai, Kolkata, Bengaluru, Hyderabad, Ahmedabad, Bhopal, Bhubaneswar, Chandigarh, Guwahati, Jaipur, Jammu, Kanpur, Lucknow, Nagpur, Patna, and other cities. Engineers may be posted to any of these offices and transferred periodically as per RBI's transfer policy.</p>
+
+<h2>Apply Online for RBI Junior Engineer 2026</h2>
+<p>The online application for RBI Junior Engineer (Civil and Electrical) 2026 is available on the official RBI website at <strong>www.rbi.org.in</strong> under the "Opportunities @ RBI" section. Last date to apply online is <strong>10 May 2026</strong>. Candidates need to complete One-Time Registration on the RBI candidate portal before filling the application form. After submitting the form and paying the application fee, download the application form PDF and preserve it for future reference.</p>
+<h2>RBI JE Vacancy 2026 and Selection Process</h2>
+<p>Vacancies are available for Junior Engineer (Civil) and Junior Engineer (Electrical) across multiple RBI offices pan-India. The selection involves a <strong>Phase 1 Online Examination (200 marks)</strong> followed by a <strong>Phase 2 Personal Interview (50 marks)</strong>. Final merit is prepared in the ratio of 80:20 (Phase 1:Interview). Candidates must secure minimum qualifying marks in both phases separately.</p>
+<h2>RBI JE Admit Card and Result 2026</h2>
+<p>The RBI Phase 1 Online Examination Admit Card will be available for download on www.rbi.org.in approximately 10–14 days before the exam date. Results of Phase 1 will be declared on the RBI website. Shortlisted candidates for Phase 2 Interview will receive separate call letters by email. Final result and merit list will be published on rbi.org.in after the interview process is complete.</p>
+
+<p>The <strong>official website</strong> for RBI Junior Engineer 2026 recruitment and application is www.rbi.org.in under the Opportunities@RBI section.</p>
 `;
 
 JOB_CONTENT["nhpc-apprentice-2026"] = `
@@ -1257,6 +1324,17 @@ JOB_CONTENT["nhpc-apprentice-2026"] = `
 <p>Candidates must have the following documents ready before applying: ITI/Diploma/Degree certificate and marksheets (all semesters/years), date of birth proof (10th certificate), caste certificate in GOI format (for SC/ST/OBC), Aadhaar card, recent passport-size photographs (white background), NATS/NAPS registration number, and a valid bank account passbook for stipend transfer. All documents should be scanned at minimum 200 DPI in JPG or PDF format as per NHPC's prescribed file size limits.</p>
 <h2>NHPC's Contribution to India's Energy Sector</h2>
 <p>NHPC contributes approximately 3.5% of India's total installed power generation capacity and is one of the top hydropower companies globally by installed capacity. The company is ranked as a Miniratna Category-I CPSE with a strong financial record, making it a stable and financially sound organisation for long-term apprenticeship and potential permanent employment.</p>
+
+<h2>Apply Online for NHPC Apprentice 2026</h2>
+<p>Candidates must apply for NHPC Apprenticeship 2026 through two steps: (1) Register on the NATS portal at <strong>www.apprenticeship.gov.in</strong> (for Diploma/Graduate) or NAPS portal (for ITI/Trade), and (2) Apply on the official NHPC website at <strong>www.nhpcindia.com</strong> → Recruitment → Apprentice 2026. No application fee is charged. Last date: <strong>28 April 2026</strong>. Applications submitted after the deadline will not be considered.</p>
+<h2>NHPC Apprentice Stipend and Vacancy 2026</h2>
+<p>NHPC Apprentice monthly stipend: Trade Apprentice – <strong>Rs. 7,700 – 8,050</strong>, Technician Apprentice – <strong>Rs. 8,050</strong>, Graduate Apprentice – <strong>Rs. 9,000</strong>. Vacancies are distributed across NHPC's projects in Himachal Pradesh, J&K, Uttarakhand, Manipur, Arunachal Pradesh, Tripura, and Corporate Office (Faridabad). Selection is purely merit-based on qualifying exam marks — no separate written test or interview.</p>
+<h2>NHPC Apprentice Selection Process and Result</h2>
+<p>Selection is based on merit in the qualifying examination (ITI/Diploma/Degree marks percentage). No separate written test or interview is conducted. Shortlisted candidates are informed by email. The apprenticeship starts with an Appointment Letter and an Apprenticeship Contract signed under the Apprentices Act 1961. The completion certificate is issued by NHPC after successful completion of the training period.</p>
+
+<p>NHPC Apprentice monthly stipend: Graduate Apprentice Rs. 9,000, Technician Apprentice Rs. 8,050, Trade Apprentice Rs. 7,700–8,050. The <strong>official website</strong> for NHPC Apprentice 2026 application is www.nhpcindia.com.</p>
+
+<p>NHPC Apprentice <strong>salary</strong> (monthly stipend): Trade Apprentice Rs. 7,700–8,050, Technician Apprentice Rs. 8,050, Graduate Apprentice Rs. 9,000. After completing the programme, the completion certificate serves as the <strong>admit card</strong> equivalent credential for NHPC future recruitment processes. There is no separate admit card for NHPC Apprentice — selected candidates are directly issued Apprenticeship Contract under the Apprentices Act.</p>
 `;
 
 JOB_CONTENT["mcl-technician-2026"] = `
@@ -1326,6 +1404,13 @@ JOB_CONTENT["mcl-technician-2026"] = `
 <p>MCL is one of the three largest coal producing subsidiaries of Coal India Limited, consistently producing over 150 million tonnes per year. Its mines supply coal to major power plants in Odisha, Andhra Pradesh, Telangana, and Maharashtra, making it a critical pillar of India's energy security. MCL has an ambitious production target of 200 MT annually by 2030, which will require significant expansion in its workforce and infrastructure.</p>
 <h2>Preparing for MCL CBT Exam</h2>
 <p>For the trade/technical section (40 marks), focus on your ITI or Mining Sirdar syllabus comprehensively. For the Mining Sirdar specifically, study Coal Mines Regulations (CMR) 2017, Mines Act 1952, DGMS circulars on gas testing, and blast hole drilling procedures. For GK, focus on Odisha-specific general knowledge, Coal India developments, and national energy policy. Previous year Coal India Limited (CIL) subsidiary exam papers are the best preparation resource.</p>
+
+<h2>MCL Technician Vacancy 2026 – Apply Online</h2>
+<p>The MCL Technician Recruitment 2026 application is available online at <strong>www.mahanadicoal.in</strong> → Recruitment → Technician 2026. Last date to apply online: <strong>08 May 2026</strong>. Total vacancies are distributed across all MCL establishments in Odisha. Category-wise (UR/OBC/SC/ST/EWS) vacancy details are available in the official notification PDF on the MCL website. No offline/postal applications are accepted.</p>
+<h2>MCL Technician Salary and Pay Scale 2026</h2>
+<p>MCL Technicians are placed in <strong>T&S Grade 'C'</strong> under the National Coal Wage Agreement (NCWA). Starting basic pay: approximately <strong>Rs. 30,000 – 35,000 per month</strong> with Variable Dearness Allowance (VDA), Food Allowance, and other benefits. Total monthly take-home is approximately <strong>Rs. 45,000 – 55,000</strong>. Annual CTC is approximately <strong>Rs. 7–8 lakh</strong>. Coal India provides some of the best non-officer level compensation packages in the Indian PSU sector.</p>
+<h2>MCL Technician Admit Card, Result and Selection List 2026</h2>
+<p>MCL CBT Admit Cards will be uploaded on <strong>www.mahanadicoal.in</strong> approximately 10 days before the examination. Candidates must download and carry the admit card to the CBE centre along with a valid photo ID. Post-CBT shortlisted candidates will be called for Document Verification and Medical Examination. Final selection result and joining instructions will be communicated on the MCL official website and by registered post to selected candidates.</p>
 `;
 
 JOB_CONTENT["secl-mining-sirdar-2026"] = `
@@ -1387,6 +1472,13 @@ JOB_CONTENT["secl-mining-sirdar-2026"] = `
 <p>SECL provides industry-leading employee welfare benefits including free medical treatment at SECL hospitals and dispensaries for employee and family, residential colonies with essential facilities at all major mine locations, free primary and secondary schooling for employees' children at SECL-managed schools (CBSE curriculum), CSD canteen benefits, annual leave with fare concession, and coal allowance for household use. SECL also maintains sports facilities and cultural programmes across all its establishments.</p>
 <h2>SECL's Major Mine Locations</h2>
 <p>SECL operates mines across multiple districts of Chhattisgarh and Madhya Pradesh. Major opencast mines include Gevra OCP, Kusmunda OCP, and Dipka OCP in Korba district — among the largest in India. Underground mining operations are at Rajendra, Rajnagar, and Bhatgaon in the Korba coalfield. In MP, operations span Singrauli, Umaria, and Anuppur districts. Selected Mining Sirdars may be posted at any of these locations based on vacancy availability.</p>
+
+<h2>SECL Mining Sirdar Vacancy 2026 – Apply Online</h2>
+<p>The official application for SECL Mining Sirdar 2026 is available at <strong>www.secl.co.in</strong> → Recruitment → Mining Sirdar 2026. Last date to apply online: <strong>12 May 2026</strong>. Vacancies are distributed across UR/OBC/SC/ST/EWS categories for SECL's mines in Chhattisgarh and Madhya Pradesh. Candidates must have their DGMS Mining Sirdar Certificate scanned and ready for upload before starting the application. Application fee payment is through the designated online gateway.</p>
+<h2>SECL Mining Sirdar Salary 2026</h2>
+<p>SECL Mining Sirdars are placed in <strong>T&S Grade 'C'</strong> under NCWA. Starting basic pay approximately <strong>Rs. 30,000+/month</strong>. With VDA, Food Allowance, and other NCWA benefits, the gross monthly compensation is approximately <strong>Rs. 45,000 – 55,000</strong>. Annual CTC approximately <strong>Rs. 7–8.5 lakh</strong>. SECL also provides free accommodation, free medical care, coal allowance, children's education facilities, and excellent retirement benefits including CMPFO Provident Fund and Gratuity.</p>
+<h2>SECL Admit Card, CBT Exam Date and Result 2026</h2>
+<p>SECL CBT (Computer Based Test) Admit Cards for Mining Sirdar 2026 will be uploaded on the official SECL website <strong>www.secl.co.in</strong> before the exam date. Candidates must download and carry the admit card along with a valid photo ID to the examination centre. Post-CBT, shortlisted candidates will be called for Document Verification and Medical Examination. Final result and appointment letters will be issued to selected candidates through the SECL official website and by post.</p>
 `;
 
 JOB_CONTENT["ngel-dgm-am-2026"] = `
@@ -1452,6 +1544,15 @@ JOB_CONTENT["ngel-dgm-am-2026"] = `
 <p>India has one of the world's most ambitious renewable energy programmes. With a 500 GW non-fossil fuel target by 2030 and Net Zero by 2070, NGEL/NTPC Green plays a pivotal role. NGEL is currently developing ultra-mega renewable energy projects including the 4,750 MW Rewa Ultra Mega Solar Project and multiple wind energy parks in Gujarat, Tamil Nadu, and Rajasthan. Career professionals joining NGEL at this stage have the opportunity to shape India's clean energy future from ground level.</p>
 <h2>NGEL Recruitment Notice for DGM and AM</h2>
 <p>Candidates interested in joining NGEL should regularly check the official NTPC Green website (ntpcgreen.com) for notification updates. The recruitment process is transparent and merit-based. All shortlisted candidates are notified by email for CBT and interview dates. Travel Allowance (TA) is reimbursed for interview attendance as per NTPC/NGEL rules for candidates from outside the interview city.</p>
+
+<h2>NGEL DGM and AM Vacancy 2026 – Apply Online</h2>
+<p>Applications for NGEL DGM and AM posts 2026 are accepted online at <strong>www.ntpcgreen.com</strong> or <strong>www.ntpc.co.in</strong> → Careers → Current Openings. Last date to apply: <strong>03 June 2026</strong>. Total vacancies are distributed across technical (Electrical, Civil, Mechanical) and non-technical (Finance, HR, Legal, IT, Environment) departments. Category-wise (UR/OBC/SC/ST/EWS) reservation applies as per Government of India norms. Online payment of application fee through net banking or debit/credit card.</p>
+<h2>NGEL DGM and AM Salary 2026</h2>
+<p>AM (E2 Grade): <strong>Pay Scale Rs. 50,000 – 1,60,000/month</strong>. Approximate annual CTC: <strong>Rs. 12–15 lakh</strong>. DGM (E6 Grade): <strong>Pay Scale Rs. 1,00,000 – 2,60,000/month</strong>. Approximate annual CTC: <strong>Rs. 30–35 lakh</strong>. Both grades receive DA (IDA pattern), HRA, Perquisites in lieu (cafeteria approach), Performance Related Pay (PRP), Group Medical Insurance, LTC, PF, and Superannuation benefits. NTPC/NGEL offers some of the best remuneration in the Central PSU sector.</p>
+<h2>NGEL Selection Process, Admit Card and Result 2026</h2>
+<p>AM posts: CBT (Computer Based Test) on NTPC approved exam centres followed by Personal Interview. Admit cards for CBT will be released on ntpcgreen.com/ntpc.co.in. DGM posts: Direct Personal Interview based on application screening. Interview call letters sent by email. Final result/merit list published on official NGEL/NTPC website. Travel Allowance (TA) reimbursed for interview travel as per NTPC rules.</p>
+
+<p>The <strong>official website</strong> for NGEL DGM and AM Recruitment 2026 is www.ntpcgreen.com. Candidates can also check the NTPC careers page at www.ntpc.co.in for notification updates.</p>
 `;
 
 JOB_CONTENT["aadhaar-operator-supervisor-2026"] = `
@@ -1504,6 +1605,17 @@ JOB_CONTENT["aadhaar-operator-supervisor-2026"] = `
 <p>The most common Aadhaar update requests that Operators handle daily include: Address Update (via Document-based or Head of Family route), Name Correction, Date of Birth correction, Gender update, Mobile number linking, Email linking, and Biometric update (for fingerprints/iris that have changed due to age or other factors). Each service has its own document requirements and verification steps, all of which are covered in the NSEIT certification examination.</p>
 <h2>UIDAI's Quality Standards for Operators</h2>
 <p>UIDAI maintains strict quality standards for all Aadhaar enrolment and update data. Operators are evaluated on biometric capture quality scores, demographic data accuracy, and exception handling. Consistent low-quality operators risk having their Operator IDs suspended by UIDAI. This makes the NSEIT certification — which tests understanding of proper biometric capture techniques and data entry protocols — extremely important for anyone who wants a sustainable career in Aadhaar services.</p>
+
+<h2>Aadhaar Operator Exam – Vacancy, Eligibility and Apply Online</h2>
+<p>The Aadhaar Operator and Supervisor Certification is not a traditional recruitment but a <strong>mandatory certification exam</strong> for anyone who wishes to legally operate an Aadhaar Enrolment Station. There is no fixed vacancy count — certification opens up employment opportunities with any UIDAI-empanelled Registrar agency, Common Service Centre (CSC), bank branch, or post office providing Aadhaar services. Minimum age: 18 years. Minimum qualification: 10th pass (Operator), 12th pass (Supervisor). No upper age limit.</p>
+<h2>Aadhaar Operator Exam Fee and Salary 2026</h2>
+<p>Examination fee: <strong>Rs. 300 + GST</strong> for Operator, <strong>Rs. 400 + GST</strong> for Supervisor. The fee is paid online through the NSEIT examination portal at nseitexams.com. After certification, Aadhaar Operators earn approximately <strong>Rs. 8,000 – 15,000 per month</strong> through CSC or bank Aadhaar centres based on the volume of enrolments and updates processed. Supervisors earn slightly higher. High-traffic urban enrolment centres generate more income. Payment is typically on a per-transaction incentive basis.</p>
+<h2>How to Apply for Aadhaar Operator Certification 2026</h2>
+<p>Apply online at <strong>www.nseitexams.com</strong> → UIDAI Aadhaar Certification → Register → Select exam type (Operator/Supervisor) → Choose exam date and centre → Pay fee. Admit card is generated after successful registration. Carry Aadhaar card and Government photo ID to the exam. After passing the exam, the Digital Certificate is available for download within 15 working days. Submit the certificate to your Registrar agency for Operator/Supervisor ID activation on the UIDAI Aadhaar Enrolment Client software.</p>
+<h2>Aadhaar Operator Certification Exam Result</h2>
+<p>Exam results are declared immediately after the computer-based test. You can see your score and pass/fail status on the NSEIT portal right after completing the exam. If you pass, the official Digital Certificate is emailed to your registered email ID and also available for download on nseitexams.com within 15 working days. If you fail, you can re-register and attempt the exam again after the cooling-off period mentioned in the notification. Your existing fee can be applied to the next attempt within the validity window.</p>
+
+<p>The UIDAI Aadhaar Operator certification has no fixed last date — exams are conducted on demand throughout the year. Candidates select their preferred exam date when registering. Selection process: online computer-based test only — no interview or physical test. The <strong>official website</strong> for registration is www.nseitexams.com.</p>
 `;
 
 JOB_CONTENT["bpcl-entry-level-2026"] = `
@@ -1564,5 +1676,12 @@ JOB_CONTENT["bpcl-entry-level-2026"] = `
 <p>For GATE 2026 preparation targeting BPCL recruitment, focus on your core engineering discipline comprehensively. BPCL scores shortlisted candidates based purely on GATE percentile — typically the top 15–20% of GATE qualifiers in each eligible discipline receive interview calls. For Chemical Engineers, focus on Process Control, Mass Transfer, Thermodynamics, and Chemical Reaction Engineering. For Mechanical, emphasise Fluid Mechanics, Heat Transfer, and Thermodynamics. Regular mock tests and previous year GATE papers are essential.</p>
 <h2>BPCL Interview Preparation</h2>
 <p>BPCL's GD/Interview evaluates both technical knowledge and soft skills. Common interview themes include: knowledge of petroleum refining and distribution, awareness of current oil prices and energy policy, BPCL's business segments and recent developments, career goals, and situational judgment. Prepare for HR questions on teamwork, leadership, and handling work pressure. Knowledge of HSE (Health, Safety, and Environment) standards in the petroleum industry is highly valued.</p>
+
+<h2>BPCL Management Trainee Vacancy and Eligibility 2026</h2>
+<p>BPCL Management Trainee (Technical) 2026 vacancies are available for B.E./B.Tech graduates with valid <strong>GATE 2026</strong> scores in Chemical, Mechanical, Electrical, Instrumentation, Civil, Computer Science, and other relevant engineering disciplines. Category-wise vacancies (UR/OBC/SC/ST/EWS) are distributed as per Government of India reservation norms. Total vacancies are typically 50–150 across all disciplines. Age limit: maximum 25 years as on last date.</p>
+<h2>BPCL Management Trainee Salary 2026</h2>
+<p>During 1-year training: Basic Pay approximately <strong>Rs. 40,000/month</strong> with HRA and allowances. On absorption as Junior Officer (E1 Grade): approximately <strong>Rs. 50,000/month basic pay</strong>. Total annual CTC at entry level: approximately <strong>Rs. 12–15 lakh per annum</strong>. Additional benefits: DA (IDA pattern), medical insurance, fuel card, performance-linked variable pay (PRP), PF, Gratuity, LTC, and other BPCL perquisites.</p>
+<h2>BPCL Apply Online, Admit Card and Result 2026</h2>
+<p>Apply online at <strong>www.bharatpetroleum.in</strong> → Careers → Recruitment → Management Trainee (Technical) 2026. Application typically opens March–April 2026 after GATE results. Last date to apply: check bharatpetroleum.in for current notification. GD/Interview Call Letters are sent by email to shortlisted candidates. Interview results and final selection list are published on the BPCL official website. Medical examination is conducted at BPCL-designated hospitals after final selection.</p>
 `;
 
