@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contact Us – SarthakYojana.in | Sarkari Naukri Help</title>
+<meta name="description" content="Contact SarthakYojana.in for queries, job update requests, corrections or feedback. We are here to help with all Sarkari Naukri related questions.">
+<link rel="canonical" href="https://sarthakyojana.in/pages/contact.html">
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;}
+.contact-card{background:#fff;border:1px solid #ddd;border-radius:3px;padding:18px;text-align:center;}
+.contact-card .icon{font-size:28px;margin-bottom:8px;}
+.contact-card h3{font-size:14px;color:#c0392b;margin-bottom:6px;}
+.contact-card p{font-size:12.5px;color:#555;line-height:1.6;}
+.contact-card a{color:#c0392b;font-weight:700;}
+.form-box{background:#fff;border:1px solid #ddd;border-radius:3px;padding:20px;margin-bottom:16px;}
+.form-box h2{font-size:15px;color:#c0392b;border-bottom:2px solid #eee;padding-bottom:8px;margin-bottom:14px;}
+.form-row{margin-bottom:12px;}
+.form-row label{display:block;font-size:12.5px;color:#555;margin-bottom:4px;font-weight:700;}
+.form-row input,.form-row select,.form-row textarea{width:100%;padding:8px 10px;border:1px solid #ccc;border-radius:3px;font-size:13px;font-family:Arial,sans-serif;}
+.form-row textarea{height:120px;resize:vertical;}
+.form-two{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+.submit-btn{background:#c0392b;color:#fff;border:none;padding:10px 28px;border-radius:3px;font-size:13px;font-weight:700;cursor:pointer;margin-top:4px;}
+.submit-btn:hover{background:#a93226;}
+.success-msg{display:none;background:#d5f5e3;border:1px solid #a9dfbf;color:#1e8449;padding:12px 16px;border-radius:3px;font-size:13px;margin-top:10px;}
+@media(max-width:600px){.contact-grid,.form-two{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+<div id="site-header"></div>
+<div id="ticker-wrap"></div>
+<div class="breadcrumb"><div class="breadcrumb-inner"><a href="../index.html">Home</a> &rsaquo; Contact Us</div></div>
+
+<div class="center">
+  <div class="page-title-box"><h1>Contact Us – SarthakYojana.in</h1></div>
+
+  <!-- Contact Cards -->
+  <div class="contact-grid">
+    <div class="contact-card">
+      <div class="icon">&#9993;</div>
+      <h3>Email Us</h3>
+      <p>For job update requests, corrections, or general queries:<br>
+      <a href="mailto:info@sarthakyojana.in">info@sarthakyojana.in</a></p>
+    </div>
+    <div class="contact-card">
+      <div class="icon">&#128242;</div>
+      <h3>WhatsApp</h3>
+      <p>Join our WhatsApp channel for instant job alerts:<br>
+      <a href="https://wa.me/919999999999" target="_blank" rel="noopener">+91 99999 99999</a></p>
+    </div>
+    <div class="contact-card">
+      <div class="icon">&#128205;</div>
+      <h3>Address</h3>
+      <p>SarthakYojana.in<br>
+      Jaipur, Rajasthan – 302001<br>India</p>
+    </div>
+    <div class="contact-card">
+      <div class="icon">&#128336;</div>
+      <h3>Response Time</h3>
+      <p>We typically respond within <strong>24–48 hours</strong> on working days (Monday–Saturday).</p>
+    </div>
+  </div>
+
+  <!-- Contact Form -->
+  <div class="form-box">
+    <h2>Send Us a Message</h2>
+    <div class="form-two">
+      <div class="form-row">
+        <label for="cName">Your Name *</label>
+        <input type="text" id="cName" placeholder="Enter your full name">
+      </div>
+      <div class="form-row">
+        <label for="cEmail">Email Address *</label>
+        <input type="email" id="cEmail" placeholder="your@email.com">
+      </div>
+    </div>
+    <div class="form-two">
+      <div class="form-row">
+        <label for="cPhone">Phone Number</label>
+        <input type="tel" id="cPhone" placeholder="+91 XXXXXXXXXX">
+      </div>
+      <div class="form-row">
+        <label for="cSubject">Subject *</label>
+        <select id="cSubject">
+          <option value="">Select Subject</option>
+          <option value="Job Update Request">Job Update Request</option>
+          <option value="Wrong Information">Wrong / Outdated Information</option>
+          <option value="Add New Job">Request to Add New Job</option>
+          <option value="Advertise">Advertising / Partnership</option>
+          <option value="Technical Issue">Technical Issue on Website</option>
+          <option value="Other">Other Query</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-row">
+      <label for="cMsg">Your Message *</label>
+      <textarea id="cMsg" placeholder="Describe your query in detail..."></textarea>
+    </div>
+    <button class="submit-btn" onclick="submitForm()">Send Message &rarr;</button>
+    <div class="success-msg" id="successMsg">
+      &#10003; Thank you! Your message has been sent. We will reply within 24–48 hours.
+    </div>
+  </div>
+
+  <!-- FAQ -->
+  <div class="content-section">
+    <h2>Frequently Asked Questions</h2>
+    <h3>How can I request adding a new job notification?</h3>
+    <p>Use the contact form above with subject "Request to Add New Job" and provide the official notification link. We review and publish within 24 hours.</p>
+    <h3>How do I report wrong or outdated information?</h3>
+    <p>Select "Wrong / Outdated Information" in the subject dropdown and provide the correct details with a reference link. We will update the page promptly.</p>
+    <h3>Can I advertise on SarthakYojana.in?</h3>
+    <p>Yes, we offer advertising options for coaching institutes, job portals, and education-related brands. Write to us at <a href="mailto:info@sarthakyojana.in">info@sarthakyojana.in</a> with "Advertising" in the subject line.</p>
+    <h3>Do you provide personal job application assistance?</h3>
+    <p>SarthakYojana.in is an information portal only. We do not fill forms on behalf of candidates or provide any paid job application services. All information on our site is free.</p>
+  </div>
+</div>
+
+<div id="site-footer"></div>
+<script src="../assets/jobs-data.js"></script>
+<script src="../assets/main.js"></script>
+<script>
+renderHeader('');
+renderTicker();
+renderFooter();
+
+function submitForm() {
+  const name = document.getElementById('cName').value.trim();
+  const email = document.getElementById('cEmail').value.trim();
+  const subject = document.getElementById('cSubject').value;
+  const msg = document.getElementById('cMsg').value.trim();
+  if (!name || !email || !subject || !msg) {
+    alert('Please fill all required fields (marked with *).');
+    return;
+  }
+  // In production: replace with actual form submission (EmailJS / Formspree / PHP)
+  document.getElementById('successMsg').style.display = 'block';
+  document.getElementById('cName').value = '';
+  document.getElementById('cEmail').value = '';
+  document.getElementById('cPhone').value = '';
+  document.getElementById('cSubject').value = '';
+  document.getElementById('cMsg').value = '';
+}
+</script>
+</body>
+</html>

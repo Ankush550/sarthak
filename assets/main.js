@@ -92,14 +92,24 @@ function renderFooter() {
       <ul>
         <li><a href="${R}pages/job-finder.html">Job Finder</a></li>
         <li><a href="${R}pages/search.html">Search Jobs</a></li>
+        <li><a href="${R}pages/about-us.html">About Us</a></li>
+        <li><a href="${R}pages/contact.html">Contact Us</a></li>
+        <li><a href="${R}pages/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="${R}pages/disclaimer.html">Disclaimer</a></li>
+        <li><a href="${R}pages/terms-conditions.html">Terms &amp; Conditions</a></li>
         <li><a href="${R}pages/sitemap.html">Sitemap</a></li>
-        <li><a href="${R}sitemap.xml">XML Sitemap</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
     <a href="${R}index.html">Home</a>
+    <a href="${R}pages/about-us.html">About Us</a>
     <a href="${R}pages/sitemap.html">Sitemap</a>
+    <a href="${R}pages/contact.html">Contact Us</a>
+    <a href="${R}pages/disclaimer.html">Disclaimer</a>
+    <a href="${R}pages/privacy-policy.html">Privacy Policy</a>
+    <a href="${R}pages/terms-conditions.html">Terms &amp; Conditions</a>
+    <br style="margin-bottom:6px;">
     &copy; 2026 ${SITE.fullName} — All Rights Reserved | Sarkari Naukri | Sarkari Result | Sarkari Yojana
   </div>`;
 }

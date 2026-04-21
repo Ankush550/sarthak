@@ -516,3 +516,445 @@ const JOB_CONTENT = {
 `
 
 };
+
+// ===== NEW JOBS – APRIL 2026 =====
+
+JOB_CONTENT["pnb-specialist-officer-2026"] = `
+<h2>PNB Specialist Officer Engineer Recruitment 2026 – Complete Details</h2>
+<p><strong>Punjab National Bank (PNB)</strong>, one of India's largest nationalised banks headquartered in New Delhi, has officially released the recruitment notification for <strong>30 Specialist Officer (Engineer)</strong> posts in Junior Management Grade (JMG) Scale I on direct recruitment basis. The notification was published on <strong>20 April 2026</strong> and applications are open from <strong>21 April to 05 May 2026</strong>. This is an excellent opportunity for engineering graduates with work experience to join a prestigious public sector bank.</p>
+<p>PNB manages thousands of properties, offices, and infrastructure assets across India and requires qualified civil, electrical, and mechanical engineers to oversee construction, renovation, maintenance, and electromechanical installation work at bank premises nationwide.</p>
+
+<h2>Vacancy Details – Post-wise Breakdown</h2>
+<p>A total of <strong>30 vacancies</strong> are available across three engineering disciplines:</p>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Officer – Civil Engineer (JMG Scale I)</td><td>21</td></tr>
+<tr><td>Officer – Electrical Engineer (JMG Scale I)</td><td>7</td></tr>
+<tr><td>Officer – Mechanical Engineer (JMG Scale I)</td><td>2</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>30</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>20 years</strong> and maximum <strong>30 years</strong> as on 01 January 2026. Age relaxation: SC/ST – 5 years, OBC (NCL) – 3 years, PwBD – 10 years, Ex-Servicemen – 5 years, Persons affected by 1984 riots – 5 years.</p>
+<h3>Educational Qualification</h3>
+<p>Candidates must hold a <strong>B.E./B.Tech degree in Civil / Electrical / Mechanical Engineering</strong> with minimum <strong>60% marks</strong> from a recognised University (or equivalent recognised by Government of India). The degree must be in the discipline corresponding to the post applied for.</p>
+<h3>Work Experience</h3>
+<p><strong>Minimum 1 year post-qualification experience</strong> in the relevant engineering field is mandatory:</p>
+<ul>
+<li><strong>Civil:</strong> Construction, renovation, retrofitting, interior furnishing, maintenance of buildings; monitoring civil projects; preparation of estimates; checking contractor bills.</li>
+<li><strong>Electrical:</strong> Building-related electrical works OR installation/maintenance of electromechanical equipment – UPS, Generators, HT-LT panels, Lifts, Air Conditioning, Control Panels, etc.</li>
+<li><strong>Mechanical:</strong> Building-related mechanical works AND hands-on experience with electromechanical equipment such as DG sets, water pumps, HVAC systems, lifts, etc.</li>
+</ul>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / EWS / OBC</td><td>₹1,000 + 18% GST = <strong>₹1,180/-</strong></td></tr>
+<tr><td>SC / ST / PwBD</td><td>₹50 + 18% GST = <strong>₹59/-</strong> (postage charges only)</td></tr>
+</tbody></table>
+<p>Fee is non-refundable. Only one post can be applied for; multiple applications will result in only the latest valid application being retained.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>20 April 2026</td></tr>
+<tr><td>Application Start</td><td>21 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>05 May 2026</strong></td></tr>
+<tr><td>Tentative Online Test</td><td><strong>27 May 2026</strong></td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p>Selection may follow one of two scenarios depending on the number of applications received:</p>
+<p><strong>Scenario 1 – Online Test + Interview:</strong> Written test in two parts — Part I (Reasoning 25 marks + English 25 marks + Quantitative Aptitude 50 marks = 100 marks) and Part II (Professional Knowledge – 50 questions, 100 marks). Duration: 120 minutes. Negative marking of 1/4 mark per wrong answer. Only candidates qualifying Part I are evaluated for Part II. Personal Interview carries 50 marks. Final merit = Part II + Interview scores.</p>
+<p><strong>Scenario 2 – Shortlisting + Interview Only:</strong> Applications screened, eligible candidates called directly for Personal Interview of 50 marks.</p>
+
+<h2>Pay Scale and Service Bond</h2>
+<p>Selected candidates are appointed as Officers in <strong>JMG Scale I</strong> with pay and allowances as per IBA wage agreement. Benefits include DA, CCA, HRA/Leased Accommodation, Leave Fare Concession, Medical Insurance, and Retirement Benefits. A <strong>Service Indemnity Bond of Rs. 3,00,000/-</strong> must be executed — candidates who resign before completing 3 years of service must pay this amount. Minimum CIBIL score of <strong>681 or above</strong> is required at the time of joining.</p>
+
+<h2>How to Apply for PNB Specialist Officer 2026</h2>
+<ol>
+<li>Visit the official PNB website: <strong>pnb.bank.in</strong> → Recruitment/Career section.</li>
+<li>Click "Click Here for New Registration" and enter basic details to get provisional registration number and password.</li>
+<li>Login and fill personal, qualification, and experience details accurately.</li>
+<li>Upload scanned photograph, signature, left hand thumb impression, handwritten declaration, and documents as per prescribed specifications.</li>
+<li>Pay the application fee via Debit Card, Credit Card, Net Banking, IMPS, UPI, or Mobile Wallets.</li>
+<li>Submit and take a printout of the e-receipt and application form. Do NOT send the printout to the Bank.</li>
+</ol>
+
+<h2>Important Instructions</h2>
+<p>Candidates who previously worked in PNB or its merged entities (OBC, United Bank) and were discharged for reasons other than VRS/Resignation are <strong>NOT eligible</strong>. No change in any data will be permitted after clicking Complete Registration. All disputes are subject to the jurisdiction of Courts in NCT of Delhi. CIBIL score verification will be conducted at joining stage.</p>
+
+<h2>FAQs – PNB Specialist Officer Engineer 2026</h2>
+<p><strong>Q: Can a fresh engineering graduate apply for PNB Specialist Officer 2026?</strong><br>A: No. Minimum 1 year post-qualification work experience in the relevant engineering field is mandatory.</p>
+<p><strong>Q: Can I apply for both Civil and Electrical posts?</strong><br>A: No. Only one post per candidate is permitted. If multiple applications are submitted, only the latest valid application will be considered.</p>
+<p><strong>Q: Is there an interview even if the online test is not held?</strong><br>A: Yes. If the number of applications is small, PNB may directly call shortlisted candidates for a Personal Interview of 50 marks under Scenario 2.</p>
+`;
+
+JOB_CONTENT["ssc-selection-post-phase14-2026"] = `
+<h2>SSC Selection Post Phase 14 Recruitment 2026 – Complete Guide</h2>
+<p>The <strong>Staff Selection Commission (SSC)</strong> has officially announced the <strong>Selection Post Phase 14 Recruitment 2026</strong> vide Advertisement No. Phase-XIV/2026/Selection Posts, released on <strong>13 April 2026</strong>. A total of <strong>2,919 revised vacancies</strong> are available across Matriculation (10th), Higher Secondary (10+2), and Graduation & above level posts in various Ministries, Departments, and Offices of the Government of India. This is one of the largest SSC recruitment drives of 2026, offering stable Central Government jobs to candidates of all qualification levels across India.</p>
+<p>SSC Selection Post is a unique recruitment drive where SSC acts as a facilitating agency to fill posts for User Departments. Selected candidates get permanent Central Government employment with all associated benefits including HRA, DA, TA, medical facilities, and pension under NPS.</p>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Unreserved (UR)</td><td>1,534</td></tr>
+<tr><td>OBC (NCL)</td><td>667</td></tr>
+<tr><td>SC</td><td>346</td></tr>
+<tr><td>EWS</td><td>271</td></tr>
+<tr><td>ST</td><td>185</td></tr>
+<tr><td><strong>Total (Revised)</strong></td><td><strong>2,919</strong></td></tr>
+</tbody></table>
+<p>Vacancies span all major SSC regions: Northern, Eastern, Western, Central, Madhya Pradesh, Southern, North Eastern, Karnataka-Kerala (KKR), and North Western. Posts range from Pay Level 1 to Level 8 (Group B and C, Non-Gazetted) of the 7th CPC Pay Matrix.</p>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification (Level-wise)</h3>
+<table class="detail-table"><thead><tr><th>Level</th><th>Qualification Required</th></tr></thead>
+<tbody>
+<tr><td>Matriculation Level</td><td>10th Pass or equivalent from recognised Board</td></tr>
+<tr><td>Higher Secondary Level</td><td>12th Pass (10+2) or equivalent from recognised Board</td></tr>
+<tr><td>Graduation Level</td><td>Bachelor's Degree in any discipline from recognised University</td></tr>
+</tbody></table>
+<h3>Age Limit</h3>
+<p>Age limits vary post-wise: 18–25, 18–27, 18–28, 18–30, 18–35, 20–25, 20–30, 21–27, 21–28, 22–28, 23–28 years as on the crucial date. Age relaxation: SC/ST – 5 years, OBC (NCL) – 3 years, PwBD (UR) – 10 years, PwBD (OBC) – 13 years, PwBD (SC/ST) – 15 years, Ex-Servicemen – as per Government rules.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>₹100/-</strong></td></tr>
+<tr><td>Women / SC / ST / PwBD / Ex-Servicemen</td><td><strong>Nil (Exempted)</strong></td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Release</td><td>13 April 2026</td></tr>
+<tr><td>Application Start</td><td>13 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>04 May 2026 (23:00 hrs)</strong></td></tr>
+<tr><td>Last Date for Fee Payment</td><td>05 May 2026 (23:00 hrs)</td></tr>
+<tr><td>Correction Window</td><td>11–13 May 2026</td></tr>
+<tr><td>CBE (Computer Based Exam)</td><td>June 2026 (Tentative)</td></tr>
+</tbody></table>
+
+<h2>Exam Pattern – Computer Based Examination (CBE)</h2>
+<p>Separate CBTs are conducted for Matriculation, Higher Secondary, and Graduation level posts. Each exam has <strong>100 objective-type MCQs of 100 marks</strong> — 25 each from General Intelligence, General Awareness, Quantitative Aptitude, and English Language. Duration: <strong>60 minutes</strong> (80 minutes for scribes). <strong>Negative marking: 0.50 marks per wrong answer.</strong></p>
+
+<h2>Selection Process</h2>
+<p>After CBT, shortlisted candidates go through Skill Tests (Typing/Data Entry where prescribed – qualifying only) and Document Verification conducted by respective User Departments. Final selection is strictly merit-based, category-wise, based on CBT scores.</p>
+
+<h2>How to Apply for SSC Phase 14</h2>
+<ol>
+<li>Visit <strong>ssc.gov.in</strong> or use the mySSC mobile app.</li>
+<li>Complete One-Time Registration if not already registered, using valid mobile and email.</li>
+<li>Log in and fill personal, educational, and post preference details for Selection Post Phase 14.</li>
+<li>Upload photograph and signature in prescribed format.</li>
+<li>Pay fee (if applicable) by <strong>05 May 2026</strong>.</li>
+<li>Use Correction Window (11–13 May 2026) to fix any errors.</li>
+<li>Download and print the final application for reference.</li>
+</ol>
+
+<h2>Posts Available – Region-wise Highlights</h2>
+<p>Central Region (CR) posts include Stenographer Grade I, Junior Engineers (QA), Scientific Assistants, Accountants, and Lab Attendants. Eastern Region (ER) includes Library & Information Assistants, Senior Scientific Assistants, Technical Assistants, and Field Assistants. Karnataka-Kerala Region (KKR) has Processing Supervisors, Senior Technical Assistants, Instructors, and LDCs. Southern Region (SR) has Navigational Assistants, Radiographers, Nursing Officers, Data Entry Operators, and Lab Technicians. Candidates must check their region and post code carefully before applying.</p>
+
+<h2>FAQs – SSC Selection Post Phase 14</h2>
+<p><strong>Q: Can a candidate apply for multiple posts under SSC Phase 14?</strong><br>A: Yes, candidates can apply for more than one post, but they must submit separate applications for each post as per their eligibility level (Matric/10+2/Graduate).</p>
+<p><strong>Q: Are GSI posts available in Phase 14?</strong><br>A: No. GSI (Geological Survey of India) posts have been cancelled and removed via addendum. DRDO vacancies have been added in their place.</p>
+<p><strong>Q: When will the CBE be conducted?</strong><br>A: The Computer Based Examination is tentatively scheduled for June 2026. Exact dates will be notified on ssc.gov.in.</p>
+`;
+
+JOB_CONTENT["bpcl-entry-level-250-2026"] = `
+<h2>BPCL Entry Level Profiles Recruitment 2026 – Without GATE (250 Posts)</h2>
+<p><strong>Bharat Petroleum Corporation Limited (BPCL)</strong>, a Maharatna Central Public Sector Enterprise under the Ministry of Petroleum and Natural Gas, has officially released its <strong>Entry Level Profiles Recruitment 2026</strong> on <strong>18 April 2026</strong> for <strong>250 indicative vacancies</strong> across multiple post categories. This recruitment is unique as it does <strong>NOT require GATE score</strong> — it is open to Diploma holders, Commerce graduates, M.Sc candidates, Hindi Masters, and Inter CA/Inter CMA qualified professionals with relevant work experience.</p>
+<p>BPCL is India's second-largest oil and gas company with refineries at Mumbai, Kochi, and Bina, and over 18,000 fuel stations across India. Working with BPCL means joining a high-growth PSU with a competitive CTC, excellent work culture, and global exposure.</p>
+
+<h2>Post-wise Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Profile</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Junior Executive (Engineering)</td><td>175</td></tr>
+<tr><td>Junior Executive (Accounts)</td><td>25</td></tr>
+<tr><td>Junior Executive (Wayside Amenities)</td><td>10</td></tr>
+<tr><td>Secretary BPCL</td><td>08</td></tr>
+<tr><td>Associate Executive (Quality Assurance)</td><td>30</td></tr>
+<tr><td>Associate Executive (Official Language Implementation)</td><td>02</td></tr>
+<tr><td><strong>Total (Indicative)</strong></td><td><strong>250</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria – Post-wise</h2>
+<h3>Junior Executive (Engineering)</h3>
+<p>3-year Diploma in Mechanical / Electrical / Instrumentation / Electronics / Civil / Chemical Engineering with minimum 55% (50% for SC/ST/PwBD). Minimum <strong>5 years continuous post-qualification experience</strong> including at least 1 year in managerial/supervisory role in sectors like POL Terminals, LPG Plants, Refineries, Pipelines, or Petrochemicals.</p>
+<h3>Junior Executive (Accounts)</h3>
+<p>Graduate in any discipline with 55% marks + <strong>Inter CA or Inter CMA</strong>. Minimum 5 years post-qualification experience in Finance function.</p>
+<h3>Junior Executive (Wayside Amenities)</h3>
+<p>B.Com / BBA / B.Sc / BMS / BHM with 55% (50% for SC/ST/PwBD). Minimum 5 years experience including at least 3 years in Facility Management / QSR / Retail / Hospitality.</p>
+<h3>Secretary BPCL</h3>
+<p>Class X + XII + Bachelor's Degree with 55% in each. Minimum 5 years as Secretarial Assistant or Secretary in relevant role.</p>
+<h3>Associate Executive (Quality Assurance)</h3>
+<p>M.Sc (Chemistry) with specified specialisation and minimum 60% (55% for SC/ST/PwBD). Minimum 3 years post-qualification lab experience in Petroleum / Oil & Gas industry.</p>
+<h3>Associate Executive (Official Language)</h3>
+<p>Master's in Hindi with 55% + English in Class XII / Graduation. Minimum 3 years translation (English↔Hindi) experience.</p>
+
+<h2>Age Limit</h2>
+<table class="detail-table"><thead><tr><th>Profile</th><th>Upper Age Limit (as on 01.04.2026)</th></tr></thead>
+<tbody>
+<tr><td>JE Engineering, JE Wayside Amenities, Secretary BPCL</td><td><strong>32 years</strong></td></tr>
+<tr><td>JE Accounts, AE Quality Assurance, AE Official Language</td><td><strong>35 years</strong></td></tr>
+</tbody></table>
+<p>Age relaxation for OBC-NCL (3 years), SC/ST (5 years), PwBD, and Ex-Servicemen as per Presidential Directives. Maximum cumulative relaxation capped at 10 years.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>UR / OBC-NCL / EWS</td><td>₹1,000 + 18% GST = <strong>₹1,180/-</strong></td></tr>
+<tr><td>SC / ST / PwBD</td><td><strong>Nil (Exempted)</strong></td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Application Start</td><td>18 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong>17 May 2026 (23:59 hrs)</strong></td></tr>
+<tr><td>Experience / Qualification cutoff</td><td>01 April 2026</td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p>Multi-stage selection: Application Screening → Written/Computer Based Test → Case Based Discussion → Group Task → Personal Interview → Pre-Employment Medical Examination. Final selection is based on work experience, achievements, and performance in selection rounds. Provisional selection is subject to medical fitness.</p>
+
+<h2>Salary – CTC Structure</h2>
+<table class="detail-table"><thead><tr><th>Designation</th><th>Pay Scale</th><th>Approx. CTC</th></tr></thead>
+<tbody>
+<tr><td>Junior Executive & Secretary</td><td>₹30,000 – ₹1,20,000</td><td><strong>₹12.28 Lakh/year</strong></td></tr>
+<tr><td>Associate Executive</td><td>₹40,000 – ₹1,40,000</td><td><strong>₹17.11 Lakh/year</strong></td></tr>
+</tbody></table>
+<p>Additional: DA (IDA pattern), HRA, Perks & Allowances, Retirement Benefits, Performance Related Pay, and subsidised fuel/LPG benefits.</p>
+
+<h2>How to Apply for BPCL Entry Level 2026</h2>
+<ol>
+<li>Visit <strong>bharatpetroleum.in</strong> → Careers → Job Openings → Entry Level Profiles 2026.</li>
+<li>Click "New Registration" → Enter Name, Email, Mobile. Note Registration Number.</li>
+<li>Login and fill personal, educational, and experience details carefully.</li>
+<li>Upload photograph, signature, certificates, last 3 salary slips (combined PDF), and experience letters.</li>
+<li>Pay application fee online through Debit Card/Credit Card/UPI/Net Banking.</li>
+<li>Preview all details, then Submit. Download acknowledgement.</li>
+</ol>
+
+<h2>FAQs – BPCL Entry Level 2026</h2>
+<p><strong>Q: Is GATE score required for BPCL 250 Posts 2026?</strong><br>A: No. This recruitment does not require GATE score. It is based on Diploma qualification and relevant work experience for engineering posts.</p>
+<p><strong>Q: Can freshers apply for this recruitment?</strong><br>A: No. All profiles require a minimum of 3 to 5 years of relevant post-qualification work experience.</p>
+<p><strong>Q: Is there a service bond at BPCL?</strong><br>A: BPCL may have a service agreement; details are communicated at the time of appointment. Refer to your offer letter for specific bond conditions.</p>
+`;
+
+JOB_CONTENT["ssb-paramedical-2026"] = `
+<h2>SSB Paramedical Recruitment 2026 – 76 Head Constable & Constable Posts</h2>
+<p>The <strong>Sashastra Seema Bal (SSB)</strong>, India's border guarding force under the Ministry of Home Affairs, has released a recruitment notification vide <strong>Advertisement No. 524/RC/SSB/Combined Advt./CT to SI (Non-GD)/2025</strong> for <strong>76 Paramedical posts</strong> in Group-C Combatised, Non-Gazetted, Non-Ministerial category. This is a great opportunity for paramedical professionals — lab technicians, physiotherapy assistants, and nursing assistants — to join a prestigious Central Government force with attractive pay and job security.</p>
+<p>SSB guards India's borders with Nepal and Bhutan and plays a vital role in the security of the Himalayan frontier. Selected personnel are liable to serve anywhere in India or abroad as per SSB requirements, making this a challenging and rewarding career choice.</p>
+
+<h2>Post-wise Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>UR</th><th>EWS</th><th>OBC</th><th>SC</th><th>ST</th><th>Total</th></tr></thead>
+<tbody>
+<tr><td>Head Constable (Laboratory Assistant)</td><td>15</td><td>2</td><td>8</td><td>4</td><td>1</td><td><strong>30</strong></td></tr>
+<tr><td>Head Constable (Physiotherapy Assistant)</td><td>7</td><td>1</td><td>3</td><td>1</td><td>0</td><td><strong>12</strong></td></tr>
+<tr><td>Constable (Nursing Assistant cum Medic)</td><td>17</td><td>2</td><td>9</td><td>4</td><td>2</td><td><strong>34</strong></td></tr>
+<tr><td><strong>Grand Total</strong></td><td>39</td><td>5</td><td>20</td><td>9</td><td>3</td><td><strong>76</strong></td></tr>
+</tbody></table>
+<p>10% vacancies are reserved for Ex-Servicemen across all posts.</p>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>18 years</strong>, Maximum <strong>27 years</strong> as on closing date of applications. Relaxation: SC/ST – 5 years, OBC – 3 years, Ex-Servicemen – 3 years (after deduction of military service), Central Govt employees – up to 40/45 years (UR/SC-ST).</p>
+<h3>Post-wise Qualification</h3>
+<p><strong>Head Constable (Laboratory Assistant):</strong> 12th pass with Biology + 1-year Certificate in Laboratory Assistant from recognised institution + minimum 1 year experience as Lab Assistant in a Laboratory Diagnostic Centre or hospital recognised by Central/State Government.</p>
+<p><strong>Head Constable (Physiotherapy Assistant):</strong> 12th pass + 1-year Certificate in Physiotherapy + minimum 1 year experience as Physiotherapy Assistant in a recognised Physiotherapy Centre or minimum 100-bedded hospital.</p>
+<p><strong>Constable (Nursing Assistant cum Medic):</strong> 10th pass + First Aid Certificate from St. John's Ambulance or Red Cross Society of India + minimum 1 year experience as Nursing Assistant in a minimum 50-bedded recognised hospital.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>UR / EWS / OBC</td><td><strong>₹100/-</strong> (Non-Refundable)</td></tr>
+<tr><td>SC / ST / Ex-Servicemen / Female</td><td><strong>Nil (Exempted)</strong></td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Published</td><td>21 March 2026</td></tr>
+<tr><td>Last Date to Apply (Extended)</td><td><strong>04 May 2026</strong></td></tr>
+<tr><td>PET/PST, Written Exam</td><td>To be notified on ssb.gov.in</td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 – PET:</strong> HC Lab & Physiotherapy: Male – 1.6 km in 6 min 30 sec; Female – 800 m in 4 min. Constable Nursing: Male – 4.8 km in 24 min; Female – 2.4 km in 18 min. Ex-Servicemen are exempted from PET.</p>
+<p><strong>Stage 1 – PST:</strong> Height and chest measurements as per category norms. UR/OBC/EWS males: 165 cm height, 75–80 cm chest. Females: 155 cm.</p>
+<p><strong>Stage 2 – Written Exam (CBT):</strong> HC posts: 150 marks, 3 hours, 150 MCQs (50 marks GK/Maths/Reasoning/English + 100 marks Technical Subject). Constable posts: 100 marks, 2 hours, 100 MCQs (GK/Maths/Reasoning/English). Negative marking: 0.25 per wrong answer.</p>
+<p><strong>Stage 3 – DME/RME:</strong> Top 3× vacancies shortlisted for medical examination. Final merit based on written exam marks.</p>
+
+<h2>Pay Scale</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Pay Level (7th CPC)</th><th>Basic Pay Scale</th></tr></thead>
+<tbody>
+<tr><td>Head Constable (HC)</td><td>Level-4</td><td>₹25,500 – ₹81,100/month</td></tr>
+<tr><td>Constable (Nursing Assistant)</td><td>Level-3</td><td>₹21,700 – ₹69,100/month</td></tr>
+</tbody></table>
+<p>Additional allowances: DA, HRA, Ration Money, Transport Allowance, uniform allowance, and other Central Government benefits.</p>
+
+<h2>How to Apply for SSB Paramedical 2026</h2>
+<ol>
+<li>Visit <strong>recruitment.ssb.gov.in</strong> or <strong>ssb.gov.in</strong>.</li>
+<li>Fill Part-I: Post name, personal details, date of birth, gender, category.</li>
+<li>Upload photo (JPG, 4–12 KB, 100×120 pixels) and signature (JPG, 4–12 KB).</li>
+<li>Note the Registration Number generated after upload.</li>
+<li>Fill remaining details: Aadhaar, identification marks, address, education.</li>
+<li>Pay fee through Net Banking/Debit Card/Credit Card/UPI.</li>
+<li>Print application for future reference.</li>
+</ol>
+<p><strong>Note:</strong> Only ONE post can be applied for among the three posts mentioned.</p>
+
+<h2>FAQs – SSB Paramedical 2026</h2>
+<p><strong>Q: Can I apply for both Head Constable and Constable posts?</strong><br>A: No. A candidate can apply for only one post in this recruitment cycle.</p>
+<p><strong>Q: Are female candidates eligible?</strong><br>A: Yes, female candidates can apply and are exempted from the application fee.</p>
+<p><strong>Q: What is the age as on which date?</strong><br>A: Age is calculated as on the closing date of receipt of applications (04 May 2026).</p>
+`;
+
+JOB_CONTENT["ssb-asi-paramedical-2026"] = `
+<h2>SSB ASI Recruitment 2026 – Assistant Sub Inspector Paramedical (7 Posts)</h2>
+<p><strong>Sashastra Seema Bal (SSB)</strong>, the border guarding force under India's Ministry of Home Affairs, has released its recruitment notification for <strong>7 Assistant Sub Inspector (ASI)</strong> posts in the paramedical cadre as part of Advertisement No. 524/RC/SSB/Combined Advt./CT to SI (Non-GD)/2025, published in Employment News dated 21–27 March 2026. These Group B (Non-Gazetted, Combatised, Non-Ministerial) posts are open to eligible male and female Indian citizens.</p>
+<p>The posts include ASI Radiographer, ASI Pharmacist, ASI Operation Theatre Technician, and ASI Dental Technician. Selected personnel are liable for All India posting including border areas, and are governed by SSB Act and Rules.</p>
+
+<h2>Post-wise Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>ASI (Radiographer)</td><td>03</td></tr>
+<tr><td>ASI (Pharmacist)</td><td>02</td></tr>
+<tr><td>ASI (Operation Theatre Technician)</td><td>01</td></tr>
+<tr><td>ASI (Dental Technician)</td><td>01</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>07</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<p>Minimum <strong>18 years</strong>, Maximum <strong>27 years</strong> as on 20 April 2026 (last date of application). Age relaxation: SC/ST – 5 years, OBC – 3 years, Ex-Servicemen, Central Govt employees and J&K/Ladakh domicile candidates – as per Government norms.</p>
+<h3>Post-wise Qualification</h3>
+<p><strong>ASI (Radiographer):</strong> 12th pass with Science + 2-year Diploma in Medical Imaging Technology / Radiography from recognised institute + minimum 1 year experience as Radiographer in a recognised Radiology Centre or 100-bedded hospital.</p>
+<p><strong>ASI (Pharmacist):</strong> 12th pass with Science + 2-year Diploma in Pharmacy from recognised institution + registered as Pharmacist under Pharmacy Act, 1948 + minimum 1 year experience as Pharmacist in a 100-bedded hospital.</p>
+<p><strong>ASI (Operation Theatre Technician):</strong> 12th pass + Diploma in Operation Theatre Technology + relevant experience as OT Technician in a recognised hospital.</p>
+<p><strong>ASI (Dental Technician):</strong> 12th pass with Science + Diploma/Certificate in Dental Technician/Mechanic + experience in dental lab/department of recognised hospital.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>₹100/-</strong></td></tr>
+<tr><td>SC / ST / Female / Ex-Servicemen</td><td><strong>Nil (Exempted)</strong></td></tr>
+</tbody></table>
+<p>Online payment only (Net Banking / UPI / Credit Card / Debit Card).</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Released</td><td>21 March 2026</td></tr>
+<tr><td>Last Date to Apply (Extended)</td><td><strong>04 May 2026</strong></td></tr>
+<tr><td>Exam/PET Dates</td><td>To be notified on ssb.gov.in</td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Physical Standard Test (PST):</strong> Height, chest, weight measurement as per SSB norms. UR/OBC/EWS males: 165 cm, females: 157 cm.</p>
+<p><strong>Physical Efficiency Test (PET):</strong> Running and other fitness tests as per SSB rules for ASI posts.</p>
+<p><strong>Written Examination:</strong> Objective CBT covering General Knowledge, Reasoning, Numerical Ability, English/Hindi, and Technical/Paramedical subjects relevant to the applied post.</p>
+<p><strong>Skill/Trade Test:</strong> Practical test for respective paramedical skill (qualifying nature).</p>
+<p><strong>Document Verification:</strong> Original certificates verified at designated SSB offices.</p>
+<p><strong>Medical Examination:</strong> Detailed Medical Examination (DME) + Review Medical Examination (RME) as per SSB standards.</p>
+
+<h2>Pay Scale and Salary</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Pay Level</th><th>Basic Pay Scale</th><th>Approx. In-Hand</th></tr></thead>
+<tbody>
+<tr><td>All ASI Paramedical Posts</td><td>Level-5 (7th CPC)</td><td>₹29,200 – ₹92,300/month</td><td>₹40,000 – ₹50,000/month</td></tr>
+</tbody></table>
+<p>Additional benefits: DA, HRA, Ration Money, Transport Allowance, Dress Allowance, Free Medical, and other Central Government entitlements based on posting location.</p>
+
+<h2>How to Apply for SSB ASI 2026</h2>
+<ol>
+<li>Visit <strong>recruitment.ssb.gov.in</strong> or <strong>ssb.gov.in</strong> → Recruitment Section.</li>
+<li>Click on "SSB Assistant Sub Inspector (ASI) Paramedical 2026" notification.</li>
+<li>Click "Apply Online / New Registration" and complete registration with valid mobile and email.</li>
+<li>Fill the form with personal, educational, and experience details as per your post (Radiographer/Pharmacist/OT/Dental).</li>
+<li>Upload scanned photo and signature in prescribed size and format.</li>
+<li>Pay ₹100/- through online payment (if applicable).</li>
+<li>Submit, preview, and take a printout of the application.</li>
+</ol>
+<p><strong>Important:</strong> Each candidate can apply for only ONE post among the four ASI posts.</p>
+
+<h2>FAQs – SSB ASI Paramedical 2026</h2>
+<p><strong>Q: Is registration as Pharmacist mandatory for ASI (Pharmacist)?</strong><br>A: Yes. Candidates must be registered under the Pharmacy Act, 1948 with a valid Pharmacist registration certificate.</p>
+<p><strong>Q: Can I apply for both ASI and Head Constable posts in SSB?</strong><br>A: No. Per the notification rules, a candidate can apply for only one post across the entire combined SSB recruitment advertisement.</p>
+`;
+
+JOB_CONTENT["ssb-head-constable-nongd-2026"] = `
+<h2>SSB Head Constable Non-GD Recruitment 2026 – 233 Posts</h2>
+<p><strong>Sashastra Seema Bal (SSB)</strong>, functioning under the Ministry of Home Affairs, Government of India, has announced the recruitment for <strong>233 Head Constable (Non-GD)</strong> posts across four trades — Communication, Electrician, Veterinary, and Steward — vide Advertisement No. 524/RC/SSB/Combined Advt./CT to SI (Non-GD)/2025, published in Employment News dated 21–27 March 2026. Online applications are open from <strong>21 March to 04 May 2026</strong> through the official SSB recruitment portal.</p>
+<p>Head Constable (Non-GD) posts in SSB are Group C combatised positions offering stable Central Government employment with excellent pay, allowances, and career progression. Selected candidates are liable for All India posting and are governed by SSB Act & Rules.</p>
+
+<h2>Post-wise Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>Total Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Head Constable (Steward)</td><td>2</td></tr>
+<tr><td>Head Constable (Communication)</td><td>197</td></tr>
+<tr><td>Head Constable (Electrician)</td><td>29</td></tr>
+<tr><td>Head Constable (Veterinary)</td><td>5</td></tr>
+<tr><td><strong>Grand Total</strong></td><td><strong>233</strong></td></tr>
+</tbody></table>
+<p>Vacancies are distributed across UR, EWS, OBC, SC, and ST categories. 10% posts are reserved for Ex-Servicemen.</p>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit</h3>
+<table class="detail-table"><thead><tr><th>Post</th><th>Age Limit</th></tr></thead>
+<tbody>
+<tr><td>HC Steward / Communication / Veterinary</td><td>18 to <strong>27 years</strong></td></tr>
+<tr><td>HC Electrician</td><td>18 to <strong>25 years</strong></td></tr>
+</tbody></table>
+<p>Age as on closing date. Relaxation: SC/ST – 5 years, OBC – 3 years, Ex-Servicemen – 3 years after deduction of military service, Central Govt employees – up to 40 years (UR).</p>
+
+<h3>Post-wise Educational Qualification</h3>
+<p><strong>HC (Steward):</strong> 12th pass + 2-year Diploma in Catering and Kitchen Management from a Central/State Government recognised institution + minimum 1 year experience as Steward in a 100-bedded hospital.</p>
+<p><strong>HC (Communication):</strong> 12th pass in Science with Physics, Chemistry and Mathematics from a recognised Board OR 3-year Diploma in Electronics / Communications / Computer Science / IT from a recognised institute.</p>
+<p><strong>HC (Electrician):</strong> Matriculation/equivalent with either (i) 2 years work experience in the trade, OR (ii) 1-year ITI certificate + 1 year experience, OR (iii) 2-year ITI Diploma in the trade. Must qualify trade test.</p>
+<p><strong>HC (Veterinary):</strong> 12th pass with Science and Biology + 2-year Diploma in Veterinary/Livestock Development or Animal Husbandry from a Central/State Government recognised institution.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>UR / EWS / OBC</td><td><strong>₹100/-</strong> (Non-Refundable)</td></tr>
+<tr><td>SC / ST / Ex-Servicemen / Female</td><td><strong>Nil (Exempted)</strong></td></tr>
+</tbody></table>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>21 March 2026</td></tr>
+<tr><td>Last Date to Apply (Extended)</td><td><strong>04 May 2026</strong></td></tr>
+<tr><td>PET/PST Date</td><td>To be notified on recruitment.ssb.gov.in</td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Stage I – PET:</strong> Male: 1.6 km in 6 minutes 30 seconds. Female: 800 m in 4 minutes. Ex-Servicemen are exempted from PET.</p>
+<p><strong>Stage I – PST:</strong> UR/EWS/OBC males: 165 cm height, 75–80 cm chest. Females: 155 cm (HC Steward). ST and NE States/hill region candidates get relaxation.</p>
+<p><strong>Stage II – Written Exam (CBT):</strong> 150 marks, 3 hours. Part-I (50 marks): GK, Maths, Reasoning, English/Hindi. Part-II (100 marks): Technical Subject. Negative marking: 0.25 per wrong answer. Minimum qualifying: 50% (UR/EWS/OBC/Ex-SM), 45% (SC/ST).</p>
+<p><strong>Stage III – Skill Test (HC Electrician only):</strong> 50 marks, minimum 60% qualifying marks. Conducted for 20× vacancies. Qualifying in nature; not included in final merit.</p>
+<p><strong>Stage IV – Document Verification + DME/RME:</strong> Top 3× vacancies shortlisted. Final merit based on written exam marks. Equal marks broken by Part-II marks, then age (senior preferred), then alphabetical order.</p>
+
+<h2>Pay Scale and Benefits</h2>
+<p>All Head Constable Non-GD posts carry <strong>Level-4 Pay Scale (₹25,500 – ₹81,100/month)</strong> as per 7th CPC. Additional allowances include DA, Ration Money, HRA/Government quarters, uniform allowance, medical facilities, and New Pension Scheme (NPS) / Unified Pension Scheme (UPS) coverage.</p>
+
+<h2>How to Apply for SSB Head Constable 2026</h2>
+<ol>
+<li>Visit <strong>recruitment.ssb.gov.in</strong> and read the notification carefully.</li>
+<li>Click "Apply Online" and fill all fields including post applied, date of birth, category, qualification.</li>
+<li>Upload photo (JPG, 4–12 KB, 100×120 px, white background) and signature (JPG, 4–12 KB).</li>
+<li>Complete all sections including Aadhaar details and address.</li>
+<li>Pay ₹100/- (if applicable) via Net Banking/UPI/Debit Card/Credit Card.</li>
+<li>Submit and take a printout. Registration Number must be noted.</li>
+</ol>
+
+<h2>FAQs – SSB Head Constable Non-GD 2026</h2>
+<p><strong>Q: Which post has the most vacancies in SSB HC Non-GD 2026?</strong><br>A: Head Constable (Communication) has the highest vacancies at 197 out of 233 total posts.</p>
+<p><strong>Q: Is there a skill test for all posts?</strong><br>A: Skill Test is only for Head Constable (Electrician) — it is qualifying in nature and marks are not counted in final merit.</p>
+<p><strong>Q: What happens if I get equal marks as another candidate?</strong><br>A: Priority is given to the candidate with more marks in Part-II (Technical), then the senior-in-age candidate, then alphabetical order of names in English.</p>
+`;
+
