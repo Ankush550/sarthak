@@ -100,68 +100,132 @@ if (!job) {
   document.getElementById('pageDesc').content = (job.description || job.title) + ' Check eligibility, vacancies, salary, last date and apply online at SarthakYojana.in.';
   document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="jobs.html">Govt Jobs</a> &rsaquo; ${job.title}`;
 
-  // JSON-LD Schema for JobPosting - ALL jobs get schema
+  // JSON-LD Schema for JobPosting - Google-compliant per official docs
   const isJobPost = JOBS_DATA.find(j => j.id === id) || 
                     ['pnb-specialist-officer-2026','ssc-selection-post-phase14-2026',
                      'bpcl-entry-level-250-2026','ssb-paramedical-2026','ssb-asi-paramedical-2026',
                      'ssb-head-constable-nongd-2026'].includes(id);
   
   if (isJobPost) {
-    // Build complete JobPosting schema with ALL required + recommended fields
-    const orgName   = job.organization || 'Government of India';
-    const orgUrl    = job.orgWebsite || job.officialNotification || job.applyLink || 'https://india.gov.in';
-    const location  = job.addressLocality || job.location || 'India';
-    const region    = job.addressRegion || 'IN';
-    const posted    = job.datePosted || '2026-04-01';
-    const validTill = job.validThrough || (job.lastDate ? job.lastDate + 'T23:59:00+05:30' : '2026-12-31T23:59:00+05:30');
-    const empType   = job.employmentType || 'FULL_TIME';
-    const minPay    = job.salaryMin || 21700;
-    const maxPay    = job.salaryMax || 200000;
-    const desc      = (job.description || job.title + ' recruitment 2026 by ' + orgName + '.') + 
-                      ' Qualification: ' + (job.qualification || 'As per notification') + 
-                      '. Age limit: ' + (job.ageLimit || 'As per notification') + 
-                      '. Last date: ' + (job.lastDateDisplay || job.lastDate || 'Check official website') + '.';
     
-    const schema = {
+    // --- TITLE: Job title only, strip "Recruitment 2026" suffix ---
+    const schemaTitle = job.title
+      .replace(/\s*Recruitment\s*\d{4}.*$/i, '')
+      .replace(/\s*\d{4}.*$/i, '')
+      .trim();
+    
+    // --- DESCRIPTION: Must be HTML formatted (Google requirement) ---
+    const htmlDesc = `<p>${job.description || job.title + ' recruitment 2026 by ' + job.organization + '.'}</p>
+<p><strong>Organization:</strong> ${job.organization}</p>
+<p><strong>Post:</strong> ${schemaTitle}</p>
+<p><strong>Total Vacancies:</strong> ${job.totalPosts || job.totalVacancies || 'As per notification'}</p>
+<p><strong>Qualification:</strong> ${job.qualification || 'As per official notification'}</p>
+<p><strong>Age Limit:</strong> ${job.ageLimit || 'As per official notification'}</p>
+<p><strong>Pay Scale:</strong> ${job.salaryMin ? 'Rs. ' + job.salaryMin.toLocaleString() + ' to Rs. ' + job.salaryMax.toLocaleString() + ' per month' : 'As per 7th CPC / official notification'}</p>
+<p><strong>Application Fee:</strong> ${job.fee || 'As per official notification'}</p>
+<p><strong>Last Date to Apply:</strong> ${job.lastDateDisplay || job.lastDate || 'Check official website'}</p>
+${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
+<p>Eligible and interested candidates can apply online through the official website of ${job.organization}. Please read the complete official notification before applying.</p>
+<ul>
+<li>Application Mode: Online only</li>
+<li>Job Location: ${job.location || 'Pan India'}</li>
+<li>Employment Type: ${(job.employmentType || 'FULL_TIME').replace(/_/g,' ')}</li>
+</ul>`;
+
+    // --- educationRequirements: Map to Google's exact credentialCategory values ---
+    const qual = (job.qualification || '').toLowerCase();
+    let credCategory = 'high school';
+    if (qual.includes('postgrad') || qual.includes('m.sc') || qual.includes('mba') || qual.includes('m.tech') || qual.includes('phd') || qual.includes('master')) {
+      credCategory = 'postgraduate degree';
+    } else if (qual.includes('b.e') || qual.includes('b.tech') || qual.includes('graduate') || qual.includes('degree') || qual.includes('b.com') || qual.includes('bba') || qual.includes('b.sc')) {
+      credCategory = 'bachelor degree';
+    } else if (qual.includes('diploma')) {
+      credCategory = 'associate degree';
+    } else if (qual.includes('12th') || qual.includes('intermediate') || qual.includes('higher secondary')) {
+      credCategory = 'high school';
+    } else if (qual.includes('10th') || qual.includes('matric') || qual.includes('iti')) {
+      credCategory = 'high school';
+    } else if (qual.includes('professional') || qual.includes('certificate') || qual.includes('ca') || qual.includes('cma')) {
+      credCategory = 'professional certificate';
+    }
+    
+    // --- experienceRequirements: Map from job data ---
+    let expMonths = 0;
+    const jobId = id || '';
+    if (jobId.includes('bpcl-entry-level-250') || jobId.includes('nhpc') || jobId.includes('mcl') || jobId.includes('secl')) {
+      expMonths = 12;
+    } else if (jobId.includes('ngel-dgm')) {
+      expMonths = 24;
+    } else if (jobId.includes('pnb-specialist')) {
+      expMonths = 12;
+    }
+    
+    // --- Org website (hiringOrganization.sameAs must be org's official URL) ---
+    const orgWebsite = job.orgWebsite || job.officialNotification || 'https://india.gov.in';
+    const orgLogo    = 'https://sarthakyojana.in/assets/logo.png';
+    
+    // --- Location ---
+    const addrLocality = job.addressLocality || 'New Delhi';
+    const addrRegion   = job.addressRegion || 'Delhi';
+    const addrCountry  = job.addressCountry || 'IN';
+    
+    // --- Dates (ISO 8601) ---
+    const datePosted   = job.datePosted || '2026-04-01';
+    const validThrough = job.validThrough || (job.lastDate ? job.lastDate + 'T23:59:00+05:30' : '2026-12-31T23:59:00+05:30');
+    
+    // --- Employment type (Google valid values only) ---
+    const validEmpTypes = ['FULL_TIME','PART_TIME','CONTRACTOR','TEMPORARY','INTERN','VOLUNTEER','PER_DIEM','OTHER'];
+    const empType = validEmpTypes.includes(job.employmentType) ? job.employmentType : 'FULL_TIME';
+    
+    // --- Salary ---
+    const salaryMin = job.salaryMin || 21700;
+    const salaryMax = job.salaryMax || 200000;
+    
+    // Build the complete Google-compliant JobPosting schema
+    const jobSchema = {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
-      "title": job.title,
-      "description": desc,
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": orgName,
-        "value": job.id
-      },
-      "datePosted": posted,
-      "validThrough": validTill,
-      "employmentType": empType,
+      
+      // REQUIRED FIELDS
+      "title": schemaTitle,
+      "description": htmlDesc,
+      "datePosted": datePosted,
       "hiringOrganization": {
         "@type": "Organization",
-        "name": orgName,
-        "sameAs": orgUrl,
+        "name": job.organization,
+        "sameAs": orgWebsite,
         "logo": {
           "@type": "ImageObject",
-          "url": "https://sarthakyojana.in/assets/logo.png"
+          "url": orgLogo
         }
       },
       "jobLocation": {
         "@type": "Place",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "Government of India",
-          "addressLocality": location,
-          "addressRegion": region,
+          "streetAddress": job.organization + " Headquarters",
+          "addressLocality": addrLocality,
+          "addressRegion": addrRegion,
           "postalCode": "110001",
-          "addressCountry": "IN"
+          "addressCountry": addrCountry
         }
       },
+      
+      // RECOMMENDED FIELDS
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": job.organization,
+        "value": job.id
+      },
+      "validThrough": validThrough,
+      "employmentType": empType,
       "baseSalary": {
         "@type": "MonetaryAmount",
         "currency": "INR",
         "value": {
           "@type": "QuantitativeValue",
-          "minValue": minPay,
-          "maxValue": maxPay,
+          "minValue": salaryMin,
+          "maxValue": salaryMax,
           "unitText": "MONTH"
         }
       },
@@ -169,40 +233,49 @@ if (!job) {
         "@type": "Country",
         "name": "India"
       },
-      "jobBenefits": "Government job with DA, HRA, Medical Benefits, Pension, and other Central Government allowances",
+      
+      // BETA FIELDS
       "educationRequirements": {
         "@type": "EducationalOccupationalCredential",
-        "credentialCategory": job.qualification || "As per notification"
-      },
-      "experienceRequirements": {
-        "@type": "OccupationalExperienceRequirements",
-        "monthsOfExperience": 0
-      },
-      "directApply": true
+        "credentialCategory": credCategory
+      }
     };
     
-    if (job.totalPosts || job.totalVacancies) {
-      schema["totalJobOpenings"] = job.totalPosts || job.totalVacancies;
+    // Add experienceRequirements only if > 0 months
+    if (expMonths > 0) {
+      jobSchema["experienceRequirements"] = {
+        "@type": "OccupationalExperienceRequirements",
+        "monthsOfExperience": expMonths
+      };
     }
     
-    const s = document.createElement('script');
-    s.type = 'application/ld+json';
-    s.text = JSON.stringify(schema);
-    document.head.appendChild(s);
+    // Add totalJobOpenings if available
+    if (job.totalPosts || job.totalVacancies) {
+      jobSchema["totalJobOpenings"] = parseInt(job.totalPosts || job.totalVacancies) || 0;
+    }
     
-    // Also add BreadcrumbList schema
-    const bc = document.createElement('script');
-    bc.type = 'application/ld+json';
-    bc.text = JSON.stringify({
+    // directApply = false since we redirect to official govt sites
+    // (Google: true only if application completes on YOUR site)
+    jobSchema["directApply"] = false;
+    
+    const schemaScript = document.createElement('script');
+    schemaScript.type = 'application/ld+json';
+    schemaScript.text = JSON.stringify(jobSchema, null, 0);
+    document.head.appendChild(schemaScript);
+    
+    // BreadcrumbList schema
+    const bcSchemaScript = document.createElement('script');
+    bcSchemaScript.type = 'application/ld+json';
+    bcSchemaScript.text = JSON.stringify({
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type":"ListItem","position":1,"name":"Home","item":"https://sarthakyojana.in/"},
-        {"@type":"ListItem","position":2,"name":"Govt Jobs","item":"https://sarthakyojana.in/pages/jobs.html"},
-        {"@type":"ListItem","position":3,"name":job.title,"item":"https://sarthakyojana.in/pages/job-detail.html?id="+id}
+        {"@type":"ListItem","position":2,"name":"Government Jobs 2026","item":"https://sarthakyojana.in/pages/jobs.html"},
+        {"@type":"ListItem","position":3,"name":schemaTitle,"item":"https://sarthakyojana.in/pages/job-detail.html?id="+id}
       ]
     });
-    document.head.appendChild(bc);
+    document.head.appendChild(bcSchemaScript);
   }
 
   // Quick info card (H1 here)

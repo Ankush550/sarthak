@@ -17,7 +17,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.indianarmy.nic.in",
     fee:"Rs. 500/-", isNew:true, isFeatured:true,
     tags:["defence","army","officer","graduate","lieutenant"],
-    description:"Territorial Army Commission Examination 2026 for 12 Lieutenant posts. Apply online 20 Apr – 19 May 2026. CBT on 12 July 2026.",
+    description:"Territorial Army Commission Examination 2026 for 12 Lieutenant posts (11 Male + 1 Female). Open to employed Indian citizens. CBT on 12 July 2026. Apply online from 20 April to 19 May 2026 at indianarmy.nic.in.",
     fullContent:`<h2>Territorial Army Officer Recruitment 2026 – Overview</h2>
 <p>The Territorial Army Directorate under the Indian Army has officially announced the <strong>Territorial Army Commission Examination 2026</strong> offering 12 Lieutenant posts to gainfully employed graduates.</p>
 <h3>Important Dates</h3>
@@ -79,7 +79,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.crpf.gov.in",
     fee:"Rs. 100/-", isNew:true, isFeatured:true,
     tags:["police","constable","10th pass","crpf"],
-    description:"CRPF 9195 Constable Tradesman Recruitment 2026. 10th pass with ITI certificate candidates can apply online.",
+    description:"CRPF Constable Tradesman Recruitment 2026 for 9195 posts across trades including Cook, Cobbler, Washerman, Barber, Carpenter, Painter, Tailor, and more. Minimum 10th pass qualification required. Last date 15 May 2026.",
     fullContent:`<h2>CRPF Constable Tradesman Recruitment 2026</h2>
 <p>Central Reserve Police Force has announced <strong>9195 Constable (Tradesman)</strong> vacancies.</p>
 <h3>Eligibility</h3>
@@ -103,7 +103,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.powergrid.in",
     fee:"Rs. 300/-", isNew:true, isFeatured:false,
     tags:["psu","powergrid","iti","diploma"],
-    description:"POWERGRID 660 Non-Executive posts. ITI/Diploma holders can apply online.",
+    description:"POWERGRID Non-Executive Recruitment 2026 for 660 posts including Diploma Trainee (Electrical/Civil/Survey), Junior Officer Trainee (HR/Finance), and Junior Technician Trainee. Candidates with Diploma/ITI/Graduation eligible. Last date 11 May 2026.",
     fullContent:`<h2>POWERGRID Non Executive Recruitment 2026</h2>
 <p>POWERGRID (Maharatna PSU) has announced <strong>660 Non-Executive</strong> vacancies for Diploma and ITI holders.</p>
 <h3>Posts</h3><ul><li>Diploma Trainee (Electrical/Civil/IT)</li><li>ITI Trainee (Electrician/Electronics/Fitter)</li></ul>`
@@ -124,7 +124,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.rbi.org.in",
     fee:"Rs. 450/-", isNew:true, isFeatured:true,
     tags:["bank","rbi","engineer","b.tech"],
-    description:"RBI Junior Engineer Civil/Electrical 94 posts. B.Tech/B.E graduates can apply.",
+    description:"Reserve Bank of India Junior Engineer (Civil and Electrical) Recruitment 2026 for Grade A Officer posts. B.E./B.Tech in Civil or Electrical Engineering with minimum 60% marks required. Two-phase selection: Online Exam + Interview. Last date 10 May 2026.",
     fullContent:`<h2>RBI Junior Engineer Recruitment 2026</h2>
 <p>Reserve Bank of India invites applications for <strong>94 Junior Engineer</strong> posts (Civil/Electrical).</p>
 <h3>Vacancies</h3><ul><li>JE – Civil: 60</li><li>JE – Electrical: 34</li></ul>
@@ -146,7 +146,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.lichousing.com",
     fee:"Rs. 600/-", isNew:true, isFeatured:false,
     tags:["lic","hfl","junior assistant","graduate","bank"],
-    description:"LIC HFL Junior Assistant 150 posts. Graduate candidates can apply online.",
+    description:"LIC Housing Finance Limited Junior Assistant Recruitment 2026 for 180 posts across 20 states and Union Territories. Graduation with 55% marks required. City-wise recruitment with Online Exam and Personal Interview. Last date 30 April 2026.",
     fullContent:`<h2>LIC HFL Junior Assistant Recruitment 2026</h2>
 <p>LIC Housing Finance invites applications for <strong>150 Junior Assistant</strong> posts.</p>
 <h3>Eligibility</h3><ul><li>Age: 21–28 years</li><li>Graduate + Computer knowledge</li></ul>`
@@ -167,7 +167,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.nhpcindia.com",
     fee:"No Fee", isNew:false, isFeatured:false,
     tags:["nhpc","apprentice","iti","diploma","psu"],
-    description:"NHPC 182 Apprentice posts under Apprenticeship Act 1961.",
+    description:"NHPC Limited Apprentice Recruitment 2026 for Trade Apprentice (ITI), Technician Apprentice (Diploma), and Graduate Apprentice (Engineering) posts at various hydroelectric projects across India. Monthly stipend provided. Last date 28 April 2026.",
     fullContent:`<h2>NHPC Apprentice Recruitment 2026</h2>
 <p>NHPC has released <strong>182 Apprentice</strong> posts under Apprenticeship Act 1961.</p>
 <h3>Trades</h3><ul><li>Electrician: 60</li><li>Fitter: 40</li><li>Welder: 25</li><li>Others: 57</li></ul>`
@@ -188,7 +188,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.itbpolice.nic.in",
     fee:"Rs. 200/-", isNew:true, isFeatured:false,
     tags:["itbp","officer","assistant commandant","graduate","defence"],
-    description:"ITBP Assistant Commandant 48 posts. Graduate candidates 26–31 years can apply.",
+    description:"Indo-Tibetan Border Police Force (ITBP) Assistant Commandant (Engineer) Recruitment 2026 for 6 posts. B.E./B.Tech in Civil Engineering required. Group A Gazetted post with Level-10 pay scale. Apply online from 21 April to 20 May 2026 at itbpolice.nic.in.",
     fullContent:`<h2>ITBP Assistant Commandant Recruitment 2026</h2>
 <p>ITBPF invites applications for <strong>48 Assistant Commandant</strong> posts.</p>
 <h3>Eligibility</h3><ul><li>Age: 26–31 years</li><li>Graduate in relevant discipline</li></ul>`
@@ -209,7 +209,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.mcl.gov.in",
     fee:"Rs. 300/-", isNew:true, isFeatured:false,
     tags:["mcl","coal","technician","iti","odisha","psu"],
-    description:"MCL 500 Asst Foreman and Technician posts. ITI/Diploma holders in Odisha can apply.",
+    description:"Mahanadi Coalfields Limited (MCL) Technician Recruitment 2026 for various posts including Mining Sirdar and ITI trades under T&S Grade C. DGMS Certificate of Competency required for Mining Sirdar. CBT-based selection. Last date 08 May 2026.",
     fullContent:`<h2>MCL Asst Foreman Technician Recruitment 2026</h2>
 <p>Mahanadi Coalfields Limited has released <strong>500 vacancies</strong> for Asst Foreman and Technician in Odisha.</p>`
   },
@@ -229,7 +229,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.secl-cil.in",
     fee:"Rs. 300/-", isNew:true, isFeatured:false,
     tags:["secl","coal","mining sirdar","surveyor","chhattisgarh","psu"],
-    description:"SECL 1055 posts for Mining Sirdar, Asst Foreman, and Surveyor in Chhattisgarh.",
+    description:"South Eastern Coalfields Limited (SECL) Mining Sirdar Recruitment 2026 for T&S Grade C posts. Valid DGMS Mining Sirdar Certificate of Competency required along with Matriculation certificate. CBT followed by Document Verification and Medical. Last date 12 May 2026.",
     fullContent:`<h2>SECL Mining Sirdar Recruitment 2026</h2>
 <p>South Eastern Coalfields Limited has released <strong>1055 vacancies</strong> in Chhattisgarh.</p>`
   },
@@ -249,7 +249,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.bharatpetroleum.in",
     fee:"No Fee", isNew:true, isFeatured:false,
     tags:["bpcl","psu","petroleum","entry level","graduate"],
-    description:"BPCL 243 entry level posts for graduates. Apply before 25 April 2026.",
+    description:"Bharat Petroleum Corporation Limited (BPCL) Management Trainee Recruitment 2026 through GATE scores. B.E./B.Tech in Chemical, Mechanical, Electrical, Instrumentation, Civil, or Computer Science with GATE 2026 score. E1 Grade officer position with CTC approximately Rs. 12-15 lakh per annum.",
     fullContent:`<h2>BPCL Entry Level Recruitment 2026</h2>
 <p>Bharat Petroleum Corporation Limited invites applications for <strong>243 entry-level</strong> positions across India.</p>`
   },
@@ -269,7 +269,7 @@ const JOBS_DATA = [
     officialNotification:"https://www.ntpc.co.in",
     fee:"Rs. 300/-", isNew:true, isFeatured:false,
     tags:["ngel","ntpc","dgm","assistant manager","psu"],
-    description:"NGEL 75 posts for Deputy General Manager and Assistant Manager. Experienced B.Tech/MBA candidates apply.",
+    description:"NTPC Green Energy Limited (NGEL) Deputy General Manager (E6) and Assistant Manager (E2) Recruitment 2026 for Technical, Finance, HR, Legal, IT, and Environment departments. B.E./B.Tech with relevant experience required. Last date 03 June 2026.",
     fullContent:`<h2>NGEL DGM Assistant Manager Recruitment 2026</h2>
 <p>NTPC Green Energy Limited invites applications for <strong>75 managerial</strong> positions for experienced professionals.</p>`
   },
@@ -289,7 +289,7 @@ const JOBS_DATA = [
     officialNotification:"https://uidai.gov.in",
     fee:"No Fee", isNew:false, isFeatured:false,
     tags:["aadhaar","uidai","operator","supervisor","12th pass"],
-    description:"UIDAI Aadhaar Operator and Supervisor certification for 12th pass candidates.",
+    description:"UIDAI Aadhaar Operator and Supervisor Certification 2026 by NSEIT. Mandatory certification for operating Aadhaar Enrolment Stations. Operator exam: 50 questions, 60 minutes, minimum 50% passing score. Supervisor exam: 75 questions, 90 minutes, minimum 60% passing. Registration at nseitexams.com.",
     fullContent:`<h2>Aadhaar Operator Supervisor Recruitment 2026</h2>
 <p>UIDAI enrolling Aadhaar Operators and Supervisors. 12th pass candidates must pass certification exam.</p>`
   },
@@ -312,7 +312,7 @@ const JOBS_DATA = [
     fee:"Rs. 1180/- (General/OBC) | Rs. 59/- (SC/ST/PwBD)",
     isNew:true, isFeatured:true,
     tags:["banking","pnb","engineer","civil","electrical","mechanical","jmg scale"],
-    description:"PNB Specialist Officer Engineer Recruitment 2026 for 30 posts – Civil (21), Electrical (7), Mechanical (2) in JMG Scale I. Apply online 21 April – 05 May 2026. Online Test on 27 May 2026."
+    description:"Punjab National Bank (PNB) Specialist Officer (Engineer) Recruitment 2026 for 30 posts in JMG Scale I. Civil Engineer (21), Electrical Engineer (7), Mechanical Engineer (2). B.E./B.Tech with 60% marks and minimum 1 year post-qualification experience required. Online Test on 27 May 2026. Apply online from 21 April to 05 May 2026 at pnb.bank.in."
   },
   {
     id:"ssc-selection-post-phase14-2026",
@@ -332,7 +332,7 @@ const JOBS_DATA = [
     fee:"Rs. 100/- (General/OBC) | Nil (SC/ST/Women/Ex-SM)",
     isNew:true, isFeatured:true,
     tags:["ssc","selection post","phase 14","10th","12th","graduate","central government"],
-    description:"SSC Selection Post Phase 14 Recruitment 2026 for 2919 revised vacancies at Matriculation, Higher Secondary and Graduation level across all SSC regions. Apply online 13 April – 04 May 2026."
+    description:"SSC Selection Post Phase 14 Recruitment 2026 for 2919 revised vacancies across Matriculation, Higher Secondary (10+2), and Graduation level posts in Central Government Ministries, Departments and Offices. Apply online from 13 April to 04 May 2026 at ssc.gov.in."
   },
   {
     id:"bpcl-entry-level-250-2026",
@@ -352,7 +352,7 @@ const JOBS_DATA = [
     fee:"Rs. 1180/- (UR/OBC/EWS) | Nil (SC/ST/PwBD)",
     isNew:true, isFeatured:true,
     tags:["bpcl","psu","junior executive","diploma","accounts","secretary","maharatna"],
-    description:"BPCL Entry Level Profiles Recruitment 2026 for 250 posts – Junior Executive (Engineering/Accounts/Wayside Amenities), Secretary BPCL, Associate Executive (QA/OL). No GATE required. Apply 18 April – 17 May 2026."
+    description:"Bharat Petroleum Corporation Limited (BPCL) Entry Level Profiles Recruitment 2026 for 250 posts including Junior Executive (Engineering-175, Accounts-25, Wayside Amenities-10), Secretary BPCL (8), Associate Executive QA (30), and Associate Executive Official Language (2). No GATE required. Apply from 18 April to 17 May 2026 at bharatpetroleum.in."
   },
   {
     id:"ssb-paramedical-2026",
@@ -372,7 +372,7 @@ const JOBS_DATA = [
     fee:"Rs. 100/- (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM)",
     isNew:true, isFeatured:false,
     tags:["ssb","sashastra seema bal","paramedical","constable","head constable","mha","defence"],
-    description:"SSB Paramedical Recruitment 2026 for 76 posts – Head Constable (Lab Assistant) 30, HC (Physiotherapy) 12, Constable (Nursing Assistant cum Medic) 34. Last Date: 04 May 2026."
+    description:"Sashastra Seema Bal (SSB) Paramedical Recruitment 2026 for 76 posts including Head Constable Laboratory Assistant (30), Head Constable Physiotherapy Assistant (12), and Constable Nursing Assistant cum Medic (34). Group C combatised posts with 7th CPC pay scales. Last date 04 May 2026."
   },
   {
     id:"ssb-asi-paramedical-2026",
@@ -392,7 +392,7 @@ const JOBS_DATA = [
     fee:"Rs. 100/- (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM)",
     isNew:true, isFeatured:false,
     tags:["ssb","asi","radiographer","pharmacist","ot technician","dental technician","paramedical"],
-    description:"SSB ASI Paramedical Recruitment 2026 for 7 posts – ASI Radiographer (3), ASI Pharmacist (2), ASI OT Technician (1), ASI Dental Technician (1). Last Date: 04 May 2026."
+    description:"Sashastra Seema Bal (SSB) Assistant Sub Inspector Paramedical Recruitment 2026 for 7 posts including ASI Radiographer (3), ASI Pharmacist (2), ASI Operation Theatre Technician (1), and ASI Dental Technician (1). Level 5 pay scale Rs. 29200-92300. Last date 04 May 2026."
   },
   {
     id:"ssb-head-constable-nongd-2026",
@@ -412,7 +412,7 @@ const JOBS_DATA = [
     fee:"Rs. 100/- (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM)",
     isNew:true, isFeatured:false,
     tags:["ssb","head constable","communication","electrician","steward","veterinary","non-gd"],
-    description:"SSB Head Constable Non-GD Recruitment 2026 for 233 posts – HC Communication (197), HC Electrician (29), HC Veterinary (5), HC Steward (2). Last Date: 04 May 2026."
+    description:"Sashastra Seema Bal (SSB) Head Constable Non-GD Recruitment 2026 for 233 posts including Communication (197), Electrician (29), Veterinary (5), and Steward (2). Level 4 pay scale Rs. 25500-81100. Apply online at recruitment.ssb.gov.in. Last date 04 May 2026."
   }
 ];
 
