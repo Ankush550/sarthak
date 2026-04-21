@@ -128,9 +128,16 @@ if (!dataset || !meta) {
       <div class="dl-box" style="background:${meta.color}10;border:1px solid ${meta.color}40;">
         <h2 style="color:${meta.color};">${item.icon || ''} ${item.title}</h2>
         <p style="color:#555;">${item.description || 'Click the button below to access the official website.'}</p>
-        <a href="${item.link}" class="dl-btn dl-btn-primary" target="_blank" rel="nofollow noopener">${meta.dlLabel} &rarr;</a>
-        <a href="${item.link}" class="dl-btn dl-btn-secondary" target="_blank" rel="nofollow noopener">Official Website</a>
-        <p style="font-size:11px;color:#999;margin-top:12px;">You will be redirected to the official website of ${item.organization}. SarthakYojana.in is not the official website.</p>
+        ${(item.link && item.link !== '#') ? `
+          <a href="${item.link}" class="dl-btn dl-btn-primary" target="_blank" rel="nofollow noopener">${meta.dlLabel} &#8594;</a>
+          <a href="${item.link}" class="dl-btn dl-btn-secondary" target="_blank" rel="nofollow noopener">Official Website</a>
+          <p style="font-size:11px;color:#999;margin-top:12px;">You will be redirected to the official website of ${item.organization}. SarthakYojana.in is not the official website.</p>
+        ` : `
+          <div style="background:#fff3cd;border:1px solid #ffc107;border-radius:4px;padding:12px 14px;margin:8px 0;font-size:13px;color:#856404;text-align:left;">
+            <strong>&#9432; Official link will be updated soon.</strong><br>
+            Please visit <strong>${item.organization}</strong>'s official website directly to access this ${type === 'result' ? 'result' : type === 'admit' ? 'admit card' : 'answer key'}.
+          </div>
+        `}
       </div>
 
       ${steps.length > 1 ? `<div class="steps-box">

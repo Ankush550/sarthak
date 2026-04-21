@@ -4,29 +4,87 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Government Schemes 2026 – Sarkari Yojana List | SarthakYojana</title>
-<meta name="description" content="Complete list of Government Schemes 2026. PM Kisan, Ayushman Bharat, PM Awas Yojana and all Sarkari Yojana details with eligibility and benefits.">
+<meta name="description" content="Complete list of Government Schemes 2026. PM Kisan, Ayushman Bharat, PM Awas Yojana and all Sarkari Yojana with eligibility, benefits and how to apply.">
 <link rel="canonical" href="https://sarthakyojana.in/pages/schemes.html">
 <link rel="stylesheet" href="../assets/style.css">
+<style>
+.scheme-card{background:#fff;border:1px solid #ddd;border-radius:3px;margin-bottom:14px;overflow:hidden;}
+.scheme-card .sc-header{background:#c0392b;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;}
+.scheme-card .sc-header h2{font-size:14px;font-weight:700;color:#fff;margin:0;}
+.scheme-card .sc-header .sc-badges{display:flex;gap:6px;}
+.sc-badge{padding:2px 9px;border-radius:10px;font-size:11px;font-weight:700;}
+.sc-central{background:#fff3cd;color:#856404;}
+.sc-state{background:#d4edda;color:#155724;}
+.scheme-body{padding:14px;}
+.scheme-meta{width:100%;border-collapse:collapse;font-size:12.5px;margin-bottom:12px;}
+.scheme-meta tr:nth-child(even){background:#f9f9f9;}
+.scheme-meta td{padding:6px 10px;border:1px solid #eee;}
+.scheme-meta td:first-child{font-weight:700;color:#555;width:130px;}
+.scheme-desc{font-size:12.5px;color:#444;line-height:1.75;margin-bottom:10px;}
+.scheme-apply-btn{display:inline-block;background:#c0392b;color:#fff;padding:7px 18px;border-radius:3px;font-size:12.5px;font-weight:700;text-decoration:none;margin-top:6px;}
+.scheme-apply-btn:hover{background:#a93226;color:#fff;text-decoration:none;}
+.filter-row{display:flex;gap:8px;flex-wrap:wrap;padding:10px 12px;border-bottom:1px solid #eee;background:#f9f9f9;}
+.filter-row select,.filter-row input{padding:6px 8px;border:1px solid #ccc;border-radius:3px;font-size:12px;}
+.filter-row button{padding:6px 14px;background:#c0392b;color:#fff;border:none;border-radius:3px;cursor:pointer;font-size:12px;font-weight:700;}
+</style>
 </head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
 <div class="breadcrumb"><div class="breadcrumb-inner"><a href="../index.html">Home</a> &rsaquo; Government Schemes</div></div>
+
 <div class="center">
   <div class="page-title-box"><h1>Government Schemes 2026 – Sarkari Yojana</h1></div>
+
+  <!-- Quick table -->
+  <div class="sec-box" style="margin-bottom:14px;">
+    <div class="sec-hdr"><h2>All Government Schemes – Quick Overview</h2></div>
+    <div class="filter-row">
+      <select id="fType" onchange="filterSchemes()">
+        <option value="">All Types</option>
+        <option value="Central">Central Govt</option>
+        <option value="State">State Govt</option>
+      </select>
+      <select id="fCat" onchange="filterSchemes()">
+        <option value="">All Categories</option>
+        <option value="Agriculture">Agriculture</option>
+        <option value="Housing">Housing</option>
+        <option value="Finance">Finance</option>
+        <option value="Health">Health</option>
+        <option value="Business">Business / Employment</option>
+        <option value="Education">Education</option>
+        <option value="Women">Women & Child</option>
+      </select>
+      <input type="text" id="fKw" placeholder="Search scheme..." oninput="filterSchemes()" style="width:160px;">
+      <button onclick="resetFilter()">Reset</button>
+    </div>
+    <table class="data-table" id="schemeTable">
+      <thead><tr><th>#</th><th>Scheme Name</th><th>Type</th><th>Category</th><th>Benefit</th><th>Details</th></tr></thead>
+      <tbody id="schemeTbody"></tbody>
+    </table>
+    <div id="noSchemes" style="display:none;padding:20px;text-align:center;color:#888;">No schemes found.</div>
+  </div>
+
+  <!-- Detailed cards -->
   <div id="schemeCards"></div>
+
+  <!-- SEO content -->
   <div class="content-section">
     <h2>What are Sarkari Yojana?</h2>
-    <p>Sarkari Yojana refers to government welfare schemes launched by the Central or State governments for various sections of society including farmers, women, students, elderly citizens, and the poor.</p>
-    <h3>How to Check Eligibility</h3>
+    <p>Sarkari Yojana refers to government welfare schemes launched by the Central or State governments of India for various sections of society. These schemes aim to provide financial assistance, healthcare, housing, education, and employment support to eligible citizens. Understanding government schemes helps you claim your entitled benefits.</p>
+    <h3>How to Check Your Eligibility for Government Schemes</h3>
     <ul>
-      <li>Visit the official scheme portal or PM India website</li>
-      <li>Check income, age, category and occupation criteria</li>
-      <li>Gather required documents (Aadhaar, income cert, bank details)</li>
-      <li>Apply online or at your nearest CSC centre</li>
+      <li>Visit the official scheme portal or myScheme portal at myscheme.gov.in</li>
+      <li>Check income, age, category, and occupation criteria for each scheme</li>
+      <li>Gather required documents (Aadhaar, income certificate, bank details)</li>
+      <li>Apply online or at your nearest CSC (Common Service Centre)</li>
+      <li>Call helpline numbers for scheme-specific assistance</li>
     </ul>
+    <h3>Documents Generally Required</h3>
+    <p>Most government schemes require: Aadhaar Card, bank account passbook, income certificate, residence proof, caste certificate (if applicable), and passport-size photographs.</p>
   </div>
 </div>
+
 <div id="site-footer"></div>
 <script src="../assets/jobs-data.js"></script>
 <script src="../assets/main.js"></script>
@@ -34,21 +92,78 @@
 renderHeader('Schemes');
 renderTicker();
 renderFooter();
-document.getElementById('schemeCards').innerHTML = SCHEMES_DATA.map(s=>`
-  <div class="scheme-card" id="scheme-${s.id}">
-    <div class="sc-title">${s.name}</div>
-    <div class="sc-body">
-      <p style="font-size:12.5px;color:#444;margin-bottom:10px;">${s.description}</p>
-      <table class="scheme-meta">
-        <tr><td>Type</td><td><span class="cat-pill ${s.type==='Central'?'pill-central':'pill-state'}">${s.type}</span></td></tr>
-        <tr><td>Category</td><td>${s.category}</td></tr>
-        <tr><td>Eligibility</td><td>${s.eligibility}</td></tr>
-        <tr><td>Benefits</td><td>${s.benefits}</td></tr>
-        <tr><td>How to Apply</td><td>${s.howToApply}</td></tr>
-        ${s.officialLink?`<tr><td>Official Link</td><td><a href="${s.officialLink}" target="_blank" rel="nofollow noopener" style="color:#c0392b;">${s.officialLink}</a></td></tr>`:''}
-      </table>
-    </div>
-  </div>`).join('');
+
+function renderTable(data) {
+  const tbody = document.getElementById('schemeTbody');
+  const noEl  = document.getElementById('noSchemes');
+  if (!data.length) { tbody.innerHTML=''; noEl.style.display='block'; return; }
+  noEl.style.display='none';
+  tbody.innerHTML = data.map((s,i)=>`<tr>
+    <td>${i+1}</td>
+    <td><a href="#scheme-${s.id}" style="color:#c0392b;">${s.title||s.name}</a></td>
+    <td>${s.type||'Central'}</td>
+    <td>${s.category}</td>
+    <td>${s.benefit||s.benefits||'—'}</td>
+    <td><a href="#scheme-${s.id}" class="apply-small">Details</a></td>
+  </tr>`).join('');
+}
+
+function renderCards(data) {
+  document.getElementById('schemeCards').innerHTML = data.map(s=>`
+    <div class="scheme-card" id="scheme-${s.id}">
+      <div class="sc-header">
+        <h2>${s.title||s.name}</h2>
+        <div class="sc-badges">
+          <span class="sc-badge sc-${(s.type||'Central').toLowerCase()}">${s.type||'Central'}</span>
+          <span class="sc-badge" style="background:#e8e8e8;color:#333;">${s.category}</span>
+        </div>
+      </div>
+      <div class="scheme-body">
+        <p class="scheme-desc">${s.description||''}</p>
+        <table class="scheme-meta">
+          <tr><td>Benefit</td><td><strong>${s.benefit||s.benefits||'—'}</strong></td></tr>
+          <tr><td>Eligibility</td><td>${s.eligibility||'—'}</td></tr>
+          <tr><td>Full Benefits</td><td>${s.benefits||s.benefit||'—'}</td></tr>
+          <tr><td>How to Apply</td><td>${s.howToApply||'Visit official portal or nearest CSC centre'}</td></tr>
+          ${s.officialLink||s.applyLink ? `<tr><td>Official Portal</td><td><a href="${s.officialLink||s.applyLink}" target="_blank" rel="nofollow noopener" style="color:#c0392b;">${s.officialLink||s.applyLink}</a></td></tr>` : ''}
+        </table>
+        ${s.applyLink ? `<a href="${s.applyLink}" class="scheme-apply-btn" target="_blank" rel="nofollow noopener">Apply / Check Eligibility &rarr;</a>` : ''}
+      </div>
+    </div>`).join('');
+}
+
+function filterSchemes() {
+  const type = document.getElementById('fType').value;
+  const cat  = document.getElementById('fCat').value;
+  const kw   = document.getElementById('fKw').value.toLowerCase();
+  const filtered = SCHEMES_DATA.filter(s => {
+    if (type && (s.type||'Central') !== type) return false;
+    if (cat && s.category !== cat) return false;
+    if (kw && !(s.title||s.name||'').toLowerCase().includes(kw) && !(s.description||'').toLowerCase().includes(kw)) return false;
+    return true;
+  });
+  renderTable(filtered);
+  renderCards(filtered);
+}
+
+function resetFilter() {
+  document.getElementById('fType').value = '';
+  document.getElementById('fCat').value  = '';
+  document.getElementById('fKw').value   = '';
+  renderTable(SCHEMES_DATA);
+  renderCards(SCHEMES_DATA);
+}
+
+renderTable(SCHEMES_DATA);
+renderCards(SCHEMES_DATA);
+
+// Scroll to specific scheme if hash is present
+if (window.location.hash) {
+  setTimeout(()=>{
+    const el = document.querySelector(window.location.hash);
+    if (el) el.scrollIntoView({behavior:'smooth', block:'start'});
+  }, 300);
+}
 </script>
 </body>
 </html>

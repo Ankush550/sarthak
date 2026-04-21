@@ -440,11 +440,66 @@ const PRIVATE_JOBS_DATA = [
 ];
 
 const SCHEMES_DATA = [
-  {id:"pm-kisan",title:"PM Kisan Samman Nidhi Yojana",category:"Agriculture",benefit:"Rs. 6000/yr",eligibility:"All landholding farmers",isNew:false,applyLink:"https://pmkisan.gov.in",description:"Financial benefit of Rs. 6000 per year to all landholding farmer families in three equal installments."},
-  {id:"pm-awas",title:"PM Awas Yojana (PMAY)",category:"Housing",benefit:"Up to Rs. 2.67 Lakh",eligibility:"EWS/LIG/MIG families",isNew:false,applyLink:"https://pmaymis.gov.in",description:"Housing for all with interest subsidy on home loans under CLSS."},
-  {id:"sukanya-samriddhi",title:"Sukanya Samriddhi Yojana",category:"Finance",benefit:"8.2% interest rate",eligibility:"Girl child below 10 years",isNew:false,applyLink:"https://www.indiapost.gov.in",description:"Small savings scheme for girl child with high interest rate and tax benefits."},
-  {id:"ayushman-bharat",title:"Ayushman Bharat – PM Jan Arogya Yojana",category:"Health",benefit:"Rs. 5 Lakh health cover/year",eligibility:"Poor families as per SECC",isNew:false,applyLink:"https://pmjay.gov.in",description:"Health coverage of Rs. 5 lakh per family per year at empaneled hospitals."},
-  {id:"pm-mudra",title:"Pradhan Mantri MUDRA Yojana",category:"Business",benefit:"Loan up to Rs. 10 Lakh",eligibility:"Non-corporate micro enterprises",isNew:false,applyLink:"https://www.mudra.org.in",description:"Loans up to Rs. 10 lakh for small/micro enterprises. Shishu/Kishore/Tarun categories."}
+  {
+    id:"pm-kisan", title:"PM Kisan Samman Nidhi Yojana", name:"PM Kisan Samman Nidhi Yojana",
+    type:"Central", category:"Agriculture",
+    benefit:"Rs. 6,000 per year (3 installments of Rs. 2,000 each)",
+    benefits:"Rs. 6,000 per year directly to bank account in three equal installments of Rs. 2,000 each.",
+    eligibility:"All landholding farmer families in India whose names appear in land records.",
+    howToApply:"Apply online at pmkisan.gov.in or visit nearest CSC centre. Aadhaar and bank account linking is mandatory.",
+    officialLink:"https://pmkisan.gov.in",
+    applyLink:"https://pmkisan.gov.in",
+    description:"PM Kisan Samman Nidhi provides direct income support of Rs. 6,000 per year to small and marginal farmer families to supplement their financial needs. The amount is transferred directly to the farmer's bank account in three equal installments.",
+    isNew:false
+  },
+  {
+    id:"pm-awas", title:"PM Awas Yojana – Urban (PMAY-U)", name:"PM Awas Yojana – Urban (PMAY-U)",
+    type:"Central", category:"Housing",
+    benefit:"Interest subsidy up to Rs. 2.67 Lakh on home loans under CLSS",
+    benefits:"Credit Linked Subsidy Scheme (CLSS) provides interest subsidy of 3–6.5% on home loans. EWS/LIG: subsidy up to Rs. 2.67 lakh. MIG-I: up to Rs. 2.35 lakh. MIG-II: up to Rs. 2.30 lakh.",
+    eligibility:"EWS (income up to Rs. 3 lakh), LIG (Rs. 3–6 lakh), MIG-I (Rs. 6–12 lakh), MIG-II (Rs. 12–18 lakh) families. Beneficiary family should not own a pucca house anywhere in India.",
+    howToApply:"Apply at your bank/HFC or visit PMAY portal pmaymis.gov.in. Submit Aadhaar, income certificate, and property documents.",
+    officialLink:"https://pmaymis.gov.in",
+    applyLink:"https://pmaymis.gov.in",
+    description:"PM Awas Yojana Urban aims to provide housing for all in urban areas by 2024 through interest subsidies on home loans. It covers all 4,041 statutory towns in India with focus on EWS, LIG, and MIG households.",
+    isNew:false
+  },
+  {
+    id:"sukanya-samriddhi", title:"Sukanya Samriddhi Yojana (SSY)", name:"Sukanya Samriddhi Yojana (SSY)",
+    type:"Central", category:"Finance",
+    benefit:"8.2% interest per annum (highest among small savings schemes). Tax benefits under Section 80C.",
+    benefits:"Current interest rate: 8.2% p.a. (compounded annually). Tax deduction under Section 80C up to Rs. 1.5 lakh per year. Maturity amount is fully tax-free. Minimum deposit: Rs. 250/year; Maximum: Rs. 1.5 lakh/year.",
+    eligibility:"Girl child aged below 10 years. Account opened by parent or legal guardian. Maximum 2 accounts per family (3 in case of twin girls).",
+    howToApply:"Visit any Post Office or authorised bank branch (SBI, PNB, BOB, etc.) with birth certificate of girl child, ID proof and address proof of guardian.",
+    officialLink:"https://www.indiapost.gov.in",
+    applyLink:"https://www.indiapost.gov.in",
+    description:"Sukanya Samriddhi Yojana is a small savings scheme specifically designed for the education and marriage expenses of the girl child. It offers the highest interest rate among Govt small savings schemes and complete tax exemption on deposits, interest, and maturity proceeds.",
+    isNew:false
+  },
+  {
+    id:"ayushman-bharat", title:"Ayushman Bharat PM-JAY", name:"Ayushman Bharat PM-JAY",
+    type:"Central", category:"Health",
+    benefit:"Rs. 5 lakh health cover per family per year at empanelled hospitals",
+    benefits:"Rs. 5 lakh cashless health insurance per family per year. Covers pre and post hospitalization expenses. Covers 1,949 medical procedures. No cap on family size. Pre-existing conditions covered from day 1.",
+    eligibility:"Poor and vulnerable families as identified in SECC (Socio-Economic Caste Census) 2011 database. Approximately 10.74 crore beneficiary families (about 50 crore individuals).",
+    howToApply:"Check eligibility at pmjay.gov.in or call helpline 14555. Visit nearest Ayushman Bharat empanelled hospital. Carry Aadhaar/ration card for identity verification.",
+    officialLink:"https://pmjay.gov.in",
+    applyLink:"https://pmjay.gov.in",
+    description:"Ayushman Bharat PM Jan Arogya Yojana is the world's largest health assurance scheme, providing Rs. 5 lakh per family per year for secondary and tertiary hospitalisation at over 25,000 empanelled hospitals across India. It completely cashless and paperless.",
+    isNew:false
+  },
+  {
+    id:"pm-mudra", title:"Pradhan Mantri MUDRA Yojana (PMMY)", name:"Pradhan Mantri MUDRA Yojana (PMMY)",
+    type:"Central", category:"Business",
+    benefit:"Loans up to Rs. 10 lakh for micro/small enterprises without collateral",
+    benefits:"Shishu: loans up to Rs. 50,000. Kishore: Rs. 50,001 to Rs. 5 lakh. Tarun: Rs. 5 lakh to Rs. 10 lakh. No collateral required. Low interest rates. Repayment period up to 7 years.",
+    eligibility:"Non-corporate, non-farm micro and small enterprises including proprietary firms, partnership firms, and companies engaged in manufacturing, trading, or service activities.",
+    howToApply:"Apply at any scheduled commercial bank, MFI, NBFC, or RRB. Carry ID proof, address proof, business plan/proof, and bank statements.",
+    officialLink:"https://www.mudra.org.in",
+    applyLink:"https://www.mudra.org.in",
+    description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners. The scheme has provided credit to over 40 crore entrepreneurs since launch in 2015, with special focus on SC/ST/OBC/Women entrepreneurs.",
+    isNew:false
+  }
 ];
 
 const RESULTS_DATA = [
