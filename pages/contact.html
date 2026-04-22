@@ -64,7 +64,7 @@
       <div class="icon">&#9993;</div>
       <h3>Email Us</h3>
       <p>For job update requests, corrections, or general queries:<br>
-      <a href="mailto:info@sarthakyojana.in">info@sarthakyojana.in</a></p>
+      <a href="mailto:ankush.jain70146@gmail.com">ankush.jain70146@gmail.com</a></p>
     </div>
     <div class="contact-card">
       <div class="icon">&#128242;</div>
@@ -140,7 +140,7 @@
     <h3>How do I report wrong or outdated information?</h3>
     <p>Select "Wrong / Outdated Information" in the subject dropdown and provide the correct details with a reference link. We will update the page promptly.</p>
     <h3>Can I advertise on SarthakYojana.in?</h3>
-    <p>Yes, we offer advertising options for coaching institutes, job portals, and education-related brands. Write to us at <a href="mailto:info@sarthakyojana.in">info@sarthakyojana.in</a> with "Advertising" in the subject line.</p>
+    <p>Yes, we offer advertising options for coaching institutes, job portals, and education-related brands. Write to us at <a href="mailto:ankush.jain70146@gmail.com">ankush.jain70146@gmail.com</a> with "Advertising" in the subject line.</p>
     <h3>Do you provide personal job application assistance?</h3>
     <p>SarthakYojana.in is an information portal only. We do not fill forms on behalf of candidates or provide any paid job application services. All information on our site is free.</p>
   </div>
@@ -155,22 +155,70 @@ renderTicker();
 renderFooter();
 renderCookieConsent();
 
-function submitForm() {
-  const name = document.getElementById('cName').value.trim();
-  const email = document.getElementById('cEmail').value.trim();
+async function submitForm() {
+  const name    = document.getElementById('cName').value.trim();
+  const email   = document.getElementById('cEmail').value.trim();
+  const phone   = document.getElementById('cPhone').value.trim();
   const subject = document.getElementById('cSubject').value;
-  const msg = document.getElementById('cMsg').value.trim();
+  const msg     = document.getElementById('cMsg').value.trim();
+  
   if (!name || !email || !subject || !msg) {
-    alert('Please fill all required fields (marked with *).');
+    alert('Kripya sabhi required fields (* wale) bharen.');
     return;
   }
-  // In production: replace with actual form submission (EmailJS / Formspree / PHP)
-  document.getElementById('successMsg').style.display = 'block';
-  document.getElementById('cName').value = '';
-  document.getElementById('cEmail').value = '';
-  document.getElementById('cPhone').value = '';
-  document.getElementById('cSubject').value = '';
-  document.getElementById('cMsg').value = '';
+  
+  // Email validation
+  if (!/^[^@]+@[^@]+\.[^@]+$/.test(email)) {
+    alert('Valid email address enter karein.');
+    return;
+  }
+  
+  const btn = document.querySelector('.submit-btn');
+  btn.textContent = 'Sending...';
+  btn.disabled = true;
+
+  try {
+    // Web3Forms - free, no signup needed, sends directly to Gmail
+    const res = await fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({
+        access_key: '73e7c5ec-06ef-4dd3-b599-972d78fdd747',
+        subject: 'SarthakYojana Contact: ' + subject,
+        from_name: name,
+        email: email,
+        phone: phone || 'Not provided',
+        message: msg,
+        botcheck: ''
+      })
+    });
+    
+    const data = await res.json();
+    
+    if (data.success) {
+      document.getElementById('successMsg').style.display = 'block';
+      document.getElementById('cName').value = '';
+      document.getElementById('cEmail').value = '';
+      document.getElementById('cPhone').value = '';
+      document.getElementById('cSubject').value = '';
+      document.getElementById('cMsg').value = '';
+      btn.textContent = 'Send Message →';
+      btn.disabled = false;
+    } else {
+      throw new Error('Form submission failed');
+    }
+  } catch(err) {
+    // Fallback: open Gmail with pre-filled content
+    const gmailUrl = 'https://mail.google.com/mail/?view=cm&to=ankush.jain70146@gmail.com' +
+      '&su=' + encodeURIComponent('SarthakYojana - ' + subject) +
+      '&body=' + encodeURIComponent('Name: ' + name + '\nEmail: ' + email + '\nPhone: ' + (phone||'N/A') + '\n\nMessage:\n' + msg);
+    
+    if (confirm('Direct email bhejne ke liye Gmail open hoga. OK?')) {
+      window.open(gmailUrl, '_blank');
+    }
+    btn.textContent = 'Send Message →';
+    btn.disabled = false;
+  }
 }
 </script>
 </body>
