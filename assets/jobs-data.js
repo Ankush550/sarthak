@@ -1,6 +1,35 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"bob-sports-quota-2026",
+    orgWebsite:"https://www.bankofbaroda.bank.in",
+    title:"Bank of Baroda Sports Quota Recruitment 2026",
+    shortTitle:"Bank of Baroda Sports Quota Online Form 2026",
+    organization:"Bank of Baroda (BOB)",
+    totalPosts:30,
+    lastDate:"2026-05-12",
+    lastDateDisplay:"12 May 2026",
+    datePosted:"2026-04-22",
+    validThrough:"2026-05-12T23:59:00+05:30",
+    employmentType:"FULL_TIME",
+    salaryMin:24050,
+    salaryMax:64480,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+    location:"Delhi, Mumbai, Chennai",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+    qualification:"Graduate (Any Discipline)",
+    ageLimit:"20 to 28 Years",
+    applyLink:"https://www.bankofbaroda.bank.in/careers",
+    officialNotification:"https://www.bankofbaroda.bank.in/careers",
+    fee:"Rs. 850 (General/OBC/EWS) | Rs. 175 (SC/ST/Women)",
+    description:"Bank of Baroda Sports Quota Recruitment 2026 for 30 Customer Service Associate (Clerical Cadre) posts for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football. Application start date 22 April 2026, last date 12 May 2026.",
+    status:"open",
+    isNew:true
+  },
+  {
     id:"territorial-army-officer-2026",
     title:"Territorial Army Officer Recruitment 2026",
     shortTitle:"Territorial Army Officer – 12 Posts",
@@ -396,140 +425,34 @@ const JOBS_DATA = [
   },
   {
     id:"ssb-head-constable-nongd-2026",
+    orgWebsite:"https://recruitment.ssb.gov.in",
     title:"SSB Head Constable Non-GD Recruitment 2026",
-    shortTitle:"SSB Head Constable – 233 Posts",
-    organization:"Sashastra Seema Bal (SSB), MHA",
-    orgWebsite:"https://ssb.gov.in",
-    category:"Defence", subCategory:"Head Constable",
-    totalPosts:233, lastDate:"2026-05-04", lastDateDisplay:"04 May 2026",
-    datePosted:"2026-03-21", examDate:"To be announced",
-    validThrough:"2026-05-04T23:59:00+05:30", employmentType:"FULL_TIME",
-    salaryMin:25500, salaryMax:81100, salaryCurrency:"INR", salaryUnit:"MONTH",
-    location:"Pan India", addressLocality:"New Delhi", addressRegion:"Delhi", addressCountry:"IN",
-    qualification:"10th/12th Pass with relevant Diploma/ITI/trade qualification",
-    ageLimit:"18–25/27 Years (Post-wise)", applyLink:"https://recruitment.ssb.gov.in",
-    officialNotification:"https://ssb.gov.in",
-    fee:"Rs. 100/- (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM)",
-    isNew:true, isFeatured:false,
-    tags:["ssb","head constable","communication","electrician","steward","veterinary","non-gd"],
-    description:"Sashastra Seema Bal (SSB) Head Constable Non-GD Recruitment 2026 for 233 posts including Communication (197), Electrician (29), Veterinary (5), and Steward (2). Level 4 pay scale Rs. 25500-81100. Apply online at recruitment.ssb.gov.in. Last date 04 May 2026."
-  }
-];
-
-const PRIVATE_JOBS_DATA = [
-  {
-    id:"federal-bank-sales-2026",
-    title:"Federal Bank Sales Professionals Recruitment 2026",
-    shortTitle:"Federal Bank Sales Professionals Online Form 2026",
-    organization:"Federal Bank", orgWebsite:"https://www.federalbank.co.in",
-    category:"Private Bank", subCategory:"Sales",
-    totalPosts:200, lastDate:"2026-04-30", lastDateDisplay:"30 April 2026",
-    datePosted:"2026-04-05", validThrough:"2026-04-30T23:59:00+05:30", employmentType:"FULL_TIME",
-    salaryMin:25000, salaryMax:60000, salaryCurrency:"INR", salaryUnit:"MONTH",
-    location:"Pan India", addressLocality:"Aluva", addressRegion:"Kerala", addressCountry:"IN",
-    qualification:"Graduate", qualificationCode:"Graduate",
-    ageLimit:"22–28 Years", applyLink:"https://www.federalbank.co.in",
-    officialNotification:"https://www.federalbank.co.in",
-    fee:"No Fee", isNew:true, isFeatured:false,
-    tags:["federal bank","sales","private bank","graduate"],
-    description:"Federal Bank hiring 200 Sales Professionals across India. Graduates can apply.",
-    fullContent:`<h2>Federal Bank Sales Professionals 2026</h2>
-<p>Federal Bank invites applications for <strong>200 Sales Professional</strong> roles across India.</p>
-<h3>Eligibility</h3><ul><li>Age: 22–28 years</li><li>Graduate + Good communication skills</li></ul>`
-  }
-];
-
-const SCHEMES_DATA = [
-  {
-    id:"pm-kisan", title:"PM Kisan Samman Nidhi Yojana", name:"PM Kisan Samman Nidhi Yojana",
-    type:"Central", category:"Agriculture",
-    benefit:"Rs. 6,000 per year (3 installments of Rs. 2,000 each)",
-    benefits:"Rs. 6,000 per year directly to bank account in three equal installments of Rs. 2,000 each.",
-    eligibility:"All landholding farmer families in India whose names appear in land records.",
-    howToApply:"Apply online at pmkisan.gov.in or visit nearest CSC centre. Aadhaar and bank account linking is mandatory.",
-    officialLink:"https://pmkisan.gov.in",
-    applyLink:"https://pmkisan.gov.in",
-    description:"PM Kisan Samman Nidhi provides direct income support of Rs. 6,000 per year to small and marginal farmer families to supplement their financial needs. The amount is transferred directly to the farmer's bank account in three equal installments.",
-    isNew:false
-  },
-  {
-    id:"pm-awas", title:"PM Awas Yojana – Urban (PMAY-U)", name:"PM Awas Yojana – Urban (PMAY-U)",
-    type:"Central", category:"Housing",
-    benefit:"Interest subsidy up to Rs. 2.67 Lakh on home loans under CLSS",
-    benefits:"Credit Linked Subsidy Scheme (CLSS) provides interest subsidy of 3–6.5% on home loans. EWS/LIG: subsidy up to Rs. 2.67 lakh. MIG-I: up to Rs. 2.35 lakh. MIG-II: up to Rs. 2.30 lakh.",
-    eligibility:"EWS (income up to Rs. 3 lakh), LIG (Rs. 3–6 lakh), MIG-I (Rs. 6–12 lakh), MIG-II (Rs. 12–18 lakh) families. Beneficiary family should not own a pucca house anywhere in India.",
-    howToApply:"Apply at your bank/HFC or visit PMAY portal pmaymis.gov.in. Submit Aadhaar, income certificate, and property documents.",
-    officialLink:"https://pmaymis.gov.in",
-    applyLink:"https://pmaymis.gov.in",
-    description:"PM Awas Yojana Urban aims to provide housing for all in urban areas by 2024 through interest subsidies on home loans. It covers all 4,041 statutory towns in India with focus on EWS, LIG, and MIG households.",
-    isNew:false
-  },
-  {
-    id:"sukanya-samriddhi", title:"Sukanya Samriddhi Yojana (SSY)", name:"Sukanya Samriddhi Yojana (SSY)",
-    type:"Central", category:"Finance",
-    benefit:"8.2% interest per annum (highest among small savings schemes). Tax benefits under Section 80C.",
-    benefits:"Current interest rate: 8.2% p.a. (compounded annually). Tax deduction under Section 80C up to Rs. 1.5 lakh per year. Maturity amount is fully tax-free. Minimum deposit: Rs. 250/year; Maximum: Rs. 1.5 lakh/year.",
-    eligibility:"Girl child aged below 10 years. Account opened by parent or legal guardian. Maximum 2 accounts per family (3 in case of twin girls).",
-    howToApply:"Visit any Post Office or authorised bank branch (SBI, PNB, BOB, etc.) with birth certificate of girl child, ID proof and address proof of guardian.",
-    officialLink:"https://www.indiapost.gov.in",
-    applyLink:"https://www.indiapost.gov.in",
-    description:"Sukanya Samriddhi Yojana is a small savings scheme specifically designed for the education and marriage expenses of the girl child. It offers the highest interest rate among Govt small savings schemes and complete tax exemption on deposits, interest, and maturity proceeds.",
-    isNew:false
-  },
-  {
-    id:"ayushman-bharat", title:"Ayushman Bharat PM-JAY", name:"Ayushman Bharat PM-JAY",
-    type:"Central", category:"Health",
-    benefit:"Rs. 5 lakh health cover per family per year at empanelled hospitals",
-    benefits:"Rs. 5 lakh cashless health insurance per family per year. Covers pre and post hospitalization expenses. Covers 1,949 medical procedures. No cap on family size. Pre-existing conditions covered from day 1.",
-    eligibility:"Poor and vulnerable families as identified in SECC (Socio-Economic Caste Census) 2011 database. Approximately 10.74 crore beneficiary families (about 50 crore individuals).",
-    howToApply:"Check eligibility at pmjay.gov.in or call helpline 14555. Visit nearest Ayushman Bharat empanelled hospital. Carry Aadhaar/ration card for identity verification.",
-    officialLink:"https://pmjay.gov.in",
-    applyLink:"https://pmjay.gov.in",
-    description:"Ayushman Bharat PM Jan Arogya Yojana is the world's largest health assurance scheme, providing Rs. 5 lakh per family per year for secondary and tertiary hospitalisation at over 25,000 empanelled hospitals across India. It completely cashless and paperless.",
-    isNew:false
-  },
-  {
-    id:"pm-mudra", title:"Pradhan Mantri MUDRA Yojana (PMMY)", name:"Pradhan Mantri MUDRA Yojana (PMMY)",
-    type:"Central", category:"Business",
-    benefit:"Loans up to Rs. 10 lakh for micro/small enterprises without collateral",
-    benefits:"Shishu: loans up to Rs. 50,000. Kishore: Rs. 50,001 to Rs. 5 lakh. Tarun: Rs. 5 lakh to Rs. 10 lakh. No collateral required. Low interest rates. Repayment period up to 7 years.",
-    eligibility:"Non-corporate, non-farm micro and small enterprises including proprietary firms, partnership firms, and companies engaged in manufacturing, trading, or service activities.",
-    howToApply:"Apply at any scheduled commercial bank, MFI, NBFC, or RRB. Carry ID proof, address proof, business plan/proof, and bank statements.",
-    officialLink:"https://www.mudra.org.in",
-    applyLink:"https://www.mudra.org.in",
-    description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners. The scheme has provided credit to over 40 crore entrepreneurs since launch in 2015, with special focus on SC/ST/OBC/Women entrepreneurs.",
-    isNew:false
-  }
-,
-  {
-    id:"bob-sports-quota-2026",
-    orgWebsite:"https://www.bankofbaroda.bank.in",
-    title:"Bank of Baroda Sports Quota Recruitment 2026",
-    shortTitle:"Bank of Baroda Sports Quota Online Form 2026",
-    organization:"Bank of Baroda (BOB)",
-    totalPosts:30,
-    lastDate:"2026-05-12",
-    lastDateDisplay:"12 May 2026",
-    datePosted:"2026-04-22",
-    validThrough:"2026-05-12T23:59:00+05:30",
+    shortTitle:"SSB 233 Head Constable Online Form 2026",
+    organization:"Sashastra Seema Bal (SSB)",
+    totalPosts:233,
+    lastDate:"2026-05-04",
+    lastDateDisplay:"04 May 2026 (Extended)",
+    datePosted:"2026-03-25",
+    validThrough:"2026-05-04T23:59:00+05:30",
     employmentType:"FULL_TIME",
-    salaryMin:24050,
-    salaryMax:64480,
+    salaryMin:25500,
+    salaryMax:81100,
     salaryCurrency:"INR",
     salaryUnit:"MONTH",
-    location:"Delhi, Mumbai, Chennai",
+    location:"Pan India (Border Posts)",
     addressLocality:"New Delhi",
     addressRegion:"Delhi",
     addressCountry:"IN",
-    qualification:"Graduate (Any Discipline)",
-    ageLimit:"20 to 28 Years",
-    applyLink:"https://www.bankofbaroda.bank.in/careers",
-    officialNotification:"https://www.bankofbaroda.bank.in/careers",
-    fee:"Rs. 850 (General/OBC/EWS) | Rs. 175 (SC/ST/Women)",
-    description:"Bank of Baroda Sports Quota Recruitment 2026 for 30 Customer Service Associate (Clerical Cadre) posts for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football. Application start date 22 April 2026, last date 12 May 2026.",
+    qualification:"10th Pass + ITI / Relevant Certificate",
+    ageLimit:"18 to 25 Years",
+    applyLink:"https://recruitment.ssb.gov.in",
+    officialNotification:"https://recruitment.ssb.gov.in",
+    fee:"Rs. 100 (UR/OBC/EWS) | Nil (SC/ST/Female/Ex-SM)",
+    description:"SSB Head Constable Non-GD Recruitment 2026 for 233 posts including Communication (197), Electrician (29), Veterinary (5), and Steward (2). Level 4 pay scale Rs. 25,500-81,100. Last date extended to 04 May 2026.",
     status:"open",
     isNew:true
   }
+
 ];
 
 const RESULTS_DATA = [
