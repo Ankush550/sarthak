@@ -1685,3 +1685,212 @@ JOB_CONTENT["bpcl-entry-level-2026"] = `
 <p>Apply online at <strong>www.bharatpetroleum.in</strong> → Careers → Recruitment → Management Trainee (Technical) 2026. Application typically opens March–April 2026 after GATE results. Last date to apply: check bharatpetroleum.in for current notification. GD/Interview Call Letters are sent by email to shortlisted candidates. Interview results and final selection list are published on the BPCL official website. Medical examination is conducted at BPCL-designated hospitals after final selection.</p>
 `;
 
+
+// ===== BOB SPORTS QUOTA 2026 =====
+JOB_CONTENT["bob-sports-quota-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp; 
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; 
+  Updated: 22 April 2026
+</div>
+
+<h2>Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</h2>
+<p><strong>Bank of Baroda (BOB)</strong>, one of India's largest public sector banks headquartered in Vadodara, Gujarat, has officially published the <strong>Customer Service Associate (Clerical Cadre) – Sports Quota Recruitment 2026</strong> notification (Advertisement No. BOB/HRM/REC/ADVT/2026/09) on 22 April 2026. A total of <strong>30 vacancies</strong> are available exclusively for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football disciplines. Online applications are open from 22 April to 12 May 2026 at the official website <strong>bankofbaroda.bank.in</strong>.</p>
+
+<p>This is a regular (permanent) government bank job — not a contract appointment. Sports quota recruitment in Bank of Baroda has a long tradition, and selected candidates become regular Bank employees with full banking service benefits, pension, and career growth opportunities. Out of 30 posts, 24 are for male candidates and 6 for female candidates, spread across posting locations in Delhi, Mumbai, and Chennai.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Release</td><td>22 April 2026</td></tr>
+<tr><td>Application Start Date</td><td><strong>22 April 2026</strong></td></tr>
+<tr><td>Last Date to Apply Online</td><td><strong style="color:#c0392b;">12 May 2026</strong></td></tr>
+<tr><td>Eligibility Cut-Off Date</td><td>01 April 2026</td></tr>
+<tr><td>Field Trial Date</td><td>To be notified on official website</td></tr>
+</tbody></table>
+
+<h2>Bank of Baroda Sports Quota 2026 – Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Sport</th><th>Location</th><th>Gender</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Cricket</td><td>Delhi</td><td>Male</td><td>4 (Batsman, Spinner, Fast Bowler x2)</td></tr>
+<tr><td>Cricket</td><td>Mumbai</td><td>Male</td><td>5 (Batsman, Allrounder, Fast Bowlers, Spinner)</td></tr>
+<tr><td>Kabaddi</td><td>Mumbai</td><td>Male</td><td>6 (Defenders + Raiders)</td></tr>
+<tr><td>Kabaddi</td><td>Mumbai</td><td>Female</td><td>5 (Defenders + Raiders)</td></tr>
+<tr><td>Table Tennis</td><td>Chennai</td><td>Male</td><td>1 (Singles & Doubles)</td></tr>
+<tr><td>Table Tennis</td><td>Mumbai</td><td>Female</td><td>1 (Singles Player)</td></tr>
+<tr><td>Football</td><td>Mumbai</td><td>Male</td><td>8 (GK, Defenders, Midfielders, Forwards)</td></tr>
+<tr><td colspan="2"><strong>Total</strong></td><td>24M + 6F</td><td><strong>30</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Age Limit (as on 01 April 2026)</h3>
+<p>Minimum age: <strong>20 years</strong>. Maximum age: <strong>28 years</strong> for General/EWS candidates. Age relaxation: SC/ST – 5 years additional (total 10 years), OBC NCL – 3 years additional (total 8 years), Meritorious sportspersons – 5 years as per DOPT guidelines.</p>
+
+<h3>Educational Qualification</h3>
+<p>Candidates must hold a <strong>Degree (Graduation) in any discipline</strong> from a recognised University, or an equivalent qualification recognised by the Central Government. The result must be declared on or before the cut-off date.</p>
+
+<h3>Sports Qualification (Mandatory)</h3>
+<p>Candidates must meet one of the following sports achievement criteria: Represented State/UT/Country in National/International competition; OR Medal winner in Junior National Championships; OR Medal winner in Khelo India Youth Games/Winter Games/Para Games (age above 18 years); OR Represented University in Inter-University Tournaments; OR Represented State School Team in SGFI National events.</p>
+
+<p><strong>Important:</strong> No SC/ST/OBC/EWS reservation applies to this recruitment. All 30 posts are sports quota positions without category-wise reservation for vacancies. Age relaxation for reserved categories applies as per government rules.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 850/- (inclusive of GST)</strong> + payment gateway charges</td></tr>
+<tr><td>SC / ST / ESM / Women</td><td><strong>Rs. 175/- (intimation charges)</strong> + payment gateway charges</td></tr>
+</tbody></table>
+<p>Fee payment is online only (Debit Card, Credit Card, Internet Banking, UPI). Fee is non-refundable under all circumstances.</p>
+
+<h2>Pay Scale and Salary</h2>
+<p>Selected candidates will be placed in the BOB Clerical Cadre pay scale: <strong>Rs. 24,050 – Rs. 64,480 per month</strong> over 20 years with incremental stages. Starting basic pay: Rs. 24,050/month. The pay scale progression: 24050-1340/3-28070-1650/3-33020-2000/4-41020-2340/7-57400-4400/1-61800-2680/1-64480. In addition, employees receive DA, HRA, Medical Aid, LFC, and other IBA-approved allowances.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 – Shortlisting/Screening:</strong> Applications are screened against eligibility criteria including educational qualification, sports experience, and domain expertise. Shortlisting criteria are internal and confidential.</p>
+<p><strong>Stage 2 – Field Trials:</strong> Shortlisted candidates are called for Field Trials at a designated venue. Evaluation criteria and qualifying cut-off are determined solely by the Bank. No change of venue/date is permitted.</p>
+<p><strong>Stage 3 – Document Verification:</strong> Original documents must be produced at the time of Field Trials. All selected candidates must sign a written undertaking to play for the Bank's team whenever required.</p>
+
+<h2>How to Apply Online for Bank of Baroda Sports Quota 2026</h2>
+<ol>
+<li>Visit the official website: <strong>www.bankofbaroda.bank.in</strong></li>
+<li>Go to Careers → Current Opportunities → BOB/HRM/REC/ADVT/2026/09</li>
+<li>Click "Apply Online" and complete registration with name, mobile, and email</li>
+<li>Fill the online application form with personal, educational, and sports details</li>
+<li>Upload passport-size photograph (20–50 KB, JPG) and signature (10–20 KB, JPG)</li>
+<li>Upload scanned copies of sports certificates and educational documents (max 500 KB each)</li>
+<li>Pay the application fee online via Debit/Credit Card, Internet Banking, or UPI</li>
+<li>Download and retain the e-receipt and application form printout</li>
+</ol>
+<p><strong>Last date to apply: 12 May 2026.</strong> Candidates must apply only for the role matching their sports specialisation. Multiple applications will be rejected.</p>
+
+<h2>Documents Required for Bank of Baroda Sports Quota 2026</h2>
+<p>Printout of Call Letter and application form, Date of Birth proof (10th certificate/Birth Certificate), Photo ID (Aadhaar/PAN/Passport), Sports certificates/medals/achievement proof, Educational marksheets and degree certificate, Caste certificate (SC/ST/OBC as applicable), NOC from current employer (if in Government/PSU service), and Disability certificate (if applicable).</p>
+
+<h2>FAQs – Bank of Baroda Sports Quota Recruitment 2026</h2>
+<p><strong>Q: Is there reservation for SC/ST/OBC in BOB Sports Quota 2026?</strong><br>A: No. There is no category-wise reservation for the 30 vacancies. However, age relaxation for SC/ST/OBC is available as per DOPT guidelines.</p>
+<p><strong>Q: Can a cricketer apply for multiple disciplines?</strong><br>A: No. Candidates must apply only for the sport and role/specialisation matching their certificates and achievements. Multiple applications will lead to disqualification.</p>
+<p><strong>Q: What is the official notification number?</strong><br>A: BOB/HRM/REC/ADVT/2026/09. Always quote this number in any communication with the bank.</p>
+`;
+
+// ===== HPRCA TGT NON MEDICAL RESULT 2026 =====
+JOB_CONTENT["hprca-tgt-nonmedical-result-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp; 
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; 
+  Updated: 22 April 2026
+</div>
+
+<h2>HPRCA TGT (Non Medical) Result 2026 Declared – Download Scorecard at hprca.hp.gov.in</h2>
+<p><strong>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</strong> has officially declared the <strong>TGT (Non Medical) Result 2026</strong> on 20 April 2026 at the official portal <strong>hprca.hp.gov.in</strong>. Thousands of candidates who appeared in the Written Examination for Trained Graduate Teacher (Non Medical) posts can now check their result, download their scorecard, and view the merit list online. The result is available in PDF format on the official website — no login is required to access the merit list.</p>
+
+<p>Candidates who qualify in the Written Examination will be called for the next stage of the selection process — Document Verification and/or Interview. It is important to download and save multiple copies of the result/scorecard for future reference.</p>
+
+<h2>HPRCA TGT Non Medical Result 2026 – Quick Summary</h2>
+<table class="detail-table"><thead><tr><th>Parameter</th><th>Details</th></tr></thead>
+<tbody>
+<tr><td>Conducting Body</td><td>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</td></tr>
+<tr><td>Post Name</td><td>Trained Graduate Teacher (TGT) – Non Medical</td></tr>
+<tr><td>Result Date</td><td><strong>20 April 2026</strong></td></tr>
+<tr><td>Result Type</td><td>Written Examination Result + Scorecard</td></tr>
+<tr><td>Official Website</td><td>hprca.hp.gov.in</td></tr>
+<tr><td>Next Stage</td><td>Document Verification / Interview</td></tr>
+</tbody></table>
+
+<h2>How to Check HPRCA TGT Non Medical Result 2026</h2>
+<ol>
+<li>Visit the official HPRCA website: <strong>hprca.hp.gov.in</strong></li>
+<li>Click on the <strong>"Result"</strong> or <strong>"Latest Announcements"</strong> section on the homepage</li>
+<li>Find and click on <strong>"TGT (Non Medical) Result 2026"</strong> link</li>
+<li>The merit list PDF will open — search your Roll Number using Ctrl+F</li>
+<li>For individual scorecard: Login with your Registration Number and Date of Birth</li>
+<li>Download the scorecard PDF and take 3-4 printouts for future use</li>
+</ol>
+
+<h2>What is in the HPRCA TGT Result / Merit List?</h2>
+<p>The HPRCA TGT Non Medical merit list 2026 contains the following details for each qualified candidate: Roll Number, Candidate Name, Father's/Mother's Name, Category (General/OBC/SC/ST/EWS), Total Marks Obtained, Category-wise Rank, and Qualifying Status.</p>
+<p>HPRCA prepares separate merit lists: <strong>General Merit List</strong> (all categories combined), <strong>Category-wise Merit Lists</strong> (OBC, SC, ST, EWS separately), and a <strong>Waiting List</strong> for candidates in case of withdrawals.</p>
+
+<h2>HPRCA TGT Non Medical Scorecard Details</h2>
+<p>Your individual scorecard contains: Candidate Name and Roll Number, Date of Birth and Category, Subject-wise marks obtained, Total marks and overall percentage, Your rank in the General and Category merit list, and Qualifying status (Qualified / Not Qualified).</p>
+
+<h2>Important Instructions for Qualified Candidates</h2>
+<p>Candidates who qualify in the written exam must immediately download and save their scorecard. Keep all original documents ready for Document Verification — educational certificates, caste certificate, age proof (10th certificate), experience certificates if applicable, and recent passport-size photographs. Regularly check the official HPRCA website for updates regarding the Document Verification schedule and Interview dates. Do not wait for postal intimation — all updates are published only on the official website.</p>
+
+<h2>Documents Required at HPRCA TGT Document Verification</h2>
+<p>Educational qualification certificates from 10th onwards, Degree and B.Ed/TET/CTET certificate, HP domicile certificate, Category certificate (SC/ST/OBC/EWS) in HP Government format, Date of Birth proof, Experience certificate (if claimed), No Objection Certificate (if currently employed), and all other certificates as mentioned in the original notification.</p>
+
+<h2>Active HPRCA Recruitment 2026 – Apply Now</h2>
+<p>HPRCA currently has multiple active recruitment drives. TGT (Medical Science) – 894 Posts (last date 14 May 2026), TGT Various Posts – 808 Posts (last date 8 May 2026), PGT Teacher – 390 Posts (last date 4 May 2026), Junior Engineer – 149 Posts (last date 2 May 2026), and Pharmacist – 41 Posts (last date 20 May 2026). Eligible candidates can apply online at hprca.hp.gov.in.</p>
+
+<h2>FAQs – HPRCA TGT Non Medical Result 2026</h2>
+<p><strong>Q: When was HPRCA TGT Non Medical Result 2026 declared?</strong><br>A: HPRCA officially declared the TGT (Non Medical) Result 2026 on 20 April 2026 at hprca.hp.gov.in.</p>
+<p><strong>Q: How can I download my individual scorecard?</strong><br>A: Visit hprca.hp.gov.in → Result section → Enter your Registration Number and Date of Birth to access and download your individual scorecard.</p>
+<p><strong>Q: What is the next step after qualifying in TGT Non Medical exam?</strong><br>A: Qualified candidates will be called for Document Verification and/or Interview. Dates will be announced on hprca.hp.gov.in. Keep all original documents ready in advance.</p>
+`;
+
+// ===== JPSC JET ADMIT CARD 2026 =====
+JOB_CONTENT["jpsc-jet-admit-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp; 
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; 
+  Updated: 22 April 2026
+</div>
+
+<h2>JPSC JET Admit Card 2026 Released – Download Hall Ticket at jpsc.gov.in</h2>
+<p><strong>Jharkhand Public Service Commission (JPSC)</strong> has officially released the <strong>JPSC JET (Jharkhand Eligibility Test) Admit Card 2026</strong> on 22 April 2026 at the official website <strong>jpsc.gov.in</strong>. Candidates who applied for JET 2024 (Advertisement No. 08/2025) can now download their hall ticket using their Registration Number and Date of Birth. The written examination is scheduled on <strong>26 April 2026</strong> — only 4 days away. Carrying the admit card is mandatory to enter the examination hall. Without the admit card, no candidate will be allowed to appear in the examination.</p>
+
+<p>The Exam City Slip for JPSC JET 2026 was already released on 15 April 2026. Candidates who have already received their exam city information can now download the full admit card containing the exact examination centre address, reporting time, and exam-day instructions.</p>
+
+<h2>JPSC JET Admit Card 2026 – Quick Information</h2>
+<table class="detail-table"><thead><tr><th>Parameter</th><th>Details</th></tr></thead>
+<tbody>
+<tr><td>Conducting Body</td><td>Jharkhand Public Service Commission (JPSC)</td></tr>
+<tr><td>Examination Name</td><td>Jharkhand Eligibility Test (JET) 2026</td></tr>
+<tr><td>Advertisement No.</td><td>08/2025</td></tr>
+<tr><td>Admit Card Release Date</td><td><strong>22 April 2026 (Today)</strong></td></tr>
+<tr><td>Exam Date</td><td><strong style="color:#c0392b;">26 April 2026</strong></td></tr>
+<tr><td>Exam Mode</td><td>Offline (OMR Based)</td></tr>
+<tr><td>Official Website</td><td>jpsc.gov.in</td></tr>
+</tbody></table>
+
+<h2>How to Download JPSC JET Admit Card 2026</h2>
+<ol>
+<li>Visit the official JPSC website: <strong>jpsc.gov.in</strong></li>
+<li>Navigate to the <strong>"Recruitment"</strong> or <strong>"Latest Announcements"</strong> or <strong>"Admit Card"</strong> section</li>
+<li>Click on <strong>"Download Admit Card of Jharkhand Eligibility Test 2024 (Advt. No. 08/2025)"</strong></li>
+<li>Enter your <strong>Registration Number</strong></li>
+<li>Enter your <strong>Date of Birth</strong> (DD/MM/YYYY format)</li>
+<li>Enter the Captcha Code and click <strong>"Submit"</strong></li>
+<li>Your JPSC JET Admit Card 2026 will appear — download and save the PDF</li>
+<li>Print 2-3 copies and keep them safe for exam day</li>
+</ol>
+<p><strong>Tip:</strong> If the link is not loading, clear browser cache and try again. Try different browsers (Chrome, Firefox, Edge). The server is under heavy load — keep trying.</p>
+
+<h2>Details on JPSC JET Admit Card 2026</h2>
+<p>Your JPSC JET Admit Card 2026 will contain: Candidate Name and Father's Name, Date of Birth and Category, Registration/Roll Number, Candidate photograph and signature, Exam Date (26 April 2026), Exam Shift/Timing and Reporting Time, Examination Centre Name and complete address with pincode, Exam Centre Code, and detailed exam day instructions.</p>
+
+<h2>Documents Required on JPSC JET Exam Day – 26 April 2026</h2>
+<p><strong>Mandatory Documents:</strong></p>
+<ul>
+<li>JPSC JET Admit Card 2026 (printed, with clear photograph)</li>
+<li>One valid Original Photo Identity Proof: Aadhaar Card, Voter ID, Driving License, PAN Card, or Passport</li>
+<li>2 passport-size photographs (same as uploaded in application)</li>
+<li>Blue/Black ballpoint pen for OMR sheet</li>
+</ul>
+<p><strong>Items NOT allowed in exam hall:</strong> Mobile phones, smartwatches, calculators, Bluetooth devices, earphones, books, notes, bags, and any other electronic devices. Violation will lead to disqualification.</p>
+
+<h2>JPSC JET Exam Day Instructions – Important</h2>
+<p><strong>Reporting Time:</strong> Reach the examination centre at least 45-60 minutes before the exam starts. Entry to the examination hall is closed 30 minutes before the exam — latecomers will not be permitted under any circumstances.</p>
+<p><strong>Biometric Verification:</strong> Biometric data (fingerprint and photograph) will be captured on exam day. Ensure your fingers are clean and dry for clear fingerprint capture.</p>
+<p><strong>OMR Instructions:</strong> Fill the OMR sheet using blue/black ballpoint pen only. Fill roll number and other details carefully. Erasing or overwriting on the OMR sheet is not allowed.</p>
+<p><strong>Exam Centre:</strong> Check the exam centre address on Google Maps the day before the exam. Plan your travel route and leave early to avoid last-minute rush.</p>
+
+<h2>JPSC JET 2026 – Exam Pattern Overview</h2>
+<p>The JPSC JET is an OMR-based offline examination for Jharkhand state teacher eligibility. It tests candidates on subject knowledge, pedagogy, and general awareness relevant to teaching posts in Jharkhand government schools. Candidates who clear JET become eligible to apply for TGT/teacher recruitment in Jharkhand for a specified validity period.</p>
+
+<h2>FAQs – JPSC JET Admit Card 2026</h2>
+<p><strong>Q: When was the JPSC JET Admit Card 2026 released?</strong><br>A: JPSC released the JET Admit Card 2026 on 22 April 2026 at jpsc.gov.in.</p>
+<p><strong>Q: What is the exam date for JPSC JET 2026?</strong><br>A: The JPSC Jharkhand Eligibility Test (JET) 2026 written examination is scheduled on 26 April 2026 (offline, OMR-based).</p>
+<p><strong>Q: What if I find a mistake in my JPSC JET Admit Card?</strong><br>A: If you notice any discrepancy in your admit card (name, DOB, photo, etc.), contact the JPSC helpdesk immediately — at least 2 days before the exam date.</p>
+<p><strong>Q: Is the admit card sufficient for exam entry?</strong><br>A: No. You must carry both the admit card AND a valid original photo ID proof. Admit card alone is not sufficient for entry.</p>
+`;

@@ -500,6 +500,36 @@ const SCHEMES_DATA = [
     description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners. The scheme has provided credit to over 40 crore entrepreneurs since launch in 2015, with special focus on SC/ST/OBC/Women entrepreneurs.",
     isNew:false
   }
+,
+  {
+    id:"bob-sports-quota-2026",
+    orgWebsite:"https://www.bankofbaroda.bank.in",
+    title:"Bank of Baroda Sports Quota Recruitment 2026",
+    shortTitle:"Bank of Baroda Sports Quota Online Form 2026",
+    organization:"Bank of Baroda (BOB)",
+    totalPosts:30,
+    lastDate:"2026-05-12",
+    lastDateDisplay:"12 May 2026",
+    datePosted:"2026-04-22",
+    validThrough:"2026-05-12T23:59:00+05:30",
+    employmentType:"FULL_TIME",
+    salaryMin:24050,
+    salaryMax:64480,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+    location:"Delhi, Mumbai, Chennai",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+    qualification:"Graduate (Any Discipline)",
+    ageLimit:"20 to 28 Years",
+    applyLink:"https://www.bankofbaroda.bank.in/careers",
+    officialNotification:"https://www.bankofbaroda.bank.in/careers",
+    fee:"Rs. 850 (General/OBC/EWS) | Rs. 175 (SC/ST/Women)",
+    description:"Bank of Baroda Sports Quota Recruitment 2026 for 30 Customer Service Associate (Clerical Cadre) posts for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football. Application start date 22 April 2026, last date 12 May 2026.",
+    status:"open",
+    isNew:true
+  }
 ];
 
 const RESULTS_DATA = [
@@ -513,6 +543,14 @@ const RESULTS_DATA = [
   {id:"allahabad-university-result-2026",type:"result",organization:"Allahabad University",title:"Allahabad University Asst Professor Result 2026 – Out",postName:"Assistant Professor",date:"11 Apr 2026",declaredDate:"11 Apr 2026",link:"https://www.allduniv.ac.in",description:"Allahabad University has declared the Assistant Professor Result 2026. The final merit list has been published. Selected candidates will receive appointment letters.",howToCheck:"Visit allduniv.ac.in → Recruitment → Asst Professor Result 2026",isNew:false},
   {id:"bfuhs-ota-mlt-result-2026",type:"result",organization:"BFUHS",title:"BFUHS OTA and MLT Result 2026 – Out",postName:"OTA & MLT",date:"10 Apr 2026",declaredDate:"10 Apr 2026",link:"#",description:"Baba Farid University of Health Sciences has declared the OTA and MLT Result 2026. Candidates can check their scores on the official BFUHS website.",howToCheck:"Visit bfuhs.ac.in → Result Section → OTA/MLT Result 2026",isNew:false},
   {id:"up-lt-grade-result-2026",type:"result",organization:"UP Basic Shiksha Parishad",title:"UP LT Grade Result 2026 – Out",postName:"LT Grade Teacher",date:"09 Apr 2026",declaredDate:"09 Apr 2026",link:"#",description:"UP Basic Shiksha Parishad has declared the LT Grade Teacher Result 2026. The merit list is available on the official website. Selected candidates will go through document verification.",howToCheck:"Visit official UP Parishad website for result",isNew:false}
+,
+  {id:"hprca-tgt-nonmedical-result-2026",type:"result",organization:"HPRCA",
+   title:"HPRCA TGT (Non Medical) Result 2026 – Out",postName:"TGT Non Medical",
+   date:"20 Apr 2026",declaredDate:"20 Apr 2026",
+   link:"https://hprca.hp.gov.in",
+   description:"Himachal Pradesh Rajya Chayan Aayog (HPRCA) has declared the TGT (Non Medical) Result 2026 on 20 April 2026. Candidates can download their scorecard and check merit list on hprca.hp.gov.in using Roll Number and Date of Birth.",
+   howToCheck:"Visit hprca.hp.gov.in → Result section → TGT Non Medical Result 2026 → Enter Roll Number and DOB → Download scorecard",
+   isNew:true}
 ];
 
 const ADMIT_CARDS_DATA = [
@@ -524,6 +562,15 @@ const ADMIT_CARDS_DATA = [
   {id:"psssb-pet-admit-2026",type:"admit",organization:"PSSSB",title:"PSSSB PET Admit Card 2026 – Out",postName:"Various Posts",date:"13 Apr 2026",examDate:"May 2026",link:"#",description:"Punjab Subordinate Services Selection Board (PSSSB) PET Admit Card 2026 has been released. Candidates can download it from the official PSSSB portal.",howToDownload:"Visit official PSSSB website → Admit Card → PET 2026",documentsRequired:"Admit Card + Valid Photo ID + Category Certificate",isNew:false},
   {id:"rssb-platoon-admit-2026",type:"admit",organization:"RSSB",title:"RSSB Platoon Commander PET Admit Card 2026 – Out",postName:"Platoon Commander",date:"12 Apr 2026",examDate:"May 2026",link:"#",description:"Rajasthan Subordinate and Ministerial Services Selection Board has released the Platoon Commander PET Admit Card 2026 for the physical test round.",howToDownload:"Visit official RSSB website → Admit Card → Platoon Commander PET",documentsRequired:"Admit Card + Aadhaar / Voter ID",isNew:false},
   {id:"npcil-kakrapar-admit-2026",type:"admit",organization:"NPCIL",title:"NPCIL Kakrapar Admit Card 2026 – Out",postName:"Various Technical Posts",date:"11 Apr 2026",examDate:"May 2026",link:"https://www.npcil.nic.in",description:"Nuclear Power Corporation of India Limited (NPCIL) Kakrapar unit has released the Admit Card 2026 for various technical posts. Download from npcil.nic.in.",howToDownload:"Visit npcil.nic.in → Recruitment → Kakrapar Admit Card 2026 → Enter Registration No.",documentsRequired:"Admit Card + Valid Photo ID",isNew:false}
+,
+  {id:"jpsc-jet-admit-2026",type:"admit",organization:"JPSC",
+   title:"JPSC JET Admit Card 2026 – Out",postName:"Jharkhand Eligibility Test (JET)",
+   date:"22 Apr 2026",examDate:"26 Apr 2026",
+   link:"https://jpsc.gov.in",
+   description:"JPSC JET Admit Card 2026 has been released today (22 April 2026) on jpsc.gov.in. Candidates who applied for Jharkhand Eligibility Test (JET) 2024 (Advt. No. 08/2025) can download their hall ticket. Written examination is scheduled on 26 April 2026.",
+   howToDownload:"Visit jpsc.gov.in → Recruitment/Admit Card section → JPSC JET Admit Card 2026 → Enter Registration Number and Date of Birth → Download and print",
+   documentsRequired:"Admit Card + Valid Photo ID (Aadhaar/PAN/Voter ID)",
+   isNew:true}
 ];
 
 const ANSWER_KEYS_DATA = [

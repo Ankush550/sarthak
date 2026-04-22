@@ -165,4 +165,23 @@
     <priority>0.8</priority>
   </url>
 
+
+  <url>
+    <loc>https://sarthakyojana.in/pages/job-detail.html?id=bob-sports-quota-2026</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/item-detail.html?type=result&amp;id=hprca-tgt-nonmedical-result-2026</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sarthakyojana.in/pages/item-detail.html?type=admit&amp;id=jpsc-jet-admit-2026</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
