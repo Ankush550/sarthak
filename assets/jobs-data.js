@@ -455,6 +455,8 @@ const JOBS_DATA = [
 
 ];
 
+const PRIVATE_JOBS_DATA = [];
+
 const RESULTS_DATA = [
   {id:"hssc-constable-result-2026",type:"result",organization:"HSSC",title:"HSSC Constable Result 2026 – Out",postName:"Constable",date:"18 Apr 2026",declaredDate:"18 Apr 2026",link:"https://www.hssc.gov.in",description:"Haryana Staff Selection Commission has declared the HSSC Constable Result 2026. Candidates can check their result on the official HSSC website. The merit list has been released along with category-wise cutoff marks.",howToCheck:"Visit hssc.gov.in → Result → HSSC Constable Result 2026 → Enter Roll Number → Submit",isNew:true},
   {id:"upsssc-instructor-result-2026",type:"result",organization:"UPSSSC",title:"UPSSSC Instructor Result 2026 – Out",postName:"Instructor",date:"17 Apr 2026",declaredDate:"17 Apr 2026",link:"https://upsssc.gov.in",description:"UPSSSC has officially declared the Instructor Result 2026. Selected candidates have been called for Document Verification. Check result on official UPSSSC portal using registration number.",howToCheck:"Visit upsssc.gov.in → Result Section → UPSSSC Instructor Result 2026",isNew:true},
@@ -507,3 +509,66 @@ const ANSWER_KEYS_DATA = [
 function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.find(j=>j.id===id); }
 function searchJobs(q){ const s=q.toLowerCase(); return JOBS_DATA.filter(j=>j.title.toLowerCase().includes(s)||j.organization.toLowerCase().includes(s)||j.description.toLowerCase().includes(s)||(j.tags&&j.tags.some(t=>t.includes(s)))); }
 function getDaysLeft(d){ return Math.ceil((new Date(d)-new Date())/(1000*60*60*24)); }
+
+const SCHEMES_DATA = [
+  {
+    id:"pm-kisan", title:"PM Kisan Samman Nidhi Yojana", name:"PM Kisan Samman Nidhi Yojana",
+    type:"Central", category:"Agriculture",
+    benefit:"Rs. 6,000 per year (3 installments of Rs. 2,000 each)",
+    benefits:"Rs. 6,000 per year directly to bank account in three equal installments of Rs. 2,000 each.",
+    eligibility:"All landholding farmer families in India whose names appear in land records.",
+    howToApply:"Apply online at pmkisan.gov.in or visit nearest CSC centre. Aadhaar and bank account linking is mandatory.",
+    officialLink:"https://pmkisan.gov.in",
+    applyLink:"https://pmkisan.gov.in",
+    description:"PM Kisan Samman Nidhi provides direct income support of Rs. 6,000 per year to small and marginal farmer families. The amount is transferred directly to the farmer's bank account in three equal installments.",
+    isNew:false
+  },
+  {
+    id:"pm-awas", title:"PM Awas Yojana – Urban (PMAY-U)", name:"PM Awas Yojana – Urban (PMAY-U)",
+    type:"Central", category:"Housing",
+    benefit:"Interest subsidy up to Rs. 2.67 Lakh on home loans under CLSS",
+    benefits:"Credit Linked Subsidy Scheme (CLSS) provides interest subsidy of 3–6.5% on home loans. EWS/LIG: subsidy up to Rs. 2.67 lakh.",
+    eligibility:"EWS (income up to Rs. 3 lakh), LIG (Rs. 3–6 lakh), MIG-I (Rs. 6–12 lakh), MIG-II (Rs. 12–18 lakh) families.",
+    howToApply:"Apply at your bank/HFC or visit PMAY portal pmaymis.gov.in. Submit Aadhaar, income certificate, and property documents.",
+    officialLink:"https://pmaymis.gov.in",
+    applyLink:"https://pmaymis.gov.in",
+    description:"PM Awas Yojana Urban aims to provide housing for all in urban areas through interest subsidies on home loans covering EWS, LIG, and MIG households.",
+    isNew:false
+  },
+  {
+    id:"sukanya-samriddhi", title:"Sukanya Samriddhi Yojana (SSY)", name:"Sukanya Samriddhi Yojana (SSY)",
+    type:"Central", category:"Finance",
+    benefit:"8.2% interest per annum (highest among small savings schemes). Tax benefits under Section 80C.",
+    benefits:"Current interest rate: 8.2% p.a. Minimum deposit: Rs. 250/year; Maximum: Rs. 1.5 lakh/year.",
+    eligibility:"Girl child aged below 10 years. Account opened by parent or legal guardian.",
+    howToApply:"Visit any Post Office or authorised bank branch with birth certificate of girl child, ID proof and address proof of guardian.",
+    officialLink:"https://www.indiapost.gov.in",
+    applyLink:"https://www.indiapost.gov.in",
+    description:"Sukanya Samriddhi Yojana is a small savings scheme for the education and marriage expenses of the girl child with highest interest rate among Govt small savings schemes.",
+    isNew:false
+  },
+  {
+    id:"ayushman-bharat", title:"Ayushman Bharat PM-JAY", name:"Ayushman Bharat PM-JAY",
+    type:"Central", category:"Health",
+    benefit:"Rs. 5 lakh health cover per family per year at empanelled hospitals",
+    benefits:"Rs. 5 lakh cashless health insurance per family per year. Covers 1,949 medical procedures. Pre-existing conditions covered from day 1.",
+    eligibility:"Poor and vulnerable families as identified in SECC 2011 database. Approximately 10.74 crore beneficiary families.",
+    howToApply:"Check eligibility at pmjay.gov.in or call helpline 14555. Visit nearest Ayushman Bharat empanelled hospital.",
+    officialLink:"https://pmjay.gov.in",
+    applyLink:"https://pmjay.gov.in",
+    description:"Ayushman Bharat PM Jan Arogya Yojana provides Rs. 5 lakh per family per year for hospitalization at over 25,000 empanelled hospitals across India. Completely cashless and paperless.",
+    isNew:false
+  },
+  {
+    id:"pm-mudra", title:"Pradhan Mantri MUDRA Yojana (PMMY)", name:"Pradhan Mantri MUDRA Yojana (PMMY)",
+    type:"Central", category:"Business",
+    benefit:"Loans up to Rs. 10 lakh for micro/small enterprises without collateral",
+    benefits:"Shishu: loans up to Rs. 50,000. Kishore: Rs. 50,001 to Rs. 5 lakh. Tarun: Rs. 5 lakh to Rs. 10 lakh. No collateral required.",
+    eligibility:"Non-corporate, non-farm micro and small enterprises including proprietary firms, partnership firms, and companies.",
+    howToApply:"Apply at any scheduled commercial bank, MFI, NBFC, or RRB. Carry ID proof, address proof, business plan, and bank statements.",
+    officialLink:"https://www.mudra.org.in",
+    applyLink:"https://www.mudra.org.in",
+    description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners with loans up to Rs. 10 lakh.",
+    isNew:false
+  }
+];
