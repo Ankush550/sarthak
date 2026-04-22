@@ -49,6 +49,19 @@
       page_location: window.location.href
     });
   </script>
+  <!-- Google Publisher Center – Subscribe with Google -->
+  <script async type="application/javascript"
+          src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+  <script>
+    (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+      basicSubscriptions.init({
+        type: "NewsArticle",
+        isPartOfType: ["Product"],
+        isPartOfProductId: "CAow4KXGDA:openaccess",
+        clientOptions: { theme: "light", lang: "hi" },
+      });
+    });
+  </script>
 </head>
 <body>
 <div id="site-header"></div>
@@ -183,7 +196,7 @@ async function submitForm() {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
       body: JSON.stringify({
-        access_key: '73e7c5ec-06ef-4dd3-b599-972d78fdd747',
+        access_key: 'YOUR_WEB3FORMS_KEY',
         subject: 'SarthakYojana Contact: ' + subject,
         from_name: name,
         email: email,
