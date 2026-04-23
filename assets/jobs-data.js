@@ -452,8 +452,6 @@ const JOBS_DATA = [
     status:"open",
     isNew:true
   }
-
-];
 ,
   {
     id:"stpi-apprentice-trainee-2026",
@@ -629,6 +627,8 @@ const JOBS_DATA = [
     status:"open",
     isNew:true
   }
+];
+
 const PRIVATE_JOBS_DATA = [];
 
 const RESULTS_DATA = [
