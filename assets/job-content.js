@@ -598,6 +598,14 @@ JOB_CONTENT["pnb-specialist-officer-2026"] = `
 <p>After the application window closes, PNB will release Admit Cards/Call Letters for the Online Test approximately 7–10 days before the examination date. Admit cards will be available for download on the official PNB website. After the online test on 27 May 2026, results will be declared and shortlisted candidates called for Personal Interview. Final result and selection list will be published on pnb.bank.in.</p>
 
 <p>The <strong>official website</strong> for PNB Specialist Officer 2026 application is pnb.bank.in. Visit the official website for latest updates and notification PDF download.</p>
+
+<h2>STPI ke baare mein — Software Technology Parks of India</h2>
+<p>Software Technology Parks of India (STPI) Government of India ki ek autonomous body hai jo Ministry of Electronics & Information Technology (MeitY) ke under kaam karti hai. STPI 1991 mein establish hui thi India ke software export industry ko promote karne ke liye. Aaj STPI ke 63 se zyada centres hain across India jahan lakhs of IT professionals kaam karte hain. STPI mein Apprentice Trainee ke roop mein training lena career ke liye bahut faydemand hota hai — government organisation ka experience, professional environment, aur networking opportunities milti hain.</p>
+<h2>NATS Portal — Kya Hai aur Kaise Use Karen</h2>
+<p>National Apprenticeship Training Scheme (NATS) portal nats.education.gov.in ek government portal hai jo Board of Apprenticeship Training (BOAT) by Ministry of Education operate karta hai. Sabhi degree/diploma holders jo apprenticeship karna chahte hain unhe pehle NATS par register karna hota hai. Registration free hai. NATS portal par aapka NATS Enrolment ID generate hota hai jo STPI application mein mandatory hai. DBT ke through stipend bhi NATS portal se process hoti hai — isliye bank details sahi bharna bahut zaroori hai.</p>
+<h2>STPI Apprentice Training — Career Benefits</h2>
+<p>STPI mein ek saal ki training ke baad aapke resume mein government organisation ka experience add hota hai jo placement ke time bahut kaam aata hai. Training ke dauran aap real IT industry projects, policies aur procedures se familiar ho jaate hain. STPI training certificate nationally recognised hota hai. Training ke baad aap STPI ya kisi bhi IT company mein full-time job ke liye better position mein hote hain. Engineering aur IT graduates ke liye yeh training unke theoretical knowledge ko practical skills mein convert karne ka ek achha mauka hai.</p>
+
 `;
 
 JOB_CONTENT["ssc-selection-post-phase14-2026"] = `
@@ -1893,4 +1901,467 @@ JOB_CONTENT["jpsc-jet-admit-2026"] = `
 <p><strong>Q: What is the exam date for JPSC JET 2026?</strong><br>A: The JPSC Jharkhand Eligibility Test (JET) 2026 written examination is scheduled on 26 April 2026 (offline, OMR-based).</p>
 <p><strong>Q: What if I find a mistake in my JPSC JET Admit Card?</strong><br>A: If you notice any discrepancy in your admit card (name, DOB, photo, etc.), contact the JPSC helpdesk immediately — at least 2 days before the exam date.</p>
 <p><strong>Q: Is the admit card sufficient for exam entry?</strong><br>A: No. You must carry both the admit card AND a valid original photo ID proof. Admit card alone is not sufficient for entry.</p>
+`;
+
+// ===== STPI APPRENTICE TRAINEE 2026 =====
+JOB_CONTENT["stpi-apprentice-trainee-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>STPI Apprentice Trainee Recruitment 2026 – Apply Online for 15 Posts</h2>
+<p>Software Technology Parks of India (STPI), jो Ministry of Electronics & Information Technology (MeitY), Government of India ke under kaam karta hai, ne Apprentice Trainee Recruitment 2026 ke liye official notification jaari ki hai. Advt. No. 7(1)/I/STPI-HQ/2026-27 ke tahat kul <strong>15 Apprentice Trainee posts</strong> ke liye online applications 22 April 2026 se shuru ho chuki hain. Last date <strong>11 May 2026</strong> hai. B.Tech/B.E., Diploma, B.Com ya B.A. hold karne wale eligible candidates STPI ke official website <strong>stpi.in</strong> ke Career section se apply kar sakte hain.</p>
+
+<p>Yeh ek ek saal ki training engagement hai Apprenticeship Act, 1961 ke tahat. Selected candidates ko monthly stipend diya jayega aur training period mein valuable work experience milega STPI ke different centres mein across India. STPI ke multiple centres mein vacancies hain jaise Bengaluru, Bhubaneswar, Chennai, Guwahati, Gurugram, Hyderabad, Noida, Mohali aur Pune.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>22 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>22 April 2026</td></tr>
+<tr><td>Last Date to Apply Online</td><td><strong style="color:#c0392b;">11 May 2026</strong></td></tr>
+<tr><td>Age Cut-off Date</td><td>11 May 2026</td></tr>
+<tr><td>NATS Portal Registration</td><td>Pehle karna zaroori — nats.education.gov.in</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Qualification Category</th><th>Disciplines</th><th>Posts</th><th>Locations</th></tr></thead>
+<tbody>
+<tr><td>B.Tech / B.E. (Degree)</td><td>Electronics / Electricals / ECE / Telecom / CS / IT</td><td><strong>8</strong></td><td>Bengaluru, Bhubaneswar, Chennai, Guwahati, Gurugram, Hyderabad, Noida</td></tr>
+<tr><td>Diploma / B.Com / B.A.</td><td>Technical Diploma (same branches) ya B.Com / B.A. any stream</td><td><strong>7</strong></td><td>Bhubaneswar (3), Mohali, Noida, Pune, Hyderabad</td></tr>
+<tr><td colspan="2"><strong>Total</strong></td><td><strong>15</strong></td><td>9 Cities</td></tr>
+</tbody></table>
+<p><strong>Reservation:</strong> OBC — 3 posts | SC — 2 posts | ST — 1 post (GoI rules ke anusaar)</p>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification</h3>
+<p>B.Tech/B.E. candidates ke liye Electronics, Electricals, ECE, Telecommunications, Computer Science ya IT mein degree zaroori hai. Diploma candidates ke liye inhi branches mein 3-year diploma chahiye. B.Com ya B.A. ke liye kisi bhi stream mein graduation. <strong>Important:</strong> Qualification April 2021 ya uske baad complete honi chahiye. Pehle kisi bhi organisation mein apprenticeship kar chuke candidates apply nahi kar sakte.</p>
+
+<h3>Age Limit (as on 11 May 2026)</h3>
+<table class="detail-table"><thead><tr><th>Category</th><th>Minimum Age</th><th>Maximum Age</th></tr></thead>
+<tbody>
+<tr><td>Unreserved (UR)</td><td>18 years</td><td>27 years</td></tr>
+<tr><td>OBC</td><td>18 years</td><td>30 years</td></tr>
+<tr><td>SC / ST</td><td>18 years</td><td>32 years</td></tr>
+</tbody></table>
+
+<h2>Monthly Stipend</h2>
+<table class="detail-table"><thead><tr><th>Qualification</th><th>Monthly Stipend</th><th>Payment Mode</th></tr></thead>
+<tbody>
+<tr><td>B.Tech / B.E.</td><td><strong>Rs. 15,000/-</strong></td><td>DBT via NATS Portal</td></tr>
+<tr><td>Diploma (Technical)</td><td><strong>Rs. 10,900/-</strong></td><td>DBT via NATS Portal</td></tr>
+<tr><td>B.A. / B.Com</td><td><strong>Rs. 12,300/-</strong></td><td>DBT via NATS Portal</td></tr>
+</tbody></table>
+<p>Stipend Direct Benefit Transfer (DBT) mechanism se NATS portal ke through seedha bank account mein credit hoga. Yeh training stipend hai, salary nahi — koi additional allowance nahi milega.</p>
+
+<h2>Application Fee</h2>
+<p>STPI Apprentice Trainee 2026 ke liye <strong>koi application fee nahi hai</strong>. Sabhi categories ke liye application bilkul free hai. STPI portal aur NATS portal dono par registration free hai. Kisi third-party website ya agent ko fee mat do — yeh fraud hai.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 — NATS Portal Registration:</strong> Sabse pehle nats.education.gov.in par register karo aur apna unique NATS Enrolment ID hasil karo. Bank details enter karna mandatory hai DBT stipend ke liye.</p>
+<p><strong>Stage 2 — STPI Online Application:</strong> stpi.in ke Career section par apply karo aur NATS Enrolment ID darj karo. Last date 11 May 2026.</p>
+<p><strong>Stage 3 — Shortlisting:</strong> Applications ko eligibility ke basis par screen kiya jayega — qualification, discipline, age, aur NATS registration.</p>
+<p><strong>Stage 4 — Interview:</strong> Shortlisted candidates ko interview ke liye bulaya jayega. Final selection interview marks ke basis par hoga.</p>
+
+<h2>How to Apply – STPI Apprentice Trainee 2026</h2>
+<ol>
+<li><strong>NATS Portal Register karo:</strong> nats.education.gov.in par jaao → Student section → Enroll karo → Personal, educational aur bank details bharо → NATS Enrolment ID note karo</li>
+<li>stpi.in par jaao → Career section → Apprentice Trainee 2026 link par click karo</li>
+<li>Online application form fill karo — NATS Enrolment ID zaroor darj karo</li>
+<li>Documents upload karo as specified</li>
+<li>11 May 2026 se pehle submit karo aur printout rakh lo</li>
+</ol>
+<p><strong>Important:</strong> NATS registration ke bina STPI application accept nahi hogi. Bank details NATS mein sahi bharo — galti se stipend ruk sakta hai.</p>
+
+<h2>FAQs — STPI Apprentice Trainee 2026</h2>
+<p><strong>Q: Kya fresher apply kar sakte hain STPI Apprentice ke liye?</strong><br>A: Haan, lekin qualification April 2021 ya baad mein complete honi chahiye. Pehle kisi organisation mein apprenticeship kar chuke candidates apply nahi kar sakte.</p>
+<p><strong>Q: Kya NATS registration STPI application se pehle zaroori hai?</strong><br>A: Haan, bilkul zaroori hai. NATS Enrolment ID ke bina STPI ka online application form submit nahi hoga.</p>
+<p><strong>Q: Stipend kab milegi?</strong><br>A: Stipend har mahine DBT ke through NATS portal se bank account mein transfer hogi. Government ka admissible share directly credit hota hai.</p>
+<h2>STPI ke baare mein — Software Technology Parks of India</h2>
+<p>Software Technology Parks of India (STPI) Government of India ki ek autonomous body hai jo Ministry of Electronics & Information Technology (MeitY) ke under kaam karti hai. STPI 1991 mein establish hui thi India ke software export industry ko promote karne ke liye. Aaj STPI ke 63 se zyada centres hain across India. STPI mein Apprentice Trainee ke roop mein training lena career ke liye bahut faydemand hota hai — government organisation ka experience, professional environment, aur networking opportunities milti hain.</p>
+<h2>NATS Portal — Kya Hai aur Kaise Use Karen</h2>
+<p>National Apprenticeship Training Scheme (NATS) portal nats.education.gov.in ek government portal hai jo Board of Apprenticeship Training operate karta hai. Registration free hai. NATS par aapka unique NATS Enrolment ID generate hota hai jo STPI application mein mandatory hai. DBT ke through stipend bhi NATS portal se process hoti hai — isliye bank details sahi bharna zaroori hai. Engineering aur IT graduates ke liye STPI training real IT industry projects se familiar karti hai aur nationally recognised certificate milta hai.</p>
+
+`;
+
+// ===== PNB SPECIALIST OFFICER ENGINEERS 2026 =====
+JOB_CONTENT["pnb-specialist-officer-engineers-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>PNB Specialist Officer Engineer Recruitment 2026 – 30 Posts Apply Online</h2>
+<p><strong>Punjab National Bank (PNB)</strong> ne 20 April 2026 ko official notification jaari ki hai Specialist Officer (Engineer) posts ke liye JMG Scale I mein direct recruitment ke basis par. Kul <strong>30 vacancies</strong> hain — Civil Engineer (21 posts), Electrical Engineer (7 posts), aur Mechanical Engineer (2 posts). Online applications 21 April 2026 se start hain aur <strong>last date 05 May 2026</strong> hai. Online exam tentatively <strong>27 May 2026</strong> ko hoga. Eligible candidates pnb.bank.in par apply kar sakte hain.</p>
+
+<p>PNB mein Specialist Officer ban ke aapko government bank ki job security, JMG Scale I officer status, aur attractive salary package milega. Engineering background wale candidates ke liye yeh ek bahut achha mauka hai banking sector mein career banane ka. Apply karne se pehle eligibility criteria dhyan se padhen — minimum 60% marks aur 1 saal ka post-qualification experience mandatory hai.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>20 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>21 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">05 May 2026</strong></td></tr>
+<tr><td>Age Cut-off Date</td><td>01 January 2026</td></tr>
+<tr><td>Online Test (Tentative)</td><td>27 May 2026</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>Scale</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Officer – Civil Engineer</td><td>JMG Scale I</td><td><strong>21</strong></td></tr>
+<tr><td>Officer – Electrical Engineer</td><td>JMG Scale I</td><td><strong>7</strong></td></tr>
+<tr><td>Officer – Mechanical Engineer</td><td>JMG Scale I</td><td><strong>2</strong></td></tr>
+<tr><td><strong>Total</strong></td><td></td><td><strong>30</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification & Experience</h3>
+<p><strong>Civil Engineer:</strong> B.E./B.Tech in Civil Engineering with minimum 60% marks + 1 saal ka post-qualification experience in construction, renovation, retrofitting, ya commercial/residential buildings ki maintenance mein.</p>
+<p><strong>Electrical Engineer:</strong> B.E./B.Tech in Electrical Engineering with 60% marks + 1 saal experience in electrical works ya electro-mechanical equipment (UPS, Generators, HT-LT, Lifts, AC equipment etc.) ki installation/maintenance mein.</p>
+<p><strong>Mechanical Engineer:</strong> B.E./B.Tech in Mechanical Engineering with 60% marks + 1 saal experience in building-related mechanical works aur electro-mechanical equipment handling mein.</p>
+
+<h3>Age Limit (as on 01 January 2026)</h3>
+<p>Minimum 20 years, Maximum 30 years (UR/EWS). Age relaxation: SC/ST — 5 years | OBC NCL — 3 years | PwBD — 10 years | Ex-Servicemen — 5 years.</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 1,000 + 18% GST = Rs. 1,180/-</strong></td></tr>
+<tr><td>SC / ST / PwBD</td><td><strong>Rs. 50 + 18% GST = Rs. 59/-</strong> (postage only)</td></tr>
+</tbody></table>
+
+<h2>Salary — JMG Scale I</h2>
+<p>Selected candidates ko PNB JMG Scale I officer ka pay scale milega. Starting basic pay approximately <strong>Rs. 36,000/month</strong>. Basic pay ke upar DA (Dearness Allowance), CCA (City Compensatory Allowance), HRA ya leased accommodation, Leave Fare Concession, Medical Insurance, aur Retirement Benefits milenge bank rules ke anusaar. Total CTC approximately <strong>Rs. 8-9 lakh per annum</strong> hoti hai.</p>
+<p><strong>Important:</strong> Selected candidates ko 3 saal ke liye Service Indemnity Bond execute karna hoga. Agar 3 saal pehle bank chodha to Rs. 3,00,000 bharne honge. CIBIL score minimum 681 hona zaroori hai joining ke time.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Scenario 1 (Online Written Test + Interview):</strong> Part I — Reasoning (25), English (25), Quantitative Aptitude (50) = 100 marks. Part II — Professional Knowledge (50 questions, 100 marks). Duration 120 minutes. Wrong answer penalty: 1/4 marks. Part II sirf unke liye evaluate hogi jo Part I qualify karein. Final merit Part II + Interview ke combined marks se.</p>
+<p><strong>Scenario 2 (Shortlisting + Interview):</strong> Agar applications kam hain to sirf interview — 50 marks. Final selection interview marks se.</p>
+
+<h2>How to Apply Online — PNB Specialist Officer 2026</h2>
+<ol>
+<li>pnb.bank.in par jaao → Recruitment/Career section</li>
+<li>"New Registration" par click karo — provisional registration number aur password note karo</li>
+<li>Personal, educational, experience aur category details carefully fill karo</li>
+<li>Photo, signature, left hand thumb impression aur handwritten declaration upload karo</li>
+<li>Application fee online pay karo</li>
+<li>Submit karo aur e-receipt + application form printout rakh lo</li>
+</ol>
+<p>Ek candidate sirf ek post ke liye apply kar sakta hai. Multiple applications mein sirf last valid application count hogi.</p>
+
+<h2>FAQs — PNB Specialist Officer Engineer 2026</h2>
+<p><strong>Q: Kya fresher civil engineers PNB Specialist Officer ke liye eligible hain?</strong><br>A: Nahi. Minimum 1 saal ka post-qualification relevant experience mandatory hai. Bina experience ke application reject ho sakti hai.</p>
+<p><strong>Q: PNB Specialist Officer exam kab hoga?</strong><br>A: Online test tentatively 27 May 2026 ko hoga. Exact date aur admit card baad mein pnb.bank.in par available hoge.</p>
+<p><strong>Q: Kya sirf civil engineer wale apply kar sakte hain?</strong><br>A: Nahi. Civil (21 posts), Electrical (7 posts), aur Mechanical (2 posts) — teeno streams ke eligible engineers apply kar sakte hain.</p>
+<h2>PNB JMG Scale I Officer — Career Growth Path</h2>
+<p>Punjab National Bank mein JMG Scale I Officer ke roop mein join karne ke baad career growth ka ek clear path hota hai. JMG Scale I se MMG Scale II, phir MMG Scale III, SMG Scale IV tak promotions milti hain regular performance appraisals ke basis par. Typically 4-5 saal mein Scale II promotion milti hai. Bank officers ko transfers ka samna karna padta hai — yeh posting pan India hoti hai. Housing loan, vehicle loan, aur personal loan facilities preferential interest rates par milti hain bank employees ko. Medical coverage family ke liye bhi available hoti hai.</p>
+<h2>PNB mein Specialist Officer vs General Officer</h2>
+<p>General banking officers IBPS PO ya SBI PO exam se join karte hain. Specialist Officers directly apni domain expertise ke liye hire kiye jaate hain — jaise Civil/Electrical/Mechanical Engineers is recruitment mein. Specialist Officers ke responsibilities specifically unki engineering domain se related hoti hain — branch maintenance, renovation projects, contractor management, electrical systems oversight, etc. Career progression Specialist Officers ke liye bhi general officers jaisi hi hoti hai.</p>
+<h2>Service Bond — Important Information</h2>
+<p>PNB ne is recruitment mein Service Indemnity Bond ki condition rakhi hai — candidates ko 3 saal bank mein serve karna hoga ya phir Rs. 3,00,000 pay karne honge agar 3 saal se pehle bank chhodha. Yeh condition bank ke training investment ko protect karti hai. CIBIL score minimum 681 required hai — bad credit history wale candidates join nahi kar sakte.</p>
+
+<h2>PNB JMG Scale I Officer — Career Growth</h2>
+<p>Punjab National Bank mein JMG Scale I Officer ke roop mein join karne ke baad career growth ka ek clear path hota hai — Scale I se Scale II, III, IV tak regular promotions milti hain performance ke basis par. Bank officers ko Housing loan, vehicle loan aur personal loan preferential interest rates par milte hain. Medical coverage family ke liye bhi available hoti hai. Specialist Officers ke responsibilities specifically engineering domain se related hoti hain — branch maintenance, renovation projects, contractor management aur electrical systems oversight.</p>
+
+`;
+
+// ===== SSC SELECTION POST PHASE 14 2026 =====
+JOB_CONTENT["ssc-phase14-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>SSC Selection Post Phase 14 Recruitment 2026 – 2919 Vacancies Apply Online</h2>
+<p><strong>Staff Selection Commission (SSC)</strong> ne Selection Post Phase 14 Recruitment 2026 ke liye notification 13 April 2026 ko jaari ki — Advt. No. Phase-XIV/2026/Selection Posts. Kul <strong>2919 (Revised) vacancies</strong> hain Central Government ke different Ministries, Departments aur Offices mein. 10th pass, 12th pass aur Graduate — teeno levels ke candidates apply kar sakte hain. Online application 13 April 2026 se open hai aur <strong>last date 04 May 2026 (raat 11 baje tak)</strong> hai. Exam June 2026 mein expected hai.</p>
+
+<p>SSC Selection Post Phase 14 ek bahut bada opportunity hai un candidates ke liye jo Central Government mein sarkari naukri paana chahte hain. Pay Level 1 se 8 tak ke posts hain jo Group B aur Group C category ke hain. SSC ne recently GSI (Geological Survey of India) ke posts remove kiye hain aur DRDO ke naye vacancies add kiye hain is revised notification mein.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Release</td><td>13 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>13 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">04 May 2026 (23:00 hrs)</strong></td></tr>
+<tr><td>Fee Payment Last Date</td><td>05 May 2026 (23:00 hrs)</td></tr>
+<tr><td>Correction Window</td><td>11 May – 13 May 2026</td></tr>
+<tr><td>Computer Based Exam</td><td>June 2026 (Tentative)</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details — Category-wise</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>UR (Unreserved)</td><td>1534</td></tr>
+<tr><td>OBC</td><td>667</td></tr>
+<tr><td>SC</td><td>346</td></tr>
+<tr><td>EWS</td><td>271</td></tr>
+<tr><td>ST</td><td>185</td></tr>
+<tr><td><strong>Total (Revised)</strong></td><td><strong>2919</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification (Level-wise)</h3>
+<p><strong>Matriculation Level Posts:</strong> Class 10th pass ya equivalent kisi recognised board se.</p>
+<p><strong>Higher Secondary (10+2) Level Posts:</strong> 10+2 ya equivalent kisi recognised board se.</p>
+<p><strong>Graduation & Above Level Posts:</strong> Bachelor's degree ya equivalent kisi recognised university se.</p>
+
+<h3>Age Limit</h3>
+<p>Age limit post-wise alag-alag hai — 18-25, 18-27, 18-28, 18-30, 18-35, 20-25, 20-30, 21-27, 21-28, 22-28, 23-28 years. Age relaxation: SC/ST — 5 years | OBC NCL — 3 years | PwBD (UR) — 10 years | PwBD (OBC) — 13 years | PwBD (SC/ST) — 15 years | Ex-Servicemen — government rules ke anusaar.</p>
+
+<h2>Application Fee</h2>
+<p>General/OBC/EWS candidates: <strong>Rs. 100/-</strong>. Women, SC, ST, PwBD aur eligible Ex-Servicemen: <strong>Nil (koi fee nahi)</strong>. Payment BHIM UPI, Net Banking, ya Visa/MasterCard/RuPay Debit/Credit Card se.</p>
+
+<h2>Salary</h2>
+<p>Posts Pay Level 1 se 8 tak hain 7th CPC Pay Matrix ke anusaar. Approximately <strong>Rs. 18,000 to Rs. 63,200/month</strong> basic pay post ke according. Upar se DA, HRA, TA aur other government allowances milenge.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Computer Based Examination (CBE):</strong> Matric, 10+2 aur Graduation — teeno levels ke liye alag CBT. 100 Objective Type MCQ — 25-25 questions General Intelligence, General Awareness, Quantitative Aptitude aur English Language se. Duration: 60 minutes (scribes ke liye 80 minutes). Negative marking: 0.50 marks per wrong answer.</p>
+<p><strong>Skill Test:</strong> Jo posts mein typing/data entry/computer proficiency test prescribed hai, woh qualifying nature ka hoga.</p>
+<p><strong>Document Verification:</strong> Shortlisted candidates ko User Department bulayega DV ke liye.</p>
+
+<h2>How to Apply — SSC Phase 14 2026</h2>
+<ol>
+<li>ssc.gov.in ya mySSC mobile app par jaao</li>
+<li>Pehli baar apply kar rahe hain to One-Time Registration karo</li>
+<li>Login karke Selection Post Phase 14 application form fill karo</li>
+<li>Photo aur signature prescribed format mein upload karo</li>
+<li>Fee bharo (applicable ho to) — 05 May 2026 tak</li>
+<li>Correction window 11-13 May ke beech — galti ho to sudhar lo</li>
+</ol>
+<p>Documents application ke time upload nahi karne — sirf photo aur signature. Original documents DV stage par chahiye. Ek se zyada posts ke liye alag-alag applications bhejo.</p>
+
+<h2>FAQs — SSC Selection Post Phase 14 2026</h2>
+<p><strong>Q: Kya ek candidate multiple posts ke liye apply kar sakta hai?</strong><br>A: Haan, alag-alag posts ke liye separate applications submit karni hogi eligibility ke anusaar.</p>
+<p><strong>Q: SSC Phase 14 exam kab hoga?</strong><br>A: Computer Based Examination June 2026 mein tentatively schedule ki gayi hai. Exact dates aur admit card baad mein ssc.gov.in par announce honge.</p>
+<p><strong>Q: Kya 10th pass candidates bhi apply kar sakte hain?</strong><br>A: Haan! Matriculation level posts specifically 10th pass candidates ke liye hain.</p>
+<h2>SSC Phase 14 — Region-wise Important Details</h2>
+<p>SSC Phase 14 vacancies multiple regions mein hain — Northern Region (CR), Eastern Region (ER), Southern Region (SR), Karnataka Kerala Region (KKR), Western Region, Central Region, MP Region, North Eastern Region, aur North Western Region. Har region ke apne specific posts aur post codes hain. Candidates ko apne region ke available posts check karke apply karna chahiye. Post code carefully note karo aur sahi post ke liye apply karo.</p>
+<h2>SSC Phase 14 — Popular Posts aur Departments</h2>
+<p>Is recruitment mein DRDO (Defence Research and Development Organisation) ke liye bahut saare posts hain — Scientific Assistant, Junior Engineer, Lab Assistant etc. Zoological Survey of India, Botanical Survey of India, Geological Survey (partial), Directorate General of Mines Safety, CGHS, aur Ministry of Home Affairs jaise prestigious departments bhi hain. Government job seekers ke liye yeh ek golden opportunity hai central government mein direct entry paane ki bina kisi competitive exam ke heavy competition ke.</p>
+<h2>SSC Phase 14 Preparation Tips</h2>
+<p>Computer Based Exam mein 4 sections hain — General Intelligence aur Reasoning, General Awareness, Quantitative Aptitude, aur English Language. Har section se 25 questions aate hain. General Awareness ke liye last 6 months ki current affairs zaroor padho. Reasoning aur Quant ke liye daily practice karo. English mein reading comprehension aur vocabulary par dhyan do. Negative marking 0.50 hai — isliye uncertain answers mein guess mat karo. Previous year SSC Phase 13 aur 12 ke papers zaroor solve karo practice ke liye.</p>
+
+<h2>SSC Phase 14 — Popular Departments aur Preparation Tips</h2>
+<p>Is recruitment mein DRDO, Zoological Survey of India, Botanical Survey of India, CGHS, aur Ministry of Home Affairs jaise prestigious departments hain. CBE mein 4 sections hain — General Intelligence (25), General Awareness (25), Quantitative Aptitude (25) aur English Language (25) = 100 questions. Duration 60 minutes. Negative marking 0.50 marks per wrong answer. General Awareness ke liye last 6 months ki current affairs padho. Reasoning aur Quant mein daily practice karo. Previous year SSC Phase 12 aur 13 papers zaroor solve karo.</p>
+
+`;
+
+// ===== BPCL ENTRY LEVEL 250 2026 =====
+JOB_CONTENT["bpcl-entry-level-250-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>BPCL Entry Level Profiles Recruitment 2026 – 250 Posts Apply Online Without GATE</h2>
+<p><strong>Bharat Petroleum Corporation Limited (BPCL)</strong>, jo ek Navratna Central Public Sector Enterprise hai, ne Entry Level Profiles Recruitment 2026 ka notification 18 April 2026 ko publish kiya hai. Kul <strong>250 vacancies</strong> hain — Junior Executive (Engineering/Accounts/Wayside Amenities), Secretary BPCL, aur Associate Executive (Quality Assurance/Official Language Implementation) posts ke liye. Online applications 18 April 2026 se open hain aur <strong>last date 17 May 2026 (23:59 hrs)</strong> hai. Apply karo bharatpetroleum.in par.</p>
+
+<p>BPCL mein yeh recruitment GATE exam ke bina ho rahi hai — directly experience ke basis par. Diploma holders se lekar M.Sc. aur Inter CA/CMA holders tak sab apply kar sakte hain apni respective eligibility ke anusaar. BPCL mein join karna ek prestigious opportunity hai — yahan attractive salary, excellent career growth, aur world-class work environment milta hai.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>18 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>18 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">17 May 2026 (23:59 hrs)</strong></td></tr>
+<tr><td>Experience Cut-off Date</td><td>01 April 2026</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Profile / Post</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Junior Executive (Engineering)</td><td>175</td></tr>
+<tr><td>Associate Executive (Quality Assurance)</td><td>30</td></tr>
+<tr><td>Junior Executive (Accounts)</td><td>25</td></tr>
+<tr><td>Secretary BPCL</td><td>8</td></tr>
+<tr><td>Junior Executive (Wayside Amenities)</td><td>10</td></tr>
+<tr><td>Associate Executive (Official Language)</td><td>2</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>250</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<p><strong>Junior Executive (Engineering):</strong> Diploma in Engineering (3-year) in Mechanical/Electrical/Instrumentation/Electronics/Civil/Chemical with 55% marks + minimum 5 years continuous post-qualification relevant experience (jisme 1 saal managerial/supervisory role mein) — POL Terminal, LPG Plant, Pipeline, Refinery ya Petrochemical sector mein.</p>
+<p><strong>Junior Executive (Accounts):</strong> Any Graduate with 55% marks + Inter CA / Inter CMA + minimum 5 years post-qualification finance experience.</p>
+<p><strong>Junior Executive (Wayside Amenities):</strong> B.Com/BBA/B.Sc/BMS/BHM with 55% marks + 5 saal experience jisme 3 saal Facility Management/QSR/Retail/Hospitality mein.</p>
+<p><strong>Secretary BPCL:</strong> Class X + XII + Bachelor's degree (55% each) + minimum 5 saal secretarial experience.</p>
+<p><strong>Associate Executive (QA):</strong> M.Sc Chemistry (specialization) with 60% marks + 3 saal laboratory experience in Petroleum/Oil & Gas/Chemical industry.</p>
+<p><strong>Associate Executive (Official Language):</strong> Master's in Hindi (55%) + English in 12th/graduation + 3 saal translation experience.</p>
+
+<h2>Age Limit (as on 01 April 2026)</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Age Limit</th></tr></thead>
+<tbody>
+<tr><td>Junior Executive (Engineering/Wayside Amenities) + Secretary</td><td>Up to 32 years</td></tr>
+<tr><td>Junior Executive (Accounts) + Associate Executive (QA/OL)</td><td>Up to 35 years (min. 30 years for Accounts)</td></tr>
+</tbody></table>
+
+<h2>Salary / Remuneration</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Pay Scale</th><th>Approx. CTC</th></tr></thead>
+<tbody>
+<tr><td>Junior Executive & Secretary</td><td>Rs. 30,000 – 1,20,000</td><td><strong>Rs. 12.28 LPA</strong></td></tr>
+<tr><td>Associate Executive</td><td>Rs. 40,000 – 1,40,000</td><td><strong>Rs. 17.11 LPA</strong></td></tr>
+</tbody></table>
+<p>Basic pay ke upar DA (IDA pattern), HRA, Perks & Allowances, Retirement Benefits aur Performance Related Pay milenge BPCL policy ke anusaar.</p>
+
+<h2>Application Fee</h2>
+<p>UR/OBC-NCL/EWS: <strong>Rs. 1,000 + 18% GST = Rs. 1,180/-</strong>. SC/ST/PwBD: <strong>Nil (koi fee nahi)</strong>.</p>
+
+<h2>How to Apply — BPCL Entry Level 2026</h2>
+<ol>
+<li>bharatpetroleum.in par jaao → Careers → Job Openings</li>
+<li>"Apply Online" par click karo → "New Registration" karo</li>
+<li>Name, Email aur Mobile se register karo — Registration Number note karo</li>
+<li>Login karo → personal, educational aur experience details fill karo</li>
+<li>Photo, signature aur required documents upload karo (PDF format)</li>
+<li>Preview carefully check karo — submit ke baad koi change nahi hoga</li>
+<li>Fee pay karo → e-receipt download karo</li>
+</ol>
+
+<h2>FAQs — BPCL Entry Level 2026</h2>
+<p><strong>Q: Kya freshers BPCL Entry Level ke liye apply kar sakte hain?</strong><br>A: Nahi. Sabhi posts ke liye minimum 3-5 saal post-qualification experience mandatory hai. Freshers eligible nahi hain.</p>
+<p><strong>Q: GATE score chahiye kya BPCL mein apply karne ke liye?</strong><br>A: Is recruitment mein GATE required nahi hai. Yeh directly experience-based hai.</p>
+<p><strong>Q: Ek se zyada posts ke liye apply kar sakte hain?</strong><br>A: Nahi. Ek hi application submit karni hogi. Multiple applications mein last valid application consider hogi.</p>
+`;
+
+// ===== NCDC YOUNG PROFESSIONAL 2026 =====
+JOB_CONTENT["ncdc-young-professional-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>NCDC Young Professional Recruitment 2026 – 5 Posts Apply Online (Fisheries)</h2>
+<p><strong>National Cooperative Development Corporation (NCDC)</strong>, jo Ministry of Cooperation ke under ek statutory corporation hai, ne Young Professional (Fisheries) Recruitment 2026 ka notification Advt. No. 03/2026 dated 20.04.2026 ke through jaari kiya hai. Kul <strong>5 contractual vacancies</strong> hain — Bengaluru, Vijayawada, Bhubaneswar, Kolkata aur Chennai mein ek-ek post. Applications email ke through accept ki ja rahi hain aur <strong>last date 05 May 2026</strong> hai. Apply karo career@ncdc.in par.</p>
+
+<p>NCDC mein Young Professional ke roop mein kaam karna ek unique opportunity hai fisheries aur aquaculture sector ke experts ke liye. Yeh engagement Tribal Development Projects (TDF) ke liye hai NABARD ke Farm Sector Development Department ke under. Contract period 3 saal ka hai jo performance ke basis par 1 saal aur extend ho sakta hai.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>20 April 2026</td></tr>
+<tr><td>Last Date to Apply (Email)</td><td><strong style="color:#c0392b;">05 May 2026 (Tuesday)</strong></td></tr>
+</tbody></table>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Location</th></tr></thead>
+<tbody>
+<tr><td>Young Professional (Fisheries)</td><td>Bengaluru, Karnataka</td></tr>
+<tr><td>Young Professional (Fisheries)</td><td>Vijayawada, Andhra Pradesh</td></tr>
+<tr><td>Young Professional (Fisheries)</td><td>Bhubaneswar, Odisha</td></tr>
+<tr><td>Young Professional (Fisheries)</td><td>Kolkata, West Bengal</td></tr>
+<tr><td>Young Professional (Fisheries)</td><td>Chennai, Tamil Nadu</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<p><strong>Educational Qualification:</strong> Master's degree in Fisheries Science ya Aquaculture with specialization in Fisheries ya Marine Biology kisi recognised university se.</p>
+<p><strong>Experience:</strong> Minimum 5 saal ka experience Aquaculture, Mariculture, Fisheries post-harvest processing, value addition ya fisheries projects/schemes ke formulation ya implementation mein.</p>
+<p><strong>Age Limit:</strong> Maximum 45 years as on last date (05 May 2026).</p>
+
+<h2>Remuneration</h2>
+<p>Consolidated monthly remuneration <strong>negotiable</strong> hai — last/current pay drawn ke anusaar hogi. Annual increment of 5% within approved range after 1 saal satisfactory service. Salary inclusive of all taxes. Koi aur facility ya allowance nahi milega is stipend ke alawa.</p>
+
+<h2>Selection Process</h2>
+<p>Preliminary shortlisting academic records aur experience ke basis par. Shortlisted candidates ko Interview/Personal Discussion ke liye bulaya jayega. Sirf eligible hona interview ka guarantee nahi hai.</p>
+
+<h2>How to Apply — NCDC Young Professional 2026</h2>
+<ol>
+<li>ncdc.in se official notification aur Application Proforma download karo</li>
+<li>Proforma completely aur accurately fill karo</li>
+<li>Self-attested copies attach karo — DOB proof, educational certificates, experience certificates, photograph</li>
+<li>Email bhejo: <strong>career@ncdc.in</strong></li>
+<li>Subject line: <strong>"Application for the post of Young Professional (Fisheries)"</strong></li>
+<li>Last date: 05 May 2026</li>
+</ol>
+<p><strong>Note:</strong> Koi application fee nahi hai. Sirf email se apply hoga — koi online portal nahi, koi offline/postal application nahi.</p>
+
+<h2>FAQs — NCDC Young Professional 2026</h2>
+<p><strong>Q: Kya yeh permanent government job hai?</strong><br>A: Nahi, yeh purely contractual engagement hai. Contract staff ka koi regular absorption ka claim nahi hoga.</p>
+<p><strong>Q: Kya kisi bhi state ke liye apply kar sakte hain?</strong><br>A: Haan, lekin ek application ek location ke liye. Preferred location application mein clearly mention karein.</p>
+<h2>NCDC ke baare mein</h2>
+<p>National Cooperative Development Corporation (NCDC) 1963 mein established ek statutory corporation hai jo Agriculture and Farmers Welfare Ministry ke under kaam karta tha, ab Ministry of Cooperation ke under hai. NCDC ka main kaam cooperative societies ko strengthen karna hai especially agriculture, animal husbandry, fisheries, dairy, weaving aur handicrafts sectors mein. NCDC Young Professionals real field projects mein kaam karte hain aur tribal communities ki directly help karte hain — yeh ek meaningful government-backed role hai.</p>
+<h2>Fisheries Sector — India mein Career Opportunities</h2>
+<p>India duniya ka teesra sabse bada fish producing country hai. Blue Economy India ki GDP mein significant contribution karti hai. Fisheries aur Aquaculture sector mein M.Sc. holders ke liye NCDC jaisi organisations mein, MPEDA, NFDB, state fisheries departments, aur private aquaculture companies mein bahut achhe career opportunities hain. NCDC jaise prestigious government-backed roles field experience aur network build karne ke liye bahut valuable hote hain.</p>
+
+<h2>NCDC aur Fisheries Sector — Career Opportunities</h2>
+<p>National Cooperative Development Corporation (NCDC) 1963 mein established ek statutory corporation hai jo cooperative societies ko strengthen karta hai especially agriculture, fisheries aur rural sectors mein. India duniya ka teesra sabse bada fish producing country hai. Fisheries sector mein M.Sc. holders ke liye NCDC, MPEDA, NFDB, state fisheries departments aur private aquaculture companies mein bahut achhe career opportunities hain. NCDC jaise government-backed roles field experience aur meaningful social impact dete hain tribal communities ke saath direct engagement ke through. Young Professionals real projects implement karte hain — data collection, progress monitoring, aur NCDC ko regular reports submit karna inke main responsibilities hain.</p>
+
+`;
+
+// ===== NABCONS CONSULTANT 2026 =====
+JOB_CONTENT["nabcons-consultant-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>NABCONS TDF Consultant Recruitment 2026 – 10 Posts Apply Online</h2>
+<p><strong>NABARD Consultancy Services (NABCONS)</strong>, jo NABARD ki wholly owned subsidiary company hai, ne TDF Consultant Recruitment 2026 ka notification Advt. Ref. No. NABCONS/CO-HR/001/PBCS/2026-27 ke through 20 April 2026 ko jaari kiya hai. Kul <strong>10 vacancies</strong> hain — 5 Middle Level Consultant (Rs. 60,000/month) aur 5 Junior Level Consultant (Rs. 40,000/month) — 10 states mein NABARD Regional Offices par. Online applications 20 April se open hain aur <strong>last date 30 April 2026</strong> hai — bahut kam time bacha hai, turant apply karo!</p>
+
+<p>Yeh posts Tribal Development Projects (TDF) ke liye hain jo NABARD ke Farm Sector Development Department (FSDD) ke under handle kiye ja rahe hain. Contract initially 1 saal ka hoga jo performance ke basis par aage extend ho sakta hai. Agriculture, Natural Resource Management ya Rural Development background wale candidates ke liye yeh ek excellent opportunity hai meaningful kaam karne ka saath-saath good remuneration ke.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>20 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>20 April 2026</td></tr>
+<tr><td>Last Date to Apply Online</td><td><strong style="color:#c0392b;">30 April 2026</strong></td></tr>
+</tbody></table>
+
+<h2>Vacancy Details — Location-wise</h2>
+<table class="detail-table"><thead><tr><th>State / Location</th><th>Middle Level</th><th>Junior Level</th></tr></thead>
+<tbody>
+<tr><td>Bihar RO</td><td>1</td><td>—</td></tr>
+<tr><td>Jharkhand RO</td><td>1</td><td>—</td></tr>
+<tr><td>Karnataka RO</td><td>1</td><td>—</td></tr>
+<tr><td>Maharashtra RO</td><td>1</td><td>—</td></tr>
+<tr><td>Sikkim RO</td><td>1</td><td>—</td></tr>
+<tr><td>Arunachal Pradesh RO</td><td>—</td><td>1</td></tr>
+<tr><td>Assam RO</td><td>—</td><td>1</td></tr>
+<tr><td>Gujarat RO</td><td>—</td><td>1</td></tr>
+<tr><td>Himachal Pradesh RO</td><td>—</td><td>1</td></tr>
+<tr><td>Kerala ZO</td><td>—</td><td>1</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>5</strong></td><td><strong>5</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<p><strong>Middle Level Consultant:</strong> Graduate/PG in Agriculture aur allied subjects (Agriculture, Horticulture, Forestry, Agricultural Engineering, Dairy Technology, Veterinary & Animal Science) + 1-4 saal experience in Natural Resource Management, financing, value chain management ya agri-marketing projects mein. MS Office aur state language mein proficiency zaroori.</p>
+<p><strong>Junior Level Consultant:</strong> Any Graduate + 1-2 saal experience in NRM/financing/agri-marketing projects. MS Office aur mobile data collection app ki knowledge. Rugged terrain mein travel ke liye physically fit. State language aur local dialect ki knowledge additional score dilayegi.</p>
+<p><strong>Age Limit:</strong> Middle Level — 24 to 61 years | Junior Level — 24 to 50 years (date of application).</p>
+
+<h2>Salary & Benefits</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Monthly Remuneration</th><th>Key Benefits</th></tr></thead>
+<tbody>
+<tr><td>Middle Level Consultant</td><td><strong>Rs. 60,000/-</strong></td><td>Lodging Rs. 3,500/day | TA: 3AC/Taxi | Petrol Rs. 2,000/mo</td></tr>
+<tr><td>Junior Level Consultant</td><td><strong>Rs. 40,000/-</strong></td><td>Lodging Rs. 2,500/day | TA: 3AC/Bus | Petrol Rs. 4,000/mo</td></tr>
+</tbody></table>
+<p>Dono levels ke liye: Medical Insurance Rs. 8,000/year | PF contribution | Mobile Rs. 500/month | Lunch allowance Rs. 1,500/month | 24 days leave/year. Annual increment 5% after satisfactory service.</p>
+
+<h2>Application Fee</h2>
+<p><strong>Koi application fee nahi hai.</strong> Apply karना bilkul free hai sabhi candidates ke liye.</p>
+
+<h2>How to Apply — NABCONS Consultant 2026</h2>
+<ol>
+<li>nabcons.com par jaao</li>
+<li>Middle Level ya Junior Level Consultant — TDF ka appropriate application link click karo</li>
+<li>Instructions dhyan se padho aur Google form mein accurate details fill karo</li>
+<li>Ek state ke liye ek application — ek se zyada states ke liye alag application</li>
+<li>30 April 2026 se pehle submit karo</li>
+<li>Interview par self-attested copies aur originals leke aao</li>
+</ol>
+
+<h2>FAQs — NABCONS Consultant 2026</h2>
+<p><strong>Q: Kya 61 saal tak ke candidates apply kar sakte hain?</strong><br>A: Haan! Middle Level Consultant ke liye maximum age 61 saal hai — retired professionals bhi eligible hain.</p>
+<p><strong>Q: Contract kitne saal ka hoga?</strong><br>A: Initially 1 saal ka contract. Pehle 3 mahine probation hoga. Performance achchha raha to extend hoga maximum 3 saal tak. Dono sides se 3 mahine ka notice period hai.</p>
+<p><strong>Q: Kya interview in-person hoga ya online?</strong><br>A: NABCONS in-person ya virtual dono modes mein interview conduct kar sakta hai — call letter mein specify hoga.</p>
+<h2>NABARD aur NABCONS ke baare mein</h2>
+<p>NABARD (National Bank for Agriculture and Rural Development) India ka apex development bank hai rural development aur agriculture ke liye. NABCONS (NABARD Consultancy Services) NABARD ki wholly owned subsidiary company hai jo consultancy services provide karti hai. NABCONS Tribal Development Fund (TDF) projects coordinate karti hai jinka maqsad tribal areas mein sustainable livelihoods create karna hai. NABCONS mein kaam karna ek prestigious opportunity hai — government backing hai, meaningful social impact hai, aur decent remuneration bhi.</p>
+<h2>TDF Project — Kya Kaam Karna Hoga</h2>
+<p>Tribal Development Projects (TDF) ke Consultants field mein kaam karte hain — tribal communities ke saath direct engagement, project implementation monitoring, data collection, progress reports preparation, aur NABARD Regional Offices ko regular updates dena. Field visits zaroori hain including remote tribal areas mein travel. MS Office aur mobile data collection apps ka daily use hoga. Rugged terrain mein travel ke liye physically fit hona zaroori hai — especially North East aur Himalayan states ke liye.</p>
+<h2>Probation Period aur Notice Period</h2>
+<p>Joining ke baad pehle 3 mahine probation period hoga — is dauran NABCONS bina kisi notice ke contract terminate kar sakti hai. Probation successful hone ke baad contract active ho jaata hai. Dono sides — NABCONS aur Consultant — 3 mahine ka notice deke contract khatam kar sakte hain. Resignation dene par bhi 3 mahine ki notice zaroori hai. Contract ke dauran koi aur job ya business karna allowed nahi hai.</p>
+
+<h2>TDF Project — Kya Kaam Karna Hoga</h2>
+<p>NABARD (National Bank for Agriculture and Rural Development) India ka apex development bank hai rural development ke liye. NABCONS unki wholly owned subsidiary hai. TDF Consultants tribal communities ke saath direct engagement karte hain — project implementation monitoring, data collection mobile apps se, progress reports NABARD Regional Offices ko dena. Field visits zaroori hain including remote tribal areas mein. MS Office aur mobile data collection apps ka daily use hota hai. Joining ke baad pehle 3 mahine probation period hoga — satisfactory performance par contract active ho jaata hai. Contract ke dauran koi aur job allowed nahi hai.</p>
+
 `;

@@ -87,6 +87,55 @@
     <p style="font-size:11px;color:#999;margin-top:12px;font-style:italic;">Disclaimer: SarthakYojana.in is not the official recruitment authority. Always verify all details from the official website before applying. We are not responsible for any discrepancy in the information provided.</p>
   </div>
 
+
+  <!-- ===== NRI/US Section: Salary Converter + Timezone ===== -->
+  <div id="nriBox" style="display:none;margin-top:10px;">
+
+    <!-- Salary in Foreign Currency -->
+    <div class="sec-box" style="margin-bottom:10px;">
+      <div class="sec-hdr" style="background:#002868;">
+        <h2 style="color:#fff;font-size:13px;font-weight:700;">💱 Salary in Foreign Currency — For NRI / Overseas Indians</h2>
+      </div>
+      <div style="padding:12px 14px;">
+        <p style="font-size:12px;color:#888;margin-bottom:10px;">Live approximate salary for NRI/OCI candidates (based on current exchange rates)</p>
+        <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;" id="currencyGrid">
+          <!-- Filled by JS -->
+        </div>
+        <p style="font-size:11px;color:#aaa;margin-top:8px;">* Rates are approximate. 1 USD ≈ ₹84 | 1 GBP ≈ ₹107 | 1 AED ≈ ₹23 | 1 CAD ≈ ₹62</p>
+      </div>
+    </div>
+
+    <!-- Last Date in Timezones -->
+    <div class="sec-box" style="margin-bottom:10px;">
+      <div class="sec-hdr" style="background:#0f3460;">
+        <h2 style="color:#fff;font-size:13px;font-weight:700;">🕐 Last Date — World Timezones</h2>
+      </div>
+      <div style="padding:12px 14px;" id="timezoneBox">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+
+    <!-- NRI Apply Guide -->
+    <div class="sec-box" style="margin-bottom:10px;background:#f0f7ff;">
+      <div class="sec-hdr" style="background:#1a5276;">
+        <h2 style="color:#fff;font-size:13px;font-weight:700;">✈️ NRI / OCI Guide — Apply from Abroad</h2>
+      </div>
+      <div style="padding:12px 14px;font-size:13px;color:#333;line-height:1.8;">
+        <p style="margin-bottom:8px;"><strong>Can NRI/OCI apply for this job?</strong> Most Indian government jobs allow Indian citizens worldwide to apply online. OCI card holders may apply for some positions — check the official notification for NRI/OCI eligibility.</p>
+        <p style="margin-bottom:8px;"><strong>How to apply from USA/UK/Canada/UAE:</strong></p>
+        <ul style="padding-left:18px;margin-bottom:8px;">
+          <li style="margin-bottom:4px;">Visit the official website link on this page</li>
+          <li style="margin-bottom:4px;">Use your Indian bank account / SBI international debit card for fee payment</li>
+          <li style="margin-bottom:4px;">Keep Aadhaar / OCI card handy for ID proof</li>
+          <li style="margin-bottom:4px;">Exam centers are only in India — plan travel accordingly</li>
+          <li style="margin-bottom:4px;">Application fee can be paid via international UPI / net banking</li>
+        </ul>
+        <p><strong>Need help?</strong> Contact us at <a href="mailto:ankush.jain70146@gmail.com" style="color:#c0392b;">ankush.jain70146@gmail.com</a></p>
+      </div>
+    </div>
+  </div>
+  <!-- ===== End NRI Section ===== -->
+
   <!-- Similar Jobs -->
   <div class="sec-box" style="margin-top:10px;">
     <div class="sec-hdr"><h2>More Government Jobs 2026</h2></div>
@@ -369,7 +418,70 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
      <a href="${job.officialNotification || job.applyLink}" target="_blank" rel="nofollow noopener" style="font-size:12.5px;color:#555;">Official Notification PDF</a>` :
     '<p style="color:#888;font-size:12.5px;">Application link will be available soon. Bookmark this page.</p>';
 
-  // Similar jobs
+
+  // ===== NRI Section: Currency + Timezone =====
+  if (job.salaryMin) {
+    document.getElementById('nriBox').style.display = 'block';
+
+    // Currency converter
+    const salMin = job.salaryMin;
+    const salMax = job.salaryMax || salMin;
+    const currencies = [
+      {code:'USD', symbol:'$', rate:0.0119, flag:'🇺🇸', country:'USA'},
+      {code:'GBP', symbol:'£', rate:0.0094, flag:'🇬🇧', country:'UK'},
+      {code:'AED', symbol:'AED', rate:0.0437, flag:'🇦🇪', country:'UAE/Dubai'},
+      {code:'CAD', symbol:'C$', rate:0.0161, flag:'🇨🇦', country:'Canada'},
+      {code:'AUD', symbol:'A$', rate:0.0181, flag:'🇦🇺', country:'Australia'},
+      {code:'SGD', symbol:'S$', rate:0.0160, flag:'🇸🇬', country:'Singapore'},
+    ];
+    document.getElementById('currencyGrid').innerHTML = currencies.map(c => `
+      <div style="background:#fff;border:1px solid #e0e8f0;border-radius:6px;padding:10px;text-align:center;">
+        <div style="font-size:18px;">${c.flag}</div>
+        <div style="font-size:11px;color:#888;margin:2px 0;">${c.country}</div>
+        <div style="font-size:13px;font-weight:800;color:#0f3460;">
+          ${c.symbol}${Math.round(salMin*c.rate).toLocaleString()} –
+          ${c.symbol}${Math.round(salMax*c.rate).toLocaleString()}
+        </div>
+        <div style="font-size:10px;color:#aaa;">/month</div>
+      </div>`).join('');
+  }
+
+  // Timezone converter for last date
+  if (job.lastDate || job.lastDateDisplay) {
+    const lastDateStr = job.lastDate || '';
+    let lastDateObj = lastDateStr ? new Date(lastDateStr + 'T23:59:00+05:30') : null;
+    
+    if (lastDateObj && !isNaN(lastDateObj)) {
+      const timezones = [
+        {name:'🇮🇳 India (IST)', tz:'Asia/Kolkata'},
+        {name:'🇺🇸 New York (EDT)', tz:'America/New_York'},
+        {name:'🇺🇸 California (PDT)', tz:'America/Los_Angeles'},
+        {name:'🇬🇧 London (BST)', tz:'Europe/London'},
+        {name:'🇦🇪 Dubai (GST)', tz:'Asia/Dubai'},
+        {name:'🇨🇦 Toronto (EDT)', tz:'America/Toronto'},
+        {name:'🇦🇺 Sydney (AEST)', tz:'Australia/Sydney'},
+        {name:'🇸🇬 Singapore (SGT)', tz:'Asia/Singapore'},
+      ];
+      document.getElementById('timezoneBox').innerHTML = 
+        '<table style="width:100%;border-collapse:collapse;font-size:12.5px;">' +
+        timezones.map((tz,i) => {
+          try {
+            const formatted = lastDateObj.toLocaleString('en-IN', {
+              timeZone: tz.tz,
+              day:'2-digit', month:'short', year:'numeric',
+              hour:'2-digit', minute:'2-digit', hour12:true
+            });
+            return `<tr style="background:${i%2===0?'#f9fbff':'#fff'}">
+              <td style="padding:7px 10px;color:#555;font-weight:600;">${tz.name}</td>
+              <td style="padding:7px 10px;color:#0f3460;font-weight:700;text-align:right;">${formatted}</td>
+            </tr>`;
+          } catch(e) { return ''; }
+        }).join('') + '</table>' +
+        '<p style="font-size:11px;color:#aaa;margin-top:8px;padding:0 4px;">Times are approximate. IST = Indian Standard Time (UTC+5:30). Last date is at 11:59 PM IST.</p>';
+    }
+  }
+
+    // Similar jobs
   const sim = JOBS_DATA.filter(j => j.id !== id).slice(0, 10);
   document.getElementById('similarJobs').innerHTML = sim.map(j =>
     `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`
