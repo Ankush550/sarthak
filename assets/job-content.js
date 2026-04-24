@@ -2365,3 +2365,71 @@ JOB_CONTENT["nabcons-consultant-2026"] = `
 <p>NABARD (National Bank for Agriculture and Rural Development) India ka apex development bank hai rural development ke liye. NABCONS unki wholly owned subsidiary hai. TDF Consultants tribal communities ke saath direct engagement karte hain — project implementation monitoring, data collection mobile apps se, progress reports NABARD Regional Offices ko dena. Field visits zaroori hain including remote tribal areas mein. MS Office aur mobile data collection apps ka daily use hota hai. Joining ke baad pehle 3 mahine probation period hoga — satisfactory performance par contract active ho jaata hai. Contract ke dauran koi aur job allowed nahi hai.</p>
 
 `;
+
+// ===== KURUKSHETRA COURT CLERK RESULT 2026 =====
+JOB_CONTENT["kurukshetra-court-clerk-result-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
+</div>
+
+<h2>Kurukshetra Court Clerk Result 2026 Jaari — Scorecard Download karein kurukshetra.dcourts.gov.in se</h2>
+<p><strong>District and Sessions Judge, Kurukshetra</strong> ne officially <strong>Clerk (Adhoc Basis) Written Examination Result 2026</strong> 21 April 2026 ko apne official portal <strong>kurukshetra.dcourts.gov.in</strong> par jaari kar diya hai. Jo candidates 22 March 2026 ko aayojit written examination mein shamil hue the, woh ab apna result PDF download karke apna Roll Number search kar sakte hain. Result mein qualify hone wale candidates ko <strong>Computer Proficiency Test / Typing Test ke liye 10 May 2026</strong> ko District Court Complex, Kurukshetra mein bulaya jayega.</p>
+
+<p>Yeh Haryana ke judicial recruitment ke liye ek important result hai. Clerks court proceedings mein direct role nibhate hain aur Haryana government ka regular pay scale milta hai. Qualified candidates ko turant result PDF download kar leni chahiye aur Typing Test ki preparation shuru kar deni chahiye — sirf kuch hi din bache hain.</p>
+
+<h2>Result Dashboard — Kurukshetra Court Clerk 2026</h2>
+<table class="detail-table"><thead><tr><th>Details</th><th>Information</th></tr></thead>
+<tbody>
+<tr><td>Recruiting Body</td><td>District and Sessions Judge, Kurukshetra, Haryana</td></tr>
+<tr><td>Post Name</td><td>Clerk (Adhoc Basis)</td></tr>
+<tr><td>Written Exam Date</td><td>22 March 2026</td></tr>
+<tr><td>Result Declaration Date</td><td><strong>21 April 2026</strong></td></tr>
+<tr><td>Next Stage</td><td><strong style="color:#c0392b;">Computer Proficiency Test / Typing Test — 10 May 2026</strong></td></tr>
+<tr><td>Venue</td><td>District Court Complex, Kurukshetra</td></tr>
+<tr><td>Official Website</td><td>kurukshetra.dcourts.gov.in</td></tr>
+</tbody></table>
+
+<h2>Kurukshetra Court Clerk Result 2026 Kaise Check Karein</h2>
+<ol>
+<li>Official website par jaao: <strong>https://kurukshetra.dcourts.gov.in</strong></li>
+<li>Homepage par <strong>"Recruitments"</strong> ya <strong>"Notices"</strong> section click karo</li>
+<li><strong>"Clerk Written Examination Result 2026"</strong> ya <strong>21/04/2026 dated notice</strong> dhundho</li>
+<li>PDF link par click karo — result PDF download hogi</li>
+<li>PDF mein <strong>Ctrl+F</strong> se apna Roll Number search karo</li>
+<li>Qualifying status check karo — result PDF ko save aur print karo</li>
+</ol>
+<p><strong>Note:</strong> Agar result link active nahi lag raha toh browser cache clear karo aur dobara try karo. Alag browser (Chrome, Firefox, Edge) try karo. Problem ho to court office se directly contact karo.</p>
+
+<h2>Merit List mein Kya Hota Hai</h2>
+<p>Kurukshetra Court Clerk Merit List / Result PDF 2026 mein qualified candidates ki complete details hoti hain. Har qualified candidate ka Roll Number, Candidate Name, Father's Name, Category (General/EWS/BCA/BCB/SC) aur qualifying status mentioned hota hai. HPSC ya eCourts jaisi state bodies category-wise alag lists bhi prepare karti hain — General Merit List, EWS list, SC list, BCA/BCB list alag-alag.</p>
+
+<h2>⚡ Computer Proficiency Test / Typing Test — 10 May 2026</h2>
+<p>Qualified candidates ka sabse important agla step hai <strong>10 May 2026 ko Computer Proficiency Test aur Typing Test</strong>. Haryana courts mein Clerk posts ke liye typically minimum <strong>30 words per minute (wpm)</strong> typing speed required hoti hai Hindi ya English mein. Skill test qualifying nature ka hota hai — yeh clear karna mandatory hai final selection ke liye.</p>
+<p><strong>Typing Test Preparation Tips:</strong></p>
+<ul style="padding-left:18px;line-height:1.9;font-size:13.5px;">
+<li>Roz 1 ghanta typing practice karo — typedriller.com ya indiatyping.com use karo</li>
+<li>Hindi typing ke liye Kruti Dev font ya Unicode se practice karo</li>
+<li>Computer basics bhi cover karo — MS Word, MS Excel, basic internet</li>
+<li>Exam center wahi hoga jahan written test tha — pehle se route plan karo</li>
+<li>Skill test ka admit card official website se download karo jab available ho</li>
+</ul>
+
+<h2>Kurukshetra Court Clerk — Next Steps After Result</h2>
+<p><strong>Step 1 — Result PDF Download karo:</strong> Abhi turant download karo aur 3-4 printouts rakh lo future reference ke liye.</p>
+<p><strong>Step 2 — Typing Test Prepare karo:</strong> 10 May 2026 ke liye sirf 2-3 hafte hain — daily practice mandatory hai. Speed ke saath accuracy bhi zaroori hai.</p>
+<p><strong>Step 3 — Documents Ready karo:</strong> Original certificates — 10th, 12th, graduation degree/marksheet, Aadhaar, caste certificate (if applicable), date of birth proof — sabhi originals verify karo. Certified copies bhi saath rakh lo.</p>
+<p><strong>Step 4 — Official Website Check karte raho:</strong> Typing Test admit card, venue confirmation aur Document Verification schedule ke liye kurukshetra.dcourts.gov.in regularly check karo.</p>
+
+<h2>Document Verification ke liye Kya Chahiye</h2>
+<p>Skill test clear karne ke baad qualified candidates ko Document Verification ke liye bulaya jayega. Sabhi original documents saath laane honge — 10th certificate (Date of Birth proof), 12th certificate, Graduation degree aur marksheets, Aadhaar Card, Category certificate (SC/EWS/BCA/BCB — Haryana government format mein), Residence/Domicile certificate, recent passport size photographs, aur koi bhi additional qualification ya experience certificates.</p>
+
+<h2>Haryana Court Clerk — Job Profile aur Salary</h2>
+<p>Haryana District Courts mein Clerk ek Group C post hai. Clerk ka kaam court records maintain karna, case files manage karna, legal documents handle karna aur judges ki administrative requirements mein sahyog karna hota hai. Salary Haryana Pay Matrix ke anusaar milti hai — starting basic pay approximately <strong>Rs. 19,900 per month</strong> Level 2 (Pay Matrix) par. Dearness Allowance, HRA aur other allowances milane ke baad hand salary Rs. 25,000-28,000 per month hoti hai. Regular government job hai — pension, medical benefits aur job security milti hai.</p>
+
+<h2>FAQs — Kurukshetra Court Clerk Result 2026</h2>
+<p><strong>Q: Kurukshetra Court Clerk Result 2026 kab aaya?</strong><br>A: District and Sessions Judge Kurukshetra ne Clerk Written Examination Result 2026 officially 21 April 2026 ko jaari kiya kurukshetra.dcourts.gov.in par.</p>
+<p><strong>Q: Typing Test kab hoga?</strong><br>A: Qualified candidates ka Computer Proficiency Test / Typing Test 10 May 2026 ko hoga District Court Complex, Kurukshetra mein.</p>
+<p><strong>Q: Typing Test mein kitni speed chahiye?</strong><br>A: Haryana courts mein generally minimum 30 wpm typing speed required hoti hai. Official notification mein exact requirement check karo.</p>
+<p><strong>Q: Result mein naam nahi hai — kya karu?</strong><br>A: Agar aap written exam diye the aur result mein naam nahi hai toh turant court office se contact karo. Discrepancy report karne ke liye zyada der mat karo.</p>
+`;

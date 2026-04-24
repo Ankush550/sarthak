@@ -650,6 +650,14 @@ const RESULTS_DATA = [
    description:"Himachal Pradesh Rajya Chayan Aayog (HPRCA) has declared the TGT (Non Medical) Result 2026 on 20 April 2026. Candidates can download their scorecard and check merit list on hprca.hp.gov.in using Roll Number and Date of Birth.",
    howToCheck:"Visit hprca.hp.gov.in → Result section → TGT Non Medical Result 2026 → Enter Roll Number and DOB → Download scorecard",
    isNew:true}
+,
+  {id:"kurukshetra-court-clerk-result-2026",type:"result",organization:"District Court Kurukshetra",
+   title:"Kurukshetra Court Clerk Result 2026 – Out",postName:"Clerk (Adhoc Basis)",
+   date:"21 Apr 2026",declaredDate:"21 Apr 2026",
+   link:"https://kurukshetra.dcourts.gov.in",
+   description:"District and Sessions Judge Kurukshetra ne Clerk Result 2026 officially 21 April 2026 ko jaari kiya. Written exam 22 March 2026 ko hua tha. Qualified candidates ka Computer Proficiency Test / Typing Test 10 May 2026 ko hoga. Result PDF kurukshetra.dcourts.gov.in par available hai.",
+   howToCheck:"kurukshetra.dcourts.gov.in → Recruitments/Notices → Clerk Result 2026 → PDF download karo → Roll Number search karo",
+   isNew:true}
 ];
 
 const ADMIT_CARDS_DATA = [
