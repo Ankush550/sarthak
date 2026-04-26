@@ -364,26 +364,6 @@ const JOBS_DATA = [
     description:"SSC Selection Post Phase 14 Recruitment 2026 for 2919 revised vacancies across Matriculation, Higher Secondary (10+2), and Graduation level posts in Central Government Ministries, Departments and Offices. Apply online from 13 April to 04 May 2026 at ssc.gov.in."
   },
   {
-    id:"bpcl-entry-level-250-2026",
-    title:"BPCL Entry Level Profiles Recruitment 2026 Without GATE",
-    shortTitle:"BPCL Junior Executive – 250 Posts",
-    organization:"Bharat Petroleum Corporation Limited (BPCL)",
-    orgWebsite:"https://www.bharatpetroleum.in",
-    category:"PSU", subCategory:"Junior Executive",
-    totalPosts:250, lastDate:"2026-05-17", lastDateDisplay:"17 May 2026",
-    datePosted:"2026-04-18", examDate:"To be announced",
-    validThrough:"2026-05-17T23:59:00+05:30", employmentType:"FULL_TIME",
-    salaryMin:24000, salaryMax:140000, salaryCurrency:"INR", salaryUnit:"MONTH",
-    location:"Pan India", addressLocality:"Mumbai", addressRegion:"Maharashtra", addressCountry:"IN",
-    qualification:"Diploma / B.Com / BBA / B.Sc / M.Sc / Inter CA / Inter CMA",
-    ageLimit:"Up to 32–35 Years (Post-wise)", applyLink:"https://www.bharatpetroleum.in",
-    officialNotification:"https://www.bharatpetroleum.in",
-    fee:"Rs. 1180/- (UR/OBC/EWS) | Nil (SC/ST/PwBD)",
-    isNew:true, isFeatured:true,
-    tags:["bpcl","psu","junior executive","diploma","accounts","secretary","maharatna"],
-    description:"Bharat Petroleum Corporation Limited (BPCL) Entry Level Profiles Recruitment 2026 for 250 posts including Junior Executive (Engineering-175, Accounts-25, Wayside Amenities-10), Secretary BPCL (8), Associate Executive QA (30), and Associate Executive Official Language (2). No GATE required. Apply from 18 April to 17 May 2026 at bharatpetroleum.in."
-  },
-  {
     id:"ssb-paramedical-2026",
     title:"SSB Paramedical Recruitment 2026 – Head Constable & Constable",
     shortTitle:"SSB Paramedical – 76 Posts",

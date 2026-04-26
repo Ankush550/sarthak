@@ -199,7 +199,7 @@ if (!job) {
   if (isJobPost) {
     
     // --- TITLE: Job title only, strip "Recruitment 2026" suffix ---
-    const schemaTitle = job.title
+    const schemaTitle = (job.title || '').replace(/\s*Recruitment\s*\d{4}/i, '').trim() || job.title
       .replace(/\s*Recruitment\s*\d{4}.*$/i, '')
       .replace(/\s*\d{4}.*$/i, '')
       .trim();
@@ -251,7 +251,7 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
     }
     
     // --- Org website (hiringOrganization.sameAs must be org's official URL) ---
-    const orgWebsite = job.orgWebsite || job.officialNotification || 'https://india.gov.in';
+    const orgWebsite = (job.orgWebsite || job.officialNotification || 'https://india.gov.in').trim() || 'https://india.gov.in';
     const orgLogo    = 'https://sarthakyojana.in/assets/logo.png';
     
     // --- Location ---

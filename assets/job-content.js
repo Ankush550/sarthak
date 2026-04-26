@@ -1783,57 +1783,91 @@ JOB_CONTENT["bob-sports-quota-2026"] = `
 // ===== HPRCA TGT NON MEDICAL RESULT 2026 =====
 JOB_CONTENT["hprca-tgt-nonmedical-result-2026"] = `
 <div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
-  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp; 
-  <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; 
-  Updated: 22 April 2026
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-20">Published: 20 April 2026</time> &nbsp;|&nbsp; Updated: 22 April 2026
 </div>
 
-<h2>HPRCA TGT (Non Medical) Result 2026 Declared – Download Scorecard at hprca.hp.gov.in</h2>
-<p><strong>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</strong> has officially declared the <strong>TGT (Non Medical) Result 2026</strong> on 20 April 2026 at the official portal <strong>hprca.hp.gov.in</strong>. Thousands of candidates who appeared in the Written Examination for Trained Graduate Teacher (Non Medical) posts can now check their result, download their scorecard, and view the merit list online. The result is available in PDF format on the official website — no login is required to access the merit list.</p>
+<div style="background:linear-gradient(135deg,#1a237e,#c0392b);border-radius:8px;padding:18px;margin-bottom:16px;text-align:center;">
+  <div style="font-size:32px;margin-bottom:8px;">📊</div>
+  <h1 style="color:#fff;font-size:18px;font-weight:900;margin-bottom:6px;">HPRCA TGT (Non Medical) Result 2026</h1>
+  <p style="color:rgba(255,255,255,.85);font-size:12.5px;margin-bottom:10px;">Himachal Pradesh Rajya Chayan Aayog | hprca.hp.gov.in</p>
+  <div style="display:inline-flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+    <span style="background:#00c853;color:#fff;padding:5px 14px;border-radius:16px;font-size:12px;font-weight:800;">✅ Result OUT</span>
+    <span style="background:rgba(255,255,255,.2);color:#fff;padding:5px 14px;border-radius:16px;font-size:12px;font-weight:700;">📅 Declared: 20 April 2026</span>
+    <span style="background:#ff6f00;color:#fff;padding:5px 14px;border-radius:16px;font-size:12px;font-weight:700;">🎯 TGT Non Medical</span>
+  </div>
+</div>
 
-<p>Candidates who qualify in the Written Examination will be called for the next stage of the selection process — Document Verification and/or Interview. It is important to download and save multiple copies of the result/scorecard for future reference.</p>
+<h2>HPRCA TGT Non Medical Result 2026 Jaari — Scorecard Download karein hprca.hp.gov.in se</h2>
+<p><strong>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</strong> ne officially <strong>TGT (Non Medical) Written Examination Result 2026</strong> ko 20 April 2026 ko apne official portal <strong>hprca.hp.gov.in</strong> par declare kar diya hai. Hazaron candidates jo written examination mein shamil hue the, ab apna result check kar sakte hain aur scorecard download kar sakte hain. Qualified candidates ko Document Verification aur Interview ke liye aage bulaya jayega jiske dates baad mein official website par announce honge.</p>
 
-<h2>HPRCA TGT Non Medical Result 2026 – Quick Summary</h2>
-<table class="detail-table"><thead><tr><th>Parameter</th><th>Details</th></tr></thead>
+<p>HPRCA, Himachal Pradesh sarkar ki recruitment agency hai jo state ke different departments ke liye teachers aur officers ki bharti karti hai. TGT (Non Medical) post mein Physics, Chemistry, Mathematics, Biology jaisi non-medical science subjects padhane wale teachers ka selection hota hai Himachal Pradesh ke government schools mein. Yeh ek prestigious teaching job hai — regular government service, HP pay scale, pension benefits aur career stability milti hai.</p>
+
+<h2>Result Dashboard — Quick Reference</h2>
+<table class="detail-table"><thead><tr><th>Details</th><th>Information</th></tr></thead>
 <tbody>
-<tr><td>Conducting Body</td><td>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</td></tr>
-<tr><td>Post Name</td><td>Trained Graduate Teacher (TGT) – Non Medical</td></tr>
-<tr><td>Result Date</td><td><strong>20 April 2026</strong></td></tr>
+<tr><td>Recruiting Body</td><td>Himachal Pradesh Rajya Chayan Aayog (HPRCA)</td></tr>
+<tr><td>Post Name</td><td>TGT (Trained Graduate Teacher) – Non Medical</td></tr>
 <tr><td>Result Type</td><td>Written Examination Result + Scorecard</td></tr>
+<tr><td>Result Declaration Date</td><td><strong>20 April 2026</strong></td></tr>
+<tr><td>Next Selection Stage</td><td>Document Verification / Interview</td></tr>
 <tr><td>Official Website</td><td>hprca.hp.gov.in</td></tr>
-<tr><td>Next Stage</td><td>Document Verification / Interview</td></tr>
+<tr><td>Scorecard Download</td><td>Roll Number + Date of Birth required</td></tr>
 </tbody></table>
 
-<h2>How to Check HPRCA TGT Non Medical Result 2026</h2>
+<h2>HPRCA TGT Non Medical Result 2026 — Step-by-Step Download Guide</h2>
 <ol>
-<li>Visit the official HPRCA website: <strong>hprca.hp.gov.in</strong></li>
-<li>Click on the <strong>"Result"</strong> or <strong>"Latest Announcements"</strong> section on the homepage</li>
-<li>Find and click on <strong>"TGT (Non Medical) Result 2026"</strong> link</li>
-<li>The merit list PDF will open — search your Roll Number using Ctrl+F</li>
-<li>For individual scorecard: Login with your Registration Number and Date of Birth</li>
-<li>Download the scorecard PDF and take 3-4 printouts for future use</li>
+<li>Official website par jaao: <strong>https://hprca.hp.gov.in</strong></li>
+<li>Homepage par <strong>"Result"</strong> ya <strong>"Latest Announcements"</strong> section click karo</li>
+<li><strong>"TGT (Non Medical) Result 2026"</strong> link dhundho aur click karo</li>
+<li>Merit list ke liye: PDF download karo aur Ctrl+F se apna Roll Number search karo — no login required</li>
+<li>Individual Scorecard ke liye: apna <strong>Registration Number</strong> aur <strong>Date of Birth</strong> enter karke login karo</li>
+<li>Scorecard PDF download karo aur 3-4 printouts rakh lo</li>
 </ol>
+<p><strong>Tip:</strong> Agar website slow hai to off-peak hours (subah 6-8 baje ya raat mein) try karo. Browser cache clear karke dobara try karo. Server par load bahut hota hai result ke din.</p>
 
-<h2>What is in the HPRCA TGT Result / Merit List?</h2>
-<p>The HPRCA TGT Non Medical merit list 2026 contains the following details for each qualified candidate: Roll Number, Candidate Name, Father's/Mother's Name, Category (General/OBC/SC/ST/EWS), Total Marks Obtained, Category-wise Rank, and Qualifying Status.</p>
-<p>HPRCA prepares separate merit lists: <strong>General Merit List</strong> (all categories combined), <strong>Category-wise Merit Lists</strong> (OBC, SC, ST, EWS separately), and a <strong>Waiting List</strong> for candidates in case of withdrawals.</p>
+<h2>Merit List mein Kya Hota Hai — Scorecard Details</h2>
+<p>HPRCA TGT Non Medical Result 2026 merit list ek comprehensive PDF document hai. Har qualified candidate ke liye yeh information available hoti hai: Roll Number, Candidate Name (as per application), Father's/Mother's Name, Category (General/OBC/SC/ST/EWS), Total Marks Obtained, Overall Rank in General Merit, aur Category-wise Rank. Qualifying Status clearly mentioned hota hai — Qualified ya Not Qualified.</p>
+<p>HPRCA category-wise alag-alag merit lists bhi prepare karti hai — <strong>General Merit List</strong> (sabhi categories milake overall toppers), <strong>Category-wise Merit Lists</strong> (OBC, SC, ST, EWS ke liye alag), aur <strong>Waiting List</strong> (agar selected candidates withdraw karein to kaam aaye). Individual scorecard mein subject-wise marks bhi dikhte hain.</p>
 
-<h2>HPRCA TGT Non Medical Scorecard Details</h2>
-<p>Your individual scorecard contains: Candidate Name and Roll Number, Date of Birth and Category, Subject-wise marks obtained, Total marks and overall percentage, Your rank in the General and Category merit list, and Qualifying status (Qualified / Not Qualified).</p>
+<h2>Qualified Candidates — Aage Kya Hoga</h2>
+<p>Written exam qualify karne ke baad candidates ko <strong>Document Verification aur/ya Interview</strong> ke liye bulaya jayega. HPRCA abhi DV/Interview ke dates announce nahi ki hain — official website regularly check karte raho. Final merit list DV aur Interview ke baad banti hai.</p>
+<p><strong>Document Verification ke liye Documents Tayaar Rakhein:</strong></p>
+<ul style="padding-left:18px;line-height:1.9;font-size:13.5px;margin-bottom:12px;">
+<li>10th Certificate (Date of Birth proof)</li>
+<li>12th Certificate aur Marksheet</li>
+<li>Graduation Degree aur Marksheets (subject-wise)</li>
+<li>B.Ed / Teaching Degree Certificate</li>
+<li>HP TET Certificate (Himachal Pradesh Teacher Eligibility Test)</li>
+<li>HP Domicile Certificate (HP resident hona zaroori)</li>
+<li>Caste Certificate SC/ST/OBC/EWS — HP Government prescribed format mein</li>
+<li>Aadhaar Card</li>
+<li>Recent Passport Size Photographs (6-8 copies)</li>
+<li>Experience Certificate (agar applicable ho)</li>
+</ul>
 
-<h2>Important Instructions for Qualified Candidates</h2>
-<p>Candidates who qualify in the written exam must immediately download and save their scorecard. Keep all original documents ready for Document Verification — educational certificates, caste certificate, age proof (10th certificate), experience certificates if applicable, and recent passport-size photographs. Regularly check the official HPRCA website for updates regarding the Document Verification schedule and Interview dates. Do not wait for postal intimation — all updates are published only on the official website.</p>
+<h2>HPRCA TGT Non Medical — Job Profile aur Salary</h2>
+<p>Himachal Pradesh government schools mein TGT (Non Medical) ka kaam Class 6 se 10 tak students ko Physics, Chemistry, Mathematics ya Biology padhana hota hai. Teachers ko regular academic activities ke alawa extracurricular activities, exam duties aur administrative kaam bhi karne padte hain. Job posting HP ke different districts mein hoti hai — posting preference apply karte waqt ya DV stage par le sakte hain but final posting administration decide karti hai.</p>
+<p>Salary HP Pay Matrix ke anusaar milti hai — TGT post Level 8 ya Level 9 par hoti hai jo <strong>approximately Rs. 35,400 to Rs. 44,900/month</strong> starting basic pay hai. Dearness Allowance (DA), HRA, Medical Allowance aur other HP government allowances milate hain to in-hand salary approximately <strong>Rs. 45,000 – Rs. 55,000/month</strong> hoti hai. Regular government service mein pension (NPS), leave benefits, medical facilities aur job security milti hai.</p>
 
-<h2>Documents Required at HPRCA TGT Document Verification</h2>
-<p>Educational qualification certificates from 10th onwards, Degree and B.Ed/TET/CTET certificate, HP domicile certificate, Category certificate (SC/ST/OBC/EWS) in HP Government format, Date of Birth proof, Experience certificate (if claimed), No Objection Certificate (if currently employed), and all other certificates as mentioned in the original notification.</p>
+<h2>HPRCA — Active Recruitment 2026 (Abhi Apply Karein)</h2>
+<p>HPRCA ke paas abhi kaafi active recruitments hain jinmein qualified candidates apply kar sakte hain:</p>
+<table class="detail-table"><thead><tr><th>Post</th><th>Vacancies</th><th>Last Date</th></tr></thead>
+<tbody>
+<tr><td>TGT / Teacher Various Posts</td><td>894</td><td>14 May 2026</td></tr>
+<tr><td>Teachers Jobs</td><td>808</td><td>08 May 2026</td></tr>
+<tr><td>PGT Teacher</td><td>390</td><td>04 May 2026</td></tr>
+<tr><td>Junior Engineer</td><td>149</td><td>02 May 2026</td></tr>
+<tr><td>Pharmacist</td><td>41</td><td>20 May 2026</td></tr>
+<tr><td>Coach</td><td>14</td><td>19 May 2026</td></tr>
+</tbody></table>
 
-<h2>Active HPRCA Recruitment 2026 – Apply Now</h2>
-<p>HPRCA currently has multiple active recruitment drives. TGT (Medical Science) – 894 Posts (last date 14 May 2026), TGT Various Posts – 808 Posts (last date 8 May 2026), PGT Teacher – 390 Posts (last date 4 May 2026), Junior Engineer – 149 Posts (last date 2 May 2026), and Pharmacist – 41 Posts (last date 20 May 2026). Eligible candidates can apply online at hprca.hp.gov.in.</p>
-
-<h2>FAQs – HPRCA TGT Non Medical Result 2026</h2>
-<p><strong>Q: When was HPRCA TGT Non Medical Result 2026 declared?</strong><br>A: HPRCA officially declared the TGT (Non Medical) Result 2026 on 20 April 2026 at hprca.hp.gov.in.</p>
-<p><strong>Q: How can I download my individual scorecard?</strong><br>A: Visit hprca.hp.gov.in → Result section → Enter your Registration Number and Date of Birth to access and download your individual scorecard.</p>
-<p><strong>Q: What is the next step after qualifying in TGT Non Medical exam?</strong><br>A: Qualified candidates will be called for Document Verification and/or Interview. Dates will be announced on hprca.hp.gov.in. Keep all original documents ready in advance.</p>
+<h2>FAQs — HPRCA TGT Non Medical Result 2026</h2>
+<p><strong>Q: HPRCA TGT Non Medical Result 2026 kab aaya?</strong><br>A: HPRCA ne TGT (Non Medical) Written Examination Result 2026 officially 20 April 2026 ko hprca.hp.gov.in par declare kiya.</p>
+<p><strong>Q: Individual scorecard kaise download karein?</strong><br>A: hprca.hp.gov.in par jaao → Result section → TGT Non Medical Result → Registration Number aur Date of Birth enter karo → Scorecard download karo.</p>
+<p><strong>Q: Document Verification kab hogi?</strong><br>A: DV ki dates abhi announce nahi ki hain. Official website hprca.hp.gov.in par regularly check karte raho ya HPRCA helpline se contact karo.</p>
+<p><strong>Q: Result mein naam nahi hai — kya karu?</strong><br>A: Agar aap exam mein shamil hue the aur result mein naam nahi hai toh turant HPRCA office se contact karo. Discrepancy jaldi report karo — zyada der karne par dikkat ho sakti hai.</p>
+<p><strong>Q: Scorecard par details galat hain — kya karna chahiye?</strong><br>A: Koi bhi discrepancy — naam, DOB, category — immediately official website par report karo ya HPRCA office mein complaint darj karo. DV ke time original documents se verify hoga.</p>
 `;
 
 // ===== JPSC JET ADMIT CARD 2026 =====
