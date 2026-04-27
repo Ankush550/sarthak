@@ -2467,3 +2467,346 @@ JOB_CONTENT["kurukshetra-court-clerk-result-2026"] = `
 <p><strong>Q: Typing Test mein kitni speed chahiye?</strong><br>A: Haryana courts mein generally minimum 30 wpm typing speed required hoti hai. Official notification mein exact requirement check karo.</p>
 <p><strong>Q: Result mein naam nahi hai — kya karu?</strong><br>A: Agar aap written exam diye the aur result mein naam nahi hai toh turant court office se contact karo. Discrepancy report karne ke liye zyada der mat karo.</p>
 `;
+
+// ===== UPCISB VARIOUS POSTS 2026 =====
+JOB_CONTENT["upcisb-various-posts-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-25">Published: 25 April 2026</time> &nbsp;|&nbsp; Updated: 25 April 2026
+</div>
+
+<h2>UPCISB UP Cooperative Bank Recruitment 2026 – 2085 Vacancies Apply Online</h2>
+<p><strong>U.P. Co-operative Institutional Service Board (UPCISB), Lucknow</strong> ne Combined Co-operative Banking, Non-Banking and Technical Services Examination (General Recruitment) 2026 ka notification Advertisement No. A-2/G.R./2026 ke under 14 April 2026 ko officially jaari kiya hai. Kul <strong>2085 permanent vacancies</strong> hain — Manager, Junior Manager, Assistant/Cashier, Assistant Manager, Accountant, Junior Assistant, Stenographer, Junior Engineer (Civil/Electrical), aur Assistant Engineer (Civil/Electrical) posts ke liye District Co-operative Banks aur Co-operative Federations across Uttar Pradesh mein. Online applications <strong>25 April 2026</strong> se shuru hain aur <strong>last date 15 May 2026</strong> hai। Apply karo upcisb.upsdc.gov.in par.</p>
+
+<p>UPCISB ek state-level recruitment body hai jo Uttar Pradesh ke cooperative banking aur federation sector ke liye qualified candidates select karti hai. In posts par permanent government job milti hai — yeh contract ya adhoc nahi hain. Uttar Pradesh ke residents ke liye yeh ek bahut bada opportunity hai banking, accounting, engineering aur clerical fields mein career banane ka. 2085 vacancies ek saath nikalna ek rare event hai — aise mauke baar baar nahi aate.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>14 April 2026</td></tr>
+<tr><td>Online Application Start</td><td><strong>25 April 2026</strong></td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">15 May 2026</strong></td></tr>
+<tr><td>Advertisement No.</td><td>A-2/G.R./2026</td></tr>
+</tbody></table>
+
+<h2>Post-wise Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post Name</th><th>Institution</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Manager</td><td>District Co-operative Bank</td><td>65</td></tr>
+<tr><td>Junior Manager</td><td>District Co-operative Bank</td><td>486</td></tr>
+<tr><td>Assistant/Cashier (Banking Asst/Clerical)</td><td>District Co-operative Bank</td><td>887</td></tr>
+<tr><td>Assistant Manager (Computer)</td><td>U.P. Co-operative Bank Ltd.</td><td>10</td></tr>
+<tr><td>Assistant Manager (General)</td><td>U.P. Co-operative Bank + Federation</td><td>42 + 78 = 120</td></tr>
+<tr><td>Accountant / Assistant Accountant</td><td>Various Federations</td><td>58</td></tr>
+<tr><td>Junior Assistant / Stenographer</td><td>Various</td><td>54</td></tr>
+<tr><td>Junior Engineer (Civil/Electrical)</td><td>Federations</td><td>218</td></tr>
+<tr><td>Assistant Engineer (Civil/Electrical)</td><td>Federations</td><td>34</td></tr>
+<tr><td><strong>Total</strong></td><td></td><td><strong>2085</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification (Post-wise)</h3>
+<p><strong>Manager / Junior Manager:</strong> Graduate degree in relevant discipline from recognised university. Banking/Finance/Management qualification preferred.</p>
+<p><strong>Assistant/Cashier (Clerical):</strong> Graduation any stream with computer knowledge (CCC ya O Level certificate).</p>
+<p><strong>Accountant / Assistant Accountant:</strong> B.Com with 50% marks + O Level Diploma in Computer Operations from NIELIT.</p>
+<p><strong>Junior Assistant / Typist / Stenographer:</strong> Graduation with CCC/O Level computer certificate + typing speed 30 wpm (Hindi) aur 40 wpm (English) on computer. Stenographer ke liye shorthand 80 wpm bhi zaroori.</p>
+<p><strong>Junior Engineer (Civil/Electrical):</strong> Diploma ya B.E./B.Tech in Civil/Electrical Engineering.</p>
+<p><strong>Assistant Engineer (Civil/Electrical):</strong> B.E./B.Tech in Civil/Electrical Engineering from recognised university.</p>
+
+<h3>Age Limit (as on 01 January 2026)</h3>
+<table class="detail-table"><thead><tr><th>Category</th><th>Age Limit</th></tr></thead>
+<tbody>
+<tr><td>General / EWS</td><td>21 to 40 years</td></tr>
+<tr><td>SC / ST / OBC / Sports / UP Govt Employees</td><td>21 to 45 years (5 year relaxation)</td></tr>
+<tr><td>Divyangjan (PwD) — UP</td><td>Up to 55 years</td></tr>
+<tr><td>Ex-Servicemen</td><td>Service period + 3 years</td></tr>
+</tbody></table>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>Unreserved / OBC / EWS</td><td><strong>Rs. 500/-</strong></td></tr>
+<tr><td>SC / ST</td><td><strong>Rs. 250/-</strong></td></tr>
+</tbody></table>
+<p>Payment sirf online mode se — Debit Card, Credit Card, Internet Banking, UPI, IMPS, Cash Card ya Mobile Wallet. Fee non-refundable hai.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 — Preliminary Examination (if required):</strong> Online objective type test. Prelims mein qualify karne par vacancies ke 15 guna candidates mains ke liye shortlist honge.</p>
+<p><strong>Stage 2 — Main Examination:</strong> Online objective type MCQ test with 1/4 negative marking per wrong answer. Main se interview ke liye 3 guna aur proficiency test ke liye 5 guna candidates shortlist honge.</p>
+<p><strong>Stage 3 — Interview / Proficiency Test:</strong> Jo posts mein typing/stenography prescribed hai unhe proficiency test dena hoga. Interview kuch posts ke liye applicable hoga.</p>
+<p><strong>Final Selection:</strong> Main Exam + Interview/Proficiency Test ke combined marks se merit list. All posts permanent hain.</p>
+
+<h2>How to Apply — UPCISB 2026</h2>
+<ol>
+<li>Official website par jaao: <strong>https://www.upcisb.upsdc.gov.in</strong></li>
+<li>"New Registration" par click karo — name, mobile, email se register karo</li>
+<li>Application form carefully fill karo "Save and Next" option use karke</li>
+<li>Scanned photograph, signature, left thumb impression aur handwritten declaration upload karo prescribed format mein</li>
+<li>Application fee online gateway se pay karo</li>
+<li>Final submit karo aur e-receipt + application form printout rakh lo</li>
+</ol>
+<p><strong>Important:</strong> "Complete Registration" click karne ke baad koi bhi detail change nahi hogi — sabhi information original certificates se match karni chahiye.</p>
+
+<h2>UPCISB ke baare mein</h2>
+<p>U.P. Co-operative Institutional Service Board (UPCISB) Uttar Pradesh sarkar ki apex recruitment body hai cooperative banking aur federation sector ke liye. UP mein District Co-operative Banks har district mein hain jo kisan loans, savings aur deposits handle karte hain. UPCISB in banks ke liye Manager se lekar Clerk tak sabhi posts ka selection karti hai. UPCISB mein job permanent hoti hai aur UP government pay scales apply hoti hain.</p>
+
+<h2>FAQs — UPCISB Recruitment 2026</h2>
+<p><strong>Q: Kya yeh posts permanent hain ya contract?</strong><br>A: Yeh sabhi posts permanent hain — Cooperative Banks aur Federations mein regular government service.</p>
+<p><strong>Q: Computer certificate zaroori hai kya?</strong><br>A: Haan, Accountant, Junior Assistant, Typist, Stenographer posts ke liye CCC ya O Level certificate from NIELIT mandatory hai.</p>
+<p><strong>Q: Kya outside UP ke candidates apply kar sakte hain?</strong><br>A: Haan, Indian citizens apply kar sakte hain lekin UP domicile candidates ko preference mil sakti hai specific posts mein.</p>
+`;
+
+// ===== SSC STENOGRAPHER 2026 =====
+JOB_CONTENT["ssc-stenographer-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-25">Published: 25 April 2026</time> &nbsp;|&nbsp; Updated: 25 April 2026
+</div>
+
+<h2>SSC Stenographer Grade C & D Recruitment 2026 – 731 Posts Apply Online</h2>
+<p><strong>Staff Selection Commission (SSC)</strong>, Ministry of Personnel, Public Grievances & Pensions, Government of India ne Stenographer Grade C & D Examination 2026 ka official notification F. No. E1/32/026-C-2 ke through <strong>24 April 2026</strong> ko jaari kiya hai. Karib <strong>731 tentative vacancies</strong> hain Central Government ke different Ministries, Departments aur Organisations mein. Stenographer Grade C Group B Non-Gazetted post hai aur Grade D Group C post hai. Online applications 24 April se open hain aur <strong>last date 15 May 2026 (raat 11 baje)</strong> hai. Fee payment last date 16 May 2026 hai। Apply karo ssc.gov.in par.</p>
+
+<p>SSC Stenographer ek prestigious Central Government job hai — Grade C mein Pay Level 7 (Rs. 44,900-1,42,400) aur Grade D mein Pay Level 4 (Rs. 25,500-81,100). Stenographer ke roop mein kaam karna interesting hota hai — senior officers ke saath directly kaam karna, confidential work handle karna, aur career growth ke bahut opportunities milte hain. 12th pass candidates ke liye SSC Steno central government mein seedha entry ka sabse achha mauka hai.</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>24 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>24 April 2026</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">15 May 2026 (23:00 hrs)</strong></td></tr>
+<tr><td>Fee Payment Last Date</td><td>16 May 2026 (23:00 hrs)</td></tr>
+<tr><td>Correction Window</td><td>20-21 May 2026</td></tr>
+<tr><td>Computer Based Exam</td><td>July-August 2026 (Tentative)</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Group</th><th>Pay Level</th><th>Vacancies</th></tr></thead>
+<tbody>
+<tr><td>Stenographer Grade C</td><td>Group B Non-Gazetted</td><td>Level 7 (Rs. 44,900+)</td><td>~232</td></tr>
+<tr><td>Stenographer Grade D</td><td>Group C</td><td>Level 4 (Rs. 25,500+)</td><td>~499</td></tr>
+<tr><td><strong>Total (Tentative)</strong></td><td></td><td></td><td><strong>~731</strong></td></tr>
+</tbody></table>
+<p>Note: Exact category-wise vacancies baad mein update hongi ssc.gov.in par. Candidates regularly check karte rahein.</p>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification</h3>
+<p>Dono posts (Grade C aur Grade D) ke liye minimum qualification <strong>12th Standard ya equivalent</strong> kisi recognised Board/University se hai. Stenography skill mandatory hai jo Skill Test mein assess ki jaayegi.</p>
+
+<h3>Age Limit (as on 01 August 2026)</h3>
+<table class="detail-table"><thead><tr><th>Category</th><th>Grade C</th><th>Grade D</th></tr></thead>
+<tbody>
+<tr><td>UR (General)</td><td>18 to 30 years</td><td>18 to 27 years</td></tr>
+<tr><td>OBC (NCL)</td><td>33 years (+3)</td><td>30 years (+3)</td></tr>
+<tr><td>SC / ST</td><td>35 years (+5)</td><td>32 years (+5)</td></tr>
+<tr><td>PwBD (UR/EWS)</td><td>40 years (+10)</td><td>37 years (+10)</td></tr>
+<tr><td>Ex-Servicemen (Grade C)</td><td>3 years after military deduction</td><td>3 years after deduction</td></tr>
+</tbody></table>
+
+<h2>Application Fee</h2>
+<p>General / OBC / EWS: <strong>Rs. 100/-</strong> (BHIM UPI / Net Banking / Visa / MasterCard / RuPay Debit/Credit Card se). SC / ST / PwBD / ESM / <strong>Women: Nil (koi fee nahi)</strong>.</p>
+
+<h2>Salary — SSC Stenographer</h2>
+<p><strong>Grade C (Pay Level 7):</strong> Basic pay Rs. 44,900 to Rs. 1,42,400. DA, HRA, TA, Medical aur other Central Government allowances milate hain to approximate in-hand <strong>Rs. 55,000-65,000/month</strong> hoti hai.</p>
+<p><strong>Grade D (Pay Level 4):</strong> Basic pay Rs. 25,500 to Rs. 81,100. In-hand approximately <strong>Rs. 35,000-42,000/month</strong> starting.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 — Computer Based Test (CBT):</strong> 200 marks, objective MCQ. General Intelligence & Reasoning (50 marks) + General Awareness (50 marks) + English Language & Comprehension (100 marks). Duration: 2 hours. Negative marking: 0.25 marks per wrong answer. Qualifying marks: 30% (UR), 25% (OBC/EWS), 20% (others).</p>
+<p><strong>Stage 2 — Skill Test in Stenography (Qualifying):</strong> Grade C — 100 words per minute (English ya Hindi). Grade D — 80 words per minute. 10 minutes dictation. Transcription on computer. Qualifying marks: 40% UR/EWS, 35% others. Yeh qualifying stage hai — final merit CBT marks se.</p>
+<p><strong>Stage 3 — Document Verification:</strong> User Departments DV conduct karenge. Original certificates required.</p>
+<p><strong>Final Merit:</strong> CBT marks ke basis par category-wise merit list. All India Service Liability apply hoti hai.</p>
+
+<h2>Typing Speed Preparation — How to Get 80/100 WPM</h2>
+<p>Stenography skill develop karna time leta hai — isliye abhi se start karo. Hindi stenography ke liye <strong>Devanagari shorthand</strong> (Kailash Chandra ya Pitman) practice karo roz minimum 1 ghanta. English stenography ke liye Pitman shorthand standard follow hota hai. Online resources: typingclub.com, indiatyping.com, aur government ke DOEACC/NIELIT course materials. Roz 10 wpm improve karna possible hai 4-5 hafton mein consistent practice se.</p>
+
+<h2>How to Apply — SSC Stenographer 2026</h2>
+<ol>
+<li>ssc.gov.in par jaao → One Time Registration (OTR) complete karo pehle baar</li>
+<li>Login karo → Stenographer Grade C & D 2026 select karo</li>
+<li>Application form fill karo — webcam se live photo capture karo</li>
+<li>Signature upload karo (10-20 KB, JPEG format)</li>
+<li>Fee bharo (applicable ho to) — 16 May 2026 tak</li>
+<li>Correction window 20-21 May ke beech mistakes sudharo</li>
+<li>Application printout rakh lo — email/mobile active rakhо</li>
+</ol>
+
+<h2>FAQs — SSC Stenographer 2026</h2>
+<p><strong>Q: Kya 10th pass candidates apply kar sakte hain SSC Steno ke liye?</strong><br>A: Nahi. Minimum qualification 12th Standard (10+2) ya equivalent hai. 10th pass candidates eligible nahi hain.</p>
+<p><strong>Q: Kya sirf English stenography karna hoga ya Hindi bhi?</strong><br>A: Candidates ko apply karte waqt medium (English ya Hindi) choose karna hota hai. Dono medium mein separate cut-offs hain.</p>
+<p><strong>Q: Grade C aur Grade D mein kya difference hai?</strong><br>A: Grade C Group B Non-Gazetted hai (Pay Level 7, higher pay) aur Grade D Group C hai (Pay Level 4). Grade C ki age limit bhi zyada hai (30 vs 27 years UR).</p>
+`;
+
+// ===== IFFCO GET 2026 =====
+JOB_CONTENT["iffco-get-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-25">Published: 25 April 2026</time> &nbsp;|&nbsp; Updated: 25 April 2026
+</div>
+
+<h2>IFFCO Graduate Engineer Trainee Recruitment 2026 – Rs. 65,000/Month Stipend Apply Online</h2>
+<p><strong>Indian Farmers Fertiliser Cooperative Limited (IFFCO)</strong>, jo India ki sabse badi cooperative fertiliser company hai, ne <strong>Graduate Engineer Trainee (GET) Recruitment 2026</strong> ka notification official portal www.iffco.in par release kiya hai. Chemical, Mechanical, Electrical, Instrumentation & Electronics, Civil, IT, Computer Science aur Artificial Intelligence streams ke fresh engineering graduates apply kar sakte hain। Last date <strong>30 April 2026</strong> hai — bahut kam time hai! Direct apply link: aavedan.iffco.coop/GETRecruitment/.</p>
+
+<p>IFFCO India ki top fertiliser companies mein se ek hai — Aonla, Phulpur, Kalol, Kandla, Paradeep aur Oman (OMIFCO) mein plants hain। IFFCO GET training ek excellent career launchpad hai — ek saal ki intensive training ke baad performance ke basis par regular engineer position milne ki possibility hoti hai। Rs. 65,000/month stipend freshers ke liye bahut competitive hai — government PSU ka background, world-class plants, aur agriculture sector mein meaningful contribution करने का mauka।</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Release</td><td>April 2026</td></tr>
+<tr><td>Application Status</td><td>Active (link live)</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">30 April 2026 ⚠️ KAL LAST DATE!</strong></td></tr>
+<tr><td>Age Cut-off Date</td><td>30 April 2026</td></tr>
+<tr><td>Preliminary Online Test</td><td>To be notified</td></tr>
+<tr><td>Final Test + Interview</td><td>To be notified</td></tr>
+</tbody></table>
+
+<h2>Eligible Disciplines</h2>
+<table class="detail-table"><thead><tr><th>Post</th><th>Engineering Branches</th><th>Nature</th></tr></thead>
+<tbody>
+<tr><td rowspan="8">Graduate Engineer Trainee (GET)</td><td>Chemical Engineering</td><td rowspan="8">1 Year Training</td></tr>
+<tr><td>Mechanical Engineering</td></tr>
+<tr><td>Electrical Engineering</td></tr>
+<tr><td>Instrumentation & Electronics</td></tr>
+<tr><td>Civil Engineering</td></tr>
+<tr><td>Information Technology (IT)</td></tr>
+<tr><td>Computer Science Engineering</td></tr>
+<tr><td>Artificial Intelligence (AI)</td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification</h3>
+<p>B.E./B.Tech in any of the above specified disciplines from UGC/AICTE recognized University/Institute. Marks criteria: <strong>General / OBC candidates — minimum 60% aggregate</strong>. SC / ST candidates — minimum 55% aggregate. CGPA holders ko percentage convert karke enter karna hoga institutional norms ke anusaar.</p>
+<p><strong>Year of Passing:</strong> Candidates who passed in 2023 ya baad mein eligible hain. Jo candidates final semester mein hain jinke results August 2026 tak expected hain woh bhi apply kar sakte hain.</p>
+
+<h3>Age Limit</h3>
+<table class="detail-table"><thead><tr><th>Category</th><th>Maximum Age (as on 30 April 2026)</th></tr></thead>
+<tbody>
+<tr><td>General</td><td>30 years</td></tr>
+<tr><td>OBC (Non-Creamy Layer)</td><td>33 years (+3 years)</td></tr>
+<tr><td>SC / ST</td><td>35 years (+5 years)</td></tr>
+</tbody></table>
+
+<h2>Stipend During Training</h2>
+<p>Selected GETs ko ek saal ki training period mein approximately <strong>Rs. 65,000/- per month</strong> total stipend milti hai jismein HRA, Canteen Allowance, Washing Allowance aur Provident Fund contribution shamil hai। Training ke baad performance-based evaluation hoti hai. Posting kisi bhi IFFCO plant PAN India mein ho sakti hai — positions transferable hain.</p>
+
+<h2>Application Fee</h2>
+<p>IFFCO GET 2026 ke liye koi application fee nahi hai. Official portal par fee ka koi mention nahi — application free of cost hai.</p>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 — Preliminary Online Test:</strong> Open environment mein — candidates apne computer/laptop se internet ke through participate karte hain. Shortlisted candidates ko final test ke liye bulaya jaata hai.</p>
+<p><strong>Stage 2 — Final Online Test:</strong> Designated centres par controlled environment mein conduct hoga. Technical knowledge, aptitude aur reasoning assess kiya jaata hai.</p>
+<p><strong>Stage 3 — Personal Interview:</strong> Final online test ke basis par shortlisted candidates ka interview IFFCO panel ke samne hoga.</p>
+<p><strong>Stage 4 — Medical Examination:</strong> Selected candidates IFFCO ke authorized medical centre par medical examination se guzarte hain। Medically fit hona joining ke liye mandatory hai।</p>
+
+<h2>IFFCO ke baare mein — Why Join IFFCO?</h2>
+<p>Indian Farmers Fertiliser Cooperative Limited (IFFCO) 1967 mein establish hua tha aur aaj India ka sabse bada cooperative hai। IFFCO ke 5 major fertiliser plants hain — Aonla (UP), Phulpur (UP), Kalol (Gujarat), Kandla (Gujarat) aur Paradeep (Odisha) mein। International level par IFFCO ka OMIFCO (Oman) plant bhi hai। IFFCO innovative technologies mein invest karti hai — nano urea, nano DAP — aur agri-tech mein India ki leader hai। IFFCO GET engineers ko world-class manufacturing processes ka exposure milta hai।</p>
+
+<h2>How to Apply — IFFCO GET 2026</h2>
+<ol>
+<li>Direct application portal par jaao: <strong>https://aavedan.iffco.coop/GETRecruitment/</strong></li>
+<li>Valid email ID aur mobile number se register karo</li>
+<li>Personal details, educational qualification, discipline aur category accurately fill karo</li>
+<li>CGPA ko percentage mein convert karo — exactly enter karo</li>
+<li>All information review karo aur 30 April 2026 se pehle submit karo</li>
+<li>Acknowledgement/registration number note karo — future reference ke liye</li>
+</ol>
+
+<h2>FAQs — IFFCO GET 2026</h2>
+<p><strong>Q: IFFCO GET ke baad permanent job milti hai?</strong><br>A: Ek saal training ke baad performance ke basis par regular engineer position mil sakti hai IFFCO management ke discretion par — guaranteed nahi hai but most GETs confirm hote hain।</p>
+<p><strong>Q: Final year students apply kar sakte hain?</strong><br>A: Haan! Jo candidates final semester mein hain jinke results August 2026 tak expected hain woh bhi eligible hain। Results aane par proof submit karna hoga।</p>
+<p><strong>Q: Koi ek specific branch ke liye seats fix hain?</strong><br>A: Exact vacancies discipline-wise specify nahi ki gayi hain। IFFCO organizational requirement ke basis par hire karega।</p>
+`;
+
+// ===== NMDC JUNIOR ENGINEER 2026 =====
+JOB_CONTENT["nmdc-junior-engineer-2026"] = `
+<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-04-25">Published: 25 April 2026</time> &nbsp;|&nbsp; Updated: 25 April 2026
+</div>
+
+<h2>NMDC Junior Engineer Mining Recruitment 2026 – 59 Posts Apply Online at nmdc.co.in</h2>
+<p><strong>NMDC Limited</strong>, jo ek Navaratna Public Sector Enterprise hai Ministry of Steel, Government of India ke under, ne Employment Notification No. 04/2026 dated 22 April 2026 ke zariye <strong>Junior Engineer (Mining) Recruitment 2026</strong> ke liye applications invite ki hain। Kul <strong>59 contractual vacancies</strong> hain — Diploma in Mining Engineering holders ke liye। Consolidated pay <strong>Rs. 60,000/- per month</strong> hai। Online applications 22 April 2026 se active hain aur <strong>last date 06 May 2026 (11:45 PM)</strong> hai। Apply karo www.nmdc.co.in → Careers section se।</p>
+
+<p>NMDC (National Mineral Development Corporation) India ka sabse bada iron ore producer aur exporter hai। Chhattisgarh aur Karnataka mein NMDC ke major mining operations hain। NMDC ke saath join karna core mining sector mein hands-on experience paane ka ek bahut achha mauka hai। Contractual engagement initially 3 saal ka hai lekin performance ke basis par extend ho sakta hai। Rs. 60,000/month consolidated pay entry-level mining engineers ke liye competitive hai।</p>
+
+<h2>Important Dates</h2>
+<table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Notification Date</td><td>22 April 2026</td></tr>
+<tr><td>Online Application Start</td><td>22 April 2026 (10:00 AM)</td></tr>
+<tr><td>Last Date to Apply</td><td><strong style="color:#c0392b;">06 May 2026 (11:45 PM)</strong></td></tr>
+<tr><td>Supervisory Skill Assessment</td><td>To be notified on nmdc.co.in</td></tr>
+<tr><td>Employment Notification No.</td><td>04/2026</td></tr>
+</tbody></table>
+
+<h2>Vacancy Details — Category-wise</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Posts</th></tr></thead>
+<tbody>
+<tr><td>Unreserved (UR)</td><td>27</td></tr>
+<tr><td>OBC (Non-Creamy Layer)</td><td>15</td></tr>
+<tr><td>SC (Scheduled Caste)</td><td>8</td></tr>
+<tr><td>ST (Scheduled Tribe)</td><td>4</td></tr>
+<tr><td>EWS (Economically Weaker Section)</td><td>5</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>59</strong></td></tr>
+</tbody></table>
+
+<h2>Eligibility Criteria</h2>
+<h3>Educational Qualification</h3>
+<p><strong>Mandatory:</strong> 3-year <strong>Diploma in Mining Engineering</strong> from UGC/AICTE/Government of India recognized University/Institution. Koi higher qualification (degree ya postgrad) diploma ki jagah substitute nahi kar sakti — specifically Diploma in Mining Engineering zaroori hai। <strong>Desirable:</strong> Foreman's Certificate of Competency for metalliferous mines — mandatory nahi but selection mein advantage milega।</p>
+
+<h3>Age Limit (as on 06 May 2026)</h3>
+<table class="detail-table"><thead><tr><th>Category</th><th>Maximum Age</th></tr></thead>
+<tbody>
+<tr><td>General / EWS</td><td>50 years</td></tr>
+<tr><td>OBC (Non-Creamy Layer)</td><td>53 years (+3 years)</td></tr>
+<tr><td>SC / ST</td><td>55 years (+5 years)</td></tr>
+<tr><td>Ex-Servicemen</td><td>As per GoI guidelines</td></tr>
+</tbody></table>
+<p>Maximum age 50 saal rakhi gayi hai — experienced mining professionals ke liye yeh ek excellent opportunity hai।</p>
+
+<h2>Application Fee</h2>
+<table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
+<tbody>
+<tr><td>General / OBC / EWS</td><td><strong>Rs. 250/-</strong> (non-refundable)</td></tr>
+<tr><td>SC / ST / Ex-Servicemen / Departmental Candidates</td><td><strong>Nil (exempt)</strong></td></tr>
+</tbody></table>
+<p>Payment online via UPI / Credit Card / Net Banking through SBI Collect।</p>
+
+<h2>Remuneration & Benefits</h2>
+<table class="detail-table"><thead><tr><th>Component</th><th>Details</th></tr></thead>
+<tbody>
+<tr><td>Consolidated Pay</td><td><strong>Rs. 60,000/- per month</strong></td></tr>
+<tr><td>Annual Increment</td><td>Up to 5% based on performance</td></tr>
+<tr><td>HRA</td><td>As applicable</td></tr>
+<tr><td>TA/DA</td><td>For official tours</td></tr>
+<tr><td>Accidental Insurance</td><td>Covered during employment</td></tr>
+<tr><td>Outpatient Medical</td><td>Rs. 35,000/year self-treatment</td></tr>
+<tr><td>Casual Leave</td><td>12 days/year</td></tr>
+<tr><td>Medical Leave</td><td>20 days/year</td></tr>
+<tr><td>Contract Period</td><td>Up to 3 years (extendable) or age 60, whichever earlier</td></tr>
+</tbody></table>
+
+<h2>Selection Process</h2>
+<p><strong>Stage 1 — Document Verification:</strong> Candidates ko original documents ke saath DV ke liye bulaya jayega। Valid documents wale candidates hi aage proceed kar sakte hain।</p>
+<p><strong>Stage 2 — Supervisory Skill Assessment:</strong> NMDC committee conduct karegi। Technical knowledge aur practical mining skills assess honge। Merit list assessment performance ke basis par banti hai।</p>
+<p><strong>Stage 3 — Medical Fitness Test:</strong> Selected candidates ko NMDC authorized hospital/centre par medical examination dena hoga। Mining environment ke liye medically fit hona mandatory hai।</p>
+
+<h2>How to Apply — NMDC JE Mining 2026</h2>
+<ol>
+<li>Official NMDC website par jaao: <strong>www.nmdc.co.in</strong> → Careers → Employment Notification No. 04/2026</li>
+<li>Ya seedha link: <strong>https://nmdcjot.formflix.com/apply-online</strong></li>
+<li>Personal details fill karo — name aur DOB exactly 10th certificate se match karein</li>
+<li>Educational details enter karo — Mining Diploma details, marks/percentage</li>
+<li>Required documents upload karo: passport photo, 10th certificate, Diploma certificate, caste certificate (if applicable), Ex-SM certificate (if applicable), signature</li>
+<li>Application fee Rs. 250 online pay karo (exempt categories ko nahi)</li>
+<li>Transaction number aur application number note karo</li>
+<li>Application form printout download karo — future reference ke liye zaroori</li>
+</ol>
+<p>Technical issues ke liye: deskcontroller@gmail.com (10 AM to 6 PM, working days)। OBC certificate 6 months se zyada purana nahi hona chahiye। EWS certificate 2026-27 ke liye valid hona chahiye।</p>
+
+<h2>NMDC ke baare mein — India's Mining Giant</h2>
+<p>NMDC Limited (National Mineral Development Corporation) 1958 mein establish hua tha aur aaj iron ore production mein India ka #1 PSU hai। NMDC ke mines Chhattisgarh (Bacheli, Kirandul, Donimalai) aur Karnataka (Donimalai) mein hain। 2022-23 mein NMDC ne 40+ million tonnes iron ore produce kiya। NMDC ab steel manufacturing mein bhi entry kar chuka hai — Nagarnar Steel Plant, Chhattisgarh operate karti hai। NMDC mines mein kaam karna real-world mining experience hai — safety standards, modern equipment aur professional environment।</p>
+
+<h2>FAQs — NMDC JE Mining 2026</h2>
+<p><strong>Q: Kya B.Tech Mining Engineers bhi apply kar sakte hain?</strong><br>A: Nahi। Notification clearly bolta hai ki higher qualification (B.Tech) holders eligible nahi hain — specifically 3-year Diploma in Mining Engineering required hai।</p>
+<p><strong>Q: Contract 3 saal ke baad kya hoga?</strong><br>A: Contract extend ho sakta hai project requirements aur performance ke basis par NMDC Management ke approval se। Regular employment ka koi guarantee nahi।</p>
+<p><strong>Q: Ek se zyada applications submit kar sakte hain?</strong><br>A: Nahi। Sirf ek application submit karo। Multiple applications mein sirf latest valid hogi — baaki reject ho jayengi।</p>
+`;
