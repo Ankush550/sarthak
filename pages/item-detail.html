@@ -6,6 +6,16 @@
 <title id="pageTitle">Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Check latest government exam results, admit cards and answer keys on SarthakYojana.in">
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/item-detail.html">
+<script>
+  (function(){
+    var params = new URLSearchParams(window.location.search);
+    var type = params.get('type'), id = params.get('id');
+    if(id) {
+      document.getElementById('canonicalTag').href = 
+        'https://sarthakyojana.in/pages/item-detail.html?type=' + (type||'') + '&id=' + id;
+    }
+  })();
+</script>
 <link rel="stylesheet" href="../assets/style.css">
 <style>
 .item-hero{border-radius:3px;overflow:hidden;margin-bottom:12px;}
@@ -46,19 +56,7 @@
     });
   </script>
   <!-- Google Publisher Center – Subscribe with Google -->
-  <script async type="application/javascript"
-          src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
-  <script>
-    (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-      basicSubscriptions.init({
-        type: "NewsArticle",
-        isPartOfType: ["Product"],
-        isPartOfProductId: "CAow4KXGDA:openaccess",
-        clientOptions: { theme: "light", lang: "hi" },
-      });
-    });
-  </script>
-</head>
+  </head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
@@ -126,6 +124,10 @@ if (!dataset || !meta) {
 
   if (!item) {
     document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Item not found. <a href="results.html">Browse All</a></p>';
+  var noindexMeta = document.createElement('meta');
+  noindexMeta.name = 'robots'; noindexMeta.content = 'noindex,follow';
+  document.head.appendChild(noindexMeta);
+  document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
   } else {
     // Page meta
     document.title = item.title + ' | SarthakYojana.in';

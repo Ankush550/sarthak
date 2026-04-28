@@ -6,6 +6,16 @@
 <title id="pageTitle">Job Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Complete government job details with eligibility, vacancies, salary and apply link.">
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/job-detail.html">
+<script>
+  // Set canonical immediately before Google crawls
+  (function(){
+    var id = new URLSearchParams(window.location.search).get('id');
+    if(id) {
+      document.getElementById('canonicalTag').href = 
+        'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
+    }
+  })();
+</script>
 <link rel="stylesheet" href="../assets/style.css">
 <style>
 .detail-table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:12.5px;}
@@ -38,19 +48,7 @@
     });
   </script>
   <!-- Google Publisher Center – Subscribe with Google -->
-  <script async type="application/javascript"
-          src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
-  <script>
-    (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-      basicSubscriptions.init({
-        type: "NewsArticle",
-        isPartOfType: ["Product"],
-        isPartOfProductId: "CAow4KXGDA:openaccess",
-        clientOptions: { theme: "light", lang: "hi" },
-      });
-    });
-  </script>
-</head>
+  </head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
@@ -183,6 +181,13 @@ if (job && (!job.status || job.status === 'closed')) {
 
 if (!job) {
   document.getElementById('quickCard').innerHTML = '<div class="content-article"><p style="text-align:center;color:#c0392b;padding:20px;">Job not found. <a href="jobs.html">Browse All Jobs</a></p></div>';
+  // Tell Google not to index this "not found" page
+  var noindexMeta = document.createElement('meta');
+  noindexMeta.name = 'robots';
+  noindexMeta.content = 'noindex,follow';
+  document.head.appendChild(noindexMeta);
+  // Set canonical to jobs list page
+  document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/jobs.html';
 } else {
   // Page title & meta
   const pageTitle = job.title + ' – ' + job.organization + ' Recruitment 2026 | SarthakYojana';
