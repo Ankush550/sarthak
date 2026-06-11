@@ -15,7 +15,7 @@ img{max-width:100%;}
 /* ===== NAV ===== */
 #site-nav{background:#1a1a1a;border-bottom:2px solid #c0392b;}
 .nav-inner{max-width:900px;margin:0 auto;text-align:center;padding:0;}
-.nav-inner a{color:#ddd;display:inline-block;padding:10px 14px;font-size:13px;border-right:1px solid #333;font-family:'Segoe UI',Arial,sans-serif;}
+.nav-inner a{color:#ddd;display:inline-block;padding:10px 14px;font-size:16px;border-right:1px solid #333;font-family:'Segoe UI',Arial,sans-serif;}
 .nav-inner a:hover,.nav-inner a.active{background:#c0392b;color:#fff;text-decoration:none;}
 
 /* ===== TAGLINE ===== */
