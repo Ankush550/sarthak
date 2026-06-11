@@ -34,21 +34,21 @@ img{max-width:100%;}
 .center{max-width:900px;margin:0 auto;padding:10px;}
 
 /* ===== WHATSAPP ===== */
-.wa-btn{display:block;width:fit-content;margin:8px auto 10px;background:#25D366;color:#fff;padding:8px 22px;border-radius:20px;font-size:13px;font-weight:700;}
+.wa-btn{display:block;width:fit-content;margin:200px auto 10px;background:#25D366;color:#6212f6;padding:8px 22px;border-radius:20px;font-size:18px;font-weight:800;}
 .wa-btn:hover{background:#1da851;color:#fff;text-decoration:none;}
 
 /* ===== QUICK LINKS ===== */
-.quick-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;margin:8px 0;}
-.qlink{padding:9px 6px;text-align:center;font-size:12px;font-weight:700;color:#fff;border-radius:3px;display:block;line-height:1.3;}
+.quick-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:8px 0;}
+.qlink{padding:9px 6px;text-align:center;font-size:16px;font-weight:700;color:#fff;border-radius:3px;display:block;line-height:1.3;}
 .qlink:hover{opacity:.88;color:#fff;text-decoration:none;}
-.qlink small{display:block;font-size:10.5px;font-weight:400;margin-top:2px;}
+.qlink small{display:block;font-size:10.5px;font-weight:600;margin-top:4px;}
 .ql-red{background:#c0392b;}
-.ql-green{background:#27ae60;}
+.ql-green{background:#27ae60;}  
 .ql-blue{background:#2980b9;}
-.ql-orange{background:#e67e22;}
+.ql-orange{background:#df6800;}
 
 /* ===== 3-COL GRID ===== */
-.three-col{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:8px 0;}
+.three-col{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin:8px 0;}
 
 /* ===== SECTION BOX ===== */
 .sec-box{background:#fff;border:1px solid #ddd;border-radius:3px;overflow:hidden;}
