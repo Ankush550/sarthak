@@ -7,10 +7,10 @@ ul{list-style:none;}
 img{max-width:100%;}
 
 /* ===== HEADER ===== */
-#site-header{background:#c0392b;}
-.hdr-inner{max-width:900px;margin:0 auto;padding:14px 10px;text-align:center;}
-.hdr-inner h1{color:#fff;font-size:26px;font-weight:900;letter-spacing:.5px;line-height:1.2;font-family:'Segoe UI',Arial,sans-serif;}
-.hdr-inner .hdr-sub{color:#ffcccc;font-size:12px;margin-top:4px;}
+#site-header{background:#339cb9;}
+.hdr-inner{max-width:900px;margin:0 auto;padding:150px 10px 14px 10px;text-align:center;}
+.hdr-inner h1{color:#fff;font-size:46px;font-weight:1200;letter-spacing:.5px;line-height:1.2;font-family:'Segoe UI',Arial,sans-serif;}
+.hdr-inner .hdr-sub{color:#bb3838;font-size:32px;margin-top:4px;font-weight: 700;}
 
 /* ===== NAV ===== */
 #site-nav{background:#1a1a1a;border-bottom:2px solid #c0392b;}
