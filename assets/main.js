@@ -1,7 +1,7 @@
 const SITE = {
   name: 'SarthakYojana',
   fullName: 'SarthakYojana.in',
-  tagline: 'Sarkari Naukri | Results | Admit Cards | Sarkari Yojana',
+  tagline: 'Ab Har Sarkari Yojana Hogi Aasan',
   url: 'https://sarthakyojana.in',
   waLink: 'https://wa.me/919999999999?text=Send+me+Job+Alerts',
   root: (()=>{
