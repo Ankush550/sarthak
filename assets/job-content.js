@@ -2809,8 +2809,10 @@ JOB_CONTENT["nmdc-junior-engineer-2026"] = `
 <p>NMDC Limited (National Mineral Development Corporation) 1958 mein establish hua tha aur aaj iron ore production mein India ka #1 PSU hai। NMDC ke mines Chhattisgarh (Bacheli, Kirandul, Donimalai) aur Karnataka (Donimalai) mein hain। 2022-23 mein NMDC ne 40+ million tonnes iron ore produce kiya। NMDC ab steel manufacturing mein bhi entry kar chuka hai — Nagarnar Steel Plant, Chhattisgarh operate karti hai। NMDC mines mein kaam karna real-world mining experience hai — safety standards, modern equipment aur professional environment।</p>
 
 <h2>FAQs — NMDC JE Mining 2026</h2>
-<p><strong>Q: Kya B.Tech Mining Engineers bhi apply kar sakte hain?</strong><br>A: Nahi। Notification clearly bolta hai ki higher qualification (B.Tech) holders eligible nahi hain — specifically 3-year Diploma in Mining Engineering required hai।</p>
+<strong>Q: Kya B.Tech Mining Engineers bhi apply kar sakte hain?</strong><br>A: Nahi। Notification clearly bolta hai ki higher qualification (B.Tech) holders eligible nahi hain — specifically 3-year Diploma in Mining Engineering required hai।</p>
 <p><strong>Q: Contract 3 saal ke baad kya hoga?</strong><br>A: Contract extend ho sakta hai project requirements aur performance ke basis par NMDC Management ke approval se। Regular employment ka koi guarantee nahi।</p>
 <p><strong>Q: Ek se zyada applications submit kar sakte hain?</strong><br>A: Nahi। Sirf ek application submit karo। Multiple applications mein sirf latest valid hogi — baaki reject ho jayengi।</p>
 `;
+
+
 
