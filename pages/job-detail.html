@@ -7,7 +7,6 @@
 <meta name="description" id="pageDesc" content="Complete government job details with eligibility, vacancies, salary and apply link.">
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/job-detail.html">
 <script>
-  // Set canonical immediately before Google crawls
   (function(){
     var id = new URLSearchParams(window.location.search).get('id');
     if(id) {
@@ -18,22 +17,248 @@
 </script>
 <link rel="stylesheet" href="../assets/style.css">
 <style>
-.detail-table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:12.5px;}
-.detail-table th{background:#c0392b;color:#fff;padding:6px 10px;text-align:left;}
-.detail-table tr:nth-child(even){background:#f9f9f9;}
-.detail-table td{padding:6px 10px;border:1px solid #e8e8e8;}
-.content-article{background:#fff;border:1px solid #ddd;border-radius:3px;padding:18px;margin-bottom:12px;font-size:13px;color:#333;line-height:1.75;}
-.content-article h2{font-size:16px;color:#c0392b;font-weight:700;margin:18px 0 8px;padding-bottom:5px;border-bottom:2px solid #eee;}
-.content-article h2:first-child{margin-top:0;}
-.content-article h3{font-size:14px;color:#333;font-weight:700;margin:12px 0 6px;}
-.content-article p{margin-bottom:10px;}
-.content-article ul,.content-article ol{padding-left:18px;margin-bottom:10px;}
-.content-article ul li,.content-article ol li{margin-bottom:4px;}
-.content-article strong{color:#222;}
-.content-article table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:12.5px;}
-.content-article table th{background:#c0392b;color:#fff;padding:6px 10px;text-align:left;}
-.content-article table tr:nth-child(even){background:#f9f9f9;}
-.content-article table td{padding:6px 10px;border:1px solid #e8e8e8;}
+
+/* ============================================================
+   QUICK INFO CARD — jd-box
+   ============================================================ */
+.jd-box {
+  background: #fff;
+  border: 0.5px solid #dde3f0;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 14px;
+  box-shadow: 0 2px 10px rgba(21,101,192,0.08);
+}
+
+.jd-title-bar {
+  background: linear-gradient(135deg, #1a237e 0%, #1565c0 100%);
+  padding: 14px 18px;
+}
+
+.jd-title-bar h1 {
+  color: #fff;
+  font-size: 15.5px;
+  font-weight: 700;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.jd-meta {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.jd-meta tr {
+  border-bottom: 0.5px solid #f0f2f8;
+  transition: background 0.15s;
+}
+
+.jd-meta tr:last-child {
+  border-bottom: none;
+}
+
+.jd-meta tr:hover {
+  background: #f4f7ff;
+}
+
+.jd-meta td:first-child {
+  width: 38%;
+  padding: 9px 16px;
+  font-size: 12px;
+  color: #5a6580;
+  font-weight: 600;
+  background: #f8f9fd;
+  border-right: 0.5px solid #eef0f8;
+  vertical-align: middle;
+}
+
+.jd-meta td:last-child {
+  padding: 9px 16px;
+  font-size: 13px;
+  color: #1a1a2e;
+  vertical-align: middle;
+}
+
+/* ============================================================
+   STATUS BADGES
+   ============================================================ */
+.badge-open {
+  display: inline-block;
+  background: #e8f5e9;
+  color: #1b5e20;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 3px 12px;
+  border-radius: 20px;
+  border: 1px solid #a5d6a7;
+  letter-spacing: 0.2px;
+}
+
+.badge-soon {
+  display: inline-block;
+  background: #fff8e1;
+  color: #e65100;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 3px 12px;
+  border-radius: 20px;
+  border: 1px solid #ffcc02;
+  letter-spacing: 0.2px;
+}
+
+.badge-closed {
+  display: inline-block;
+  background: #fce4ec;
+  color: #b71c1c;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 3px 12px;
+  border-radius: 20px;
+  border: 1px solid #ef9a9a;
+  letter-spacing: 0.2px;
+}
+
+/* ============================================================
+   ARTICLE WRAPPER
+   ============================================================ */
+.content-article {
+  background: #fff;
+  border: 0.5px solid #dde3f0;
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 12px;
+  font-size: 13px;
+  color: #333;
+  line-height: 1.8;
+  box-shadow: 0 1px 6px rgba(21,101,192,0.05);
+}
+
+/* ============================================================
+   ARTICLE HEADINGS
+   ============================================================ */
+.content-article h2 {
+  font-size: 14.5px;
+  color: #1a237e;
+  font-weight: 700;
+  margin: 22px 0 10px;
+  padding: 8px 12px 8px 14px;
+  background: #f0f4ff;
+  border-left: 4px solid #1565c0;
+  border-radius: 0 6px 6px 0;
+  line-height: 1.4;
+}
+
+.content-article h2:first-child {
+  margin-top: 0;
+}
+
+.content-article h3 {
+  font-size: 13.5px;
+  color: #1565c0;
+  font-weight: 700;
+  margin: 14px 0 7px;
+  padding-left: 10px;
+  border-left: 3px solid #90caf9;
+}
+
+.content-article p {
+  margin-bottom: 10px;
+}
+
+.content-article ul,
+.content-article ol {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.content-article ul li,
+.content-article ol li {
+  margin-bottom: 5px;
+}
+
+.content-article strong {
+  color: #1a1a2e;
+}
+
+/* ============================================================
+   TABLES — .detail-table (used in job-content.js articles)
+   ============================================================ */
+.detail-table,
+.content-article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 18px;
+  font-size: 12.5px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 0.5px solid #dde3f0;
+  box-shadow: 0 1px 4px rgba(21,101,192,0.06);
+}
+
+.detail-table thead tr,
+.content-article table thead tr {
+  background: linear-gradient(90deg, #1565c0 0%, #1976d2 100%);
+}
+
+.detail-table th,
+.content-article table th {
+  color: #fff;
+  padding: 9px 12px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  border: none;
+}
+
+.detail-table tbody tr,
+.content-article table tbody tr {
+  border-bottom: 0.5px solid #eef0f8;
+  transition: background 0.12s;
+}
+
+.detail-table tbody tr:last-child,
+.content-article table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.detail-table tbody tr:nth-child(even),
+.content-article table tbody tr:nth-child(even) {
+  background: #f6f8ff;
+}
+
+.detail-table tbody tr:hover,
+.content-article table tbody tr:hover {
+  background: #e8f0fe;
+}
+
+.detail-table td,
+.content-article table td {
+  padding: 8px 12px;
+  color: #2d2d2d;
+  vertical-align: top;
+  border: none;
+  border-right: 0.5px solid #eef0f8;
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+
+.detail-table td:last-child,
+.content-article table td:last-child {
+  border-right: none;
+}
+
+/* ============================================================
+   FALLBACK for old .detail-table without thead/tbody (tr:nth-child)
+   ============================================================ */
+.detail-table tr:nth-child(even) {
+  background: #f6f8ff;
+}
+
+.detail-table tr:first-child th {
+  background: linear-gradient(90deg, #1565c0 0%, #1976d2 100%);
+}
+
 </style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-8602963796651751" crossorigin="anonymous"></script>
   <!-- Google Analytics GA4 – G-HG8H9C38KD -->
@@ -47,8 +272,7 @@
       page_location: window.location.href
     });
   </script>
-  <!-- Google Publisher Center – Subscribe with Google -->
-  </head>
+</head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
@@ -58,7 +282,6 @@
 
   <!-- Quick Info Card -->
   <div id="quickCard"></div>
-
 
   <!-- Advertisements -->
   <div class="ad-banner-wrap">
@@ -82,9 +305,8 @@
     <h3 id="applyTitle">Apply Online</h3>
     <p id="applyMeta" style="font-size:12px;color:#666;margin-bottom:10px;"></p>
     <div id="applyLinks"></div>
-    <p style="font-size:11px;color:#999;margin-top:12px;font-style:italic;">Disclaimer: SarthakYojana.in is not the official recruitment authority. Always verify all details from the official website before applying. We are not responsible for any discrepancy in the information provided.</p>
+    <p style="font-size:14px;color:#000000;margin-top:12px;font-style:normal;">Disclaimer: SarthakYojana.in is not the official recruitment authority. Always verify all details from the official website before applying. We are not responsible for any discrepancy in the information provided.</p>
   </div>
-
 
   <!-- ===== NRI/US Section: Salary Converter + Timezone ===== -->
   <div id="nriBox" style="display:none;margin-top:10px;">
@@ -96,9 +318,7 @@
       </div>
       <div style="padding:12px 14px;">
         <p style="font-size:12px;color:#888;margin-bottom:10px;">Live approximate salary for NRI/OCI candidates (based on current exchange rates)</p>
-        <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;" id="currencyGrid">
-          <!-- Filled by JS -->
-        </div>
+        <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;" id="currencyGrid"></div>
         <p style="font-size:11px;color:#aaa;margin-top:8px;">* Rates are approximate. 1 USD ≈ ₹84 | 1 GBP ≈ ₹107 | 1 AED ≈ ₹23 | 1 CAD ≈ ₹62</p>
       </div>
     </div>
@@ -108,9 +328,7 @@
       <div class="sec-hdr" style="background:#0f3460;">
         <h2 style="color:#fff;font-size:13px;font-weight:700;">🕐 Last Date — World Timezones</h2>
       </div>
-      <div style="padding:12px 14px;" id="timezoneBox">
-        <!-- Filled by JS -->
-      </div>
+      <div style="padding:12px 14px;" id="timezoneBox"></div>
     </div>
 
     <!-- NRI Apply Guide -->
@@ -163,10 +381,8 @@ const job = all.find(j => j.id === id);
 if (job && (!job.status || job.status === 'closed')) {
   const ld = job.lastDate || job.lastDateDisplay;
   if (ld) {
-    // Parse date like "2026-05-19" or "19 May 2026"
     let d = new Date(ld);
     if (isNaN(d.getTime())) {
-      // Try "DD May YYYY" format
       const months = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
       const parts = ld.split(' ');
       if (parts.length === 3) d = new Date(parseInt(parts[2]), months[parts[1]], parseInt(parts[0]));
@@ -181,12 +397,10 @@ if (job && (!job.status || job.status === 'closed')) {
 
 if (!job) {
   document.getElementById('quickCard').innerHTML = '<div class="content-article"><p style="text-align:center;color:#c0392b;padding:20px;">Job not found. <a href="jobs.html">Browse All Jobs</a></p></div>';
-  // Tell Google not to index this "not found" page
   var noindexMeta = document.createElement('meta');
   noindexMeta.name = 'robots';
   noindexMeta.content = 'noindex,follow';
   document.head.appendChild(noindexMeta);
-  // Set canonical to jobs list page
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/jobs.html';
 } else {
   // Page title & meta
@@ -195,21 +409,18 @@ if (!job) {
   document.getElementById('pageDesc').content = (job.description || job.title) + ' Check eligibility, vacancies, salary, last date and apply online at SarthakYojana.in.';
   document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="jobs.html">Govt Jobs</a> &rsaquo; ${job.title}`;
 
-  // JSON-LD Schema for JobPosting - Google-compliant per official docs
+  // JSON-LD Schema for JobPosting
   const isJobPost = JOBS_DATA.find(j => j.id === id) || 
                     ['pnb-specialist-officer-2026','ssc-selection-post-phase14-2026',
                      'bpcl-entry-level-250-2026','ssb-paramedical-2026','ssb-asi-paramedical-2026',
                      'ssb-head-constable-nongd-2026'].includes(id);
   
   if (isJobPost) {
-    
-    // --- TITLE: Job title only, strip "Recruitment 2026" suffix ---
     const schemaTitle = (job.title || '').replace(/\s*Recruitment\s*\d{4}/i, '').trim() || job.title
       .replace(/\s*Recruitment\s*\d{4}.*$/i, '')
       .replace(/\s*\d{4}.*$/i, '')
       .trim();
     
-    // --- DESCRIPTION: Must be HTML formatted (Google requirement) ---
     const htmlDesc = `<p>${job.description || job.title + ' recruitment 2026 by ' + job.organization + '.'}</p>
 <p><strong>Organization:</strong> ${job.organization}</p>
 <p><strong>Post:</strong> ${schemaTitle}</p>
@@ -227,7 +438,6 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
 <li>Employment Type: ${(job.employmentType || 'FULL_TIME').replace(/_/g,' ')}</li>
 </ul>`;
 
-    // --- educationRequirements: Map to Google's exact credentialCategory values ---
     const qual = (job.qualification || '').toLowerCase();
     let credCategory = 'high school';
     if (qual.includes('postgrad') || qual.includes('m.sc') || qual.includes('mba') || qual.includes('m.tech') || qual.includes('phd') || qual.includes('master')) {
@@ -244,7 +454,6 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
       credCategory = 'professional certificate';
     }
     
-    // --- experienceRequirements: Map from job data ---
     let expMonths = 0;
     const jobId = id || '';
     if (jobId.includes('bpcl-entry-level-250') || jobId.includes('nhpc') || jobId.includes('mcl') || jobId.includes('secl')) {
@@ -255,33 +464,21 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
       expMonths = 12;
     }
     
-    // --- Org website (hiringOrganization.sameAs must be org's official URL) ---
     const orgWebsite = (job.orgWebsite || job.officialNotification || 'https://india.gov.in').trim() || 'https://india.gov.in';
     const orgLogo    = 'https://sarthakyojana.in/assets/logo.png';
-    
-    // --- Location ---
     const addrLocality = job.addressLocality || 'New Delhi';
     const addrRegion   = job.addressRegion || 'Delhi';
     const addrCountry  = job.addressCountry || 'IN';
-    
-    // --- Dates (ISO 8601) ---
     const datePosted   = job.datePosted || '2026-04-01';
     const validThrough = job.validThrough || (job.lastDate ? job.lastDate + 'T23:59:00+05:30' : '2026-12-31T23:59:00+05:30');
-    
-    // --- Employment type (Google valid values only) ---
     const validEmpTypes = ['FULL_TIME','PART_TIME','CONTRACTOR','TEMPORARY','INTERN','VOLUNTEER','PER_DIEM','OTHER'];
     const empType = validEmpTypes.includes(job.employmentType) ? job.employmentType : 'FULL_TIME';
-    
-    // --- Salary ---
     const salaryMin = job.salaryMin || 21700;
     const salaryMax = job.salaryMax || 200000;
     
-    // Build the complete Google-compliant JobPosting schema
     const jobSchema = {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
-      
-      // REQUIRED FIELDS
       "title": schemaTitle,
       "description": htmlDesc,
       "datePosted": datePosted,
@@ -289,10 +486,7 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
         "@type": "Organization",
         "name": job.organization,
         "sameAs": orgWebsite,
-        "logo": {
-          "@type": "ImageObject",
-          "url": orgLogo
-        }
+        "logo": {"@type": "ImageObject","url": orgLogo}
       },
       "jobLocation": {
         "@type": "Place",
@@ -305,52 +499,30 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
           "addressCountry": addrCountry
         }
       },
-      
-      // RECOMMENDED FIELDS
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": job.organization,
-        "value": job.id
-      },
+      "identifier": {"@type": "PropertyValue","name": job.organization,"value": job.id},
       "validThrough": validThrough,
       "employmentType": empType,
       "baseSalary": {
         "@type": "MonetaryAmount",
         "currency": "INR",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": salaryMin,
-          "maxValue": salaryMax,
-          "unitText": "MONTH"
-        }
+        "value": {"@type": "QuantitativeValue","minValue": salaryMin,"maxValue": salaryMax,"unitText": "MONTH"}
       },
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "India"
-      },
-      
-      // BETA FIELDS
+      "applicantLocationRequirements": {"@type": "Country","name": "India"},
       "educationRequirements": {
         "@type": "EducationalOccupationalCredential",
         "credentialCategory": credCategory
       }
     };
     
-    // Add experienceRequirements only if > 0 months
     if (expMonths > 0) {
       jobSchema["experienceRequirements"] = {
         "@type": "OccupationalExperienceRequirements",
         "monthsOfExperience": expMonths
       };
     }
-    
-    // Add totalJobOpenings if available
     if (job.totalPosts || job.totalVacancies) {
       jobSchema["totalJobOpenings"] = parseInt(job.totalPosts || job.totalVacancies) || 0;
     }
-    
-    // directApply = false since we redirect to official govt sites
-    // (Google: true only if application completes on YOUR site)
     jobSchema["directApply"] = false;
     
     const schemaScript = document.createElement('script');
@@ -358,7 +530,6 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
     schemaScript.text = JSON.stringify(jobSchema, null, 0);
     document.head.appendChild(schemaScript);
     
-    // BreadcrumbList schema
     const bcSchemaScript = document.createElement('script');
     bcSchemaScript.type = 'application/ld+json';
     bcSchemaScript.text = JSON.stringify({
@@ -373,8 +544,13 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
     document.head.appendChild(bcSchemaScript);
   }
 
-  // Quick info card (H1 here)
-  const statusLabel = job.status === 'open' ? '<span class="badge-open">Open Now</span>' : job.status === 'closing_soon' ? '<span class="badge-soon">Closing Soon</span>' : '<span class="badge-closed">Closed</span>';
+  // Quick info card
+  const statusLabel = job.status === 'open'
+    ? '<span class="badge-open">✔ Open Now</span>'
+    : job.status === 'closing_soon'
+    ? '<span class="badge-soon">⚡ Closing Soon</span>'
+    : '<span class="badge-closed">✖ Closed</span>';
+
   document.getElementById('quickCard').innerHTML = `
     <div class="jd-box">
       <div class="jd-title-bar">
@@ -394,7 +570,7 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
           ${job.examDate ? `<tr><td>Exam Date</td><td>${job.examDate}</td></tr>` : ''}
           ${job.fee ? `<tr><td>Application Fee</td><td>${job.fee}</td></tr>` : ''}
           <tr><td>Status</td><td>${statusLabel}</td></tr>
-          ${job.officialNotification ? `<tr><td>Official Notification</td><td><a href="${job.officialNotification}" target="_blank" rel="nofollow noopener" style="color:#c0392b;">Download PDF &rarr;</a></td></tr>` : ''}
+          ${job.officialNotification ? `<tr><td>Official Notification</td><td><a href="${job.officialNotification}" target="_blank" rel="nofollow noopener" style="color:#1565c0;font-weight:600;">Download PDF &rarr;</a></td></tr>` : ''}
         </table>
       </div>
     </div>`;
@@ -404,7 +580,6 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
   if (articleContent) {
     document.getElementById('fullContent').innerHTML = articleContent;
   } else {
-    // Fallback for jobs without detailed content
     document.getElementById('fullContent').innerHTML = `
       <h2>About ${job.organization} Recruitment 2026</h2>
       <p>${job.description || job.organization + ' has released an official recruitment notification for ' + job.title + ' posts. Eligible and interested candidates can apply online through the official website before the last date mentioned above.'}</p>
@@ -423,12 +598,9 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
      <a href="${job.officialNotification || job.applyLink}" target="_blank" rel="nofollow noopener" style="font-size:12.5px;color:#555;">Official Notification PDF</a>` :
     '<p style="color:#888;font-size:12.5px;">Application link will be available soon. Bookmark this page.</p>';
 
-
   // ===== NRI Section: Currency + Timezone =====
   if (job.salaryMin) {
     document.getElementById('nriBox').style.display = 'block';
-
-    // Currency converter
     const salMin = job.salaryMin;
     const salMax = job.salaryMax || salMin;
     const currencies = [
@@ -451,11 +623,9 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
       </div>`).join('');
   }
 
-  // Timezone converter for last date
   if (job.lastDate || job.lastDateDisplay) {
     const lastDateStr = job.lastDate || '';
     let lastDateObj = lastDateStr ? new Date(lastDateStr + 'T23:59:00+05:30') : null;
-    
     if (lastDateObj && !isNaN(lastDateObj)) {
       const timezones = [
         {name:'🇮🇳 India (IST)', tz:'Asia/Kolkata'},
@@ -486,7 +656,7 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
     }
   }
 
-    // Similar jobs
+  // Similar jobs
   const sim = JOBS_DATA.filter(j => j.id !== id).slice(0, 10);
   document.getElementById('similarJobs').innerHTML = sim.map(j =>
     `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`

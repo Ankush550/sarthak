@@ -848,5 +848,46 @@ const SCHEMES_DATA = [
     applyLink:"https://www.mudra.org.in",
     description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners with loans up to Rs. 10 lakh.",
     isNew:false
-  }
+  },
+  {
+  "id": "osssc-nursing-officer-2026",
+  "title": "OSSSC Nursing Officer Recruitment 2026",
+  "shortTitle": "OSSSC Nursing Officer – 5989 Posts",
+  "organization": "Odisha Sub-Ordinate Staff Selection Commission (OSSSC)",
+  "orgWebsite": "https://www.osssc.gov.in",
+  "category": "State PSC",
+  "subCategory": "Nursing",
+  "totalPosts": 5989,
+  "lastDate": "2026-07-13",
+  "lastDateDisplay": "13 July 2026",
+  "datePosted": "2026-06-11",
+  "validThrough": "2026-07-13T23:59:00+05:30",
+  "employmentType": "FULL_TIME",
+  "salaryMin": 29200,
+  "salaryMax": 92300,
+  "salaryCurrency": "INR",
+  "salaryUnit": "MONTH",
+  "location": "Odisha",
+  "addressLocality": "Bhubaneswar",
+  "addressRegion": "Odisha",
+  "addressCountry": "IN",
+  "qualification": "GNM / B.Sc Nursing from recognized institution",
+  "ageLimit": "As per Detailed Notification",
+  "applyLink": "https://www.osssc.gov.in",
+  "officialNotification": "https://www.osssc.gov.in",
+  "fee": "Available Soon",
+  "description": "OSSSC Nursing Officer Recruitment 2026: Odisha Sub-Ordinate Staff Selection Commission ne 5,989 Nursing Officer posts ke liye short notification jari kiya hai. Online registration 13 June 2026 se shuru hogi. Last date to apply: 13 July 2026.",
+  "status": "open",
+  "isNew": true,
+  "isFeatured": false,
+  "tags": [
+    "nursing",
+    "odisha",
+    "osssc",
+    "health",
+    "gnm",
+    "bsc nursing",
+    "state jobs"
+  ]
+}
 ];

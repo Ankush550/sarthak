@@ -2810,3 +2810,4 @@ JOB_CONTENT["nmdc-junior-engineer-2026"] = `
 <p><strong>Q: Contract 3 saal ke baad kya hoga?</strong><br>A: Contract extend ho sakta hai project requirements aur performance ke basis par NMDC Management ke approval se। Regular employment ka koi guarantee nahi।</p>
 <p><strong>Q: Ek se zyada applications submit kar sakte hain?</strong><br>A: Nahi। Sirf ek application submit karo। Multiple applications mein sirf latest valid hogi — baaki reject ho jayengi।</p>
 `;
+
