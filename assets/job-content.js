@@ -1735,18 +1735,72 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <tr><td colspan="2"><strong>Total</strong></td><td>24M + 6F</td><td><strong>30</strong></td></tr>
 </tbody></table>
 
-<h2>Eligibility Criteria</h2>
-<h3>Age Limit (as on 01 April 2026)</h3>
-<p>Minimum age: <strong>20 years</strong>. Maximum age: <strong>28 years</strong> for General/EWS candidates. Age relaxation: SC/ST – 5 years additional (total 10 years), OBC NCL – 3 years additional (total 8 years), Meritorious sportspersons – 5 years as per DOPT guidelines.</p>
+<div class="job-section">
+    <h2>Eligibility Criteria</h2>
 
-<h3>Educational Qualification</h3>
-<p>Candidates must hold a <strong>Degree (Graduation) in any discipline</strong> from a recognised University, or an equivalent qualification recognised by the Central Government. The result must be declared on or before the cut-off date.</p>
+    <table class="eligibility-table">
+        <tr>
+            <th colspan="2">Age Limit (as on 01 April 2026)</th>
+        </tr>
+        <tr>
+            <td><strong>Minimum Age</strong></td>
+            <td>20 Years</td>
+        </tr>
+        <tr>
+            <td><strong>Maximum Age</strong></td>
+            <td>28 Years (General/EWS)</td>
+        </tr>
+        <tr>
+            <td><strong>Age Relaxation</strong></td>
+            <td>
+                SC/ST: 5 Years Additional (Total 10 Years)<br>
+                OBC NCL: 3 Years Additional (Total 8 Years)<br>
+                Meritorious Sportspersons: 5 Years as per DOPT Guidelines
+            </td>
+        </tr>
 
-<h3>Sports Qualification (Mandatory)</h3>
-<p>Candidates must meet one of the following sports achievement criteria: Represented State/UT/Country in National/International competition; OR Medal winner in Junior National Championships; OR Medal winner in Khelo India Youth Games/Winter Games/Para Games (age above 18 years); OR Represented University in Inter-University Tournaments; OR Represented State School Team in SGFI National events.</p>
+        <tr>
+            <th colspan="2">Educational Qualification</th>
+        </tr>
+        <tr>
+            <td><strong>Required Qualification</strong></td>
+            <td>
+                Degree (Graduation) in any discipline from a recognised University
+                or equivalent qualification recognised by the Central Government.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Result Status</strong></td>
+            <td>Result must be declared on or before the cut-off date.</td>
+        </tr>
 
-<p><strong>Important:</strong> No SC/ST/OBC/EWS reservation applies to this recruitment. All 30 posts are sports quota positions without category-wise reservation for vacancies. Age relaxation for reserved categories applies as per government rules.</p>
+        <tr>
+            <th colspan="2">Sports Qualification (Mandatory)</th>
+        </tr>
+        <tr>
+            <td><strong>Eligible Achievements</strong></td>
+            <td>
+                • Represented State/UT/Country in National/International Competition<br>
+                • Medal Winner in Junior National Championships<br>
+                • Medal Winner in Khelo India Youth Games / Winter Games / Para Games<br>
+                • Represented University in Inter-University Tournaments<br>
+                • Represented State School Team in SGFI National Events
+            </td>
+        </tr>
 
+        <tr>
+            <th colspan="2">Important Note</th>
+        </tr>
+        <tr>
+            <td><strong>Reservation Policy</strong></td>
+            <td>
+                No SC/ST/OBC/EWS reservation applies to this recruitment.
+                All 30 posts are Sports Quota positions without category-wise reservation.
+                However, age relaxation for reserved categories is applicable as per Government rules.
+            </td>
+        </tr>
+    </table>
+</div>
 <h2>Application Fee</h2>
 <table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
 <tbody>
