@@ -1696,16 +1696,19 @@ JOB_CONTENT["bpcl-entry-level-2026"] = `
 
 // ===== BOB SPORTS QUOTA 2026 =====
 JOB_CONTENT["bob-sports-quota-2026"] = `
-<div class="article-meta" style="font-size:12.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid #eee;">
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
   <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp; 
   <time datetime="2026-04-22">Published: 22 April 2026</time> &nbsp;|&nbsp; 
-  Updated: 22 April 2026
+  Updated: 26 April 2026
 </div>
+<h2 style="font-size:45.5px;color:#666;font-color:">
+Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</h2>
 
-<h2>Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</h2>
-<p><strong>Bank of Baroda (BOB)</strong>, one of India's largest public sector banks headquartered in Vadodara, Gujarat, has officially published the <strong>Customer Service Associate (Clerical Cadre) – Sports Quota Recruitment 2026</strong> notification (Advertisement No. BOB/HRM/REC/ADVT/2026/09) on 22 April 2026. A total of <strong>30 vacancies</strong> are available exclusively for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football disciplines. Online applications are open from 22 April to 12 May 2026 at the official website <strong>bankofbaroda.bank.in</strong>.</p>
+<p style= "font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;background:#red;color:#222;"
+<strong>Bank of Baroda (BOB)</strong>, one of India's largest public sector banks headquartered in Vadodara, Gujarat, has officially published the <strong>Customer Service Associate (Clerical Cadre) – Sports Quota Recruitment 2026</strong> notification (Advertisement No. BOB/HRM/REC/ADVT/2026/09) on 22 April 2026. A total of <strong>30 vacancies</strong> are available exclusively for meritorious sportspersons in Cricket, Kabaddi, Table Tennis, and Football disciplines. Online applications are open from 22 April to 12 May 2026 at the official website <strong>bankofbaroda.bank.in</strong>.</p>
 
-<p>This is a regular (permanent) government bank job — not a contract appointment. Sports quota recruitment in Bank of Baroda has a long tradition, and selected candidates become regular Bank employees with full banking service benefits, pension, and career growth opportunities. Out of 30 posts, 24 are for male candidates and 6 for female candidates, spread across posting locations in Delhi, Mumbai, and Chennai.</p>
+<p>
+This is a regular (permanent) government bank job — not a contract appointment. Sports quota recruitment in Bank of Baroda has a long tradition, and selected candidates become regular Bank employees with full banking service benefits, pension, and career growth opportunities. Out of 30 posts, 24 are for male candidates and 6 for female candidates, spread across posting locations in Delhi, Mumbai, and Chennai.</p>
 
 <h2>Important Dates</h2>
 <table class="detail-table"><thead><tr><th>Event</th><th>Date</th></tr></thead>
