@@ -208,3 +208,79 @@ img{max-width:100%;}
   .nav-inner a{padding:8px 8px;font-size:12px;}
   .sec-list li a{font-size:13px;}
 }
+
+.eligibility-table th{
+    background:#0d47a1 !important;
+    color:#fff !important;
+}
+
+.eligibility-table th:hover{
+    background:#083378 !important;
+    color:#fff !important;
+}
+.job-banner{
+    width:100%;
+    margin:15px 0;
+    text-align:center;
+}
+
+.job-banner img{
+    width:100%;
+    max-width:850px;
+    height:auto;
+    border-radius:8px;
+    display:block;
+    margin:auto;
+}
+
+.content-article h2{
+    background: linear-gradient(135deg,#1a237e,#1565c0);
+    color:#fff;
+    padding:12px 16px;
+    border-radius:8px;
+    font-size:24px;
+    font-weight:700;
+    margin:25px 0 15px;
+    border-left:none;
+    box-shadow:0 2px 8px rgba(21,101,192,.15);
+}
+.pay-scale-box{
+    background:#f8fbff;
+    border:1px solid #d6e6ff;
+    border-left:5px solid #1565c0;
+    padding:18px;
+    border-radius:8px;
+    font-size:18px;
+    line-height:1.8;
+    margin-bottom:20px;
+    box-shadow:0 2px 8px rgba(0,0,0,.05);
+}
+.faq-box{
+    background:#fff;
+    border:1px solid #e5e7eb;
+    border-radius:10px;
+    padding:15px;
+    margin-bottom:12px;
+    box-shadow:0 2px 6px rgba(0,0,0,.05);
+}
+
+.faq-q{
+    font-size:18px;
+    font-weight:700;
+    color:#0d47a1;
+    margin-bottom:8px;
+}
+
+.faq-a{
+    font-size:17px;
+    color:#333;
+    line-height:1.7;
+}
+.goog-te-banner-frame,
+.skiptranslate {
+    display: none !important;
+}
+
+body {
+    top: 0 !important;
+}

@@ -1810,15 +1810,15 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <p>Fee payment is online only (Debit Card, Credit Card, Internet Banking, UPI). Fee is non-refundable under all circumstances.</p>
 
 <h2>Pay Scale and Salary</h2>
-<p>Selected candidates will be placed in the BOB Clerical Cadre pay scale: <strong>Rs. 24,050 – Rs. 64,480 per month</strong> over 20 years with incremental stages. Starting basic pay: Rs. 24,050/month. The pay scale progression: 24050-1340/3-28070-1650/3-33020-2000/4-41020-2340/7-57400-4400/1-61800-2680/1-64480. In addition, employees receive DA, HRA, Medical Aid, LFC, and other IBA-approved allowances.</p>
+<p style="font-size:20px;" Selected candidates will be placed in the BOB Clerical Cadre pay scale: <strong>Rs. 24,050 – Rs. 64,480 per month</strong> over 20 years with incremental stages. Starting basic pay: Rs. 24,050/month. The pay scale progression: 24050-1340/3-28070-1650/3-33020-2000/4-41020-2340/7-57400-4400/1-61800-2680/1-64480. In addition, employees receive DA, HRA, Medical Aid, LFC, and other IBA-approved allowances.</p>
 
 <h2>Selection Process</h2>
-<p><strong>Stage 1 – Shortlisting/Screening:</strong> Applications are screened against eligibility criteria including educational qualification, sports experience, and domain expertise. Shortlisting criteria are internal and confidential.</p>
-<p><strong>Stage 2 – Field Trials:</strong> Shortlisted candidates are called for Field Trials at a designated venue. Evaluation criteria and qualifying cut-off are determined solely by the Bank. No change of venue/date is permitted.</p>
-<p><strong>Stage 3 – Document Verification:</strong> Original documents must be produced at the time of Field Trials. All selected candidates must sign a written undertaking to play for the Bank's team whenever required.</p>
+<p style="font-size:20px;"<strong>Stage 1 – Shortlisting/Screening:</strong> Applications are screened against eligibility criteria including educational qualification, sports experience, and domain expertise. Shortlisting criteria are internal and confidential.</p>
+<p style="font-size:20px;"<strong>Stage 2 – Field Trials:</strong> Shortlisted candidates are called for Field Trials at a designated venue. Evaluation criteria and qualifying cut-off are determined solely by the Bank. No change of venue/date is permitted.</p>
+<p style="font-size:20px;"<strong>Stage 3 – Document Verification:</strong> Original documents must be produced at the time of Field Trials. All selected candidates must sign a written undertaking to play for the Bank's team whenever required.</p>
 
 <h2>How to Apply Online for Bank of Baroda Sports Quota 2026</h2>
-<ol>
+<ol style="font-size:20px;"
 <li>Visit the official website: <strong>www.bankofbaroda.bank.in</strong></li>
 <li>Go to Careers → Current Opportunities → BOB/HRM/REC/ADVT/2026/09</li>
 <li>Click "Apply Online" and complete registration with name, mobile, and email</li>
@@ -1834,9 +1834,9 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <p>Printout of Call Letter and application form, Date of Birth proof (10th certificate/Birth Certificate), Photo ID (Aadhaar/PAN/Passport), Sports certificates/medals/achievement proof, Educational marksheets and degree certificate, Caste certificate (SC/ST/OBC as applicable), NOC from current employer (if in Government/PSU service), and Disability certificate (if applicable).</p>
 
 <h2>FAQs – Bank of Baroda Sports Quota Recruitment 2026</h2>
-<p><strong>Q: Is there reservation for SC/ST/OBC in BOB Sports Quota 2026?</strong><br>A: No. There is no category-wise reservation for the 30 vacancies. However, age relaxation for SC/ST/OBC is available as per DOPT guidelines.</p>
-<p><strong>Q: Can a cricketer apply for multiple disciplines?</strong><br>A: No. Candidates must apply only for the sport and role/specialisation matching their certificates and achievements. Multiple applications will lead to disqualification.</p>
-<p><strong>Q: What is the official notification number?</strong><br>A: BOB/HRM/REC/ADVT/2026/09. Always quote this number in any communication with the bank.</p>
+<p style="font-size:15px;"<strong>Q: Is there reservation for SC/ST/OBC in BOB Sports Quota 2026?</strong><br>A: No. There is no category-wise reservation for the 30 vacancies. However, age relaxation for SC/ST/OBC is available as per DOPT guidelines.</p>
+<p style="font-size:15px;"<strong>Q: Can a cricketer apply for multiple disciplines?</strong><br>A: No. Candidates must apply only for the sport and role/specialisation matching their certificates and achievements. Multiple applications will lead to disqualification.</p>
+<p style="font-size:15px;"<strong>Q: What is the official notification number?</strong><br>A: BOB/HRM/REC/ADVT/2026/09. Always quote this number in any communication with the bank.</p>
 `;
 
 // ===== HPRCA TGT NON MEDICAL RESULT 2026 =====
