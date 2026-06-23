@@ -284,7 +284,7 @@
 <div id="google_translate_element" style="text-align:right;padding:10px 0;"></div>
 <div class="center">
   <div class="job-banner">
-    <img src="../assets/images/SSC-JSA.jpeg" alt="SSC JSA Recruitment">
+    <img id="jobBannerImage" src="../assets/images/default-job.jpeg" alt="Job Banner">
 </div>
 
   <!-- Quick Info Card -->
@@ -368,6 +368,15 @@ if (!job) {
   document.head.appendChild(noindexMeta);
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/jobs.html';
 } else {
+  // Dynamic Job Banner Image
+const banner = document.getElementById("jobBannerImage");
+
+console.log("Image Name:", job.image);
+
+if (banner && job.image) {
+    banner.src = "/assets/images/" + job.image;
+    banner.alt = job.title;
+}
   // Page title & meta
   const pageTitle = job.title + ' – ' + job.organization + ' Recruitment 2026 | SarthakYojana';
   document.title = pageTitle;
