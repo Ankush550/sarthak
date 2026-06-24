@@ -1,5 +1,1994 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["sbi-bmo-2026"] = `
+
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+<time datetime="2026-06-24">Published: 24 June 2026</time> &nbsp;|&nbsp;
+Updated: 24 June 2026
+</div>
+
+<h2 style="font-size:45.5px;color:#666;">
+SBI Bank Medical Officer Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+State Bank of India (SBI) has released the official notification for recruitment of <strong>Bank Medical Officer (BMO-II)</strong> under Specialist Cadre Officer category through Advertisement No. <strong>CRPD/SCO/2026-27/03</strong>. SBI has announced a total of <strong>35 vacancies</strong> across various circles in India.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Candidates possessing an <strong>MBBS degree</strong> from a recognized institution approved by the National Medical Commission (NMC) or State Medical Council can apply online. Applicants must also possess the required General Practitioner experience as prescribed in the official notification.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+The recruitment offers an excellent opportunity for medical professionals seeking a stable and rewarding career in India's largest public sector bank. Selected candidates will be appointed in <strong>Middle Management Grade Scale-II (MMGS-II)</strong> with attractive salary, Non-Practicing Allowance (NPA), medical benefits and other allowances.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Notification Release Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">14 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>14 July 2026</td>
+</tr>
+
+<tr>
+<td>Eligibility Cut-off Date</td>
+<td>31 May 2026</td>
+</tr>
+
+<tr>
+<td>Online Written Examination</td>
+<td>August 2026 (Tentative)</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>SBI BMO Vacancy Details 2026</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Bank Medical Officer (BMO-II)</td>
+<td><strong>35</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Category Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>UR</td>
+<td>31</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>04</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>Nil</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>Nil</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>Nil</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>35</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Circle Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Circle</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Bengaluru</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Bhopal</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Bhubaneswar</td>
+<td>4</td>
+</tr>
+
+<tr>
+<td>Chandigarh</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Chennai</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>Gandhinagar</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Guwahati</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>Hyderabad</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Jaipur</td>
+<td>4</td>
+</tr>
+
+<tr>
+<td>Lucknow</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Maharashtra</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Mumbai Metro</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Patna</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Thiruvananthapuram</td>
+<td>2</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="eligibility-table">
+
+<tr>
+<th colspan="2">Educational Qualification</th>
+</tr>
+
+<tr>
+<td><strong>Mandatory Qualification</strong></td>
+<td>
+MBBS Degree from a recognized University / Institution approved by NMC or State Medical Council.
+</td>
+</tr>
+
+<tr>
+<td><strong>Preferred Qualification</strong></td>
+<td>
+Post Graduate Diploma or MD/MS Degree in relevant specialization.
+</td>
+</tr>
+
+<tr>
+<th colspan="2">Experience Requirement</th>
+</tr>
+
+<tr>
+<td><strong>MBBS Candidates</strong></td>
+<td>
+Minimum 5 years experience as General Practitioner after registration.
+</td>
+</tr>
+
+<tr>
+<td><strong>PG Degree Holders</strong></td>
+<td>
+Minimum 3 years experience as General Practitioner after registration.
+</td>
+</tr>
+
+<tr>
+<td><strong>Important Note</strong></td>
+<td>
+Internship, Teaching and Training Experience shall not be considered.
+</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Age Limit</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>General / EWS</td>
+<td>Maximum 35 Years</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>38 Years</td>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>40 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (UR)</td>
+<td>45 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (OBC)</td>
+<td>48 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (SC/ST)</td>
+<td>50 Years</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>As Per Government Rules</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>About SBI Bank Medical Officer Position</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Bank Medical Officers are responsible for providing medical consultation, preventive healthcare guidance, employee health monitoring and medical support services to SBI staff and eligible beneficiaries. They play an important role in ensuring employee well-being and maintaining workplace health standards across SBI offices and establishments.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The position offers a unique blend of medical practice and organizational healthcare management within India's largest banking institution. Selected officers receive attractive salary packages, long-term career stability and opportunities to serve in a highly respected public sector organization.
+</p>
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹750</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Pay Scale and Salary</h2>
+
+<div class="salary-table-container">
+
+<table class="salary-table">
+
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Grade</td>
+<td>Middle Management Grade Scale-II (MMGS-II)</td>
+</tr>
+
+<tr>
+<td>Basic Pay</td>
+<td>₹64,820 – ₹93,960</td>
+</tr>
+
+<tr>
+<td>Non-Practicing Allowance (NPA)</td>
+<td>20% of Basic Pay</td>
+</tr>
+
+<tr>
+<td>Additional Benefits</td>
+<td>DA, HRA, Medical Benefits, LTC, Pension, PF and Other SBI Benefits</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="salary-note">
+Selected candidates will receive salary under MMGS-II Scale along with Non-Practicing Allowance (NPA) at 20% of Basic Pay, Dearness Allowance, House Rent Allowance, Medical Benefits, Leave Fare Concession, Provident Fund, Pension Benefits and other facilities applicable to SBI Officers.
+</div>
+
+</div>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Online Written Examination:</strong>
+Eligible candidates will appear for an online examination comprising Professional Knowledge, General Aptitude and related assessment components.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Personal Interview:</strong>
+Candidates qualifying the written examination will be shortlisted for interview based on merit and vacancy requirements.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Local Language Proficiency Test (LLPT):</strong>
+Candidates may be required to demonstrate proficiency in the local language of the applied circle wherever applicable.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Medical Fitness & Document Verification:</strong>
+Final selection will be subject to successful verification of documents and medical fitness standards prescribed by SBI.
+</p>
+
+<h2>Online Examination Pattern</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Section</th>
+<th>Marks</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Reasoning & Computer Aptitude</td>
+<td>50</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Professional Knowledge (Medical Science)</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>175</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Roles and Responsibilities of Bank Medical Officer</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Provide medical consultation to SBI employees and eligible dependents.</li>
+<li>Conduct health examinations and medical assessments.</li>
+<li>Advise on preventive healthcare and occupational health measures.</li>
+<li>Maintain medical records and reports.</li>
+<li>Coordinate with hospitals and healthcare providers.</li>
+<li>Assist in employee wellness and health awareness programs.</li>
+<li>Support emergency medical requirements whenever necessary.</li>
+</ul>
+
+<h2>Why Join SBI as a Bank Medical Officer?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+State Bank of India is India's largest public sector bank with a nationwide presence and strong reputation. Medical Officers working with SBI enjoy stable employment, attractive compensation, professional respect and an excellent work-life balance compared to many private healthcare roles.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The position allows doctors to contribute to employee healthcare management while enjoying structured career growth, financial security and comprehensive benefits available to SBI officers.
+</p>
+
+<h2>Career Growth Opportunities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Bank Medical Officers may progress through higher specialist and administrative positions based on performance, experience and organizational requirements. Working with SBI also provides valuable exposure to occupational healthcare, employee wellness management and corporate medical administration.
+</p>
+
+<h2>How to Apply Online for SBI BMO Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit SBI Careers Portal.</li>
+<li>Open Specialist Cadre Officer Recruitment section.</li>
+<li>Select Bank Medical Officer (BMO-II) Recruitment 2026.</li>
+<li>Register using valid Email ID and Mobile Number.</li>
+<li>Fill personal, educational and professional details.</li>
+<li>Upload photograph, signature and supporting documents.</li>
+<li>Pay application fee online.</li>
+<li>Review the application carefully.</li>
+<li>Submit and download the application form.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>MBBS Degree Certificate</li>
+<li>Medical Registration Certificate</li>
+<li>Experience Certificates</li>
+<li>Post Graduate Degree / Diploma (if applicable)</li>
+<li>10th Certificate for Date of Birth Proof</li>
+<li>Category Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Recent Passport Size Photograph</li>
+<li>Signature</li>
+<li>Government Issued Photo ID Proof</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under SBI BMO Recruitment 2026?</h3>
+<p>A total of 35 Bank Medical Officer vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date for online application submission is 14 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualification is required?</h3>
+<p>Candidates must possess an MBBS degree from a recognized institution approved by NMC or State Medical Council.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. What experience is required?</h3>
+<p>MBBS candidates require 5 years experience, while PG degree holders require 3 years experience as General Practitioner.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. What is the maximum age limit?</h3>
+<p>The maximum age limit is 35 years for General category candidates.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. What is the salary offered?</h3>
+<p>The pay scale is ₹64,820 – ₹93,960 along with 20% NPA and other SBI benefits.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. Is there any application fee?</h3>
+<p>Yes. ₹750 for General/OBC/EWS candidates. SC/ST/PwBD candidates are exempted.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Is there an interview?</h3>
+<p>Yes. Candidates qualifying the written examination will be called for interview.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. What is Non-Practicing Allowance (NPA)?</h3>
+<p>Selected Medical Officers will receive NPA at 20% of Basic Pay in addition to salary.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why is SBI BMO considered a good career option?</h3>
+<p>It offers stable employment, attractive salary, banking sector benefits, work-life balance and long-term career growth opportunities.</p>
+</div>
+
+`;
+JOB_CONTENT["rbi-young-professional-2026"] = `
+
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-06-24">Published: 24 June 2026</time> &nbsp;|&nbsp;
+  Updated: 24 June 2026
+</div>
+
+<h2 style="font-size:45.5px;color:#666;">
+RBI Young Professional Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+The Reserve Bank of India (RBI) has released the official notification for <strong>Young Professional (YP) Recruitment 2026</strong> under Advertisement No. RBI/TMD1/YP/06/2026-27/01. Through this prestigious recruitment initiative, RBI is inviting applications from talented and highly qualified professionals for engagement in specialized policy, technology, economics, financial markets, climate finance, cyber security and artificial intelligence domains.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+A total of <strong>12 Young Professional positions</strong> have been announced across various Central Office Departments located in Mumbai. Selected candidates will work directly with RBI's policy, regulatory and research teams and receive a fixed monthly stipend of <strong>₹1,50,000</strong>.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+The RBI Young Professional Programme is designed to attract domain experts, researchers, data scientists, economists, financial analysts and technology specialists who can contribute to policy formulation, regulatory research and analytical assignments. The engagement is purely contractual and does not lead to permanent employment in RBI.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Notification Release Date</td>
+<td>15 June 2026</td>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>15 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td><strong style="color:#c0392b;">06 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Interview Schedule</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Expected Joining</td>
+<td>August – October 2026</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>RBI Young Professional Vacancy Details 2026</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Posts</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Young Professional (YP)</td>
+<td><strong>12</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Department Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Code</th>
+<th>Job Area</th>
+<th>Department</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>YP0626DOS01</td>
+<td>Cyber Security & IT Risk</td>
+<td>Department of Supervision</td>
+</tr>
+
+<tr>
+<td>YP0626DOS02</td>
+<td>Policy Analytics</td>
+<td>Department of Supervision</td>
+</tr>
+
+<tr>
+<td>YP0626DOR01</td>
+<td>Climate Change Risk & Sustainable Finance</td>
+<td>Department of Regulation</td>
+</tr>
+
+<tr>
+<td>YP0626DOR02</td>
+<td>Credit Risk Analytics & Regulatory Policy</td>
+<td>Department of Regulation</td>
+</tr>
+
+<tr>
+<td>YP0626DPS01</td>
+<td>Payment Ecosystem</td>
+<td>Department of Payment & Settlement Systems</td>
+</tr>
+
+<tr>
+<td>YP0626DPS02</td>
+<td>Domestic & Cross-Border Payment Systems</td>
+<td>Department of Payment & Settlement Systems</td>
+</tr>
+
+<tr>
+<td>YP0626DEP01</td>
+<td>Policy & Research</td>
+<td>Department of Economic & Policy Research</td>
+</tr>
+
+<tr>
+<td>YP0626FIN01</td>
+<td>Artificial Intelligence</td>
+<td>FinTech Department</td>
+</tr>
+
+<tr>
+<td>YP0626FIN02</td>
+<td>Quantum Technology</td>
+<td>FinTech Department</td>
+</tr>
+
+<tr>
+<td>YP0626FMO01</td>
+<td>Data Analysis</td>
+<td>Financial Markets Operations Department</td>
+</tr>
+
+<tr>
+<td>YP0626FMR01</td>
+<td>Financial Markets</td>
+<td>Financial Markets Regulation Department</td>
+</tr>
+
+<tr>
+<td>YP0626CEP01</td>
+<td>Data Analytics & Policy Research</td>
+<td>Consumer Education & Protection Department</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>About RBI Young Professional Programme</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The RBI Young Professional Programme is a unique opportunity for highly qualified professionals to contribute to India's monetary policy, financial stability framework, payment systems, fintech regulation, economic research and emerging technology governance. Selected candidates work directly with RBI's Central Office Departments and gain valuable exposure to policy-making and regulatory functions.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Unlike traditional government recruitment, this programme focuses on domain expertise rather than routine administrative work. Professionals selected under the programme support policy research, data analysis, regulatory development, risk assessment and strategic initiatives across various departments of the central bank.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="eligibility-table">
+
+<tr>
+<th colspan="2">Nationality</th>
+</tr>
+
+<tr>
+<td><strong>Citizenship</strong></td>
+<td>Candidate must be an Indian Citizen.</td>
+</tr>
+
+<tr>
+<th colspan="2">Age Limit</th>
+</tr>
+
+<tr>
+<td><strong>Minimum Age</strong></td>
+<td>21 Years</td>
+</tr>
+
+<tr>
+<td><strong>Maximum Age</strong></td>
+<td>30 Years</td>
+</tr>
+
+<tr>
+<td><strong>Age Cut-Off Date</strong></td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<th colspan="2">Educational Qualification</th>
+</tr>
+
+<tr>
+<td><strong>Qualification</strong></td>
+<td>
+Post Graduate Degree / M.Tech / PhD / Data Science / Statistics / Economics / Finance / Public Policy / Computer Science / AI / Cyber Security / Environmental Studies / Related Discipline (Post Wise).
+</td>
+</tr>
+
+<tr>
+<td><strong>Experience</strong></td>
+<td>
+Relevant experience is desirable for several positions but fresh candidates meeting eligibility criteria may also apply.
+</td>
+</tr>
+
+</table>
+
+<h2>Place of Posting</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+All selected Young Professionals will be posted at RBI Central Office Departments located in Mumbai, Maharashtra. No residential accommodation will be provided by RBI and candidates must make their own arrangements.
+</p>
+<h2>Stipend and Compensation</h2>
+
+<div class="salary-table-container">
+
+<table class="salary-table">
+
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Monthly Stipend</td>
+<td><strong>₹1,50,000 Per Month</strong></td>
+</tr>
+
+<tr>
+<td>Annual Compensation</td>
+<td>₹18,00,000 Approx.</td>
+</tr>
+
+<tr>
+<td>Additional Benefits</td>
+<td>As Per Contract Terms</td>
+</tr>
+
+<tr>
+<td>Accommodation</td>
+<td>Not Provided</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="salary-note">
+Selected Young Professionals will receive a consolidated monthly remuneration of ₹1,50,000. The engagement is contractual in nature and does not provide entitlement to RBI pension, gratuity or permanent employee benefits.
+</div>
+
+</div>
+
+<h2>Contract Period</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Initial Contract</td>
+<td>03 Years</td>
+</tr>
+
+<tr>
+<td>Extension</td>
+<td>Based on Performance</td>
+</tr>
+
+<tr>
+<td>Maximum Tenure</td>
+<td>05 Years</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Leave Entitlement</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Young Professionals will be entitled to leave as prescribed under RBI contractual engagement rules. Any unauthorized absence may result in deduction from monthly remuneration.
+</p>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Application Screening:</strong>
+Applications received through email will be screened based on educational qualifications, professional experience, research work and domain expertise.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Shortlisting:</strong>
+Only shortlisted candidates meeting RBI's requirements will be invited for the next stage.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Personal Interview:</strong>
+Candidates will be assessed on subject knowledge, analytical capability, policy understanding, communication skills and domain expertise.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Final Selection:</strong>
+Final merit will be prepared based on interview performance and suitability for the assigned department.
+</p>
+
+<h2>Why Join RBI Young Professional Programme?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The RBI Young Professional Programme offers a unique opportunity to work directly with India's Central Bank. Participants gain exposure to monetary policy, banking regulation, financial markets, fintech innovation, cyber security, climate finance and economic research. Few opportunities in India provide this level of policy and regulatory exposure at an early stage of one's career.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Young Professionals collaborate with economists, data scientists, regulators, technology experts and policy makers. This experience significantly enhances professional credibility and opens doors to future opportunities in international organizations, financial institutions, consulting firms, think tanks and government agencies.
+</p>
+
+<h2>Career Benefits</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Although the engagement does not guarantee permanent employment in RBI, the programme provides valuable experience in policy research, data analytics, financial regulation, emerging technologies and economic analysis. The skills acquired during the engagement are highly valued across the banking, finance and technology sectors.
+</p>
+
+<h2>How to Apply for RBI Young Professional Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Download the official notification from RBI website.</li>
+<li>Identify the relevant Job Code matching your specialization.</li>
+<li>Prepare updated Resume/CV.</li>
+<li>Attach educational and professional documents.</li>
+<li>Mention the Job Code clearly in the email subject line.</li>
+<li>Email the application to the prescribed RBI email address.</li>
+<li>Ensure submission before 06 July 2026.</li>
+<li>Keep a copy of the submitted application for future reference.</li>
+</ol>
+
+<h2>Email Address for Application</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Email ID</td>
+<td>yphrmdco@rbi.org.in</td>
+</tr>
+
+<tr>
+<td>Application Mode</td>
+<td>Email Only</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Updated Resume / CV</li>
+<li>Recent Passport Size Photograph</li>
+<li>Educational Qualification Certificates</li>
+<li>Post Graduation / PhD Certificates</li>
+<li>Experience Certificates (if applicable)</li>
+<li>Research Publications (if applicable)</li>
+<li>Government Issued Photo ID Proof</li>
+<li>Category Certificate (if applicable)</li>
+<li>Relevant Professional Certifications</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under RBI Young Professional Recruitment 2026?</h3>
+<p>A total of 12 Young Professional positions have been announced across various RBI departments.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply?</h3>
+<p>The last date to submit applications through email is 06 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What is the monthly stipend?</h3>
+<p>Selected candidates will receive a fixed monthly remuneration of ₹1,50,000.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. What is the maximum age limit?</h3>
+<p>The maximum age limit is 30 years as on 06 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. Is there any application fee?</h3>
+<p>No. RBI has not prescribed any application fee for this recruitment.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. Is this a permanent RBI job?</h3>
+<p>No. The engagement is purely contractual and does not guarantee permanent employment in RBI.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. What is the contract duration?</h3>
+<p>The initial engagement is for 3 years and may be extended up to 5 years based on performance.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Where will selected candidates be posted?</h3>
+<p>All selected Young Professionals will be posted at RBI Central Office Departments in Mumbai.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. What is the mode of application?</h3>
+<p>Applications must be submitted through email only.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why is RBI Young Professional Programme considered prestigious?</h3>
+<p>It provides direct exposure to India's central banking system, policy making, financial regulation and cutting-edge research initiatives.</p>
+</div>
+
+`;
+JOB_CONTENT["ntpc-assistant-chemist-trainee-2026"] = `
+
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-06-24">Published: 24 June 2026</time> &nbsp;|&nbsp;
+  Updated: 24 June 2026
+</div>
+
+<h2 style="font-size:45.5px;color:#666;">
+NTPC Assistant Chemist Trainee Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+NTPC Limited, India's largest integrated power utility and a Government of India Enterprise, has released the official notification for <strong>Assistant Chemist Trainee (ACT) Recruitment 2026</strong> under Advertisement No. <strong>09/26</strong>. The recruitment drive aims to fill <strong>40 vacancies</strong> for Assistant Chemist Trainee positions across NTPC Stations, Projects, Joint Ventures and Subsidiaries located throughout India.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Candidates possessing a <strong>Regular Full-Time M.Sc. in Chemistry</strong> from a recognized Indian University or Institute with at least 60% marks are eligible to apply. This recruitment offers an excellent opportunity for chemistry graduates who wish to build a career in India's leading public sector power company.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Selected candidates will undergo one year of training and will subsequently be placed in NTPC's E0 Grade pay scale of <strong>₹30,000 – ₹1,20,000</strong>. Along with salary, employees will receive various allowances, benefits and long-term career growth opportunities in the power sector.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Notification Release Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">10 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Final Year Result Submission Deadline</td>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Examination</td>
+<td>To Be Announced</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>NTPC ACT Vacancy Details 2026</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Chemist Trainee (ACT)</td>
+<td><strong>40</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Category Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>UR</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>04</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>06</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>40</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<p style="font-size:18px;">
+The above vacancies are projected vacancies and may increase or decrease depending upon organizational requirements.
+</p>
+
+<h2>About NTPC Limited</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+NTPC Limited is India's largest integrated energy company with an installed capacity exceeding 90 GW. Established in 1975, NTPC has played a vital role in the development of India's power sector. The company is targeting an installed capacity of 149 GW by 2032 through expansion in thermal, hydro, solar, wind and green hydrogen projects.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The organization provides excellent career opportunities, attractive compensation packages and world-class training programs. Employees get exposure to advanced technologies, large-scale industrial operations and national infrastructure projects.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="eligibility-table">
+
+<tr>
+<th colspan="2">Educational Qualification</th>
+</tr>
+
+<tr>
+<td><strong>Assistant Chemist Trainee (ACT)</strong></td>
+<td>
+Regular Full-Time M.Sc. in Chemistry from a recognized Indian University or Institute with at least 60% aggregate marks.
+</td>
+</tr>
+
+<tr>
+<td><strong>SC / ST / PwBD Candidates</strong></td>
+<td>
+Passing marks are sufficient as per notification.
+</td>
+</tr>
+
+<tr>
+<td><strong>Final Year Candidates</strong></td>
+<td>
+Candidates expecting results by 31 July 2026 are also eligible to apply.
+</td>
+</tr>
+
+<tr>
+<th colspan="2">Important Note</th>
+</tr>
+
+<tr>
+<td><strong>Degree Requirement</strong></td>
+<td>
+Candidates must produce final/provisional M.Sc. degree certificate on or before 31 July 2026 if selected.
+</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Age Limit</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>General / EWS</td>
+<td>Maximum 27 Years</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>3 Years Relaxation</td>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years Relaxation</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>10 Years Relaxation</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>As per Government Rules</td>
+</tr>
+
+</tbody>
+
+</table>
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>General / EWS / OBC</td>
+<td>₹500</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD / Female / Ex-Servicemen</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Pay Scale and Salary</h2>
+
+<div class="salary-table-container">
+
+<table class="salary-table">
+
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Grade</td>
+<td>E0</td>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>₹30,000 – ₹1,20,000</td>
+</tr>
+
+<tr>
+<td>Training Period</td>
+<td>One Year</td>
+</tr>
+
+<tr>
+<td>Post Training Designation</td>
+<td>Assistant Chemist Trainee (ACT)</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="salary-note">
+Apart from basic pay, selected candidates will be entitled to Dearness Allowance (DA), House Rent Allowance (HRA), Medical Facilities, Performance Related Pay, Provident Fund, Gratuity, Leave Encashment, Group Insurance and other benefits as per NTPC rules.
+</div>
+
+</div>
+
+<h2>Training and Career Development</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will undergo intensive training in chemistry operations related to thermal power generation, water treatment systems, environmental monitoring, fuel quality analysis, laboratory management and industrial chemical processes. The training program is designed to prepare candidates for operational and technical responsibilities at NTPC plants across India.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Upon successful completion of training, candidates will be absorbed into regular positions and will have opportunities to work in NTPC power stations, renewable energy projects, research laboratories and corporate technical departments.
+</p>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Online Selection Test:</strong>
+Candidates will appear for an Online Selection Test consisting of Subject Knowledge Test (SKT) and Executive Aptitude Test (EAT).
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Merit Preparation:</strong>
+Final merit will be prepared based on performance in the Online Selection Test.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Document Verification:</strong>
+Shortlisted candidates will be called for document verification before final appointment.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Medical Examination:</strong>
+Candidates must meet NTPC's prescribed medical fitness standards.
+</p>
+
+<h2>Online Examination Pattern</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Section</th>
+<th>Weightage</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Subject Knowledge Test (Chemistry)</td>
+<td>85%</td>
+</tr>
+
+<tr>
+<td>Executive Aptitude Test</td>
+<td>15%</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100%</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Service Bond Details</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Bond Amount</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>General / EWS / OBC</td>
+<td>₹2,50,000</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹1,25,000</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<p style="font-size:20px;">
+Selected candidates will be required to execute a service bond to serve NTPC for a minimum period of three years after successful completion of training.
+</p>
+
+<h2>Why Join NTPC?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+NTPC Limited is one of India's most respected Maharatna Public Sector Enterprises. The company offers excellent job security, attractive compensation, structured career growth and opportunities to work on large-scale power generation and renewable energy projects.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Employees receive exposure to cutting-edge technologies, advanced laboratories and nationally significant infrastructure projects. NTPC is consistently recognized as one of India's best employers and provides excellent opportunities for professional development.
+</p>
+
+<h2>Career Growth Opportunities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Assistant Chemist Trainees can progress through various executive grades based on performance and experience. Employees may eventually advance to Senior Chemist, Manager, Senior Manager, General Manager and leadership positions within NTPC's technical and operational divisions.
+</p>
+
+<h2>How to Apply Online for NTPC ACT Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official NTPC Careers portal.</li>
+<li>Open Advertisement No. 09/26.</li>
+<li>Complete online registration.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload photograph and signature.</li>
+<li>Pay the application fee online.</li>
+<li>Review the application form carefully.</li>
+<li>Submit the application before the closing date.</li>
+<li>Download and print the application form.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>M.Sc. Chemistry Degree / Mark Sheets</li>
+<li>10th Certificate for Date of Birth Proof</li>
+<li>Category Certificate (SC/ST/OBC/EWS)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Recent Passport Size Photograph</li>
+<li>Signature</li>
+<li>Government Issued Photo ID Proof</li>
+<li>Valid Email ID and Mobile Number</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under NTPC ACT Recruitment 2026?</h3>
+<p>A total of 40 Assistant Chemist Trainee vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the minimum qualification required?</h3>
+<p>Candidates must possess a Regular Full-Time M.Sc. in Chemistry with minimum 60% marks.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What is the maximum age limit?</h3>
+<p>The maximum age limit is 27 years for General and EWS candidates.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. What is the salary of an Assistant Chemist Trainee?</h3>
+<p>The pay scale is ₹30,000 – ₹1,20,000 under E0 Grade along with allowances and benefits.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. Is there any interview?</h3>
+<p>No. Selection is based on Online Selection Test, Document Verification and Medical Examination.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. What is the application fee?</h3>
+<p>₹500 for General, OBC and EWS candidates. SC/ST/PwBD/Female/XSM candidates are exempted.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. Can final year M.Sc. students apply?</h3>
+<p>Yes, provided their final results are declared on or before 31 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Is there a service bond?</h3>
+<p>Yes. Selected candidates must execute a service bond after appointment.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Where can selected candidates be posted?</h3>
+<p>Selected candidates may be posted at any NTPC station, project, subsidiary or joint venture across India.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why is NTPC considered a good career option?</h3>
+<p>NTPC offers job security, excellent salary, career growth, technical exposure and opportunities to work in India's largest power generation company.</p>
+</div>
+
+`;
+JOB_CONTENT["sbi-law-officer-2026"] = `
+
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-06-24">Published: 24 June 2026</time> &nbsp;|&nbsp;
+  Updated: 24 June 2026
+</div>
+
+<h2 style="font-size:45.5px;color:#666;">
+SBI Law Officer Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+State Bank of India (SBI) has released the official notification for Specialist Cadre Officer (SCO) Law Recruitment 2026 under Advertisement No. CRPD/SCO/2026-27/02. Through this recruitment drive, SBI aims to fill 49 vacancies for Assistant Manager (Law) and Deputy Manager (Law) posts on a regular basis. This recruitment presents an excellent opportunity for experienced legal professionals who wish to build a career in India's largest public sector bank.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Candidates possessing a Law Degree (LLB) from a recognized university and relevant experience as a practicing advocate or Law Officer in the legal department of a Scheduled Commercial Bank can apply online. The online application process starts on 24 June 2026 and will remain open until 14 July 2026.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+SBI Law Officers play an important role in handling litigation matters, legal opinions, banking disputes, contractual documentation, regulatory compliance and legal risk management. Selected candidates will be appointed under Junior Management Grade Scale-I (JMGS-I) and Middle Management Grade Scale-II (MMGS-II) with attractive salary packages and banking benefits.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Notification Release Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">14 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>14 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Examination</td>
+<td>August 2026 (Tentative)</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>To Be Announced</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>SBI SCO Law Officer Vacancy Details 2026</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Grade</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Manager (Law)</td>
+<td>JMGS-I</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Deputy Manager (Law)</td>
+<td>MMGS-II</td>
+<td>29</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td>-</td>
+<td><strong>49</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<p style="font-size:18px;">
+The number of vacancies is provisional and may change depending upon organizational requirements. Reservation for SC, ST, OBC, EWS and PwBD categories will be applicable as per Government guidelines.
+</p>
+
+<h2>About SBI Law Officer Posts</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Law Officer positions in SBI are highly respected specialist positions within the banking sector. These officers are responsible for providing legal advice, handling litigation matters, examining loan documentation, supporting recovery proceedings, ensuring regulatory compliance and protecting the legal interests of the Bank.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Working as a Law Officer in SBI provides exposure to banking laws, financial regulations, corporate legal matters, labour laws, recovery proceedings, SARFAESI Act, DRT matters and contract management. Candidates seeking long-term career growth in legal and banking sectors should consider this recruitment seriously.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="eligibility-table">
+
+<tr>
+<th colspan="2">Educational Qualification</th>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager (Law)</strong></td>
+<td>
+Graduate with a Degree in Law (LLB) from a recognized University in India.
+</td>
+</tr>
+
+<tr>
+<td><strong>Deputy Manager (Law)</strong></td>
+<td>
+Graduate with a Degree in Law (LLB) from a recognized University in India.
+</td>
+</tr>
+
+<tr>
+<td><strong>Preferred Qualification</strong></td>
+<td>
+Candidates possessing a 5-Year Integrated Law Degree may be given preference.
+</td>
+</tr>
+
+<tr>
+<th colspan="2">Work Experience</th>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager (Law)</strong></td>
+<td>
+Minimum 2 years experience as a practicing Advocate enrolled with Bar Council OR as Law Officer in Legal Department of Scheduled Commercial Banks OR a combination of both.
+</td>
+</tr>
+
+<tr>
+<td><strong>Deputy Manager (Law)</strong></td>
+<td>
+Minimum 4 years experience as a practicing Advocate enrolled with Bar Council OR as Law Officer in Legal Department of Scheduled Commercial Banks OR a combination of both.
+</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Age Limit (As on 31 May 2026)</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Manager (Law)</td>
+<td>25 to 32 Years</td>
+</tr>
+
+<tr>
+<td>Deputy Manager (Law)</td>
+<td>25 to 35 Years</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<p style="font-size:20px;">
+Age relaxation for SC/ST/OBC/PwBD/Ex-Servicemen candidates will be applicable as per Government of India rules.
+</p>
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹750</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Pay Scale and Salary</h2>
+
+<div class="salary-table-container">
+
+<table class="salary-table">
+
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Grade</th>
+<th>Pay Scale</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Manager (Law)</td>
+<td>JMGS-I</td>
+<td>₹48,480 – ₹85,920</td>
+</tr>
+
+<tr>
+<td>Deputy Manager (Law)</td>
+<td>MMGS-II</td>
+<td>₹64,820 – ₹93,960</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="salary-note">
+Apart from basic pay, SBI Law Officers are entitled to Dearness Allowance (DA), House Rent Allowance (HRA), City Compensatory Allowance (CCA), Medical Benefits, Leave Travel Concession (LTC), Pension Benefits, Provident Fund and other benefits as per SBI rules.
+</div>
+
+</div>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Online Written Examination:</strong>
+Candidates will appear for an online examination consisting of General Aptitude and Professional Knowledge related to law and banking legal matters.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Shortlisting:</strong>
+Candidates securing the required qualifying marks will be shortlisted for the interview process.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Personal Interview:</strong>
+The interview will assess legal knowledge, banking awareness, communication skills, professional experience and suitability for the post.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Final Merit List:</strong>
+Final selection will be based on combined performance in the online examination and interview.
+</p>
+
+<h2>Online Examination Pattern</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Section</th>
+<th>Questions</th>
+<th>Marks</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Reasoning & Computer Aptitude</td>
+<td>50</td>
+<td>50</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>50</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Professional Knowledge (Law)</td>
+<td>50</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>150</strong></td>
+<td><strong>175</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Syllabus Overview</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Banking Regulation Act</li>
+<li>Negotiable Instruments Act</li>
+<li>Contract Act</li>
+<li>Companies Act</li>
+<li>SARFAESI Act</li>
+<li>Recovery of Debts Laws</li>
+<li>Consumer Protection Laws</li>
+<li>Constitution of India</li>
+<li>Civil Procedure Code</li>
+<li>Criminal Procedure Code</li>
+<li>Banking and Financial Sector Laws</li>
+<li>Legal Drafting and Documentation</li>
+</ul>
+
+<h2>Why Join SBI as a Law Officer?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+State Bank of India is India's largest public sector bank with an extensive domestic and international presence. Law Officers in SBI are entrusted with handling high-value litigation matters, legal advisory services, recovery proceedings, contractual issues and regulatory compliance. The role offers excellent professional exposure and long-term career stability.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Working with SBI allows legal professionals to gain expertise in banking laws, financial regulations, corporate legal matters and litigation management. The position also offers attractive compensation, career progression opportunities and access to one of the strongest professional networks in the banking industry.
+</p>
+
+<h2>Career Growth and Promotion</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected as Assistant Manager (Law) and Deputy Manager (Law) can progress through various managerial and senior specialist positions within SBI. Based on performance, experience and internal promotion policies, officers may advance to higher grades and leadership roles in the legal department of the bank.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The banking sector offers excellent long-term career prospects for legal professionals. Experience gained in SBI enhances expertise in banking litigation, compliance management, corporate legal affairs and financial regulations.
+</p>
+
+<h2>How to Apply Online for SBI Law Officer Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official SBI Careers portal.</li>
+<li>Open the Specialist Cadre Officer Recruitment section.</li>
+<li>Select SBI Law Officer Recruitment 2026.</li>
+<li>Register using a valid email address and mobile number.</li>
+<li>Fill personal, educational and professional details carefully.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Pay the application fee online.</li>
+<li>Submit the application form before the closing date.</li>
+<li>Download and print the submitted application form.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Recent Passport Size Photograph</li>
+<li>Signature</li>
+<li>Law Degree Certificate (LLB)</li>
+<li>Bar Council Enrollment Certificate</li>
+<li>Experience Certificates</li>
+<li>Category Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Government Issued Photo ID Proof</li>
+<li>Educational Mark Sheets and Certificates</li>
+</ul>
+
+<style>
+.faq-box{
+background:#fff;
+border-left:5px solid #0d6efd;
+padding:18px;
+margin:15px 0;
+border-radius:8px;
+box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+.faq-box h3{
+margin:0 0 10px;
+font-size:22px;
+color:#0d6efd;
+}
+
+.faq-box p{
+font-size:19px;
+line-height:1.7;
+margin:0;
+}
+</style>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under SBI Law Officer Recruitment 2026?</h3>
+<p>A total of 49 vacancies have been announced for Assistant Manager (Law) and Deputy Manager (Law) posts.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date for online application submission is 14 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualification is required?</h3>
+<p>Candidates must possess a Degree in Law (LLB) from a recognized university.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. Is work experience mandatory?</h3>
+<p>Yes. Relevant experience as a practicing advocate or Law Officer is mandatory.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. What is the salary of an Assistant Manager (Law)?</h3>
+<p>The pay scale ranges from ₹48,480 to ₹85,920 plus allowances.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. What is the salary of a Deputy Manager (Law)?</h3>
+<p>The pay scale ranges from ₹64,820 to ₹93,960 plus allowances.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. Is there an online examination?</h3>
+<p>Yes. Candidates will have to qualify the online written examination before appearing for interview.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. What is the application fee?</h3>
+<p>₹750 for General/OBC/EWS candidates. SC/ST/PwBD candidates are exempted.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Can advocates apply for this recruitment?</h3>
+<p>Yes. Advocates enrolled with the Bar Council and possessing the required experience are eligible.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why is SBI Law Officer considered a good career option?</h3>
+<p>It offers job stability, attractive salary, legal specialization in banking laws and excellent promotion opportunities in India's largest public sector bank.</p>
+</div>
+
+`;
+
 JOB_CONTENT["epi-assistant-manager-2026"] = `
 
 <div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

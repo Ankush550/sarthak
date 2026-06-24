@@ -1,6 +1,225 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"sbi-bmo-2026",
+    orgWebsite:"https://sbi.co.in",
+
+    title:"SBI Bank Medical Officer Recruitment 2026",
+    shortTitle:"SBI BMO Online Form 2026",
+
+    organization:"State Bank of India (SBI)",
+
+    image:"SBI-BMO.jpeg",
+
+    totalPosts:35,
+
+    lastDate:"2026-07-14",
+    lastDateDisplay:"14 July 2026",
+
+    datePosted:"2026-06-24",
+    validThrough:"2026-07-14T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:64820,
+    salaryMax:93960,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"MBBS from NMC/State Medical Council Recognized Institution",
+
+    ageLimit:"Maximum 35 Years",
+
+    applyLink:"https://sbi.co.in/web/careers/current-openings",
+    officialNotification:"https://sbi.co.in",
+
+    fee:"Rs. 750 (General/OBC/EWS) | Nil (SC/ST/PwBD)",
+
+    description:"State Bank of India (SBI) has released Bank Medical Officer (BMO-II) Recruitment 2026 notification for 35 vacancies under Specialist Cadre Officer category. Candidates possessing MBBS degree with required General Practitioner experience can apply online from 24 June 2026 to 14 July 2026. Selection will be based on Online Written Examination, Interview and Local Language Proficiency Test.",
+
+    category:"Bank Jobs",
+    jobType:"Medical Officer Jobs",
+
+    advertisementNo:"CRPD/SCO/2026-27/03",
+
+    applicationStartDate:"2026-06-24",
+    applicationEndDate:"2026-07-14",
+
+    examDate:"August 2026 (Tentative)",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+  {
+    id:"rbi-young-professional-2026",
+    orgWebsite:"https://www.rbi.org.in",
+
+    title:"RBI Young Professional Recruitment 2026",
+    shortTitle:"RBI Young Professional Online Form 2026",
+
+    organization:"Reserve Bank of India (RBI)",
+
+    image:"RBI.jpeg",
+
+    totalPosts:12,
+
+    lastDate:"2026-07-06",
+    lastDateDisplay:"06 July 2026",
+
+    datePosted:"2026-06-24",
+    validThrough:"2026-07-06T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:150000,
+    salaryMax:150000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Mumbai, Maharashtra",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Post Graduate / M.Tech / PhD / CA / Data Science / Economics / Finance / AI / Cyber Security / Statistics (Post Wise)",
+
+    ageLimit:"21 to 30 Years",
+
+    applyLink:"mailto:yphrmdco@rbi.org.in",
+    officialNotification:"https://www.rbi.org.in",
+
+    fee:"No Application Fee",
+
+    description:"Reserve Bank of India (RBI) has invited applications for 12 Young Professional (YP) positions across Cyber Security, Artificial Intelligence, Climate Finance, Data Analytics, Quantum Technology, Economic Research and Financial Markets domains. Candidates can apply through email before 06 July 2026. Selected candidates will receive a fixed monthly stipend of ₹1,50,000 and will be engaged on a contractual basis for an initial period of 3 years, extendable up to 5 years.",
+
+    category:"Bank Jobs",
+    jobType:"Young Professional Jobs",
+
+    advertisementNo:"RBI/TMD1/YP/06/2026-27/01",
+
+    applicationStartDate:"2026-06-15",
+    applicationEndDate:"2026-07-06",
+
+    examDate:"Interview Based Selection",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+  {
+    id:"ntpc-assistant-chemist-trainee-2026",
+    orgWebsite:"https://www.ntpc.co.in",
+    title:"NTPC Assistant Chemist Trainee Recruitment 2026",
+    shortTitle:"NTPC ACT Online Form 2026",
+    organization:"NTPC Limited",
+
+    image:"NTPC.jpeg",
+
+    totalPosts:40,
+
+    lastDate:"2026-07-10",
+    lastDateDisplay:"10 July 2026",
+
+    datePosted:"2026-06-24",
+    validThrough:"2026-07-10T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:30000,
+    salaryMax:120000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Regular Full-Time M.Sc. in Chemistry",
+
+    ageLimit:"Maximum 27 Years",
+
+    applyLink:"https://careers.ntpc.co.in",
+    officialNotification:"https://www.ntpc.co.in",
+
+    fee:"Rs. 500 (General/OBC/EWS) | Nil (SC/ST/PwBD/Female/XSM)",
+
+    description:"NTPC Limited has invited online applications for 40 Assistant Chemist Trainee (ACT) vacancies under Advertisement No. 09/26. Candidates possessing Regular Full-Time M.Sc. in Chemistry with minimum 60% marks can apply online from 26 June 2026 to 10 July 2026. Selection will be based on Online Selection Test comprising Subject Knowledge Test and Executive Aptitude Test.",
+
+    category:"PSU Jobs",
+    jobType:"Chemistry Jobs",
+
+    advertisementNo:"09/26",
+
+    applicationStartDate:"2026-06-26",
+    applicationEndDate:"2026-07-10",
+
+    examDate:"To Be Announced",
+    interviewDate:"No Interview",
+
+    status:"open",
+    isNew:true
+},
+  {
+    id:"sbi-law-officer-2026",
+    orgWebsite:"https://sbi.co.in",
+    title:"SBI Law Officer Recruitment 2026",
+    shortTitle:"SBI SCO Law Officer Online Form 2026",
+    organization:"State Bank of India (SBI)",
+    image:"SBI-LAW.jpeg",
+
+    totalPosts:49,
+
+    lastDate:"2026-07-14",
+    lastDateDisplay:"14 July 2026",
+
+    datePosted:"2026-06-24",
+    validThrough:"2026-07-14T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:48480,
+    salaryMax:93960,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"LLB / Law Degree from Recognized University",
+
+    ageLimit:"25 to 35 Years (Post Wise)",
+
+    applyLink:"https://sbi.co.in/web/careers/current-openings",
+    officialNotification:"https://sbi.co.in",
+
+    fee:"Rs. 750 (General/OBC/EWS) | Nil (SC/ST/PwBD)",
+
+    description:"State Bank of India (SBI) has released Specialist Cadre Officer (Law) Recruitment 2026 notification for 49 Assistant Manager (Law) and Deputy Manager (Law) vacancies. Eligible law graduates with required advocate or banking legal experience can apply online from 24 June 2026 to 14 July 2026. Selection will be based on Online Written Examination and Interview.",
+
+    category:"Bank Jobs",
+    jobType:"Law Officer Jobs",
+
+    advertisementNo:"CRPD/SCO/2026-27/02",
+
+    applicationStartDate:"2026-06-24",
+    applicationEndDate:"2026-07-14",
+
+    examDate:"August 2026 (Tentative)",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+  {
     id:"epi-assistant-manager-2026",
     orgWebsite:"https://www.epi.gov.in",
     title:"EPI Assistant Manager & Senior Manager Recruitment 2026",
