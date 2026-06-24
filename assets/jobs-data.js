@@ -1,6 +1,59 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"esic-professor-2026",
+    orgWebsite:"https://www.esic.gov.in",
+    title:"ESIC Professor Recruitment 2026",
+    shortTitle:"ESIC Teaching Faculty Offline Form 2026",
+    organization:"Employees' State Insurance Corporation (ESIC)",
+    image:"ESIC.jpeg",
+
+    totalPosts:118,
+
+    lastDate:"2026-07-27",
+    lastDateDisplay:"27 July 2026",
+
+    datePosted:"2026-05-19",
+    validThrough:"2026-07-27T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:123100,
+    salaryMax:215900,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"MD / MS / Equivalent PG Degree OR Master's Degree + Ph.D. (Subject Wise)",
+
+    ageLimit:"Maximum 50 Years",
+
+    applyLink:"https://www.esic.gov.in",
+    officialNotification:"https://www.esic.gov.in",
+
+    fee:"Rs. 500 (General/OBC/EWS) | Nil (SC/ST/PwBD/Women)",
+
+    description:"Employees' State Insurance Corporation (ESIC) has released Professor Recruitment 2026 notification for 118 Teaching Faculty vacancies across 22 medical specialties in ESIC Medical Colleges and PGIMSR institutions. Eligible candidates can apply offline up to 27 July 2026. Selection will be based on interview and academic experience.",
+
+    category:"Teaching Jobs",
+    jobType:"Professor",
+
+    advertisementNo:"ESIC Professor Recruitment 2026",
+
+    applicationStartDate:"2026-05-19",
+    applicationEndDate:"2026-07-27",
+
+    examDate:"No Written Exam",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+  {
     id:"bob-sports-quota-2026",
     orgWebsite:"https://www.bankofbaroda.bank.in",
     title:"Bank of Baroda Sports Quota Recruitment 2026",
@@ -57,6 +110,111 @@ const JOBS_DATA = [
     officialNotification:"https://www.igcar.gov.in/recruitment.html",
     fee:"Application Fee Applicable (Check Online Portal)",
     description:"IGCAR Recruitment 2026 for 50 Junior Research Fellowship (JRF) posts under Physical Sciences, Chemical Sciences and Engineering Sciences disciplines. Online application starts on 22 June 2026 and closes on 13 July 2026.",
+    status:"open",
+    isNew:true
+},
+{
+    id:"ssc-cgl-2026",
+    orgWebsite:"https://ssc.gov.in",
+    title:"SSC Combined Graduate Level (CGL) Recruitment 2026",
+    shortTitle:"SSC CGL Online Form 2026",
+    organization:"Staff Selection Commission (SSC)",
+    image:"SSC-CGL.jpeg",
+
+    totalPosts:12256,
+
+    lastDate:"2026-06-25",
+    lastDateDisplay:"25 June 2026",
+
+    datePosted:"2026-05-21",
+    validThrough:"2026-06-25T23:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:25500,
+    salaryMax:151100,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree from a Recognized University",
+
+    ageLimit:"18 to 32 Years (Post Wise)",
+
+    applyLink:"https://ssc.gov.in/",
+    officialNotification:"https://ssc.gov.in/",
+
+    fee:"Rs. 100 (General/OBC/EWS Male) | NIL (SC/ST/PwBD/Women/ESM)",
+
+    description:"Staff Selection Commission (SSC) has reopened the SSC Combined Graduate Level (CGL) Examination 2026 online application process for approximately 12,256 Group B and Group C vacancies across various Ministries, Departments and Government of India organizations. Eligible graduates can apply online from 23 June 2026 to 25 June 2026. Selection will be based on Tier-I and Tier-II Computer Based Examinations.",
+
+    category:"SSC Jobs",
+    jobType:"Group B & Group C Government Jobs",
+    advertisementNo:"F. No. HQ-C11018/1/2026-C-1",
+
+    applicationStartDate:"2026-05-21",
+    applicationEndDate:"2026-06-25",
+
+    examDate:"August - September 2026 (Tier-I)",
+    interviewDate:"No Interview",
+
+    status:"open",
+    isNew:true
+},
+{
+    id:"neepco-executive-2026",
+    orgWebsite:"https://neepco.co.in",
+    title:"NEEPCO Executive Recruitment 2026",
+    shortTitle:"NEEPCO Executive Online Form 2026",
+    organization:"North Eastern Electric Power Corporation Limited (NEEPCO)",
+    image:"NEEPCO.jpeg",
+
+    totalPosts:38,
+
+    lastDate:"2026-07-13",
+    lastDateDisplay:"13 July 2026",
+
+    datePosted:"2026-06-23",
+    validThrough:"2026-07-13T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:71000,
+    salaryMax:166000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Shillong",
+    addressRegion:"Meghalaya",
+    addressCountry:"IN",
+
+    qualification:"Graduate / B.E. / B.Tech / MBBS / CA / CMA / MBA / LLB / MSW / PG Degree / Diploma (Post Wise)",
+
+    ageLimit:"30 to 37 Years (Post Wise)",
+
+    applyLink:"https://neepco.co.in",
+    officialNotification:"https://neepco.co.in",
+
+    fee:"Rs. 500 (General/OBC/EWS) | Nil for SC/ST/PwBD (As per Notification)",
+
+    description:"North Eastern Electric Power Corporation Limited (NEEPCO) has released Executive Recruitment 2026 Notification for 38 vacancies including Executive (ERP), Executive (HR), Executive (Civil), Executive (Finance), Executive (Medical), Executive (Law), Executive (Safety), Executive (Security) and CSR positions. Eligible candidates can apply online from 23 June 2026 to 13 July 2026. The selection process includes application screening, written/computer-based test and personal interview. Selected candidates can receive monthly salaries ranging from Rs. 71,000 to Rs. 1,66,000.",
+
+    category:"PSU Jobs",
+    jobType:"Executive Jobs",
+
+    advertisementNo:"NEEPCO-02/2026",
+
+    applicationStartDate:"2026-06-23",
+    applicationEndDate:"2026-07-13",
+
+    examDate:"To Be Announced",
+    interviewDate:"To Be Announced",
+
     status:"open",
     isNew:true
 },
