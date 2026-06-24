@@ -1,6 +1,59 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"epi-assistant-manager-2026",
+    orgWebsite:"https://www.epi.gov.in",
+    title:"EPI Assistant Manager & Senior Manager Recruitment 2026",
+    shortTitle:"EPI Assistant Manager Online Form 2026",
+    organization:"Engineering Projects (India) Limited (EPI)",
+    image:"EPI.jpeg",
+
+    totalPosts:14,
+
+    lastDate:"2026-07-03",
+    lastDateDisplay:"03 July 2026",
+
+    datePosted:"2026-06-24",
+    validThrough:"2026-07-03T17:30:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:40000,
+    salaryMax:70000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Gujarat, Maharashtra, Goa",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"B.E / B.Tech / AMIE in Civil, Electrical or Mechanical Engineering",
+
+    ageLimit:"32 to 42 Years (Post Wise)",
+
+    applyLink:"https://www.epi.gov.in",
+    officialNotification:"https://www.epi.gov.in",
+
+    fee:"As Per Official Notification",
+
+    description:"Engineering Projects (India) Limited (EPI), a Mini Ratna Category-I CPSE under the Ministry of Heavy Industries, has invited applications for 14 Assistant Manager and Senior Manager vacancies on Fixed Term Contract basis. Eligible engineering graduates can apply online from 24 June 2026 to 03 July 2026. Selection will be based on shortlisting, written test (if required) and interview.",
+
+    category:"PSU Jobs",
+    jobType:"Engineering Jobs",
+
+    advertisementNo:"HRM/REC/04/2026",
+
+    applicationStartDate:"2026-06-24",
+    applicationEndDate:"2026-07-03",
+
+    examDate:"If Required",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+  {
     id:"esic-professor-2026",
     orgWebsite:"https://www.esic.gov.in",
     title:"ESIC Professor Recruitment 2026",

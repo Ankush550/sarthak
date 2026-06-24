@@ -1,5 +1,461 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["epi-assistant-manager-2026"] = `
+
+<div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+  <strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+  <time datetime="2026-06-24">Published: 24 June 2026</time> &nbsp;|&nbsp;
+  Updated: 24 June 2026
+</div>
+
+<h2 style="font-size:45.5px;color:#666;">
+EPI Assistant Manager & Senior Manager Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Engineering Projects (India) Limited (EPI), a Mini Ratna Category-I Central Public Sector Enterprise under the Ministry of Heavy Industries, Government of India, has released the official notification for <strong>EPI Recruitment 2026</strong>. The organization has invited online applications from eligible engineering professionals for the recruitment of <strong>Assistant Manager and Senior Manager</strong> positions on a Fixed Term Contract basis.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+A total of <strong>14 vacancies</strong> have been announced for Civil, Electrical and Mechanical Engineering disciplines. Candidates possessing B.E., B.Tech or AMIE qualifications with relevant post qualification experience can apply for these prestigious PSU positions. Selected candidates will be posted in various project locations across Gujarat, Maharashtra and Goa.
+</p>
+
+<p style="font-family:'Segoe UI',Arial,Helvetica,sans-serif;font-size:20px;color:#222;">
+Engineering Projects (India) Limited has been actively involved in executing major infrastructure, industrial, power, water supply, railway, transportation and construction projects across India and abroad. Working with EPI provides excellent exposure to large-scale engineering projects and government infrastructure development programs.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Notification Release Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>24 June 2026 (09:30 AM)</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">03 July 2026 (05:30 PM)</strong></td>
+</tr>
+
+<tr>
+<td>Shortlisting Result</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Interview Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>EPI Vacancy Details 2026</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Posts</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Manager (Civil)</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Assistant Manager (Electrical)</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Assistant Manager (Mechanical)</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>Senior Manager (Civil)</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>14</strong></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>Post Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Discipline</th>
+<th>Position</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Civil Engineering</td>
+<td>Assistant Manager</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Electrical Engineering</td>
+<td>Assistant Manager</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Mechanical Engineering</td>
+<td>Assistant Manager</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>Civil Engineering</td>
+<td>Senior Manager</td>
+<td>2</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>About Engineering Projects (India) Limited</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Engineering Projects (India) Limited, popularly known as EPI, is a Government of India Enterprise established to undertake turnkey engineering and construction projects. Over the years, EPI has successfully executed several prestigious infrastructure projects including industrial plants, airports, educational institutions, hospitals, roads, railways, water supply systems and government buildings.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+As a Mini Ratna Category-I CPSE, EPI offers excellent opportunities for engineering professionals who wish to build a career in project management, infrastructure development and construction engineering. The organization works closely with various central and state government agencies and plays a significant role in India's infrastructure growth.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="eligibility-table">
+
+<tr>
+<th colspan="2">Educational Qualification</th>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager (Civil)</strong></td>
+<td>
+B.E. / B.Tech / AMIE in Civil Engineering from a recognized University or Institution with relevant post qualification experience.
+</td>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager (Electrical)</strong></td>
+<td>
+B.E. / B.Tech / AMIE in Electrical Engineering from a recognized University or Institution with relevant experience.
+</td>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager (Mechanical)</strong></td>
+<td>
+B.E. / B.Tech / AMIE in Mechanical Engineering from a recognized University or Institution with relevant experience.
+</td>
+</tr>
+
+<tr>
+<td><strong>Senior Manager (Civil)</strong></td>
+<td>
+B.E. / B.Tech / AMIE in Civil Engineering with substantial professional experience in project execution and management.
+</td>
+</tr>
+
+<tr>
+<th colspan="2">Experience Requirement</th>
+</tr>
+
+<tr>
+<td><strong>Assistant Manager</strong></td>
+<td>
+Minimum post qualification experience as prescribed in the official notification.
+</td>
+</tr>
+
+<tr>
+<td><strong>Senior Manager</strong></td>
+<td>
+Higher level managerial and project execution experience in infrastructure or construction projects.
+</td>
+</tr>
+
+</table>
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Maximum Age</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Assistant Manager (Civil)</td>
+<td>32 Years</td>
+</tr>
+
+<tr>
+<td>Assistant Manager (Electrical)</td>
+<td>32 Years</td>
+</tr>
+
+<tr>
+<td>Assistant Manager (Mechanical)</td>
+<td>32 Years</td>
+</tr>
+
+<tr>
+<td>Senior Manager (Civil)</td>
+<td>42 Years</td>
+</tr>
+
+</tbody>
+</table>
+
+<p style="font-size:20px;">
+<strong>Age Relaxation:</strong> SC/ST, OBC, PwBD and other reserved category candidates will be eligible for age relaxation as per Government of India rules.
+</p>
+
+<h2>Contract Period</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Initial Contract Period</td>
+<td>01 Year</td>
+</tr>
+
+<tr>
+<td>Extension</td>
+<td>May be extended annually based on performance and project requirements</td>
+</tr>
+
+<tr>
+<td>Maximum Tenure</td>
+<td>Up to 03 Years</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Pay Scale and Salary</h2>
+
+<div class="salary-table-container">
+
+<table class="salary-table">
+
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Monthly Salary</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assistant Manager</td>
+<td>₹40,000 + HRA Per Month</td>
+</tr>
+
+<tr>
+<td>Senior Manager</td>
+<td>₹70,000 + HRA Per Month</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="salary-note">
+Selected candidates will receive consolidated monthly remuneration along with House Rent Allowance (HRA). The compensation package is competitive and designed to attract experienced engineering professionals for infrastructure and project management assignments.
+</div>
+
+</div>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Application Screening:</strong>
+Applications will be scrutinized based on educational qualifications, engineering discipline, experience profile and eligibility conditions prescribed by EPI.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Written Test (If Required):</strong>
+Depending upon the number of applications received, EPI may conduct a written examination or screening assessment.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Personal Interview:</strong>
+Shortlisted candidates will be invited for personal interview to assess technical knowledge, project management capability and professional experience.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Final Selection:</strong>
+Final merit will be prepared based on performance in the selection process and successful document verification.
+</p>
+
+<h2>Why Join EPI?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Engineering Projects (India) Limited is one of the most respected government engineering enterprises in India. Working with EPI provides exposure to large-scale infrastructure projects, industrial development programs, transportation projects, public utility works and government construction assignments. Engineers gain practical experience in project planning, execution, monitoring and contract management.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The organization offers a professional work environment, opportunities to collaborate with experienced engineers and project managers, and participation in nationally significant infrastructure projects. Professionals looking to strengthen their careers in engineering project execution often consider EPI a valuable platform for career growth.
+</p>
+
+<h2>Career Growth Opportunities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected under EPI Recruitment 2026 can gain valuable experience in government infrastructure projects and engineering management. Outstanding performers may receive contract extensions, leadership responsibilities and opportunities to work on high-value national projects. Experience with EPI also enhances future prospects in public sector undertakings, infrastructure companies and project management organizations.
+</p>
+
+<h2>How to Apply Online for EPI Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official website of Engineering Projects (India) Limited.</li>
+<li>Open the Recruitment Section and locate Advertisement No. HRM/REC/04/2026.</li>
+<li>Read the notification carefully before proceeding.</li>
+<li>Complete online registration using valid email and mobile number.</li>
+<li>Fill personal, educational and professional details.</li>
+<li>Upload photograph, signature and supporting documents.</li>
+<li>Review all information carefully.</li>
+<li>Submit the application before the closing date.</li>
+<li>Keep a copy of the submitted application for future reference.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Recent Passport Size Photograph</li>
+<li>Signature</li>
+<li>10th Certificate / Date of Birth Proof</li>
+<li>B.E. / B.Tech / AMIE Degree Certificate</li>
+<li>Experience Certificates</li>
+<li>Category Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Government Issued Photo Identity Proof</li>
+<li>Updated Resume / Curriculum Vitae</li>
+</ul>
+
+<style>
+.faq-box{
+background:#fff;
+border-left:5px solid #0d6efd;
+padding:18px;
+margin:15px 0;
+border-radius:8px;
+box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+.faq-box h3{
+margin:0 0 10px;
+font-size:22px;
+color:#0d6efd;
+}
+
+.faq-box p{
+font-size:19px;
+line-height:1.7;
+margin:0;
+}
+</style>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under EPI Recruitment 2026?</h3>
+<p>A total of 14 vacancies have been announced for Assistant Manager and Senior Manager positions.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date for submission of online applications is 03 July 2026 up to 05:30 PM.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualifications are required?</h3>
+<p>Candidates must possess B.E., B.Tech or AMIE qualifications in the relevant engineering discipline.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. What is the salary offered for Assistant Manager posts?</h3>
+<p>Assistant Managers will receive ₹40,000 per month plus House Rent Allowance.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. What is the salary offered for Senior Manager posts?</h3>
+<p>Senior Managers will receive ₹70,000 per month plus House Rent Allowance.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. What is the maximum age limit?</h3>
+<p>The maximum age limit ranges from 32 years to 42 years depending on the post.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. Is this a permanent job?</h3>
+<p>No. The recruitment is on Fixed Term Contract basis initially for one year, extendable up to three years.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Where will selected candidates be posted?</h3>
+<p>Selected candidates may be posted in Gujarat, Maharashtra or Goa project locations.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Is there an interview?</h3>
+<p>Yes. Shortlisted candidates will be called for interview. A written test may also be conducted if required.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why should engineers consider EPI?</h3>
+<p>EPI offers exposure to major infrastructure projects, government engineering assignments and valuable project management experience.</p>
+</div>
+
+`;
+
+
 JOB_CONTENT["esic-professor-2026"] = `
 
 <div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
