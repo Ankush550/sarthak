@@ -89,7 +89,7 @@ const JOBS_DATA = [
     title:"IGCAR Junior Research Fellowship (JRF) Recruitment 2026",
     shortTitle:"IGCAR JRF Online Form 2026",
     organization:"Indira Gandhi Centre for Atomic Research (IGCAR)",
-    image:"ICGAR.jpeg",
+    image:"icgar.jpeg",
     totalPosts:50,
     lastDate:"2026-07-13",
     lastDateDisplay:"13 July 2026",
