@@ -1,5 +1,2761 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["rcfl-various-posts-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-25">Published: 25 June 2026</time> |
+Updated: 25 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+RCFL Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Rashtriya Chemicals and Fertilizers Limited (RCFL), a Navratna Public Sector Undertaking under the Government of India, has released the RCFL Recruitment 2026 Notification for 32 vacancies across multiple disciplines. The recruitment includes Officer, Engineer, Senior Engineer, Deputy Manager, Senior Manager and Assistant Engineer positions in Finance, Human Resources, Medical, Legal, Electrical, Civil and Chemical Laboratory departments.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+RCFL is one of India's leading fertilizer and chemical manufacturing companies with major production units located at Trombay (Mumbai) and Thal (Raigad). The organization offers excellent career opportunities, attractive salary packages, job security and long-term professional growth for eligible candidates.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The online application process will begin on 27 June 2026 and interested candidates can submit their applications until 13 July 2026. Candidates must carefully review the eligibility criteria, educational qualifications, experience requirements and age limits before applying.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td>13 July 2026 (5:00 PM)</td>
+</tr>
+
+<tr>
+<td>Eligibility Cut-off Date</td>
+<td>01 March 2026</td>
+</tr>
+
+<tr>
+<td>Interview / Skill Test</td>
+<td>To Be Announced</td>
+</tr>
+</table>
+
+<h2>RCFL Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Officer (Finance)</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Officer (HR)</td>
+<td>01</td>
+</tr>
+
+<tr>
+<td>Officer (Medical)</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Senior Manager (CC Lab)</td>
+<td>01</td>
+</tr>
+
+<tr>
+<td>Officer (Legal)</td>
+<td>01</td>
+</tr>
+
+<tr>
+<td>Assistant Engineer (Electrical)</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Engineer (Electrical)</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Senior Engineer (Electrical)</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Deputy Manager (Electrical)</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td>Engineer (Civil)</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Senior Engineer (Civil)</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>32 Posts</strong></td>
+</tr>
+
+</table>
+
+<h2>Educational Qualification</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Officer (Finance)</td>
+<td>CA / CMA / MBA Finance</td>
+</tr>
+
+<tr>
+<td>Officer (HR)</td>
+<td>Graduate + MBA/PGDM HR</td>
+</tr>
+
+<tr>
+<td>Officer (Medical)</td>
+<td>MBBS</td>
+</tr>
+
+<tr>
+<td>Officer (Legal)</td>
+<td>LLB Degree</td>
+</tr>
+
+<tr>
+<td>Assistant Engineer</td>
+<td>Diploma in Electrical Engineering</td>
+</tr>
+
+<tr>
+<td>Engineer / Sr. Engineer</td>
+<td>B.E./B.Tech</td>
+</tr>
+
+<tr>
+<td>Senior Manager (CC Lab)</td>
+<td>Ph.D / Chemical Engineering</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The age limit varies according to the post and category. The minimum age requirement is determined as per RCFL recruitment rules. The maximum age ranges from 34 years to 52 years depending upon the post and reservation category.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Post</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>Engineer (Civil / Electrical)</td>
+<td>34 Years</td>
+</tr>
+
+<tr>
+<td>Senior Engineer</td>
+<td>36 Years</td>
+</tr>
+
+<tr>
+<td>Deputy Manager</td>
+<td>38 Years</td>
+</tr>
+
+<tr>
+<td>Assistant Engineer</td>
+<td>42 Years</td>
+</tr>
+
+<tr>
+<td>Senior Manager</td>
+<td>52 Years</td>
+</tr>
+
+</table>
+
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹1000 + GST</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD / ExSM / Female</td>
+<td>Nil</td>
+</tr>
+
+</table>
+
+<h2>About RCFL</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Rashtriya Chemicals and Fertilizers Limited is one of India's leading public sector enterprises engaged in the manufacturing and marketing of fertilizers and industrial chemicals. The company has played a vital role in supporting India's agricultural growth and industrial development.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Being a Navratna PSU, RCFL offers excellent opportunities for engineers, finance professionals, HR specialists, legal experts and medical officers. Employees enjoy competitive compensation, structured promotion policies and exposure to large-scale industrial operations.
+</p>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment process differs according to the grade and post. Candidates should prepare according to the specific selection criteria applicable to their desired position.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Skill Test (For Assistant Engineer)</li>
+<li>Personal Interview</li>
+<li>Document Verification</li>
+<li>Medical Examination</li>
+<li>Final Merit List</li>
+</ul>
+<h2 style="font-size:45px;color:#666;">
+Salary Structure & Pay Scale
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+RCFL offers attractive salary packages according to Department of Public Enterprises (DPE) guidelines applicable to Navratna Public Sector Undertakings. In addition to basic pay, employees receive allowances, perks and benefits.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Grade</th>
+<th>Pay Scale</th>
+<th>Approx Salary</th>
+</tr>
+
+<tr>
+<td>E0</td>
+<td>₹30,000 – ₹1,20,000</td>
+<td>₹65,000/month</td>
+</tr>
+
+<tr>
+<td>E1</td>
+<td>₹40,000 – ₹1,40,000</td>
+<td>₹86,960/month</td>
+</tr>
+
+<tr>
+<td>E2</td>
+<td>₹50,000 – ₹1,60,000</td>
+<td>₹1,08,700/month</td>
+</tr>
+
+<tr>
+<td>E3</td>
+<td>₹60,000 – ₹1,80,000</td>
+<td>₹1,30,440/month</td>
+</tr>
+
+<tr>
+<td>E5</td>
+<td>₹80,000 – ₹2,20,000</td>
+<td>₹1,73,920/month</td>
+</tr>
+
+</table>
+
+<h2>Additional Benefits</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Dearness Allowance (DA)</li>
+<li>House Rent Allowance (HRA)</li>
+<li>Medical Facilities</li>
+<li>Provident Fund</li>
+<li>Gratuity Benefits</li>
+<li>Performance Related Pay</li>
+<li>Leave Travel Concession</li>
+<li>Insurance Coverage</li>
+<li>Career Advancement Opportunities</li>
+</ul>
+
+<h2>Why Join RCFL?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+RCFL is one of India's most prestigious fertilizer and chemical sector PSUs. Working with RCFL provides financial stability, career growth and the opportunity to contribute to India's industrial and agricultural sectors.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Navratna PSU Status</li>
+<li>Excellent Salary Package</li>
+<li>Long-Term Job Security</li>
+<li>Professional Development</li>
+<li>Promotion Opportunities</li>
+<li>Industrial Exposure</li>
+<li>Government Benefits</li>
+<li>Work-Life Balance</li>
+</ul>
+
+<h2>How to Apply Online for RCFL Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official website www.rcfltd.com.</li>
+<li>Open the HR → Recruitment section.</li>
+<li>Select Advertisement No. 18032026.</li>
+<li>Register using valid email ID and mobile number.</li>
+<li>Fill personal, educational and experience details.</li>
+<li>Upload photograph, signature and documents.</li>
+<li>Pay application fee online.</li>
+<li>Verify all details carefully.</li>
+<li>Submit the application form.</li>
+<li>Download and print the final application copy.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>10th Certificate</li>
+<li>Graduation Certificate</li>
+<li>Professional Qualification Certificates</li>
+<li>Experience Certificates</li>
+<li>Category Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Scanned Signature</li>
+<li>Government Photo ID Proof</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q1. How many vacancies are available in RCFL Recruitment 2026?</h3>
+<p style="font-size:20px;">A total of 32 vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q2. What is the last date to apply?</h3>
+<p style="font-size:20px;">13 July 2026 at 5:00 PM.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q3. What is the application fee?</h3>
+<p style="font-size:20px;">₹1000 for General/OBC/EWS candidates and Nil for reserved categories.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q4. What is the highest salary offered?</h3>
+<p style="font-size:20px;">Up to ₹2,20,000 pay scale under E5 Grade.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q5. Is RCFL a Government Company?</h3>
+<p style="font-size:20px;">Yes, RCFL is a Navratna Public Sector Undertaking under the Government of India.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q6. What is the selection process?</h3>
+<p style="font-size:20px;">Skill Test, Interview, Document Verification and Medical Examination.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q7. Can freshers apply?</h3>
+<p style="font-size:20px;">Most posts require relevant work experience.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q8. What is the official website?</h3>
+<p style="font-size:20px;">www.rcfltd.com</p>
+</div>
+
+<h2>Apply Online – RCFL Recruitment 2026</h2>
+
+<p style="font-size:20px;">
+<strong>Last Date:</strong> 13 July 2026 |
+<strong>Status:</strong> Open Now
+</p>
+
+<p style="font-size:20px;">
+<strong>Total Vacancies:</strong> 32 Posts
+</p>
+
+<p style="font-size:20px;">
+<strong>Official Website:</strong> www.rcfltd.com
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Disclaimer: SarthakYojana.in is not the official recruitment authority. Candidates are advised to verify all details from the official RCFL notification before applying.
+</p>
+
+`;
+JOB_CONTENT["rvunl-je-junior-accountant-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-25">Published: 25 June 2026</time> |
+Updated: 25 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+RVUNL Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has released a short notification for the much-awaited RVUNL Recruitment 2026. This recruitment drive is expected to fill approximately 2005 vacancies across various technical and non-technical posts under Rajasthan's major power sector companies including RVUNL, Jaipur Vidyut Vitran Nigam Limited (JVVNL), Ajmer Vidyut Vitran Nigam Limited (AVVNL), Jodhpur Vidyut Vitran Nigam Limited (JDVVNL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment includes opportunities for Junior Engineers, Junior Accountants, Junior Assistants, Commercial Assistants and various technical positions. Candidates possessing ITI, Diploma, Engineering Degrees, B.Com, MBA and Graduation qualifications will be eligible to apply according to the post-specific requirements mentioned in the detailed notification. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+This recruitment is expected to become one of the largest government job opportunities in Rajasthan's power sector during 2026. Thousands of candidates preparing for state government jobs, engineering jobs and electricity department vacancies are eagerly awaiting the release of the detailed advertisement.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive attractive salary packages, government allowances, job security and career growth opportunities under Rajasthan State Power Companies. Interested applicants should regularly visit the official website for detailed notification updates and application schedules. :contentReference[oaicite:2]{index=2}
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Short Notice Release Date</td>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<td>Detailed Notification</td>
+<td>Expected Soon</td>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>July 2026 (Tentative)</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td>July 2026 (Tentative)</td>
+</tr>
+
+<tr>
+<td>Exam Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2>RVUNL Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Junior Engineer-I (Electrical)</td>
+<td>727</td>
+</tr>
+
+<tr>
+<td>Junior Engineer-I (Mechanical)</td>
+<td>110</td>
+</tr>
+
+<tr>
+<td>Junior Engineer-I (Civil)</td>
+<td>32</td>
+</tr>
+
+<tr>
+<td>Junior Accountant</td>
+<td>371</td>
+</tr>
+
+<tr>
+<td>Junior Assistant / Commercial Assistant-II</td>
+<td>765</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>2005 Posts (Approx.)</strong></td>
+</tr>
+
+</table>
+
+<h2>Participating Power Companies</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment will be conducted for multiple Rajasthan government power sector organizations. Selected candidates may be appointed in any participating company based on merit, vacancy availability and organizational requirements.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)</li>
+<li>Jaipur Vidyut Vitran Nigam Limited (JVVNL)</li>
+<li>Ajmer Vidyut Vitran Nigam Limited (AVVNL)</li>
+<li>Jodhpur Vidyut Vitran Nigam Limited (JDVVNL)</li>
+<li>Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL)</li>
+</ul>
+
+<h2>Educational Qualification</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Junior Engineer</td>
+<td>B.E. / B.Tech in Relevant Discipline</td>
+</tr>
+
+<tr>
+<td>Junior Accountant</td>
+<td>B.Com / M.Com / MBA (Finance)</td>
+</tr>
+
+<tr>
+<td>Technician</td>
+<td>ITI in Relevant Trade</td>
+</tr>
+
+<tr>
+<td>Junior Assistant</td>
+<td>Graduate Degree</td>
+</tr>
+
+<tr>
+<td>Commercial Assistant</td>
+<td>Graduate Degree</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Age Limit</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>18 Years</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>40 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.8;">
+Age relaxation for SC, ST, OBC, EWS, Women, Ex-Servicemen and other reserved categories will be applicable as per Rajasthan Government recruitment rules. Detailed age relaxation information will be available in the detailed notification. :contentReference[oaicite:3]{index=3}
+</p>
+
+<h2>Salary Structure</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive salary according to Rajasthan Power Companies service rules. In addition to basic pay, employees will be entitled to Dearness Allowance, House Rent Allowance, Medical Facilities, Leave Benefits and other government allowances.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Category</th>
+<th>Expected Pay Scale</th>
+</tr>
+
+<tr>
+<td>Junior Engineer</td>
+<td>₹33,800 – ₹56,100</td>
+</tr>
+
+<tr>
+<td>Junior Accountant</td>
+<td>₹23,700 – ₹42,000</td>
+</tr>
+
+<tr>
+<td>Junior Assistant</td>
+<td>₹20,800 – ₹37,800</td>
+</tr>
+
+<tr>
+<td>Technician</td>
+<td>₹19,200 – ₹34,800</td>
+</tr>
+
+</table>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The selection process is expected to include a Computer Based Written Examination followed by Document Verification. Certain posts may have additional qualification verification requirements depending on technical eligibility criteria.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Online / Computer Based Test (CBT)</li>
+<li>Document Verification</li>
+<li>Medical Fitness Verification</li>
+<li>Final Merit List</li>
+</ul>
+<h2>Expected Exam Pattern</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The detailed examination pattern will be released along with the complete notification. However, based on previous Rajasthan Power Companies recruitments, the examination is expected to consist of objective-type multiple choice questions covering technical subjects, general knowledge, reasoning, mathematics and Rajasthan-related topics.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Section</th>
+<th>Expected Weightage</th>
+</tr>
+
+<tr>
+<td>Technical / Professional Knowledge</td>
+<td>60%</td>
+</tr>
+
+<tr>
+<td>Reasoning Ability</td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td>General Knowledge</td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td>Rajasthan GK</td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td>Computer Knowledge</td>
+<td>10%</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should start preparation early, especially for technical subjects related to their discipline, as competition is expected to be very high due to the large number of vacancies.
+</p>
+
+<h2>Job Profile and Responsibilities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will perform duties according to their respective posts within Rajasthan's electricity generation, transmission and distribution companies. The responsibilities vary depending on technical and non-technical positions.
+</p>
+
+<h3 style="font-size:28px;color:#0d47a1;">Junior Engineer</h3>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Operation and maintenance of electrical systems.</li>
+<li>Monitoring power generation and distribution equipment.</li>
+<li>Project execution and site supervision.</li>
+<li>Technical reporting and inspections.</li>
+<li>Ensuring safety standards compliance.</li>
+</ul>
+
+<h3 style="font-size:28px;color:#0d47a1;">Junior Accountant</h3>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Financial record management.</li>
+<li>Preparation of accounts and reports.</li>
+<li>Budget monitoring.</li>
+<li>Taxation and audit support.</li>
+<li>Financial data analysis.</li>
+</ul>
+
+<h3 style="font-size:28px;color:#0d47a1;">Junior Assistant / Commercial Assistant</h3>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Office administration.</li>
+<li>Consumer service support.</li>
+<li>Data entry and documentation.</li>
+<li>File management.</li>
+<li>Customer billing assistance.</li>
+</ul>
+
+<h2>Why Join RVUNL and Rajasthan Power Companies?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Rajasthan Power Sector Companies are among the largest public sector employers in the state. Employees enjoy excellent job security, structured career growth, attractive salaries and numerous welfare benefits. The sector plays a critical role in Rajasthan's infrastructure development and energy security.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Permanent Government Sector Employment</li>
+<li>Attractive Salary Structure</li>
+<li>Annual Increments</li>
+<li>Dearness Allowance (DA)</li>
+<li>House Rent Allowance (HRA)</li>
+<li>Medical Benefits</li>
+<li>Leave Travel Concession</li>
+<li>Pension Benefits under NPS</li>
+<li>Promotion Opportunities</li>
+<li>Work-Life Balance</li>
+</ul>
+
+<h2>Career Growth Opportunities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Employees joining Rajasthan power companies have excellent opportunities for promotion through departmental examinations, seniority and performance-based advancement. Technical officers can rise to senior engineering and managerial positions, while administrative employees can progress to supervisory and executive roles.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Entry Level</th>
+<th>Future Promotion Path</th>
+</tr>
+
+<tr>
+<td>Junior Engineer</td>
+<td>Assistant Engineer → Executive Engineer</td>
+</tr>
+
+<tr>
+<td>Junior Accountant</td>
+<td>Accounts Officer → Senior Accounts Officer</td>
+</tr>
+
+<tr>
+<td>Junior Assistant</td>
+<td>Senior Assistant → Administrative Officer</td>
+</tr>
+
+<tr>
+<td>Technician</td>
+<td>Senior Technician → Supervisor</td>
+</tr>
+
+</table>
+
+<h2>How to Apply Online for RVUNL Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official website of Rajasthan Energy Department.</li>
+<li>Open the Recruitment 2026 section.</li>
+<li>Select RVUNL Recruitment 2026.</li>
+<li>Complete candidate registration.</li>
+<li>Fill the online application form carefully.</li>
+<li>Upload photograph, signature and documents.</li>
+<li>Pay the prescribed application fee.</li>
+<li>Verify all details before submission.</li>
+<li>Submit the application form.</li>
+<li>Download and print the final application copy.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>10th Certificate</li>
+<li>12th Certificate</li>
+<li>Graduation / Engineering Degree Certificate</li>
+<li>Diploma / ITI Certificate (if applicable)</li>
+<li>Caste Certificate (if applicable)</li>
+<li>EWS Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Scanned Signature</li>
+<li>Domicile Certificate</li>
+<li>Valid Email ID and Mobile Number</li>
+</ul>
+
+<h2>Preparation Tips</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Focus on technical subjects according to your discipline.</li>
+<li>Prepare Rajasthan General Knowledge thoroughly.</li>
+<li>Practice previous year power sector recruitment papers.</li>
+<li>Improve reasoning and aptitude skills.</li>
+<li>Take mock tests regularly.</li>
+<li>Revise current affairs and government schemes.</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q1. How many vacancies are available in RVUNL Recruitment 2026?</h3>
+<p style="font-size:20px;">Approximately 2005 vacancies have been announced under various Rajasthan power companies.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q2. What is the qualification required?</h3>
+<p style="font-size:20px;">Qualifications include ITI, Diploma, B.E./B.Tech, B.Com, MBA and Graduation depending on the post.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q3. What is the age limit?</h3>
+<p style="font-size:20px;">The expected age limit is 18 to 40 years.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q4. What is the selection process?</h3>
+<p style="font-size:20px;">Computer Based Test followed by Document Verification.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q5. Is this a Rajasthan Government Job?</h3>
+<p style="font-size:20px;">Yes, the recruitment is conducted for Rajasthan State Power Sector Companies.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q6. How many Junior Engineer vacancies are available?</h3>
+<p style="font-size:20px;">A total of 869 Junior Engineer vacancies are expected across Electrical, Mechanical and Civil disciplines.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q7. How many Junior Accountant vacancies are available?</h3>
+<p style="font-size:20px;">371 Junior Accountant vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q8. What is the job location?</h3>
+<p style="font-size:20px;">Selected candidates may be posted anywhere in Rajasthan.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q9. When will applications start?</h3>
+<p style="font-size:20px;">Applications are expected to begin in July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3 style="font-size:22px;">Q10. What is the official website?</h3>
+<p style="font-size:20px;">https://energy.rajasthan.gov.in</p>
+</div>
+
+<h2>Apply Online – RVUNL Recruitment 2026</h2>
+
+<p style="font-size:20px;">
+<strong>Last Date:</strong> July 2026 (Tentative) |
+<strong>Status:</strong> Short Notice Released
+</p>
+
+<p style="font-size:20px;">
+<strong>Total Vacancies:</strong> 2005 Posts
+</p>
+
+<p style="font-size:20px;">
+<strong>Organization:</strong> Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)
+</p>
+
+<p style="font-size:20px;">
+<strong>Official Website:</strong> https://energy.rajasthan.gov.in
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Disclaimer: SarthakYojana.in is not the official recruitment authority. Candidates should verify all details through the detailed official notification before applying. Vacancy numbers and dates may change after release of the detailed advertisement.
+</p>
+
+`;
+JOB_CONTENT["ccrum-various-posts-2026"] = `
+
+<div class="article-meta">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-25">Published: 25 June 2026</time> |
+Updated: 25 June 2026
+</div>
+
+<h2>CCRUM Recruitment 2026 – Complete Notification Details</h2>
+
+<p>
+The Central Council for Research in Unani Medicine (CCRUM), functioning under the Ministry of Ayush, Government of India, has released the CCRUM Recruitment 2026 Notification for 179 vacancies across various Group A, Group B and Group C posts. The recruitment drive offers opportunities for candidates from different educational backgrounds including Matriculation, 12th Pass, Diploma Holders, Graduates, Nursing Professionals, Pharmacists and Postgraduates.
+</p>
+
+<p>
+The online application process will commence from 01 July 2026 and remain open until 31 July 2026. Eligible candidates can submit their applications through the official CCRUM website. This recruitment includes vacancies for Research Officers, Staff Nurses, Medical Laboratory Technologists, Pharmacists, Upper Division Clerks, Lower Division Clerks, Stenographers, Multi-Tasking Staff (MTS) and several other technical and administrative positions.
+</p>
+
+<p>
+CCRUM is one of the leading research organizations working in the field of Unani Medicine and Ayush research in India. The organization operates multiple research institutes, hospitals and regional centers across the country. Selected candidates will be appointed under the 7th Central Pay Commission (CPC) pay structure and will receive Central Government employee benefits as per applicable rules.
+</p>
+
+<p>
+Candidates seeking stable government jobs under the Ministry of Ayush should carefully review the eligibility criteria, age limits, selection process and application procedure before submitting their online applications.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">31 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Correction Window</td>
+<td>03 August to 05 August 2026</td>
+</tr>
+
+<tr>
+<td>Exam Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2>CCRUM Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Group A Posts</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>Group B Posts</td>
+<td>34</td>
+</tr>
+
+<tr>
+<td>Group C Posts</td>
+<td>126</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>179 Posts</strong></td>
+</tr>
+
+</table>
+
+<h2>Major Posts Included in Recruitment</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Research Officer (Unani)</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>Research Officer (Pathology)</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Research Officer (Physiology)</td>
+<td>01</td>
+</tr>
+
+<tr>
+<td>Staff Nurse</td>
+<td>07</td>
+</tr>
+
+<tr>
+<td>Medical Laboratory Technologist</td>
+<td>12</td>
+</tr>
+
+<tr>
+<td>Pharmacist</td>
+<td>06</td>
+</tr>
+
+<tr>
+<td>Upper Division Clerk (UDC)</td>
+<td>31</td>
+</tr>
+
+<tr>
+<td>Lower Division Clerk (LDC)</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>Multi Tasking Staff (MTS)</td>
+<td>43</td>
+</tr>
+
+</table>
+
+<h2>About CCRUM</h2>
+
+<p>
+The Central Council for Research in Unani Medicine (CCRUM) is an autonomous organization under the Ministry of Ayush. It is responsible for conducting scientific research, clinical studies and healthcare initiatives related to the Unani system of medicine. The council operates research institutes, regional research centers and healthcare facilities throughout India.
+</p>
+
+<p>
+CCRUM plays an important role in promoting evidence-based research and development in traditional medicine systems. The organization regularly recruits professionals from medical, scientific, technical and administrative backgrounds to support its expanding research and healthcare activities.
+</p>
+
+<h2>Educational Qualification</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Category</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Research Officer</td>
+<td>PG Degree / MD / MS / PhD</td>
+</tr>
+
+<tr>
+<td>Staff Nurse</td>
+<td>B.Sc Nursing / GNM</td>
+</tr>
+
+<tr>
+<td>Pharmacist</td>
+<td>12th + Diploma in Pharmacy</td>
+</tr>
+
+<tr>
+<td>UDC</td>
+<td>Graduate Degree</td>
+</tr>
+
+<tr>
+<td>LDC</td>
+<td>12th Pass + Typing</td>
+</tr>
+
+<tr>
+<td>MTS</td>
+<td>10th Pass / ITI</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Category</th>
+<th>Age Limit</th>
+</tr>
+
+<tr>
+<td>Group A</td>
+<td>Up to 40 Years</td>
+</tr>
+
+<tr>
+<td>Group B</td>
+<td>Up to 35 Years</td>
+</tr>
+
+<tr>
+<td>Group C</td>
+<td>18 to 30 Years</td>
+</tr>
+
+</table>
+
+<p>
+Age relaxation for SC, ST, OBC, PwBD, Ex-Servicemen and other reserved categories will be provided as per Central Government rules.
+</p>
+
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Fee Range</th>
+</tr>
+
+<tr>
+<td>General / OBC</td>
+<td>₹1,300 to ₹2,000</td>
+</tr>
+
+<tr>
+<td>SC / ST / EWS / Women / PwBD</td>
+<td>₹500</td>
+</tr>
+
+</table>
+
+<h2>Salary Structure</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Group</th>
+<th>Pay Scale</th>
+</tr>
+
+<tr>
+<td>Group A</td>
+<td>₹56,100 – ₹1,77,500</td>
+</tr>
+
+<tr>
+<td>Group B</td>
+<td>₹35,400 – ₹1,42,400</td>
+</tr>
+
+<tr>
+<td>Group C</td>
+<td>₹18,000 – ₹92,300</td>
+</tr>
+
+</table>
+
+<p>
+Selected candidates will receive salary as per the 7th CPC along with Dearness Allowance (DA), House Rent Allowance (HRA), Medical Benefits, Leave Benefits, Pension benefits under NPS and other government allowances as applicable.
+</p>
+
+<h2>Selection Process</h2>
+
+<p>
+The selection process varies according to the post category. Group A posts involve both a Computer Based Test (CBT) and Interview, whereas Group B and Group C posts are mainly selected through CBT and skill tests wherever applicable.
+</p>
+
+<ul>
+<li>Computer Based Test (CBT)</li>
+<li>Interview (For Group A Posts)</li>
+<li>Skill Test (Where Applicable)</li>
+<li>Document Verification</li>
+<li>Medical Examination</li>
+<li>Final Merit List</li>
+</ul>
+<h2>Exam Pattern</h2>
+
+<p>
+The Computer Based Test (CBT) will be conducted for eligible candidates applying for various posts under CCRUM Recruitment 2026. The examination pattern may vary according to the post applied for, however the general structure will consist of objective type multiple-choice questions covering professional knowledge, reasoning ability, general awareness and language skills.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Section</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>General Intelligence & Reasoning</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>General Awareness</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Professional Knowledge</td>
+<td>75</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>150</strong></td>
+</tr>
+
+</table>
+
+<p>
+Candidates are advised to prepare according to the syllabus mentioned in the official notification for their respective posts.
+</p>
+
+<h2>Post Wise Responsibilities</h2>
+
+<p>
+Selected candidates will perform duties according to their assigned posts and departments within CCRUM research institutes, hospitals and administrative offices.
+</p>
+
+<ul>
+<li>Conducting scientific and medical research activities.</li>
+<li>Providing healthcare and nursing services.</li>
+<li>Maintaining laboratory operations and records.</li>
+<li>Handling pharmacy and medicine-related responsibilities.</li>
+<li>Managing office administration and documentation.</li>
+<li>Data entry, record keeping and file management.</li>
+<li>Supporting research projects and clinical studies.</li>
+<li>Providing public service and patient support.</li>
+</ul>
+
+<h2>Why Join CCRUM?</h2>
+
+<p>
+CCRUM is one of the most respected organizations under the Ministry of Ayush. Employees receive stable government employment, attractive salaries, healthcare benefits and opportunities to contribute to the advancement of traditional medicine research in India.
+</p>
+
+<p>
+Working at CCRUM provides exposure to scientific research, healthcare administration and public sector operations. Employees benefit from structured career progression and long-term job security.
+</p>
+
+<ul>
+<li>Central Government Job</li>
+<li>7th Pay Commission Benefits</li>
+<li>Job Security</li>
+<li>Pension Benefits under NPS</li>
+<li>Medical Facilities</li>
+<li>Leave Travel Benefits</li>
+<li>Professional Development</li>
+<li>Promotion Opportunities</li>
+<li>Research Exposure</li>
+<li>Nationwide Posting Opportunities</li>
+</ul>
+
+<h2>Career Growth Opportunities</h2>
+
+<p>
+CCRUM provides excellent promotion opportunities based on performance, departmental examinations and service experience. Employees can progress to higher administrative, scientific and managerial positions during their careers.
+</p>
+
+<p>
+Research professionals can advance through senior scientific positions, while administrative staff can move to supervisory and managerial roles. Continuous learning and government-sponsored training programmes further enhance career development.
+</p>
+
+<h2>How to Apply Online for CCRUM Recruitment 2026</h2>
+
+<ol>
+<li>Visit the official CCRUM website.</li>
+<li>Open the Recruitment 2026 section.</li>
+<li>Read the notification carefully.</li>
+<li>Register using a valid email ID and mobile number.</li>
+<li>Complete the online application form.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Pay the prescribed application fee.</li>
+<li>Verify all entered details carefully.</li>
+<li>Submit the application form.</li>
+<li>Download and print the final application copy.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul>
+<li>10th Certificate</li>
+<li>12th Certificate</li>
+<li>Graduation / Post Graduation Certificates</li>
+<li>Professional Qualification Certificates</li>
+<li>Nursing / Pharmacy Registration Certificate (if applicable)</li>
+<li>Caste Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Scanned Signature</li>
+<li>Experience Certificate (if required)</li>
+<li>Government Photo ID Proof</li>
+</ul>
+
+<h2>Common Mistakes to Avoid During Application</h2>
+
+<ul>
+<li>Entering incorrect personal information.</li>
+<li>Uploading unclear documents.</li>
+<li>Submitting incorrect educational details.</li>
+<li>Paying incorrect application fee.</li>
+<li>Missing the application deadline.</li>
+<li>Failing to review the application before submission.</li>
+<li>Using an inactive email ID or mobile number.</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under CCRUM Recruitment 2026?</h3>
+<p>A total of 179 vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date to apply is 31 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualifications are required?</h3>
+<p>Qualifications vary from 10th Pass to Postgraduate Degree depending on the post.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. Is there an interview?</h3>
+<p>Yes, interviews are applicable for selected Group A posts.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. What is the maximum salary offered?</h3>
+<p>The maximum salary can reach ₹1,77,500 per month under Group A posts.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. Is age relaxation available?</h3>
+<p>Yes, age relaxation is provided as per Government of India rules.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. What is the application fee?</h3>
+<p>The fee ranges from ₹500 to ₹2,000 depending on category and post.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. What is the selection process?</h3>
+<p>CBT, Interview (where applicable), Skill Test, Document Verification and Medical Examination.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Can freshers apply?</h3>
+<p>Yes, freshers can apply for several posts depending on eligibility criteria.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Is CCRUM a Central Government organization?</h3>
+<p>Yes, CCRUM functions under the Ministry of Ayush, Government of India.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q11. Are nursing vacancies included?</h3>
+<p>Yes, Staff Nurse vacancies are part of the recruitment.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q12. Are clerical posts available?</h3>
+<p>Yes, UDC and LDC vacancies are included.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q13. Is there any correction window?</h3>
+<p>Yes, a correction window is expected after the application period.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q14. What is the job location?</h3>
+<p>Selected candidates may be posted anywhere in India as per organizational requirements.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q15. Why should I join CCRUM?</h3>
+<p>CCRUM offers government job security, attractive salary, research opportunities and long-term career growth.</p>
+</div>
+
+<h2>Apply Online – CCRUM Recruitment 2026</h2>
+
+<p>
+<strong>Last Date:</strong> 31 July 2026 |
+<strong>Status:</strong> Open Now
+</p>
+
+<p>
+<strong>Total Vacancies:</strong> 179 Posts
+</p>
+
+<p>
+<strong>Organization:</strong> Central Council for Research in Unani Medicine (CCRUM)
+</p>
+
+<p>
+<strong>Job Location:</strong> Across India
+</p>
+
+<p>
+Disclaimer: SarthakYojana.in is not the official recruitment authority. Candidates should verify all details from the official notification before applying. Information may be modified by the recruiting authority from time to time.
+</p>
+
+`;
+JOB_CONTENT["nabfins-telecaller-wfh-2026"] = `
+
+<div class="article-meta">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-25">Published: 25 June 2026</time> |
+Updated: 25 June 2026
+</div>
+
+<h2>NABFINS Telecaller Recruitment 2026 – Complete Notification Details</h2>
+
+<p>
+NABARD Financial Services Limited (NABFINS) has officially released the Telecaller Work From Home Recruitment 2026 Notification for eligible candidates across India. This recruitment provides an excellent opportunity for candidates seeking private sector jobs with remote working flexibility. Interested applicants who have completed PUC / 10+2 can apply through the prescribed email application process before the last date.
+</p>
+
+<p>
+The company is inviting applications for Telecaller – Work From Home positions across multiple states including Bihar, Odisha, West Bengal, Karnataka, Tamil Nadu, Kerala and Madhya Pradesh. Freshers are eligible to apply, making this recruitment highly attractive for candidates looking to start their professional careers.
+</p>
+
+<p>
+NABFINS is a subsidiary of NABARD and is one of India's leading rural-focused financial institutions. The organization works towards providing financial services to underserved communities and promoting financial inclusion across the country.
+</p>
+
+<p>
+Candidates selected for the Telecaller role will be responsible for customer interaction, follow-up calls, customer education and maintaining communication records while working remotely from their homes.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>24 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td><strong>01 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Interview Schedule</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2>NABFINS Telecaller Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Telecaller (Work From Home)</td>
+<td>Not Mentioned</td>
+</tr>
+
+</table>
+
+<h2>State Wise Job Locations</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>State</th>
+<th>Location Type</th>
+</tr>
+
+<tr><td>Kerala</td><td>WFH</td></tr>
+<tr><td>Bihar</td><td>WFH</td></tr>
+<tr><td>Odisha</td><td>WFH</td></tr>
+<tr><td>West Bengal</td><td>WFH</td></tr>
+<tr><td>Tamil Nadu</td><td>WFH</td></tr>
+<tr><td>Karnataka</td><td>WFH</td></tr>
+<tr><td>Madhya Pradesh</td><td>WFH</td></tr>
+
+</table>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Educational Qualification</td>
+<td>PUC / 10+2 Pass</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Freshers Eligible</td>
+</tr>
+
+<tr>
+<td>Job Type</td>
+<td>Full Time</td>
+</tr>
+
+<tr>
+<td>Work Mode</td>
+<td>Work From Home</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Age Limit</th>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>30 Years</td>
+</tr>
+
+</table>
+
+<h2>About NABFINS</h2>
+
+<p>
+NABARD Financial Services Limited (NABFINS) is a financial institution promoted by NABARD with the objective of delivering financial services to rural and semi-urban communities. The company focuses on financial inclusion, microfinance, livelihood enhancement and rural development initiatives.
+</p>
+
+<p>
+Working with NABFINS provides candidates an opportunity to gain experience in customer engagement, financial services and communication management while contributing to meaningful social and economic development initiatives.
+</p>
+
+<h2>Roles & Responsibilities</h2>
+
+<ul>
+<li>Calling existing customers.</li>
+<li>Calling prospective customers.</li>
+<li>Maintaining customer interaction records.</li>
+<li>Understanding customer concerns.</li>
+<li>Providing information regarding services.</li>
+<li>Conducting proper follow-up.</li>
+<li>Updating customer databases.</li>
+<li>Supporting customer service operations.</li>
+</ul>
+
+<h2>Selection Process</h2>
+
+<p>
+The selection process may include application screening, telephonic discussion, virtual interview and final HR evaluation.
+</p>
+
+<p>
+Shortlisted candidates will be informed through email or phone communication regarding the next stage of the recruitment process.
+</p>
+<h2>Why Join NABFINS Telecaller WFH Role?</h2>
+
+<p>
+The Telecaller Work From Home role offers flexibility, convenience and valuable professional experience. Candidates can work remotely while developing communication skills, customer relationship management abilities and financial services knowledge.
+</p>
+
+<ul>
+<li>Work From Home Opportunity</li>
+<li>Freshers Can Apply</li>
+<li>No Relocation Required</li>
+<li>Professional Training</li>
+<li>Customer Service Experience</li>
+<li>Career Growth Opportunities</li>
+<li>Financial Sector Exposure</li>
+<li>Flexible Working Environment</li>
+</ul>
+
+<h2>Skills Required</h2>
+
+<ul>
+<li>Good Communication Skills</li>
+<li>Basic Computer Knowledge</li>
+<li>Customer Handling Ability</li>
+<li>Listening Skills</li>
+<li>Problem Solving Ability</li>
+<li>Follow-Up Management</li>
+<li>Time Management Skills</li>
+<li>Professional Behaviour</li>
+</ul>
+
+<h2>How to Apply for NABFINS Telecaller Recruitment 2026</h2>
+
+<ol>
+<li>Read the official notification carefully.</li>
+<li>Prepare updated resume and bio-data.</li>
+<li>Attach educational certificates.</li>
+<li>Attach identity proof documents.</li>
+<li>Mention the post name in the email subject.</li>
+<li>Send application to the official email address.</li>
+<li>Submit before 01 July 2026.</li>
+<li>Keep a copy of the sent application.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul>
+<li>10th Marksheet</li>
+<li>12th / PUC Certificate</li>
+<li>Updated Resume</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Mobile Number</li>
+<li>Email ID</li>
+<li>Identity Proof</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. What is the post name?</h3>
+<p>Telecaller – Work From Home.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply?</h3>
+<p>01 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualification is required?</h3>
+<p>PUC / 10+2 Pass.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. Are freshers eligible?</h3>
+<p>Yes, freshers can apply.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. Is this a work from home job?</h3>
+<p>Yes, this is a remote work opportunity.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. Is there any application fee?</h3>
+<p>No application fee has been mentioned.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. What is the maximum age limit?</h3>
+<p>30 years.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. How can I apply?</h3>
+<p>Applications are accepted through email/online mode.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Which states are covered?</h3>
+<p>Bihar, Odisha, Karnataka, Kerala, Tamil Nadu, West Bengal and Madhya Pradesh.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Is experience mandatory?</h3>
+<p>No, freshers are eligible to apply.</p>
+</div>
+
+<h2>Apply Online – NABFINS Telecaller Recruitment 2026</h2>
+
+<p>
+<strong>Last Date:</strong> 01 July 2026 |
+<strong>Status:</strong> Open Now
+</p>
+
+<p>
+<strong>Mode:</strong> Email / Online Application
+</p>
+
+<p>
+<strong>Organization:</strong> NABARD Financial Services Limited (NABFINS)
+</p>
+
+<p>
+Disclaimer: Candidates should verify all details from the official notification before applying. Information may be revised by the organization from time to time.
+</p>
+
+`;
+JOB_CONTENT["indian-navy-ssc-officer-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #0d47a1;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-25">Published: 25 June 2026</time> |
+Updated: 25 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#0d47a1;">
+Indian Navy SSC Officer Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Indian Navy has released the official notification for Short Service Commission (SSC) Officer Recruitment 2026 for the June 2027 Course. Applications are invited from eligible unmarried male and female candidates for various branches including Executive, Pilot, Naval Air Operations Officer, Air Traffic Controller, Logistics, Education, Engineering, Electrical and Naval Constructor branches. The online application process will remain active from 25 June 2026 to 27 July 2026 through the official Indian Navy recruitment portal. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+This recruitment provides a golden opportunity for talented graduates and engineers who aspire to serve the nation as commissioned officers in one of the world's most respected naval forces. Selected candidates will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala before being commissioned as officers in the Indian Navy. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The Indian Navy offers an exciting career filled with adventure, leadership opportunities, advanced technology exposure, attractive salary packages and exceptional career growth. Officers serve on warships, submarines, aircraft squadrons and shore establishments while safeguarding India's maritime interests.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are advised to carefully read the eligibility criteria, branch-wise qualifications, selection procedure and application guidelines before submitting their online application forms.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">27 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>SSB Interview</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Medical Examination</td>
+<td>After SSB</td>
+</tr>
+
+<tr>
+<td>Course Commencement</td>
+<td>June 2027</td>
+</tr>
+
+<tr>
+<td>Training Academy</td>
+<td>Indian Naval Academy (INA), Ezhimala</td>
+</tr>
+</table>
+
+<h2>Indian Navy SSC Officer Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Branch</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Executive Branch GS(X)</td><td>90</td></tr>
+<tr><td>Pilot</td><td>25</td></tr>
+<tr><td>Naval Air Operations Officer</td><td>18</td></tr>
+<tr><td>Air Traffic Controller</td><td>15</td></tr>
+<tr><td>Logistics</td><td>10</td></tr>
+<tr><td>NAIC</td><td>14</td></tr>
+<tr><td>Education</td><td>13</td></tr>
+<tr><td>Engineering Branch</td><td>24</td></tr>
+<tr><td>Electrical Branch</td><td>40</td></tr>
+<tr><td>Naval Constructor</td><td>18</td></tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>275 Posts</strong></td>
+</tr>
+
+</table>
+
+<h2>About Indian Navy SSC Entry</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Short Service Commission (SSC) is one of the most prestigious officer entry schemes offered by the Indian Navy. Through this entry, selected candidates are granted commission as officers and receive world-class military training. Officers get opportunities to work with advanced naval platforms, cutting-edge defence technologies and strategic maritime operations.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+SSC Officers perform leadership roles in various branches and contribute significantly towards national security, maritime surveillance, fleet operations and defence preparedness.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Qualification</td>
+<td>BE/B.Tech / MBA / MCA / M.Sc / MA / M.Tech (Branch Wise)</td>
+</tr>
+
+<tr>
+<td>Gender</td>
+<td>Male & Female Candidates</td>
+</tr>
+
+<tr>
+<td>Nationality</td>
+<td>Indian Citizen</td>
+</tr>
+
+<tr>
+<td>Marital Status</td>
+<td>Unmarried</td>
+</tr>
+
+<tr>
+<td>Training Location</td>
+<td>INA Ezhimala, Kerala</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Age eligibility varies according to branch and entry. Candidates should refer to the official notification for branch-wise date of birth requirements. Generally, applicants should fall within the prescribed birth date range specified by the Indian Navy for the June 2027 course. :contentReference[oaicite:2]{index=2}
+</p>
+
+<h2>Salary & Allowances</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Rank on Commissioning</td>
+<td>Sub Lieutenant</td>
+</tr>
+
+<tr>
+<td>Approx Monthly Salary</td>
+<td>₹1,20,000+</td>
+</tr>
+
+<tr>
+<td>Military Service Pay</td>
+<td>As Applicable</td>
+</tr>
+
+<tr>
+<td>Flying Allowance</td>
+<td>For Eligible Branches</td>
+</tr>
+
+<tr>
+<td>Medical Facilities</td>
+<td>Available</td>
+</tr>
+
+<tr>
+<td>Pension & Benefits</td>
+<td>As Per Rules</td>
+</tr>
+
+</table>
+
+<h2>Officer Benefits</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Attractive Salary Package</li>
+<li>Free Medical Facilities</li>
+<li>Canteen Facilities</li>
+<li>Government Accommodation</li>
+<li>Adventure Activities</li>
+<li>Travel Concessions</li>
+<li>Professional Training</li>
+<li>Leadership Development</li>
+<li>National & International Exposure</li>
+<li>Officer Rank Privileges</li>
+</ul>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Application Screening:</strong> Applications are shortlisted based on academic performance and eligibility criteria.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – SSB Interview:</strong> Shortlisted candidates undergo a comprehensive Service Selection Board assessment.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Medical Examination:</strong> Candidates recommended by SSB undergo medical fitness evaluation.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Final Merit List:</strong> Final selection is based on merit and medical fitness.
+</p>
+
+<h2>SSB Interview Process</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The SSB Interview is one of the most important stages of officer selection. It evaluates personality, leadership qualities, communication skills, intelligence, decision-making ability and officer-like qualities. The process generally includes psychological tests, group tasks, personal interviews and outdoor assessments.
+</p>
+<h2>Training Details</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected for the Indian Navy SSC Officer Entry will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala. The academy is one of the largest naval training institutions in Asia and is equipped with world-class infrastructure, simulators, academic facilities and maritime training resources.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+During training, officer cadets are exposed to naval leadership, military discipline, physical conditioning, maritime warfare concepts, navigation, communication systems, weapon systems and professional branch-specific subjects. Successful completion of training leads to commissioning as an officer in the Indian Navy.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Training Academy</td>
+<td>Indian Naval Academy (INA), Ezhimala</td>
+</tr>
+
+<tr>
+<td>Course</td>
+<td>June 2027 SSC Course</td>
+</tr>
+
+<tr>
+<td>Training Type</td>
+<td>Military & Professional Training</td>
+</tr>
+
+<tr>
+<td>Commission Granted</td>
+<td>Sub Lieutenant</td>
+</tr>
+
+</table>
+
+<h2>Career Growth Opportunities</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Indian Navy offers excellent career growth opportunities to deserving officers. Promotions are based on performance, service requirements, professional courses and leadership potential. Officers can rise through multiple ranks while serving in operational, technical and administrative appointments.
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>Rank Progression</th>
+<th>Promotion Path</th>
+</tr>
+
+<tr>
+<td>Entry Rank</td>
+<td>Sub Lieutenant</td>
+</tr>
+
+<tr>
+<td>Next Rank</td>
+<td>Lieutenant</td>
+</tr>
+
+<tr>
+<td>Further Promotion</td>
+<td>Lieutenant Commander</td>
+</tr>
+
+<tr>
+<td>Senior Rank</td>
+<td>Commander</td>
+</tr>
+
+<tr>
+<td>Higher Rank</td>
+<td>Captain & Above</td>
+</tr>
+
+</table>
+
+<h2>Why Join Indian Navy as an Officer?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Indian Navy is one of the most respected defence forces in the world. Serving as a Naval Officer provides a unique combination of adventure, leadership, responsibility and national service. Officers get opportunities to work with advanced ships, submarines, aircraft and cutting-edge defence technologies.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Prestigious Officer Rank</li>
+<li>Excellent Salary & Benefits</li>
+<li>Leadership Development</li>
+<li>Foreign Training Opportunities</li>
+<li>World Class Infrastructure</li>
+<li>Job Security</li>
+<li>Adventure & Travel Opportunities</li>
+<li>Professional Growth</li>
+<li>National Service & Pride</li>
+<li>Exposure to Advanced Technology</li>
+</ul>
+
+<h2>How to Apply Online for Indian Navy SSC Officer Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the official website www.joinindiannavy.gov.in.</li>
+<li>Complete candidate registration.</li>
+<li>Login using registered credentials.</li>
+<li>Select SSC Officer June 2027 Entry.</li>
+<li>Fill personal, educational and branch preference details.</li>
+<li>Upload photograph and required documents.</li>
+<li>Verify all details carefully.</li>
+<li>Submit the application form.</li>
+<li>Download and save the final application copy.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>10th Marksheet & Certificate</li>
+<li>12th Marksheet</li>
+<li>Graduation / Engineering Degree Certificate</li>
+<li>Semester Mark Sheets</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Scanned Signature</li>
+<li>Valid Email ID</li>
+<li>Mobile Number</li>
+<li>Government Photo ID Proof</li>
+<li>NCC Certificate (If Applicable)</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under Indian Navy SSC Officer Recruitment 2026?</h3>
+<p>A total of 275 vacancies have been announced across various branches.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date for submission of the online application form is 27 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What is the starting salary of an SSC Officer?</h3>
+<p>The approximate monthly salary after commissioning is around ₹1,20,000 along with allowances.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. Is there any application fee?</h3>
+<p>No application fee is required for Indian Navy SSC Officer Recruitment 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. Can female candidates apply?</h3>
+<p>Yes. Eligible female candidates can apply for designated branches as per the notification.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. What is the selection process?</h3>
+<p>Selection includes Application Screening, SSB Interview, Medical Examination and Final Merit List.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. Where will training be conducted?</h3>
+<p>Training will be conducted at the Indian Naval Academy (INA), Ezhimala, Kerala.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Is the job permanent?</h3>
+<p>The recruitment is under Short Service Commission (SSC). Service conditions will be governed by Indian Navy rules.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Can final year students apply?</h3>
+<p>Eligibility for final year students will be as per branch-wise conditions mentioned in the official notification.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why should I join the Indian Navy?</h3>
+<p>The Indian Navy offers excellent career growth, attractive salary, officer status, adventure, leadership opportunities and the privilege of serving the nation.</p>
+</div>
+
+<h2>Apply Online – Indian Navy SSC Officer Recruitment 2026</h2>
+
+<p style="font-size:20px;">
+<strong>Last Date:</strong> 27 July 2026 |
+<strong>Status:</strong> Open Now
+</p>
+
+<p style="font-size:20px;">
+<strong>Official Website:</strong>
+https://www.joinindiannavy.gov.in
+</p>
+
+<p style="font-size:20px;">
+<strong>Application Fee:</strong> No Fee
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Disclaimer: SarthakYojana.in is not the official recruitment authority. Candidates are advised to verify all details through the official Indian Navy notification before submitting their applications. We are not responsible for any changes made by the recruiting authority after publication of this article.
+</p>
+
+`;
+JOB_CONTENT["niacl-apprentice-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> &nbsp;|&nbsp;
+<time datetime="2026-06-23">Published: 23 June 2026</time> &nbsp;|&nbsp;
+Updated: 23 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+NIACL Apprentice Recruitment 2026 – Complete Notification Details
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The New India Assurance Company Limited (NIACL), one of India's largest and oldest public sector general insurance companies, has officially released the NIACL Apprentice Recruitment 2026 Notification for engagement of 550 Apprentices across various states and union territories of India. The recruitment is being conducted under the Apprentices Act and provides an excellent opportunity for fresh graduates seeking practical exposure in the insurance and financial services sector.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates possessing a Graduation Degree from a recognized university can submit their applications online through the prescribed portal. Selected candidates will undergo apprenticeship training for a period of 12 months and receive a monthly stipend of ₹12,300 during the training period.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The apprenticeship programme has been designed to provide hands-on experience in insurance operations, customer service, claims management, underwriting support, office administration and various business functions of a leading public sector insurance company. Although apprenticeship training does not guarantee permanent employment, it significantly enhances employability and industry exposure.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates interested in banking, insurance and financial services careers should carefully review the eligibility conditions, application process, examination pattern and selection procedure before submitting their online application forms.
+</p>
+
+<h2>Important Dates</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>23 June 2026</td>
+</tr>
+
+<tr>
+<td>Application Start Date</td>
+<td>23 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td><strong style="color:#c0392b;">06 July 2026</strong></td>
+</tr>
+
+<tr>
+<td>Fee Payment Last Date</td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Examination</td>
+<td>12 July 2026</td>
+</tr>
+
+<tr>
+<td>Regional Language Test</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2>NIACL Apprentice Vacancy Details 2026</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Post Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>Apprentice</td>
+<td><strong>550</strong></td>
+</tr>
+
+</table>
+
+<h2>Category Wise Vacancy Distribution</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>UR</td>
+<td>297</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>114</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>64</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>32</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>43</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>550</strong></td>
+</tr>
+
+</table>
+
+<h2>About NIACL Apprentice Programme</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The NIACL Apprentice Programme aims to provide practical training to graduates who wish to build careers in the insurance sector. During the apprenticeship period, candidates gain exposure to policy servicing, claims processing, customer relationship management, underwriting assistance, office operations and digital insurance services.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The programme helps candidates understand real-world insurance operations while working under experienced professionals. It also develops communication, administrative and customer service skills which are highly valued in the banking and insurance industries.
+</p>
+
+<h2>Eligibility Criteria</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Educational Qualification</td>
+<td>Graduate Degree in any discipline from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Graduation Passing Year</td>
+<td>Degree completed between 01 April 2022 and 01 June 2026.</td>
+</tr>
+
+<tr>
+<td>NATS Registration</td>
+<td>Mandatory</td>
+</tr>
+
+<tr>
+<td>Work Experience</td>
+<td>Not Required</td>
+</tr>
+
+</table>
+
+<h2>Age Limit</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Age Limit</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>21 Years</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>30 Years</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>33 Years</td>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>35 Years</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>40 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;">
+Age relaxation will be applicable as per Government rules.
+</p>
+
+<h2>Application Fee</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Category</th>
+<th>Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS Male</td>
+<td>₹944</td>
+</tr>
+
+<tr>
+<td>General / OBC / EWS Female</td>
+<td>₹708</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹236</td>
+</tr>
+
+</table>
+
+<h2>Stipend and Benefits</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Monthly Stipend</td>
+<td>₹12,300</td>
+</tr>
+
+<tr>
+<td>Training Duration</td>
+<td>12 Months</td>
+</tr>
+
+<tr>
+<td>Certificate</td>
+<td>Apprenticeship Completion Certificate</td>
+</tr>
+
+<tr>
+<td>Employment Guarantee</td>
+<td>No</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.8;">
+Apart from receiving practical training, apprentices will gain valuable industry experience which can significantly improve future job opportunities in banks, insurance companies, NBFCs and financial institutions.
+</p>
+
+<h2>Selection Process</h2>
+
+<p style="font-size:20px;">
+<strong>Stage 1 – Online Examination:</strong> Candidates will appear for an objective online examination.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 2 – Regional Language Test:</strong> Candidates must demonstrate proficiency in the local language of the state applied for.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 3 – Document Verification:</strong> Verification of educational and identity documents.
+</p>
+
+<p style="font-size:20px;">
+<strong>Stage 4 – Final Selection:</strong> Merit list preparation and apprenticeship engagement.
+</p>
+
+<h2>Online Examination Pattern</h2>
+
+<table class="detail-table">
+
+<tr>
+<th>Section</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>General & Financial Awareness</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Reasoning & Quantitative Aptitude</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Computer Knowledge</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+
+</table>
+
+<h2>Why Join NIACL Apprentice Programme?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+NIACL is India's largest public sector general insurance company with decades of experience and a strong nationwide network. Working as an apprentice in NIACL provides practical exposure to insurance operations and helps candidates understand how large insurance organizations function.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The training programme improves professional skills, enhances industry knowledge and strengthens future career prospects in both public and private sector financial institutions.
+</p>
+
+<h2>Career Benefits</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Insurance Industry Exposure</li>
+<li>Practical Office Experience</li>
+<li>Customer Service Skills</li>
+<li>Insurance Operations Knowledge</li>
+<li>Improved Employability</li>
+<li>Professional Networking Opportunities</li>
+<li>Government PSU Training Experience</li>
+</ul>
+
+<h2>How to Apply Online for NIACL Apprentice Recruitment 2026</h2>
+
+<ol style="font-size:20px;line-height:1.8;">
+<li>Visit the NATS Portal.</li>
+<li>Complete candidate registration.</li>
+<li>Search for NIACL Apprenticeship 2026.</li>
+<li>Apply using NATS Registration Number.</li>
+<li>Fill all required details carefully.</li>
+<li>Upload photograph and documents.</li>
+<li>Pay the application fee online.</li>
+<li>Submit the application form.</li>
+<li>Download and print the final application.</li>
+</ol>
+
+<h2>Documents Required</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Graduation Degree Certificate</li>
+<li>Graduation Mark Sheets</li>
+<li>Aadhaar Card</li>
+<li>Passport Size Photograph</li>
+<li>Signature</li>
+<li>Category Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>Valid Email ID</li>
+<li>Mobile Number</li>
+<li>Government Photo ID Proof</li>
+</ul>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q1. How many vacancies are available under NIACL Apprentice Recruitment 2026?</h3>
+<p>A total of 550 Apprentice vacancies have been announced.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q2. What is the last date to apply online?</h3>
+<p>The last date for application submission is 06 July 2026.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q3. What qualification is required?</h3>
+<p>Candidates must possess a Graduation Degree from a recognized university.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q4. What stipend will be provided?</h3>
+<p>Selected candidates will receive ₹12,300 per month.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q5. Is this a permanent job?</h3>
+<p>No. It is a one-year apprenticeship programme.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q6. Is there any interview?</h3>
+<p>No. Selection is based on Online Examination and Language Test.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q7. What is the training duration?</h3>
+<p>The apprenticeship duration is 12 months.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q8. Is work experience required?</h3>
+<p>No prior work experience is required.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q9. Can final year students apply?</h3>
+<p>No. Candidates must possess the required graduation degree before applying.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q10. Why should I join the NIACL Apprentice Programme?</h3>
+<p>It provides valuable insurance sector experience, professional skills and career-building opportunities.</p>
+</div>
+<h2>State Wise Vacancy Distribution</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+NIACL has announced apprentice vacancies across multiple states and union territories. The vacancies are distributed based on business requirements and operational needs of the company. Candidates can apply for vacancies available in their respective states subject to eligibility conditions and local language proficiency requirements. A total of 550 apprenticeship seats have been announced across India. :contentReference[oaicite:0]{index=0}
+</p>
+
+<table class="detail-table">
+
+<tr>
+<th>State / Region</th>
+<th>Major Vacancies</th>
+</tr>
+
+<tr>
+<td>Maharashtra</td>
+<td>High</td>
+</tr>
+
+<tr>
+<td>Delhi</td>
+<td>High</td>
+</tr>
+
+<tr>
+<td>Tamil Nadu</td>
+<td>Moderate</td>
+</tr>
+
+<tr>
+<td>Gujarat</td>
+<td>Moderate</td>
+</tr>
+
+<tr>
+<td>Kerala</td>
+<td>Moderate</td>
+</tr>
+
+<tr>
+<td>Other States</td>
+<td>As Per Notification</td>
+</tr>
+
+</table>
+
+<h2>Regional Language Requirement</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates applying for apprenticeship training must possess proficiency in the regional language of the state for which they are applying. NIACL may conduct a Regional Language Test after the online examination. Candidates unable to demonstrate language proficiency may not be considered for final engagement. :contentReference[oaicite:1]{index=1}
+</p>
+
+<h2>Roles and Responsibilities of NIACL Apprentices</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected apprentices will work under experienced officers and gain practical exposure to insurance operations. The apprenticeship is designed to help graduates understand how a large public sector insurance company functions.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Customer Service Support</li>
+<li>Policy Administration</li>
+<li>Insurance Documentation</li>
+<li>Claims Processing Assistance</li>
+<li>Data Entry & Office Operations</li>
+<li>Insurance Product Awareness</li>
+<li>Digital Insurance Platforms</li>
+<li>Branch Level Administrative Work</li>
+<li>Customer Query Handling</li>
+<li>Business Process Support</li>
+</ul>
+
+<h2>Career Opportunities After Apprenticeship</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Although apprenticeship training does not guarantee permanent employment, candidates receive valuable industry exposure and practical experience. The apprenticeship certificate and hands-on training experience can strengthen future applications for jobs in insurance companies, banks, NBFCs and financial institutions.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Many candidates use apprenticeship programmes as a stepping stone towards competitive examinations and regular recruitment opportunities in the banking and insurance sectors. The experience gained during the training period enhances professional skills and improves employability. :contentReference[oaicite:2]{index=2}
+</p>
+
+<h2>Why Choose NIACL?</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The New India Assurance Company Limited is India's largest public sector general insurance company with a strong domestic and international presence. Working with NIACL provides exposure to a highly professional environment and modern insurance practices.
+</p>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Government PSU Experience</li>
+<li>Professional Training Environment</li>
+<li>Insurance Industry Exposure</li>
+<li>Skill Development Opportunities</li>
+<li>Structured Learning Programme</li>
+<li>National Level Organization</li>
+<li>Enhanced Career Prospects</li>
+<li>Industry Recognized Experience</li>
+</ul>
+
+<h2>Important Instructions for Candidates</h2>
+
+<ul style="font-size:20px;line-height:1.8;">
+<li>Read the official notification carefully before applying.</li>
+<li>Keep all required documents ready before registration.</li>
+<li>Use a valid mobile number and email ID.</li>
+<li>Upload clear photograph and signature.</li>
+<li>Verify all details before final submission.</li>
+<li>Keep a copy of the submitted application form.</li>
+<li>Regularly visit the official website for updates.</li>
+<li>Appear for the online examination as scheduled.</li>
+</ul>
+
+<h2>Frequently Asked Questions (Additional FAQs)</h2>
+
+<div class="faq-box">
+<h3>Q11. What is the duration of apprenticeship training?</h3>
+<p>The training duration is 12 months.</p>
+</div>
+
+<div class="faq-box">
+<h3>Q12. What is the monthly stipend?</h3>
+<p>Selected apprentices will receive ₹12,300 per month. :contentReference[oaicite:3]{index=3}</p>
+</div>
+
+<div class="faq-box">
+<h3>Q13. What is the exam date?</h3>
+<p>The online examination is scheduled for 12 July 2026. :contentReference[oaicite:4]{index=4}</p>
+</div>
+
+<div class="faq-box">
+<h3>Q14. Is NATS registration mandatory?</h3>
+<p>Yes, eligible candidates are required to complete registration through the apprenticeship portal before applying. :contentReference[oaicite:5]{index=5}</p>
+</div>
+
+<div class="faq-box">
+<h3>Q15. Will NIACL provide permanent employment after apprenticeship?</h3>
+<p>No. Apprenticeship completion does not guarantee permanent employment in NIACL.</p>
+</div>
+
+<h2>Apply Online – NIACL Apprentice Recruitment 2026</h2>
+
+<p style="font-size:20px;">
+<strong>Last Date:</strong> 06 July 2026 |
+<strong>Status:</strong> Open Now
+</p>
+
+<p style="font-size:20px;">
+<strong>Monthly Stipend:</strong> ₹12,300
+</p>
+
+<p style="font-size:20px;">
+<strong>Training Duration:</strong> 12 Months
+</p>
+
+<p style="font-size:20px;">
+<strong>Official Website:</strong>
+https://www.newindia.co.in
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Disclaimer: SarthakYojana.in is not the official recruitment authority. Candidates are advised to verify all details from the official NIACL notification before applying. Information may change as per the latest updates released by the organization.
+</p>
+
+
+`;
 JOB_CONTENT["sbi-bmo-2026"] = `
 
 <div class="article-meta" style="font-size:25.5px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

@@ -1,6 +1,402 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"rcfl-various-posts-2026",
+
+    orgWebsite:"https://www.rcfltd.com",
+
+    title:"RCFL Recruitment 2026",
+
+    shortTitle:"RCFL Various Posts Online Form 2026",
+
+    organization:"Rashtriya Chemicals and Fertilizers Limited (RCFL)",
+
+    image:"RCFL.jpeg",
+
+    totalPosts:32,
+
+    lastDate:"2026-07-13",
+    lastDateDisplay:"13 July 2026",
+
+    datePosted:"2026-06-25",
+
+    validThrough:"2026-07-13T17:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:30000,
+    salaryMax:220000,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Diploma / B.E. / B.Tech / CA / CMA / MBA / MBBS / LLB / Ph.D (Post Wise)",
+
+    ageLimit:"34 to 52 Years (Post Wise)",
+
+    applyLink:"https://www.rcfltd.com",
+
+    officialNotification:"https://www.rcfltd.com",
+
+    fee:"₹1000 for General/OBC/EWS | Nil for SC/ST/PwBD/ExSM/Female",
+
+    description:"RCFL Recruitment 2026 Notification released for 32 vacancies including Officer, Engineer, Senior Engineer, Deputy Manager, Senior Manager and Assistant Engineer posts. Online applications will be accepted from 27 June 2026 to 13 July 2026.",
+
+    category:"PSU Jobs",
+
+    jobType:"Engineering & Management Jobs",
+
+    advertisementNo:"18032026",
+
+    applicationStartDate:"2026-06-27",
+
+    applicationEndDate:"2026-07-13",
+
+    examDate:"Skill Test / Interview",
+
+    interviewDate:"To Be Announced",
+
+    status:"open",
+
+    isNew:true
+},
+  {
+    id:"rvunl-je-junior-accountant-2026",
+
+    orgWebsite:"https://energy.rajasthan.gov.in",
+
+    title:"RVUNL Recruitment 2026",
+
+    shortTitle:"RVUNL JE, Junior Accountant & Assistant Online Form 2026",
+
+    organization:"Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+
+    image:"RVUNL.jpeg",
+
+    totalPosts:2005,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"July 2026",
+
+    datePosted:"2026-06-25",
+
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:25500,
+    salaryMax:56100,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Rajasthan",
+
+    addressLocality:"Jaipur",
+    addressRegion:"Rajasthan",
+    addressCountry:"IN",
+
+    qualification:"ITI / Diploma / B.E. / B.Tech / Graduate / B.Com / MBA",
+
+    ageLimit:"18 to 40 Years",
+
+    applyLink:"https://energy.rajasthan.gov.in",
+
+    officialNotification:"https://energy.rajasthan.gov.in",
+
+    fee:"As Per Detailed Notification",
+
+    description:"RVUNL Recruitment 2026 short notification released for approximately 2005 vacancies including Junior Engineer, Junior Accountant, Junior Assistant, Commercial Assistant and Technician posts under Rajasthan power sector companies.",
+
+    category:"Rajasthan Government Jobs",
+
+    jobType:"Power Sector Jobs",
+
+    advertisementNo:"RVUNL Recruitment 2026",
+
+    applicationStartDate:"2026-07-01",
+
+    applicationEndDate:"2026-07-31",
+
+    examDate:"To Be Announced",
+
+    interviewDate:"Not Applicable",
+
+    status:"open",
+
+    isNew:true
+},
+  {
+    id:"ccrum-various-posts-2026",
+
+    orgWebsite:"https://ccrum.res.in",
+
+    title:"CCRUM Recruitment 2026",
+
+    shortTitle:"CCRUM Various Posts Online Form 2026",
+
+    organization:"Central Council for Research in Unani Medicine (CCRUM)",
+
+    image:"CCRUM.jpeg",
+
+    totalPosts:179,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026",
+
+    datePosted:"2026-06-25",
+
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:18000,
+    salaryMax:177500,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"10th / 12th / Diploma / Degree / Nursing / Pharmacy / PG Degree (Post Wise)",
+
+    ageLimit:"18 to 40 Years (Post Wise)",
+
+    applyLink:"https://ccrum.res.in",
+
+    officialNotification:"https://ccrum.res.in",
+
+    fee:"Rs. 500 to Rs. 2000 (Category & Post Wise)",
+
+    description:"CCRUM Recruitment 2026 Notification released for 179 vacancies under Group A, Group B and Group C categories including Research Officer, Staff Nurse, Pharmacist, UDC, LDC, Stenographer, MTS and various other posts. Online applications will be accepted from 01 July 2026 to 31 July 2026.",
+
+    category:"Central Government Jobs",
+
+    jobType:"Medical & Administrative Jobs",
+
+    advertisementNo:"01/2026",
+
+    applicationStartDate:"2026-07-01",
+
+    applicationEndDate:"2026-07-31",
+
+    examDate:"To Be Announced",
+
+    interviewDate:"To Be Announced",
+
+    status:"open",
+
+    isNew:true
+},
+  {
+    id:"nabfins-telecaller-wfh-2026",
+
+    orgWebsite:"https://www.nabfins.org",
+
+    title:"NABFINS Telecaller Recruitment 2026",
+
+    shortTitle:"NABFINS Telecaller WFH Online Form 2026",
+
+    organization:"NABARD Financial Services Limited (NABFINS)",
+
+    image:"NAB.jpeg",
+
+    totalPosts:"Not Specified",
+
+    lastDate:"2026-07-01",
+    lastDateDisplay:"01 July 2026",
+
+    datePosted:"2026-06-24",
+
+    validThrough:"2026-07-01T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:18000,
+    salaryMax:30000,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Work From Home",
+
+    addressLocality:"Bengaluru",
+    addressRegion:"Karnataka",
+    addressCountry:"IN",
+
+    qualification:"PUC / 10+2 Pass",
+
+    ageLimit:"Maximum 30 Years",
+
+    applyLink:"mailto:careers@nabfins.org",
+
+    officialNotification:"https://www.nabfins.org",
+
+    fee:"No Application Fee",
+
+    description:"NABARD Financial Services Limited (NABFINS) has released Telecaller Work From Home Recruitment 2026 notification. Candidates who have completed PUC / 10+2 can apply through email mode. Freshers are also eligible to apply. The recruitment offers remote work opportunities across multiple states including Bihar, Odisha, Karnataka, Tamil Nadu, Kerala, Madhya Pradesh and West Bengal.",
+
+    category:"Private Jobs",
+
+    jobType:"Work From Home Jobs",
+
+    advertisementNo:"Nabfins/OPS/1113",
+
+    applicationStartDate:"2026-06-24",
+
+    applicationEndDate:"2026-07-01",
+
+    examDate:"No Exam",
+
+    interviewDate:"As Per Company Schedule",
+
+    status:"open",
+
+    isNew:true
+},
+  {
+    id:"niacl-apprentice-2026",
+
+    orgWebsite:"https://www.newindia.co.in",
+
+    title:"NIACL Apprentice Recruitment 2026",
+
+    shortTitle:"NIACL 550 Apprentice Online Form 2026",
+
+    organization:"New India Assurance Company Limited (NIACL)",
+
+    image:"NIACL.jpeg",
+
+    totalPosts:550,
+
+    lastDate:"2026-07-06",
+    lastDateDisplay:"06 July 2026",
+
+    datePosted:"2026-06-23",
+
+    validThrough:"2026-07-06T23:59:00+05:30",
+
+    employmentType:"APPRENTICESHIP",
+
+    salaryMin:12300,
+    salaryMax:12300,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Graduate Degree in Any Discipline from a Recognized University",
+
+    ageLimit:"21 to 30 Years",
+
+    applyLink:"https://www.newindia.co.in",
+
+    officialNotification:"https://www.newindia.co.in",
+
+    fee:"Rs. 944 (General/OBC/EWS Male) | Rs. 708 (Female Candidates) | Rs. 236 (SC/ST/PwBD)",
+
+    description:"New India Assurance Company Limited (NIACL) has released Apprentice Recruitment 2026 Notification for 550 Apprentice vacancies across India. Graduate candidates can apply online from 23 June 2026 to 06 July 2026. Selected candidates will undergo apprenticeship training for 12 months and receive a monthly stipend of Rs. 12,300. The selection process includes Online Examination, Regional Language Test and Document Verification.",
+
+    category:"Insurance Jobs",
+
+    jobType:"Apprentice Jobs",
+
+    advertisementNo:"NIACL Apprentice 2026",
+
+    applicationStartDate:"2026-06-23",
+
+    applicationEndDate:"2026-07-06",
+
+    examDate:"12 July 2026",
+
+    interviewDate:"No Interview",
+
+    status:"open",
+
+    isNew:true
+},
+  {
+    id:"indian-navy-ssc-officer-2026",
+
+    orgWebsite:"https://www.joinindiannavy.gov.in",
+
+    title:"Indian Navy SSC Officer Recruitment 2026",
+
+    shortTitle:"Indian Navy 275 SSC Officer Online Form 2026",
+
+    organization:"Indian Navy",
+
+    image:"INDIAN.jpeg",
+
+    totalPosts:275,
+
+    lastDate:"2026-07-27",
+    lastDateDisplay:"27 July 2026",
+
+    datePosted:"2026-06-25",
+
+    validThrough:"2026-07-27T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:120000,
+    salaryMax:150000,
+
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+
+    addressLocality:"Ezhimala",
+    addressRegion:"Kerala",
+    addressCountry:"IN",
+
+    qualification:"BE/B.Tech / MBA / MCA / M.Sc / MA / M.Tech (Branch Wise)",
+
+    ageLimit:"Branch Wise (DOB Between 02 Jul 2002 to 01 Jan 2008)",
+
+    applyLink:"https://www.joinindiannavy.gov.in",
+
+    officialNotification:"https://www.joinindiannavy.gov.in",
+
+    fee:"No Application Fee",
+
+    description:"Indian Navy has released SSC Officer Recruitment 2026 Notification for Jun 2027 (AT 27) Course. A total of 275 vacancies have been announced for Executive, Pilot, Naval Air Operations Officer, Air Traffic Controller, Logistics, Engineering, Electrical, Education, Naval Constructor and other branches. Eligible unmarried male and female candidates can apply online from 25 June 2026 to 27 July 2026. Selected candidates will undergo training at Indian Naval Academy (INA), Ezhimala and will be appointed as Sub Lieutenant Officers in the Indian Navy.",
+
+    category:"Defence Jobs",
+
+    jobType:"Officer Jobs",
+
+    advertisementNo:"CBC 10701/11/0017/2627",
+
+    applicationStartDate:"2026-06-25",
+
+    applicationEndDate:"2026-07-27",
+
+    examDate:"SSB Interview Schedule Later",
+
+    interviewDate:"SSB Interview",
+
+    status:"open",
+
+    isNew:true
+},
+  {
     id:"sbi-bmo-2026",
     orgWebsite:"https://sbi.co.in",
 
