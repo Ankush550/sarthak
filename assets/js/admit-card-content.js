@@ -7,10 +7,20 @@ ADMIT_CARD_CONTENT["hprca-teacher-admit-card-2026"] = `
 </div>
 
 <h1>HPRCA Teacher Admit Card 2026 Out – Download Hall Ticket, Exam Date & Direct Link</h1>
-<div class="download-box">
-<a href="https://hprca.hp.gov.in" target="_blank" class="download-btn">
-📥 Download Official Admit Card
-</a>
+<div style="text-align:center;margin:30px 0;">
+    <a href="https://hprca.hp.gov.in"
+       target="_blank"
+       style="
+       display:inline-block;
+       background:#ff6b00;
+       color:#fff;
+       padding:20px 50px;
+       font-size:24px;
+       font-weight:bold;
+       border-radius:10px;
+       text-decoration:none;">
+       📥 Download Official Admit Card
+    </a>
 </div>
 
 <p>
