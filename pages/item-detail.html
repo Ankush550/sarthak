@@ -95,16 +95,14 @@
 <script src="../assets/js/result-content.js"></script>
 
 <script src="../assets/js/answerkey-data.js"></script>
-<script src="../assets/js/answerkey-content.js"></script>
-<script src="../jobs-data.js"></script>
 
+<script src="../assets/js/answerkey-content.js"></script>
 <script src="../assets/js/common-render.js"></script>
+
+
 <script src="../assets/js/main.js"></script>
 <script>
-renderHeader('');
-renderTicker();
-renderFooter();
-renderCookieConsent();
+
 
 const params = new URLSearchParams(window.location.search);
 const type = params.get('type'); // result | admit | answer
@@ -113,9 +111,9 @@ const id   = params.get('id');
 document.getElementById('canonicalTag').href = window.location.href;
 
 const ALL = {
-  result: RESULTS_DATA,
-  admit:  ADMIT_CARDS_DATA,
-  answer: ANSWER_KEYS_DATA
+  result: typeof RESULTS_DATA !== 'undefined' ? RESULTS_DATA : [],
+  admit: typeof ADMIT_CARDS_DATA !== 'undefined' ? ADMIT_CARDS_DATA : [],
+  answer: typeof ANSWER_KEYS_DATA !== 'undefined' ? ANSWER_KEYS_DATA : []
 };
 
 const TYPE_LABELS = {
@@ -194,22 +192,50 @@ if (!dataset || !meta) {
     // How-to steps
     const rawSteps = item.howToCheck || item.howToDownload || '';
     const steps = rawSteps.split('→').map(s => s.trim()).filter(Boolean);
-    const articleContent =
-(typeof ADMIT_CARD_CONTENT !== 'undefined' &&
- ADMIT_CARD_CONTENT[item.id])
- ? ADMIT_CARD_CONTENT[item.id]
- : '<h2 style="color:red">Content Not Found</h2>';
+ let articleContent = '';
+
+if(type === 'admit'){
+    articleContent =
+    (typeof ADMIT_CARD_CONTENT !== 'undefined' &&
+    ADMIT_CARD_CONTENT[item.id])
+    ? ADMIT_CARD_CONTENT[item.id]
+    : '<h2 style="color:red">Content Not Found</h2>';
+}
+else if(type === 'result'){
+    articleContent =
+    (typeof RESULT_CONTENT !== 'undefined' &&
+    RESULT_CONTENT[item.id])
+    ? RESULT_CONTENT[item.id]
+    : '<h2 style="color:red">Content Not Found</h2>';
+}
+else if(type === 'answer'){
+    articleContent =
+    (typeof ANSWER_KEY_CONTENT !== 'undefined' &&
+    ANSWER_KEY_CONTENT[item.id])
+    ? ANSWER_KEY_CONTENT[item.id]
+    : '<h2 style="color:red">Content Not Found</h2>';
+}
 
     // Build content
     document.getElementById('mainContent').innerHTML = `
 
 <div class="article-page">
 
+<h1>${item.title}</h1>
+
+<img src="../assets/images/${item.image}" 
+alt="${item.title}" 
+style="width:100%;border-radius:10px;margin-bottom:20px;">
+
+<div class="download-box">
+</div>
+
 ${articleContent}
 
 </div>
 
 `;
+    
 
 
    
@@ -223,6 +249,27 @@ ${articleContent}
     ).join('');
   }
 }
+
+window.onload = function(){
+
+
+    if(typeof renderTicker === 'function'){
+        renderTicker();
+    }
+
+    if(typeof renderFooter === 'function'){
+        renderFooter();
+    }
+
+};
+</script>
+</script>
+<script src="../assets/main.js"></script>
+<script>
+renderHeader('Admit Card');
+renderTicker();
+renderFooter();
+renderCookieConsent();
 </script>
 </body>
 </html>

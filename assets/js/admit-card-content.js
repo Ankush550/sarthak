@@ -7,6 +7,11 @@ ADMIT_CARD_CONTENT["hprca-teacher-admit-card-2026"] = `
 </div>
 
 <h1>HPRCA Teacher Admit Card 2026 Out – Download Hall Ticket, Exam Date & Direct Link</h1>
+<div class="download-box">
+<a href="https://hprca.hp.gov.in" target="_blank" class="download-btn">
+📥 Download Official Admit Card
+</a>
+</div>
 
 <p>
 The Himachal Pradesh Rajya Chayan Aayog (HPRCA), Hamirpur has started releasing the
@@ -52,7 +57,11 @@ Computer, Fine Arts, Public Administration and Physical Education.
 </tr>
 <tr>
 <td>Official Website</td>
-<td>hprca.hp.gov.in</td>
+<td>
+<a href="https://hprca.hp.gov.in" target="_blank">
+hprca.hp.gov.in
+</a>
+</td>
 </tr>
 </table>
 
