@@ -524,23 +524,23 @@ const RESULTS_DATA = [
 ];
 
 const ADMIT_CARDS_DATA = [
-  {id:"ssc-chsl-skill-admit-2026",type:"admit",organization:"SSC",title:"SSC CHSL Skill Test Admit Card 2026 – Out",postName:"CHSL (Skill Test)",date:"18 Apr 2026",examDate:"May 2026",link:"https://ssc.gov.in",description:"SSC CHSL Skill Test Admit Card 2026 has been released on ssc.gov.in. Candidates shortlisted for the Skill Test can download their hall ticket using registration number and password.",howToDownload:"Visit ssc.gov.in → Admit Card → CHSL Skill Test 2026 → Login with Registration No. & Password",documentsRequired:"Admit Card printout + Valid Photo ID (Aadhaar/PAN/Passport)",isNew:true},
-  {id:"bpsc-71-mains-admit-2026",type:"admit",organization:"BPSC",title:"BPSC 71st Mains Admit Card 2026 – Out",postName:"71st Combined Mains",date:"17 Apr 2026",examDate:"May 2026",link:"https://bpsc.bih.nic.in",description:"BPSC 71st Combined Mains Admit Card 2026 is available on bpsc.bih.nic.in. Candidates appearing for the Main examination must download their admit card before the exam.",howToDownload:"Visit bpsc.bih.nic.in → Admit Card Section → 71st Mains → Enter Registration No.",documentsRequired:"Admit Card + Photo ID + Passport-size photograph",isNew:true},
-  {id:"mppsc-prelims-admit-2026",type:"admit",organization:"MPPSC",title:"MPPSC Prelims Admit Card 2026 – Out",postName:"State Service Prelims",date:"16 Apr 2026",examDate:"May 2026",link:"https://mppsc.mp.gov.in",description:"MPPSC State Service Prelims Admit Card 2026 has been released. Candidates can download their hall ticket from mppsc.mp.gov.in. Admit card is mandatory for entry into exam hall.",howToDownload:"Visit mppsc.mp.gov.in → Admit Card → Prelims 2026 → Enter Roll No. / Registration No.",documentsRequired:"Admit Card + Valid Govt ID Proof",isNew:true},
-  {id:"hssc-constable-admit-2026",type:"admit",organization:"HSSC",title:"HSSC Constable Admit Card 2026 – Out",postName:"Constable",date:"15 Apr 2026",examDate:"Apr 2026",link:"https://www.hssc.gov.in",description:"HSSC Constable Admit Card 2026 is available for download on hssc.gov.in. Candidates must carry the admit card along with valid photo ID to the examination centre.",howToDownload:"Visit hssc.gov.in → Admit Card → Constable 2026 → Enter Registration Details",documentsRequired:"Admit Card + Aadhaar / Voter ID",isNew:false},
-  {id:"aai-junior-executive-admit-2026",type:"admit",organization:"AAI",title:"AAI Junior Executive Admit Card 2026 – Out",postName:"Junior Executive",date:"14 Apr 2026",examDate:"May 2026",link:"https://www.aai.aero",description:"Airport Authority of India (AAI) Junior Executive Admit Card 2026 has been released. Candidates who applied for AAI JE posts can download their hall ticket from aai.aero.",howToDownload:"Visit aai.aero → Careers → Admit Card → JE 2026 → Login",documentsRequired:"Admit Card + Valid Photo ID",isNew:false},
-  {id:"psssb-pet-admit-2026",type:"admit",organization:"PSSSB",title:"PSSSB PET Admit Card 2026 – Out",postName:"Various Posts",date:"13 Apr 2026",examDate:"May 2026",link:"#",description:"Punjab Subordinate Services Selection Board (PSSSB) PET Admit Card 2026 has been released. Candidates can download it from the official PSSSB portal.",howToDownload:"Visit official PSSSB website → Admit Card → PET 2026",documentsRequired:"Admit Card + Valid Photo ID + Category Certificate",isNew:false},
-  {id:"rssb-platoon-admit-2026",type:"admit",organization:"RSSB",title:"RSSB Platoon Commander PET Admit Card 2026 – Out",postName:"Platoon Commander",date:"12 Apr 2026",examDate:"May 2026",link:"#",description:"Rajasthan Subordinate and Ministerial Services Selection Board has released the Platoon Commander PET Admit Card 2026 for the physical test round.",howToDownload:"Visit official RSSB website → Admit Card → Platoon Commander PET",documentsRequired:"Admit Card + Aadhaar / Voter ID",isNew:false},
-  {id:"npcil-kakrapar-admit-2026",type:"admit",organization:"NPCIL",title:"NPCIL Kakrapar Admit Card 2026 – Out",postName:"Various Technical Posts",date:"11 Apr 2026",examDate:"May 2026",link:"https://www.npcil.nic.in",description:"Nuclear Power Corporation of India Limited (NPCIL) Kakrapar unit has released the Admit Card 2026 for various technical posts. Download from npcil.nic.in.",howToDownload:"Visit npcil.nic.in → Recruitment → Kakrapar Admit Card 2026 → Enter Registration No.",documentsRequired:"Admit Card + Valid Photo ID",isNew:false}
-,
-  {id:"jpsc-jet-admit-2026",type:"admit",organization:"JPSC",
-   title:"JPSC JET Admit Card 2026 – Out",postName:"Jharkhand Eligibility Test (JET)",
-   date:"22 Apr 2026",examDate:"26 Apr 2026",
-   link:"https://jpsc.gov.in",
-   description:"JPSC JET Admit Card 2026 has been released today (22 April 2026) on jpsc.gov.in. Candidates who applied for Jharkhand Eligibility Test (JET) 2024 (Advt. No. 08/2025) can download their hall ticket. Written examination is scheduled on 26 April 2026.",
-   howToDownload:"Visit jpsc.gov.in → Recruitment/Admit Card section → JPSC JET Admit Card 2026 → Enter Registration Number and Date of Birth → Download and print",
-   documentsRequired:"Admit Card + Valid Photo ID (Aadhaar/PAN/Voter ID)",
-   isNew:true}
+
+{
+id:"hprca-teacher-admit-card-2026",
+
+title:"HPRCA Teacher Admit Card 2026 Out",
+
+organization:"HPRCA",
+
+image:"HPRCA-Teacher.jpeg",
+
+examDate:"14 July 2026",
+
+status:"released",
+
+isNew:true
+}
+
 ];
 
 const ANSWER_KEYS_DATA = [

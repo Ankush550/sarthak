@@ -88,8 +88,18 @@
   </div>
 
 <div id="site-footer"></div>
-<script src="../assets/jobs-data.js"></script>
-<script src="../assets/main.js"></script>
+<script src="../assets/js/admit-card-data.js"></script>
+<script src="../assets/js/admit-card-content.js"></script>
+
+<script src="../assets/js/result-data.js"></script>
+<script src="../assets/js/result-content.js"></script>
+
+<script src="../assets/js/answerkey-data.js"></script>
+<script src="../assets/js/answerkey-content.js"></script>
+<script src="../jobs-data.js"></script>
+
+<script src="../assets/js/common-render.js"></script>
+<script src="../assets/js/main.js"></script>
 <script>
 renderHeader('');
 renderTicker();
@@ -184,70 +194,25 @@ if (!dataset || !meta) {
     // How-to steps
     const rawSteps = item.howToCheck || item.howToDownload || '';
     const steps = rawSteps.split('→').map(s => s.trim()).filter(Boolean);
+    const articleContent =
+(typeof ADMIT_CARD_CONTENT !== 'undefined' &&
+ ADMIT_CARD_CONTENT[item.id])
+ ? ADMIT_CARD_CONTENT[item.id]
+ : '<h2 style="color:red">Content Not Found</h2>';
 
     // Build content
     document.getElementById('mainContent').innerHTML = `
-      <div class="item-hero">
-        <div class="item-hero-bar" style="background:${meta.color};">
-          <h1>${item.title}</h1>
-          <div class="sub">${item.organization} &nbsp;|&nbsp; ${meta.label}</div>
-        </div>
-      </div>
 
-      <div class="notice-box">
-        <strong>Status: ${meta.label} Released!</strong> &nbsp; Official link is available below. Always download from official website only.
-      </div>
+<div class="article-page">
 
-      <div class="item-meta">
-        <table>
-          ${rows.map(([k,v])=>`<tr><td>${k}</td><td>${v}</td></tr>`).join('')}
-        </table>
-      </div>
+${articleContent}
 
-      <div class="dl-box" style="background:${meta.color}10;border:1px solid ${meta.color}40;">
-        <h2 style="color:${meta.color};">${item.icon || ''} ${item.title}</h2>
-        <p style="color:#555;">${item.description || 'Click the button below to access the official website.'}</p>
-        ${(item.link && item.link !== '#') ? `
-          <a href="${item.link}" class="dl-btn dl-btn-primary" target="_blank" rel="nofollow noopener">${meta.dlLabel} &#8594;</a>
-          <a href="${item.link}" class="dl-btn dl-btn-secondary" target="_blank" rel="nofollow noopener">Official Website</a>
-          <p style="font-size:11px;color:#999;margin-top:12px;">You will be redirected to the official website of ${item.organization}. SarthakYojana.in is not the official website.</p>
-        ` : `
-          <div style="background:#fff3cd;border:1px solid #ffc107;border-radius:4px;padding:12px 14px;margin:8px 0;font-size:13px;color:#856404;text-align:left;">
-            <strong>&#9432; Official link will be updated soon.</strong><br>
-            Please visit <strong>${item.organization}</strong>'s official website directly to access this ${type === 'result' ? 'result' : type === 'admit' ? 'admit card' : 'answer key'}.
-          </div>
-        `}
-      </div>
+</div>
 
-      ${steps.length > 1 ? `<div class="steps-box">
-        <h2>How to ${type === 'result' ? 'Check Result' : 'Download ' + meta.label}</h2>
-        ${steps.map((s,i)=>`<div class="step-item"><div class="step-num">${i+1}</div><div class="step-text">${s}</div></div>`).join('')}
-      </div>` : ''}
+`;
 
-      ${item.documentsRequired ? `<div class="steps-box">
-        <h2>Documents Required at Exam Centre</h2>
-        <ul style="font-size:12.5px;color:#444;padding-left:16px;list-style:disc;">
-          ${item.documentsRequired.split('+').map(d=>`<li>${d.trim()}</li>`).join('')}
-        </ul>
-      </div>` : ''}
 
-      ${item.objectionProcess ? `<div class="steps-box">
-        <h2>How to Raise Objection</h2>
-        <p style="font-size:12.5px;color:#444;line-height:1.7;">${item.objectionProcess}</p>
-      </div>` : ''}
-
-      <div class="content-section">
-        <h2>About ${item.organization}</h2>
-        <p>${item.organization} regularly conducts competitive examinations for various posts in India. Candidates appearing in these exams should bookmark SarthakYojana.in for instant updates on results, admit cards, answer keys, and new recruitment notifications.</p>
-        <h3>Important Tips for Candidates</h3>
-        <ul>
-          <li>Always download ${meta.label.toLowerCase()} from the <strong>official website</strong> only.</li>
-          <li>Keep multiple printout copies of your ${meta.label.toLowerCase()}.</li>
-          <li>Carry a valid photo ID (Aadhaar / PAN / Voter ID) along with the document.</li>
-          <li>Check for any corrigendum or updates on the official website regularly.</li>
-          <li>If the official link is not working, try again after some time or clear browser cache.</li>
-        </ul>
-      </div>`;
+   
 
     // Related items
     const related = dataset.filter(x => x.id !== id).slice(0, 8);

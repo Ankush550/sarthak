@@ -1,0 +1,66 @@
+.detail-table{
+width:100%;
+border-collapse:collapse;
+margin:20px 0;
+}
+
+.detail-table th{
+background:#2845c7;
+color:#fff;
+padding:12px;
+text-align:left;
+}
+
+.detail-table td{
+padding:12px;
+border:1px solid #e5e5e5;
+}
+
+.salary-table{
+width:100%;
+border-collapse:collapse;
+margin-top:15px;
+}
+
+.salary-table th{
+background:#0056d6;
+color:#fff;
+padding:12px;
+}
+
+.salary-table td{
+padding:12px;
+border:1px solid #ddd;
+}
+
+.salary-note{
+background:#f5f8ff;
+padding:15px;
+border-left:4px solid #0056d6;
+margin-top:15px;
+}
+
+.faq-box{
+background:#fff;
+border:1px solid #e6e6e6;
+border-radius:8px;
+padding:18px;
+margin-bottom:15px;
+box-shadow:0 2px 6px rgba(0,0,0,.05);
+}
+
+.faq-box h3{
+margin-bottom:8px;
+color:#2845c7;
+}
+
+.article-meta{
+font-size:16px;
+color:#666;
+margin-bottom:15px;
+}
+
+.content-paragraph{
+font-size:20px;
+line-height:1.8;
+}
