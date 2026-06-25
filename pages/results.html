@@ -132,6 +132,10 @@
   </div>
 
 <div id="site-footer"></div>
+
+<script src="../assets/result-data.js"></script>
+<script src="../assets/admit-card-data.js"></script>
+<script src="../assets/answerkey-data.js"></script>
 <script src="../assets/jobs-data.js"></script>
 <script src="../assets/main.js"></script>
 <script>
@@ -153,6 +157,24 @@ document.getElementById('admitTable').innerHTML = ADMIT_CARDS_DATA.map((a,i)=>
   `<tr><td>${i+1}</td><td><a href="item-detail.html?type=admit&id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.examDate||'—'}</td><td><a href="item-detail.html?type=admit&id=${a.id}" class="apply-small">Download</a></td></tr>`).join('');
 document.getElementById('answerTable').innerHTML = ANSWER_KEYS_DATA.map((a,i)=>
   `<tr><td>${i+1}</td><td><a href="item-detail.html?type=answer&id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.date||'—'}</td><td><a href="item-detail.html?type=answer&id=${a.id}" class="apply-small">Download</a></td></tr>`).join('');
+</script>
+<script>
+window.addEventListener('load', function() {
+
+    if(location.hash){
+
+        const el = document.querySelector(location.hash);
+
+        if(el){
+            el.scrollIntoView({
+                behavior:'smooth',
+                block:'start'
+            });
+        }
+
+    }
+
+});
 </script>
 </body>
 </html>

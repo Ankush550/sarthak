@@ -15,9 +15,9 @@ function renderHeader(activeNav) {
   const links = [
     {label:'Home', href: R+'index.html'},
     {label:'Latest Job', href: R+'pages/jobs.html'},
-    {label:'Admit Card', href: R+'pages/results.html#admit'},
-    {label:'Result', href: R+'pages/results.html'},
-    {label:'Answer Key', href: R+'pages/results.html#answer'},
+    {label:'Admit Card', href: R+'pages/results.html#admit-all'},
+    {label:'Result', href: R+'pages/results.html#results-all'},
+    {label:'Answer Key', href: R+'pages/results.html#answer-all'},
     {label:'Schemes', href: R+'pages/schemes.html'},
     {label:'Private Jobs', href: R+'pages/private-jobs.html'},
     {label:'Job Finder', href: R+'pages/job-finder.html'},
