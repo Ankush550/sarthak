@@ -919,25 +919,6 @@ const RESULTS_DATA = [
    isNew:true}
 ];
 
-const ADMIT_CARDS_DATA = [
-
-{
-id:"hprca-teacher-admit-card-2026",
-
-title:"HPRCA Teacher Admit Card 2026 Out",
-
-organization:"HPRCA",
-
-image:"HPRCA-Teacher.jpeg",
-
-examDate:"14 July 2026",
-
-status:"released",
-
-isNew:true
-}
-
-];
 
 const ANSWER_KEYS_DATA = [
   {id:"ssc-je-tier2-answerkey-2026",type:"answer",organization:"SSC",title:"SSC JE Tier 2 Answer Key 2026 – Out",postName:"Junior Engineer Tier 2",date:"18 Apr 2026",objectionDeadline:"22 Apr 2026",link:"https://ssc.gov.in",description:"SSC Junior Engineer (JE) Tier 2 Answer Key 2026 has been released on ssc.gov.in. Candidates can download the official answer key and raise objections within the stipulated time using the SSC website.",howToDownload:"Visit ssc.gov.in → Answer Key → SSC JE Tier 2 2026 → Login → Download PDF",objectionProcess:"Login to SSC candidate portal → Answer Key section → Raise objection with supporting document and pay ₹100 per question",isNew:true},

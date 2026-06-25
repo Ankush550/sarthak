@@ -160,6 +160,10 @@
 
 <div id="site-footer"></div>
 <script src="./assets/jobs-data.js"></script>
+<script src="./assets/js/result-data.js"></script>
+<script src="./assets/js/admit-card-data.js"></script>
+<script src="./assets/js/answerkey-data.js"></script>
+
 <script src="./assets/main.js"></script>
 <script>
 renderHeader('Home');
@@ -186,7 +190,7 @@ document.getElementById('row1').innerHTML =
   secBox('Latest Jobs', JOBS_DATA.map(j=>({label:j.title+' — '+(j.totalPosts||j.totalVacancies||'N/A')+' Posts', href:R+'pages/job-detail.html?id='+j.id, isNew:j.isNew})), R+'pages/jobs.html') +
   secBox('Answer Key', ANSWER_KEYS_DATA.map(a=>({label:a.title, href:R+'pages/item-detail.html?type=answer&id='+a.id, isNew:a.isNew})), R+'pages/results.html#answer');
 
-  // Row 2
+  // Row 2  
 document.getElementById('row3').innerHTML =
   secBox('📋 Syllabus', [
     {label:'SSC CGL Syllabus 2026', href:'#', isNew:true},
