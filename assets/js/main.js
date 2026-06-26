@@ -91,3 +91,6 @@ function cookieDecline() {
   localStorage.setItem('cookieConsent', 'declined');
   var b = document.getElementById('cookieBanner'); if (b) b.style.display = 'none';
 }
+{label:'Admit Card', href: R+'pages/results.html#admit-all'},
+{label:'Result', href: R+'pages/results.html#results-all'},
+{label:'Answer Key', href: R+'pages/results.html#answer-all'},
