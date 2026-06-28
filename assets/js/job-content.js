@@ -1,5 +1,1385 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["ssc-aso-ldce-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+SSC ASO Recruitment 2026 – Apply Online for 341 Assistant Section Officer (ASO) / Assistant Posts
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>Staff Selection Commission (SSC)</strong> has officially released the <strong>SSC Assistant Section Officer (ASO) / Assistant Grade Limited Departmental Competitive Examination (LDCE) 2026</strong> notification for filling <strong>341 vacancies</strong> in the Central Secretariat Service (CSS) under the Department of Personnel & Training (DoPT) and the Ministry of External Affairs (MEA). Eligible departmental candidates can submit their online applications through the official SSC website before the closing date.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The SSC ASO LDCE is one of the most prestigious departmental competitive examinations conducted by the Staff Selection Commission for promotion to the post of Assistant Section Officer. Selected candidates will be appointed to <strong>Group 'B' Non-Gazetted</strong> posts under the Central Government and will receive salary under <strong>Pay Level-7</strong> along with all Central Government allowances and benefits.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are advised to carefully read the complete notification before applying online. Since this is a Limited Departmental Competitive Examination, only eligible serving government employees satisfying the required service conditions can participate in this recruitment process.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+SSC ASO Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Recruiting Organization</th>
+<td>Staff Selection Commission (SSC)</td>
+</tr>
+
+<tr>
+<th>Examination Name</th>
+<td>Assistant Section Officer / Assistant Grade LDCE 2026</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Assistant Section Officer (ASO) / Assistant</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>341 Posts</td>
+</tr>
+
+<tr>
+<th>Job Category</th>
+<td>Central Government Jobs</td>
+</tr>
+
+<tr>
+<th>Group</th>
+<td>Group 'B' Non-Gazetted</td>
+</tr>
+
+<tr>
+<th>Pay Level</th>
+<td>Level-7 (₹44,900 – ₹1,42,400)</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Examination (CBE)</td>
+</tr>
+
+<tr>
+<th>Exam Centre</th>
+<td>Delhi-NCR</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://ssc.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Notification Release Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Online Application Start Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply Online</th>
+<td>16 July 2026 (11:00 PM)</td>
+</tr>
+
+<tr>
+<th>Last Date for Hard Copy Submission</th>
+<td>23 July 2026</td>
+</tr>
+
+<tr>
+<th>Hard Copy (Remote Areas)</th>
+<td>30 July 2026</td>
+</tr>
+
+<tr>
+<th>Computer Based Examination</th>
+<td>August 2026 (Tentative)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+About SSC ASO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Assistant Section Officer (ASO) is one of the most respected administrative positions under the Government of India. Through this Limited Departmental Competitive Examination, eligible employees from the Central Secretariat Service (CSS) and Ministry of External Affairs (MEA) get an opportunity to move into Group 'B' Gazetted administrative responsibilities with higher salary, better career progression and increased responsibilities.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment process consists of a Computer Based Examination followed by evaluation of service records (APARs). Final selection is prepared strictly on the basis of combined merit. Candidates appointed as Assistant Section Officers work in important ministries and departments dealing with policy implementation, administration, parliamentary work, official correspondence and public administration.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+SSC ASO Vacancy 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Department</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Central Secretariat Service (CSS)</td>
+<td>318</td>
+</tr>
+
+<tr>
+<td>Ministry of External Affairs (MEA)</td>
+<td>23</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>341 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates applying for SSC ASO Recruitment 2026 must fulfil all eligibility conditions prescribed by the Staff Selection Commission. This recruitment is strictly meant for eligible departmental employees and is not open to candidates from the general public.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Must be a serving Central Government employee.</li>
+
+<li>Must belong to the eligible feeder cadre notified by SSC.</li>
+
+<li>Should have completed at least six years of approved regular service as on the prescribed cut-off date.</li>
+
+<li>Candidates from the Ministry of External Affairs should have completed mandatory departmental training.</li>
+
+<li>Must satisfy all eligibility conditions mentioned in the official notification.</li>
+
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Why Apply for SSC ASO Recruitment?
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The SSC ASO Limited Departmental Competitive Examination offers one of the best promotion opportunities for eligible Central Government employees. Apart from higher salary and better designation, selected candidates receive improved career prospects, greater administrative responsibilities and excellent long-term growth within various Government ministries and departments. Working as an Assistant Section Officer also provides exposure to policy making, parliamentary procedures and high-level administrative functions.
+</p>
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The selection process for SSC Assistant Section Officer (ASO) Recruitment 2026 consists of multiple stages. Candidates must qualify every stage to become eligible for final appointment. Since this is a Limited Departmental Competitive Examination (LDCE), only eligible departmental employees fulfilling all service conditions can participate.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Online Application</li>
+<li>Department Verification</li>
+<li>Computer Based Examination (CBT)</li>
+<li>Evaluation of APAR Records</li>
+<li>Document Verification</li>
+<li>Final Merit List</li>
+</ol>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Exam Pattern
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The examination will be conducted in Computer Based Mode by the Staff Selection Commission. Candidates should prepare according to the syllabus prescribed in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Mode</th>
+<td>Computer Based Examination</td>
+</tr>
+
+<tr>
+<th>Question Type</th>
+<td>Objective Multiple Choice Questions</td>
+</tr>
+
+<tr>
+<th>Language</th>
+<td>English & Hindi</td>
+</tr>
+
+<tr>
+<th>Merit</th>
+<td>Exam + APAR Evaluation</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+SSC ASO Syllabus
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+<li>General Intelligence & Reasoning</li>
+<li>General Awareness</li>
+<li>English Language</li>
+<li>Office Procedure</li>
+<li>Constitution of India</li>
+<li>Central Secretariat Manual</li>
+<li>Government Rules</li>
+<li>Administrative Procedures</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Salary Structure
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will be appointed under <strong>Pay Level-7</strong> of the 7th Central Pay Commission. Apart from the basic salary, employees will receive Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA), Medical Benefits, Leave Travel Concession (LTC), National Pension System (NPS) benefits and other government facilities.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Pay Level</th>
+<td>Level-7</td>
+</tr>
+
+<tr>
+<th>Basic Pay</th>
+<td>₹44,900 – ₹1,42,400</td>
+</tr>
+
+<tr>
+<th>DA</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>HRA</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>Transport Allowance</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>Pension</th>
+<td>NPS</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+How to Apply
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official SSC website.</li>
+<li>Login using your registration ID.</li>
+<li>Select SSC ASO LDCE Recruitment 2026.</li>
+<li>Fill in all departmental details carefully.</li>
+<li>Upload the required documents.</li>
+<li>Submit the application before the last date.</li>
+<li>Take a printout for future reference.</li>
+</ol>
+
+<div style="background:#fff3cd;border-left:6px solid #f39c12;padding:18px;font-size:19px;margin-top:25px;">
+<strong>Important:</strong> Candidates should verify all information carefully before submitting the online application. Incorrect information may lead to rejection.
+</div>
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Documents Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Service Certificate</li>
+<li>Identity Card</li>
+<li>Educational Qualification Certificates</li>
+<li>Passport Size Photographs</li>
+<li>Aadhaar Card</li>
+<li>Caste Certificate (If Applicable)</li>
+<li>PwBD Certificate (If Applicable)</li>
+<li>Department Verification Certificate</li>
+<li>APAR Records (As Required)</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Career Growth
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Assistant Section Officer is one of the most prestigious administrative posts under the Central Government. Employees receive regular promotions to Section Officer, Under Secretary and higher administrative positions through departmental promotions and competitive examinations.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Regular Promotion Opportunities</li>
+<li>Higher Administrative Responsibilities</li>
+<li>Government Accommodation (Where Applicable)</li>
+<li>Medical Benefits</li>
+<li>Leave Travel Concession</li>
+<li>Pension Benefits</li>
+<li>Excellent Job Security</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Why Join SSC ASO?
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Working as an Assistant Section Officer provides an excellent career path in the Central Government. The post offers attractive salary, administrative responsibilities, policy implementation work, promotions and long-term career stability.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Official Notification</th>
+<td><a href="https://ssc.gov.in" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<th>Apply Online</th>
+<td><a href="https://ssc.gov.in" target="_blank">Apply Here</a></td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td><a href="https://ssc.gov.in" target="_blank">https://ssc.gov.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>341 vacancies</strong> have been announced.</p>
+
+<h3>2. What is the post name?</h3>
+<p style="font-size:20px;line-height:1.8;">Assistant Section Officer (ASO) / Assistant Grade.</p>
+
+<h3>3. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;">Pay Level-7 (₹44,900–₹1,42,400).</p>
+
+<h3>4. Who can apply?</h3>
+<p style="font-size:20px;line-height:1.8;">Eligible departmental Central Government employees.</p>
+
+<h3>5. What is the selection process?</h3>
+<p style="font-size:20px;line-height:1.8;">Computer Based Examination, APAR Evaluation, Document Verification and Final Merit.</p>
+
+<h3>6. What is the last date to apply?</h3>
+<p style="font-size:20px;line-height:1.8;">16 July 2026.</p>
+
+<h3>7. Is this recruitment open for fresh candidates?</h3>
+<p style="font-size:20px;line-height:1.8;">No. It is only for eligible departmental employees.</p>
+
+<h3>8. Where will the examination be conducted?</h3>
+<p style="font-size:20px;line-height:1.8;">As notified by SSC in the official examination schedule.</p>
+
+<h3>9. Is there any interview?</h3>
+<p style="font-size:20px;line-height:1.8;">Candidates should refer to the official notification for the latest selection procedure.</p>
+
+<h3>10. Why should I apply?</h3>
+<p style="font-size:20px;line-height:1.8;">The recruitment offers promotion to Group 'B' administrative service with attractive salary, government benefits and excellent career growth.</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>SSC ASO Recruitment 2026</strong> offers an outstanding promotion opportunity for eligible Central Government employees. With <strong>341 vacancies</strong>, Pay Level-7 salary, administrative responsibilities and excellent promotion prospects, this is one of the most attractive departmental examinations conducted by the Staff Selection Commission. Eligible candidates should complete their applications before the deadline and prepare thoroughly for the examination.
+</p>
+
+`;
+JOB_CONTENT["ssc-jsa-ldc-dopt-ldce-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+SSC JSA/LDC DoPT LDCE Recruitment 2026 – Apply Online for 49 Junior Secretariat Assistant & Lower Division Clerk Posts
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>Staff Selection Commission (SSC)</strong> has officially released the <strong>SSC JSA/LDC DoPT LDCE Recruitment 2026 Notification</strong> for the recruitment of <strong>49 Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC)</strong> posts in the <strong>Central Secretariat Clerical Service (CSCS)</strong> under the Department of Personnel & Training (DoPT). This recruitment will be conducted through the <strong>Limited Departmental Competitive Examination (LDCE)</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+This recruitment is exclusively meant for eligible departmental employees working in participating Central Government departments. Interested candidates who fulfil the prescribed eligibility conditions can submit their online applications through the official SSC website before the closing date. Applicants are advised to read the complete notification carefully before applying online.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The selected candidates will be appointed under the <strong>7th Pay Commission Pay Level-2</strong> with attractive salary, government allowances and long-term career growth opportunities. The recruitment process consists of a Computer Based Examination followed by document verification and departmental formalities.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+SSC JSA/LDC Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Recruiting Organization</th>
+<td>Staff Selection Commission (SSC)</td>
+</tr>
+
+<tr>
+<th>Department</th>
+<td>Department of Personnel & Training (DoPT)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC)</td>
+</tr>
+
+<tr>
+<th>Recruitment Type</th>
+<td>Limited Departmental Competitive Examination (LDCE)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>49 Posts (Tentative)</td>
+</tr>
+
+<tr>
+<th>Job Category</th>
+<td>Central Government Jobs</td>
+</tr>
+
+<tr>
+<th>Pay Level</th>
+<td>Level-2 (₹19,900 – ₹63,200)</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://ssc.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Notification Release Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Online Application Starts</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply Online</th>
+<td>16 July 2026 (11:00 PM)</td>
+</tr>
+
+<tr>
+<th>Department Forwarding Last Date</th>
+<td>23 July 2026</td>
+</tr>
+
+<tr>
+<th>Hard Copy (Remote Areas)</th>
+<td>30 July 2026</td>
+</tr>
+
+<tr>
+<th>Computer Based Examination</th>
+<td>August 2026 (Tentative)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+About SSC JSA/LDC DoPT Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The SSC JSA/LDC DoPT Limited Departmental Competitive Examination is conducted for departmental employees seeking promotion or appointment to the Junior Secretariat Assistant / Lower Division Clerk Grade under the Central Secretariat Clerical Service. Since this is a departmental examination, only eligible serving Central Government employees fulfilling the prescribed service conditions can participate.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected through this recruitment will work in various departments under the Government of India and will receive Central Government salary, Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA) and other benefits as applicable under the 7th Central Pay Commission.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC)</td>
+<td>49 (Tentative)</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>49 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates applying for the SSC JSA/LDC DoPT LDCE Recruitment 2026 must satisfy all eligibility conditions mentioned in the official notification. This recruitment is not open to the general public and is meant only for eligible departmental employees working under participating Government departments.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Must be a permanent or regularly appointed temporary Group 'C' Central Government employee.</li>
+
+<li>Must possess at least three years of regular service as on the prescribed cut-off date.</li>
+
+<li>Should have passed the 12th Standard (Higher Secondary) or equivalent examination from a recognized Board.</li>
+
+<li>Must satisfy the typewriting requirement prescribed by SSC.</li>
+
+<li>Should fulfil all departmental eligibility conditions mentioned in the notification.</li>
+
+</ul>
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The selection process for the <strong>SSC JSA/LDC DoPT LDCE Recruitment 2026</strong> will be conducted by the Staff Selection Commission through a Limited Departmental Competitive Examination. Candidates must qualify every stage of the recruitment process to become eligible for final appointment. The examination is designed to evaluate the knowledge, typing proficiency and suitability of departmental employees for appointment as Junior Secretariat Assistant (JSA) or Lower Division Clerk (LDC).
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Online Application Submission</li>
+<li>Scrutiny of Departmental Eligibility</li>
+<li>Computer Based Examination (CBT)</li>
+<li>Typing Skill Test / Typewriting Test</li>
+<li>Document Verification</li>
+<li>Preparation of Final Merit List</li>
+<li>Appointment by the Concerned Department</li>
+</ol>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Exam Pattern
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Limited Departmental Competitive Examination will be conducted in Computer Based Mode. Candidates should prepare thoroughly according to the latest SSC syllabus and examination scheme mentioned in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Mode of Examination</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Question Type</th>
+<td>Objective Multiple Choice Questions</td>
+</tr>
+
+<tr>
+<th>Language</th>
+<td>English & Hindi (Where Applicable)</td>
+</tr>
+
+<tr>
+<th>Skill Test</th>
+<td>Typing Test</td>
+</tr>
+
+<tr>
+<th>Final Selection</th>
+<td>Based on Merit & Departmental Eligibility</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+SSC JSA/LDC Syllabus
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should prepare according to the syllabus prescribed by the Staff Selection Commission. The examination generally tests the candidate's professional knowledge, reasoning ability, language proficiency and awareness relevant to departmental work.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>General Intelligence & Reasoning</li>
+<li>General Awareness</li>
+<li>English Language</li>
+<li>Official Rules & Office Procedure</li>
+<li>Departmental Knowledge</li>
+<li>Computer Fundamentals</li>
+<li>Typing Skill Test</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Salary Structure
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected as Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC) will receive salary under <strong>Pay Level-2 of the 7th Central Pay Commission</strong>. Along with the basic pay, employees will also receive Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA), Medical Benefits, Leave Travel Concession (LTC), National Pension System (NPS) benefits and other allowances admissible to Central Government employees.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Pay Level</th>
+<td>Level-2</td>
+</tr>
+
+<tr>
+<th>Basic Pay</th>
+<td>₹19,900 – ₹63,200</td>
+</tr>
+
+<tr>
+<th>Dearness Allowance</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>House Rent Allowance</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>Transport Allowance</th>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<th>Pension</th>
+<td>National Pension System (NPS)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Typewriting Skill Test
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates qualifying the Computer Based Examination may be required to appear for the Typewriting Skill Test as prescribed in the official notification. The typing test is qualifying in nature, and candidates should possess the required typing speed in either English or Hindi as per SSC norms.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Typing Test may be conducted in English or Hindi.</li>
+<li>Typing speed should meet SSC standards.</li>
+<li>Failure to qualify the skill test may lead to disqualification.</li>
+<li>Typing proficiency is mandatory for final selection.</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are advised to refer to the official notification regarding application fee, if applicable. Since this is a Limited Departmental Competitive Examination, departmental guidelines and eligibility conditions will be applicable during the application process.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Eligible departmental candidates can submit their online application through the official SSC website. Before filling out the application form, applicants should keep all required documents and service certificates ready.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official SSC website.</li>
+<li>Complete One-Time Registration (if required).</li>
+<li>Login using your registration credentials.</li>
+<li>Select the SSC JSA/LDC DoPT LDCE Recruitment 2026 application.</li>
+<li>Fill in all personal and departmental details carefully.</li>
+<li>Upload the required documents and photograph.</li>
+<li>Submit the application before the closing date.</li>
+<li>Download and print the confirmation page for future reference.</li>
+</ol>
+
+<div style="background:#fff3cd;border-left:6px solid #f39c12;padding:18px;font-size:19px;margin-top:25px;">
+<strong>Important:</strong> Candidates should verify all information before submitting the application form. Incorrect details, incomplete applications or failure to satisfy departmental eligibility conditions may result in rejection of the application.
+</div>
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates applying for the SSC JSA/LDC DoPT LDCE Recruitment 2026 should keep all required documents ready before filling out the online application form. Original documents will be verified during the Document Verification stage. Any mismatch between the information provided in the application form and original documents may result in cancellation of candidature.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Recent Passport Size Photographs</li>
+<li>12th Pass Certificate & Marksheet</li>
+<li>Departmental Service Certificate</li>
+<li>Identity Card issued by Department</li>
+<li>Aadhaar Card / PAN Card / Voter ID</li>
+<li>Caste Certificate (if applicable)</li>
+<li>PwBD Certificate (if applicable)</li>
+<li>No Objection Certificate (if required)</li>
+<li>Typing Skill Certificate (if applicable)</li>
+<li>Any other document prescribed by SSC</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Career Growth & Promotion
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC) post offers excellent career growth within the Central Government. After gaining the required experience and qualifying departmental examinations, employees become eligible for promotion to higher posts such as Upper Division Clerk (UDC), Assistant Section Officer (ASO) and other administrative positions. Along with promotions, employees receive annual increments, Dearness Allowance revisions and other Central Government benefits.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Regular Annual Increments</li>
+<li>Departmental Promotion Opportunities</li>
+<li>Government Pension Benefits (NPS)</li>
+<li>Medical Reimbursement</li>
+<li>Leave Travel Concession (LTC)</li>
+<li>Paid Leave & Holidays</li>
+<li>Job Security</li>
+<li>Transfer Opportunities Across India</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Why Join SSC JSA/LDC?
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Working as a Junior Secretariat Assistant or Lower Division Clerk under the Government of India provides long-term job security, attractive salary and excellent career prospects. Employees work in a professional office environment and receive all benefits applicable to Central Government servants under the 7th Pay Commission.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Permanent Central Government Job</li>
+<li>Salary under 7th CPC</li>
+<li>DA, HRA & Transport Allowance</li>
+<li>Medical Benefits</li>
+<li>Promotion Opportunities</li>
+<li>Excellent Work-Life Balance</li>
+<li>Job Security</li>
+<li>Prestigious Government Service</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Official Notification</th>
+<td><a href="https://ssc.gov.in" target="_blank">Download Notification PDF</a></td>
+</tr>
+
+<tr>
+<th>Apply Online</th>
+<td><a href="https://ssc.gov.in" target="_blank">Apply Here</a></td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td><a href="https://ssc.gov.in" target="_blank">https://ssc.gov.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available in SSC JSA/LDC Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>49 tentative vacancies</strong> have been announced for Junior Secretariat Assistant (JSA) / Lower Division Clerk (LDC) posts.
+</p>
+
+<h3>2. Who can apply for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Only eligible departmental Central Government employees fulfilling the service conditions prescribed in the official notification can apply.
+</p>
+
+<h3>3. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to submit the online application is <strong>16 July 2026</strong>.
+</p>
+
+<h3>4. What is the salary of JSA/LDC?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive salary under <strong>Pay Level-2 (₹19,900–₹63,200)</strong> along with applicable allowances.
+</p>
+
+<h3>5. Is there a typing test?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Candidates are required to qualify the prescribed Typing Skill Test as per SSC rules.
+</p>
+
+<h3>6. What is the mode of examination?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The examination will be conducted through a Computer Based Test (CBT).
+</p>
+
+<h3>7. Is this recruitment open for fresh candidates?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. This Limited Departmental Competitive Examination is meant only for eligible departmental employees.
+</p>
+
+<h3>8. What documents are required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Educational certificates, departmental service certificate, identity proof, photographs and other documents mentioned in the official notification.
+</p>
+
+<h3>9. Where can I apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications can be submitted through the official Staff Selection Commission website.
+</p>
+
+<h3>10. Why should I apply for SSC JSA/LDC Recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment offers a permanent Central Government job, attractive salary, allowances, career growth, promotions and excellent job security.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>SSC JSA/LDC DoPT LDCE Recruitment 2026</strong> is an excellent opportunity for eligible departmental employees seeking career advancement within the Central Government. With <strong>49 vacancies</strong>, Pay Level-2 salary, attractive allowances and promotion opportunities, this recruitment provides long-term career stability and professional growth.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are advised to complete the online application well before the last date, carefully verify all eligibility conditions and regularly visit the official SSC website for updates regarding the examination, admit card, answer key and final result. Proper preparation and timely submission of the application will improve the chances of selection.
+
+</p>
+
+`;
+
+JOB_CONTENT["territorial-army-130-inf-bn-rally-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h2 style="font-size:45px;color:#666;">
+Territorial Army 130 INF BN (TA) ECO KUMAON Recruitment Rally 2026 – Notification Released for 69 Soldier Posts
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>130 Infantry Battalion (Territorial Army) Ecological KUMAON</strong> has released the official notification for the <strong>Territorial Army Recruitment Rally 2026</strong>. The recruitment drive aims to fill <strong>69 vacancies</strong> in different Soldier trades through a recruitment rally. Eligible candidates can complete the registration process and appear for the rally as per the schedule mentioned in the official notification.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The Territorial Army is known for providing disciplined military service while supporting environmental conservation and national development projects. The Ecological Battalions have played an important role in afforestation, soil conservation and ecological restoration in different parts of the country. Candidates selected through this recruitment will have the opportunity to become part of one of India's most respected defence organizations.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are advised to read the complete notification carefully before reporting for the recruitment rally. Every applicant should ensure that all eligibility conditions, educational qualifications, service requirements and supporting documents are fulfilled before participating in the selection process.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Territorial Army Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Recruiting Organization</th>
+<td>130 Infantry Battalion (Territorial Army) Ecological KUMAON</td>
+</tr>
+
+<tr>
+<th>Recruitment Name</th>
+<td>Territorial Army Recruitment Rally 2026</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>69 Posts</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Soldier (Various Trades)</td>
+</tr>
+
+<tr>
+<th>Job Category</th>
+<td>Defence Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Registration + Recruitment Rally</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Uttarakhand / India</td>
+</tr>
+
+<tr>
+<th>Official Notification</th>
+<td>Available</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Notification Released</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Online Registration Starts</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>Registration Closing Date</th>
+<td>03 August 2026</td>
+</tr>
+
+<tr>
+<th>Recruitment Rally</th>
+<td>03 August – 08 August 2026</td>
+</tr>
+
+<tr>
+<th>Medical Examination</th>
+<td>As Per Rally Schedule</td>
+</tr>
+
+<tr>
+<th>Final Merit List</th>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+About Territorial Army Recruitment
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Territorial Army serves as an auxiliary force to the Indian Army and plays a vital role during national emergencies, disaster response and ecological development projects. The Ecological Battalion has been specifically established to undertake large-scale environmental conservation work including plantation drives, forest protection and restoration of degraded land.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates joining the Territorial Army receive structured military training, valuable field experience and the opportunity to contribute towards nation building. Apart from defence-related responsibilities, personnel also participate in various ecological and public welfare initiatives. This makes the Territorial Army one of the most unique organizations in the country.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Soldier General Duty</td><td>49</td></tr>
+<tr><td>Soldier Chef Community</td><td>04</td></tr>
+<tr><td>Soldier Carpenter</td><td>03</td></tr>
+<tr><td>Soldier Hair Dresser</td><td>03</td></tr>
+<tr><td>Soldier Tailor</td><td>02</td></tr>
+<tr><td>Soldier Washerman</td><td>02</td></tr>
+<tr><td>Soldier Equipment Repairer</td><td>02</td></tr>
+<tr><td>Soldier House Keeper</td><td>02</td></tr>
+<tr><td>Soldier Black Smith</td><td>01</td></tr>
+<tr><td>Soldier Clerk</td><td>01</td></tr>
+
+<tr>
+<th>Total</th>
+<th>69 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Who Can Apply?
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+This recruitment is intended for eligible candidates as specified in the official notification. Applicants must satisfy all educational, physical and service-related requirements before appearing in the recruitment rally. Candidates should also carry all original documents for verification during the selection process.
+</p>
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates willing to participate in the Territorial Army 130 Infantry Battalion (Ecological) KUMAON Recruitment Rally 2026 must satisfy all eligibility conditions prescribed in the official notification. Before reporting at the rally venue, applicants should carefully verify their educational qualification, age criteria, service eligibility and supporting documents. Any discrepancy found during document verification may result in cancellation of candidature at any stage of the recruitment process.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment is primarily intended for eligible Ex-Servicemen of the Armed Forces and eligible Ex-Women Employees of the Ministry of Environment, Forest & Climate Change (MoEF&CC) and State Forest Departments as mentioned in the official notification. Candidates should ensure that they possess all original documents before attending the rally.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Must satisfy the eligibility conditions mentioned in the notification.</li>
+<li>Educational qualification should match the respective trade.</li>
+<li>Candidates must be medically fit.</li>
+<li>Original documents are mandatory during verification.</li>
+<li>Only eligible candidates will be allowed to participate in further stages.</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Educational qualifications vary according to the trade for which candidates are applying. Applicants should carefully verify the prescribed qualification before submitting their registration. Those who fail to meet the minimum educational requirement will not be considered eligible for recruitment.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Soldier General Duty</td>
+<td>As Per Official Notification</td>
+</tr>
+
+<tr>
+<td>Soldier Clerk</td>
+<td>As Per Official Notification</td>
+</tr>
+
+<tr>
+<td>Technical Trades</td>
+<td>Relevant Qualification</td>
+</tr>
+
+<tr>
+<td>Other Trades</td>
+<td>As Prescribed by Territorial Army</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The selection process has been designed to assess the physical fitness, eligibility and overall suitability of candidates for service in the Territorial Army. Every stage is important, and candidates must qualify each stage to proceed further.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Registration & Reporting</li>
+<li>Document Verification</li>
+<li>Physical Fitness Test</li>
+<li>Physical Measurement Test</li>
+<li>Trade Test (Where Applicable)</li>
+<li>Medical Examination</li>
+<li>Preparation of Final Merit List</li>
+</ol>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Physical Fitness Standards
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should maintain excellent physical fitness before appearing for the recruitment rally. The Physical Fitness Test is one of the most important stages of the selection process and qualifying it is mandatory.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>1.6 Km Running Test</li>
+<li>Pull-Ups</li>
+<li>9 Feet Ditch Crossing</li>
+<li>Balance Test</li>
+<li>Medical Fitness Assessment</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must carry all required original certificates along with self-attested photocopies while reporting for the recruitment rally. Failure to produce valid documents may lead to immediate rejection.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Aadhaar Card</li>
+<li>Educational Certificates</li>
+<li>Service Certificate / Discharge Book</li>
+<li>Passport Size Photographs</li>
+<li>Character Certificate</li>
+<li>Domicile Certificate</li>
+<li>Caste Certificate (if applicable)</li>
+<li>Medical Documents (if required)</li>
+<li>Identity Proof</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+How to Apply
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Eligible candidates should first complete the online registration process through the official website before appearing for the recruitment rally. Applicants are advised not to wait until the last date and should complete registration well in advance to avoid technical issues.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official Territorial Army recruitment website.</li>
+<li>Read the notification carefully.</li>
+<li>Complete the registration process.</li>
+<li>Download the registration acknowledgement.</li>
+<li>Arrange all required original documents.</li>
+<li>Report at the recruitment rally venue on the scheduled date.</li>
+<li>Appear for all stages of the recruitment process.</li>
+</ol>
+
+<div style="background:#fff3cd;border-left:6px solid #f39c12;padding:18px;font-size:19px;margin-top:25px;">
+<strong>Important:</strong> Candidates should reach the rally venue before the reporting time with all original documents, passport-size photographs and valid identity proof. Any false information or incomplete documentation may lead to cancellation of candidature without further notice.
+</div>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Salary & Benefits
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates selected in the Territorial Army Recruitment Rally 2026 will receive salary, allowances and service benefits as per the rules applicable to the Territorial Army. During embodiment and active service, personnel are entitled to pay and allowances similar to those of regular Army personnel holding equivalent ranks. In addition to financial benefits, candidates receive valuable military training, professional discipline and opportunities to serve the nation.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Salary</th>
+<td>As Per Territorial Army Rules</td>
+</tr>
+
+<tr>
+<th>Medical Facilities</th>
+<td>Available During Service</td>
+</tr>
+
+<tr>
+<th>Allowances</th>
+<td>Applicable as per Government Rules</td>
+</tr>
+
+<tr>
+<th>Promotion</th>
+<td>As Per Service Rules</td>
+</tr>
+
+<tr>
+<th>Training</th>
+<td>Military Training Provided</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Why Join the Territorial Army?
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The Territorial Army provides an exceptional opportunity to continue serving the nation while becoming part of one of India's most respected defence organizations. Apart from supporting national security whenever required, the Ecological Battalions contribute towards afforestation, forest conservation and environmental protection across different regions of the country.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Working in the Territorial Army helps candidates develop discipline, leadership qualities, teamwork, confidence and physical fitness. It is an ideal opportunity for eligible candidates who wish to remain associated with military service and contribute towards nation-building activities.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Serve the Nation with Pride</li>
+<li>Military Training & Discipline</li>
+<li>Government Service Benefits</li>
+<li>Leadership Development</li>
+<li>Promotion Opportunities</li>
+<li>Environmental Conservation Projects</li>
+<li>Physical & Mental Fitness</li>
+<li>Respect and Recognition</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Preparation Tips
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates preparing for the Territorial Army Recruitment Rally should begin their preparation well before the reporting date. Regular physical exercise, running practice and maintaining proper health will significantly improve performance during the Physical Fitness Test. Candidates should also ensure that all original documents are ready before the rally.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+<li>Practice daily running.</li>
+<li>Improve stamina through regular exercise.</li>
+<li>Maintain healthy body weight.</li>
+<li>Keep all original documents ready.</li>
+<li>Read the official notification carefully.</li>
+<li>Reach the rally venue before reporting time.</li>
+<li>Follow all instructions issued by recruitment authorities.</li>
+</ul>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Official Notification</th>
+<td><a href="https://www.territorialarmy.in/" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td><a href="https://www.territorialarmy.in/" target="_blank">www.territorialarmy.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available in Territorial Army Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>69 vacancies</strong> have been announced under the Territorial Army 130 Infantry Battalion (Ecological) KUMAON Recruitment Rally 2026.
+</p>
+
+<h3>2. What is the last date for registration?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can complete the registration process before the scheduled recruitment rally as mentioned in the official notification.
+</p>
+
+<h3>3. Who can apply for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Eligible candidates fulfilling the conditions prescribed in the official notification can participate in the recruitment rally.
+</p>
+
+<h3>4. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes Document Verification, Physical Fitness Test, Physical Measurement Test, Medical Examination and Final Merit.
+</p>
+
+<h3>5. Is there any written examination?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should refer to the official notification for complete information regarding the recruitment procedure.
+</p>
+
+<h3>6. What salary will selected candidates receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Salary and allowances will be provided according to Territorial Army service rules.
+</p>
+
+<h3>7. Is this a Government Job?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Territorial Army functions under the Ministry of Defence and provides government service benefits according to applicable rules.
+</p>
+
+<h3>8. What documents should candidates carry?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should carry original educational certificates, identity proof, photographs and other documents specified in the official notification.
+</p>
+
+<h3>9. Where will the recruitment rally be conducted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The recruitment rally will be organized at the venue mentioned in the official notification issued by the Territorial Army authorities.
+</p>
+
+<h3>10. Why should candidates join the Territorial Army?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Joining the Territorial Army provides an opportunity to serve the nation, receive military training, develop leadership skills and contribute to environmental conservation projects while enjoying government service benefits.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.8;">
+The <strong>Territorial Army 130 INF BN (TA) ECO KUMAON Recruitment Rally 2026</strong> is an excellent opportunity for eligible candidates to become part of one of India's most respected defence organizations. Candidates who satisfy the eligibility conditions should complete the registration process, prepare thoroughly for the physical fitness tests and report at the recruitment rally with all required documents.
+</p>
+
+<p style="font-size:20px;line-height:1.8;">
+Applicants are advised to regularly check the official website for updates regarding the recruitment rally, document verification, medical examination and final merit list. Early preparation, physical fitness and proper documentation will greatly improve the chances of selection.
+</p>
+
+`;
 
 JOB_CONTENT["isro-istrac-recruitment-2026"] = `
 

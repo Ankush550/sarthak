@@ -1,5 +1,42 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+    {
+  id: "ssc-aso-ldce-2026",
+  title: "SSC ASO Recruitment 2026",
+  shortTitle: "SSC ASO 2026",
+  organization: "Staff Selection Commission (SSC)",
+  department: "Department of Personnel & Training (DoPT)",
+  category: "SSC",
+  location: "Delhi NCR / India",
+  qualification: "Departmental UDC / SSA",
+  totalPosts: "341",
+  totalVacancies: "341",
+  salary: "₹44,900 - ₹1,42,400",
+  salaryMin: 44900,
+  salaryMax: 142400,
+  employmentType: "FULL_TIME",
+  applicationMode: "Online",
+  experience: "6 Years Departmental Service",
+  ageLimit: "As Per Rules",
+  applyStart: "25 June 2026",
+  applyLast: "16 July 2026",
+  examDate: "August 2026",
+  image:   "ASO.jpeg",
+  officialWebsite: "https://ssc.gov.in",
+  officialNotification: "https://ssc.gov.in",
+  applyLink: "https://ssc.gov.in",
+  isNew: true,
+  featured: true,
+  tags: [
+    "SSC",
+    "ASO",
+    "Assistant Section Officer",
+    "Departmental Exam",
+    "Central Government Jobs",
+    "SSC Recruitment 2026"
+  ],
+  description: "SSC ASO Recruitment 2026 Notification released for 341 Assistant Section Officer / Assistant Grade posts under CSS & MEA through LDCE."
+},
 {
 
 id: "territorial-army-130-inf-bn-rally-2026",

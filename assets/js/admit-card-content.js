@@ -1,4 +1,1439 @@
 const ADMIT_CARD_CONTENT = {};
+ADMIT_CARD_CONTENT["bpcl-entry-level-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+BPCL Entry Level Admit Card 2026 Out – Download Hall Ticket for Junior Executive, Secretary & Associate Executive CBT
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 BPCL Entry Level Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+CBT Examination :
+<strong>05 July 2026</strong>
+</p>
+
+<a href="https://ibpsreg.ibps.in/"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Download Admit Card →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Bharat Petroleum Corporation Limited (BPCL) has officially released the <strong>BPCL Entry Level Admit Card 2026</strong> for candidates appearing in the Computer Based Test (CBT) conducted for Junior Executive, Secretary and Associate Executive posts. Candidates who successfully completed the online application process can now download their hall ticket through the official IBPS recruitment portal using their Registration Number or Roll Number along with Password or Date of Birth.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The BPCL Entry Level Recruitment Examination 2026 is scheduled to be conducted on <strong>05 July 2026</strong>. The examination will be held in Computer Based Test (CBT) mode across various examination centres. Candidates should download their admit card well before the examination date to avoid any last-minute technical issues.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The admit card is one of the most important documents required for appearing in the recruitment examination. Without a valid hall ticket and original photo identity proof, candidates will not be permitted to enter the examination hall. Applicants are advised to carefully verify all details printed on the admit card immediately after downloading it.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+BPCL Entry Level Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Exam Conducting Body</th>
+<td>Bharat Petroleum Corporation Limited (BPCL)</td>
+</tr>
+
+<tr>
+<th>Recruitment Name</th>
+<td>BPCL Entry Level Recruitment 2026</td>
+</tr>
+
+<tr>
+<th>Posts</th>
+<td>Junior Executive, Secretary & Associate Executive</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>250 (Indicative)</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td><span style="color:green;font-weight:bold;">Released</span></td>
+</tr>
+
+<tr>
+<th>Admit Card Release Date</th>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<th>CBT Exam Date</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Mode of Examination</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Exam Medium</th>
+<td>English</td>
+</tr>
+
+<tr>
+<th>Negative Marking</th>
+<td>No</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.bpcl.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>BPCL Admit Card Released</th>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<th>Computer Based Test</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Result Declaration</th>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About BPCL Entry Level Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The BPCL Hall Ticket 2026 serves as an official entry pass for candidates appearing in the recruitment examination. It contains essential information such as candidate details, examination centre, reporting time, examination shift, roll number and important instructions issued by Bharat Petroleum Corporation Limited.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to download the admit card as soon as it becomes available and preserve multiple printed copies for future stages of the recruitment process. It is also recommended to carefully read all instructions printed on the hall ticket before reporting to the examination centre.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download BPCL Entry Level Admit Card 2026?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official BPCL IBPS recruitment portal.</li>
+
+<li>Click on the "BPCL Entry Level Admit Card 2026" link.</li>
+
+<li>Enter your Registration Number or Roll Number.</li>
+
+<li>Enter your Password or Date of Birth.</li>
+
+<li>Complete the security verification (Captcha).</li>
+
+<li>Click on the Submit button.</li>
+
+<li>Your admit card will appear on the screen.</li>
+
+<li>Download and print multiple copies for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number / Roll Number</li>
+
+<li>Password or Date of Birth (DD-MM-YY)</li>
+
+<li>Captcha Verification Code</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on BPCL Admit Card 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+After downloading the BPCL Entry Level Admit Card 2026, candidates should carefully verify every detail printed on the hall ticket. If any incorrect information is found, candidates should immediately contact the BPCL recruitment helpdesk before the examination date to avoid any inconvenience.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Full Name</li>
+
+<li>Roll Number</li>
+
+<li>Registration Number</li>
+
+<li>Application Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Post Applied For</li>
+
+<li>Exam Date</li>
+
+<li>Reporting Time</li>
+
+<li>Exam Shift</li>
+
+<li>Exam Centre Name & Complete Address</li>
+
+<li>Exam Duration</li>
+
+<li>Important Instructions for Candidates</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required at the Examination Centre
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry all mandatory documents while reporting to the examination centre. Failure to produce any required document may result in denial of entry to the examination hall.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Printed copy of BPCL Admit Card 2026.</li>
+
+<li>One recent passport-size photograph (same as uploaded in the application form).</li>
+
+<li>Original Aadhaar Card / PAN Card / Passport / Driving Licence / Voter ID.</li>
+
+<li>Bank Passbook with Photograph (if accepted).</li>
+
+<li>Employee Identity Card (where applicable).</li>
+
+<li>Self-attested photocopy of the identity proof.</li>
+
+<li>PwBD Certificate (if applicable).</li>
+
+<li>Blue or Black Ball Point Pen.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+BPCL Entry Level Exam Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The BPCL Entry Level Recruitment Examination will be conducted through a Computer Based Test (CBT). The examination pattern varies depending on the post applied for. All objective questions will have five answer options with only one correct answer. There is <strong>no negative marking</strong> in the examination.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Mode of Examination</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Question Type</th>
+<td>Objective Multiple Choice Questions</td>
+</tr>
+
+<tr>
+<th>Exam Medium</th>
+<td>English</td>
+</tr>
+
+<tr>
+<th>Negative Marking</th>
+<td>No</td>
+</tr>
+
+<tr>
+<th>Exam Duration</th>
+<td>120 Minutes / 150 Minutes (Post Wise)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Subjects Included in CBT
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Verbal Ability</li>
+
+<li>Quantitative Aptitude / Numerical Ability</li>
+
+<li>Logical Reasoning</li>
+
+<li>Professional Knowledge</li>
+
+<li>Office Management (Secretary Post)</li>
+
+<li>English Language (Descriptive Test for Secretary)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Day Guidelines
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should strictly follow all instructions issued by Bharat Petroleum Corporation Limited during the examination process. Reaching the examination centre well before the reporting time will help avoid unnecessary delays.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Reach the examination centre at least 60 minutes before reporting time.</li>
+
+<li>Carry the printed admit card along with original photo identity proof.</li>
+
+<li>Follow all security instructions issued by the examination authorities.</li>
+
+<li>Occupy only the allotted seat mentioned on the admit card.</li>
+
+<li>Read all instructions displayed on the computer screen before starting the examination.</li>
+
+<li>Maintain discipline throughout the examination.</li>
+
+<li>Do not leave the examination hall without permission from the invigilator.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Items Not Allowed Inside the Examination Centre
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Mobile Phones</li>
+
+<li>Smart Watches</li>
+
+<li>Bluetooth Devices</li>
+
+<li>Calculators</li>
+
+<li>Electronic Gadgets</li>
+
+<li>Study Material / Notes</li>
+
+<li>Books or Written Papers</li>
+
+<li>Any Communication Device</li>
+
+</ul>
+
+<div style="background:#fff8e1;border-left:6px solid #f9a825;padding:18px;margin-top:25px;font-size:19px;line-height:1.8;">
+
+<strong>Important Note:</strong><br>
+
+Candidates are advised to verify all details mentioned on the admit card immediately after downloading it. Any discrepancy related to personal information, photograph, signature or examination centre should be reported to the BPCL recruitment authority before the examination date. Candidates should keep multiple printed copies of the hall ticket safely until the recruitment process is completed.
+
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The BPCL Entry Level Recruitment 2026 selection process is designed to assess candidates through multiple stages. Depending on the post applied for, candidates may be required to qualify in the Computer Based Test (CBT), further assessment rounds and document verification before final appointment.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Computer Based Test (CBT)</li>
+
+<li>Shortlisting Based on Merit</li>
+
+<li>Group Discussion / Interview (Post-wise, if applicable)</li>
+
+<li>Document Verification</li>
+
+<li>Medical Examination</li>
+
+<li>Final Selection</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Download Admit Card</th>
+
+<td>
+<a href="https://ibpsreg.ibps.in/" target="_blank">
+Click Here
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<th>Official Notification</th>
+
+<td>
+<a href="https://www.bpcl.in/" target="_blank">
+Download Notification
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<th>Official Website</th>
+
+<td>
+<a href="https://www.bpcl.in/" target="_blank">
+www.bpcl.in
+</a>
+</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When was the BPCL Entry Level Admit Card 2026 released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The BPCL Entry Level Admit Card 2026 was released on <strong>27 June 2026</strong>.
+</p>
+
+<h3>2. What is the BPCL CBT Exam Date?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Computer Based Test (CBT) will be conducted on <strong>05 July 2026</strong>.
+</p>
+
+<h3>3. How can I download the BPCL Hall Ticket?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can download the hall ticket from the official IBPS recruitment portal using their Registration Number or Roll Number along with Password or Date of Birth.
+</p>
+
+<h3>4. How many vacancies are available?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+BPCL has announced <strong>250 indicative vacancies</strong> for Junior Executive, Secretary and Associate Executive posts.
+</p>
+
+<h3>5. Is there any negative marking in the examination?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. There is <strong>no negative marking</strong> in the BPCL Entry Level Computer Based Test.
+</p>
+
+<h3>6. What is the examination mode?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The examination will be conducted in <strong>Computer Based Test (CBT)</strong> mode.
+</p>
+
+<h3>7. What documents should I carry to the exam centre?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must carry the printed admit card, original photo identity proof, passport-size photograph and other documents mentioned in the official instructions.
+</p>
+
+<h3>8. Will BPCL send the admit card by post?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. The admit card is available only through the online recruitment portal.
+</p>
+
+<h3>9. Can I change my examination centre after downloading the admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. The examination centre mentioned on the admit card is final unless BPCL issues an official notification regarding any change.
+</p>
+
+<h3>10. What should I do if I find an error on my admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should immediately contact the BPCL recruitment authority or helpdesk before the examination date for correction.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>BPCL Entry Level Admit Card 2026</strong> is now available for download for candidates appearing in the recruitment examination for Junior Executive, Secretary and Associate Executive posts. Candidates should download their hall ticket well in advance, carefully verify all printed details and strictly follow the examination guidelines issued by Bharat Petroleum Corporation Limited.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to reach the examination centre on time with all mandatory documents, including the printed admit card and original identity proof. Keep checking the official BPCL website regularly for updates regarding the answer key, result, document verification and final selection process.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📥 Download BPCL Entry Level Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your hall ticket before the examination date and verify all details carefully.
+</p>
+
+<a href="https://ibpsreg.ibps.in/"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit&id=pgcil-diploma-trainee-admit-card-2026">PGCIL Diploma Trainee Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=ncl-staff-nurse-admit-card-2026">NCL Staff Nurse Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=appsc-tgt-admit-card-2026">APPSC TGT Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=appsc-departmental-test-admit-card-2026">APPSC Departmental Tests Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=csmc-hall-ticket-2026">CSMC Hall Ticket 2026</a></li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["appsc-departmental-test-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+APPSC Departmental Tests Admit Card 2026 Out – Download Hall Ticket @ appsc.gov.in
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 APPSC Departmental Tests Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+Examination Date :
+<strong>14 July 2026</strong>
+</p>
+
+<a href="https://appsc.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Download Admit Card →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Arunachal Pradesh Public Service Commission (APPSC)</strong> has officially released the <strong>Departmental Tests Admit Card 2026</strong> for candidates appearing in the upcoming Departmental Examination. Candidates who successfully completed the online application process can now download their hall ticket from the official APPSC website.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The Departmental Tests are scheduled to commence from <strong>14 July 2026</strong>. Applicants should download their admit card as early as possible and verify every detail printed on it before appearing in the examination.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The admit card contains important information such as candidate name, roll number, examination centre, reporting time, examination schedule and exam day instructions. Carrying a printed admit card along with a valid Government-issued photo identity proof is mandatory for entry into the examination hall.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+APPSC Departmental Tests Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organization</th>
+<td>Arunachal Pradesh Public Service Commission (APPSC)</td>
+</tr>
+
+<tr>
+<th>Examination</th>
+<td>Departmental Tests Examination 2026</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Hall Ticket Status</th>
+<td><span style="color:green;font-weight:bold;">Released</span></td>
+</tr>
+
+<tr>
+<th>Admit Card Release Date</th>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>14 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Offline Written Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://appsc.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Notification Released</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Application Started</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Application Closed</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Admit Card Released</th>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<th>Departmental Test Begins</th>
+<td>14 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About APPSC Departmental Tests Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The APPSC Departmental Tests Hall Ticket is an essential document issued by the Commission for candidates appearing in the Departmental Examination. The admit card serves as proof of eligibility and allows candidates to enter the examination venue. Candidates without a valid admit card will not be permitted to take the examination.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully read all instructions printed on the admit card and preserve it safely until the recruitment and departmental examination process is completed. The hall ticket may also be required during future verification stages.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download APPSC Departmental Tests Admit Card 2026?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official APPSC website.</li>
+
+<li>Open the "Admit Card" section.</li>
+
+<li>Select "Departmental Tests Admit Card 2026".</li>
+
+<li>Enter Registration Number.</li>
+
+<li>Enter Password or Date of Birth.</li>
+
+<li>Complete the Captcha Verification.</li>
+
+<li>Click on Login.</li>
+
+<li>Download and print the Admit Card.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password / Date of Birth</li>
+
+<li>Captcha Code</li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["ncl-staff-nurse-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+NCL Staff Nurse Admit Card 2026 Released – Download Hall Ticket for CBT Exam
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 NCL Staff Nurse Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+Computer Based Test :
+<strong>06 July 2026</strong>
+</p>
+
+<a href="https://www.nclcil.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Download Admit Card →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Northern Coalfields Limited (NCL), a Miniratna Company under Coal India Limited, has officially released the <strong>NCL Staff Nurse Admit Card 2026</strong> for candidates appearing in the recruitment examination for Staff Nurse and various Paramedical posts. Applicants who successfully completed the online application process can now download their hall ticket from the official NCL recruitment portal.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The Computer Based Test (CBT) will be conducted on <strong>06 July 2026</strong>. Candidates should download the admit card as soon as possible and verify all information carefully before appearing in the examination.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry a printed copy of the admit card along with a valid Government-issued photo identity proof. Entry into the examination hall without these mandatory documents will not be permitted under any circumstances.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NCL Staff Nurse Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organization</th>
+<td>Northern Coalfields Limited (NCL)</td>
+</tr>
+
+<tr>
+<th>Recruitment</th>
+<td>NCL Staff Nurse & Paramedical Recruitment 2026</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Staff Nurse & Other Paramedical Posts</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td><span style="color:green;font-weight:bold;">Released</span></td>
+</tr>
+
+<tr>
+<th>Hall Ticket Release Date</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>CBT Exam Date</th>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.nclcil.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Online Application Started</th>
+<td>May 2026</td>
+</tr>
+
+<tr>
+<th>Application Closed</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Admit Card Released</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>CBT Examination</th>
+<td>06 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About NCL Staff Nurse Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The NCL Hall Ticket is an essential document issued by Northern Coalfields Limited for candidates appearing in the Computer Based Test. It serves as proof of candidature and contains important information such as candidate name, roll number, examination centre, reporting time, exam shift and detailed examination instructions.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully read all instructions printed on the admit card before appearing for the examination. It is also recommended to keep multiple printed copies of the hall ticket safely for future recruitment stages such as document verification and medical examination.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download NCL Staff Nurse Admit Card 2026?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official NCL website.</li>
+
+<li>Open the Recruitment section.</li>
+
+<li>Click on "NCL Staff Nurse Admit Card 2026".</li>
+
+<li>Enter Registration Number.</li>
+
+<li>Enter Password or Date of Birth.</li>
+
+<li>Complete the Captcha Verification.</li>
+
+<li>Click Login.</li>
+
+<li>Download and print the Hall Ticket.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password / Date of Birth</li>
+
+<li>Captcha Verification Code</li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["csmc-hall-ticket-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+CSMC Hall Ticket 2026 Out – Download Group C Admit Card @ csmc.gov.in
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1976d2;padding:18px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#1565c0;">
+📥 CSMC Hall Ticket 2026
+</h2>
+
+<p style="font-size:19px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:18px;">
+Exam Date :
+<strong>05 July 2026</strong>
+</p>
+
+<a href="https://csmc.gov.in"
+target="_blank"
+style="display:inline-block;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Download Hall Ticket →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Chhatrapati Sambhajinagar Municipal Corporation (CSMC)</strong> has officially released the <strong>CSMC Hall Ticket 2026</strong> for candidates appearing in the Group C Recruitment Examination. Applicants who successfully submitted their online applications can now download their hall tickets from the official website.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The written examination is scheduled to be conducted on <strong>05 July 2026</strong>. Candidates should download their admit card well before the examination date to avoid any last-minute technical issues.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The hall ticket contains important information including the candidate's name, roll number, examination venue, reporting time, examination shift and exam day instructions. Candidates are advised to verify all details carefully immediately after downloading the admit card.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+CSMC Hall Ticket 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+<th>Organization</th>
+<td>Chhatrapati Sambhajinagar Municipal Corporation</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Group C Various Posts</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Hall Ticket Status</th>
+<td><span style="color:green;">Released</span></td>
+</tr>
+
+<tr>
+<th>Hall Ticket Date</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://csmc.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+<th>Application Started</th>
+<td>May 2026</td>
+</tr>
+
+<tr>
+<th>Application Closed</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Hall Ticket Released</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>Computer Based Test</th>
+<td>05 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About CSMC Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The CSMC Hall Ticket is an essential document issued by the recruitment authority for entry into the examination centre. Candidates without a printed hall ticket and a valid government-issued photo identity proof will not be allowed to appear in the examination.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should preserve the hall ticket safely after the examination, as it may be required during document verification and subsequent stages of the recruitment process.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download CSMC Hall Ticket 2026?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official CSMC website.</li>
+
+<li>Open the Recruitment section.</li>
+
+<li>Select "CSMC Hall Ticket 2026".</li>
+
+<li>Enter Registration Number.</li>
+
+<li>Enter Password or Date of Birth.</li>
+
+<li>Verify the CAPTCHA.</li>
+
+<li>Click Login.</li>
+
+<li>Download and print the Hall Ticket.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password / Date of Birth</li>
+
+<li>Captcha Code</li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["appsc-tgt-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+APPSC TGT Admit Card 2026 Released – Download Trained Graduate Teacher Hall Ticket
+</h1>
+
+<div style="background:#eef9ff;border:2px solid #1976d2;padding:18px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 APPSC TGT Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status:</strong>
+<span style="color:green;">Released</span>
+</p>
+
+<p style="font-size:18px;">
+Exam Date :
+<strong>12 July 2026</strong>
+</p>
+
+<a href="https://appsc.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;padding:12px 26px;background:#1976d2;color:#fff;text-decoration:none;border-radius:5px;font-size:18px;font-weight:bold;">
+Download Admit Card
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The Arunachal Pradesh Public Service Commission (APPSC) has officially released the APPSC TGT Admit Card 2026 for the Trained Graduate Teacher (Secondary) Recruitment Examination. Candidates who successfully completed the application process can now download their admit card from the official APPSC website.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The written examination is scheduled to be conducted on <strong>12 July 2026</strong>. Every candidate must carry a printed copy of the hall ticket along with a valid photo identity proof while reporting to the examination centre.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to carefully verify all details mentioned on the admit card including their name, photograph, roll number, examination venue, reporting time and examination instructions. In case of any discrepancy, applicants should immediately contact APPSC before the examination date.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+APPSC TGT Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+<th>Organization</th>
+<td>Arunachal Pradesh Public Service Commission</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Trained Graduate Teacher (TGT)</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Admit Card Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>12 July 2026</td>
+</tr>
+
+<tr>
+<th>Mode of Exam</th>
+<td>Offline Written Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://appsc.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+<th>Notification Released</th>
+<td>May 2026</td>
+</tr>
+
+<tr>
+<th>Application Started</th>
+<td>May 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Hall Ticket Released</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Correction Window</th>
+<td>Up to 30 June 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>12 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About APPSC TGT Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The APPSC TGT Hall Ticket serves as an official permission letter issued by the Commission. Without the admit card, no candidate will be allowed to enter the examination hall. It contains candidate details, examination schedule, reporting time, examination centre and important instructions issued by APPSC.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should preserve the admit card safely even after the examination because it may be required during document verification and the final recruitment process.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download APPSC TGT Admit Card 2026?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official APPSC website.</li>
+
+<li>Open the Admit Card section.</li>
+
+<li>Select APPSC TGT Admit Card 2026.</li>
+
+<li>Enter Registration Number.</li>
+
+<li>Enter Password / Date of Birth.</li>
+
+<li>Complete the Captcha Verification.</li>
+
+<li>Click on Login.</li>
+
+<li>Download and print the Admit Card.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password / Date of Birth</li>
+
+<li>Captcha Code</li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["pgcil-diploma-trainee-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+Updated: 26 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+PGCIL Diploma Trainee Admit Card 2026 Out – Download Hall Ticket @ powergrid.in
+</h1>
+
+<div class="download-box" style="background:#e8f5e9;border:2px solid #4CAF50;padding:20px;margin:25px 0;text-align:center;border-radius:6px;">
+<h2 style="margin:0;color:#2e7d32;">📥 Download PGCIL Admit Card 2026</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+<strong>Status:</strong> Released |
+<strong>Exam Date:</strong> 01 July 2026
+</p>
+
+<a href="https://cdn.digialm.com/" target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;
+text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">
+Download Admit Card →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Power Grid Corporation of India Limited (PGCIL)</strong> has officially released the <strong>PGCIL Diploma Trainee Admit Card 2026</strong> on <strong>25 June 2026</strong> for candidates appearing in the Non-Executive Recruitment Examination conducted under Advertisement No. CC/01/2026. Candidates who successfully completed the online application process can now download their hall ticket from the official recruitment portal using their Application Number and Password or Date of Birth.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The Computer Based Test (CBT) is scheduled to be conducted on <strong>01 July 2026</strong>. Since the examination date is approaching, candidates should immediately download and print their admit card. It is mandatory to carry the printed hall ticket along with a valid original Government-issued photo identity proof to the examination centre.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully verify all information printed on the admit card, including their name, photograph, roll number, examination centre, reporting time and important exam instructions. Any discrepancy should be reported to PGCIL before the examination date.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+PGCIL Diploma Trainee Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organization</th>
+<td>Power Grid Corporation of India Limited (PGCIL)</td>
+</tr>
+
+<tr>
+<th>Advertisement Number</th>
+<td>CC/01/2026</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Diploma Trainee, JOT & JIT</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>668 Posts</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Release Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span style="color:green;font-weight:bold;">✔ Released</span></td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://careers.powergrid.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+About PGCIL Diploma Trainee Admit Card 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The PGCIL Non-Executive Hall Ticket 2026 serves as the official entry pass for candidates appearing in the Computer Based Test. Without the admit card, candidates will not be allowed to enter the examination hall under any circumstances. The admit card contains important information such as examination centre, reporting time, roll number, examination instructions and candidate identity details.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to download the admit card well before the examination date to avoid last-minute technical issues. It is also recommended to keep at least two or three printed copies of the admit card for future stages of the recruitment process.
+</p>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Application Start Date</th>
+<td>20 April 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>11 May 2026</td>
+</tr>
+
+<tr>
+<th>Admit Card Release Date</th>
+<td>25 June 2026</td>
+</tr>
+
+<tr>
+<th>CBT Exam Date</th>
+<td>01 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:38px;color:#444;margin-top:40px;">
+How to Download PGCIL Diploma Trainee Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the PGCIL Admit Card 2026 through the official recruitment portal by following the simple steps mentioned below.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official PGCIL recruitment website.</li>
+
+<li>Open the "Admit Card / Examination" section.</li>
+
+<li>Click on "PGCIL Diploma Trainee Admit Card 2026".</li>
+
+<li>Enter your Application Number.</li>
+
+<li>Enter Password or Date of Birth.</li>
+
+<li>Fill the CAPTCHA Code.</li>
+
+<li>Click on the Login button.</li>
+
+<li>Download and print the admit card for future use.</li>
+
+</ol>
+
+`;
 ADMIT_CARD_CONTENT["upsssc-pharmacist-admit-card-2026"] = `
 
 <div class="article-meta">
