@@ -42,8 +42,12 @@ function renderHeader(activeNav) {
 }
 
 function renderTicker() {
-  const items = JOBS_DATA.slice(0,8).map(j=>j.title+' &nbsp;|&nbsp; ').join('') +
-    RESULTS_DATA.slice(0,4).map(r=>r.title+' &nbsp;|&nbsp; ').join('');
+  const jobs = typeof JOBS_DATA !== "undefined" ? JOBS_DATA : [];
+const results = typeof RESULTS_DATA !== "undefined" ? RESULTS_DATA : [];
+
+const items =
+    jobs.slice(0,8).map(j=>j.title+" | ").join("") +
+    results.slice(0,4).map(r=>r.title+" | ").join("");
   const el = document.getElementById('ticker-wrap');
   if (!el) return;
   el.innerHTML = `<div class="ticker-inner">

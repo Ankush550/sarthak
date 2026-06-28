@@ -318,6 +318,13 @@
 
   
 
+  <!-- NRI Salary Converter Box -->
+  <div id="nriBox" style="display:none;background:#fff;border:0.5px solid #dde3f0;border-radius:12px;padding:16px 18px;margin-bottom:12px;box-shadow:0 1px 6px rgba(21,101,192,0.05);">
+    <h3 style="font-size:15px;color:#1a237e;font-weight:800;margin:0 0 12px;">💱 Salary in Other Currencies (For NRIs)</h3>
+    <div id="currencyGrid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;"></div>
+    <div id="timezoneBox" style="margin-top:14px;"></div>
+  </div>
+
   <!-- Similar Jobs -->
   <div class="sec-box" style="margin-top:10px;">
     <div class="sec-hdr"><h2>More Government Jobs 2026</h2></div>
@@ -328,9 +335,12 @@
 </div>
 
 <div id="site-footer"></div>
-<script src="../assets/jobs-data.js"></script>
-<script src="../assets/job-content.js"></script>
-<script src="../assets/main.js"></script>
+
+<script src="../assets/js/job-content.js"></script>
+<script src="../assets/js/jobs-data.js"></script>
+<script src="../assets/js/common.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/job-detail.js"></script>
 <script>
 renderHeader('Latest Job');
 renderTicker();
@@ -340,7 +350,12 @@ renderCookieConsent();
 const id = new URLSearchParams(window.location.search).get('id') || '';
 document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
 
-const all = [...JOBS_DATA, ...PRIVATE_JOBS_DATA, ...RESULTS_DATA, ...ADMIT_CARDS_DATA, ...ANSWER_KEYS_DATA];
+const _jobs   = typeof JOBS_DATA        !== 'undefined' ? JOBS_DATA        : [];
+const _pvt    = typeof PRIVATE_JOBS_DATA !== 'undefined' ? PRIVATE_JOBS_DATA : [];
+const _res    = typeof RESULTS_DATA      !== 'undefined' ? RESULTS_DATA      : [];
+const _admit  = typeof ADMIT_CARDS_DATA  !== 'undefined' ? ADMIT_CARDS_DATA  : [];
+const _ans    = typeof ANSWER_KEYS_DATA  !== 'undefined' ? ANSWER_KEYS_DATA  : [];
+const all = [..._jobs, ..._pvt, ..._res, ..._admit, ..._ans];
 const job = all.find(j => j.id === id);
 
 // Auto-calculate status from lastDate if not explicitly set
@@ -632,7 +647,7 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
   }
 
   // Similar jobs
-  const sim = JOBS_DATA.filter(j => j.id !== id).slice(0, 10);
+  const sim = _jobs.filter(j => j.id !== id).slice(0, 10);
   document.getElementById('similarJobs').innerHTML = sim.map(j =>
     `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`
   ).join('');
