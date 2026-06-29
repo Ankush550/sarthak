@@ -1,5 +1,5 @@
 // ============================================================
-// SarthakYojana.in — main.js  (SEO + AdSense + Translate)
+// SarthakYojana.in — main.js  (SEO + AdSense + Hi/En Toggle)
 // ============================================================
 
 const SITE = {
@@ -13,20 +13,6 @@ const SITE = {
     return p.includes('/pages/') ? '../' : './';
   })()
 };
-
-// ============================================================
-// GOOGLE TRANSLATE WIDGET INIT — full page inline translation
-// Works on live domain; localhost pe limited
-// ============================================================
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage:      'en',
-    includedLanguages: 'hi,en,ta,te,kn,ml,mr,gu,bn,pa,ur,or,as',
-    layout:            google.translate.TranslateElement.InlineLayout.SIMPLE,
-    autoDisplay:       false,
-    gaTrack:           true
-  }, 'google_translate_element');
-}
 
 // ============================================================
 // RENDER HEADER
@@ -45,93 +31,39 @@ function renderHeader(activeNav) {
     {label:'Sitemap',      href: R+'pages/sitemap.html'},
   ];
 
-  // ── Translate CSS ─────────────────────────────────────────
-  if (!document.getElementById('gt-style')) {
+  // ── Toggle button CSS ─────────────────────────────────────
+  if (!document.getElementById('lang-style')) {
     const st = document.createElement('style');
-    st.id = 'gt-style';
+    st.id = 'lang-style';
     st.textContent =
-      // Hide Google top banner & branding
-      '.goog-te-banner-frame{display:none!important;}' +
-      '#goog-gt-tt{display:none!important;}' +
-      '.goog-tooltip{display:none!important;}' +
-      'body{top:0!important;position:static!important;}' +
-      // Style the dropdown
-      '.goog-te-gadget{font-family:inherit!important;font-size:0!important;color:transparent!important;}' +
-      '.goog-te-gadget span{display:none!important;}' +
-      '.goog-te-gadget .goog-te-combo{' +
-        'font-size:12px!important;' +
-        'font-weight:700!important;' +
-        'padding:6px 10px!important;' +
-        'border-radius:20px!important;' +
-        'border:1.5px solid rgba(255,255,255,0.5)!important;' +
-        'background:rgba(255,255,255,0.15)!important;' +
-        'color:#fff!important;' +
-        'cursor:pointer!important;' +
-        'outline:none!important;' +
-        'min-width:120px!important;' +
-        'appearance:auto!important;' +
+      '#lang-toggle-wrap{display:flex;align-items:center;gap:4px;background:rgba(0,0,0,0.25);border-radius:30px;padding:4px 6px;}' +
+      '.lang-btn{' +
+        'padding:5px 14px;border-radius:20px;font-size:13px;font-weight:700;' +
+        'border:none;cursor:pointer;transition:all 0.2s;letter-spacing:0.3px;' +
       '}' +
-      '.goog-te-combo option{color:#111!important;background:#fff!important;}' +
-      // Wrapper
-      '#sy-translate-wrap{display:flex;flex-direction:column;align-items:flex-end;gap:2px;}' +
-      '#sy-translate-label{color:rgba(255,255,255,0.85);font-size:11px;font-weight:700;}' +
-      '#google_translate_element{min-width:120px;}';
+      '.lang-btn.active{background:#fff;color:#1a237e;box-shadow:0 1px 4px rgba(0,0,0,0.2);}' +
+      '.lang-btn.inactive{background:transparent;color:rgba(255,255,255,0.75);}' +
+      '.lang-btn.inactive:hover{background:rgba(255,255,255,0.15);color:#fff;}';
     document.head.appendChild(st);
   }
 
-  // ── Header HTML ───────────────────────────────────────────
+  // ── Header ────────────────────────────────────────────────
   document.getElementById('site-header').innerHTML =
     '<div class="hdr-inner" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;padding:10px 20px;">' +
       '<div>' +
         '<h1 style="margin:0;font-size:clamp(20px,4vw,30px);">' +
-          '<a href="' + R + 'index.html" style="color:#fff;text-decoration:none;">' + SITE.fullName + '</a>' +
+          '<a href="'+R+'index.html" style="color:#fff;text-decoration:none;">'+SITE.fullName+'</a>' +
         '</h1>' +
-        '<p style="margin:2px 0 0;font-size:13px;color:#ffe082;">' + SITE.tagline + '</p>' +
+        '<p style="margin:2px 0 0;font-size:13px;color:#ffe082;">'+SITE.tagline+'</p>' +
       '</div>' +
-      '<div id="sy-translate-wrap">' +
-        '<span id="sy-translate-label">🌐 भाषा चुनें / Select Language</span>' +
-        '<div id="google_translate_element"></div>' +
+      '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:5px;">' +
+        '<span style="color:rgba(255,255,255,0.7);font-size:10px;font-weight:600;letter-spacing:0.5px;">SELECT LANGUAGE</span>' +
+        '<div id="lang-toggle-wrap">' +
+          '<button class="lang-btn active" id="btn-hi" onclick="setLang(\'hi\')">🇮🇳 हिंदी</button>' +
+          '<button class="lang-btn inactive" id="btn-en" onclick="setLang(\'en\')">🇬🇧 English</button>' +
+        '</div>' +
       '</div>' +
     '</div>';
-
-  // ── Load Google Translate script ──────────────────────────
-  if (!document.getElementById('gt-script')) {
-    const s = document.createElement('script');
-    s.id    = 'gt-script';
-    s.src   = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-    s.async = true;
-    // Fallback if script fails (localhost)
-    s.onerror = function() {
-      const wrap = document.getElementById('google_translate_element');
-      if (!wrap) return;
-      const langs = [
-        {code:'hi',label:'हिंदी'},{code:'ta',label:'தமிழ்'},
-        {code:'te',label:'తెలుగు'},{code:'kn',label:'ಕನ್ನಡ'},
-        {code:'ml',label:'മലയാളം'},{code:'mr',label:'मराठी'},
-        {code:'gu',label:'ગુજરાતી'},{code:'bn',label:'বাংলা'},
-        {code:'pa',label:'ਪੰਜਾਬੀ'},{code:'ur',label:'اردو'}
-      ];
-      var sel = document.createElement('select');
-      sel.style.cssText = 'font-size:12px;padding:5px 10px;border-radius:20px;border:1.5px solid rgba(255,255,255,0.5);background:rgba(255,255,255,0.15);color:#fff;cursor:pointer;outline:none;min-width:120px;';
-      sel.innerHTML = '<option value="">🌐 Language</option>' +
-        langs.map(function(l){
-          return '<option value="'+l.code+'" style="color:#111;background:#fff;">'+l.label+'</option>';
-        }).join('');
-      sel.onchange = function() {
-        if (!this.value) return;
-        var pageUrl = encodeURIComponent(
-          window.location.href.replace('127.0.0.1:5500', 'sarthakyojana.in')
-        );
-        window.open(
-          'https://translate.google.com/translate?sl=en&tl='+this.value+'&u='+pageUrl,
-          '_blank'
-        );
-        this.value = '';
-      };
-      wrap.appendChild(sel);
-    };
-    document.head.appendChild(s);
-  }
 
   // ── Nav ──────────────────────────────────────────────────
   const nav = document.createElement('nav');
@@ -149,6 +81,10 @@ function renderHeader(activeNav) {
   tag.innerHTML = '<b>'+SITE.name+'</b> — India\'s Trusted Site for Sarkari Naukri, Exam Results, Admit Cards, Answer Keys &amp; Government Schemes — Updated Daily';
   nav.after(tag);
 
+  // ── Restore saved language preference ────────────────────
+  const savedLang = localStorage.getItem('sy-lang') || 'hi';
+  setTimeout(function(){ setLang(savedLang, true); }, 50);
+
   // ── Schemas ───────────────────────────────────────────────
   if (!document.getElementById('ws-schema')) {
     const s = document.createElement('script');
@@ -162,6 +98,66 @@ function renderHeader(activeNav) {
     s.text=JSON.stringify({"@context":"https://schema.org","@type":"Organization","name":SITE.fullName,"url":SITE.url,"logo":SITE.url+"/assets/logo.png","sameAs":[SITE.url]});
     document.head.appendChild(s);
   }
+}
+
+// ============================================================
+// SET LANGUAGE — Hindi / English toggle
+// ============================================================
+function setLang(lang, silent) {
+  // Update buttons
+  var btnHi = document.getElementById('btn-hi');
+  var btnEn = document.getElementById('btn-en');
+  if (btnHi && btnEn) {
+    if (lang === 'hi') {
+      btnHi.className = 'lang-btn active';
+      btnEn.className = 'lang-btn inactive';
+    } else {
+      btnHi.className = 'lang-btn inactive';
+      btnEn.className = 'lang-btn active';
+    }
+  }
+  localStorage.setItem('sy-lang', lang);
+
+  // Load Google Translate script once
+  if (!document.getElementById('gt-script')) {
+    window._gtLang = lang;
+    window.googleTranslateElementInit = function() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'hi',
+        includedLanguages: 'hi,en',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: false
+      }, 'gt-hidden-div');
+      // Trigger translation after init
+      setTimeout(function(){ _triggerTranslate(window._gtLang); }, 600);
+    };
+    // Hidden div for widget
+    if (!document.getElementById('gt-hidden-div')) {
+      var d = document.createElement('div');
+      d.id = 'gt-hidden-div';
+      d.style.display = 'none';
+      document.body.appendChild(d);
+    }
+    var s = document.createElement('script');
+    s.id = 'gt-script';
+    s.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    s.async = true;
+    document.head.appendChild(s);
+  } else {
+    // Script already loaded — trigger directly
+    if (!silent) {
+      window._gtLang = lang;
+      setTimeout(function(){ _triggerTranslate(lang); }, 100);
+    }
+  }
+}
+
+// ── Internal: trigger Google Translate combo change ──────────
+function _triggerTranslate(lang) {
+  var combo = document.querySelector('.goog-te-combo');
+  if (!combo) return;
+  combo.value = (lang === 'en') ? 'en' : 'hi';
+  combo.dispatchEvent(new Event('change'));
 }
 
 // ============================================================
@@ -227,14 +223,10 @@ function renderFooter() {
     '</ul></div>'+
   '</div>'+
   '<div class="footer-bottom">'+
-    '<a href="'+R+'index.html">Home</a> '+
-    '<a href="'+R+'pages/jobs.html">Sarkari Naukri</a> '+
-    '<a href="'+R+'pages/results.html">Sarkari Result</a> '+
-    '<a href="'+R+'pages/results.html#admit">Admit Card</a> '+
-    '<a href="'+R+'pages/results.html#answer">Answer Key</a> '+
-    '<a href="'+R+'pages/schemes.html">Sarkari Yojana</a> '+
-    '<a href="'+R+'pages/sitemap.html">Sitemap</a> '+
-    '<a href="'+R+'pages/about-us.html">About Us</a> '+
+    '<a href="'+R+'index.html">Home</a> <a href="'+R+'pages/jobs.html">Sarkari Naukri</a> '+
+    '<a href="'+R+'pages/results.html">Sarkari Result</a> <a href="'+R+'pages/results.html#admit">Admit Card</a> '+
+    '<a href="'+R+'pages/results.html#answer">Answer Key</a> <a href="'+R+'pages/schemes.html">Sarkari Yojana</a> '+
+    '<a href="'+R+'pages/sitemap.html">Sitemap</a> <a href="'+R+'pages/about-us.html">About Us</a> '+
     '<a href="'+R+'pages/contact.html">Contact</a><br style="margin-bottom:6px;">'+
     '&copy; 2026 '+SITE.fullName+' — All Rights Reserved | '+
     '<a href="'+R+'pages/jobs.html" style="color:#aaa;">Sarkari Naukri</a> | '+
