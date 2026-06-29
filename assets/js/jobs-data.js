@@ -1,6 +1,110 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id: "indian-navy-agniveer-apprentice-recruitment-2026",
+    title: "Indian Navy Agniveer (Apprentice) Recruitment 2026",
+    shortTitle: "Indian Navy Agniveer Apprentice Recruitment 2026",
+    organization: "Indian Navy",
+    department: "Directorate of Manpower Planning & Recruitment, Naval Headquarters",
+    postName: "Agniveer (Apprentice)",
+    advertisementNo: "01/2027 & 02/2027 Batch",
+    category: "Latest Jobs",
+    applicationMode: "Online",
+    jobLocation: "Across India",
+    totalPosts: "As Per Requirement",
+    salary: "₹30,000 – ₹40,000 Per Month",
+    qualification: "10th Pass + Diploma",
+    ageLimit: "01 Dec 2004 – 31 Oct 2009",
+    notificationDate: "05 June 2026",
+    applicationStart: "05 June 2026",
+    applicationLastDate: "05 July 2026 (Extended)",
+    correctionDate: "06 July 2026",
+    examDate: "August 2026 (Tentative)",
+    selectionProcess: [
+        "INET Examination",
+        "Physical Fitness Test (PFT)",
+        "Written Examination",
+        "Medical Examination",
+        "Pre-Enrolment Medical"
+    ],
+    officialWebsite: "https://joinindiannavy.gov.in",
+    applyLink: "https://joinindiannavy.gov.in",
+    notificationPdf: "https://joinindiannavy.gov.in",
+    image: "INDIAN-NAVY.jpeg",
+
+    featured: true,
+    isNew: true,
+    status: "Active",
+
+    tags: [
+        "Indian Navy Recruitment 2026",
+        "Indian Navy Agniveer Apprentice",
+        "Indian Navy Jobs",
+        "Indian Navy Diploma Jobs",
+        "Indian Navy Apprentice",
+        "Agniveer Recruitment",
+        "Indian Navy Vacancy 2026",
+        "Join Indian Navy",
+        "Indian Navy Online Form",
+        "Government Jobs"
+    ],
+
+    description:
+    "Indian Navy Agniveer (Apprentice) Recruitment 2026 Notification has been released for 01/2027 & 02/2027 Batch. Eligible unmarried male candidates can apply online till 05 July 2026 through the official website."
+},
+
+{
+    id: "iocl-apprentice-recruitment-2026",
+    title: "IOCL Apprentice Recruitment 2026",
+    shortTitle: "IOCL Apprentice Recruitment 2026",
+    organization: "Indian Oil Corporation Limited (IOCL)",
+    department: "Refineries Division",
+    postName: "Trade / Technician Apprentice",
+    advertisementNo: "Various Refineries",
+    category: "Latest Jobs",
+    applicationMode: "Online",
+    jobLocation: "Across India",
+    totalPosts: "1524",
+    salary: "As Per Apprenticeship Rules",
+    qualification: "12th / ITI / Diploma / Graduate",
+    ageLimit: "18 – 24 Years",
+    notificationDate: "29 June 2026",
+    applicationStart: "29 June 2026",
+    applicationLastDate: "28 July 2026",
+    documentVerification: "11 August – 18 August 2026 (Tentative)",
+    selectionProcess: [
+        "Merit List",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    officialWebsite: "https://iocl.com",
+    applyLink: "https://iocl.com",
+    notificationPdf: "https://iocl.com",
+    image: "IOCL.jpeg",
+
+    featured: true,
+    isNew: true,
+    status: "Active",
+
+    tags: [
+        "IOCL Apprentice Recruitment 2026",
+        "Indian Oil Recruitment",
+        "IOCL Jobs",
+        "Technician Apprentice",
+        "Trade Apprentice",
+        "Diploma Jobs",
+        "ITI Jobs",
+        "Graduate Jobs",
+        "Apprentice Vacancy",
+        "Latest PSU Jobs",
+        "Indian Oil Vacancy",
+        "Government Jobs"
+    ],
+
+    description:
+    "Indian Oil Corporation Limited (IOCL) has released the Apprentice Recruitment 2026 notification for 1524 Trade and Technician Apprentice posts across four refinery units. Eligible candidates can apply online till 28 July 2026."
+},
+  {
     id: "csc-aadhaar-supervisor-operator-recruitment-2026",
     title: "CSC Aadhaar Supervisor/Operator Recruitment 2026",
     shortTitle: "CSC Aadhaar Supervisor Operator Online Form 2026",

@@ -1,5 +1,1234 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["iocl-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IOCL Apprentice Recruitment 2026 Notification Out – Apply Online for 1524 Trade, Technician & Graduate Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 IOCL Apprentice Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>28 July 2026 (05:00 PM)</strong>
+</p>
+
+<a href="https://iocl.com/apprenticeships"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Indian Oil Corporation Limited (IOCL) has released the official notification for
+<strong>IOCL Apprentice Recruitment 2026</strong> under the Refineries Division.
+A total of <strong>1,524 Apprentice vacancies</strong> have been announced for
+Trade Apprentice, Technician Apprentice and Graduate Apprentice posts across multiple refinery units. Eligible candidates can submit their online applications through the prescribed apprenticeship portals before the closing date. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online registration process commenced on
+<strong>29 June 2026</strong>
+and applications will be accepted until
+<strong>28 July 2026 (05:00 PM)</strong>.
+Candidates having qualifications such as
+<strong>12th Pass, ITI, Diploma or Graduation</strong>
+can apply according to the respective apprentice discipline mentioned in the notification. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection will be based on the merit prepared from the marks obtained in the qualifying examination.
+Shortlisted candidates will be called for
+<strong>Document Verification</strong>
+followed by
+<strong>Medical Examination</strong>.
+No written examination or interview will be conducted for this recruitment. :contentReference[oaicite:2]{index=2}
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IOCL Apprentice Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Oil Corporation Limited (IOCL)</td>
+</tr>
+
+<tr>
+<th>Division</th>
+<td>Refineries Division</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Trade Apprentice / Technician Apprentice / Graduate Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>1,524</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>29 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>28 July 2026 (05:00 PM)</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Merit List, Document Verification & Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://iocl.com</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Notification Release Date</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Online Application Starts</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date for Online Registration</td>
+
+<td>28 July 2026 (05:00 PM)</td>
+
+</tr>
+
+<tr>
+
+<td>Shortlist for Document Verification</td>
+
+<td>05 August 2026 (Tentative)</td>
+
+</tr>
+
+<tr>
+
+<td>Document Verification</td>
+
+<td>11 August – 18 August 2026 (Tentative)</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>1,524 Apprentice vacancies</strong> have been announced under the Refineries Division. Vacancies are available for various Trade Apprentice, Technician Apprentice and Graduate Apprentice disciplines across participating refinery units. Detailed trade-wise and refinery-wise vacancies are available in the official notification. :contentReference[oaicite:3]{index=3}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post</th>
+
+<th>Vacancies</th>
+
+</tr>
+
+<tr>
+
+<td>Trade Apprentice</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Technician Apprentice</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Graduate Apprentice</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<th>Total</th>
+
+<th>1,524</th>
+
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must possess the prescribed educational qualification for the respective apprentice discipline. Applicants who have completed 12th Pass, ITI, Diploma or Graduation from a recognized Board, Institute or University are eligible to apply according to the post they are applying for. Candidates are advised to carefully read the official notification before submitting the application. :contentReference[oaicite:0]{index=0}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Apprentice Category</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Trade Apprentice</td>
+<td>10+2 (Science) / ITI in Relevant Trade</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice</td>
+<td>Diploma in Relevant Engineering Discipline</td>
+</tr>
+
+<tr>
+<td>Graduate Apprentice</td>
+<td>Bachelor's Degree in Relevant Discipline</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum age required to apply is <strong>18 years</strong> and the maximum age is <strong>24 years</strong> as on the cut-off date mentioned in the notification. Age relaxation will be applicable for SC, ST, OBC (NCL), PwBD and other reserved categories as per Government of India rules. :contentReference[oaicite:1]{index=1}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Category</th>
+
+<th>Age</th>
+
+</tr>
+
+<tr>
+
+<td>Minimum Age</td>
+
+<td>18 Years</td>
+
+</tr>
+
+<tr>
+
+<td>Maximum Age</td>
+
+<td>24 Years</td>
+
+</tr>
+
+<tr>
+
+<td>Age Relaxation</td>
+
+<td>As Per Government Rules</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected apprentices will receive a monthly stipend as per the provisions of the <strong>Apprentices Act, 1961</strong> and the Apprenticeship Rules. The stipend amount varies depending on the apprentice category and qualification. :contentReference[oaicite:2]{index=2}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Category</th>
+
+<th>Stipend</th>
+
+</tr>
+
+<tr>
+
+<td>Trade Apprentice</td>
+
+<td>As Per Apprenticeship Rules</td>
+
+</tr>
+
+<tr>
+
+<td>Technician Apprentice</td>
+
+<td>As Per Apprenticeship Rules</td>
+
+</tr>
+
+<tr>
+
+<td>Graduate Apprentice</td>
+
+<td>As Per Apprenticeship Rules</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection of candidates will be based on the marks obtained in the qualifying examination. There will be no written examination or interview. Candidates shortlisted on merit will be called for Document Verification and Pre-Engagement Medical Examination. :contentReference[oaicite:3]{index=3}
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Preparation of Merit List</li>
+
+<li>Document Verification</li>
+
+<li>Medical Examination</li>
+
+<li>Final Selection</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Signature</li>
+
+<li>10th Certificate</li>
+
+<li>12th Marksheet (Where Applicable)</li>
+
+<li>ITI / Diploma / Graduation Certificates</li>
+
+<li>Aadhaar Card</li>
+
+<li>Caste Certificate (If Applicable)</li>
+
+<li>EWS Certificate (If Applicable)</li>
+
+<li>PwBD Certificate (If Applicable)</li>
+
+<li>Valid Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can apply online through the NAPS/NATS portal and complete the additional registration process, if required by the concerned refinery, before the last date. :contentReference[oaicite:4]{index=4}
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official IOCL Apprenticeship page.</li>
+
+<li>Register on the NAPS or NATS portal.</li>
+
+<li>Complete the online application.</li>
+
+<li>Fill in all required personal and educational details.</li>
+
+<li>Upload the necessary documents.</li>
+
+<li>Submit the application before <strong>28 July 2026</strong>.</li>
+
+<li>Keep a printout of the submitted application for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only online applications will be accepted.</li>
+
+<li>Candidates should apply for only one apprentice discipline.</li>
+
+<li>All educational certificates must be valid on the closing date.</li>
+
+<li>Keep the registered mobile number and email ID active.</li>
+
+<li>Regularly visit the official website for merit list and document verification updates.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Apply Online</td>
+
+<td>
+<a href="https://iocl.com/apprenticeships" target="_blank">
+Click Here
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td>
+<a href="https://iocl.com" target="_blank">
+Download PDF
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td>
+<a href="https://iocl.com" target="_blank">
+iocl.com
+</a>
+</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When was the IOCL Apprentice Recruitment 2026 notification released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The official notification for IOCL Apprentice Recruitment 2026 was released on <strong>29 June 2026</strong>.
+</p>
+
+<h3>2. How many vacancies are available in IOCL Apprentice Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>1,524 Apprentice vacancies</strong> have been announced for Trade, Technician and Graduate Apprentice posts.
+</p>
+
+<h3>3. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Eligible candidates can submit their online application up to <strong>28 July 2026 (05:00 PM)</strong>.
+</p>
+
+<h3>4. Who can apply for IOCL Apprentice Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates possessing <strong>12th Pass, ITI, Diploma or Graduation</strong> in the relevant discipline are eligible according to the apprentice post.
+</p>
+
+<h3>5. Is there any written examination?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Selection will be based on the merit prepared from the qualifying examination, followed by Document Verification and Medical Examination.
+</p>
+
+<h3>6. What is the age limit?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should be between <strong>18 and 24 years</strong>. Age relaxation is applicable for reserved categories as per Government rules.
+</p>
+
+<h3>7. What stipend will selected apprentices receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive a monthly stipend as per the provisions of the <strong>Apprentices Act, 1961</strong> and the applicable apprenticeship rules.
+</p>
+
+<h3>8. Is there any application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should refer to the official notification for details regarding the application fee, if applicable.
+</p>
+
+<h3>9. When will Document Verification be conducted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Document Verification process is tentatively scheduled between <strong>11 August and 18 August 2026</strong>. Candidates should regularly visit the official website for updates.
+</p>
+
+<h3>10. Where can I apply for IOCL Apprentice Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications can be submitted online through the official IOCL website and the NAPS/NATS apprenticeship portals.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IOCL Apprentice Recruitment 2026</strong> is an excellent opportunity for ITI, Diploma and Graduate candidates seeking apprenticeship training in one of India's leading Public Sector Undertakings. Interested candidates should verify their eligibility, complete the online registration before the last date and keep all required documents ready for the document verification process.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply Online for IOCL Apprentice Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your application before <strong>28 July 2026</strong> and keep all required documents ready for verification.
+</p>
+
+<a href="https://iocl.com/apprenticeships"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=indian-navy-agniveer-apprentice-recruitment-2026">Indian Navy Agniveer (Apprentice) Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bank-of-india-credit-officer-recruitment-2026">Bank of India Credit Officer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=isro-istrac-various-posts-recruitment-2026">ISRO ISTRAC Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-cgl-recruitment-2026">SSC CGL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-cre-5-recruitment-2026">AIIMS CRE 5 Recruitment 2026</a></li>
+
+</ul>
+
+`;
+JOB_CONTENT["indian-navy-agniveer-apprentice-recruitment-2026"] = `
+
+<h1>Indian Navy Agniveer (Apprentice) Recruitment 2026 – Apply Online, Eligibility, Salary & Notification PDF</h1>
+
+<p><strong>By SarthakYojana Editorial Team</strong> | Updated: 29 June 2026</p>
+
+<h2>Indian Navy Agniveer (Apprentice) Recruitment 2026 Notification Out – Apply Online</h2>
+
+<p>
+The <strong>Indian Navy</strong> has released the official notification for the
+<strong>Agniveer (Apprentice) Recruitment 2026</strong> for the
+<strong>01/2027 and 02/2027 batches</strong>. Eligible unmarried male candidates possessing the required educational qualification can submit their online applications through the official Join Indian Navy portal before the last date.
+</p>
+
+<p>
+This recruitment offers an excellent opportunity for candidates seeking a career in the Indian Armed Forces under the Agnipath Scheme. Selected candidates will undergo training and serve as Agniveers in various technical branches of the Indian Navy.
+</p>
+
+<div class="download-box">
+
+<h3>📢 Indian Navy Agniveer Recruitment 2026</h3>
+
+<p>
+
+Online Applications are now open for the
+<strong>01/2027 & 02/2027 Batch</strong>.
+
+</p>
+
+<a href="https://joinindiannavy.gov.in"
+target="_blank"
+class="download-btn">
+
+Apply Online
+
+</a>
+
+</div>
+
+<p>
+
+✅ <strong>Status :</strong> Online Application Started
+
+</p>
+
+<h2>Indian Navy Agniveer Recruitment 2026 – Key Highlights</h2>
+
+<table>
+
+<tr>
+
+<th>Particulars</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Organisation</td>
+
+<td>Indian Navy</td>
+
+</tr>
+
+<tr>
+
+<td>Post Name</td>
+
+<td>Agniveer (Apprentice)</td>
+
+</tr>
+
+<tr>
+
+<td>Batch</td>
+
+<td>01/2027 & 02/2027</td>
+
+</tr>
+
+<tr>
+
+<td>Category</td>
+
+<td>Government Job</td>
+
+</tr>
+
+<tr>
+
+<td>Application Mode</td>
+
+<td>Online</td>
+
+</tr>
+
+<tr>
+
+<td>Application Start Date</td>
+
+<td>05 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Apply</td>
+
+<td>05 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Exam Date</td>
+
+<td>August 2026 (Tentative)</td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td>joinindiannavy.gov.in</td>
+
+</tr>
+
+</table>
+
+<h2>Important Dates</h2>
+
+<table>
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Notification Released</td>
+
+<td>05 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Online Application Starts</td>
+
+<td>05 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Apply</td>
+
+<td>05 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Application Correction</td>
+
+<td>06 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>INET Exam</td>
+
+<td>August 2026 (Tentative)</td>
+
+</tr>
+
+</table>
+
+<h2>Educational Qualification</h2>
+
+<p>
+Candidates must have passed <strong>Class 10 (Matriculation)</strong> and possess a
+<strong>Diploma in the relevant Engineering discipline</strong> from a recognized institution. Candidates should carefully check the official notification for branch-wise eligibility criteria before submitting the application.
+</p>
+
+<h2>Age Limit</h2>
+
+<table>
+
+<tr>
+
+<th>Criteria</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Minimum Age</td>
+
+<td>Candidate should be born on or after 01 December 2004.</td>
+
+</tr>
+
+<tr>
+
+<td>Maximum Age</td>
+
+<td>Candidate should be born on or before 31 October 2009.</td>
+
+</tr>
+
+</table>
+
+<h2>Selection Process</h2>
+
+<p>
+Selection of candidates will be carried out through multiple stages. Candidates qualifying each stage will be shortlisted for the next phase.
+</p>
+
+<ul>
+
+<li>INET Examination</li>
+
+<li>Written Examination</li>
+
+<li>Physical Fitness Test (PFT)</li>
+
+<li>Medical Examination</li>
+
+<li>Final Merit List</li>
+
+</ul>
+<h2>Vacancy Details</h2>
+
+<p>
+The Indian Navy has invited online applications for the Agniveer (Apprentice) 01/2027 and 02/2027 Batches. The exact number of vacancies has not been notified and selections will be made based on the service requirements of the Indian Navy.
+</p>
+
+<table>
+
+<tr>
+
+<th>Post Name</th>
+
+<th>Vacancies</th>
+
+</tr>
+
+<tr>
+
+<td>Agniveer (Apprentice)</td>
+
+<td>As Per Service Requirement</td>
+
+</tr>
+
+</table>
+
+<h2>Indian Navy Agniveer Salary 2026</h2>
+
+<p>
+Selected candidates will receive salary under the Agnipath Scheme. Apart from the monthly package, Agniveers are also entitled to Risk & Hardship Allowance, Dress Allowance, Travel Allowance and Seva Nidhi benefits as per Government of India rules.
+</p>
+
+<table>
+
+<tr>
+
+<th>Year</th>
+
+<th>Monthly Package</th>
+
+<th>In-Hand (Approx.)</th>
+
+</tr>
+
+<tr>
+
+<td>1st Year</td>
+
+<td>₹30,000</td>
+
+<td>₹21,000</td>
+
+</tr>
+
+<tr>
+
+<td>2nd Year</td>
+
+<td>₹33,000</td>
+
+<td>₹23,100</td>
+
+</tr>
+
+<tr>
+
+<td>3rd Year</td>
+
+<td>₹36,500</td>
+
+<td>₹25,580</td>
+
+</tr>
+
+<tr>
+
+<td>4th Year</td>
+
+<td>₹40,000</td>
+
+<td>₹28,000</td>
+
+</tr>
+
+</table>
+
+<h2>Physical Fitness Test (PFT)</h2>
+
+<p>
+Candidates shortlisted for Stage-II will have to qualify the Physical Fitness Test. The qualifying standards prescribed by the Indian Navy are as follows.
+</p>
+
+<table>
+
+<tr>
+
+<th>Test</th>
+
+<th>Male Candidates</th>
+
+</tr>
+
+<tr>
+
+<td>1.6 Km Run</td>
+
+<td>Within Prescribed Time</td>
+
+</tr>
+
+<tr>
+
+<td>Squats (Uthak Baithak)</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Push-ups</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>Bent Knee Sit-ups</td>
+
+<td>12</td>
+
+</tr>
+
+</table>
+
+<h2>Medical Standards</h2>
+
+<ul>
+
+<li>Candidate should be medically fit as per Indian Navy standards.</li>
+
+<li>Good mental and physical health is mandatory.</li>
+
+<li>No permanent body tattoos except those permitted by Government policy.</li>
+
+<li>Vision and hearing standards should satisfy the prescribed medical requirements.</li>
+
+<li>Medical examination will be conducted at designated Naval Centres.</li>
+
+</ul>
+
+<h2>Application Fee</h2>
+
+<table>
+
+<tr>
+
+<th>Category</th>
+
+<th>Fee</th>
+
+</tr>
+
+<tr>
+
+<td>All Candidates</td>
+
+<td>₹550 + 18% GST (If Applicable)</td>
+
+</tr>
+
+</table>
+
+<h2>Documents Required</h2>
+
+<ul>
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Signature</li>
+
+<li>10th Marksheet & Certificate</li>
+
+<li>Three-Year Diploma Certificate & Marksheets</li>
+
+<li>Aadhaar Card</li>
+
+<li>Domicile Certificate (If Applicable)</li>
+
+<li>NCC Certificate (If Applicable)</li>
+
+<li>Valid Mobile Number</li>
+
+<li>Email ID</li>
+
+</ul>
+
+<h2>How to Apply Online?</h2>
+
+<ol>
+
+<li>Visit the official website <strong>joinindiannavy.gov.in</strong>.</li>
+
+<li>Complete the registration process using your email ID and mobile number.</li>
+
+<li>Login using the generated credentials.</li>
+
+<li>Select <strong>Agniveer (Apprentice) 01/2027 / 02/2027</strong>.</li>
+
+<li>Fill in all personal, educational and communication details.</li>
+
+<li>Upload photograph, signature and required documents.</li>
+
+<li>Pay the application fee, if applicable.</li>
+
+<li>Preview the application carefully.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2>Important Instructions</h2>
+
+<ul>
+
+<li>Apply only through the official Indian Navy recruitment portal.</li>
+
+<li>Keep all original documents ready for verification.</li>
+
+<li>Applications submitted after the last date will not be accepted.</li>
+
+<li>Read the detailed notification carefully before filling out the application form.</li>
+
+<li>Regularly check the official website for updates regarding INET, admit card and Stage-II schedule.</li>
+
+</ul>
+<h2>Important Links</h2>
+
+<table>
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Apply Online</td>
+
+<td><a href="https://joinindiannavy.gov.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://joinindiannavy.gov.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://joinindiannavy.gov.in" target="_blank">joinindiannavy.gov.in</a></td>
+
+</tr>
+
+</table>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<h3>Q1. When was the Indian Navy Agniveer (Apprentice) Recruitment 2026 notification released?</h3>
+
+<p>
+The Indian Navy Agniveer (Apprentice) Recruitment 2026 notification was released on <strong>05 June 2026</strong> for the 01/2027 and 02/2027 batches.
+</p>
+
+<h3>Q2. What is the last date to apply online?</h3>
+
+<p>
+Eligible candidates can submit their online application forms till <strong>05 July 2026</strong>.
+</p>
+
+<h3>Q3. Who is eligible to apply for Indian Navy Agniveer (Apprentice) Recruitment 2026?</h3>
+
+<p>
+Candidates who have passed <strong>10th (Matriculation)</strong> and possess a <strong>Diploma in the relevant Engineering discipline</strong> from a recognized institution are eligible to apply, subject to the age criteria mentioned in the notification.
+</p>
+
+<h3>Q4. What is the selection process?</h3>
+
+<p>
+The selection process includes the <strong>INET Examination, Written Examination, Physical Fitness Test (PFT), Medical Examination</strong> and preparation of the final merit list.
+</p>
+
+<h3>Q5. What is the salary of an Agniveer Apprentice?</h3>
+
+<p>
+Selected candidates will receive a monthly package starting from <strong>₹30,000 in the first year</strong>, increasing up to <strong>₹40,000 in the fourth year</strong>, along with applicable allowances and Seva Nidhi benefits.
+</p>
+
+<h3>Q6. Is there any application fee?</h3>
+
+<p>
+Yes. Candidates are required to pay an application fee of <strong>₹550 + applicable GST</strong>, if specified in the official notification.
+</p>
+
+<h3>Q7. What is the age limit for this recruitment?</h3>
+
+<p>
+Applicants should be born between <strong>01 December 2004</strong> and <strong>31 October 2009</strong> as per the official eligibility criteria.
+</p>
+
+<h3>Q8. When will the examination be conducted?</h3>
+
+<p>
+The INET examination is expected to be conducted in <strong>August 2026</strong>. Candidates should regularly visit the official website for updates.
+</p>
+
+<h3>Q9. Can female candidates apply?</h3>
+
+<p>
+Candidates should refer to the official notification for batch-wise and branch-wise eligibility regarding male and female applicants.
+</p>
+
+<h3>Q10. Where can I apply for Indian Navy Agniveer Recruitment 2026?</h3>
+
+<p>
+Applications can be submitted online through the official Indian Navy recruitment portal at <strong>joinindiannavy.gov.in</strong>.
+</p>
+
+<h2>Conclusion</h2>
+
+<p>
+The <strong>Indian Navy Agniveer (Apprentice) Recruitment 2026</strong> offers an excellent opportunity for young candidates aspiring to build a career in the Indian Navy under the Agnipath Scheme. Interested applicants should carefully verify their eligibility, complete the online application before the last date and begin preparing for the INET examination. Candidates are advised to keep checking the official website for updates regarding admit cards, examination schedule and further stages of the recruitment process.
+</p>
+
+<div class="download-box">
+
+<h3>🚀 Apply Online for Indian Navy Agniveer (Apprentice) Recruitment 2026</h3>
+
+<p>
+
+Complete your application before the closing date and keep all required documents ready for the recruitment process.
+
+</p>
+
+<a href="https://joinindiannavy.gov.in"
+target="_blank"
+class="download-btn">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2>Related Jobs</h2>
+
+<ul>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=isro-istrac-recruitment-2026">ISRO ISTRAC Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bank-of-india-credit-officer-recruitment-2026">Bank of India Credit Officer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-cgl-recruitment-2026">SSC CGL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-cre-5-recruitment-2026">AIIMS CRE 5 Recruitment 2026</a></li>
+
+</ul>
+
+
+`;
 JOB_CONTENT["csc-aadhaar-supervisor-operator-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

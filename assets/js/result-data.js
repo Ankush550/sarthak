@@ -2,7 +2,6 @@
 // PDF files: assets/notifications/<id>.pdf
 
 const RESULTS_DATA = [
-
 {
     id: "up-home-guard-result-2026",
     title: "UP Home Guard Result 2026",
