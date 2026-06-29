@@ -1,4 +1,187 @@
 const ADMIT_CARD_CONTENT = {};
+
+ADMIT_CARD_CONTENT["hprca-computer-teacher-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+HPRCA Computer Teacher Admit Card 2026 Out – Download Hall Ticket @ hprca.hp.gov.in
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 HPRCA Computer Teacher Admit Card 2026 Released
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Hall Ticket Available for Download</span>
+</p>
+
+<p style="font-size:19px;">
+Download Available Till :
+<strong>03 July 2026 (06:00 PM)</strong>
+</p>
+
+<a href="https://cdn3.digialm.com/EForms/configuredHtml/33096/101377/login.html"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Download Admit Card →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>HPRCA Computer Teacher Admit Card 2026</strong> has been officially released by the Himachal Pradesh Revenue and Common Service Centre Authority (HPRCA). Candidates who successfully submitted their application forms can now download their hall ticket through the official TCS iON examination portal using their Application Number and Password or Date of Birth.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The admit card download facility started on <strong>26 June 2026</strong> and will remain available till <strong>03 July 2026 (06:00 PM)</strong>. Candidates should download their admit card well before the closing date and carefully verify all personal as well as examination details printed on it.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry a printed copy of the admit card along with a valid original photo identity proof while appearing for the Computer Teacher Recruitment Examination. Entry to the examination centre will not be permitted without the required documents.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HPRCA Computer Teacher Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Himachal Pradesh Revenue and Common Service Centre Authority (HPRCA)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Computer Teacher</td>
+</tr>
+
+<tr>
+<th>Exam Name</th>
+<td>HPRCA Computer Teacher Recruitment Examination 2026</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Admit Card Release Date</th>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Download</th>
+<td>03 July 2026 (Till 06:00 PM)</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>As Mentioned on Admit Card</td>
+</tr>
+
+<tr>
+<th>Download Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://hprca.hp.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Admit Card Released</td>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<td>Admit Card Download Starts</td>
+<td>26 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Download Admit Card</td>
+<td>03 July 2026 (Till 06:00 PM)</td>
+</tr>
+
+<tr>
+<td>Computer Teacher Examination</td>
+<td>As Per Hall Ticket</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must keep the following login credentials ready before downloading the HPRCA Computer Teacher Hall Ticket 2026 from the official portal.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Application Number</li>
+
+<li>Password OR Date of Birth</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download HPRCA Computer Teacher Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can easily download the HPRCA Computer Teacher Admit Card 2026 by following the step-by-step process mentioned below.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official TCS iON Admit Card Portal.</li>
+
+<li>Click on <strong>Download Admit Card</strong>.</li>
+
+<li>Enter your Application Number.</li>
+
+<li>Enter Password or Date of Birth.</li>
+
+<li>Click on the Login button.</li>
+
+<li>Your hall ticket will appear on the screen.</li>
+
+<li>Download the PDF and take multiple printouts for future use.</li>
+
+</ol>
+
+`;
 ADMIT_CARD_CONTENT["bpcl-entry-level-admit-card-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

@@ -1,5 +1,716 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["csc-aadhaar-supervisor-operator-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+CSC Aadhaar Supervisor/Operator Recruitment 2026 Notification Out for 125 District-Level Vacancies
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 CSC Aadhaar Supervisor/Operator Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Application Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>20 August 2026</strong>
+</p>
+
+<a href="https://career.csccloud.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+Apply Online →
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+CSC e-Governance Services India Ltd. has released the <strong>CSC Aadhaar Supervisor/Operator Recruitment 2026 Notification</strong> for contractual recruitment of Aadhaar Supervisor/Operator posts across multiple districts in Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra. Eligible candidates possessing the required educational qualification along with a valid UIDAI Aadhaar Operator/Supervisor Certificate can submit their online applications through the official CSC Job Portal.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment will be conducted for <strong>125 district-level vacancies</strong> under the Aadhaar Seva Kendra (ASK) programme. These appointments are purely on a contractual basis for an initial period of one year. Candidates are advised to complete the online application process well before the closing date to avoid last-minute technical issues.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Applicants who have passed <strong>12th, ITI or Polytechnic Diploma</strong> and possess the mandatory UIDAI-authorized Aadhaar Supervisor/Operator Certificate are eligible to apply. Interested candidates should carefully read the eligibility criteria, vacancy details, salary, application process and important instructions before submitting the application form.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+CSC Aadhaar Supervisor/Operator Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organization</th>
+<td>CSC e-Governance Services India Ltd.</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Aadhaar Supervisor / Operator – District</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>125</td>
+</tr>
+
+<tr>
+<th>Job Type</th>
+<td>Contract Basis (1 Year)</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>States Covered</th>
+<td>Bihar, Chhattisgarh, Madhya Pradesh & Maharashtra</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 August 2026</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>State Minimum Wages for Semi-Skilled Manpower</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://career.csccloud.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Notification Released</th>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<th>Online Application Started</th>
+<td>Already Started</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply Online</th>
+<td>20 August 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>Will Be Notified</td>
+</tr>
+
+<tr>
+<th>Document Verification</th>
+<td>Will Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post Name</th>
+
+<th>Total Posts</th>
+
+<th>Job Type</th>
+
+</tr>
+
+<tr>
+
+<td>Aadhaar Supervisor / Operator – District</td>
+
+<td>125</td>
+
+<td>Contract (1 Year)</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+State-wise Vacancy Summary
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>State</th>
+
+<th>Vacancy Status</th>
+
+</tr>
+
+<tr>
+
+<td>Bihar</td>
+
+<td>District-wise Vacancies Available</td>
+
+</tr>
+
+<tr>
+
+<td>Chhattisgarh</td>
+
+<td>District-wise Vacancies Available</td>
+
+</tr>
+
+<tr>
+
+<td>Madhya Pradesh</td>
+
+<td>District-wise Vacancies Available</td>
+
+</tr>
+
+<tr>
+
+<td>Maharashtra</td>
+
+<td>District-wise Vacancies Available</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for the CSC Aadhaar Supervisor/Operator Recruitment 2026 must satisfy all eligibility conditions prescribed by CSC e-Governance Services India Ltd. Applicants should possess the required educational qualification along with a valid UIDAI-authorized Aadhaar Supervisor/Operator Certificate. The minimum age required is 18 years. Candidates are advised to verify their eligibility carefully before submitting the online application form.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Recruitment Highlights
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Total 125 district-level vacancies.</li>
+
+<li>Recruitment for Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra.</li>
+
+<li>One-year contractual appointment.</li>
+
+<li>Online application through CSC Job Portal.</li>
+
+<li>Minimum qualification: 12th / ITI / Polytechnic Diploma.</li>
+
+<li>UIDAI Aadhaar Supervisor/Operator Certificate is mandatory.</li>
+
+<li>Salary will be paid according to the respective state's minimum wages for semi-skilled manpower.</li>
+
+<li>Applications must be submitted on or before <strong>20 August 2026</strong>.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for the CSC Aadhaar Supervisor/Operator Recruitment 2026 must possess the prescribed educational qualification along with the mandatory Aadhaar Supervisor/Operator Certificate issued by a UIDAI-authorized Testing & Certifying Agency. Applicants should also have basic computer knowledge to perform Aadhaar enrolment and update services.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Option</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Option 1</td>
+<td>12th Pass (Intermediate / Senior Secondary)</td>
+</tr>
+
+<tr>
+<td>Option 2</td>
+<td>Matriculation + 2 Years ITI</td>
+</tr>
+
+<tr>
+<td>Option 3</td>
+<td>Matriculation + 3 Years Polytechnic Diploma</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Mandatory Certificate
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Apart from the educational qualification, every candidate must possess a valid Aadhaar Supervisor/Operator Certificate issued by a UIDAI-authorized Testing & Certifying Agency. This certificate is mandatory for all applicants. Candidates without this certificate are not eligible to apply for the recruitment.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #f9a825;padding:18px;margin:25px 0;font-size:19px;line-height:1.8;">
+
+<strong>Important:</strong><br>
+
+Candidates who do not possess the Aadhaar Supervisor/Operator Certificate must first qualify the UIDAI Supervisor Examination and complete the LMS Certification before submitting the online application.
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Criteria</th>
+
+<th>Age</th>
+
+</tr>
+
+<tr>
+
+<td>Minimum Age</td>
+
+<td>18 Years</td>
+
+</tr>
+
+<tr>
+
+<td>Maximum Age</td>
+
+<td>Not Mentioned</td>
+
+</tr>
+
+<tr>
+
+<td>Age Relaxation</td>
+
+<td>As Per CSC Recruitment Rules (If Applicable)</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Who is Not Eligible?
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Village Level Entrepreneurs (VLEs) are not eligible for this recruitment.</li>
+
+<li>Candidates without a valid UIDAI Aadhaar Supervisor/Operator Certificate.</li>
+
+<li>Applicants below 18 years of age.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Remuneration
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive remuneration according to the minimum wages prescribed by the respective State Government for semi-skilled manpower. Since the recruitment is being conducted across multiple states, the salary may vary depending on the applicable minimum wage rates of Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post</th>
+
+<th>Salary</th>
+
+</tr>
+
+<tr>
+
+<td>Aadhaar Supervisor / Operator</td>
+
+<td>Minimum State Wages for Semi-Skilled Manpower</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process for CSC Aadhaar Supervisor/Operator Recruitment 2026 will be conducted as per CSC e-Governance Services India Ltd. guidelines. Eligible candidates possessing all mandatory qualifications and certificates will be considered for further selection.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Online Application Submission</li>
+
+<li>Verification of Eligibility & UIDAI Certificate</li>
+
+<li>Document Verification</li>
+
+<li>Final Selection</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Passport Size Photograph</li>
+
+<li>Signature</li>
+
+<li>10th Marksheet & Certificate</li>
+
+<li>12th / ITI / Polytechnic Diploma Certificate</li>
+
+<li>UIDAI Aadhaar Supervisor/Operator Certificate</li>
+
+<li>Aadhaar Card</li>
+
+<li>Valid Mobile Number</li>
+
+<li>Email ID</li>
+
+<li>Caste Certificate (If Applicable)</li>
+
+<li>PwBD Certificate (If Applicable)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can submit their online applications through the official CSC Job Portal before the last date. Follow the steps below to complete the application process successfully.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official CSC Job Portal.</li>
+
+<li>Select your respective state recruitment link.</li>
+
+<li>Click on <strong>Apply Now</strong>.</li>
+
+<li>Fill in personal, educational and certification details carefully.</li>
+
+<li>Upload the required documents.</li>
+
+<li>Verify all entered information.</li>
+
+<li>Submit the application before <strong>20 August 2026</strong>.</li>
+
+<li>Take a printout of the submitted application for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only online applications will be accepted.</li>
+
+<li>Keep your UIDAI Aadhaar Supervisor Certificate ready before applying.</li>
+
+<li>Applications submitted after the closing date will not be accepted.</li>
+
+<li>Ensure all uploaded documents are clear and legible.</li>
+
+<li>Apply only for the preferred district as per vacancy availability.</li>
+
+<li>Read the official notification carefully before submitting the application form.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+State-wise Vacancy Details
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+CSC e-Governance Services India Ltd. has released district-wise vacancies for Aadhaar Supervisor/Operator posts across Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra. Candidates should apply only for the district in which they wish to work.
+</p>
+
+<h3 style="font-size:30px;margin-top:30px;">Bihar Vacancy Details</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Arwal</td><td>1</td></tr>
+<tr><td>Araria</td><td>2</td></tr>
+<tr><td>Aurangabad</td><td>2</td></tr>
+<tr><td>Banka</td><td>1</td></tr>
+<tr><td>Begusarai</td><td>5</td></tr>
+<tr><td>Bhagalpur</td><td>3</td></tr>
+<tr><td>Bhojpur</td><td>3</td></tr>
+<tr><td>Buxar</td><td>2</td></tr>
+<tr><td>Darbhanga</td><td>3</td></tr>
+<tr><td>Purbi Champaran</td><td>6</td></tr>
+<tr><td>Gaya</td><td>4</td></tr>
+<tr><td>Gopalganj</td><td>2</td></tr>
+<tr><td>Jamui</td><td>1</td></tr>
+<tr><td>Jehanabad</td><td>1</td></tr>
+<tr><td>Katihar</td><td>2</td></tr>
+<tr><td>Kaimur (Bhabua)</td><td>3</td></tr>
+<tr><td>Khagaria</td><td>2</td></tr>
+<tr><td>Kishanganj</td><td>1</td></tr>
+<tr><td>Lakhisarai</td><td>1</td></tr>
+<tr><td>Madhepura</td><td>2</td></tr>
+<tr><td>Madhubani</td><td>5</td></tr>
+<tr><td>Munger</td><td>3</td></tr>
+<tr><td>Muzaffarpur</td><td>2</td></tr>
+<tr><td>Nalanda</td><td>3</td></tr>
+<tr><td>Nawada</td><td>2</td></tr>
+<tr><td>Patna</td><td>6</td></tr>
+<tr><td>Purnia</td><td>4</td></tr>
+<tr><td>Rohtas</td><td>3</td></tr>
+<tr><td>Saharsa</td><td>2</td></tr>
+<tr><td>Samastipur</td><td>4</td></tr>
+<tr><td>Saran</td><td>3</td></tr>
+<tr><td>Sheikhpura</td><td>1</td></tr>
+<tr><td>Sheohar</td><td>1</td></tr>
+<tr><td>Sitamarhi</td><td>3</td></tr>
+<tr><td>Siwan</td><td>2</td></tr>
+<tr><td>Supaul</td><td>4</td></tr>
+<tr><td>Vaishali</td><td>3</td></tr>
+<tr><td>Pashchim Champaran</td><td>3</td></tr>
+
+</table>
+
+<h3 style="font-size:30px;margin-top:30px;">Chhattisgarh Vacancy Details</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Balod</td><td>4</td></tr>
+<tr><td>Bijapur</td><td>3</td></tr>
+<tr><td>Kondagaon</td><td>4</td></tr>
+<tr><td>Balrampur</td><td>5</td></tr>
+<tr><td>Bastar</td><td>1</td></tr>
+<tr><td>Sukma</td><td>1</td></tr>
+
+</table>
+
+<h3 style="font-size:30px;margin-top:30px;">Madhya Pradesh Vacancy Details</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Chhatarpur</td><td>1</td></tr>
+<tr><td>Seoni</td><td>1</td></tr>
+<tr><td>Jhabua</td><td>1</td></tr>
+<tr><td>Dhar</td><td>1</td></tr>
+<tr><td>Sehore</td><td>1</td></tr>
+
+</table>
+
+<h3 style="font-size:30px;margin-top:30px;">Maharashtra Vacancy Details</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Yavatmal</td><td>1</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Apply Online</th>
+<td><a href="https://career.csccloud.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<th>Official Notification</th>
+<td><a href="https://career.csccloud.in" target="_blank">Download PDF</a></td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td><a href="https://career.csccloud.in" target="_blank">career.csccloud.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is the last date to apply for CSC Aadhaar Supervisor/Operator Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to submit the online application is <strong>20 August 2026</strong>.
+</p>
+
+<h3>2. How many vacancies are available?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>125 contractual vacancies</strong> have been announced.
+</p>
+
+<h3>3. Which states are covered under this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Vacancies are available in Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra.
+</p>
+
+<h3>4. What is the minimum qualification?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must possess 12th Pass / ITI / Polytechnic Diploma along with a valid UIDAI Aadhaar Supervisor/Operator Certificate.
+</p>
+
+<h3>5. Is the UIDAI Aadhaar Certificate mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. It is mandatory for all applicants.
+</p>
+
+<h3>6. What is the minimum age required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applicants must be at least 18 years of age.
+</p>
+
+<h3>7. Is this a permanent government job?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. The appointment is purely contractual for one year.
+</p>
+
+<h3>8. Are VLEs eligible?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Village Level Entrepreneurs (VLEs) are not eligible to apply.
+</p>
+
+<h3>9. What salary will be offered?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive the minimum wages applicable to semi-skilled manpower in their respective state.
+</p>
+
+<h3>10. Where can I apply online?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications can be submitted through the official CSC Job Portal.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>CSC Aadhaar Supervisor/Operator Recruitment 2026</strong> offers an excellent opportunity for candidates possessing the required educational qualification and UIDAI Aadhaar Supervisor/Operator Certificate to work under the Aadhaar Seva Kendra programme. Interested applicants should carefully check their district-wise vacancy, ensure they meet all eligibility conditions and submit the online application before <strong>20 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📝 Apply Online for CSC Aadhaar Supervisor/Operator Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your application before the last date and keep all required documents ready.
+</p>
+
+<a href="https://career.csccloud.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=bank-of-india-credit-officer-recruitment-2026">Bank of India Credit Officer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rcfl-various-posts-recruitment-2026">RCFL Various Posts Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=isro-istrac-various-vacancy-recruitment-2026">ISRO ISTRAC Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-aso-recruitment-2026">SSC ASO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-cre-5-recruitment-2026">AIIMS CRE 5 Recruitment 2026</a></li>
+
+</ul>
+
+`;
 JOB_CONTENT["ssc-aso-ldce-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

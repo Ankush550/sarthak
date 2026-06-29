@@ -1,4 +1,64 @@
 const ADMIT_CARDS_DATA = [
+  {
+    id: "hprca-computer-teacher-admit-card-2026",
+    title: "HPRCA Computer Teacher Admit Card 2026",
+    shortTitle: "HPRCA Computer Teacher Hall Ticket 2026",
+    organization: "Himachal Pradesh Revenue and Common Service Centre Authority (HPRCA)",
+    postName: "Computer Teacher",
+    examName: "HPRCA Computer Teacher Recruitment Examination 2026",
+    category: "Admit Card",
+    admitCardReleaseDate: "26 June 2026",
+    downloadLastDate: "03 July 2026 (Till 06:00 PM)",
+    examDate: "As Per Admit Card",
+    applicationMode: "Online",
+    downloadMode: "Online",
+    status: "Admit Card Released",
+    officialWebsite: "https://hprca.hp.gov.in",
+    admitCardLink: "https://cdn3.digialm.com/EForms/configuredHtml/33096/101377/login.html",
+    notificationPdf: "https://hprca.hp.gov.in",
+    image: "HPRCA.jpeg",
+    featured: true,
+    isNew: true,
+
+    loginDetails: [
+        "Application Number",
+        "Password / Date of Birth"
+    ],
+
+    requiredDocuments: [
+        "Printed Admit Card",
+        "Aadhaar Card",
+        "PAN Card",
+        "Voter ID",
+        "Driving Licence",
+        "Passport",
+        "Government Issued Photo ID"
+    ],
+
+    browserSupport: [
+        "Google Chrome (Version 73-96)",
+        "Mozilla Firefox (Version 77-94)",
+        "Microsoft Edge Chromium (Latest Version)",
+        "Android 4.0+",
+        "iOS 9+"
+    ],
+
+    tags: [
+        "HPRCA Computer Teacher Admit Card 2026",
+        "HPRCA Teacher Hall Ticket 2026",
+        "Computer Teacher Hall Ticket",
+        "HPRCA Admit Card",
+        "Teacher Admit Card",
+        "HPRCA Recruitment 2026",
+        "Computer Teacher Exam",
+        "HPRCA Hall Ticket Download",
+        "Himachal Teacher Admit Card",
+        "Teaching Jobs"
+    ],
+
+    description:
+        "Himachal Pradesh Revenue and Common Service Centre Authority (HPRCA) has released the Computer Teacher Admit Card 2026 on 26 June 2026. Candidates can download their hall ticket from the official TCS iON portal till 03 July 2026 (06:00 PM) using their Application Number and Password/Date of Birth. Check exam date, download steps, required documents, browser compatibility, important instructions and direct download link here."
+},
     {
   id: "bpcl-entry-level-admit-card-2026",
   title: "BPCL Entry Level Admit Card 2026 Out",

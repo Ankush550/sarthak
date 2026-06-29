@@ -1,5 +1,56 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+  {
+    id: "csc-aadhaar-supervisor-operator-recruitment-2026",
+    title: "CSC Aadhaar Supervisor/Operator Recruitment 2026",
+    shortTitle: "CSC Aadhaar Supervisor Operator Online Form 2026",
+    organization: "CSC e-Governance Services India Ltd.",
+    postName: "Aadhaar Supervisor / Operator – District",
+    advertisementNo: "CSC Aadhaar Recruitment 2026",
+    totalPosts: "125",
+    category: "Government Jobs",
+    jobType: "Contract (1 Year)",
+    applicationMode: "Online",
+    applyStart: "Already Started",
+    applyLastDate: "20 August 2026",
+    examDate: "Not Announced",
+    admitCard: "Before Exam",
+    resultDate: "Will Be Notified",
+    ageLimit: "Minimum 18 Years",
+    salary: "State Minimum Wages (Semi-Skilled Manpower)",
+    qualification: "12th / ITI / Diploma + UIDAI Aadhaar Operator Certificate",
+    selectionProcess: "Document Verification / As Per CSC Rules",
+    officialWebsite: "https://career.csccloud.in",
+    applyLink: "https://career.csccloud.in",
+    notificationPdf: "https://career.csccloud.in",
+    image: "AADHAR.jpeg",
+    status: "Online Form",
+    featured: true,
+    isNew: true,
+
+    states: [
+        "Bihar",
+        "Chhattisgarh",
+        "Madhya Pradesh",
+        "Maharashtra"
+    ],
+
+    tags: [
+        "CSC Recruitment 2026",
+        "CSC Aadhaar Operator Recruitment",
+        "Aadhaar Supervisor Recruitment",
+        "UIDAI Jobs",
+        "CSC Vacancy 2026",
+        "12th Pass Jobs",
+        "ITI Jobs",
+        "Diploma Jobs",
+        "Contract Jobs",
+        "District Jobs"
+    ],
+
+    description:
+        "CSC e-Governance Services India Ltd. has released the Aadhaar Supervisor/Operator Recruitment 2026 notification for 125 district-level contractual vacancies across Bihar, Chhattisgarh, Madhya Pradesh and Maharashtra. Eligible candidates possessing 12th/ITI/Diploma qualification along with a valid UIDAI Aadhaar Operator/Supervisor Certificate can apply online through the official CSC Job Portal before 20 August 2026."
+},
     {
   id: "ssc-aso-ldce-2026",
   title: "SSC ASO Recruitment 2026",
