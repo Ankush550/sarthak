@@ -443,7 +443,7 @@ RVUNL Recruitment 2026 – Complete Notification Details
 </h2>
 
 <p style="font-size:20px;line-height:1.8;">
-Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has released a short notification for the much-awaited RVUNL Recruitment 2026. This recruitment drive is expected to fill approximately 2005 vacancies across various technical and non-technical posts under Rajasthan's major power sector companies including RVUNL, Jaipur Vidyut Vitran Nigam Limited (JVVNL), Ajmer Vidyut Vitran Nigam Limited (AVVNL), Jodhpur Vidyut Vitran Nigam Limited (JDVVNL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). :contentReference[oaicite:0]{index=0}
+Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has released a short notification for the much-awaited RVUNL Recruitment 2026. This recruitment drive is expected to fill approximately 2005 vacancies across various technical and non-technical posts under Rajasthan's major power sector companies including RVUNL, Jaipur Vidyut Vitran Nigam Limited (JVVNL), Ajmer Vidyut Vitran Nigam Limited (AVVNL), Jodhpur Vidyut Vitran Nigam Limited (JDVVNL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL).
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -1756,7 +1756,7 @@ Indian Navy SSC Officer Recruitment 2026 – Complete Notification Details
 </h2>
 
 <p style="font-size:20px;line-height:1.8;">
-The Indian Navy has released the official notification for Short Service Commission (SSC) Officer Recruitment 2026 for the June 2027 Course. Applications are invited from eligible unmarried male and female candidates for various branches including Executive, Pilot, Naval Air Operations Officer, Air Traffic Controller, Logistics, Education, Engineering, Electrical and Naval Constructor branches. The online application process will remain active from 25 June 2026 to 27 July 2026 through the official Indian Navy recruitment portal. :contentReference[oaicite:0]{index=0}
+The Indian Navy has released the official notification for Short Service Commission (SSC) Officer Recruitment 2026 for the June 2027 Course. Applications are invited from eligible unmarried male and female candidates for various branches including Executive, Pilot, Naval Air Operations Officer, Air Traffic Controller, Logistics, Education, Engineering, Electrical and Naval Constructor branches. The online application process will remain active from 25 June 2026 to 27 July 2026 through the official Indian Navy recruitment portal.
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -2596,7 +2596,7 @@ The training programme improves professional skills, enhances industry knowledge
 <h2>State Wise Vacancy Distribution</h2>
 
 <p style="font-size:20px;line-height:1.8;">
-NIACL has announced apprentice vacancies across multiple states and union territories. The vacancies are distributed based on business requirements and operational needs of the company. Candidates can apply for vacancies available in their respective states subject to eligibility conditions and local language proficiency requirements. A total of 550 apprenticeship seats have been announced across India. :contentReference[oaicite:0]{index=0}
+NIACL has announced apprentice vacancies across multiple states and union territories. The vacancies are distributed based on business requirements and operational needs of the company. Candidates can apply for vacancies available in their respective states subject to eligibility conditions and local language proficiency requirements. A total of 550 apprenticeship seats have been announced across India.
 </p>
 
 <table class="detail-table">
@@ -5445,7 +5445,7 @@ Shortlisted candidates will appear before the ESIC Selection Board. There is no 
 
 <p style="font-size:20px;">
 <strong>Stage 4 – Final Merit:</strong>
-Final selection will be based on interview performance, eligibility conditions and document verification. :contentReference[oaicite:0]{index=0}
+Final selection will be based on interview performance, eligibility conditions and document verification.
 </p>
 
 <h2>About ESIC</h2>
