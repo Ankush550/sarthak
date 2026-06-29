@@ -89,23 +89,14 @@ R+"pages/results.html#answer"
 document.getElementById("row3").innerHTML =
 
 secBox("📋 Syllabus",[
-{label:"SSC CGL Syllabus 2026",href:"#",isNew:true},
-{label:"UPSC IAS Syllabus 2026",href:"#",isNew:true},
-{label:"RRB NTPC Syllabus 2026",href:"#"},
-{label:"IBPS PO Syllabus 2026",href:"#"},
-{label:"UP Police Syllabus 2026",href:"#"},
-{label:"CTET Syllabus 2026",href:"#"}
+
+
 ],"#")
 
 +
 
 secBox("📝 Previous Papers",[
-{label:"SSC CGL Previous Year Papers",href:"#",isNew:true},
-{label:"UPSC Previous Year Papers",href:"#",isNew:true},
-{label:"RRB NTPC Old Papers",href:"#"},
-{label:"IBPS Clerk Previous Papers",href:"#"},
-{label:"UP Police Previous Papers",href:"#"},
-{label:"Delhi Police Old Papers",href:"#"}
+
 ],"#")
 
 +
@@ -123,12 +114,7 @@ R+"pages/results.html#admit"
 +
 
 secBox("🗓️ Exam Calendar",[
-{label:"SSC Exam Calendar 2026",href:"#",isNew:true},
-{label:"UPSC Exam Schedule 2026",href:"#",isNew:true},
-{label:"RRB Exam Dates 2026",href:"#"},
-{label:"IBPS Exam Calendar 2026",href:"#"},
-{label:"State PSC Exam Dates 2026",href:"#"},
-{label:"Defence Exam Schedule 2026",href:"#"}
+
 ],"#");
 
 
@@ -150,12 +136,7 @@ R+"pages/schemes.html"
 +
 
 secBox("💰 Scholarship",[
-{label:"PM Scholarship 2026",href:"#",isNew:true},
-{label:"NSP National Scholarship 2026",href:"#",isNew:true},
-{label:"UP Scholarship 2026",href:"#"},
-{label:"Bihar Scholarship 2026",href:"#"},
-{label:"OBC Scholarship 2026",href:"#"},
-{label:"SC/ST Scholarship 2026",href:"#"}
+
 ],"#")
 
 +
