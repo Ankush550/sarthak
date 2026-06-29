@@ -12,7 +12,7 @@ const ADMIT_CARDS_DATA = [
     examDate: "As Per Admit Card",
     applicationMode: "Online",
     downloadMode: "Online",
-    status: "Admit Card Released",
+    status: "Released",
     officialWebsite: "https://hprca.hp.gov.in",
     admitCardLink: "https://cdn3.digialm.com/EForms/configuredHtml/33096/101377/login.html",
     notificationPdf: "https://hprca.hp.gov.in",

@@ -2,6 +2,216 @@
 
 const RESULT_CONTENT = {};
 
+RESULT_CONTENT["up-home-guard-result-2026"] = `
+
+<h1>UP Home Guard Result 2026 Out – Download Scorecard & Merit List at uppbpb.gov.in</h1>
+
+<p><strong>By SarthakYojana Editorial Team</strong> | Updated: 29 June 2026</p>
+
+<h2>UP Home Guard Result 2026 Released – Direct Link to Download Scorecard & Merit List</h2>
+
+<p>
+The <strong>UP Home Guard Result 2026</strong> has been officially released by the
+<strong>Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)</strong> on
+<strong>28 June 2026</strong>. Candidates who appeared for the Home Guard Enrolment-2025 Written Examination held on
+<strong>25, 26 & 27 April 2026</strong> can now check their qualifying status by downloading the official scorecard from the UPPRPB portal.
+</p>
+
+<p>
+Along with the result, the board has also published the district-wise merit list and shortlisted
+<strong>1,07,221 candidates</strong> for the next stages of the recruitment process including
+<strong>Document Verification (DV)</strong> and
+<strong>Physical Standard Test (PST)</strong>.
+</p>
+
+<div class="download-box">
+
+<h3>⬇ Download UP Home Guard Result 2026</h3>
+
+<p>
+
+Login using your <strong>Roll Number / Application Number</strong> and
+<strong>Date of Birth</strong> to download your scorecard.
+
+</p>
+
+<a href="https://uppbpb.gov.in" target="_blank" class="download-btn">
+
+Download Result
+
+</a>
+
+</div>
+
+<p>
+
+✅ <strong>Status:</strong> UP Home Guard Result Released on
+<strong>28 June 2026</strong>
+
+</p>
+
+<h2>UP Home Guard Result 2026 – Key Highlights</h2>
+
+<table>
+
+<tr>
+
+<th>Particulars</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Conducting Body</td>
+
+<td>Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)</td>
+
+</tr>
+
+<tr>
+
+<td>Post Name</td>
+
+<td>Home Guard (Swayamsevak)</td>
+
+</tr>
+
+<tr>
+
+<td>Total Vacancies</td>
+
+<td>41,424</td>
+
+</tr>
+
+<tr>
+
+<td>Written Exam Date</td>
+
+<td>25, 26 & 27 April 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Result Date</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Candidates Shortlisted</td>
+
+<td>1,07,221</td>
+
+</tr>
+
+<tr>
+
+<td>Next Stage</td>
+
+<td>Document Verification (DV) & Physical Standard Test (PST)</td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td>uppbpb.gov.in</td>
+
+</tr>
+
+</table>
+
+<h2>When Was the UP Home Guard Result 2026 Released?</h2>
+
+<p>
+The UPPRPB released the <strong>UP Home Guard Result 2026</strong>,
+<strong>Score Card</strong> and <strong>Final Answer Key</strong> on
+<strong>28 June 2026</strong>.
+Candidates can now check their marks and qualifying status through the official website using their login credentials.
+</p>
+
+<p>
+The written examination was conducted successfully on
+<strong>25, 26 and 27 April 2026</strong> across various examination centres in Uttar Pradesh.
+After evaluating the objections received on the provisional answer key, the board published the final answer key along with the result.
+</p>
+
+<h2>How Many Candidates Have Been Shortlisted?</h2>
+
+<p>
+According to the official notification, a total of
+<strong>1,07,221 candidates</strong>
+have been shortlisted for the next stage of recruitment against
+<strong>41,424 Home Guard vacancies</strong>.
+The shortlisted candidates will now appear for the
+<strong>Document Verification (DV)</strong> and
+<strong>Physical Standard Test (PST)</strong>.
+</p>
+
+<p>
+The merit list has been prepared using the normalized written examination marks,
+reservation rules,
+district-wise vacancies,
+and additional marks awarded for preferential qualifications wherever applicable.
+</p>
+
+<h2>How to Check UP Home Guard Result 2026?</h2>
+
+<ol>
+
+<li>Visit the official website <strong>uppbpb.gov.in</strong>.</li>
+
+<li>Open the <strong>UP Home Guard Result 2026</strong> link.</li>
+
+<li>Enter your Roll Number or Application Number.</li>
+
+<li>Enter your Date of Birth.</li>
+
+<li>Click on the <strong>Submit</strong> button.</li>
+
+<li>Your scorecard will appear on the screen.</li>
+
+<li>Download the result PDF and take a printout for future recruitment stages.</li>
+
+</ol>
+
+<h2>Details Mentioned on the UP Home Guard Score Card 2026</h2>
+
+<p>
+Candidates should verify all the details mentioned on the scorecard carefully after downloading it.
+</p>
+
+<ul>
+
+<li>Candidate Name</li>
+
+<li>Father's Name</li>
+
+<li>Roll Number</li>
+
+<li>Registration Number</li>
+
+<li>Date of Birth</li>
+
+<li>Category</li>
+
+<li>Marks Obtained</li>
+
+<li>Qualification Status</li>
+
+<li>Instructions for DV/PST</li>
+
+</ul>
+
+`;
+
 RESULT_CONTENT["ap-high-court-result-2026"] = `
 
 <div class="article-meta">

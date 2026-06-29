@@ -3,6 +3,222 @@
 
 const ANSWER_KEY_CONTENT = {};
 
+ANSWER_KEY_CONTENT["mpsc-group-b-prelims-final-answer-key-2026"] = `
+
+<h1>MPSC Group B Prelims Final Answer Key 2026 Out – Download PDF, Response Sheet & Objection Link</h1>
+
+<p><strong>By SarthakYojana Editorial Team</strong> | Updated: 29 June 2026</p>
+
+<h2>MPSC Group B Prelims Final Answer Key 2026 Out – Download PDF @ mpsc.gov.in</h2>
+
+<p>
+The <strong>MPSC Group B Prelims Final Answer Key 2026</strong> has been officially released by the
+<strong>Maharashtra Public Service Commission (MPSC)</strong> on 28 June 2026. Candidates who appeared in the
+Maharashtra Group B Non-Gazetted Services Combined Preliminary Examination can now download the official
+answer key PDF along with the response sheet from the official website.
+</p>
+
+<p>
+Using the official answer key, candidates can compare their responses, estimate their expected marks and,
+if required, submit objections through the official objection portal within the prescribed time limit.
+</p>
+
+<div class="download-box">
+
+<h3>⬇ Download MPSC Group B Prelims Final Answer Key 2026</h3>
+
+<p>
+Login using your Registration Number and Password / Date of Birth to download the Answer Key and Response Sheet.
+</p>
+
+<a href="https://mpsc.gov.in" target="_blank" class="download-btn">
+Download Answer Key
+</a>
+
+</div>
+
+<p>
+
+✅ <strong>Status:</strong> MPSC Group B Prelims Final Answer Key Released on <strong>28 June 2026</strong>
+
+</p>
+
+<h2>MPSC Group B Prelims Final Answer Key 2026 – Key Highlights</h2>
+
+<table>
+
+<tr>
+
+<th>Particulars</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Organisation</td>
+
+<td>Maharashtra Public Service Commission (MPSC)</td>
+
+</tr>
+
+<tr>
+
+<td>Examination Name</td>
+
+<td>Maharashtra Group B Non-Gazetted Services Combined Preliminary Examination 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Posts Covered</td>
+
+<td>State Tax Inspector (STI), Assistant Section Officer (ASO), Police Sub Inspector (PSI)</td>
+
+</tr>
+
+<tr>
+
+<td>Answer Key Status</td>
+
+<td>Released</td>
+
+</tr>
+
+<tr>
+
+<td>Final Answer Key Release Date</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Objection Window</td>
+
+<td>Open</td>
+
+</tr>
+
+<tr>
+
+<td>Expected Result</td>
+
+<td>July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td>mpsc.gov.in</td>
+
+</tr>
+
+</table>
+
+<h2>MPSC Group B Prelims Final Answer Key 2026 – Important Dates</h2>
+
+<table>
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Final Answer Key Released</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Objection Window Opens</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Raise Objection</td>
+
+<td>Check Official Website</td>
+
+</tr>
+
+<tr>
+
+<td>Expected Result</td>
+
+<td>July 2026</td>
+
+</tr>
+
+</table>
+
+<h2>How to Download MPSC Group B Prelims Final Answer Key 2026?</h2>
+
+<ol>
+
+<li>Visit the official website <strong>mpsc.gov.in</strong>.</li>
+
+<li>Open the <strong>Answer Keys of Examinations</strong> section.</li>
+
+<li>Select the <strong>MPSC Group B Prelims Final Answer Key 2026</strong> link.</li>
+
+<li>Login using Registration Number and Password / Date of Birth.</li>
+
+<li>Your Answer Key and Response Sheet will appear on the screen.</li>
+
+<li>Download the PDF and save it for future reference.</li>
+
+</ol>
+
+<h2>Response Sheet Mein Kya Hota Hai?</h2>
+
+<p>
+Candidates should verify the following details available in the response sheet before calculating their score.
+</p>
+
+<ul>
+
+<li>Candidate Name</li>
+
+<li>Registration Number</li>
+
+<li>Roll Number</li>
+
+<li>Exam Date</li>
+
+<li>Shift Details</li>
+
+<li>Question ID</li>
+
+<li>Recorded Response</li>
+
+<li>Official Correct Answer</li>
+
+<li>Attempt Status</li>
+
+</ul>
+
+`;
+
+
+
+
+
 ANSWER_KEY_CONTENT["rrb-ntpc-ug-answer-key-2026"] = `
 
 <div class="article-meta">

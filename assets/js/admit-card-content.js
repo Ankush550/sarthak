@@ -180,6 +180,367 @@ Candidates can easily download the HPRCA Computer Teacher Admit Card 2026 by fol
 <li>Download the PDF and take multiple printouts for future use.</li>
 
 </ol>
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on HPRCA Computer Teacher Admit Card 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+After downloading the HPRCA Computer Teacher Admit Card 2026, candidates should carefully verify every detail printed on the hall ticket. In case of any discrepancy, candidates should immediately contact the HPRCA helpdesk before the examination date.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Full Name</li>
+
+<li>Application / Registration Number</li>
+
+<li>Roll Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Date of Birth</li>
+
+<li>Category</li>
+
+<li>Post Name</li>
+
+<li>Examination Name</li>
+
+<li>Exam Date & Shift</li>
+
+<li>Reporting Time</li>
+
+<li>Exam Centre Name & Complete Address</li>
+
+<li>Important Instructions for Candidates</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required on Examination Day
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry the printed admit card along with a valid original photo identity proof to the examination centre. Entry will not be allowed without these documents.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Printed Copy of HPRCA Computer Teacher Admit Card 2026</li>
+
+<li>Aadhaar Card</li>
+
+<li>PAN Card</li>
+
+<li>Voter ID Card</li>
+
+<li>Driving Licence</li>
+
+<li>Passport</li>
+
+<li>Any Other Government-Issued Photo Identity Proof</li>
+
+<li>Recent Passport Size Photograph (If Required)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Browser Compatibility for Admit Card Download
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+To avoid technical issues while downloading the admit card, candidates should use one of the supported web browsers mentioned below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Browser</th>
+
+<th>Supported Version</th>
+
+</tr>
+
+<tr>
+
+<td>Google Chrome</td>
+
+<td>Version 73 – 96</td>
+
+</tr>
+
+<tr>
+
+<td>Mozilla Firefox</td>
+
+<td>Version 77 – 94</td>
+
+</tr>
+
+<tr>
+
+<td>Microsoft Edge Chromium</td>
+
+<td>Latest Version</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Compatible Devices
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Device</th>
+
+<th>Supported Version</th>
+
+</tr>
+
+<tr>
+
+<td>Android Devices</td>
+
+<td>Android 4.0 and Above</td>
+
+</tr>
+
+<tr>
+
+<td>iPhone / iPad</td>
+
+<td>iOS 9 and Above</td>
+
+</tr>
+
+<tr>
+
+<td>Windows / Laptop</td>
+
+<td>Latest Browsers Recommended</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Mock Test / Demo Link
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+HPRCA has also provided a Demo / Mock Test link through the TCS iON portal to help candidates become familiar with the online examination interface before the actual examination. Candidates are strongly advised to practice using the demo test before appearing in the examination.
+</p>
+
+<div style="background:#e3f2fd;border-left:6px solid #1976d2;padding:18px;margin-top:20px;font-size:19px;line-height:1.8;">
+
+<strong>Mock Test Availability:</strong><br>
+
+The Demo / Mock Test link is available under the <strong>General Links</strong> section of the official TCS iON portal.
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions for Candidates
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Download the admit card before the last date.</li>
+
+<li>Carry a printed copy of the hall ticket to the examination centre.</li>
+
+<li>Bring one original valid photo identity proof.</li>
+
+<li>Reach the examination centre well before the reporting time.</li>
+
+<li>Verify all details mentioned on the admit card carefully.</li>
+
+<li>Electronic gadgets, mobile phones and smart watches are strictly prohibited inside the examination hall.</li>
+
+<li>Follow all instructions issued by the examination authorities.</li>
+
+<li>Keep multiple printed copies of the admit card for future reference.</li>
+
+</ul>
+
+<div style="background:#fff8e1;border-left:6px solid #f9a825;padding:18px;margin-top:25px;font-size:19px;line-height:1.8;">
+
+<strong>Important Note:</strong><br>
+
+The HPRCA Computer Teacher Admit Card 2026 will not be sent by post or any offline mode. Candidates must download the hall ticket online before <strong>03 July 2026 (06:00 PM)</strong>. In case of any discrepancy in the admit card, contact the HPRCA helpdesk immediately before the examination.
+
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Download Admit Card</th>
+
+<td>
+<a href="https://cdn3.digialm.com/EForms/configuredHtml/33096/101377/login.html" target="_blank">
+Click Here
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<th>Official Website</th>
+
+<td>
+<a href="https://hprca.hp.gov.in" target="_blank">
+hprca.hp.gov.in
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<th>Official Notification</th>
+
+<td>
+<a href="https://hprca.hp.gov.in" target="_blank">
+View Notification
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<th>Mock Test / Demo Link</th>
+
+<td>
+<a href="https://cdn3.digialm.com" target="_blank">
+Access Demo Test
+</a>
+</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When was the HPRCA Computer Teacher Admit Card 2026 released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The HPRCA Computer Teacher Admit Card 2026 was officially released on <strong>26 June 2026</strong>.
+</p>
+
+<h3>2. What is the last date to download the admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can download the hall ticket until <strong>03 July 2026 (06:00 PM)</strong>.
+</p>
+
+<h3>3. How can I download the HPRCA Computer Teacher Admit Card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Visit the official TCS iON portal, enter your Application Number along with Password or Date of Birth, and download your hall ticket.
+</p>
+
+<h3>4. Which credentials are required to download the admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates need their <strong>Application Number</strong> and <strong>Password / Date of Birth</strong> to log in.
+</p>
+
+<h3>5. What documents should I carry to the examination centre?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Carry the printed admit card along with a valid original photo identity proof such as Aadhaar Card, PAN Card, Voter ID, Passport or Driving Licence.
+</p>
+
+<h3>6. Will the admit card be sent by post?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. HPRCA will not send the admit card by post. Candidates must download it online.
+</p>
+
+<h3>7. What should I do if there is an error on my admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should immediately contact the HPRCA helpdesk before the examination date for correction.
+</p>
+
+<h3>8. Which browsers are recommended for downloading the admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Google Chrome (73–96), Mozilla Firefox (77–94) and Microsoft Edge Chromium (latest version) are recommended.
+</p>
+
+<h3>9. Is there any mock test available?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. A Demo / Mock Test link is available on the official TCS iON portal under the General Links section.
+</p>
+
+<h3>10. Where can I download the HPRCA Computer Teacher Hall Ticket?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can download the admit card through the official HPRCA website and the TCS iON examination portal.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>HPRCA Computer Teacher Admit Card 2026</strong> has been released for candidates appearing in the recruitment examination. Applicants should download their hall ticket before the closing date, verify all printed details carefully and carry the required documents to the examination centre. Candidates are also advised to practice using the official mock test to become familiar with the online examination interface.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📥 Download HPRCA Computer Teacher Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your hall ticket before <strong>03 July 2026 (06:00 PM)</strong> and verify all details carefully.
+</p>
+
+<a href="https://cdn3.digialm.com/EForms/configuredHtml/33096/101377/login.html"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit&id=aiims-paramedical-admit-card-2026">AIIMS Paramedical Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=bpcl-entry-level-admit-card-2026">BPCL Entry Level Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=ncl-various-post-admit-card-2026">NCL Various Posts Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=appsc-departmental-tests-admit-card-2026">APPSC Departmental Tests Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=pgcil-diploma-trainee-admit-card-2026">PGCIL Diploma Trainee Admit Card 2026</a></li>
+
+</ul>
+
 
 `;
 ADMIT_CARD_CONTENT["bpcl-entry-level-admit-card-2026"] = `
