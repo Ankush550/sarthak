@@ -1,7 +1,321 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
+RESULT_CONTENT["tnpsc-group-2-mains-result-2026"] = `
 
+<h1>TNPSC Group 2 Mains Result 2026 Out – Merit List PDF, Marks & Rank List</h1>
+
+<div class="article-meta">
+By <strong>SarthakYojana Editorial Team</strong> |
+Updated: <strong>30 June 2026</strong>
+</div>
+
+<h2>TNPSC Group 2 Mains Result 2026 Out – Download Merit List PDF, Marks & Rank Position</h2>
+
+<p>
+The <strong>Tamil Nadu Public Service Commission (TNPSC)</strong> has officially released the
+<strong>TNPSC Group 2 Mains Result 2026</strong> on its official portal,
+<strong>tnpsc.gov.in</strong>. Candidates who appeared in the
+Combined Civil Services Examination–II (Group II & Group IIA Services)
+Main Written Examination can now check their qualifying status,
+download the merit list PDF, and view their marks and rank position online.
+</p>
+
+<p>
+The commission has shortlisted eligible candidates for the next stage of
+the recruitment process. Candidates qualifying in the mains examination
+will be called for <strong>Certificate Verification</strong> and,
+where applicable, the <strong>Oral Test (Interview)</strong>.
+The detailed schedule for the next stage will be published separately
+on the official TNPSC website.
+</p>
+
+<div class="alert alert-warning">
+
+<strong>⚠️ Important:</strong>
+
+The TNPSC Group 2 Mains Result 2026 only contains the list of shortlisted candidates.
+Final appointment will be made only after successful Certificate Verification,
+Oral Test (where applicable) and fulfillment of all eligibility conditions.
+
+</div>
+
+<h2>TNPSC Group 2 Mains Result 2026 – Overview</h2>
+
+<p>
+The table below provides the important details related to the TNPSC Group 2 Mains Result 2026.
+Candidates should carefully verify all information before proceeding to the next recruitment stage.
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+<th>Particulars</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Organisation</td>
+<td>Tamil Nadu Public Service Commission (TNPSC)</td>
+</tr>
+
+<tr>
+<td>Examination Name</td>
+<td>Combined Civil Services Examination-II (Group II & Group IIA)</td>
+</tr>
+
+<tr>
+<td>Notification Number</td>
+<td>11/2025</td>
+</tr>
+
+<tr>
+<td>Main Examination Date</td>
+<td>15 March 2026</td>
+</tr>
+
+<tr>
+<td>Result Status</td>
+<td>Released</td>
+</tr>
+
+<tr>
+<td>Result Release Date</td>
+<td>29 June 2026</td>
+</tr>
+
+<tr>
+<td>Selection Process</td>
+<td>Certificate Verification / Oral Test</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>tnpsc.gov.in</td>
+</tr>
+
+</table>
+
+<h2>TNPSC Group 2 Mains Result 2026 – Direct Download Links</h2>
+
+<p>
+Candidates can use the links below to check their result,
+download the merit list PDF and view their marks online.
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Service</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>TNPSC Group 2 Mains Result 2026</td>
+
+<td><a href="https://tnpsc.gov.in" target="_blank">Check Result</a></td>
+
+</tr>
+
+<tr>
+
+<td>Merit List PDF</td>
+
+<td><a href="https://tnpsc.gov.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+<tr>
+
+<td>Marks & Rank Position</td>
+
+<td><a href="https://tnpsc.gov.in" target="_blank">View Marks</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://tnpsc.gov.in" target="_blank">Download Notice</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://tnpsc.gov.in" target="_blank">tnpsc.gov.in</a></td>
+
+</tr>
+
+</table>
+<h2>How to Check TNPSC Group 2 Mains Result 2026 Online</h2>
+
+<p>
+Candidates can check the TNPSC Group 2 Mains Result 2026 online through the official TNPSC portal. Follow the simple steps below to access your result, merit list PDF and marks.
+</p>
+
+<ol>
+
+<li>Visit the official website at <strong>tnpsc.gov.in</strong>.</li>
+
+<li>Click on the <strong>"Results"</strong> section available on the homepage.</li>
+
+<li>Select <strong>Combined Civil Services Examination-II (Group II & Group IIA) Mains Result 2026</strong>.</li>
+
+<li>Enter your <strong>Register Number</strong> and <strong>Date of Birth</strong>.</li>
+
+<li>Click on the <strong>Submit</strong> button.</li>
+
+<li>Your qualifying status, marks and rank position will appear on the screen.</li>
+
+<li>Download the result PDF and keep a printout for future Certificate Verification.</li>
+
+</ol>
+
+<h2>Important Instructions for Qualified Candidates</h2>
+
+<p>
+Candidates shortlisted in the TNPSC Group 2 Mains Examination should carefully read the following instructions before appearing for the next stage of the recruitment process.
+</p>
+
+<ul>
+
+<li>Selection in the result is provisional and subject to verification of original documents.</li>
+
+<li>Certificate Verification dates will be announced separately on the official TNPSC website.</li>
+
+<li>Only shortlisted candidates will be allowed to participate in the next stage.</li>
+
+<li>Candidates applying for Group II Interview Posts will also have to appear for the Oral Test.</li>
+
+<li>Failure to attend Certificate Verification or the Interview on the scheduled date may lead to cancellation of candidature.</li>
+
+<li>Keep all original educational, community and identity certificates ready before Certificate Verification.</li>
+
+</ul>
+
+<h2>TNPSC Group 2 Recruitment 2026 – Important Dates</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Main Written Examination</td>
+
+<td>15 March 2026</td>
+
+</tr>
+
+<tr>
+
+<td>TNPSC Group 2 Mains Result</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Certificate Verification</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Oral Test (Interview Posts)</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Final Selection List</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2>FAQs – TNPSC Group 2 Mains Result 2026</h2>
+
+<p><strong>Q1. TNPSC Group 2 Mains Result 2026 kab release hua?</strong></p>
+
+<p>
+TNPSC Group 2 Mains Result 2026 <strong>29 June 2026</strong> ko official website <strong>tnpsc.gov.in</strong> par release kiya gaya.
+</p>
+
+<p><strong>Q2. TNPSC Group 2 Mains Result kaise check kare?</strong></p>
+
+<p>
+Official website par jaakar Results section open karein, apna Register Number aur Date of Birth enter karke result download kar sakte hain.
+</p>
+
+<p><strong>Q3. Mains Result ke baad next process kya hoga?</strong></p>
+
+<p>
+Qualified candidates ko Certificate Verification ke liye bulaya jayega. Group II Interview Posts ke candidates ko Oral Test bhi dena hoga.
+</p>
+
+<p><strong>Q4. Kya TNPSC Group 2 Mains Result final selection hai?</strong></p>
+
+<p>
+Nahi. Yeh provisional result hai. Final selection Certificate Verification, Oral Test (where applicable) aur eligibility verification ke baad hi ki jayegi.
+</p>
+
+<h2>More All Results 2026</h2>
+
+<div class="latest-list">
+
+<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
+» TNPSC Group 2 Mains Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
+» RSSB 4th Grade Revised Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
+» RPSC ASO Marks 2026 Released
+</a>
+
+<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
+» RPSC ASO Main Merit List 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
+» UPSSSC ASO Mains Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
+» UP Home Guard Result 2026
+<span class="badge bg-danger">NEW</span>
+</a>
+
+<div style="text-align:center;margin-top:15px;">
+<a href="../results.html"><strong>View All »</strong></a>
+</div>
+
+</div>
+
+`;
 
 
 RESULT_CONTENT["up-home-guard-result-2026"] = `

@@ -341,6 +341,7 @@
 <script src="../assets/js/common.js"></script>
 <script src="../assets/js/main.js"></script>
 <script src="../assets/js/job-detail.js"></script>
+<script src="../assets/js/internal-links.js"></script>
 <script>
 renderHeader('Latest Job');
 renderTicker();
@@ -569,6 +570,8 @@ ${job.examDate ? '<p><strong>Exam Date:</strong> ' + job.examDate + '</p>' : ''}
   const articleContent = JOB_CONTENT[id];
   if (articleContent) {
     document.getElementById('fullContent').innerHTML = articleContent;
+    renderInternalLinks(job.id, job.category);
+addContextualLinks();
   } else {
     document.getElementById('fullContent').innerHTML = `
       <h2>About ${job.organization} Recruitment 2026</h2>
