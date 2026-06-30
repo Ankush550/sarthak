@@ -14,6 +14,7 @@
   })();
 </script>
 <link rel="stylesheet" href="../assets/style.css">
+<script src="../assets/js/seo-engine.js"></script>
 <style>
 .jd-box {
   background: #fff;
@@ -256,6 +257,21 @@ if (!card) {
   document.head.appendChild(m);
 } else {
 
+  // ── ENTERPRISE SEO — full meta + Article schema + breadcrumbs ──
+  applySEO({
+    title:       card.title + ' – Download Hall Ticket | SarthakYojana.in',
+    description: card.title + ' – Download your admit card / hall ticket. Exam Date: ' + (card.examDate || 'Check official site') + '. Organization: ' + card.organization + '.',
+    keywords:    card.title + ', ' + card.organization + ', admit card download, hall ticket 2026',
+    path:        'pages/admit-card-detail.html?id=' + card.id,
+    type:        'Article',
+    image:       card.image ? ('assets/images/' + card.image) : undefined,
+    breadcrumbs: [
+      { name: 'Home', path: '' },
+      { name: 'Admit Cards', path: 'pages/results.html#admit' },
+      { name: card.title, path: 'pages/admit-card-detail.html?id=' + card.id }
+    ]
+  });
+
   // Banner Image
   const bannerImg = document.getElementById('admitBannerImage');
   const bannerWrap = document.getElementById('bannerWrap');
@@ -265,11 +281,7 @@ if (!card) {
     if (bannerWrap) bannerWrap.style.display = 'block';
   }
 
-  // Page title & meta
-  document.title = card.title + ' – Download Hall Ticket | SarthakYojana';
-  document.getElementById('pageDesc').content =
-    card.title + ' – Download your admit card / hall ticket. Exam Date: ' +
-    (card.examDate || 'Check official site') + '. Organization: ' + card.organization + '.';
+  // Page title & meta — handled by applySEO() above
   document.getElementById('bc').innerHTML =
     `<a href="../index.html">Home</a> &rsaquo; <a href="results.html#admit">Admit Cards</a> &rsaquo; ${card.title}`;
 

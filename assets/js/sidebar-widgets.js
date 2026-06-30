@@ -1,7 +1,7 @@
 // ============================================================
 // SarthakYojana.in — sidebar-widgets.js
 // Generates Left Sidebar (SEO/Navigation) + Right Sidebar (Earning)
-// Call renderLeftSidebar() and renderRightSidebar() after data loads
+// SIMPLE VERSION — only links to pages that already exist
 // ============================================================
 
 // ============================================================
@@ -11,7 +11,7 @@ function renderLeftSidebar() {
   var el = document.getElementById('left-sidebar');
   if (!el) return;
 
-  var jobs   = typeof JOBS_DATA        !== 'undefined' ? JOBS_DATA        : [];
+  var jobs = typeof JOBS_DATA !== 'undefined' ? JOBS_DATA : [];
   var R = (typeof SITE !== 'undefined') ? SITE.root : './';
 
   var html = '';
@@ -51,24 +51,23 @@ function renderLeftSidebar() {
     html += '</div></div>';
   }
 
-  // ── Widget 2: Quick Links ───────────────────────────────────
+  // ── Widget 2: Quick Links — only existing pages ────────────
   html += '<div class="sidebar-widget" style="background:#fff;border:1px solid #dde3f0;border-radius:10px;margin-bottom:14px;overflow:hidden;">';
   html += '<div style="background:linear-gradient(135deg,#1a237e,#1565c0);padding:10px 14px;"><h3 style="margin:0;color:#fff;font-size:14px;">🔗 Quick Links</h3></div>';
   html += '<div style="padding:6px 0;">';
   var quickLinks = [
-    {label:'📚 Syllabus 2026',          href: R+'pages/jobs.html'},
-    {label:'📝 Previous Year Papers',   href: R+'pages/jobs.html'},
-    {label:'📊 Cut Off Marks',          href: R+'pages/results.html'},
-    {label:'🗓️ Exam Calendar 2026',     href: R+'pages/jobs.html'},
-    {label:'💰 Salary Calculator',      href: R+'pages/jobs.html'},
-    {label:'🏛️ Govt Schemes',           href: R+'pages/schemes.html'}
+    {label:'💼 Latest Jobs',      href: R+'pages/jobs.html'},
+    {label:'🏆 Sarkari Result',   href: R+'pages/results.html'},
+    {label:'📋 Admit Card',       href: R+'pages/results.html#admit'},
+    {label:'📝 Answer Key',       href: R+'pages/results.html#answer'},
+    {label:'🏛️ Sarkari Yojana',   href: R+'pages/schemes.html'}
   ];
   quickLinks.forEach(function(l) {
     html += '<a href="' + l.href + '" style="display:block;padding:8px 14px;font-size:12.5px;color:#1565c0;font-weight:600;text-decoration:none;border-bottom:1px solid #f5f6fa;">' + l.label + '</a>';
   });
   html += '</div></div>';
 
-  // ── Widget 3: Jobs by Education ─────────────────────────────
+  // ── Widget 3: Jobs by Education (links into existing jobs.html filter) ──
   html += '<div class="sidebar-widget" style="background:#fff;border:1px solid #dde3f0;border-radius:10px;margin-bottom:14px;overflow:hidden;">';
   html += '<div style="background:linear-gradient(135deg,#27ae60,#2ecc71);padding:10px 14px;"><h3 style="margin:0;color:#fff;font-size:14px;">🎓 Jobs by Education</h3></div>';
   html += '<div style="padding:10px;display:flex;flex-wrap:wrap;gap:6px;">';
@@ -79,7 +78,7 @@ function renderLeftSidebar() {
   });
   html += '</div></div>';
 
-  // ── Widget 4: Jobs by State ──────────────────────────────────
+  // ── Widget 4: Jobs by State (links into existing jobs.html filter) ──
   html += '<div class="sidebar-widget" style="background:#fff;border:1px solid #dde3f0;border-radius:10px;margin-bottom:14px;overflow:hidden;">';
   html += '<div style="background:linear-gradient(135deg,#6a1b9a,#8e24aa);padding:10px 14px;"><h3 style="margin:0;color:#fff;font-size:14px;">📍 Jobs by State</h3></div>';
   html += '<div style="padding:10px;display:flex;flex-wrap:wrap;gap:6px;">';
@@ -105,7 +104,7 @@ function renderRightSidebar() {
 
   var html = '';
 
-  // ── Widget 1: Sticky AdSense Ad (300x600 — highest RPM size) ──
+  // ── Widget 1: Sticky AdSense Ad ─────────────────────────────
   html += '<div id="sticky-ad-wrap" style="position:sticky;top:90px;margin-bottom:14px;">';
   html += '<p style="font-size:10px;color:#999;text-align:center;margin:0 0 4px;">Advertisement</p>';
   html += '<ins class="adsbygoogle" style="display:block;width:300px;height:600px;margin:0 auto;" ' +
@@ -113,8 +112,8 @@ function renderRightSidebar() {
   html += '<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>';
   html += '</div>';
 
-  // ── Widget 2: Trending / Most Viewed Jobs ──────────────────
-  var trending = jobs.slice(0, 6); // In future, sort by actual view count if tracked
+  // ── Widget 2: Trending / Recent Jobs ────────────────────────
+  var trending = jobs.slice(0, 6);
   if (trending.length) {
     html += '<div class="sidebar-widget" style="background:#fff;border:1px solid #dde3f0;border-radius:10px;margin-bottom:14px;overflow:hidden;">';
     html += '<div style="background:linear-gradient(135deg,#e65100,#ff6f00);padding:10px 14px;"><h3 style="margin:0;color:#fff;font-size:14px;">🔥 Trending Jobs</h3></div>';
@@ -128,30 +127,12 @@ function renderRightSidebar() {
     html += '</div></div>';
   }
 
-  // ── Widget 3: WhatsApp / Telegram Join ──────────────────────
-  html += '<div class="sidebar-widget" style="background:linear-gradient(135deg,#25D366,#128C7E);border-radius:10px;margin-bottom:14px;padding:16px;text-align:center;">';
+  // ── Widget 3: WhatsApp Join (only — Telegram link not live yet) ──
+  html += '<div class="sidebar-widget" style="background:linear-gradient(135deg,#25D366,#128C7E);border-radius:10px;padding:16px;text-align:center;">';
   html += '<div style="font-size:28px;margin-bottom:6px;">📲</div>';
   html += '<h3 style="color:#fff;font-size:14px;margin:0 0 6px;">Never Miss a Job Alert!</h3>';
-  html += '<p style="color:rgba(255,255,255,0.9);font-size:11px;margin:0 0 12px;">Join our community for instant updates</p>';
-  html += '<a href="' + (typeof SITE !== 'undefined' ? SITE.waLink : '#') + '" target="_blank" rel="nofollow noopener" style="display:block;background:#fff;color:#128C7E;font-weight:700;font-size:12.5px;padding:9px;border-radius:6px;text-decoration:none;margin-bottom:8px;">💬 Join WhatsApp</a>';
-  html += '<a href="https://t.me/sarthakyojana" target="_blank" rel="nofollow noopener" style="display:block;background:rgba(255,255,255,0.2);color:#fff;font-weight:700;font-size:12.5px;padding:9px;border-radius:6px;text-decoration:none;border:1px solid rgba(255,255,255,0.4);">✈️ Join Telegram</a>';
-  html += '</div>';
-
-  // ── Widget 4: Affiliate Banner (Mock Test / Coaching) ──────
-  html += '<div class="sidebar-widget" style="background:linear-gradient(135deg,#1565c0,#1976d2);border-radius:10px;margin-bottom:14px;padding:16px;text-align:center;">';
-  html += '<div style="font-size:28px;margin-bottom:6px;">📝</div>';
-  html += '<h3 style="color:#fff;font-size:14px;margin:0 0 6px;">Practice with Free Mock Tests</h3>';
-  html += '<p style="color:rgba(255,255,255,0.9);font-size:11px;margin:0 0 12px;">SSC, IBPS, RRB Mock Tests — Free Trial</p>';
-  html += '<a href="https://testbook.com/" target="_blank" rel="nofollow noopener sponsored" style="display:block;background:#ffd700;color:#1a237e;font-weight:700;font-size:12.5px;padding:9px;border-radius:6px;text-decoration:none;">Start Free Test →</a>';
-  html += '<p style="color:rgba(255,255,255,0.5);font-size:9px;margin:8px 0 0;">Sponsored</p>';
-  html += '</div>';
-
-  // ── Widget 5: Subscribe for Alerts ──────────────────────────
-  html += '<div class="sidebar-widget" style="background:#fff;border:1px solid #dde3f0;border-radius:10px;padding:16px;text-align:center;">';
-  html += '<div style="font-size:24px;margin-bottom:6px;">🔔</div>';
-  html += '<h3 style="color:#1a237e;font-size:13px;margin:0 0 8px;">Enable Notifications</h3>';
-  html += '<p style="color:#777;font-size:11px;margin:0 0 10px;">Get instant alerts for new jobs &amp; results</p>';
-  html += '<button onclick="if(\'Notification\' in window) Notification.requestPermission();" style="background:#1565c0;color:#fff;border:none;padding:8px 20px;border-radius:6px;font-size:12px;font-weight:700;cursor:pointer;">Allow Notifications</button>';
+  html += '<p style="color:rgba(255,255,255,0.9);font-size:11px;margin:0 0 12px;">Join our WhatsApp channel for instant updates</p>';
+  html += '<a href="https://whatsapp.com/channel/0029Vb8H18cCHDydoevviH1f" target="_blank" rel="nofollow noopener" style="display:block;background:#fff;color:#128C7E;font-weight:700;font-size:12.5px;padding:9px;border-radius:6px;text-decoration:none;">💬 Join WhatsApp</a>';
   html += '</div>';
 
   el.innerHTML = html;

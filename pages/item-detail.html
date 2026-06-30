@@ -17,6 +17,7 @@
   })();
 </script>
 <link rel="stylesheet" href="../assets/style.css">
+<script src="../assets/js/seo-engine.js"></script>
 <link rel="stylesheet" href="../assets/css/common-content.css">
 <style>
 .item-hero{border-radius:3px;overflow:hidden;margin-bottom:12px;}
@@ -44,7 +45,7 @@
 .notice-box{background:#fff8dc;border:1px solid #f0d080;border-radius:3px;padding:12px 14px;margin-bottom:12px;font-size:12.5px;color:#555;}
 .notice-box strong{color:#c0392b;}
 </style>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-8602963796651751" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <!-- Google Analytics GA4 – G-HG8H9C38KD -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
@@ -81,7 +82,7 @@
     <p style="font-size:11px;color:#888;text-align:center;margin:0 0 3px;">Advertisements</p>
     <ins class="adsbygoogle"
          style="display:block;width:100%;min-height:90px;"
-         data-ad-client="pub-8602963796651751"
+         data-ad-client="ca-pub-8602963796651751"
          data-ad-slot="XXXXXXXXXX"
          data-ad-format="auto"
          data-full-width-responsive="true"></ins>
@@ -105,6 +106,7 @@
 <script src="../assets/js/sidebar-widgets.js"></script>
 <script>
 
+renderCookieConsent();
 
 const params = new URLSearchParams(window.location.search);
 const type = params.get('type'); // result | admit | answer
@@ -127,6 +129,9 @@ const TYPE_LABELS = {
 const dataset = ALL[type];
 const meta = TYPE_LABELS[type];
 
+renderHeader(meta ? meta.label : '');
+renderTicker();
+
 if (!dataset || !meta) {
   document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
 } else {
@@ -139,48 +144,22 @@ if (!dataset || !meta) {
   document.head.appendChild(noindexMeta);
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
   } else {
-    // Page meta
-    document.title = item.title + ' | SarthakYojana.in';
-    document.getElementById('pageDesc').content = item.description || item.title + ' – Download from official website. Check complete details on SarthakYojana.in';
-    
-    // JSON-LD Schema - Article schema for all types
+    // ── ENTERPRISE SEO — Article schema + breadcrumbs + OG/Twitter ──
     const schemaType = type === 'admit' ? 'Admit Card' : type === 'answer' ? 'Answer Key' : 'Exam Result';
-    const articleSchema = {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": item.title,
-      "description": item.description || item.title + ' – Official link and details on SarthakYojana.in.',
-      "datePublished": item.declaredDate || item.date || new Date().toISOString().split('T')[0],
-      "dateModified": new Date().toISOString().split('T')[0],
-      "author": {"@type":"Organization","name":"SarthakYojana.in","url":"https://sarthakyojana.in"},
-      "publisher": {
-        "@type": "Organization",
-        "name": "SarthakYojana.in",
-        "url": "https://sarthakyojana.in",
-        "logo": {"@type":"ImageObject","url":"https://sarthakyojana.in/assets/logo.png"}
-      },
-      "mainEntityOfPage": {"@type":"WebPage","@id":window.location.href},
-      "keywords": item.title + ', ' + item.organization + ', ' + schemaType + ' 2026, Sarkari Result'
-    };
-    const ss = document.createElement('script');
-    ss.type = 'application/ld+json';
-    ss.text = JSON.stringify(articleSchema);
-    document.head.appendChild(ss);
-    
-    // BreadcrumbList
-    const bcSchema = {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type":"ListItem","position":1,"name":"Home","item":"https://sarthakyojana.in/"},
-        {"@type":"ListItem","position":2,"name":meta.sec,"item":"https://sarthakyojana.in/pages/results.html"},
-        {"@type":"ListItem","position":3,"name":item.title,"item":window.location.href}
+    applySEO({
+      title:       item.title + ' | SarthakYojana.in',
+      description: item.description || item.title + ' – Download from official website. Check complete details on SarthakYojana.in',
+      keywords:    item.title + ', ' + (item.organization || '') + ', ' + schemaType + ' 2026, Sarkari Result',
+      path:        'pages/item-detail.html?type=' + type + '&id=' + item.id,
+      type:        'Article',
+      datePublished: item.declaredDate || item.date,
+      image:       item.image ? ('assets/images/' + item.image) : undefined,
+      breadcrumbs: [
+        { name: 'Home', path: '' },
+        { name: meta.sec, path: 'pages/results.html' },
+        { name: item.title, path: 'pages/item-detail.html?type=' + type + '&id=' + item.id }
       ]
-    };
-    const bcs = document.createElement('script');
-    bcs.type = 'application/ld+json';
-    bcs.text = JSON.stringify(bcSchema);
-    document.head.appendChild(bcs);
+    });
     document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="results.html">${meta.sec}</a> &rsaquo; ${item.title}`;
 
     // Build rows
@@ -252,26 +231,7 @@ ${articleContent}
   }
 }
 
-window.onload = function(){
-
-
-    if(typeof renderTicker === 'function'){
-        renderTicker();
-    }
-
-    if(typeof renderFooter === 'function'){
-        renderFooter();
-    }
-
-};
-</script>
-</script>
-<script src="../assets/main.js"></script>
-<script>
-renderHeader('Admit Card');
-renderTicker();
 renderFooter();
-renderCookieConsent();
 </script>
 </body>
 </html>
