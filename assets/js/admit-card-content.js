@@ -1,4 +1,2481 @@
 const ADMIT_CARD_CONTENT = {};
+ADMIT_CARD_CONTENT["mmu-et-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+MMU ET Admit Card 2026 Out – Download Hall Ticket, Exam Date & Exam Instructions
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 MMU ET Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+Entrance Examination :
+<strong>03 July 2026</strong>
+</p>
+
+<a href="https://cdn.digialm.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>MMU ET Admit Card 2026</strong> has been released for candidates appearing in the Marwar Medical University Entrance Test (MMU ET) 2026. Applicants who successfully completed the registration process can now download their hall ticket from the official candidate login portal using their User ID and Password.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The MMU ET 2026 entrance examination is scheduled to be conducted on <strong>03 July 2026</strong>. Candidates should download their admit card well in advance and carefully verify all the details including examination centre, reporting time, roll number and personal information before appearing for the examination.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The admit card is an essential document for appearing in the entrance examination. Candidates must carry a printed copy of the hall ticket along with a valid original photo identity proof. Without these documents, entry into the examination centre may be denied.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+MMU ET Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>University</th>
+<td>Marwar Medical University</td>
+</tr>
+
+<tr>
+<th>Examination</th>
+<td>MMU Entrance Test (MMU ET) 2026</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Offline</td>
+</tr>
+
+<tr>
+<th>Answer Key</th>
+<td>Expected on 05 July 2026</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>Expected on 20 July 2026</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>medicaleducation.rajasthan.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Release</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>MMU ET Examination</td>
+
+<td>03 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Provisional Answer Key</td>
+
+<td>05 July 2026 (Expected)</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>20 July 2026 (Expected)</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep the following details ready before downloading the MMU ET Hall Ticket 2026.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>User ID</li>
+
+<li>Password</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download MMU ET Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the MMU ET Admit Card 2026 through the official candidate login portal. It is advisable to download the hall ticket well before the examination date to avoid last-minute technical issues and carefully verify all the information printed on it.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official MMU ET candidate portal.</li>
+
+<li>Click on the <strong>"MMU ET Admit Card 2026"</strong> link.</li>
+
+<li>Enter your <strong>User ID</strong> and <strong>Password</strong>.</li>
+
+<li>Complete the captcha verification.</li>
+
+<li>Click on the <strong>Login</strong> button.</li>
+
+<li>Your admit card will appear on the screen.</li>
+
+<li>Verify all personal and examination details carefully.</li>
+
+<li>Download the hall ticket and take at least two printouts for future use.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on MMU ET Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully check every detail mentioned on the admit card immediately after downloading it. In case of any discrepancy, the examination authority should be contacted before the examination date.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Full Name</li>
+
+<li>Application Number</li>
+
+<li>Roll Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Date of Birth</li>
+
+<li>Examination Date</li>
+
+<li>Reporting Time</li>
+
+<li>Examination Centre Name</li>
+
+<li>Centre Address</li>
+
+<li>Important Instructions for Candidates</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required at the Examination Centre
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry the following documents while reporting to the examination centre.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Document</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Printed MMU ET Admit Card</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Original Aadhaar Card / PAN Card / Passport / Driving Licence / Voter ID</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Recent Passport Size Photograph</td>
+
+<td>Recommended</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+MMU ET Exam Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The MMU Entrance Test is conducted to assess candidates' eligibility for admission into various medical programmes. Candidates should follow the official syllabus and examination instructions issued by the university.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Mode of Examination</td>
+
+<td>Offline (Pen & Paper)</td>
+
+</tr>
+
+<tr>
+
+<td>Question Type</td>
+
+<td>Objective Type (MCQs)</td>
+
+</tr>
+
+<tr>
+
+<td>Medium</td>
+
+<td>English</td>
+
+</tr>
+
+<tr>
+
+<td>Duration</td>
+
+<td>As Mentioned on Admit Card</td>
+
+</tr>
+
+<tr>
+
+<td>Negative Marking</td>
+
+<td>Refer Official Information Bulletin</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Items Not Allowed Inside the Examination Hall
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Mobile Phones</li>
+
+<li>Smart Watches</li>
+
+<li>Bluetooth Devices</li>
+
+<li>Electronic Gadgets</li>
+
+<li>Books & Notes</li>
+
+<li>Calculators</li>
+
+<li>Written Material</li>
+
+<li>Any Communication Device</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Day Guidelines
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Reach the examination centre at least one hour before the reporting time.</li>
+
+<li>Carry the printed admit card along with a valid original photo identity proof.</li>
+
+<li>Do not carry prohibited electronic devices inside the examination hall.</li>
+
+<li>Follow all instructions issued by the examination invigilators.</li>
+
+<li>Do not leave the examination hall before the completion of the examination.</li>
+
+<li>Keep the admit card safely until the admission process is completed.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download MMU ET Admit Card 2026</td>
+
+<td><a href="https://cdn.digialm.com" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Candidate Login</td>
+
+<td><a href="https://cdn.digialm.com" target="_blank">Login Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://medicaleducation.rajasthan.gov.in" target="_blank">Visit Website</a></td>
+
+</tr>
+
+<tr>
+
+<td>Information Bulletin</td>
+
+<td><a href="https://medicaleducation.rajasthan.gov.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>Q1. When was the MMU ET Admit Card 2026 released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The MMU ET Admit Card 2026 was officially released on <strong>28 June 2026</strong>. Candidates can download it from the official candidate portal using their login credentials.
+</p>
+
+<h3>Q2. What is the MMU ET 2026 examination date?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The MMU Entrance Test 2026 is scheduled to be conducted on <strong>03 July 2026</strong>.
+</p>
+
+<h3>Q3. How can I download the MMU ET Hall Ticket?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Visit the official candidate portal, enter your <strong>User ID</strong> and <strong>Password</strong>, complete the captcha verification and download your admit card.
+</p>
+
+<h3>Q4. Is it mandatory to carry the printed admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Candidates must carry a printed copy of the admit card along with a valid original photo identity proof. Entry to the examination hall will not be permitted without these documents.
+</p>
+
+<h3>Q5. Which identity proof should I carry?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can carry Aadhaar Card, PAN Card, Passport, Driving Licence or Voter ID as a valid government-issued photo identity proof.
+</p>
+
+<h3>Q6. What should I do if there is an error on my admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Immediately contact the university's examination authority before the examination date and request the necessary correction.
+</p>
+
+<h3>Q7. Can I show the admit card on my mobile phone?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Only a printed copy of the admit card will be accepted at the examination centre.
+</p>
+
+<h3>Q8. When will the MMU ET Answer Key 2026 be released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The provisional answer key is expected to be released on <strong>05 July 2026</strong>. Candidates should regularly check the official website for confirmation.
+</p>
+
+<h3>Q9. When will the MMU ET Result 2026 be declared?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The MMU ET Result 2026 is expected to be announced on <strong>20 July 2026</strong>. The exact date will be notified by the university.
+</p>
+
+<h3>Q10. Where can I check all future MMU ET updates?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should regularly visit the official MMU / Rajasthan Medical Education website for updates regarding the answer key, result, counselling schedule and admission process.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📥 Download MMU ET Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your hall ticket before the examination date, verify all details carefully and carry a printed copy along with a valid photo identity proof to the examination centre.
+</p>
+
+<a href="https://cdn.digialm.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit-card&id=rrb-je-cbt-2-admit-card-2026">RRB JE CBT 2 Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=uptet-admit-card-2026">UPTET Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=secl-admit-card-2026">SECL Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=gsssb-laboratory-assistant-admit-card-2026">GSSSB Laboratory Assistant Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=dsssb-forest-guard-admit-card-2026">DSSSB Forest Guard Admit Card 2026</a></li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["secl-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+SECL Admit Card 2026 Out – Download Hall Ticket for Mining Sirdar, Dy. Surveyor & Assistant Foreman CBT
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 SECL Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+Computer Based Test :
+<strong>02 July 2026</strong>
+</p>
+
+<a href="https://www.secl-cil.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+South Eastern Coalfields Limited (SECL), a Miniratna Public Sector Undertaking under Coal India Limited, has officially released the <strong>SECL Admit Card 2026</strong> for candidates appearing in the Computer Based Test (CBT) conducted for the recruitment of Mining Sirdar (Technical & Civil), Deputy Surveyor and Assistant Foreman (Electrical & Mechanical) posts. Eligible candidates can now download their hall ticket from the official SECL recruitment portal using their login credentials.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online examination is scheduled to be conducted on <strong>02 July 2026</strong> at various examination centres. Candidates should download their admit card well before the examination date and carefully verify all details such as examination centre, reporting time, exam shift and personal information printed on the hall ticket.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry a printed copy of the admit card along with an original government-issued photo identity proof while reporting to the examination centre. Entry to the examination hall will not be permitted without these mandatory documents.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+SECL Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>South Eastern Coalfields Limited (SECL)</td>
+</tr>
+
+<tr>
+<th>Parent Organisation</th>
+<td>Coal India Limited (CIL)</td>
+</tr>
+
+<tr>
+<th>Posts</th>
+<td>Mining Sirdar, Deputy Surveyor & Assistant Foreman</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>1,055</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>02 July 2026</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.secl-cil.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Release</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>CBT Examination</td>
+
+<td>02 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Document Verification</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Final Result</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Posts Covered Under SECL Admit Card 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The hall ticket has been released for multiple technical supervisory posts advertised by SECL. Candidates should ensure that the post mentioned on the admit card matches the post for which they applied.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post Name</th>
+
+<th>Vacancies</th>
+
+</tr>
+
+<tr>
+
+<td>Mining Sirdar (Technical)</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Mining Sirdar (Civil)</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy Surveyor</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Foreman (Electrical)</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Foreman (Mechanical)</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<th>Total</th>
+
+<th>1,055</th>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep the following credentials ready before downloading the SECL Hall Ticket 2026.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password or Date of Birth</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download SECL Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the SECL Admit Card 2026 by visiting the official South Eastern Coalfields Limited (SECL) website. Applicants should download their hall ticket well before the examination date and verify all details carefully to avoid any inconvenience on the exam day.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official SECL website at <strong>www.secl-cil.in</strong>.</li>
+
+<li>Open the <strong>Recruitment / Career</strong> section.</li>
+
+<li>Click on the <strong>SECL Admit Card 2026</strong> link.</li>
+
+<li>Enter your <strong>Registration Number</strong> and <strong>Password / Date of Birth</strong>.</li>
+
+<li>Complete the captcha verification.</li>
+
+<li>Click on the <strong>Login</strong> button.</li>
+
+<li>Download the admit card PDF.</li>
+
+<li>Take at least two printouts for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on SECL Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully check every detail mentioned on the admit card immediately after downloading it.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Name</li>
+
+<li>Registration Number</li>
+
+<li>Roll Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Applied Post</li>
+
+<li>Exam Date</li>
+
+<li>Reporting Time</li>
+
+<li>Exam Shift</li>
+
+<li>Exam Centre Name & Address</li>
+
+<li>Important Instructions</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required at the Examination Centre
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry the following documents while reporting for the CBT examination.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Document</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Printed Admit Card</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Original Aadhaar Card / PAN Card / Passport / Driving Licence / Voter ID</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Passport Size Photograph</td>
+
+<td>Recommended</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+SECL CBT Exam Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment examination will be conducted in Computer Based Test (CBT) mode. Candidates should refer to the official notification for the detailed syllabus and subject-wise marking scheme.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Mode of Examination</td>
+
+<td>Computer Based Test (CBT)</td>
+
+</tr>
+
+<tr>
+
+<td>Question Type</td>
+
+<td>Objective Type (MCQs)</td>
+
+</tr>
+
+<tr>
+
+<td>Duration</td>
+
+<td>As Mentioned on Admit Card</td>
+
+</tr>
+
+<tr>
+
+<td>Medium</td>
+
+<td>English & Hindi</td>
+
+</tr>
+
+<tr>
+
+<td>Negative Marking</td>
+
+<td>Refer Official Notification</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Items Prohibited Inside the Examination Hall
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Mobile Phones</li>
+
+<li>Smart Watches</li>
+
+<li>Bluetooth Devices</li>
+
+<li>Books & Notes</li>
+
+<li>Electronic Gadgets</li>
+
+<li>Calculators</li>
+
+<li>Written Material</li>
+
+<li>Any Communication Device</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Day Guidelines
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Reach the examination centre at least one hour before reporting time.</li>
+
+<li>Carry the printed admit card and original photo identity proof.</li>
+
+<li>Follow all instructions issued by the invigilators.</li>
+
+<li>Do not bring prohibited electronic devices inside the examination hall.</li>
+
+<li>Maintain discipline throughout the examination.</li>
+
+<li>Keep your admit card safe until the recruitment process is completed.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download SECL Admit Card 2026</td>
+
+<td><a href="https://www.secl-cil.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://www.secl-cil.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://www.secl-cil.in" target="_blank">www.secl-cil.in</a></td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>Q1. When was the SECL Admit Card 2026 released?</h3>
+<p>The SECL Admit Card 2026 was officially released on <strong>29 June 2026</strong>.</p>
+
+<h3>Q2. What is the SECL CBT Exam Date 2026?</h3>
+<p>The Computer Based Test (CBT) is scheduled to be conducted on <strong>02 July 2026</strong>.</p>
+
+<h3>Q3. How can I download the SECL Hall Ticket?</h3>
+<p>Candidates can download the hall ticket by logging into the official SECL recruitment portal using their Registration Number and Password/Date of Birth.</p>
+
+<h3>Q4. Which posts are covered under this admit card?</h3>
+<p>The admit card is available for Mining Sirdar, Deputy Surveyor and Assistant Foreman recruitment posts.</p>
+
+<h3>Q5. Is it compulsory to carry a printed admit card?</h3>
+<p>Yes. Candidates must carry a printed copy of the admit card along with a valid original photo identity proof.</p>
+
+<h3>Q6. Which identity proofs are accepted?</h3>
+<p>Aadhaar Card, PAN Card, Passport, Driving Licence and Voter ID are generally accepted as valid photo identity proofs.</p>
+
+<h3>Q7. What should I do if there is an error on my admit card?</h3>
+<p>You should immediately contact SECL before the examination date to get the discrepancy corrected.</p>
+
+<h3>Q8. Can I change my examination centre?</h3>
+<p>No. Once the admit card has been issued, the allotted examination centre cannot normally be changed.</p>
+
+<h3>Q9. What items are prohibited inside the examination hall?</h3>
+<p>Mobile phones, smart watches, calculators, books, electronic gadgets and other communication devices are not permitted.</p>
+
+<h3>Q10. Where can I get the latest updates regarding SECL Recruitment 2026?</h3>
+<p>All official announcements regarding answer key, results and document verification will be published on the official SECL website.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📥 Download SECL Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your hall ticket before the examination date and carefully verify all details mentioned on it. Carry a printed copy along with a valid photo ID to the examination centre.
+</p>
+
+<a href="https://www.secl-cil.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit-card&id=rrb-je-cbt-2-admit-card-2026">RRB JE CBT 2 Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=dsssb-forest-guard-admit-card-2026">DSSSB Forest Guard Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=gsssb-laboratory-assistant-admit-card-2026">GSSSB Laboratory Assistant Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=uptet-admit-card-2026">UPTET Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=mmu-et-admit-card-2026">MMU ET Admit Card 2026</a></li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["rrb-je-cbt-2-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+RRB JE CBT 2 Admit Card 2026 Out – Download Hall Ticket, Exam City & CBT 2 Schedule
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🚆 RRB JE CBT 2 Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+CBT 2 Examination :
+<strong>02 July 2026</strong>
+</p>
+
+<a href="https://rrbapply.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>RRB JE CBT 2 Admit Card 2026</strong> has been released by the Railway Recruitment Boards (RRBs) for candidates shortlisted for the second stage Computer Based Test under <strong>CEN No. 05/2025</strong>. Eligible candidates can now download their hall ticket by logging in with their Registration Number and Date of Birth through the official RRB portal. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The CBT 2 examination is scheduled to be conducted on <strong>02 July 2026</strong> for recruitment to the posts of <strong>Junior Engineer (JE), Depot Material Superintendent (DMS) and Chemical & Metallurgical Assistant (CMA)</strong>. Candidates should download the admit card in advance and carefully verify their examination city, reporting time, shift details and examination centre address before the exam day. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Along with the admit card, candidates must carry a valid original photo identity proof and follow all examination guidelines issued by the Railway Recruitment Board. Entry to the examination centre will not be permitted without the required documents.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRB JE CBT 2 Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Recruitment Board</th>
+<td>Railway Recruitment Board (RRB)</td>
+</tr>
+
+<tr>
+<th>Advertisement Number</th>
+<td>CEN 05/2025</td>
+</tr>
+
+<tr>
+<th>Posts</th>
+<td>Junior Engineer (JE), DMS & CMA</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>2,588</td>
+</tr>
+
+<tr>
+<th>Candidates Shortlisted</th>
+<td>39,035</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>rrbapply.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Exam City Intimation Slip</td>
+
+<td>22 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Release</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>CBT 2 Examination</td>
+
+<td>02 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates need the following credentials to access and download the RRB JE CBT 2 Hall Ticket.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Date of Birth / Password</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download RRB JE CBT 2 Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates who are eligible for the CBT 2 examination can download their admit card from the official Railway Recruitment Board (RRB) website by using their registration credentials. It is advisable to download the hall ticket well before the examination date to avoid last-minute technical issues.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website <strong>rrbapply.gov.in</strong>.</li>
+
+<li>Click on the <strong>RRB JE CBT 2 Admit Card 2026</strong> link.</li>
+
+<li>Enter your <strong>Registration Number</strong> and <strong>Date of Birth / Password</strong>.</li>
+
+<li>Complete the captcha verification.</li>
+
+<li>Click on the <strong>Login</strong> button.</li>
+
+<li>Your admit card will appear on the screen.</li>
+
+<li>Verify all details carefully before downloading.</li>
+
+<li>Take at least two printouts of the hall ticket for future use.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on RRB JE CBT 2 Hall Ticket
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully verify all the information printed on the admit card. If any discrepancy is found, it should be reported to the concerned Railway Recruitment Board immediately.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Full Name</li>
+
+<li>Roll Number</li>
+
+<li>Registration Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>CBT 2 Examination Date</li>
+
+<li>Reporting Time</li>
+
+<li>Exam Shift</li>
+
+<li>Exam Centre Name</li>
+
+<li>Exam Centre Address</li>
+
+<li>Important Instructions</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required at the Examination Centre
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry the following documents while reporting for the examination.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Document</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Printed Copy of Admit Card</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Original Aadhaar Card / PAN Card / Passport / Voter ID / Driving Licence</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Passport Size Photograph</td>
+
+<td>Recommended</td>
+
+</tr>
+
+<tr>
+
+<td>Aadhaar Verification (if applicable)</td>
+
+<td>Recommended</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRB JE CBT 2 Exam Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The CBT 2 examination evaluates candidates on technical subjects as well as general aptitude. Candidates should refer to the official syllabus and exam pattern while preparing for the examination.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Mode of Examination</td>
+
+<td>Computer Based Test (CBT)</td>
+
+</tr>
+
+<tr>
+
+<td>Total Questions</td>
+
+<td>150</td>
+
+</tr>
+
+<tr>
+
+<td>Total Marks</td>
+
+<td>150 Marks</td>
+
+</tr>
+
+<tr>
+
+<td>Duration</td>
+
+<td>120 Minutes</td>
+
+</tr>
+
+<tr>
+
+<td>Question Type</td>
+
+<td>Objective (MCQ)</td>
+
+</tr>
+
+<tr>
+
+<td>Negative Marking</td>
+
+<td>1/3 Mark Deducted for Every Wrong Answer</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Items Not Allowed Inside the Examination Hall
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Mobile Phones</li>
+
+<li>Smart Watches & Fitness Bands</li>
+
+<li>Bluetooth Devices</li>
+
+<li>Earphones & Headphones</li>
+
+<li>Scientific Calculators</li>
+
+<li>Books & Notes</li>
+
+<li>Wallets and Electronic Gadgets</li>
+
+<li>Pen Drives or Storage Devices</li>
+
+<li>Any Communication Device</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Day Guidelines
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Reach the examination centre at least 60 minutes before the reporting time.</li>
+
+<li>Carry the printed admit card along with a valid original photo ID proof.</li>
+
+<li>Follow biometric verification and Aadhaar authentication, if applicable.</li>
+
+<li>Do not carry prohibited items inside the examination hall.</li>
+
+<li>Read all instructions printed on the admit card carefully before the examination.</li>
+
+<li>Preserve the admit card safely until the recruitment process is completed.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download RRB JE CBT 2 Admit Card 2026</td>
+
+<td><a href="https://rrbapply.gov.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Check Exam City & Shift Details</td>
+
+<td><a href="https://rrbapply.gov.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification (CEN 05/2025)</td>
+
+<td><a href="https://rrbapply.gov.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://rrbapply.gov.in" target="_blank">rrbapply.gov.in</a></td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>Q1. When was the RRB JE CBT 2 Admit Card 2026 released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The RRB JE CBT 2 Admit Card 2026 was released on <strong>28 June 2026</strong> for candidates shortlisted for the second stage Computer Based Test.
+</p>
+
+<h3>Q2. What is the RRB JE CBT 2 Exam Date 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Computer Based Test (CBT 2) will be conducted on <strong>02 July 2026</strong>.
+</p>
+
+<h3>Q3. How can I download the RRB JE CBT 2 Hall Ticket?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Visit the official RRB portal, log in using your Registration Number and Date of Birth (or Password), complete the captcha verification and download the admit card.
+</p>
+
+<h3>Q4. Is it mandatory to carry the printed admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Candidates must carry a printed copy of the admit card along with a valid original photo identity proof. Digital copies on mobile phones will not be accepted.
+</p>
+
+<h3>Q5. Which documents should I carry to the examination centre?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should carry the printed admit card, an original government-issued photo ID (Aadhaar Card, PAN Card, Passport, Voter ID or Driving Licence) and a passport-size photograph if required.
+</p>
+
+<h3>Q6. Is there negative marking in RRB JE CBT 2?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. One-third (1/3) mark will be deducted for every incorrect answer in the CBT 2 examination.
+</p>
+
+<h3>Q7. What should I do if there is an error on my admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should immediately contact the concerned Railway Recruitment Board and request correction before the examination date.
+</p>
+
+<h3>Q8. Can I change my examination centre after downloading the admit card?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Once the admit card has been issued, the allotted examination centre cannot be changed under normal circumstances.
+</p>
+
+<h3>Q9. What time should I report to the examination centre?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should reach the examination centre well before the reporting time mentioned on their admit card to complete biometric verification and security checks.
+</p>
+
+<h3>Q10. Where can I get the latest updates regarding RRB JE Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should regularly visit the official RRB website for updates regarding answer keys, results, document verification and further stages of the recruitment process.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚆 Download RRB JE CBT 2 Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your CBT 2 hall ticket before the examination date, verify all personal and examination details, and carry a printed copy along with a valid photo identity proof on the exam day.
+</p>
+
+<a href="https://rrbapply.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit-card&id=dsssb-forest-guard-admit-card-2026">DSSSB Forest Guard Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=gsssb-laboratory-assistant-admit-card-2026">GSSSB Laboratory Assistant Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=uptet-admit-card-2026">UPTET Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=secl-admit-card-2026">SECL Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=mmu-et-admit-card-2026">MMU ET Admit Card 2026</a></li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["uptet-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+UPTET Admit Card 2026 Out – Download Paper I & Paper II Hall Ticket, Exam Date & Exam City
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 UPTET Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+Examination Dates :
+<strong>02 July to 04 July 2026</strong>
+</p>
+
+<a href="https://upessc.up.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>UPTET Admit Card 2026</strong> has been released by the Uttar Pradesh Education Service Selection Commission (UPESSC) for candidates appearing in the Uttar Pradesh Teacher Eligibility Test (UPTET) 2026. Registered candidates can now access their hall ticket online by logging into the official candidate portal using their registration details. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The UPTET 2026 examination for <strong>Paper I (Primary Level)</strong> and <strong>Paper II (Upper Primary Level)</strong> will be conducted from <strong>02 July to 04 July 2026</strong> at various examination centres across Uttar Pradesh. Candidates should carefully check the allotted exam date, reporting time, examination centre and important instructions mentioned on the admit card before appearing for the examination. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+After downloading the hall ticket, candidates should verify their name, photograph, examination details and other personal information. In case of any discrepancy, they should immediately contact the examination authority before the exam date to avoid inconvenience on the examination day.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+UPTET Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Conducting Authority</th>
+<td>Uttar Pradesh Education Service Selection Commission (UPESSC)</td>
+</tr>
+
+<tr>
+<th>Examination</th>
+<td>Uttar Pradesh Teacher Eligibility Test (UPTET) 2026</td>
+</tr>
+
+<tr>
+<th>Papers</th>
+<td>Paper I & Paper II</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Dates</th>
+<td>02 July – 04 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Offline (OMR Based)</td>
+</tr>
+
+<tr>
+<th>Exam Duration</th>
+<td>150 Minutes</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>upessc.up.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Exam City Intimation Slip</td>
+
+<td>22 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Release</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Paper I & II Examination</td>
+
+<td>02 July – 04 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Answer Key</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep the following credentials ready before downloading their UPTET Hall Ticket:
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Date of Birth / Password</li>
+
+<li>OTP (If Required)</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+How to Download UPTET Admit Card 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the UPTET Admit Card 2026 through the official UPESSC portal by logging in with their registration details. It is recommended to download the hall ticket well before the examination date to avoid last-minute technical issues.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website <strong>upessc.up.gov.in</strong>.</li>
+
+<li>Click on the <strong>"UPTET Admit Card 2026"</strong> link.</li>
+
+<li>Enter your Registration Number and Date of Birth / Password.</li>
+
+<li>Complete the captcha verification.</li>
+
+<li>Click on the <strong>Login</strong> button.</li>
+
+<li>Your admit card will appear on the screen.</li>
+
+<li>Verify all details carefully.</li>
+
+<li>Download the PDF and take at least two printouts for future use.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Details Mentioned on UPTET Hall Ticket 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+After downloading the admit card, candidates should carefully verify every detail printed on it. Any mismatch should immediately be reported to the examination authority.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Full Name</li>
+
+<li>Roll Number</li>
+
+<li>Registration Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Paper (Paper-I / Paper-II)</li>
+
+<li>Exam Date</li>
+
+<li>Exam Shift</li>
+
+<li>Reporting Time</li>
+
+<li>Exam Centre Name & Address</li>
+
+<li>Important Exam Day Instructions</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required on Exam Day
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must carry the following documents while reporting to the examination centre.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Document</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Printed Admit Card</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Aadhaar Card / PAN Card / Voter ID / Passport / Driving Licence</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Recent Passport Size Photograph</td>
+
+<td>Recommended</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Items Not Allowed Inside the Examination Hall
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Mobile Phones</li>
+
+<li>Smart Watches</li>
+
+<li>Bluetooth Devices</li>
+
+<li>Earphones</li>
+
+<li>Scientific Calculators</li>
+
+<li>Books & Notes</li>
+
+<li>Written Papers</li>
+
+<li>Electronic Gadgets</li>
+
+<li>Any Communication Device</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+UPTET Exam Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Both Paper-I and Paper-II consist of objective-type questions carrying equal marks. Candidates should carefully follow the official syllabus while preparing for the examination.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Mode of Examination</td>
+
+<td>Offline (OMR Based)</td>
+
+</tr>
+
+<tr>
+
+<td>Question Type</td>
+
+<td>Multiple Choice Questions (MCQs)</td>
+
+</tr>
+
+<tr>
+
+<td>Total Questions</td>
+
+<td>150</td>
+
+</tr>
+
+<tr>
+
+<td>Total Marks</td>
+
+<td>150 Marks</td>
+
+</tr>
+
+<tr>
+
+<td>Duration</td>
+
+<td>150 Minutes</td>
+
+</tr>
+
+<tr>
+
+<td>Negative Marking</td>
+
+<td>No Negative Marking</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions for Candidates
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Reach the examination centre at least 60 minutes before reporting time.</li>
+
+<li>Carry the original photo identity proof along with the printed admit card.</li>
+
+<li>Do not carry prohibited electronic devices.</li>
+
+<li>Follow all instructions issued by the invigilators.</li>
+
+<li>Do not leave the examination hall before the examination ends.</li>
+
+<li>Preserve the admit card until the final recruitment process is completed.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download UPTET Admit Card 2026</td>
+
+<td><a href="https://upessc.up.gov.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://upessc.up.gov.in" target="_blank">Visit Website</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://upessc.up.gov.in" target="_blank">Download PDF</a></td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>Q1. When was the UPTET Admit Card 2026 released?</h3>
+<p>The UPTET Admit Card 2026 was released on <strong>29 June 2026</strong>.</p>
+
+<h3>Q2. What is the UPTET Exam Date 2026?</h3>
+<p>The examination is scheduled from <strong>02 July to 04 July 2026</strong>.</p>
+
+<h3>Q3. How can I download the UPTET Hall Ticket?</h3>
+<p>Candidates can download it from the official UPESSC website using their Registration Number and Date of Birth/Password.</p>
+
+<h3>Q4. Is it mandatory to carry the admit card?</h3>
+<p>Yes. Candidates without a valid printed admit card will not be allowed to appear for the examination.</p>
+
+<h3>Q5. Which documents should I carry along with the admit card?</h3>
+<p>A printed admit card and a valid original photo identity proof such as Aadhaar Card, PAN Card, Passport, Voter ID or Driving Licence.</p>
+
+<h3>Q6. Is there any negative marking in UPTET 2026?</h3>
+<p>No. As per the prescribed exam pattern, there is no negative marking.</p>
+
+<h3>Q7. What should I do if there is an error on my admit card?</h3>
+<p>You should immediately contact the examination authority and request correction before the examination date.</p>
+
+<h3>Q8. Can I show the admit card on my mobile phone?</h3>
+<p>No. Candidates must carry a printed copy of the admit card.</p>
+
+<h3>Q9. When will the UPTET Answer Key be released?</h3>
+<p>The answer key will be released after the successful completion of the examination. Candidates should regularly check the official website for updates.</p>
+
+<h3>Q10. Where can I get all the latest UPTET updates?</h3>
+<p>All official updates regarding admit card, answer key, result and notifications will be available on the official UPESSC website.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+📥 Download UPTET Admit Card 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Download your hall ticket before the examination date and verify all details carefully. Carry a printed admit card along with a valid photo ID to the examination centre.
+</p>
+
+<a href="https://upessc.up.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Admit Cards
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit-card&id=dsssb-forest-guard-admit-card-2026">DSSSB Forest Guard Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=gsssb-laboratory-assistant-admit-card-2026">GSSSB Laboratory Assistant Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=rrb-je-cbt-2-admit-card-2026">RRB JE CBT 2 Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=secl-admit-card-2026">SECL Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit-card&id=mmu-et-admit-card-2026">MMU ET Admit Card 2026</a></li>
+
+</ul>
+
+
+`;
+ADMIT_CARD_CONTENT["gsssb-laboratory-assistant-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+GSSSB Laboratory Assistant Admit Card 2026 Out – Download Hall Ticket for Class-3 CBRT Exam
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 GSSSB Laboratory Assistant Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+CBRT Examination :
+<strong>05 July 2026</strong>
+</p>
+
+<a href="https://gsssb.gujarat.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Hall Ticket →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>GSSSB Laboratory Assistant Admit Card 2026</strong> has been officially released by the Gujarat Gaun Seva Pasandgi Mandal (GSSSB) for candidates appearing in the Laboratory Assistant Class-3 recruitment examination. Applicants who successfully submitted their application can now download their hall ticket from the official website using their login credentials. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The Computer Based Recruitment Test (CBRT) is scheduled to be conducted on <strong>05 July 2026</strong>. Every candidate must carry a printed copy of the admit card along with a valid photo identity proof to the examination centre. Without these documents, entry into the examination hall will not be permitted. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to verify all details printed on the hall ticket immediately after downloading it. If any discrepancy is found in personal information, photograph or examination details, it should be reported to GSSSB before the examination date.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+GSSSB Laboratory Assistant Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Gujarat Gaun Seva Pasandgi Mandal (GSSSB)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Laboratory Assistant (Class-3)</td>
+</tr>
+
+<tr>
+<th>Advertisement No.</th>
+<td>359/2025-26</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Recruitment Test (CBRT)</td>
+</tr>
+
+<tr>
+<th>Exam Duration</th>
+<td>180 Minutes</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>gsssb.gujarat.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Released</td>
+
+<td>29 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>CBRT Examination</td>
+
+<td>05 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Reporting Time</td>
+
+<td>As Mentioned on Hall Ticket</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must keep the following details ready before downloading the admit card:
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Advertisement Number</li>
+
+<li>Confirmation Number</li>
+
+<li>Date of Birth</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+
+`;
+ADMIT_CARD_CONTENT["dsssb-forest-guard-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+DSSSB Forest Guard Admit Card 2026 Out – Download Hall Ticket, Exam Date & Shift Details
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📥 DSSSB Forest Guard Admit Card 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Released</span>
+</p>
+
+<p style="font-size:19px;">
+CBT Examination :
+<strong>07 July 2026 to 14 July 2026</strong>
+</p>
+
+<a href="https://dsssb.delhi.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>DSSSB Forest Guard Admit Card 2026</strong> has been released by the Delhi Subordinate Services Selection Board (DSSSB) for candidates appearing in the Computer Based Test (CBT) conducted for the Forest Guard recruitment under Post Code <strong>41/25</strong>. Candidates who have successfully completed the application process can now download their hall ticket using their application credentials from the official portal. The admit card is mandatory for entry into the examination centre. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+According to the official examination schedule, the DSSSB Forest Guard CBT will be conducted from <strong>07 July 2026 to 14 July 2026</strong> in multiple shifts at various examination centres. Candidates should carefully check their allotted exam date, reporting time, shift and examination venue mentioned on the admit card before the exam day. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Before downloading the admit card, candidates should keep their Application Number and Password ready. After downloading, verify all the personal details printed on the hall ticket and immediately report any discrepancy to DSSSB if found.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+DSSSB Forest Guard Admit Card 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Delhi Subordinate Services Selection Board (DSSSB)</td>
+</tr>
+
+<tr>
+<th>Department</th>
+<td>Forest & Wildlife Department, GNCTD</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Forest Guard</td>
+</tr>
+
+<tr>
+<th>Post Code</th>
+<td>41/25</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>52</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Admit Card</td>
+</tr>
+
+<tr>
+<th>Admit Card Status</th>
+<td>Released</td>
+</tr>
+
+<tr>
+<th>Exam Mode</th>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>dsssb.delhi.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Release</td>
+
+<td>28 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>CBT Examination Starts</td>
+
+<td>07 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>CBT Examination Ends</td>
+
+<td>14 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Exam Shifts</td>
+
+<td>21 Shifts</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Login Credentials Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates need the following credentials to access and download their DSSSB Forest Guard Hall Ticket:
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Application Number</li>
+
+<li>Password / Date of Birth (as applicable)</li>
+
+<li>Captcha Verification</li>
+
+</ul>
+
+`;
 
 ADMIT_CARD_CONTENT["hprca-computer-teacher-admit-card-2026"] = `
 

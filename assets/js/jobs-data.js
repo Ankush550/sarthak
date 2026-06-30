@@ -1,6 +1,105 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id: "avnl-executive-non-executive-recruitment-2026",
+    title: "AVNL Executive & Non-Executive Recruitment 2026",
+    shortTitle: "AVNL Recruitment 2026",
+    organization: "Armoured Vehicles Nigam Limited (AVNL)",
+    department: "Ministry of Defence, Government of India",
+    postName: "Junior Technician, Junior Manager, Assistant Manager, Deputy Manager & Other Posts",
+    advertisementNo: "Short Notice 2026",
+    category: "Latest Jobs",
+    applicationMode: "Online",
+    jobLocation: "Across India",
+    totalPosts: "1213",
+    salary: "₹21,000 – ₹1,20,000 Per Month",
+    qualification: "10th / ITI / Diploma / B.E. / B.Tech / MBA",
+    ageLimit: "Up to 30–35 Years (Post Wise)",
+    notificationDate: "21 June 2026",
+    applicationStart: "To Be Announced",
+    applicationLastDate: "15 Days from Activation of Online Link",
+    examDate: "To Be Announced",
+
+    selectionProcess: [
+        "Written Examination / CBT",
+        "Trade Test (For Technician Posts)",
+        "Interview (Managerial Posts)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+
+    officialWebsite: "https://www.avnl.co.in",
+    applyLink: "https://www.avnl.co.in",
+    notificationPdf: "https://www.avnl.co.in",
+
+    image: "AVNL.jpeg",
+
+    featured: true,
+    isNew: true,
+    status: "Open",
+
+    applicationFee: [
+        "UR / OBC / EWS : As Per Detailed Notification",
+        "SC / ST / PwBD : As Per Detailed Notification"
+    ],
+
+    vacancies: [
+        {
+            post: "Junior Technician",
+            vacancies: "1005"
+        },
+        {
+            post: "Junior Manager",
+            vacancies: "165"
+        },
+        {
+            post: "Assistant Manager",
+            vacancies: "04"
+        },
+        {
+            post: "Deputy Manager",
+            vacancies: "33"
+        },
+        {
+            post: "Senior Manager",
+            vacancies: "02"
+        },
+        {
+            post: "Deputy General Manager",
+            vacancies: "01"
+        },
+        {
+            post: "Additional General Manager",
+            vacancies: "02"
+        },
+        {
+            post: "Consultant",
+            vacancies: "01"
+        }
+    ],
+
+    tags: [
+        "AVNL Recruitment 2026",
+        "AVNL Executive Recruitment 2026",
+        "AVNL Non Executive Recruitment 2026",
+        "AVNL Junior Technician Recruitment 2026",
+        "AVNL Junior Manager Recruitment 2026",
+        "AVNL Assistant Manager Recruitment 2026",
+        "AVNL Deputy Manager Recruitment 2026",
+        "Armoured Vehicles Nigam Limited Recruitment 2026",
+        "Defence PSU Jobs 2026",
+        "Government Jobs 2026",
+        "ITI Jobs 2026",
+        "Diploma Jobs 2026",
+        "Engineering Jobs 2026",
+        "Latest Defence Jobs",
+        "AVNL Online Form 2026"
+    ],
+
+    description:
+    "Armoured Vehicles Nigam Limited (AVNL), a Defence PSU under the Ministry of Defence, has released the AVNL Executive & Non-Executive Recruitment 2026 short notification for 1,213 vacancies including Junior Technician, Junior Manager, Assistant Manager, Deputy Manager and other posts. Eligible candidates will be able to apply online through the official AVNL website after the application link is activated."
+},
+  {
     id: "indian-navy-agniveer-apprentice-recruitment-2026",
     title: "Indian Navy Agniveer (Apprentice) Recruitment 2026",
     shortTitle: "Indian Navy Agniveer Apprentice Recruitment 2026",

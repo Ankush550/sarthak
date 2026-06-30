@@ -3,6 +3,132 @@
 
 const RESULTS_DATA = [
 {
+    id: "tnpsc-group-2-mains-result-2026",
+    title: "TNPSC Group 2 Mains Result 2026 Out",
+    shortTitle: "TNPSC Group 2 Mains Result",
+    organization: "Tamil Nadu Public Service Commission (TNPSC)",
+    category: "Result",
+    examName: "Combined Civil Services Examination-II (Group 2/2A)",
+    resultStatus: "Released",
+    resultDate: "29 June 2026",
+    examDate: "15 March 2026",
+    nextStage: "Interview / Certificate Verification",
+    totalPosts: "Various",
+    officialWebsite: "https://tnpsc.gov.in",
+    notificationPdf: "",
+    resultPdf: "",
+    image: "../images/results/tnpsc-group-2-result-2026.webp",
+    tags: [
+        "TNPSC Group 2 Result 2026",
+        "TNPSC Group 2 Mains Result",
+        "TNPSC Group 2 Score Card",
+        "TNPSC Group 2 Merit List",
+        "TNPSC Result 2026"
+    ],
+    updated: "29 June 2026"
+},
+
+{
+    id: "rssb-4th-grade-revised-result-2026",
+    title: "RSSB 4th Grade Revised Result 2026 Out",
+    shortTitle: "RSSB 4th Grade Revised Result",
+    organization: "Rajasthan Staff Selection Board (RSSB)",
+    category: "Result",
+    examName: "4th Grade Recruitment Examination",
+    resultStatus: "Released",
+    resultDate: "29 June 2026",
+    examDate: "2025",
+    nextStage: "Document Verification",
+    totalPosts: "53749",
+    officialWebsite: "https://rssb.rajasthan.gov.in",
+    notificationPdf: "",
+    resultPdf: "../notification/rssb-4th-grade-revised-result-2026.pdf",
+    image: "../images/results/rssb-4th-grade-result-2026.webp",
+    tags: [
+        "RSSB Result 2026",
+        "4th Grade Result",
+        "RSSB Merit List",
+        "RSSB Score Card",
+        "Rajasthan Group D Result"
+    ],
+    updated: "29 June 2026"
+},
+
+{
+    id: "rpsc-aso-marks-2026",
+    title: "RPSC ASO Marks 2026 Released",
+    shortTitle: "RPSC ASO Marks",
+    organization: "Rajasthan Public Service Commission (RPSC)",
+    category: "Result",
+    examName: "Assistant Statistical Officer Exam 2024",
+    resultStatus: "Marks Released",
+    resultDate: "29 June 2026",
+    examDate: "12 October 2025",
+    nextStage: "Document Verification",
+    totalPosts: "43",
+    officialWebsite: "https://rpsc.rajasthan.gov.in",
+    notificationPdf: "",
+    resultPdf: "",
+    image: "../images/results/rpsc-aso-marks-2026.webp",
+    tags: [
+        "RPSC ASO Marks",
+        "RPSC ASO Score Card",
+        "Assistant Statistical Officer Marks",
+        "RPSC Result"
+    ],
+    updated: "29 June 2026"
+},
+
+{
+    id: "rpsc-aso-main-merit-list-2026",
+    title: "RPSC ASO Main Merit List 2026 Out",
+    shortTitle: "RPSC ASO Merit List",
+    organization: "Rajasthan Public Service Commission (RPSC)",
+    category: "Result",
+    examName: "Assistant Statistical Officer Exam 2024",
+    resultStatus: "Merit List Released",
+    resultDate: "29 June 2026",
+    examDate: "12 October 2025",
+    nextStage: "Final Selection",
+    totalPosts: "43",
+    officialWebsite: "https://rpsc.rajasthan.gov.in",
+    notificationPdf: "../notification/rpsc-aso-main-merit-list-2026.pdf",
+    resultPdf: "../notification/rpsc-aso-main-merit-list-2026.pdf",
+    image: "../images/results/rpsc-aso-merit-list-2026.webp",
+    tags: [
+        "RPSC ASO Merit List",
+        "RPSC ASO Result",
+        "Assistant Statistical Officer Merit List",
+        "RPSC Merit List PDF"
+    ],
+    updated: "29 June 2026"
+},
+
+{
+    id: "upsssc-aso-mains-result-2026",
+    title: "UPSSSC ASO Mains Result 2026 Out",
+    shortTitle: "UPSSSC ASO Result",
+    organization: "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    category: "Result",
+    examName: "Assistant Statistical Officer / Assistant Research Officer",
+    resultStatus: "Released",
+    resultDate: "28 June 2026",
+    examDate: "PET 2025 Based",
+    nextStage: "Mains Examination",
+    totalPosts: "1565",
+    officialWebsite: "https://upsssc.gov.in",
+    notificationPdf: "",
+    resultPdf: "",
+    image: "../images/results/upsssc-aso-result-2026.webp",
+    tags: [
+        "UPSSSC ASO Result",
+        "UPSSSC ARO Result",
+        "UPSSSC ASO Merit List",
+        "UPSSSC Result 2026"
+    ],
+    updated: "28 June 2026"
+},
+{
     id: "up-home-guard-result-2026",
     title: "UP Home Guard Result 2026",
     shortTitle: "UP Home Guard Result 2026",

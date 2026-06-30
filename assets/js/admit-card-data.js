@@ -1,4 +1,243 @@
 const ADMIT_CARDS_DATA = [
+    {
+    id:"mmu-et-admit-card-2026",
+    title:"MMU ET Admit Card 2026",
+    shortTitle:"MMU ET Admit Card",
+    organization:"Marwar Medical University",
+    examName:"Marwar Medical University Entrance Test",
+    postName:"MMU ET",
+    advertisementNo:"",
+    category:"Admit Card",
+
+    totalPosts:"-",
+
+    admitCardReleaseDate:"28 June 2026",
+    examDate:"03 July 2026",
+    answerKeyDate:"05 July 2026",
+    resultDate:"20 July 2026",
+    examMode:"Offline",
+    loginCredentials:"User ID & Password",
+
+    applicationMode:"Online",
+    admitCardStatus:"Released",
+
+    officialWebsite:"https://medicaleducation.rajasthan.gov.in",
+    downloadLink:"https://cdn.digialm.com",
+
+    image:"MMU.jpeg",
+
+    featured:true,
+    isNew:true,
+    status:"Released",
+
+    tags:[
+        "MMU ET Admit Card",
+        "MMUET Hall Ticket",
+        "Medical Entrance Admit Card"
+    ],
+
+    description:"Download MMU ET Admit Card 2026 for Marwar Medical University Entrance Test."
+},
+    {
+    id:"secl-admit-card-2026",
+    title:"SECL Admit Card 2026",
+    shortTitle:"SECL Admit Card",
+    organization:"South Eastern Coalfields Limited",
+    examName:"Mining Sirdar, Surveyor & Assistant Foreman Examination",
+    postName:"Mining Sirdar, Surveyor, Assistant Foreman",
+    advertisementNo:"",
+    category:"Admit Card",
+
+    totalPosts:"1055",
+
+    admitCardReleaseDate:"29 June 2026",
+    examDate:"02 July 2026",
+    examMode:"Computer Based Test",
+    loginCredentials:"Registration Number & Password / DOB",
+
+    applicationMode:"Online",
+    admitCardStatus:"Released",
+
+    officialWebsite:"https://secl-cil.in",
+    downloadLink:"https://secl-cil.in",
+
+    image:"SECL.jpeg",
+
+    featured:true,
+    isNew:true,
+    status:"Released",
+
+    tags:[
+        "SECL Admit Card",
+        "Mining Sirdar Hall Ticket",
+        "Coal India Admit Card"
+    ],
+
+    description:"Download SECL Admit Card 2026 for Mining Sirdar, Surveyor and Assistant Foreman CBT."
+},
+    {
+    id:"rrb-je-cbt-2-admit-card-2026",
+    title:"RRB JE CBT 2 Admit Card 2026",
+    shortTitle:"RRB JE Admit Card",
+    organization:"Railway Recruitment Board",
+    examName:"Junior Engineer CBT 2",
+    postName:"JE, DMS & CMA",
+    advertisementNo:"CEN 05/2025",
+    category:"Admit Card",
+
+    totalPosts:"2588",
+    totalCandidates:"39035",
+
+    admitCardReleaseDate:"28 June 2026",
+    citySlipDate:"22 June 2026",
+    examDate:"02 July 2026",
+    examMode:"Computer Based Test",
+    examDuration:"120 Minutes",
+    loginCredentials:"Registration Number & DOB",
+
+    applicationMode:"Online",
+    admitCardStatus:"Released",
+
+    officialWebsite:"https://rrbapply.gov.in",
+    downloadLink:"https://rrbapply.gov.in",
+
+    image:"RRBJE.jpeg",
+
+    featured:true,
+    isNew:true,
+    status:"Released",
+
+    tags:[
+        "RRB JE Admit Card",
+        "RRB CBT 2 Hall Ticket",
+        "Railway JE Admit Card",
+        "RRB JE Exam"
+    ],
+
+    description:"Download RRB JE CBT 2 Admit Card 2026 for Junior Engineer, DMS and CMA posts."
+},
+    {
+    id:"uptet-admit-card-2026",
+    title:"UPTET Admit Card 2026",
+    shortTitle:"UPTET Admit Card",
+    organization:"UP Education Service Selection Commission",
+    examName:"Uttar Pradesh Teacher Eligibility Test",
+    postName:"Paper I & Paper II",
+    advertisementNo:"01/UPTET/2026",
+    category:"Admit Card",
+
+    totalPosts:"-",
+
+    admitCardReleaseDate:"29 June 2026",
+    citySlipDate:"22 June 2026",
+    examDate:"02, 03 & 04 July 2026",
+    examMode:"Offline",
+    examDuration:"150 Minutes",
+    loginCredentials:"Registration Number & DOB / OTP",
+
+    applicationMode:"Online",
+    admitCardStatus:"Released",
+
+    officialWebsite:"https://upessc.up.gov.in",
+    downloadLink:"https://admitcards.upessc.org",
+
+    image:"UPTET.jpeg",
+
+    featured:true,
+    isNew:true,
+    status:"Released",
+
+    tags:[
+        "UPTET Admit Card",
+        "UPTET Hall Ticket",
+        "UPTET Paper 1",
+        "UPTET Paper 2"
+    ],
+
+    description:"Download UPTET Admit Card 2026 for Paper I and Paper II examinations."
+},
+    {
+    id:"gsssb-laboratory-assistant-admit-card-2026",
+    title:"GSSSB Laboratory Assistant Admit Card 2026",
+    shortTitle:"GSSSB Lab Assistant Admit Card",
+    organization:"Gujarat Gaun Seva Pasandgi Mandal",
+    examName:"Laboratory Assistant Class-3 Examination",
+    postName:"Laboratory Assistant",
+    advertisementNo:"359/2025-26",
+    category:"Admit Card",
+
+    totalPosts:"-",
+
+    admitCardReleaseDate:"29 June 2026",
+    examDate:"05 July 2026",
+    examMode:"MCQ-CBRT",
+    examDuration:"180 Minutes",
+    loginCredentials:"Advertisement Number, Confirmation Number & DOB",
+
+    applicationMode:"Online",
+    admitCardStatus:"Released",
+
+    officialWebsite:"https://gsssb.gujarat.gov.in",
+    downloadLink:"https://gsssb.gujarat.gov.in",
+
+    image:"GSSSB.jpeg",
+
+    featured:true,
+    isNew:true,
+    status:"Released",
+
+    tags:[
+        "GSSSB Admit Card",
+        "Laboratory Assistant Hall Ticket",
+        "GSSSB Call Letter",
+        "GSSSB Exam Date"
+    ],
+
+    description:"Download GSSSB Laboratory Assistant Admit Card 2026 for Advertisement No.359/2025-26."
+},
+    {
+    id: "dsssb-forest-guard-admit-card-2026",
+    title: "DSSSB Forest Guard Admit Card 2026",
+    shortTitle: "DSSSB Forest Guard Admit Card",
+    organization: "Delhi Subordinate Services Selection Board (DSSSB)",
+    examName: "DSSSB Forest Guard Recruitment Examination 2026",
+    postName: "Forest Guard",
+    advertisementNo: "02/2025",
+    postCode: "41/25",
+    category: "Admit Card",
+
+    totalPosts: "52",
+
+    admitCardReleaseDate: "28 June 2026",
+    examDate: "07 July 2026 to 14 July 2026",
+    examMode: "Computer Based Test (CBT)",
+    examDuration: "120 Minutes",
+    examShifts: "21",
+    loginCredentials: "Application Number & Password",
+
+    applicationMode: "Online",
+    admitCardStatus: "Released",
+
+    officialWebsite: "https://dsssb.delhi.gov.in",
+    downloadLink: "https://dsssb.delhi.gov.in",
+    notificationLink: "https://dsssb.delhi.gov.in",
+
+    image: "DSSSB.jpeg",
+
+    featured: true,
+    isNew: true,
+    status: "Released",
+
+    tags:[
+        "DSSSB Forest Guard Admit Card 2026",
+        "DSSSB Hall Ticket",
+        "Forest Guard Admit Card",
+        "DSSSB Exam Date 2026",
+        "DSSSB Forest Guard CBT"
+    ],
+
+    description:"Download DSSSB Forest Guard Admit Card 2026 for Post Code 41/25. Check exam date, shift timing, reporting time, exam centre and download hall ticket."
+},
   {
     id: "hprca-computer-teacher-admit-card-2026",
     title: "HPRCA Computer Teacher Admit Card 2026",

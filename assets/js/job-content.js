@@ -1,5 +1,612 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["avnl-executive-non-executive-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 29 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+AVNL Executive & Non-Executive Recruitment 2026 – Apply Online for 1213 Junior Technician, Junior Manager & Other Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 AVNL Recruitment 2026 Notification Released
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Application Link to be Activated Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date :
+<strong>15 Days from Activation of Online Application Link</strong>
+</p>
+
+<a href="https://www.avnl.co.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Official Website →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Armoured Vehicles Nigam Limited (AVNL), a Defence Public Sector Undertaking functioning under the Ministry of Defence, Government of India, has released a short notification for the <strong>AVNL Executive & Non-Executive Recruitment 2026</strong>. The recruitment drive aims to fill <strong>1,213 vacancies</strong> for various technical and managerial positions including Junior Technician, Junior Manager, Assistant Manager, Deputy Manager, Senior Manager and other posts. :contentReference[oaicite:0]{index=0}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+This recruitment presents an excellent opportunity for candidates holding qualifications such as <strong>10th Pass, ITI, Diploma, B.E., B.Tech, MBA</strong> and other equivalent professional qualifications. The detailed notification containing eligibility criteria, reservation details and online application procedure will be made available on the official AVNL website along with the activation of the application link. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Interested candidates should keep all educational documents ready and regularly visit the official AVNL recruitment portal for the latest announcements regarding online registration, examination schedule and further recruitment stages.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+AVNL Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Armoured Vehicles Nigam Limited (AVNL)</td>
+</tr>
+
+<tr>
+<th>Department</th>
+<td>Ministry of Defence, Government of India</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Junior Technician, Junior Manager, Assistant Manager, Deputy Manager & Other Posts</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>1,213</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Government Jobs</td>
+</tr>
+
+<tr>
+<th>Job Type</th>
+<td>Executive & Non-Executive (Fixed Term / Contract)</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>10th / ITI / Diploma / B.E. / B.Tech / MBA</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.avnl.co.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Short Notification Release Date</td>
+
+<td>21 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Online Application Starts</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Apply</td>
+
+<td>15 Days from Activation of Online Link</td>
+
+</tr>
+
+<tr>
+
+<td>Written Examination / Trade Test</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Document Verification</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+AVNL Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+According to the official short notification, AVNL has announced a total of <strong>1,213 vacancies</strong> across Executive and Non-Executive categories. The largest number of vacancies has been notified for the Junior Technician post, while managerial positions are available in multiple grades.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post Name</th>
+
+<th>Vacancies</th>
+
+</tr>
+
+<tr>
+
+<td>Junior Technician</td>
+
+<td>1005</td>
+
+</tr>
+
+<tr>
+
+<td>Junior Manager</td>
+
+<td>165</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Manager</td>
+
+<td>04</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy Manager</td>
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>Senior Manager</td>
+
+<td>02</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy General Manager</td>
+
+<td>01</td>
+
+</tr>
+
+<tr>
+
+<td>Additional General Manager</td>
+
+<td>02</td>
+
+</tr>
+
+<tr>
+
+<td>Consultant</td>
+
+<td>01</td>
+
+</tr>
+
+<tr>
+
+<th>Total</th>
+
+<th>1213</th>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must possess the educational qualification prescribed for the respective post. The eligibility requirements vary depending on the position applied for. Applicants are advised to verify the detailed notification before submitting their online application to ensure they satisfy all eligibility conditions. :contentReference[oaicite:0]{index=0}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post</th>
+
+<th>Qualification</th>
+
+</tr>
+
+<tr>
+
+<td>Junior Technician</td>
+
+<td>10th Pass with ITI (NCVT / SCVT) in Relevant Trade</td>
+
+</tr>
+
+<tr>
+
+<td>Junior Manager</td>
+
+<td>B.E. / B.Tech / MBA (Relevant Discipline)</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Manager</td>
+
+<td>Engineering / Finance / Company Secretary / MBA</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy Manager</td>
+
+<td>Engineering / Management / Information Technology</td>
+
+</tr>
+
+<tr>
+
+<td>Senior Manager & Above</td>
+
+<td>Relevant Engineering / Management Qualification with Experience</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The upper age limit differs according to the post. Age relaxation for reserved categories will be applicable as per Government of India guidelines.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Category</th>
+
+<th>Age Limit</th>
+
+</tr>
+
+<tr>
+
+<td>Junior Technician</td>
+
+<td>As Per Notification</td>
+
+</tr>
+
+<tr>
+
+<td>Managerial Posts</td>
+
+<td>Up to 30–35 Years (Post Wise)</td>
+
+</tr>
+
+<tr>
+
+<td>Reserved Categories</td>
+
+<td>Age Relaxation Applicable</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Remuneration
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive an attractive monthly remuneration along with Industrial Dearness Allowance (IDA) and other admissible benefits according to the applicable company rules. :contentReference[oaicite:1]{index=1}
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Post</th>
+
+<th>Monthly Salary</th>
+
+</tr>
+
+<tr>
+
+<td>Junior Technician</td>
+
+<td>₹21,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Junior Manager</td>
+
+<td>₹30,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Manager</td>
+
+<td>₹40,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy Manager</td>
+
+<td>₹50,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Senior Manager</td>
+
+<td>₹70,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy General Manager</td>
+
+<td>₹80,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Additional General Manager</td>
+
+<td>₹1,00,000 + IDA + Allowances</td>
+
+</tr>
+
+<tr>
+
+<td>Consultant</td>
+
+<td>₹1,20,000 + IDA + Allowances</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection procedure will vary according to the nature of the post. Candidates may be shortlisted through written examination, trade test or interview followed by document verification and medical examination. :contentReference[oaicite:2]{index=2}
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Written Examination / Computer Based Test</li>
+
+<li>Trade Test (For Technician Posts)</li>
+
+<li>Interview (For Managerial Posts)</li>
+
+<li>Document Verification</li>
+
+<li>Medical Examination</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online?
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official AVNL website.</li>
+
+<li>Open the Careers / Recruitment section.</li>
+
+<li>Select the relevant recruitment advertisement.</li>
+
+<li>Complete the online registration.</li>
+
+<li>Fill in the application form carefully.</li>
+
+<li>Upload the required documents.</li>
+
+<li>Submit the application.</li>
+
+<li>Download and print the final application form.</li>
+
+</ol>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;">
+
+<tr>
+
+<th>Purpose</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Apply Online</td>
+
+<td>Available Soon</td>
+
+</tr>
+
+<tr>
+
+<td>Short Notification PDF</td>
+
+<td><a href="https://www.avnl.co.in" target="_blank">Download Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://www.avnl.co.in" target="_blank">www.avnl.co.in</a></td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available in AVNL Recruitment 2026?</h3>
+
+<p>A total of <strong>1,213 vacancies</strong> have been announced under Executive and Non-Executive categories.</p>
+
+<h3>2. Which is the highest vacancy post?</h3>
+
+<p>The Junior Technician post has the highest number of vacancies with <strong>1,005 posts</strong>.</p>
+
+<h3>3. What is the application mode?</h3>
+
+<p>The application process will be conducted completely online through the AVNL official website.</p>
+
+<h3>4. What qualifications are required?</h3>
+
+<p>Candidates possessing 10th, ITI, Diploma, B.E., B.Tech, MBA and other relevant qualifications can apply depending on the post.</p>
+
+<h3>5. What is the last date to apply?</h3>
+
+<p>The last date will be <strong>15 days from activation of the online application link.</strong></p>
+
+<h3>6. Is there any written examination?</h3>
+
+<p>Yes. Depending upon the post, candidates may have to appear for a Written Test, Trade Test or Interview.</p>
+
+<h3>7. What salary will selected candidates receive?</h3>
+
+<p>Monthly remuneration ranges from <strong>₹21,000 to ₹1,20,000</strong> plus IDA and other allowances.</p>
+
+<h3>8. Will there be a medical examination?</h3>
+
+<p>Yes. Candidates qualifying the selection stages will undergo medical examination before final appointment.</p>
+
+<h3>9. Where can I download the notification?</h3>
+
+<p>The official notification can be downloaded from the AVNL official website.</p>
+
+<h3>10. Is this a permanent job?</h3>
+
+<p>The recruitment is being conducted for Executive and Non-Executive posts on Fixed Term / Contract basis as mentioned in the notification.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The AVNL Executive & Non-Executive Recruitment 2026 provides an excellent opportunity for candidates seeking careers in India's defence manufacturing sector. Interested applicants should regularly visit the official AVNL website for activation of the online application link, detailed eligibility conditions and further recruitment updates.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 AVNL Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Apply online after the registration link becomes active and complete your application before the closing date.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>IOCL Apprentice Recruitment 2026</li>
+
+<li>Indian Navy Agniveer Recruitment 2026</li>
+
+<li>RCFL Various Posts Recruitment 2026</li>
+
+<li>ISRO ISTRAC Recruitment 2026</li>
+
+<li>Bank of India Credit Officer Recruitment 2026</li>
+
+</ul>
+
+`;
 JOB_CONTENT["iocl-apprentice-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
