@@ -3,6 +3,7 @@
 const RESULT_CONTENT = {};
 
 
+
 RESULT_CONTENT["up-home-guard-result-2026"] = `
 
 <h1>UP Home Guard Result 2026 Out – Download Scorecard & Merit List at uppbpb.gov.in</h1>
