@@ -122,6 +122,9 @@ secBox("🗓️ Exam Calendar",[
 // ROW 3
 // ===============================
 
+renderLeftSidebar();
+renderRightSidebar();
+
 document.getElementById("row4").innerHTML =
 
 secBox(
