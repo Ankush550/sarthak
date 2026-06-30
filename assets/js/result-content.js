@@ -192,7 +192,7 @@ rpsc.rajasthan.gov.in
 
 <li>The <strong>RPSC ASO Main Merit List 2026</strong> is provisional and subject to verification of eligibility, original documents and other recruitment conditions prescribed by the Commission. :contentReference[oaicite:0]{index=0}</li>
 
-<li>Candidates whose Roll Number appears in the Main Merit List will be considered for the next stage of the recruitment process, including Document Verification. :contentReference[oaicite:1]{index=1}</li>
+<li>Candidates whose Roll Number appears in the Main Merit List will be considered for the next stage of the recruitment process, including Document Verification.  </li>
 
 <li>Document Verification schedule, venue and reporting instructions will be published separately on the official RPSC website. Candidates should regularly visit the portal for updates. :contentReference[oaicite:2]{index=2}</li>
 
@@ -626,7 +626,7 @@ RESULT_CONTENT["rssb-4th-grade-revised-result-2026"] = `
 <p>The <strong>Rajasthan Staff Selection Board (RSSB)</strong> has officially released the <strong>RSSB 4th Grade Revised Result 2026</strong> on <strong>29 June 2026</strong>. Candidates who appeared in the Rajasthan Fourth Grade (Class IV Employee) Recruitment Examination can now download the revised merit list PDF and check their qualifying status through the official website <strong>rssb.rajasthan.gov.in</strong>. The revised result has been prepared after updating the merit list based on the board's latest evaluation. :contentReference[oaicite:0]{index=0}</p>
 
 <div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-<strong>⚠️ Important:</strong> This is a <strong>Revised Merit List</strong>. Candidates shortlisted in the revised result will be considered for the next stage of the recruitment process as per the latest notification issued by RSSB. :contentReference[oaicite:1]{index=1}
+<strong>⚠️ Important:</strong> This is a <strong>Revised Merit List</strong>. Candidates shortlisted in the revised result will be considered for the next stage of the recruitment process as per the latest notification issued by RSSB.  
 </div>
 
 <h2>RSSB 4th Grade Revised Result 2026 – Overview</h2>
@@ -776,7 +776,7 @@ rssb.rajasthan.gov.in
 
 <li>Candidates whose Roll Number appears in the revised merit list will be considered for the next stage of the recruitment process as per RSSB rules.</li>
 
-<li>Document Verification dates and venue details will be published separately on the official RSSB website. Candidates will not receive individual intimation through post. :contentReference[oaicite:1]{index=1}</li>
+<li>Document Verification dates and venue details will be published separately on the official RSSB website. Candidates will not receive individual intimation through post.  </li>
 
 <li>Carry all original educational certificates, caste certificate (if applicable), domicile certificate, Aadhaar Card and other required documents during Document Verification.</li>
 
@@ -851,7 +851,7 @@ rssb.rajasthan.gov.in
 <h3>Q1. RSSB 4th Grade Revised Result 2026 kab release hua?</h3>
 
 <p>
-RSSB ne <strong>29 June 2026</strong> ko Fourth Grade Recruitment ka Revised Result aur Revised Merit List official website par release kiya hai. :contentReference[oaicite:2]{index=2}
+RSSB ne <strong>29 June 2026</strong> ko Fourth Grade Recruitment ka Revised Result aur Revised Merit List official website par release kiya hai. 
 </p>
 
 <h3>Q2. Revised Result kaise download kare?</h3>
@@ -863,7 +863,7 @@ Official website <strong>rssb.rajasthan.gov.in</strong> par jaakar Result sectio
 <h3>Q3. Revised Result ke baad next process kya hoga?</h3>
 
 <p>
-Shortlisted candidates ko Document Verification ke liye bulaya jayega. DV schedule alag se RSSB dwara official website par publish kiya jayega. :contentReference[oaicite:3]{index=3}
+Shortlisted candidates ko Document Verification ke liye bulaya jayega. DV schedule alag se RSSB dwara official website par publish kiya jayega.
 </p>
 
 <h3>Q4. Kya Revised Merit List hi final selection hai?</h3>

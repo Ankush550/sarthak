@@ -447,7 +447,7 @@ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has released a short notifi
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-The recruitment includes opportunities for Junior Engineers, Junior Accountants, Junior Assistants, Commercial Assistants and various technical positions. Candidates possessing ITI, Diploma, Engineering Degrees, B.Com, MBA and Graduation qualifications will be eligible to apply according to the post-specific requirements mentioned in the detailed notification. :contentReference[oaicite:1]{index=1}
+The recruitment includes opportunities for Junior Engineers, Junior Accountants, Junior Assistants, Commercial Assistants and various technical positions. Candidates possessing ITI, Diploma, Engineering Degrees, B.Com, MBA and Graduation qualifications will be eligible to apply according to the post-specific requirements mentioned in the detailed notification. 
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -455,7 +455,7 @@ This recruitment is expected to become one of the largest government job opportu
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-Selected candidates will receive attractive salary packages, government allowances, job security and career growth opportunities under Rajasthan State Power Companies. Interested applicants should regularly visit the official website for detailed notification updates and application schedules. :contentReference[oaicite:2]{index=2}
+Selected candidates will receive attractive salary packages, government allowances, job security and career growth opportunities under Rajasthan State Power Companies. Interested applicants should regularly visit the official website for detailed notification updates and application schedules.
 </p>
 
 <h2>Important Dates</h2>
@@ -607,7 +607,7 @@ The recruitment will be conducted for multiple Rajasthan government power sector
 </table>
 
 <p style="font-size:20px;line-height:1.8;">
-Age relaxation for SC, ST, OBC, EWS, Women, Ex-Servicemen and other reserved categories will be applicable as per Rajasthan Government recruitment rules. Detailed age relaxation information will be available in the detailed notification. :contentReference[oaicite:3]{index=3}
+Age relaxation for SC, ST, OBC, EWS, Women, Ex-Servicemen and other reserved categories will be applicable as per Rajasthan Government recruitment rules. Detailed age relaxation information will be available in the detailed notification.
 </p>
 
 <h2>Salary Structure</h2>
@@ -1760,7 +1760,7 @@ The Indian Navy has released the official notification for Short Service Commiss
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-This recruitment provides a golden opportunity for talented graduates and engineers who aspire to serve the nation as commissioned officers in one of the world's most respected naval forces. Selected candidates will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala before being commissioned as officers in the Indian Navy. :contentReference[oaicite:1]{index=1}
+This recruitment provides a golden opportunity for talented graduates and engineers who aspire to serve the nation as commissioned officers in one of the world's most respected naval forces. Selected candidates will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala before being commissioned as officers in the Indian Navy.
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -1886,7 +1886,7 @@ SSC Officers perform leadership roles in various branches and contribute signifi
 <h2>Age Limit</h2>
 
 <p style="font-size:20px;line-height:1.8;">
-Age eligibility varies according to branch and entry. Candidates should refer to the official notification for branch-wise date of birth requirements. Generally, applicants should fall within the prescribed birth date range specified by the Indian Navy for the June 2027 course. :contentReference[oaicite:2]{index=2}
+Age eligibility varies according to branch and entry. Candidates should refer to the official notification for branch-wise date of birth requirements. Generally, applicants should fall within the prescribed birth date range specified by the Indian Navy for the June 2027 course.
 </p>
 
 <h2>Salary & Allowances</h2>
@@ -2641,7 +2641,7 @@ NIACL has announced apprentice vacancies across multiple states and union territ
 <h2>Regional Language Requirement</h2>
 
 <p style="font-size:20px;line-height:1.8;">
-Candidates applying for apprenticeship training must possess proficiency in the regional language of the state for which they are applying. NIACL may conduct a Regional Language Test after the online examination. Candidates unable to demonstrate language proficiency may not be considered for final engagement. :contentReference[oaicite:1]{index=1}
+Candidates applying for apprenticeship training must possess proficiency in the regional language of the state for which they are applying. NIACL may conduct a Regional Language Test after the online examination. Candidates unable to demonstrate language proficiency may not be considered for final engagement. 
 </p>
 
 <h2>Roles and Responsibilities of NIACL Apprentices</h2>
@@ -2670,7 +2670,7 @@ Although apprenticeship training does not guarantee permanent employment, candid
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-Many candidates use apprenticeship programmes as a stepping stone towards competitive examinations and regular recruitment opportunities in the banking and insurance sectors. The experience gained during the training period enhances professional skills and improves employability. :contentReference[oaicite:2]{index=2}
+Many candidates use apprenticeship programmes as a stepping stone towards competitive examinations and regular recruitment opportunities in the banking and insurance sectors. The experience gained during the training period enhances professional skills and improves employability.
 </p>
 
 <h2>Why Choose NIACL?</h2>
@@ -2712,17 +2712,17 @@ The New India Assurance Company Limited is India's largest public sector general
 
 <div class="faq-box">
 <h3>Q12. What is the monthly stipend?</h3>
-<p>Selected apprentices will receive ₹12,300 per month. :contentReference[oaicite:3]{index=3}</p>
+<p>Selected apprentices will receive ₹12,300 per month. </p>
 </div>
 
 <div class="faq-box">
 <h3>Q13. What is the exam date?</h3>
-<p>The online examination is scheduled for 12 July 2026. :contentReference[oaicite:4]{index=4}</p>
+<p>The online examination is scheduled for 12 July 2026. </p>
 </div>
 
 <div class="faq-box">
 <h3>Q14. Is NATS registration mandatory?</h3>
-<p>Yes, eligible candidates are required to complete registration through the apprenticeship portal before applying. :contentReference[oaicite:5]{index=5}</p>
+<p>Yes, eligible candidates are required to complete registration through the apprenticeship portal before applying. </p>
 </div>
 
 <div class="faq-box">
@@ -5574,7 +5574,7 @@ margin:0;
 
 <div class="faq-box">
 <h3>Q10. Where can selected candidates be posted?</h3>
-<p>Selected candidates may be posted in ESIC Medical Colleges and PGIMSR institutions across India. :contentReference[oaicite:1]{index=1}</p>
+<p>Selected candidates may be posted in ESIC Medical Colleges and PGIMSR institutions across India. </p>
 </div>
 
 `;

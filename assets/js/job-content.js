@@ -43,7 +43,7 @@ Armoured Vehicles Nigam Limited (AVNL), a Defence Public Sector Undertaking func
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
-This recruitment presents an excellent opportunity for candidates holding qualifications such as <strong>10th Pass, ITI, Diploma, B.E., B.Tech, MBA</strong> and other equivalent professional qualifications. The detailed notification containing eligibility criteria, reservation details and online application procedure will be made available on the official AVNL website along with the activation of the application link. :contentReference[oaicite:1]{index=1}
+This recruitment presents an excellent opportunity for candidates holding qualifications such as <strong>10th Pass, ITI, Diploma, B.E., B.Tech, MBA</strong> and other equivalent professional qualifications. The detailed notification containing eligibility criteria, reservation details and online application procedure will be made available on the official AVNL website along with the activation of the application link.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -360,7 +360,7 @@ Salary / Remuneration
 </h2>
 
 <p style="font-size:20px;line-height:1.9;">
-Selected candidates will receive an attractive monthly remuneration along with Industrial Dearness Allowance (IDA) and other admissible benefits according to the applicable company rules. :contentReference[oaicite:1]{index=1}
+Selected candidates will receive an attractive monthly remuneration along with Industrial Dearness Allowance (IDA) and other admissible benefits according to the applicable company rules.  
 </p>
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -659,7 +659,7 @@ and applications will be accepted until
 <strong>28 July 2026 (05:00 PM)</strong>.
 Candidates having qualifications such as
 <strong>12th Pass, ITI, Diploma or Graduation</strong>
-can apply according to the respective apprentice discipline mentioned in the notification. :contentReference[oaicite:1]{index=1}
+can apply according to the respective apprentice discipline mentioned in the notification.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -873,7 +873,7 @@ Age Limit
 </h2>
 
 <p style="font-size:20px;line-height:1.9;">
-The minimum age required to apply is <strong>18 years</strong> and the maximum age is <strong>24 years</strong> as on the cut-off date mentioned in the notification. Age relaxation will be applicable for SC, ST, OBC (NCL), PwBD and other reserved categories as per Government of India rules. :contentReference[oaicite:1]{index=1}
+The minimum age required to apply is <strong>18 years</strong> and the maximum age is <strong>24 years</strong> as on the cut-off date mentioned in the notification. Age relaxation will be applicable for SC, ST, OBC (NCL), PwBD and other reserved categories as per Government of India rules.  
 </p>
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -3941,7 +3941,7 @@ ISRO ISTRAC Recruitment 2026 Notification Out for 26 Technician, Technical Assis
 </h2>
 
 <p style="font-size:20px;line-height:1.8;">
-The Indian Space Research Organisation (ISRO) has officially released the <strong>ISRO ISTRAC Recruitment 2026 Notification</strong> under Advertisement No. <strong>ISTRAC-02:2026</strong>. Through this recruitment drive, the ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru is inviting online applications for <strong>26 vacancies</strong> across various technical, scientific and support positions including Technician-B, Technical Assistant, Scientific Assistant, Library Assistant and Cook-A. The online application process started on <strong>27 June 2026</strong> and eligible candidates can submit their applications until <strong>20 July 2026</strong>. :contentReference[oaicite:1]{index=1}
+The Indian Space Research Organisation (ISRO) has officially released the <strong>ISRO ISTRAC Recruitment 2026 Notification</strong> under Advertisement No. <strong>ISTRAC-02:2026</strong>. Through this recruitment drive, the ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru is inviting online applications for <strong>26 vacancies</strong> across various technical, scientific and support positions including Technician-B, Technical Assistant, Scientific Assistant, Library Assistant and Cook-A. The online application process started on <strong>27 June 2026</strong> and eligible candidates can submit their applications until <strong>20 July 2026</strong>.  
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -4156,7 +4156,7 @@ Selection Process
 </h2>
 
 <p style="font-size:20px;line-height:1.8;">
-The selection procedure may differ depending upon the post applied for. Generally, ISRO follows a transparent recruitment process consisting of a Written Examination followed by Skill Test or Interview wherever applicable. Final selection is prepared purely on merit and document verification. :contentReference[oaicite:1]{index=1}
+The selection procedure may differ depending upon the post applied for. Generally, ISRO follows a transparent recruitment process consisting of a Written Examination followed by Skill Test or Interview wherever applicable. Final selection is prepared purely on merit and document verification.  
 </p>
 
 <ul style="font-size:20px;line-height:2;">
@@ -4772,7 +4772,7 @@ AIIMS Common Recruitment Examination (CRE)-5 is a centralized recruitment proces
 <h3>2. How many vacancies are available in AIIMS CRE-5 Recruitment 2026?</h3>
 
 <p>
-The recruitment notification announces <strong>1484 vacancies</strong> for multiple Group B and Group C posts in different departments including technical, administrative, nursing, engineering, laboratory and other healthcare-related positions. :contentReference[oaicite:1]{index=1}
+The recruitment notification announces <strong>1484 vacancies</strong> for multiple Group B and Group C posts in different departments including technical, administrative, nursing, engineering, laboratory and other healthcare-related positions.  
 </p>
 
 <h3>3. What is the last date to apply online?</h3>
@@ -5284,7 +5284,7 @@ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has released a short notifi
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-The recruitment includes opportunities for Junior Engineers, Junior Accountants, Junior Assistants, Commercial Assistants and various technical positions. Candidates possessing ITI, Diploma, Engineering Degrees, B.Com, MBA and Graduation qualifications will be eligible to apply according to the post-specific requirements mentioned in the detailed notification. :contentReference[oaicite:1]{index=1}
+The recruitment includes opportunities for Junior Engineers, Junior Accountants, Junior Assistants, Commercial Assistants and various technical positions. Candidates possessing ITI, Diploma, Engineering Degrees, B.Com, MBA and Graduation qualifications will be eligible to apply according to the post-specific requirements mentioned in the detailed notification.  
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -6597,7 +6597,7 @@ The Indian Navy has released the official notification for Short Service Commiss
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
-This recruitment provides a golden opportunity for talented graduates and engineers who aspire to serve the nation as commissioned officers in one of the world's most respected naval forces. Selected candidates will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala before being commissioned as officers in the Indian Navy. :contentReference[oaicite:1]{index=1}
+This recruitment provides a golden opportunity for talented graduates and engineers who aspire to serve the nation as commissioned officers in one of the world's most respected naval forces. Selected candidates will undergo professional military training at the prestigious Indian Naval Academy (INA), Ezhimala, Kerala before being commissioned as officers in the Indian Navy.  
 </p>
 
 <p style="font-size:20px;line-height:1.8;">
@@ -7478,7 +7478,7 @@ NIACL has announced apprentice vacancies across multiple states and union territ
 <h2>Regional Language Requirement</h2>
 
 <p style="font-size:20px;line-height:1.8;">
-Candidates applying for apprenticeship training must possess proficiency in the regional language of the state for which they are applying. NIACL may conduct a Regional Language Test after the online examination. Candidates unable to demonstrate language proficiency may not be considered for final engagement. :contentReference[oaicite:1]{index=1}
+Candidates applying for apprenticeship training must possess proficiency in the regional language of the state for which they are applying. NIACL may conduct a Regional Language Test after the online examination. Candidates unable to demonstrate language proficiency may not be considered for final engagement.  
 </p>
 
 <h2>Roles and Responsibilities of NIACL Apprentices</h2>
@@ -10411,7 +10411,7 @@ margin:0;
 
 <div class="faq-box">
 <h3>Q10. Where can selected candidates be posted?</h3>
-<p>Selected candidates may be posted in ESIC Medical Colleges and PGIMSR institutions across India. :contentReference[oaicite:1]{index=1}</p>
+<p>Selected candidates may be posted in ESIC Medical Colleges and PGIMSR institutions across India.  </p>
 </div>
 
 `;

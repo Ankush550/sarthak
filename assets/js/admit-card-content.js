@@ -1124,7 +1124,7 @@ The <strong>RRB JE CBT 2 Admit Card 2026</strong> has been released by the Railw
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
-The CBT 2 examination is scheduled to be conducted on <strong>02 July 2026</strong> for recruitment to the posts of <strong>Junior Engineer (JE), Depot Material Superintendent (DMS) and Chemical & Metallurgical Assistant (CMA)</strong>. Candidates should download the admit card in advance and carefully verify their examination city, reporting time, shift details and examination centre address before the exam day. :contentReference[oaicite:1]{index=1}
+The CBT 2 examination is scheduled to be conducted on <strong>02 July 2026</strong> for recruitment to the posts of <strong>Junior Engineer (JE), Depot Material Superintendent (DMS) and Chemical & Metallurgical Assistant (CMA)</strong>. Candidates should download the admit card in advance and carefully verify their examination city, reporting time, shift details and examination centre address before the exam day.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -1668,7 +1668,7 @@ The <strong>UPTET Admit Card 2026</strong> has been released by the Uttar Prades
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
-The UPTET 2026 examination for <strong>Paper I (Primary Level)</strong> and <strong>Paper II (Upper Primary Level)</strong> will be conducted from <strong>02 July to 04 July 2026</strong> at various examination centres across Uttar Pradesh. Candidates should carefully check the allotted exam date, reporting time, examination centre and important instructions mentioned on the admit card before appearing for the examination. :contentReference[oaicite:1]{index=1}
+The UPTET 2026 examination for <strong>Paper I (Primary Level)</strong> and <strong>Paper II (Upper Primary Level)</strong> will be conducted from <strong>02 July to 04 July 2026</strong> at various examination centres across Uttar Pradesh. Candidates should carefully check the allotted exam date, reporting time, examination centre and important instructions mentioned on the admit card before appearing for the examination.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -2177,7 +2177,7 @@ The <strong>GSSSB Laboratory Assistant Admit Card 2026</strong> has been officia
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
-The Computer Based Recruitment Test (CBRT) is scheduled to be conducted on <strong>05 July 2026</strong>. Every candidate must carry a printed copy of the admit card along with a valid photo identity proof to the examination centre. Without these documents, entry into the examination hall will not be permitted. :contentReference[oaicite:1]{index=1}
+The Computer Based Recruitment Test (CBRT) is scheduled to be conducted on <strong>05 July 2026</strong>. Every candidate must carry a printed copy of the admit card along with a valid photo identity proof to the examination centre. Without these documents, entry into the examination hall will not be permitted.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -2349,7 +2349,7 @@ The <strong>DSSSB Forest Guard Admit Card 2026</strong> has been released by the
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
-According to the official examination schedule, the DSSSB Forest Guard CBT will be conducted from <strong>07 July 2026 to 14 July 2026</strong> in multiple shifts at various examination centres. Candidates should carefully check their allotted exam date, reporting time, shift and examination venue mentioned on the admit card before the exam day. :contentReference[oaicite:1]{index=1}
+According to the official examination schedule, the DSSSB Forest Guard CBT will be conducted from <strong>07 July 2026 to 14 July 2026</strong> in multiple shifts at various examination centres. Candidates should carefully check their allotted exam date, reporting time, shift and examination venue mentioned on the admit card before the exam day.  
 </p>
 
 <p style="font-size:20px;line-height:1.9;">
