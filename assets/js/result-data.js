@@ -17,7 +17,7 @@ const RESULTS_DATA = [
     officialWebsite: "https://tnpsc.gov.in",
     notificationPdf: "",
     resultPdf: "",
-    image: "../images/results/tnpsc-group-2-result-2026.webp",
+    image: "TNPSC.jpeg",
     tags: [
         "TNPSC Group 2 Result 2026",
         "TNPSC Group 2 Mains Result",
@@ -43,7 +43,7 @@ const RESULTS_DATA = [
     officialWebsite: "https://rssb.rajasthan.gov.in",
     notificationPdf: "",
     resultPdf: "../notification/rssb-4th-grade-revised-result-2026.pdf",
-    image: "../images/results/rssb-4th-grade-result-2026.webp",
+    image: "RSSB.jpeg",
     tags: [
         "RSSB Result 2026",
         "4th Grade Result",
@@ -69,7 +69,7 @@ const RESULTS_DATA = [
     officialWebsite: "https://rpsc.rajasthan.gov.in",
     notificationPdf: "",
     resultPdf: "",
-    image: "../images/results/rpsc-aso-marks-2026.webp",
+    image: "RPSC ASO.jpeg",
     tags: [
         "RPSC ASO Marks",
         "RPSC ASO Score Card",
@@ -92,9 +92,10 @@ const RESULTS_DATA = [
     nextStage: "Final Selection",
     totalPosts: "43",
     officialWebsite: "https://rpsc.rajasthan.gov.in",
-    notificationPdf: "../notification/rpsc-aso-main-merit-list-2026.pdf",
-    resultPdf: "../notification/rpsc-aso-main-merit-list-2026.pdf",
-    image: "../images/results/rpsc-aso-merit-list-2026.webp",
+    notificationPdf: "../assets/notifications/merit-list.pdf",
+    posts: "RPSC ASO",
+    resultPdf: "../notification/Meritlist.pdf",
+    image: "RPSC ASO-MAIN.jpeg",
     tags: [
         "RPSC ASO Merit List",
         "RPSC ASO Result",
@@ -119,7 +120,7 @@ const RESULTS_DATA = [
     officialWebsite: "https://upsssc.gov.in",
     notificationPdf: "",
     resultPdf: "",
-    image: "../images/results/upsssc-aso-result-2026.webp",
+    image: "UPSSSC-ASO.jpeg",
     tags: [
         "UPSSSC ASO Result",
         "UPSSSC ARO Result",
