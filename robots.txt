@@ -1,20 +1,32 @@
+# ============================================================
+# SarthakYojana.in
+# Enterprise robots.txt
+# Last Updated: 30 June 2026
+# ============================================================
+
 User-agent: *
 Allow: /
+
+# Allow important folders
 Allow: /pages/
 Allow: /assets/
-Allow: /pages/jobs.html
-Allow: /pages/job-detail.html
-Allow: /pages/results.html
-Allow: /pages/schemes.html
-Allow: /pages/private-jobs.html
-Allow: /pages/job-finder.html
-Allow: /pages/sitemap.html
-Allow: /pages/about-us.html
-Allow: /pages/contact.html
-Allow: /pages/privacy-policy.html
-Allow: /pages/disclaimer.html
-Allow: /pages/terms-conditions.html
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
 
+# Block search pages with query parameters
 Disallow: /pages/search.html?q=
 
+# Block development/system folders (if they exist)
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /scripts/
+Disallow: /temp/
+Disallow: /backup/
+
+# Host
+Host: https://sarthakyojana.in
+
+# Sitemap
 Sitemap: https://sarthakyojana.in/sitemap.xml
