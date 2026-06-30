@@ -1,6 +1,302 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
+RESULT_CONTENT["upsssc-aso-mains-result-2026"] = `
+
+<div class="article-meta">
+  <strong>By SarthakYojana Editorial Team</strong> |
+  <time datetime="2026-06-30">Updated: 30 June 2026</time>
+</div>
+
+<h1>UPSSSC ASO Mains Result 2026 Out – Shortlisting Result Released for 1,565 Vacancies</h1>
+
+<p>The <strong>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</strong> has officially released the <strong>UPSSSC Assistant Statistical Officer (ASO) Mains Shortlisting Result 2026</strong> for candidates shortlisted to appear in the Main Examination. Candidates can now check whether they have qualified through the official website <strong>upsssc.gov.in</strong>. The shortlisting has been prepared based on the PET score and eligibility criteria prescribed by the Commission. :contentReference[oaicite:0]{index=0}</p>
+
+<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
+<strong>⚠️ Important:</strong> This is a <strong>Mains Shortlisting Result</strong>. Candidates whose Registration Number appears in the list will be eligible to appear for the UPSSSC ASO Main Written Examination. Final selection will be based on the Main Examination and Document Verification. :contentReference[oaicite:1]{index=1}
+</div>
+
+<h2>UPSSSC ASO Mains Result 2026 – Overview</h2>
+
+<table class="detail-table">
+<thead>
+<tr>
+<th>Particulars</th>
+<th>Details</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Organization</td>
+<td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</td>
+</tr>
+
+<tr>
+<td>Post Name</td>
+<td>Assistant Statistical Officer (ASO) / Assistant Research Officer (ARO)</td>
+</tr>
+
+<tr>
+<td>Advertisement No.</td>
+<td>05-Exam/2026</td>
+</tr>
+
+<tr>
+<td>Total Vacancies</td>
+<td>1,565 Posts</td>
+</tr>
+
+<tr>
+<td>Result Type</td>
+<td>Mains Shortlisting Result</td>
+</tr>
+
+<tr>
+<td>Result Date</td>
+<td>27 June 2026</td>
+</tr>
+
+<tr>
+<td>Next Stage</td>
+<td>Main Written Examination</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>UPSSSC ASO Mains Result 2026 – Direct Result Download</h2>
+
+<p>Candidates can use the links below to download the shortlisting result PDF and check their qualification status.</p>
+
+<table class="detail-table">
+
+<thead>
+
+<tr>
+
+<th>Particular</th>
+
+<th>Download</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td><strong>UPSSSC ASO Mains Shortlisting Result 2026</strong></td>
+
+<td>
+<a href="../assets/notifications/upsssc-aso-mains-result-2026.pdf"
+class="apply-small"
+download
+target="_blank">
+⬇ Download PDF
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td><strong>Official Result Page</strong></td>
+
+<td>
+<a href="https://upsssc.gov.in"
+class="apply-small"
+target="_blank">
+Check Result
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td><strong>Official Website</strong></td>
+
+<td>
+<a href="https://upsssc.gov.in"
+target="_blank"
+rel="nofollow noopener">
+upsssc.gov.in
+</a>
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>How to Check UPSSSC ASO Mains Result 2026 Online</h2>
+
+<ol>
+
+<li>Visit the official website at <strong>upsssc.gov.in</strong>.</li>
+
+<li>Open the <strong>Results</strong> section.</li>
+
+<li>Click on <strong>UPSSSC ASO Mains Shortlisting Result 2026</strong>.</li>
+
+<li>Download the Result PDF.</li>
+
+<li>Press <strong>Ctrl + F</strong> and search your Registration Number.</li>
+
+<li>Save the PDF for future reference and the Main Examination process.</li>
+
+</ol>
+
+<h2>Important Instructions for Shortlisted Candidates</h2>
+
+<ul>
+
+<li>The <strong>UPSSSC ASO Mains Shortlisting Result 2026</strong> has been prepared on the basis of candidates' performance in the Preliminary Eligibility Test (PET) and the eligibility criteria prescribed by the Commission.</li>
+
+<li>Only candidates whose Registration Number appears in the shortlisting result will be eligible to appear in the <strong>UPSSSC ASO Main Written Examination</strong>.</li>
+
+<li>The Main Examination date, admit card release schedule and examination centre details will be notified separately on the official website.</li>
+
+<li>Candidates should regularly visit <a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a> for the latest announcements regarding the Main Examination.</li>
+
+<li>Shortlisting for the Main Examination does not guarantee final selection. Candidates must qualify the Main Examination and complete Document Verification successfully.</li>
+
+</ul>
+
+<h2>UPSSSC ASO Recruitment 2026 – Important Timeline</h2>
+
+<table class="detail-table">
+
+<thead>
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Online Application Started</td>
+
+<td>April 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Apply</td>
+
+<td>May 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Mains Shortlisting Result</td>
+
+<td>27 June 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Main Examination Admit Card</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Main Written Examination</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+<tr>
+
+<td>Final Result</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2>FAQs – UPSSSC ASO Mains Result 2026</h2>
+
+<h3>Q1. UPSSSC ASO Mains Shortlisting Result 2026 kab release hua?</h3>
+
+<p><strong>UPSSSC ASO Mains Shortlisting Result 2026</strong> official website par <strong>27 June 2026</strong> ko release kiya gaya.</p>
+
+<h3>Q2. UPSSSC ASO Mains Shortlisting Result kaise download kare?</h3>
+
+<p>Official website <strong>upsssc.gov.in</strong> par jaakar <strong>Results</strong> section open karein aur Assistant Statistical Officer Mains Shortlisting Result PDF download karein. PDF me apna Registration Number search karke qualification status check kar sakte hain.</p>
+
+<h3>Q3. Shortlisting Result ke baad next process kya hoga?</h3>
+
+<p>Shortlisted candidates ko Main Written Examination ke liye admit card issue kiya jayega. Examination schedule Commission dwara alag se notify kiya jayega.</p>
+
+<h3>Q4. Kya Mains Shortlisting Result final selection hai?</h3>
+
+<p>Nahi. Yeh sirf Main Examination ke liye shortlisting hai. Final selection Main Written Examination, Document Verification aur recruitment rules ke anusaar kiya jayega.</p>
+
+<h2>More All Results 2026</h2>
+
+<div class="related-links">
+
+<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
+TNPSC Group 2 Mains Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
+RSSB 4th Grade Revised Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
+RPSC ASO Marks 2026 Released
+</a>
+
+<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
+RPSC ASO Main Merit List 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
+UPSSSC ASO Mains Result 2026 Out
+</a>
+
+<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
+UP Home Guard Result 2026
+<span class="new-tag">NEW</span>
+</a>
+
+<p style="margin-top:15px;">
+<a href="../results.html"><strong>View All »</strong></a>
+</p>
+
+</div>
+
+`;
 RESULT_CONTENT["rpsc-aso-main-merit-list-2026"] = `
 
 <div class="article-meta">
