@@ -1,5 +1,699 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["ngel-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-30">Published: 30 June 2026</time> |
+Updated: 30 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+NGEL Recruitment 2026 Notification Out – Apply Online for 114 Deputy General Manager, Assistant Manager & Other Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 NGEL Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>31 July 2026</strong>
+</p>
+
+<a href="https://www.ngel.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+NTPC Green Energy Limited (NGEL), a wholly owned subsidiary of NTPC Limited, has released the official <strong>NGEL Recruitment 2026 Notification</strong> for filling <strong>114 Executive vacancies</strong>. The recruitment includes Deputy General Manager, Assistant Manager and other technical and management positions in renewable energy projects across India.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates possessing qualifications such as <strong>B.E./B.Tech, CA, CMA, MBA and other relevant professional degrees</strong> can apply online according to the eligibility criteria prescribed for each post. NGEL is one of India's fastest-growing renewable energy companies and offers an excellent career opportunity for experienced professionals.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Interested candidates can submit their online applications through the official NGEL recruitment portal before the last date. Applicants should carefully read the notification regarding educational qualification, experience requirements, age limit, selection process and salary details before applying.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NGEL Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>NTPC Green Energy Limited (NGEL)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Deputy General Manager, Assistant Manager & Various Executive Posts</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>114</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>PSU Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>11 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Shortlisting, Interview & Document Verification</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.ngel.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Notification Released</td>
+
+<td>July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Online Application Starts</td>
+
+<td>11 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Last Date to Apply</td>
+
+<td>31 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Interview Schedule</td>
+
+<td>Will Be Notified</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NGEL Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+NGEL has announced <strong>114 vacancies</strong> across multiple executive positions. The recruitment aims to strengthen the company's renewable energy operations, engineering, finance, project execution and management departments.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Deputy General Manager</td>
+<td>Various</td>
+</tr>
+
+<tr>
+<td>Assistant Manager</td>
+<td>Various</td>
+</tr>
+
+<tr>
+<td>Other Executive Posts</td>
+<td>Various</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>114</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Join NGEL?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+NGEL is one of India's leading renewable energy companies working in solar, wind, green hydrogen and other sustainable energy projects. Employees receive competitive salary packages, excellent career growth opportunities, exposure to national-level infrastructure projects and the opportunity to contribute towards India's clean energy mission.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Leading Renewable Energy PSU</li>
+
+<li>Excellent Career Growth</li>
+
+<li>Competitive Salary Package</li>
+
+<li>Performance-based Benefits</li>
+
+<li>Professional Work Environment</li>
+
+<li>Learning & Development Opportunities</li>
+
+<li>Pan India Project Exposure</li>
+
+<li>Long-term Career Stability</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for NGEL Recruitment 2026 must possess the required educational qualification from a recognized University or Institution. The qualification and relevant post-qualification experience vary depending upon the post applied for. Applicants should carefully verify the eligibility criteria mentioned in the official notification before submitting the online application.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Deputy General Manager</td>
+<td>B.E./B.Tech or equivalent in the relevant discipline with required post-qualification experience.</td>
+</tr>
+
+<tr>
+<td>Assistant Manager</td>
+<td>B.E./B.Tech / MBA / CA / CMA or equivalent qualification depending on the discipline.</td>
+</tr>
+
+<tr>
+<td>Finance Posts</td>
+<td>CA / CMA / MBA (Finance) from a recognized institution.</td>
+</tr>
+
+<tr>
+<td>Engineering Posts</td>
+<td>B.E./B.Tech in Electrical, Mechanical, Civil, Electronics or relevant Engineering discipline.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Experience Requirement
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Since these are executive-level positions, candidates should possess the minimum post-qualification work experience prescribed for the respective post. Relevant experience in Power Sector, Renewable Energy Projects, Infrastructure, EPC, Solar, Wind or Green Hydrogen projects will be preferred wherever applicable.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The upper age limit varies according to the post applied for. Age relaxation will be applicable for reserved category candidates as per Government of India guidelines.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>Deputy General Manager</td>
+<td>Up to 44 Years</td>
+</tr>
+
+<tr>
+<td>Assistant Manager</td>
+<td>Up to 35 Years (Post-wise)</td>
+</tr>
+
+<tr>
+<td>Other Executive Posts</td>
+<td>As per Official Notification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>As per Government Rules</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>As per Government Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should refer to the official notification for complete details regarding the application fee, payment mode and fee exemption, if applicable.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>As per Official Notification</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>As per Official Notification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process for NGEL Recruitment 2026 consists of shortlisting eligible candidates based on qualifications and experience followed by Personal Interview. Final selection will be subject to successful document verification and medical fitness.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Application Screening</li>
+
+<li>Shortlisting</li>
+
+<li>Personal Interview</li>
+
+<li>Document Verification</li>
+
+<li>Medical Examination</li>
+
+<li>Final Merit List</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NGEL Salary 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive an attractive salary package according to the company pay structure. Apart from basic pay, employees will also be entitled to Industrial Dearness Allowance (IDA), House Rent Allowance (HRA), Medical Benefits, Performance Related Pay (PRP), Provident Fund, Gratuity, Leave Benefits and other admissible allowances.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Salary</th>
+</tr>
+
+<tr>
+<td>Assistant Manager</td>
+<td>₹30,000 – ₹1,20,000</td>
+</tr>
+
+<tr>
+<td>Deputy General Manager</td>
+<td>₹90,000 – ₹2,40,000</td>
+</tr>
+
+<tr>
+<td>Other Executive Posts</td>
+<td>As per Company Pay Scale</td>
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must keep the following documents ready while submitting the online application and during the document verification process. All uploaded documents should be clear and in the prescribed format mentioned in the official notification.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>10th Certificate (Date of Birth Proof)</li>
+
+<li>Graduation / Engineering Degree Certificate</li>
+
+<li>Experience Certificates</li>
+
+<li>Category Certificate (SC/ST/OBC/EWS), if applicable</li>
+
+<li>PwBD Certificate, if applicable</li>
+
+<li>Government-issued Photo Identity Proof (Aadhaar, PAN, Passport, Voter ID, etc.)</li>
+
+<li>Valid Mobile Number and Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for NGEL Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can apply online through the official NGEL website before the closing date. Applicants are advised to complete the registration process carefully and verify all information before final submission.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official NGEL website.</li>
+
+<li>Navigate to the Careers / Recruitment section.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Complete the online application form.</li>
+
+<li>Upload the required documents.</li>
+
+<li>Pay the application fee (if applicable).</li>
+
+<li>Review the application carefully.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and save the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Employee Benefits
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+NGEL provides an excellent working environment with attractive compensation packages and numerous employee welfare benefits. Employees also get opportunities to work on India's rapidly expanding renewable energy projects.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Industrial Dearness Allowance (IDA)</li>
+
+<li>Performance Related Pay (PRP)</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Medical Facilities</li>
+
+<li>Provident Fund</li>
+
+<li>Gratuity Benefits</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Group Insurance</li>
+
+<li>Career Growth Opportunities</li>
+
+<li>Professional Training Programmes</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth at NGEL
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+NTPC Green Energy Limited is one of India's fastest-growing renewable energy companies. Employees get opportunities to work on Solar Power Plants, Wind Energy Projects, Battery Energy Storage Systems, Green Hydrogen initiatives and other national infrastructure projects. Internal promotions, leadership development programmes and technical training help employees build long-term careers within the organization.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Read the official notification carefully before applying.</li>
+
+<li>Ensure all eligibility conditions are fulfilled.</li>
+
+<li>Use a valid email ID throughout the recruitment process.</li>
+
+<li>Upload only clear and valid documents.</li>
+
+<li>Keep the application number safely for future reference.</li>
+
+<li>Regularly check the official website for interview updates.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips for Interview
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted for the interview should revise their core engineering or management concepts, prepare current affairs related to the power and renewable energy sector, and strengthen their communication and technical presentation skills.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Revise technical fundamentals.</li>
+
+<li>Study renewable energy technologies.</li>
+
+<li>Prepare HR interview questions.</li>
+
+<li>Stay updated with NTPC & NGEL projects.</li>
+
+<li>Practice confidence and communication skills.</li>
+
+<li>Review your previous work experience thoroughly.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.ngel.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td><a href="https://www.ngel.in" target="_blank">Download PDF</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.ngel.in" target="_blank">www.ngel.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies have been announced under NGEL Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+NGEL has announced a total of <strong>114 vacancies</strong> for Deputy General Manager, Assistant Manager and other Executive posts.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date for submission of the online application is <strong>31 July 2026</strong>.
+</p>
+
+<h3>3. Who can apply for NGEL Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates possessing B.E./B.Tech, MBA, CA, CMA or other prescribed qualifications with relevant experience can apply according to the eligibility criteria for the respective post.
+</p>
+
+<h3>4. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process generally includes application screening, shortlisting, personal interview, document verification and medical examination.
+</p>
+
+<h3>5. Is work experience mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. Most executive posts require relevant post-qualification professional experience as specified in the official notification.
+</p>
+
+<h3>6. What is the salary offered?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The salary varies depending on the post and pay scale, ranging from approximately <strong>₹30,000 to ₹2,40,000</strong> along with applicable allowances.
+</p>
+
+<h3>7. Is this a permanent job?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will be appointed according to the recruitment rules and terms mentioned in the official notification.
+</p>
+
+<h3>8. Where will selected candidates be posted?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Posting can be anywhere in India depending upon organizational requirements and project locations.
+</p>
+
+<h3>9. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the official notification from the NGEL official website.
+</p>
+
+<h3>10. Why should I join NGEL?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+NGEL offers opportunities to work on India's leading renewable energy projects with excellent salary, career growth, professional development and exposure to large-scale green energy initiatives.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>NGEL Recruitment 2026</strong> provides an excellent opportunity for experienced professionals looking to build a career in India's rapidly expanding renewable energy sector. With <strong>114 Executive vacancies</strong>, attractive salary packages, career advancement opportunities and the chance to contribute to the nation's clean energy mission, this recruitment is expected to attract highly qualified candidates. Interested applicants should complete the online application before the last date and regularly visit the official website for further updates.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🌱 NGEL Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your application before <strong>31 July 2026</strong> and stay updated with interview schedules, document verification and final selection notifications.
+</p>
+
+<a href="https://www.ngel.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=rrb-technician-recruitment-2026">RRB Technician Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-cgl-recruitment-2026">SSC CGL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Recruitment 2026</a></li>
+
+</ul>
+
+`;
 JOB_CONTENT["rrb-technician-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
