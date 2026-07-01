@@ -1,4 +1,1141 @@
 const ADMIT_CARD_CONTENT = {};
+ADMIT_CONTENT["htet-admit-card-2026"] = `
+
+<nav style="font-size:16px;margin-bottom:15px;color:#666;">
+<a href="../index.html">Home</a> ›
+<a href="../admit-cards.html">Admit Cards</a> ›
+HTET Admit Card 2026
+</nav>
+
+<h2 style="font-size:34px;margin-bottom:15px;">
+HTET Admit Card 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-bottom:25px;">
+
+<tr>
+<th>Organization</th>
+<td>Board of School Education Haryana (BSEH)</td>
+</tr>
+
+<tr>
+<th>Admit Card</th>
+<td>HTET Admit Card 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>04 & 05 July 2026</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td>🟢 Released</td>
+</tr>
+
+</table>
+
+<!-- Advertisement -->
+
+<div class="ads-container" style="margin:30px 0;text-align:center;min-height:280px;">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta" style="font-size:22px;color:#666;margin-bottom:15px;padding-bottom:10px;border-bottom:5px solid #bb2424;">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-07-01">
+Published: 01 July 2026
+</time>
+
+|
+
+Updated: 01 July 2026
+
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+
+HTET Admit Card 2026 Out – Download Haryana TET Hall Ticket for Level 1, Level 2 & Level 3
+
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:30px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+
+📢 HTET Admit Card 2026 Released
+
+</h2>
+
+<p style="font-size:20px;margin-top:15px;">
+
+<strong>Status :</strong>
+
+<span style="color:green;font-weight:bold;">
+
+Hall Ticket Available for Download
+
+</span>
+
+</p>
+
+<p style="font-size:19px;">
+
+Exam Date :
+
+<strong>
+
+04 July & 05 July 2026
+
+</strong>
+
+</p>
+
+<a href="https://bseh.org.in"
+
+target="_blank"
+
+style="display:inline-block;margin-top:18px;background:#1565c0;color:#fff;padding:14px 34px;border-radius:6px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Download Admit Card →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+
+The <strong>Board of School Education Haryana (BSEH)</strong> has officially released the <strong>HTET Admit Card 2026</strong> for candidates appearing in the Haryana Teacher Eligibility Test (HTET). Applicants who successfully completed the online registration process can now download their hall ticket from the official website by using their Registration Number and Password or Date of Birth.
+
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+
+The Haryana Teacher Eligibility Test will be conducted on <strong>04 July 2026 and 05 July 2026</strong> for <strong>Level 1 (PRT), Level 2 (TGT) and Level 3 (PGT)</strong>. Every candidate must download the admit card before the examination date and carefully verify all personal as well as examination details mentioned on it.
+
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates should carry a printed copy of the HTET Hall Ticket along with a valid original photo identity proof while appearing for the examination. Entry into the examination centre will not be permitted without the required documents.
+
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+HTET Admit Card 2026 Overview
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Organisation</th>
+
+<td>Board of School Education Haryana (BSEH)</td>
+
+</tr>
+
+<tr>
+
+<th>Exam Name</th>
+
+<td>Haryana Teacher Eligibility Test (HTET) 2026</td>
+
+</tr>
+
+<tr>
+
+<th>Category</th>
+
+<td>Admit Card</td>
+
+</tr>
+
+<tr>
+
+<th>Admit Card Status</th>
+
+<td>Released</td>
+
+</tr>
+
+<tr>
+
+<th>Admit Card Release Date</th>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<th>Exam Date</th>
+
+<td>04 & 05 July 2026</td>
+
+</tr>
+
+<tr>
+
+<th>Exam Mode</th>
+
+<td>Offline (OMR Based)</td>
+
+</tr>
+
+<tr>
+
+<th>Levels</th>
+
+<td>Level 1 (PRT), Level 2 (TGT), Level 3 (PGT)</td>
+
+</tr>
+
+<tr>
+
+<th>Download Mode</th>
+
+<td>Online</td>
+
+</tr>
+
+<tr>
+
+<th>Official Website</th>
+
+<td>https://bseh.org.in</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Important Dates
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Released</td>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Admit Card Download Starts</td>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>HTET Examination</td>
+
+<td>04 & 05 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Login Credentials Required
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates should keep the following login credentials ready before downloading the HTET Hall Ticket.
+
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Registration Number</li>
+
+<li>Password OR Date of Birth</li>
+
+<li>Captcha Code</li>
+
+</ul>
+<!-- Advertisement -->
+
+<div class="ads-container" style="margin:30px 0;text-align:center;min-height:280px;">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+How to Download HTET Admit Card 2026?
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates can easily download the HTET Admit Card 2026 through the official Board of School Education Haryana (BSEH) website by following the steps given below.
+
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website <strong>https://bseh.org.in</strong>.</li>
+
+<li>Click on the <strong>HTET Admit Card 2026</strong> link available on the homepage.</li>
+
+<li>Enter your <strong>Registration Number</strong>.</li>
+
+<li>Enter your <strong>Password or Date of Birth</strong>.</li>
+
+<li>Complete the Captcha Verification.</li>
+
+<li>Click on the <strong>Login / Download Admit Card</strong> button.</li>
+
+<li>Your HTET Hall Ticket 2026 will appear on the screen.</li>
+
+<li>Download the PDF.</li>
+
+<li>Take multiple printouts for future use.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+HTET Exam Schedule 2026
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Exam Date</th>
+
+<th>Level</th>
+
+<th>Shift</th>
+
+<th>Timing</th>
+
+</tr>
+
+<tr>
+
+<td>04 July 2026</td>
+
+<td>Level-III (PGT)</td>
+
+<td>Evening</td>
+
+<td>03:00 PM – 05:30 PM</td>
+
+</tr>
+
+<tr>
+
+<td>05 July 2026</td>
+
+<td>Level-II (TGT)</td>
+
+<td>Morning</td>
+
+<td>10:00 AM – 12:30 PM</td>
+
+</tr>
+
+<tr>
+
+<td>05 July 2026</td>
+
+<td>Level-I (PRT)</td>
+
+<td>Evening</td>
+
+<td>03:00 PM – 05:30 PM</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Details Mentioned on HTET Admit Card 2026
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates should carefully verify every detail printed on their admit card immediately after downloading it.
+
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Candidate's Name</li>
+
+<li>Roll Number</li>
+
+<li>Application Number</li>
+
+<li>Photograph & Signature</li>
+
+<li>Date of Birth</li>
+
+<li>Category</li>
+
+<li>Exam Level (PRT / TGT / PGT)</li>
+
+<li>Exam Date</li>
+
+<li>Exam Shift</li>
+
+<li>Reporting Time</li>
+
+<li>Gate Closing Time</li>
+
+<li>Exam Centre Name</li>
+
+<li>Complete Exam Centre Address</li>
+
+<li>Important Instructions</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Documents Required on Examination Day
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates must carry the following documents while appearing for the HTET Examination.
+
+</p>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Document</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Printed HTET Admit Card 2026</td>
+
+<td>Mandatory</td>
+
+</tr>
+
+<tr>
+
+<td>Aadhaar Card</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>PAN Card</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>Voter ID Card</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>Driving Licence</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>Passport</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>Government Employee ID</td>
+
+<td>Accepted</td>
+
+</tr>
+
+<tr>
+
+<td>Passport Size Photograph</td>
+
+<td>Recommended</td>
+
+</tr>
+
+</table>
+
+<!-- Advertisement -->
+
+<div class="ads-container" style="margin:30px 0;text-align:center;min-height:280px;">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Browser Compatibility
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Browser</th>
+
+<th>Supported Version</th>
+
+</tr>
+
+<tr>
+
+<td>Google Chrome</td>
+
+<td>Latest Version</td>
+
+</tr>
+
+<tr>
+
+<td>Mozilla Firefox</td>
+
+<td>Latest Version</td>
+
+</tr>
+
+<tr>
+
+<td>Microsoft Edge</td>
+
+<td>Latest Version</td>
+
+</tr>
+
+<tr>
+
+<td>Safari</td>
+
+<td>Latest Version</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Compatible Devices
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Device</th>
+
+<th>Supported</th>
+
+</tr>
+
+<tr>
+
+<td>Android Mobile</td>
+
+<td>Android 8.0 & Above</td>
+
+</tr>
+
+<tr>
+
+<td>iPhone / iPad</td>
+
+<td>iOS 13 & Above</td>
+
+</tr>
+
+<tr>
+
+<td>Laptop / Desktop</td>
+
+<td>Windows / macOS (Latest Browsers)</td>
+
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+
+Important Instructions for Candidates
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates appearing for the Haryana Teacher Eligibility Test (HTET) 2026 should carefully read all the instructions mentioned on the admit card before the examination. Failure to follow the prescribed guidelines may lead to cancellation of candidature.
+
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Download the admit card well before the examination date.</li>
+
+<li>Carry a clear printed copy of the HTET Admit Card.</li>
+
+<li>Bring one original Government-issued Photo Identity Proof.</li>
+
+<li>Reach the examination centre at least 60 minutes before reporting time.</li>
+
+<li>Verify all details printed on the admit card carefully.</li>
+
+<li>Do not carry mobile phones, smart watches or any electronic gadgets.</li>
+
+<li>Follow all COVID/health guidelines (if applicable).</li>
+
+<li>Use only Blue/Black Ball Point Pen wherever instructed.</li>
+
+<li>Maintain discipline inside the examination hall.</li>
+
+<li>Follow all instructions issued by the invigilators.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Items Strictly Prohibited Inside Examination Hall
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Item</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Mobile Phone</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Smart Watch</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Bluetooth Device</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Calculator</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Books / Notes</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Electronic Gadgets</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Headphones / Earbuds</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+<tr>
+
+<td>Any Communication Device</td>
+
+<td>❌ Not Allowed</td>
+
+</tr>
+
+</table>
+
+<!-- Advertisement -->
+
+<div class="ads-container" style="margin:35px 0;text-align:center;min-height:280px;">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+What to Do If You Cannot Download the HTET Admit Card?
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+If you are unable to download the HTET Hall Ticket due to login or technical issues, follow the suggestions below before contacting the examination authority.
+
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Check whether your Registration Number is entered correctly.</li>
+
+<li>Verify your Password or Date of Birth carefully.</li>
+
+<li>Clear your browser cache and cookies.</li>
+
+<li>Try using Google Chrome or Microsoft Edge.</li>
+
+<li>Switch to another internet connection if required.</li>
+
+<li>Disable browser extensions or VPN services temporarily.</li>
+
+<li>Attempt downloading during non-peak hours.</li>
+
+<li>Contact the BSEH Helpdesk if the issue continues.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+HTET Examination Day Guidelines
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Guideline</th>
+
+<th>Requirement</th>
+
+</tr>
+
+<tr>
+
+<td>Reporting Time</td>
+
+<td>Reach at least 60 minutes before reporting time.</td>
+
+</tr>
+
+<tr>
+
+<td>Gate Closing</td>
+
+<td>No entry after gate closing time.</td>
+
+</tr>
+
+<tr>
+
+<td>Identity Verification</td>
+
+<td>Mandatory before entry.</td>
+
+</tr>
+
+<tr>
+
+<td>Biometric Verification</td>
+
+<td>If conducted by BSEH.</td>
+
+</tr>
+
+<tr>
+
+<td>Attendance Sheet</td>
+
+<td>Signature mandatory.</td>
+
+</tr>
+
+<tr>
+
+<td>OMR Sheet</td>
+
+<td>Fill details carefully.</td>
+
+</tr>
+
+<tr>
+
+<td>Rough Work</td>
+
+<td>Only on sheets provided by invigilator (if applicable).</td>
+
+</tr>
+
+<tr>
+
+<td>Exit from Hall</td>
+
+<td>Only after permission from invigilator.</td>
+
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Important Note
+
+</h2>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:20px;border-radius:6px;">
+
+<p style="font-size:20px;line-height:1.9;">
+
+The HTET Admit Card 2026 will <strong>not be sent by post, courier or email.</strong> Candidates must download the hall ticket online from the official BSEH website before the examination. If any discrepancy is found in the admit card, candidates should immediately contact the Board of School Education Haryana for necessary corrections before the examination date.
+
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Important Links
+
+</h2>
+
+<table class="table table-bordered"
+
+style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download HTET Admit Card 2026</td>
+
+<td><a href="https://bseh.org.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://bseh.org.in" target="_blank">Visit Website</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://bseh.org.in" target="_blank">View Notification</a></td>
+
+</tr>
+
+<tr>
+
+<td>Candidate Login</td>
+
+<td><a href="https://bseh.org.in" target="_blank">Login Here</a></td>
+
+</tr>
+
+</table>
+
+<!-- Advertisement -->
+
+<div class="ads-container" style="margin:35px 0;text-align:center;min-height:280px;">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Frequently Asked Questions (FAQs)
+
+</h2>
+
+<h3>1. When was the HTET Admit Card 2026 released?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+The HTET Admit Card 2026 was officially released on <strong>01 July 2026</strong> by the Board of School Education Haryana (BSEH).
+
+</p>
+
+<h3>2. What are the HTET Exam Dates 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+The HTET Examination 2026 will be conducted on <strong>04 July 2026 and 05 July 2026</strong> for PRT, TGT and PGT levels.
+
+</p>
+
+<h3>3. How can I download the HTET Admit Card?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Visit the official BSEH website, log in using your Registration Number and Password/Date of Birth, and download your admit card.
+
+</p>
+
+<h3>4. Which login credentials are required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates need their <strong>Registration Number</strong> and <strong>Password or Date of Birth</strong> to download the admit card.
+
+</p>
+
+<h3>5. What documents should I carry to the examination centre?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Carry a printed copy of the HTET Admit Card along with an original Government-issued Photo Identity Proof such as Aadhaar Card, PAN Card, Passport, Voter ID or Driving Licence.
+
+</p>
+
+<h3>6. Will the admit card be sent by post?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+No. The Board of School Education Haryana will not send the admit card through post, courier or any offline mode.
+
+</p>
+
+<h3>7. What should I do if there is an error in my admit card?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates should immediately contact the Board of School Education Haryana (BSEH) before the examination date to get the details corrected.
+
+</p>
+
+<h3>8. Is a colour printout of the admit card mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+A clear printout is mandatory. A colour printout is recommended for better visibility, although candidates should follow any specific instructions issued by BSEH.
+
+</p>
+
+<h3>9. Can I carry my mobile phone inside the examination hall?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+No. Mobile phones, smart watches, Bluetooth devices, calculators and all electronic gadgets are strictly prohibited inside the examination hall.
+
+</p>
+
+<h3>10. Where can I download the HTET Hall Ticket 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+
+Candidates can download the HTET Hall Ticket through the official Board of School Education Haryana website.
+
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+
+Conclusion
+
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+
+The <strong>HTET Admit Card 2026</strong> has been released for candidates appearing in the Haryana Teacher Eligibility Test. Applicants should download their hall ticket as early as possible, verify all details carefully and carry all required documents to the examination centre. Candidates are advised to reach the venue well before the reporting time and strictly follow all examination instructions issued by the Board of School Education Haryana.
+
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+
+📥 Download HTET Admit Card 2026
+
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+
+Download your Hall Ticket before the examination date and carefully verify your exam centre, reporting time and personal details.
+
+</p>
+
+<a href="https://bseh.org.in"
+
+target="_blank"
+
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Download Admit Card
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:45px;">
+
+Related Admit Cards
+
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=admit&id=hprca-computer-teacher-admit-card-2026">HPRCA Computer Teacher Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=rrb-je-cbt-2-admit-card-2026">RRB JE CBT 2 Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=ssc-cgl-tier-1-admit-card-2026">SSC CGL Tier 1 Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=ibps-po-prelims-admit-card-2026">IBPS PO Prelims Admit Card 2026</a></li>
+
+<li><a href="../item-detail.html?type=admit&id=aiims-paramedical-admit-card-2026">AIIMS Paramedical Admit Card 2026</a></li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:45px;">
+
+More Admit Cards 2026
+
+</h2>
+
+<div class="related-grid">
+
+<ul style="font-size:20px;line-height:2;columns:2;">
+
+<li>HPRCA Computer Teacher Admit Card 2026</li>
+
+<li>RRB JE CBT 2 Admit Card 2026</li>
+
+<li>SSC CGL Tier 1 Admit Card 2026</li>
+
+<li>IBPS PO Prelims Admit Card 2026</li>
+
+<li>IBPS SO Admit Card 2026</li>
+
+<li>AIIMS Paramedical Admit Card 2026</li>
+
+<li>DSSSB Admit Card 2026</li>
+
+<li>UPTET Admit Card 2026</li>
+
+<li>RSSB LDC Admit Card 2026</li>
+
+<li>View All Admit Cards »</li>
+
+</ul>
+
+</div>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong>
+
+The information provided on this page is for educational and informational purposes only. Candidates are advised to verify all examination details, reporting time, examination centre, admit card status and instructions from the official Board of School Education Haryana (BSEH) website before appearing for the examination.
+
+</div>
+
+`;
 ADMIT_CARD_CONTENT["mmu-et-admit-card-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

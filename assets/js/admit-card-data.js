@@ -1,4 +1,31 @@
 const ADMIT_CARDS_DATA = [
+  
+  {
+    id: "htet-admit-card-2026",
+    title: "HTET Admit Card 2026",
+    organization: "Board of School Education Haryana (BSEH)",
+    examName: "Haryana Teacher Eligibility Test (HTET) 2026",
+    postName: "PRT (Level 1), TGT (Level 2) & PGT (Level 3)",
+    advertisementNo: "HTET 2026",
+    category: "Admit Card",
+    examLevel: "State Level Eligibility Test",
+    examMode: "Offline (OMR Based)",
+    location: "Haryana",
+    admitCardDate: "01 July 2026",
+    examDate: "04 July 2026 & 05 July 2026",
+    lastDownloadDate: "Till Examination Date",
+    downloadMode: "Online",
+    officialWebsite: "https://bseh.org.in",
+    admitCardLink: "https://bseh.org.in",
+    image: "HTET-Admit-Card-2026.jpeg",
+    featured: true,
+    status: "Hall Ticket Released",
+    views: 0,
+    publishedDate: "2026-07-01",
+    seoTitle: "HTET Admit Card 2026 Out – Download Haryana TET Hall Ticket for Level 1, 2 & 3",
+    seoDescription: "HTET Admit Card 2026 has been released by BSEH. Download Haryana Teacher Eligibility Test Hall Ticket for PRT, TGT and PGT examinations. Check exam date, shift timing, exam centre, documents required and important instructions.",
+    keywords: "HTET Admit Card 2026, Haryana TET Admit Card, HTET Hall Ticket 2026, BSEH HTET Admit Card, HTET Level 1 Admit Card, HTET Level 2 Admit Card, HTET Level 3 Admit Card, HTET Exam Date 2026"
+},
     {
     id:"mmu-et-admit-card-2026",
     title:"MMU ET Admit Card 2026",
