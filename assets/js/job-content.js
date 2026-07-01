@@ -1,6 +1,725 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["rrb-technician-recruitment-2026"] = `
 
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-30">Published: 30 June 2026</time> |
+Updated: 30 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+RRB Technician Recruitment 2026 Notification Out – Apply Online for 6557 Technician Grade-I Signal & Technician Grade-III Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 RRB Technician Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>29 July 2026</strong>
+</p>
+
+<a href="https://rrb.indianrailways.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The Railway Recruitment Boards (RRBs) have officially released the <strong>RRB Technician Recruitment 2026 Notification</strong> under <strong>CEN No. 02/2026</strong>. Through this recruitment drive, Indian Railways will recruit <strong>6,557 Technician Grade-I Signal and Technician Grade-III vacancies</strong> across various Railway Zones and Production Units. This is one of the biggest railway recruitment drives of the year for candidates holding ITI, Diploma, B.Sc. and Engineering qualifications.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online application process commenced on <strong>30 June 2026</strong> and interested candidates can submit their applications until <strong>29 July 2026</strong>. Eligible applicants should carefully read the official notification regarding educational qualification, age limit, selection process, medical standards and application procedure before applying online.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will be appointed under the 7th Central Pay Commission and will receive attractive salary packages along with Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance, Railway Pass facilities, medical benefits and promotion opportunities. Candidates seeking a stable Central Government career in Indian Railways should not miss this opportunity.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRB Technician Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Railway Recruitment Boards (RRB)</td>
+</tr>
+
+<tr>
+<th>Notification No.</th>
+<td>CEN No. 02/2026</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Technician Grade-I Signal & Technician Grade-III</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>6,557</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Railway Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>30 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>29 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>CBT, Document Verification & Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://rrb.indianrailways.gov.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Starts</td>
+<td>30 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td>29 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Correction Window</td>
+<td>01–10 August 2026</td>
+</tr>
+
+<tr>
+<td>CBT Exam Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRB Technician Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Railway Recruitment Boards have announced a total of <strong>6,557 vacancies</strong> for Technician Grade-I Signal and Technician Grade-III posts. Vacancies are distributed across different Railway Zones and Production Units throughout India.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>323</td>
+</tr>
+
+<tr>
+<td>Technician Grade-III</td>
+<td>6,234</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>6,557</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Apply for RRB Technician Recruitment 2026?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The RRB Technician Recruitment is considered one of the most popular railway recruitments because it offers permanent Central Government employment, excellent career progression, attractive salary, pension benefits, medical facilities and nationwide posting opportunities. Every year lakhs of candidates compete for these vacancies due to the long-term career security offered by Indian Railways.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Permanent Central Government Job</li>
+
+<li>7th CPC Pay Scale</li>
+
+<li>Job Security</li>
+
+<li>Railway Medical Facilities</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Transport Allowance</li>
+
+<li>Railway Pass Facilities</li>
+
+<li>Promotion Opportunities</li>
+
+<li>Pension & Retirement Benefits</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for the RRB Technician Recruitment 2026 must possess the prescribed educational qualification on or before the closing date of application. The qualification differs according to the post applied for. Candidates should carefully verify their eligibility before submitting the online application form.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>B.Sc. (Physics / Electronics / Computer Science / Information Technology / Instrumentation) OR Diploma / Degree in Engineering in the relevant discipline from a recognized institution.</td>
+</tr>
+
+<tr>
+<td>Technician Grade-III</td>
+<td>Matriculation (10th Pass) with ITI (NCVT/SCVT) in the relevant trade OR Course Completed Act Apprenticeship (CCAA).</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates awaiting their final examination results are not eligible unless specifically permitted in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The age limit will be calculated according to the cut-off date mentioned in the official notification. Age relaxation will be applicable for reserved category candidates as per Government of India rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Minimum Age</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>18 Years</td>
+<td>33 Years</td>
+</tr>
+
+<tr>
+<td>Technician Grade-III</td>
+<td>18 Years</td>
+<td>30 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (UR)</td>
+<td>10 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (OBC)</td>
+<td>13 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (SC/ST)</td>
+<td>15 Years</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>As per Government Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are required to pay the examination fee online using Debit Card, Credit Card, Net Banking or UPI. Eligible candidates appearing in the CBT will receive fee refund as per Railway Recruitment Board rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹500</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD / Female / Ex-Servicemen / Minorities / EBC</td>
+<td>₹250</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Railway Recruitment Boards will conduct the selection process in multiple stages. Candidates qualifying each stage will be shortlisted for the next phase of recruitment.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Computer Based Test (CBT)</li>
+
+<li>Document Verification (DV)</li>
+
+<li>Medical Examination</li>
+
+<li>Final Merit List</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRB Technician CBT Exam Pattern 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Mode of Examination</td>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<td>Total Questions</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Total Marks</td>
+<td>100 Marks</td>
+</tr>
+
+<tr>
+<td>Duration</td>
+<td>90 Minutes</td>
+</tr>
+
+<tr>
+<td>Negative Marking</td>
+<td>1/3 Mark Deduction for Each Wrong Answer</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+The CBT will include questions from Mathematics, General Intelligence & Reasoning, General Science and General Awareness. Candidates should practice previous year papers and mock tests regularly to improve their accuracy and speed.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+RRB Technician Salary 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected through the RRB Technician Recruitment 2026 will receive salary according to the 7th Central Pay Commission (CPC). In addition to the basic pay, employees will be entitled to Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA), Night Duty Allowance (where applicable), medical facilities, pension benefits and various other railway allowances.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Pay Level</th>
+<th>Initial Basic Pay</th>
+</tr>
+
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>Level-5</td>
+<td>₹29,200/-</td>
+</tr>
+
+<tr>
+<td>Technician Grade-III</td>
+<td>Level-2</td>
+<td>₹19,900/-</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+The approximate in-hand salary may vary depending upon the city of posting, applicable allowances and statutory deductions.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Medical Standards
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted after Document Verification must qualify the Railway Medical Examination. The medical fitness standards differ according to the post and category of appointment.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Medical Standard</th>
+</tr>
+
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>B-1</td>
+</tr>
+
+<tr>
+<td>Technician Grade-III</td>
+<td>A-3 / B-1 / B-2 / C-1 (As per Post)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep the following documents ready while filling out the online application form and during the document verification process.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>10th Marksheet & Certificate</li>
+
+<li>ITI / Diploma / Degree Certificate</li>
+
+<li>Aadhaar Card or Valid Photo Identity Proof</li>
+
+<li>Caste Certificate (If Applicable)</li>
+
+<li>EWS Certificate (If Applicable)</li>
+
+<li>PwBD Certificate (If Applicable)</li>
+
+<li>Ex-Servicemen Certificate (If Applicable)</li>
+
+<li>Valid Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for RRB Technician Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can submit their online application through the official Railway Recruitment Board website. Applicants should complete the registration process carefully and verify all entered details before final submission.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official RRB website.</li>
+
+<li>Complete the One Time Registration (OTR), if required.</li>
+
+<li>Login using your Registration Number and Password.</li>
+
+<li>Select <strong>CEN No. 02/2026 – Technician Recruitment</strong>.</li>
+
+<li>Fill in all personal, educational and communication details.</li>
+
+<li>Upload photograph, signature and required certificates.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Preview the application carefully.</li>
+
+<li>Submit the application.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Read the official notification carefully before applying.</li>
+
+<li>Apply only through the official RRB website.</li>
+
+<li>Keep your registered mobile number and email ID active.</li>
+
+<li>Upload only clear photographs and signatures.</li>
+
+<li>Verify all details before final submission.</li>
+
+<li>Submit the application well before the last date.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Lakhs of candidates apply for RRB Technician vacancies every year. To improve your chances of selection, prepare according to the latest syllabus, solve previous year question papers and practice Computer Based Test (CBT) mock tests regularly.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Study the official syllabus thoroughly.</li>
+
+<li>Solve previous year RRB Technician papers.</li>
+
+<li>Attempt daily mock tests.</li>
+
+<li>Improve speed and accuracy.</li>
+
+<li>Revise Mathematics and General Science regularly.</li>
+
+<li>Stay updated with Current Affairs.</li>
+
+<li>Focus on weak subjects before the examination.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://rrb.indianrailways.gov.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td><a href="https://rrb.indianrailways.gov.in" target="_blank">Download PDF</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://rrb.indianrailways.gov.in" target="_blank">rrb.indianrailways.gov.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available in RRB Technician Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>6,557 vacancies</strong> have been announced for Technician Grade-I Signal and Technician Grade-III posts.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date to submit the online application is <strong>29 July 2026</strong>.
+</p>
+
+<h3>3. What is the minimum educational qualification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should possess Matriculation with ITI, Diploma, B.Sc. or Engineering Degree as prescribed for the respective post.
+</p>
+
+<h3>4. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process consists of Computer Based Test (CBT), Document Verification and Medical Examination.
+</p>
+
+<h3>5. Is there any negative marking?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. One-third mark will be deducted for every incorrect answer in the CBT examination.
+</p>
+
+<h3>6. What is the salary of Technician Grade-I Signal?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The initial Basic Pay is <strong>₹29,200</strong> under Pay Level-5 along with admissible allowances.
+</p>
+
+<h3>7. What is the salary of Technician Grade-III?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The initial Basic Pay is <strong>₹19,900</strong> under Pay Level-2 plus allowances.
+</p>
+
+<h3>8. Can final year students apply?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Only candidates possessing the required qualification before the closing date are eligible unless otherwise specified in the official notification.
+</p>
+
+<h3>9. Is the application process online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. Applications are accepted only through the official Railway Recruitment Board website.
+</p>
+
+<h3>10. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The official notification is available on the official Railway Recruitment Board website.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>RRB Technician Recruitment 2026</strong> offers an excellent opportunity for candidates seeking a stable and rewarding career in Indian Railways. With <strong>6,557 vacancies</strong>, competitive salary, attractive allowances, job security and promotion opportunities, this recruitment is expected to attract a large number of applicants. Interested candidates should complete the online application before the last date and begin preparing for the Computer Based Test without delay.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚆 RRB Technician Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your online application before <strong>29 July 2026</strong> and keep checking the official RRB website for the latest updates regarding admit card, CBT schedule, answer key and result.
+</p>
+
+<a href="https://rrb.indianrailways.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ngel-recruitment-2026">NGEL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-cgl-recruitment-2026">SSC CGL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Recruitment 2026</a></li>
+
+</ul>
+
+`;
 
 JOB_CONTENT["avnl-executive-non-executive-recruitment-2026"] = `
 
