@@ -1,5 +1,676 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["engineers-india-limited-associate-engineer-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-30">Published: 30 June 2026</time> |
+Updated: 30 June 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Engineers India Limited Recruitment 2026 – Apply Online for 41 Associate Engineer Grade II & Grade III Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 Engineers India Limited Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Open</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>07 July 2026</strong>
+</p>
+
+<a href="https://www.engineersindia.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited (EIL), a leading Public Sector Engineering Consultancy and EPC Company under the Government of India, has released the <strong>Engineers India Limited Recruitment 2026 Notification</strong> for the recruitment of <strong>41 Associate Engineer Grade II and Associate Engineer Grade III</strong> posts on a fixed-term basis. Candidates with relevant engineering qualifications and professional experience are invited to apply online through the official recruitment portal.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+This recruitment offers an excellent opportunity for experienced engineers seeking to work on prestigious Oil & Gas, Petrochemical, Refinery, Infrastructure and Energy projects across India. Selected candidates will receive an attractive salary package along with various benefits as per company rules.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Interested candidates should carefully review the eligibility criteria, educational qualifications, experience requirements, age limit, selection process and important dates before submitting the online application. Applications received after the closing date will not be accepted.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Engineers India Limited Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Engineers India Limited (EIL)</td>
+</tr>
+
+<tr>
+<th>Advertisement No.</th>
+<td>HRD/Rectt./Advt./2026-27/05</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Associate Engineer Grade II & Grade III</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>41</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>PSU Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Starting Date</th>
+<td>16 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Shortlisting & Interview</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.engineersindia.com</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Starts</td>
+<td>16 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Interview Schedule</td>
+<td>Will Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+EIL Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited has announced a total of <strong>41 vacancies</strong> for Associate Engineer Grade II and Grade III positions across various engineering disciplines. The exact discipline-wise vacancy distribution is available in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade II</td>
+<td>Various</td>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade III</td>
+<td>Various</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>41</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Join Engineers India Limited?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited is one of India's premier engineering consultancy organizations with decades of experience in executing large-scale energy and infrastructure projects. Working at EIL provides exposure to world-class engineering practices, career development opportunities and challenging assignments across India and overseas.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Leading Government Engineering Consultancy</li>
+
+<li>Prestigious Oil & Gas Projects</li>
+
+<li>Competitive Salary</li>
+
+<li>Professional Growth Opportunities</li>
+
+<li>Exposure to International Standards</li>
+
+<li>Modern Working Environment</li>
+
+<li>Career Development Programmes</li>
+
+<li>Opportunity to Work on Mega Infrastructure Projects</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for Engineers India Limited Recruitment 2026 must possess a full-time Engineering Degree in the relevant discipline from a recognized University or Institute. Applicants should also fulfill the required post-qualification experience criteria mentioned in the official advertisement.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade II</td>
+<td>Full-time B.E./B.Tech/B.Sc. Engineering in the relevant discipline with required post-qualification experience.</td>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade III</td>
+<td>Full-time B.E./B.Tech/B.Sc. Engineering in the relevant discipline with prescribed experience.</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Only candidates possessing the required qualification from AICTE/UGC recognized institutions are eligible. Experience should be relevant to Oil & Gas, Petrochemical, Refinery, Offshore, Pipeline, Infrastructure or EPC projects wherever applicable.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Experience Requirement
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Applicants should possess the minimum years of relevant post-qualification experience specified for the respective discipline. Preference may be given to candidates having experience in detailed engineering, project execution, design engineering, commissioning, EPC consultancy or similar large-scale industrial projects.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The upper age limit varies depending on the post and category. Age relaxation will be applicable for reserved category candidates as per Government of India guidelines.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade II</td>
+<td>37 Years</td>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade III</td>
+<td>41 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (NCL)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>As per Government Rules</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>As per Government Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are advised to check the official notification for complete details regarding the application fee, fee exemption, payment method and applicable charges before submitting the online application.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>As per Official Notification</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>As per Official Notification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process for Engineers India Limited Recruitment 2026 is designed to identify experienced engineering professionals. Eligible applications will be shortlisted based on qualifications and experience, followed by a Personal Interview. Final selection will be subject to successful document verification and fulfillment of all eligibility conditions.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Application Screening</li>
+
+<li>Shortlisting of Candidates</li>
+
+<li>Personal Interview</li>
+
+<li>Document Verification</li>
+
+<li>Medical Fitness (if applicable)</li>
+
+<li>Final Selection</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary & Pay Scale
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive an attractive consolidated remuneration according to the company policy. In addition to the salary, employees may also receive benefits such as medical facilities, leave benefits, insurance coverage and other admissible allowances as per EIL rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Approximate Monthly Salary</th>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade II</td>
+<td>₹72,000/- (Approx.)</td>
+</tr>
+
+<tr>
+<td>Associate Engineer Grade III</td>
+<td>₹96,000/- (Approx.)</td>
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep all the required documents ready before submitting the online application. Original documents along with self-attested photocopies will be verified during the interview and document verification process.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>10th Certificate (Date of Birth Proof)</li>
+
+<li>B.E./B.Tech/B.Sc. Engineering Degree Certificate</li>
+
+<li>All Semester/Year-wise Mark Sheets</li>
+
+<li>Experience Certificates from Previous Employers</li>
+
+<li>Updated Resume / Curriculum Vitae (CV)</li>
+
+<li>Category Certificate (SC/ST/OBC/EWS), if applicable</li>
+
+<li>PwBD Certificate (if applicable)</li>
+
+<li>Government-issued Photo Identity Proof (Aadhaar, PAN, Passport, etc.)</li>
+
+<li>Valid Mobile Number and Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for Engineers India Limited Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates fulfilling all eligibility conditions can submit their applications through the official Engineers India Limited website. Applicants should carefully complete every stage of the application process and verify all information before final submission.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official Engineers India Limited website.</li>
+
+<li>Open the Careers / Recruitment section.</li>
+
+<li>Select the relevant recruitment advertisement.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Fill in personal, educational and professional details.</li>
+
+<li>Upload all required documents.</li>
+
+<li>Review the application carefully.</li>
+
+<li>Submit the online application.</li>
+
+<li>Download and save the acknowledgement for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Employee Benefits
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited offers an excellent professional environment where employees work on some of India's largest energy and infrastructure projects. The organization provides competitive compensation along with multiple employee welfare benefits.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Competitive Salary Package</li>
+
+<li>Medical Facilities</li>
+
+<li>Leave Benefits</li>
+
+<li>Insurance Coverage</li>
+
+<li>Professional Training Programmes</li>
+
+<li>Opportunity to Work on Mega EPC Projects</li>
+
+<li>Modern Engineering Environment</li>
+
+<li>Career Development Opportunities</li>
+
+<li>Exposure to International Engineering Standards</li>
+
+<li>Performance-based Growth Opportunities</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth at Engineers India Limited
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited has played a significant role in executing major Oil & Gas, Refinery, Petrochemical, Fertilizer and Infrastructure projects for several decades. Working with EIL provides engineers the opportunity to enhance technical expertise, gain project management experience and participate in complex engineering assignments across India and overseas.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Read the official notification thoroughly before applying.</li>
+
+<li>Ensure all eligibility conditions are satisfied.</li>
+
+<li>Fill in accurate personal and educational details.</li>
+
+<li>Upload only valid and clearly readable documents.</li>
+
+<li>Use an active email ID and mobile number throughout the recruitment process.</li>
+
+<li>Keep a copy of the submitted application for future reference.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Interview Preparation Tips
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted for the interview should revise their engineering fundamentals, project experience, industry standards and domain-specific technical knowledge. Along with technical preparation, candidates should also prepare for HR questions, project discussions and practical engineering scenarios.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Revise core engineering subjects thoroughly.</li>
+
+<li>Review your previous project experience.</li>
+
+<li>Study recent developments in the Oil & Gas and EPC sectors.</li>
+
+<li>Prepare for technical and HR interview questions.</li>
+
+<li>Practice communication and presentation skills.</li>
+
+<li>Stay updated with Engineers India Limited's latest projects and achievements.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.engineersindia.com" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td><a href="https://www.engineersindia.com" target="_blank">Download PDF</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.engineersindia.com" target="_blank">www.engineersindia.com</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available in Engineers India Limited Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>41 vacancies</strong> have been announced for Associate Engineer Grade II and Grade III posts.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date to submit the online application is <strong>07 July 2026</strong>.
+</p>
+
+<h3>3. Who can apply for EIL Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates possessing the prescribed Engineering Degree along with relevant post-qualification experience can apply according to the eligibility conditions mentioned in the official notification.
+</p>
+
+<h3>4. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection is based on application screening, shortlisting, personal interview, document verification and fulfillment of eligibility conditions.
+</p>
+
+<h3>5. Is work experience mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. Relevant post-qualification professional experience is mandatory for Associate Engineer Grade II and Grade III posts.
+</p>
+
+<h3>6. What salary will selected candidates receive?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive an attractive consolidated salary according to the company pay structure along with admissible benefits and allowances.
+</p>
+
+<h3>7. Where will selected candidates be posted?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates may be posted anywhere in India or abroad depending upon project requirements and organizational needs.
+</p>
+
+<h3>8. Is this a Government job?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited is a Government of India Public Sector Enterprise (PSU), making this an excellent opportunity for eligible engineering professionals.
+</p>
+
+<h3>9. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the official notification from the Careers section of the official Engineers India Limited website.
+</p>
+
+<h3>10. Why should I join Engineers India Limited?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Engineers India Limited provides opportunities to work on prestigious engineering, refinery, petrochemical, offshore and infrastructure projects with excellent career growth and professional development.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Engineers India Limited Recruitment 2026</strong> is an excellent opportunity for experienced engineers who wish to work with one of India's leading engineering consultancy and EPC organizations. With <strong>41 Associate Engineer vacancies</strong>, attractive remuneration, exposure to world-class projects and strong career growth opportunities, eligible candidates should complete their online application before the last date and regularly visit the official website for recruitment updates.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🏗️ Engineers India Limited Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your application before <strong>07 July 2026</strong> and keep checking the official website for interview schedule, document verification and final selection updates.
+</p>
+
+<a href="https://www.engineersindia.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=rrb-technician-recruitment-2026">RRB Technician Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ngel-recruitment-2026">NGEL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ssc-cgl-recruitment-2026">SSC CGL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:40px;padding:20px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+<strong>Disclaimer:</strong> The information provided in this article is for educational and informational purposes only. Candidates should always verify important dates, eligibility criteria, vacancy details, application process and other recruitment-related information through the official Engineers India Limited notification before submitting the online application.
+</div>
+
+`;
 JOB_CONTENT["ngel-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
