@@ -1,5 +1,1855 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["ibps-so-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Published: 01 July 2026</time> |
+Updated: 01 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IBPS SO Recruitment 2026 Notification Out – Apply Online for 745 Specialist Officer (SO) Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 IBPS Specialist Officer Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>01 July 2026 to 21 July 2026</strong>
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Institute of Banking Personnel Selection (IBPS)</strong> has officially released the <strong>IBPS SO Recruitment 2026 Notification</strong> under <strong>CRP SPL-XVI</strong> for the recruitment of <strong>745 Specialist Officer (SO)</strong> vacancies in participating Public Sector Banks across India. Eligible candidates can apply online through the official IBPS website within the prescribed registration period.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment includes vacancies for various specialist positions such as <strong>IT Officer, Agriculture Field Officer, Rajbhasha Adhikari, Law Officer, HR/Personnel Officer and Marketing Officer</strong>. Candidates possessing the prescribed educational qualification for the respective post can submit the online application before the closing date.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS Specialist Officer is one of the most prestigious banking recruitments for professional graduates. Selected candidates receive an excellent salary package, government job security, promotion opportunities, medical facilities, allowances and long-term career growth in Public Sector Banks.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:18px;margin:30px 0;border-radius:6px;">
+
+<strong>Quick Highlights</strong>
+
+<ul style="font-size:19px;line-height:2;margin-top:12px;">
+
+<li>Total Vacancies : <strong>745</strong></li>
+
+<li>Recruitment : <strong>CRP SPL-XVI</strong></li>
+
+<li>Post : <strong>Specialist Officer (SO)</strong></li>
+
+<li>Qualification : <strong>Relevant Degree / Professional Qualification</strong></li>
+
+<li>Age Limit : <strong>20–30 Years</strong></li>
+
+<li>Selection Process : <strong>Prelims, Mains & Interview</strong></li>
+
+<li>Salary : <strong>₹48,480 Basic Pay</strong></li>
+
+<li>Job Location : <strong>Across India</strong></li>
+
+</ul>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Institute of Banking Personnel Selection (IBPS)</td>
+</tr>
+
+<tr>
+<th>Recruitment Name</th>
+<td>CRP SPL-XVI</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Specialist Officer (SO)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>745</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Bank Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Participating Banks</th>
+<td>Public Sector Banks</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Preliminary Examination, Main Examination, Interview & Document Verification</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.ibps.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About IBPS SO Recruitment
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Unlike Probationary Officer recruitment, IBPS Specialist Officer recruitment is conducted for candidates having specialized educational qualifications. Depending upon the discipline selected, candidates are recruited into various departments including Information Technology, Agriculture, Law, Human Resources, Marketing and Official Language. These officers play a crucial role in the smooth functioning of banking operations by providing technical and professional expertise.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment process is highly competitive and consists of Preliminary Examination, Main Examination and Personal Interview. Candidates who qualify all stages are provisionally allotted to participating Public Sector Banks based on merit, preferences and available vacancies.
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates interested in the IBPS Specialist Officer Recruitment 2026 should complete all registration formalities before the prescribed deadline. The recruitment process will be conducted in multiple stages including Preliminary Examination, Main Examination and Interview. Candidates are advised to regularly visit the official IBPS website for the latest announcements regarding admit cards, examination schedules and results.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Registration Starts</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Examination</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Result</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Examination</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>December 2026 / January 2027</td>
+</tr>
+
+<tr>
+<td>Provisional Allotment</td>
+<td>January / February 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Institute of Banking Personnel Selection has announced a total of <strong>745 Specialist Officer vacancies</strong> for various professional disciplines. The vacancies are distributed among participating Public Sector Banks based on their recruitment requirements.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>IT Officer (Scale-I)</td>
+<td>203</td>
+</tr>
+
+<tr>
+<td>Agriculture Field Officer (Scale-I)</td>
+<td>310</td>
+</tr>
+
+<tr>
+<td>Rajbhasha Adhikari (Scale-I)</td>
+<td>78</td>
+</tr>
+
+<tr>
+<td>Law Officer (Scale-I)</td>
+<td>56</td>
+</tr>
+
+<tr>
+<td>HR / Personnel Officer (Scale-I)</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>Marketing Officer (Scale-I)</td>
+<td>88</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>745</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Specialist Officer Posts
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS conducts Specialist Officer recruitment for candidates possessing professional qualifications in different disciplines. Every post has its own educational qualification and job responsibilities. Candidates should carefully verify the eligibility conditions for their preferred post before applying online.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>IT Officer (Scale-I)</li>
+
+<li>Agriculture Field Officer (Scale-I)</li>
+
+<li>Rajbhasha Adhikari (Scale-I)</li>
+
+<li>Law Officer (Scale-I)</li>
+
+<li>HR / Personnel Officer (Scale-I)</li>
+
+<li>Marketing Officer (Scale-I)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Choose IBPS Specialist Officer?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The IBPS Specialist Officer position offers an excellent opportunity for candidates with professional qualifications to build a rewarding career in the banking sector. Unlike general banking roles, Specialist Officers work in their respective professional domains, allowing them to utilize their technical expertise while enjoying the benefits of a Government-backed banking career.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Permanent Public Sector Bank Job</li>
+
+<li>Excellent Salary Package</li>
+
+<li>Job Security</li>
+
+<li>Promotion Opportunities</li>
+
+<li>Professional Work Profile</li>
+
+<li>Medical Facilities</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Pension / NPS Benefits (as applicable)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates appointed as Specialist Officers start their career as Scale-I Officers and can progress through departmental promotions and performance-based career advancement. Depending upon experience and performance, officers may be promoted to Manager (Scale-II), Senior Manager (Scale-III), Chief Manager (Scale-IV), Assistant General Manager, Deputy General Manager, General Manager and Executive Director positions in participating Public Sector Banks.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for <strong>IBPS SO Recruitment 2026</strong> must possess the prescribed educational qualification for the respective Specialist Officer post. Since every post belongs to a different professional discipline, the eligibility criteria vary accordingly. Candidates should ensure they fulfill the required qualification on or before the last date of online registration.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>IT Officer (Scale-I)</td>
+<td>B.E./B.Tech/B.Sc. (IT/Computer Science/Electronics/Electronics & Communication) or MCA or equivalent qualification.</td>
+</tr>
+
+<tr>
+<td>Agriculture Field Officer (Scale-I)</td>
+<td>4-Year Degree in Agriculture, Horticulture, Animal Husbandry, Veterinary Science, Dairy Science, Agricultural Engineering, Fisheries, Forestry or related disciplines.</td>
+</tr>
+
+<tr>
+<td>Rajbhasha Adhikari (Scale-I)</td>
+<td>Post Graduate Degree in Hindi with English as a subject at Graduation level or equivalent qualification.</td>
+</tr>
+
+<tr>
+<td>Law Officer (Scale-I)</td>
+<td>Bachelor's Degree in Law (LLB) and enrolled as an Advocate with Bar Council.</td>
+</tr>
+
+<tr>
+<td>HR / Personnel Officer (Scale-I)</td>
+<td>Graduate with Full-time MBA / PGDM in Human Resource / Personnel Management.</td>
+</tr>
+
+<tr>
+<td>Marketing Officer (Scale-I)</td>
+<td>Graduate with Full-time MBA / PGDM / MMS in Marketing.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must satisfy the prescribed age criteria as mentioned in the official IBPS Specialist Officer Notification 2026. The age will be calculated as on the cut-off date specified by IBPS.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Minimum Age</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>20 Years</td>
+<td>30 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must have been born within the dates specified in the official notification. Reserved category candidates will receive age relaxation according to Government of India guidelines.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (Non-Creamy Layer)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>Persons with Benchmark Disabilities (PwBD)</td>
+<td>10 Years</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>Other Categories</td>
+<td>As per Government & IBPS Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates are required to pay the prescribed application fee through online mode only. Fee once paid will not be refunded under any circumstances.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹850/-</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹175/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Selection Process 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment process consists of multiple stages. Candidates must qualify each stage separately to become eligible for final allotment in participating Public Sector Banks.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Online Preliminary Examination</li>
+
+<li>Online Main Examination</li>
+
+<li>Personal Interview</li>
+
+<li>Document Verification</li>
+
+<li>Final Provisional Allotment</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Preliminary Exam Pattern 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Section</th>
+<th>Questions</th>
+<th>Marks</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>50</td>
+<td>25</td>
+<td>40 Minutes</td>
+</tr>
+
+<tr>
+<td>Reasoning</td>
+<td>50</td>
+<td>50</td>
+<td>40 Minutes</td>
+</tr>
+
+<tr>
+<td>General Awareness / Quantitative Aptitude*</td>
+<td>50</td>
+<td>50</td>
+<td>40 Minutes</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>150</td>
+<td>125</td>
+<td>120 Minutes</td>
+</tr>
+
+</table>
+
+<p style="font-size:18px;color:#555;">
+*Depending on the post applied for, the third section may vary as per the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Main Examination Pattern 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Main Examination consists of Professional Knowledge questions related to the post applied for. Candidates who qualify the Main Examination will be shortlisted for the Interview round.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Exam</th>
+<th>Questions</th>
+<th>Marks</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>Professional Knowledge (Objective)</td>
+<td>60</td>
+<td>60</td>
+<td>45 Minutes</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+There is a penalty of <strong>0.25 marks</strong> for every incorrect answer in both the Preliminary and Main objective examinations. Candidates are advised to attempt only those questions for which they are reasonably confident of the correct answer.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS SO Salary 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected as Specialist Officers (Scale-I) through the IBPS SO Recruitment 2026 will receive salary as per the Bipartite Settlement applicable to Public Sector Banks. Apart from the Basic Pay, officers are entitled to Dearness Allowance (DA), House Rent Allowance (HRA), City Compensatory Allowance (CCA), Special Allowance, Medical Benefits, Leave Fare Concession (LFC), National Pension System (NPS) benefits and other admissible allowances.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Salary Component</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Basic Pay</td>
+<td>₹48,480/-</td>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>₹48,480–2000/7–62,480–2340/2–67,160–2680/7–85,920</td>
+</tr>
+
+<tr>
+<td>Approximate Gross Salary</td>
+<td>₹75,000 – ₹82,000 Per Month</td>
+</tr>
+
+<tr>
+<td>Probation Period</td>
+<td>As per Participating Bank Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep all required documents ready before filling out the online application form. Original documents will be verified during the Interview and Document Verification process.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>Left Thumb Impression</li>
+
+<li>Handwritten Declaration</li>
+
+<li>Graduation / Professional Degree Certificate</li>
+
+<li>All Semester Mark Sheets</li>
+
+<li>Category Certificate (SC/ST/OBC/EWS), if applicable</li>
+
+<li>PwBD Certificate (if applicable)</li>
+
+<li>Government-issued Photo Identity Proof</li>
+
+<li>Valid Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for IBPS SO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can submit their online applications through the official IBPS website by following the steps below. It is advisable to complete the registration process well before the closing date to avoid last-minute server issues.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official IBPS website.</li>
+
+<li>Click on <strong>CRP SPL-XVI Recruitment 2026</strong>.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Complete the online application form carefully.</li>
+
+<li>Select the Specialist Officer post you wish to apply for.</li>
+
+<li>Upload photograph, signature, thumb impression and handwritten declaration.</li>
+
+<li>Pay the application fee online.</li>
+
+<li>Verify all details before final submission.</li>
+
+<li>Submit the application and download the confirmation page.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Participating Banks
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates may be allotted to any participating Public Sector Bank depending upon merit, preferences exercised during registration and vacancies available at the time of provisional allotment.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Bank of Baroda</li>
+
+<li>Bank of India</li>
+
+<li>Bank of Maharashtra</li>
+
+<li>Canara Bank</li>
+
+<li>Central Bank of India</li>
+
+<li>Indian Bank</li>
+
+<li>Indian Overseas Bank</li>
+
+<li>Punjab National Bank</li>
+
+<li>Punjab & Sind Bank</li>
+
+<li>UCO Bank</li>
+
+<li>Union Bank of India</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips for IBPS SO 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Professional Knowledge paper plays the most important role in the Main Examination. Candidates should focus on strengthening subject-specific concepts along with reasoning, English language and current banking awareness.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Study the latest syllabus carefully.</li>
+
+<li>Revise professional subjects daily.</li>
+
+<li>Practice previous years' IBPS SO question papers.</li>
+
+<li>Attempt sectional and full-length mock tests.</li>
+
+<li>Stay updated with Banking and Financial Current Affairs.</li>
+
+<li>Improve speed and accuracy.</li>
+
+<li>Prepare thoroughly for the Interview round.</li>
+
+<li>Maintain proper revision notes.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Benefits of Joining as an IBPS Specialist Officer
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Permanent Public Sector Bank Job</li>
+
+<li>Excellent Salary & Annual Increments</li>
+
+<li>Medical Benefits for Self & Family</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Performance-based Promotions</li>
+
+<li>Job Stability & Career Growth</li>
+
+<li>Professional Work Environment</li>
+
+<li>Nationwide Career Opportunities</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Common Mistakes to Avoid
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Applying for a post without meeting the required educational qualification.</li>
+
+<li>Uploading incorrect or blurred documents.</li>
+
+<li>Providing incorrect graduation or professional qualification details.</li>
+
+<li>Waiting until the last day to submit the application.</li>
+
+<li>Ignoring the official notification before applying.</li>
+
+<li>Entering an incorrect email ID or mobile number.</li>
+
+<li>Not taking a printout of the final submitted application form.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.ibps.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td><a href="https://www.ibps.in" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.ibps.in" target="_blank">www.ibps.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available under IBPS SO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has announced a total of <strong>745 Specialist Officer (SO)</strong> vacancies under CRP SPL-XVI Recruitment 2026.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date to complete the online application and fee payment is <strong>21 July 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The qualification depends on the post. Candidates must possess the prescribed professional qualification such as Engineering, Agriculture Degree, LLB, MBA, PGDM, MCA or Post Graduation as applicable for the respective Specialist Officer post.
+</p>
+
+<h3>4. What is the age limit for IBPS SO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should be between <strong>20 and 30 years</strong> of age. Reserved category candidates are eligible for age relaxation according to Government rules.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment process consists of Preliminary Examination, Main Examination, Personal Interview, Document Verification and Final Provisional Allotment.
+</p>
+
+<h3>6. Is there negative marking in IBPS SO Exam?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. One-fourth (0.25) of the marks assigned to a question will be deducted for every incorrect answer in the objective examinations.
+</p>
+
+<h3>7. What salary does an IBPS Specialist Officer receive?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The initial Basic Pay is <strong>₹48,480</strong>. Including allowances, the approximate monthly gross salary ranges from ₹75,000 to ₹82,000 depending upon the place of posting.
+</p>
+
+<h3>8. Can candidates apply for more than one Specialist Officer post?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should apply only for the post for which they satisfy the prescribed eligibility criteria. Multiple applications for different posts should be avoided unless permitted in the official notification.
+</p>
+
+<h3>9. Which banks participate in IBPS SO Recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Various Public Sector Banks including Bank of Baroda, Canara Bank, Punjab National Bank, Union Bank of India, Indian Bank, Bank of India and others participate in the IBPS Specialist Officer recruitment process.
+</p>
+
+<h3>10. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the official notification from the official IBPS website.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IBPS SO Recruitment 2026</strong> offers an excellent opportunity for professionally qualified candidates to build a rewarding career in Public Sector Banks. With <strong>745 Specialist Officer vacancies</strong>, attractive salary, job security, professional work profile and long-term career growth, this recruitment is expected to attract thousands of eligible applicants. Candidates should complete their online registration before the last date and start preparing for the Preliminary and Main Examinations without delay.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🏦 Apply for IBPS SO Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>21 July 2026</strong> and regularly visit the official IBPS website for updates regarding admit card, examination schedule, result, interview and provisional allotment.
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<div style="margin:35px 0;padding:20px;background:#f8f9fa;border-left:6px solid #0d6efd;border-radius:6px;">
+
+<h2 style="margin-top:0;">Why Trust SarthakYojana?</h2>
+
+<p style="font-size:19px;line-height:1.8;">
+Our editorial team verifies recruitment information from official notifications and trusted sources before publishing. However, candidates should always read the official notification carefully to confirm eligibility, vacancy details, important dates and the application process before submitting the online form.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Recruitments
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ibps-po-recruitment-2026">IBPS PO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrb-technician-recruitment-2026">RRB Technician Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ngel-recruitment-2026">NGEL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong> The information provided in this article is intended for educational and informational purposes only. Candidates should verify all recruitment details, eligibility criteria, examination schedule, fee, selection process and important instructions through the official IBPS notification before applying online.
+
+</div>
+
+`;
+JOB_CONTENT["ibps-po-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Published: 01 July 2026</time> |
+Updated: 01 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IBPS PO Recruitment 2026 Notification Out – Apply Online for 6715 Probationary Officer (PO) & Management Trainee Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>01 July 2026 to 21 July 2026</strong>
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Institute of Banking Personnel Selection (IBPS)</strong> has officially released the <strong>IBPS PO Recruitment 2026 Notification</strong> under the Common Recruitment Process (CRP PO/MT-XVI) for the recruitment of <strong>Probationary Officers (PO)</strong> and <strong>Management Trainees (MT)</strong> in participating Public Sector Banks. As per the official notification, a total of <strong>6715 indicative vacancies</strong> have been announced for the recruitment cycle of 2027–28.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Graduates from any recognized university who satisfy the prescribed age limit can submit the online application through the official IBPS website. The online registration process has started on <strong>01 July 2026</strong> and the last date to apply online is <strong>21 July 2026</strong>. Candidates are advised to complete their registration well before the closing date to avoid last-minute technical issues.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS PO is one of India's most competitive banking examinations. Every year, lakhs of candidates appear for this recruitment because it offers an attractive salary package, job security, career growth, promotion opportunities and the chance to work in leading Public Sector Banks across the country.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:18px;margin:30px 0;border-radius:6px;">
+
+<strong>Quick Highlights</strong>
+
+<ul style="font-size:19px;line-height:2;margin-top:12px;">
+
+<li>Total Vacancies : <strong>6715</strong></li>
+
+<li>Post : <strong>Probationary Officer / Management Trainee</strong></li>
+
+<li>Qualification : <strong>Graduate</strong></li>
+
+<li>Age Limit : <strong>20–30 Years</strong></li>
+
+<li>Selection : <strong>Prelims, Mains, Personality Test & Interview</strong></li>
+
+<li>Salary : <strong>₹48,480 Basic Pay</strong></li>
+
+</ul>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Institute of Banking Personnel Selection (IBPS)</td>
+</tr>
+
+<tr>
+<th>Recruitment Name</th>
+<td>CRP PO/MT-XVI</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Probationary Officer (PO) / Management Trainee (MT)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>6715</td>
+</tr>
+
+<tr>
+<th>Job Category</th>
+<td>Bank Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Participating Banks</th>
+<td>11 Public Sector Banks</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Preliminary Exam, Main Exam, Personality Test, Interview & Document Verification</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.ibps.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The IBPS Common Recruitment Process (CRP) is conducted annually to recruit Probationary Officers and Management Trainees for various Public Sector Banks. Candidates selected through this recruitment undergo probationary training before being appointed as Scale-I Officers. The recruitment process is transparent, merit-based and consists of multiple stages to evaluate candidates' aptitude, reasoning ability, banking awareness and personality.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates preparing for banking examinations should carefully review the official notification, eligibility criteria, exam pattern, syllabus and important dates before submitting the application. Since competition is extremely high, early preparation with regular mock tests and previous year papers is highly recommended.
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should carefully note all important events related to the IBPS PO Recruitment 2026. Missing any deadline may result in rejection of the application. The preliminary examination is tentatively scheduled for August 2026, while the Main Examination is expected to be conducted in October 2026.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Registration Starts</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Correction Window</td>
+<td>After Registration Closes (As per IBPS Schedule)</td>
+</tr>
+
+<tr>
+<td>Preliminary Examination</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Result</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Examination</td>
+<td>October 2026</td>
+</tr>
+
+<tr>
+<td>Personality Test</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>November / December 2026</td>
+</tr>
+
+<tr>
+<td>Provisional Allotment</td>
+<td>January 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Institute of Banking Personnel Selection has announced <strong>6715 indicative vacancies</strong> for Probationary Officer (PO) and Management Trainee (MT) posts. These vacancies are distributed among participating Public Sector Banks and may change depending on the requirements communicated by individual banks during the recruitment process.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>UR</td>
+<td>2719</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>1816</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>669</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>1009</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>502</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>6715</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Participating Banks
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment is being conducted for vacancies reported by participating Public Sector Banks under the IBPS Common Recruitment Process. Final allotment will be based on merit, bank preference and available vacancies.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Bank of Baroda</li>
+
+<li>Bank of India</li>
+
+<li>Bank of Maharashtra</li>
+
+<li>Canara Bank</li>
+
+<li>Central Bank of India</li>
+
+<li>Indian Bank</li>
+
+<li>Indian Overseas Bank</li>
+
+<li>Punjab National Bank</li>
+
+<li>Punjab & Sind Bank</li>
+
+<li>UCO Bank</li>
+
+<li>Union Bank of India</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Choose IBPS PO?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS PO is one of India's most prestigious banking recruitments. Selected candidates begin their careers as Scale-I Officers in Public Sector Banks and receive excellent salary, allowances, career growth opportunities and job security. The position also provides opportunities for internal promotions and specialized banking roles in the future.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Government Banking Career</li>
+
+<li>Excellent Promotion Opportunities</li>
+
+<li>Basic Pay of ₹48,480</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Medical Benefits</li>
+
+<li>Leave Travel Benefits</li>
+
+<li>Pension & Retirement Benefits (as applicable)</li>
+
+<li>Job Security</li>
+
+<li>Nationwide Posting Opportunities</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+A Probationary Officer joins the bank as a Scale-I Officer and, based on performance and departmental examinations, can progress to positions such as Assistant Manager, Branch Manager, Senior Manager, Chief Manager, Assistant General Manager, Deputy General Manager, General Manager and Executive Director. The banking sector provides long-term career stability along with continuous professional development opportunities.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for <strong>IBPS PO Recruitment 2026</strong> must possess a Bachelor's Degree (Graduation) in any discipline from a University recognized by the Government of India or an equivalent qualification recognized by the Central Government. The graduation result should be declared on or before the last date of online registration.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must enter the exact percentage of marks obtained in Graduation while filling out the online application form. Those awaiting final semester results or whose graduation result has not been declared before the prescribed cut-off date are not eligible to apply.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Probationary Officer (PO)</td>
+<td>Bachelor's Degree in any discipline from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Management Trainee (MT)</td>
+<td>Graduation in any discipline from a recognized University.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Age Limit 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The age of candidates will be calculated as on <strong>01 July 2026</strong>. Applicants must satisfy both the minimum and maximum age criteria mentioned in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Minimum Age</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>20 Years</td>
+<td>30 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should have been born not earlier than <strong>02 July 1996</strong> and not later than <strong>01 July 2006</strong> (both dates inclusive), subject to applicable age relaxation.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (Non-Creamy Layer)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>Persons with Benchmark Disabilities (PwBD)</td>
+<td>10 Years</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen / Commissioned Officers</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>Other Categories</td>
+<td>As per Government & IBPS Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The application fee must be paid online using Debit Card, Credit Card, Net Banking, IMPS, UPI or other available online payment methods. Applications submitted without successful fee payment will not be accepted.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹850/-</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹175/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Selection Process 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process consists of multiple stages designed to evaluate candidates' aptitude, banking awareness, reasoning ability and personality. Candidates must qualify each stage to proceed to the next phase.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Online Preliminary Examination</li>
+
+<li>Online Main Examination</li>
+
+<li>Personality Test</li>
+
+<li>Personal Interview</li>
+
+<li>Document Verification</li>
+
+<li>Final Provisional Allotment</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Preliminary Exam Pattern 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Questions</th>
+<th>Marks</th>
+<th>Time</th>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>30</td>
+<td>30</td>
+<td>20 Minutes</td>
+</tr>
+
+<tr>
+<td>Quantitative Aptitude</td>
+<td>35</td>
+<td>30</td>
+<td>20 Minutes</td>
+</tr>
+
+<tr>
+<td>Reasoning Ability</td>
+<td>35</td>
+<td>40</td>
+<td>20 Minutes</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>100</td>
+<td>100</td>
+<td>60 Minutes</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+There is a negative marking of <strong>0.25 marks</strong> for every incorrect answer in the objective examination. No marks will be deducted for unanswered questions.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Main Examination Pattern 2026
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Questions</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>Reasoning & Computer Aptitude</td>
+<td>40</td>
+<td>60</td>
+</tr>
+
+<tr>
+<td>General / Economy / Banking Awareness</td>
+<td>50</td>
+<td>60</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>40</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Data Analysis & Interpretation</td>
+<td>40</td>
+<td>60</td>
+</tr>
+
+<tr>
+<td>Descriptive Test (Essay & Letter)</td>
+<td>2</td>
+<td>25</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Only candidates qualifying the Preliminary Examination will be eligible to appear for the Main Examination. Final merit is prepared by considering the Main Examination and Interview scores as per the official IBPS recruitment rules.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Salary 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected as Probationary Officers will receive an attractive salary package as per the Bipartite Settlement applicable to Public Sector Banks. Apart from the Basic Pay, employees are entitled to Dearness Allowance (DA), House Rent Allowance (HRA), City Compensatory Allowance (CCA), Special Allowance, Medical Benefits, Leave Fare Concession (LFC), Pension/NPS benefits and other allowances as per bank rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Salary Component</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Basic Pay</td>
+<td>₹48,480/-</td>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>₹48,480–2000/7–62,480–2340/2–67,160–2680/7–85,920</td>
+</tr>
+
+<tr>
+<td>Approximate Gross Salary</td>
+<td>₹75,000 – ₹82,000 per month (Depending upon Posting Location)</td>
+</tr>
+
+<tr>
+<td>Probation Period</td>
+<td>As per Participating Bank Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Participating Banks
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected through the IBPS PO Recruitment process may be allotted any participating Public Sector Bank based on merit, preference and availability of vacancies.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Bank of Baroda</li>
+
+<li>Bank of India</li>
+
+<li>Bank of Maharashtra</li>
+
+<li>Canara Bank</li>
+
+<li>Central Bank of India</li>
+
+<li>Indian Bank</li>
+
+<li>Indian Overseas Bank</li>
+
+<li>Punjab National Bank</li>
+
+<li>Punjab & Sind Bank</li>
+
+<li>UCO Bank</li>
+
+<li>Union Bank of India</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep the following documents ready before filling the online application form and during document verification.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>Left Thumb Impression</li>
+
+<li>Handwritten Declaration</li>
+
+<li>Graduation Mark Sheets & Degree Certificate</li>
+
+<li>Class 10 Certificate (Date of Birth Proof)</li>
+
+<li>Category Certificate (SC/ST/OBC/EWS), if applicable</li>
+
+<li>PwBD Certificate, if applicable</li>
+
+<li>Valid Photo Identity Proof (Aadhaar/PAN/Passport/Voter ID)</li>
+
+<li>Active Mobile Number and Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can submit their applications through the official IBPS website. Follow the steps below to complete the registration successfully.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website of IBPS.</li>
+
+<li>Click on <strong>CRP PO/MT-XVI Recruitment 2026</strong>.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Fill in personal, educational and communication details carefully.</li>
+
+<li>Upload photograph, signature, thumb impression and handwritten declaration.</li>
+
+<li>Pay the application fee using the available online payment methods.</li>
+
+<li>Preview the application form carefully.</li>
+
+<li>Submit the application successfully.</li>
+
+<li>Download and print the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Common Mistakes to Avoid
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Entering incorrect Graduation percentage.</li>
+
+<li>Uploading blurred photograph or signature.</li>
+
+<li>Using an inactive email ID or mobile number.</li>
+
+<li>Waiting until the last day to submit the application.</li>
+
+<li>Failing to verify all details before final submission.</li>
+
+<li>Ignoring the official notification before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips for IBPS PO 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS PO is one of the most competitive banking examinations in India. Candidates should prepare systematically by following the latest syllabus, solving previous year papers and attempting regular mock tests. Time management and accuracy play a crucial role in qualifying both the Preliminary and Main examinations.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Understand the latest syllabus and exam pattern.</li>
+
+<li>Practice sectional mock tests regularly.</li>
+
+<li>Improve speed and calculation accuracy.</li>
+
+<li>Revise Banking Awareness and Current Affairs daily.</li>
+
+<li>Solve previous years' question papers.</li>
+
+<li>Develop effective time management skills.</li>
+
+<li>Focus on weak subjects while maintaining strengths.</li>
+
+<li>Attempt full-length mock tests every week.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.ibps.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td><a href="https://www.ibps.in" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.ibps.in" target="_blank">www.ibps.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies have been announced under IBPS PO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has announced <strong>6715 indicative vacancies</strong> for the recruitment of Probationary Officers (PO) and Management Trainees (MT) under CRP PO/MT-XVI.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date for online registration and fee payment is <strong>21 July 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must possess a Bachelor's Degree in any discipline from a recognized University on or before the prescribed cut-off date.
+</p>
+
+<h3>4. What is the age limit for IBPS PO 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Applicants should be between <strong>20 and 30 years</strong> of age. Age relaxation is available for reserved categories as per Government rules.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment process includes Preliminary Examination, Main Examination, Personality Test, Interview, Document Verification and Final Allotment.
+</p>
+
+<h3>6. Is there negative marking in IBPS PO Exam?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. One-fourth (0.25) of the marks assigned to a question will be deducted for every incorrect answer in the objective examinations.
+</p>
+
+<h3>7. What is the salary of an IBPS Probationary Officer?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The initial Basic Pay is <strong>₹48,480</strong>. Including allowances, the gross monthly salary generally ranges between ₹75,000 and ₹82,000 depending on the place of posting.
+</p>
+
+<h3>8. Can final year students apply?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+No. Candidates must possess the required graduation qualification before the last date specified in the official notification.
+</p>
+
+<h3>9. Which banks participate in IBPS PO Recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Eleven Public Sector Banks participate in the IBPS CRP PO recruitment process, including Bank of Baroda, Canara Bank, Punjab National Bank, Union Bank of India and others.
+</p>
+
+<h3>10. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The official notification can be downloaded from the official IBPS website.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IBPS PO Recruitment 2026</strong> is one of the biggest banking recruitment opportunities for graduates across India. With <strong>6715 vacancies</strong>, an attractive salary package, nationwide postings, structured career growth and excellent promotion opportunities, this recruitment is expected to witness intense competition. Interested candidates should complete their online application before the last date and begin their preparation as early as possible to maximize their chances of success.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🏦 Apply for IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your registration before <strong>21 July 2026</strong> and regularly visit the official IBPS website for updates regarding admit card, examination schedule, result and interview.
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<div style="margin:35px 0;padding:20px;background:#f8f9fa;border-left:6px solid #0d6efd;border-radius:6px;">
+
+<h2 style="margin-top:0;">Why Trust SarthakYojana?</h2>
+
+<p style="font-size:19px;line-height:1.8;">
+Our editorial team verifies recruitment information from official notifications and trusted government sources before publishing. However, candidates are strongly advised to read the official notification carefully before submitting the application form.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Bank Recruitments
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ibps-so-recruitment-2026">IBPS SO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrb-technician-recruitment-2026">RRB Technician Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ngel-recruitment-2026">NGEL Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong> Although every effort has been made to provide accurate and updated information, candidates should always verify eligibility, important dates, vacancy details, fee, selection process and other recruitment information from the official IBPS notification before applying online.
+
+</div>
+
+`;
 JOB_CONTENT["engineers-india-limited-associate-engineer-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
