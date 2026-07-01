@@ -1,5 +1,2953 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["ibps-po-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Published: 01 July 2026</time> |
+Updated: 01 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IBPS PO Recruitment 2026 Notification Out – Apply Online for 6715 Probationary Officer (PO) / Management Trainee (MT) Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>01 July 2026 to 21 July 2026</strong>
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Institute of Banking Personnel Selection (IBPS)</strong> has officially released the <strong>IBPS CRP PO/MT-XVI Recruitment 2026 Notification</strong> for the recruitment of <strong>6715 Probationary Officer (PO) and Management Trainee (MT)</strong> vacancies across participating Public Sector Banks in India. Candidates possessing a Graduation Degree from a recognized university can submit their online applications through the official IBPS website.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online registration process started on <strong>01 July 2026</strong> and will continue until <strong>21 July 2026</strong>. The recruitment will be conducted through the Common Recruitment Process (CRP PO/MT-XVI) for vacancies expected during the financial year 2027–28. Candidates should carefully read the official notification before applying to ensure they meet all eligibility conditions.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS PO is one of India's most popular banking examinations, offering an excellent opportunity to build a stable and rewarding career in the Public Sector Banking industry. Selected candidates receive an attractive salary package, allowances, promotion opportunities, job security and nationwide posting in participating banks.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:18px;margin:30px 0;border-radius:6px;">
+
+<strong>Quick Highlights</strong>
+
+<ul style="font-size:19px;line-height:2;margin-top:12px;">
+
+<li>Total Vacancies : <strong>6715</strong></li>
+
+<li>Recruitment : <strong>CRP PO/MT-XVI</strong></li>
+
+<li>Post Name : <strong>Probationary Officer (PO) / Management Trainee (MT)</strong></li>
+
+<li>Qualification : <strong>Graduation in Any Discipline</strong></li>
+
+<li>Age Limit : <strong>20–30 Years</strong></li>
+
+<li>Basic Pay : <strong>₹48,480/-</strong></li>
+
+<li>Selection Process : <strong>Prelims, Mains, Personality Test & Interview</strong></li>
+
+<li>Application Mode : <strong>Online</strong></li>
+
+<li>Job Location : <strong>Across India</strong></li>
+
+</ul>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organization</th>
+<td>Institute of Banking Personnel Selection (IBPS)</td>
+</tr>
+
+<tr>
+<th>Recruitment Name</th>
+<td>CRP PO/MT-XVI</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Probationary Officer (PO) / Management Trainee (MT)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>6715 (Indicative)</td>
+</tr>
+
+<tr>
+<th>Vacancy Year</th>
+<td>2027–28</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Bank Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>20 to 30 Years</td>
+</tr>
+
+<tr>
+<th>Educational Qualification</th>
+<td>Graduation in Any Discipline</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Preliminary Examination, Main Examination, Personality Test, Interview & Document Verification</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.ibps.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Common Recruitment Process (CRP) conducted by IBPS is the primary recruitment examination for Probationary Officers and Management Trainees in Public Sector Banks across India. Every year, lakhs of banking aspirants participate in this examination to secure prestigious officer-level positions in leading government-owned banks.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The recruitment process consists of four major stages including the Preliminary Examination, Main Examination, Personality Test and Personal Interview. Candidates qualifying all stages are provisionally allotted to participating banks according to their merit, preferences and available vacancies. The selected officers undergo training before assuming responsibilities related to banking operations, customer service, loan processing, branch administration and financial management.
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates interested in <strong>IBPS PO Recruitment 2026</strong> should complete the online registration process before the last date. The recruitment process will be conducted in multiple phases including the Preliminary Examination, Main Examination, Personality Test, Interview and Provisional Allotment. Candidates are advised to regularly visit the official IBPS website for the latest updates regarding admit cards, examination schedule and results.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Activity</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Registration Starts</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Fee Payment</td>
+<td>01 July – 21 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Edit Window</td>
+<td>2 Days After Registration Closes</td>
+</tr>
+
+<tr>
+<td>Pre-Examination Training (PET)</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Admit Card</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Examination</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Result</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Admit Card</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Examination</td>
+<td>October 2026</td>
+</tr>
+
+<tr>
+<td>Main Result</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Personality Test</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>November / December 2026</td>
+</tr>
+
+<tr>
+<td>Provisional Allotment</td>
+<td>January 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has announced <strong>6715 indicative vacancies</strong> for Probationary Officer / Management Trainee posts under CRP PO/MT-XVI. The vacancies are distributed among participating Public Sector Banks based on their recruitment requirements.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Participating Bank</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>Bank of Baroda</td>
+<td>1900</td>
+</tr>
+
+<tr>
+<td>Bank of India</td>
+<td>500</td>
+</tr>
+
+<tr>
+<td>Bank of Maharashtra</td>
+<td>1100</td>
+</tr>
+
+<tr>
+<td>Canara Bank</td>
+<td>1500</td>
+</tr>
+
+<tr>
+<td>Central Bank of India</td>
+<td>500</td>
+</tr>
+
+<tr>
+<td>Indian Overseas Bank</td>
+<td>550</td>
+</tr>
+
+<tr>
+<td>Punjab National Bank</td>
+<td>504</td>
+</tr>
+
+<tr>
+<td>Punjab & Sind Bank</td>
+<td>161</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>6715</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>General (UR)</td>
+<td>2719</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>1816</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>669</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>1009</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>502</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>6715</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+PwBD Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>PwBD Category</th>
+<th>Reserved Vacancies</th>
+</tr>
+
+<tr>
+<td>Hearing Impaired (HI)</td>
+<td>73</td>
+</tr>
+
+<tr>
+<td>Orthopedically Challenged (OC)</td>
+<td>70</td>
+</tr>
+
+<tr>
+<td>Visually Impaired (VI)</td>
+<td>67</td>
+</tr>
+
+<tr>
+<td>Intellectual Disability (ID)</td>
+<td>77</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Participating Banks
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The IBPS CRP PO/MT-XVI Recruitment is conducted for participating Public Sector Banks. Candidates selected through the recruitment process may be allotted to any participating bank based on merit, preferences exercised during registration and availability of vacancies.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Bank of Baroda</li>
+
+<li>Bank of India</li>
+
+<li>Bank of Maharashtra</li>
+
+<li>Canara Bank</li>
+
+<li>Central Bank of India</li>
+
+<li>Indian Bank*</li>
+
+<li>Indian Overseas Bank</li>
+
+<li>Punjab National Bank</li>
+
+<li>Punjab & Sind Bank</li>
+
+<li>UCO Bank*</li>
+
+<li>Union Bank of India*</li>
+
+</ul>
+
+<p style="font-size:18px;color:#555;">
+*Vacancies for Indian Bank, UCO Bank and Union Bank of India were not reported at the time of notification and may be updated later by IBPS.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Choose IBPS PO?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS Probationary Officer is one of the most prestigious banking jobs in India. It provides attractive salary, excellent career growth, nationwide exposure and long-term job security. Selected candidates undergo professional training before taking charge as Scale-I Officers in Public Sector Banks.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Permanent Government Banking Career</li>
+
+<li>Excellent Salary & Annual Increments</li>
+
+<li>Fast Promotion Opportunities</li>
+
+<li>Medical Benefits</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Job Security</li>
+
+<li>Professional Work Environment</li>
+
+<li>Nationwide Career Growth</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates interested in <strong>IBPS PO Recruitment 2026</strong> should complete the online registration process before the last date. The recruitment process will be conducted in multiple phases including the Preliminary Examination, Main Examination, Personality Test, Interview and Provisional Allotment. Candidates are advised to regularly visit the official IBPS website for the latest updates regarding admit cards, examination schedule and results.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Activity</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Registration Starts</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>21 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Fee Payment</td>
+<td>01 July – 21 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Edit Window</td>
+<td>2 Days After Registration Closes</td>
+</tr>
+
+<tr>
+<td>Pre-Examination Training (PET)</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Admit Card</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Examination</td>
+<td>August 2026</td>
+</tr>
+
+<tr>
+<td>Preliminary Result</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Admit Card</td>
+<td>September 2026</td>
+</tr>
+
+<tr>
+<td>Main Examination</td>
+<td>October 2026</td>
+</tr>
+
+<tr>
+<td>Main Result</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Personality Test</td>
+<td>November 2026</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>November / December 2026</td>
+</tr>
+
+<tr>
+<td>Provisional Allotment</td>
+<td>January 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has announced <strong>6715 indicative vacancies</strong> for Probationary Officer / Management Trainee posts under CRP PO/MT-XVI. The vacancies are distributed among participating Public Sector Banks based on their recruitment requirements.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Participating Bank</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>Bank of Baroda</td>
+<td>1900</td>
+</tr>
+
+<tr>
+<td>Bank of India</td>
+<td>500</td>
+</tr>
+
+<tr>
+<td>Bank of Maharashtra</td>
+<td>1100</td>
+</tr>
+
+<tr>
+<td>Canara Bank</td>
+<td>1500</td>
+</tr>
+
+<tr>
+<td>Central Bank of India</td>
+<td>500</td>
+</tr>
+
+<tr>
+<td>Indian Overseas Bank</td>
+<td>550</td>
+</tr>
+
+<tr>
+<td>Punjab National Bank</td>
+<td>504</td>
+</tr>
+
+<tr>
+<td>Punjab & Sind Bank</td>
+<td>161</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>6715</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>General (UR)</td>
+<td>2719</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>1816</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>669</td>
+</tr>
+
+<tr>
+<td>SC</td>
+<td>1009</td>
+</tr>
+
+<tr>
+<td>ST</td>
+<td>502</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>6715</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+PwBD Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>PwBD Category</th>
+<th>Reserved Vacancies</th>
+</tr>
+
+<tr>
+<td>Hearing Impaired (HI)</td>
+<td>73</td>
+</tr>
+
+<tr>
+<td>Orthopedically Challenged (OC)</td>
+<td>70</td>
+</tr>
+
+<tr>
+<td>Visually Impaired (VI)</td>
+<td>67</td>
+</tr>
+
+<tr>
+<td>Intellectual Disability (ID)</td>
+<td>77</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Participating Banks
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The IBPS CRP PO/MT-XVI Recruitment is conducted for participating Public Sector Banks. Candidates selected through the recruitment process may be allotted to any participating bank based on merit, preferences exercised during registration and availability of vacancies.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Bank of Baroda</li>
+
+<li>Bank of India</li>
+
+<li>Bank of Maharashtra</li>
+
+<li>Canara Bank</li>
+
+<li>Central Bank of India</li>
+
+<li>Indian Bank*</li>
+
+<li>Indian Overseas Bank</li>
+
+<li>Punjab National Bank</li>
+
+<li>Punjab & Sind Bank</li>
+
+<li>UCO Bank*</li>
+
+<li>Union Bank of India*</li>
+
+</ul>
+
+<p style="font-size:18px;color:#555;">
+*Vacancies for Indian Bank, UCO Bank and Union Bank of India were not reported at the time of notification and may be updated later by IBPS.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Choose IBPS PO?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS Probationary Officer is one of the most prestigious banking jobs in India. It provides attractive salary, excellent career growth, nationwide exposure and long-term job security. Selected candidates undergo professional training before taking charge as Scale-I Officers in Public Sector Banks.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Permanent Government Banking Career</li>
+
+<li>Excellent Salary & Annual Increments</li>
+
+<li>Fast Promotion Opportunities</li>
+
+<li>Medical Benefits</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Job Security</li>
+
+<li>Professional Work Environment</li>
+
+<li>Nationwide Career Growth</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should keep all required documents ready before starting the online registration process. During document verification, candidates must produce original certificates along with self-attested photocopies. Failure to produce the required documents may result in cancellation of candidature.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>Left Thumb Impression</li>
+
+<li>Handwritten Declaration</li>
+
+<li>SSC / SSLC / 10th Certificate (Date of Birth Proof)</li>
+
+<li>Graduation Degree Certificate</li>
+
+<li>Graduation Mark Sheets</li>
+
+<li>Category Certificate (SC/ST/OBC-NCL/EWS), if applicable</li>
+
+<li>PwBD Certificate (if applicable)</li>
+
+<li>Valid Government Photo Identity Proof (Aadhaar/PAN/Passport/Voter ID/Driving Licence)</li>
+
+<li>Domicile Certificate (where applicable)</li>
+
+<li>Active Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Document Upload Specifications
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has prescribed specific dimensions and file sizes for uploading documents. Candidates should ensure that all scanned files meet the required specifications to avoid rejection during the online application process.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Document</th>
+<th>Preferred Size / Dimensions</th>
+<th>File Size</th>
+</tr>
+
+<tr>
+<td>Photograph</td>
+<td>4.5 cm × 3.5 cm (200 × 230 Pixels)</td>
+<td>20 KB – 50 KB</td>
+</tr>
+
+<tr>
+<td>Signature</td>
+<td>140 × 60 Pixels</td>
+<td>10 KB – 20 KB</td>
+</tr>
+
+<tr>
+<td>Left Thumb Impression</td>
+<td>240 × 240 Pixels</td>
+<td>20 KB – 50 KB</td>
+</tr>
+
+<tr>
+<td>Handwritten Declaration</td>
+<td>800 × 400 Pixels</td>
+<td>50 KB – 100 KB</td>
+</tr>
+
+<tr>
+<td>SSC / SSLC / 10th Certificate (PDF)</td>
+<td>A4 Size</td>
+<td>Maximum 500 KB</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can apply online through the official IBPS website by following the steps given below. Applications submitted through any other mode will not be accepted.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official IBPS website (www.ibps.in).</li>
+
+<li>Click on <strong>CRP PO/MT-XVI</strong> under the Current Openings section.</li>
+
+<li>Select <strong>"CLICK HERE FOR NEW REGISTRATION"</strong>.</li>
+
+<li>Complete the registration using a valid mobile number and email ID.</li>
+
+<li>Fill in personal, educational and communication details carefully.</li>
+
+<li>Upload Photograph, Signature, Left Thumb Impression, Handwritten Declaration and SSC/10th Certificate.</li>
+
+<li>Preview the application carefully before final submission.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and print the final application form and e-receipt for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Accepted Payment Modes
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Payment Method</th>
+<th>Available</th>
+</tr>
+
+<tr>
+<td>Debit Card (RuPay / Visa / MasterCard / Maestro)</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>Credit Card</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>Internet Banking</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>UPI</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>IMPS</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>Mobile Wallets</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>Cash Cards</td>
+<td>Yes</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Common Mistakes to Avoid
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Many applications are rejected due to avoidable mistakes. Candidates should carefully verify every detail before clicking the final submit button.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Uploading blurred or incorrect documents.</li>
+
+<li>Using CAPITAL LETTERS in the handwritten declaration.</li>
+
+<li>Entering incorrect Name, Email ID or Mobile Number.</li>
+
+<li>Selecting the wrong category.</li>
+
+<li>Waiting until the last date to submit the application.</li>
+
+<li>Uploading documents that do not meet IBPS size requirements.</li>
+
+<li>Failing to save the application form and payment receipt.</li>
+
+<li>Providing incorrect Graduation percentage.</li>
+
+<li>Not keeping multiple copies of the uploaded photograph.</li>
+
+<li>Ignoring the official notification before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips for IBPS PO 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Since the IBPS PO examination is highly competitive, candidates should prepare according to the latest syllabus and examination pattern. Regular practice and mock tests significantly improve accuracy and speed.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Understand the latest IBPS PO syllabus thoroughly.</li>
+
+<li>Practice sectional and full-length mock tests regularly.</li>
+
+<li>Strengthen Quantitative Aptitude and Reasoning Ability.</li>
+
+<li>Read daily Banking, Economy and Current Affairs.</li>
+
+<li>Improve English Grammar, Vocabulary and Reading Skills.</li>
+
+<li>Practice Data Interpretation questions daily.</li>
+
+<li>Prepare descriptive writing (Essay & Letter Writing).</li>
+
+<li>Revise previous years' IBPS PO question papers.</li>
+
+<li>Develop interview communication skills.</li>
+
+<li>Maintain short notes for revision.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth After Selection
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected as Probationary Officers begin their banking career as Scale-I Officers. Based on performance, departmental examinations and experience, they can be promoted to Manager (Scale-II), Senior Manager (Scale-III), Chief Manager (Scale-IV), Assistant General Manager, Deputy General Manager, General Manager and Executive Director positions in participating Public Sector Banks. IBPS PO offers excellent long-term career growth, attractive salary increments and nationwide transfer opportunities.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.ibps.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td><a href="https://www.ibps.in" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.ibps.in" target="_blank">www.ibps.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IBPS PO Recruitment 2026 FAQs
+</h2>
+
+<h3>1. How many vacancies are available in IBPS PO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+IBPS has announced <strong>6715 indicative vacancies</strong> for Probationary Officer (PO) and Management Trainee (MT) posts under CRP PO/MT-XVI.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date for online registration and application fee payment is <strong>21 July 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must possess a Bachelor's Degree (Graduation) in any discipline from a recognized university or an equivalent qualification recognized by the Government of India.
+</p>
+
+<h3>4. What is the age limit for IBPS PO 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should be between <strong>20 and 30 years</strong> of age as on 01 July 2026. Reserved category candidates are eligible for age relaxation according to Government rules.
+</p>
+
+<h3>5. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The application fee is <strong>₹850</strong> for General, OBC and EWS candidates, while SC, ST and PwBD candidates are required to pay <strong>₹175</strong>.
+</p>
+
+<h3>6. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process consists of Preliminary Examination, Main Examination, Personality Test, Personal Interview, Document Verification and Provisional Allotment.
+</p>
+
+<h3>7. What is the salary of an IBPS Probationary Officer?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The initial Basic Pay is <strong>₹48,480</strong>. Along with allowances, the monthly gross salary generally ranges between <strong>₹75,000 and ₹82,000</strong>, depending upon the place of posting and bank policies.
+</p>
+
+<h3>8. Is there any negative marking?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. A penalty of <strong>0.25 marks</strong> is deducted for every incorrect answer in the objective examinations. No penalty is applied for unanswered questions.
+</p>
+
+<h3>9. Which banks are participating in IBPS PO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Participating banks include Bank of Baroda, Bank of India, Bank of Maharashtra, Canara Bank, Central Bank of India, Indian Overseas Bank, Punjab National Bank, Punjab & Sind Bank, Indian Bank, UCO Bank and Union Bank of India.
+</p>
+
+<h3>10. Where can I apply for IBPS PO Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can submit their online application through the official IBPS website during the registration period.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IBPS PO Recruitment 2026</strong> is one of the biggest banking recruitment drives of the year, offering <strong>6715 Probationary Officer / Management Trainee vacancies</strong> across participating Public Sector Banks. Candidates who meet the eligibility criteria should complete their online registration before the closing date and begin their preparation for the Preliminary and Main examinations. With an attractive salary package, job security, promotion opportunities and excellent career growth, IBPS PO remains one of the most sought-after banking careers in India.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🏦 Apply for IBPS PO Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>21 July 2026</strong> and regularly visit the official IBPS website for updates regarding admit card, examination schedule, result, interview and provisional allotment.
+</p>
+
+<a href="https://www.ibps.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<div style="margin:35px 0;padding:20px;background:#f8f9fa;border-left:6px solid #0d6efd;border-radius:6px;">
+
+<h2 style="margin-top:0;">Why Trust SarthakYojana?</h2>
+
+<p style="font-size:19px;line-height:1.8;">
+Our editorial team carefully reviews official recruitment notifications and publishes well-structured, SEO-friendly articles to help candidates understand every aspect of the recruitment process. However, applicants should always verify eligibility, vacancy details, important dates, examination pattern and application procedure through the official IBPS notification before applying.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Recruitments
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ibps-so-recruitment-2026">IBPS SO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bank-of-india-credit-officer-recruitment-2026">Bank of India Credit Officer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=hpcl-officers-recruitment-2026">HPCL Officers Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ngel-recruitment-2026">NGEL Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong> The information provided in this article is intended for educational and informational purposes only. Although every effort has been made to ensure accuracy, candidates should verify all recruitment details including eligibility, vacancies, age limit, educational qualifications, important dates, application fee and selection process through the official IBPS notification before submitting the online application.
+
+</div>
+
+`;
+JOB_CONTENT["hpcl-officers-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Published: 01 July 2026</time> |
+Updated: 01 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+HPCL Officers Recruitment 2026 Notification Out – Apply Online for 116 Junior Executive, Assistant Manager, Manager & Other Officer Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+⛽ HPCL Officers Recruitment 2026
+</h2>
+
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>01 July 2026 to 20 July 2026</strong>
+</p>
+
+<a href="https://www.hindustanpetroleum.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Hindustan Petroleum Corporation Limited (HPCL)</strong> has officially released the <strong>HPCL Officers Recruitment 2026 Notification</strong> (Advertisement No. <strong>HPCL/OPEN/HR/1/2026-27</strong>) for the recruitment of <strong>116 Officer vacancies</strong>. The recruitment includes opportunities for both freshers and experienced professionals across multiple disciplines including Chemical Engineering, Fire & Safety, Sales & Marketing, Civil Engineering, Economics, Gas Sourcing and Petrochemicals.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates possessing Diploma, B.E./B.Tech, MBA, PGDM, Economics or other prescribed qualifications can submit their online applications through the official HPCL Careers Portal. The online registration process begins on <strong>01 July 2026 (04:00 PM)</strong> and the last date to apply online is <strong>20 July 2026 (03:00 PM)</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL is one of India's leading Maharatna Public Sector Enterprises under the Ministry of Petroleum & Natural Gas. Working at HPCL offers excellent career growth, industry-leading salary packages, performance incentives, medical facilities, retirement benefits and opportunities to work on large-scale energy and infrastructure projects across India.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:18px;margin:30px 0;border-radius:6px;">
+
+<strong>Quick Highlights</strong>
+
+<ul style="font-size:19px;line-height:2;margin-top:12px;">
+
+<li>Total Vacancies : <strong>116</strong></li>
+
+<li>Organisation : <strong>Hindustan Petroleum Corporation Limited (HPCL)</strong></li>
+
+<li>Advertisement No. : <strong>HPCL/OPEN/HR/1/2026-27</strong></li>
+
+<li>Posts : <strong>Junior Executive, Senior Officer, Assistant Manager, Manager, Chief Manager, DGM, GM & CGM</strong></li>
+
+<li>Qualification : <strong>Diploma / B.E. / B.Tech / MBA / PG Degree (Post-wise)</strong></li>
+
+<li>Age Limit : <strong>25–56 Years (Post-wise)</strong></li>
+
+<li>Selection Process : <strong>CBT, Group Task, Interview & Medical Examination</strong></li>
+
+<li>Salary : <strong>Up to ₹49.73 Lakh Annual CTC</strong></li>
+
+<li>Job Location : <strong>Across India</strong></li>
+
+</ul>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HPCL Officers Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Recruiting Organisation</th>
+<td>Hindustan Petroleum Corporation Limited (HPCL)</td>
+</tr>
+
+<tr>
+<th>Advertisement Number</th>
+<td>HPCL/OPEN/HR/1/2026-27</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Junior Executive, Senior Officer, Assistant Manager, Manager & Other Officer Posts</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>116</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>PSU Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>01 July 2026 (04:00 PM)</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 July 2026 (03:00 PM)</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Computer Based Test, Group Task, Personal Interview, Document Verification & Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.hindustanpetroleum.com</td>
+</tr>
+
+</table>
+
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About HPCL Officers Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The HPCL Officers Recruitment 2026 is one of the major PSU recruitment drives of the year, offering opportunities for candidates from engineering, management and professional backgrounds. The notification includes vacancies for Junior Executive (Chemical), Junior Executive (Fire & Safety), Senior Officer – Sales, Assistant Manager/Manager – Projects, Technical Services, Economist, Gas Sourcing & Marketing and Petrochemical Sales. Candidates selected through this recruitment will contribute to HPCL's refinery operations, infrastructure projects, sales network and energy business across India.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Applicants are advised to carefully verify the educational qualification, work experience, age limit and other eligibility conditions mentioned in the official notification before submitting the online application. Since HPCL follows a highly competitive selection process, candidates should also begin preparing for the Computer Based Test and Interview at the earliest.
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates interested in <strong>HPCL Officers Recruitment 2026</strong> should complete the online application process before the prescribed deadline. HPCL has also announced the tentative schedule for the Computer Based Test. Applicants are advised to keep checking the official website regularly for admit card, examination and interview updates.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>01 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Starts</td>
+<td>01 July 2026 (04:00 PM)</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>20 July 2026 (03:00 PM)</td>
+</tr>
+
+<tr>
+<td>Last Date for Fee Payment</td>
+<td>20 July 2026</td>
+</tr>
+
+<tr>
+<td>Computer Based Test (Tentative)</td>
+<td>August / September 2026</td>
+</tr>
+
+<tr>
+<td>Group Task / Interview</td>
+<td>Will Be Notified</td>
+</tr>
+
+<tr>
+<td>Medical Examination</td>
+<td>After Final Selection</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HPCL Officers Vacancy 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL has announced a total of <strong>116 Officer vacancies</strong> across various technical, management and executive positions. The recruitment includes both fresher and experienced professional posts.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Junior Executive – Chemical</td>
+<td>37</td>
+</tr>
+
+<tr>
+<td>Junior Executive – Fire & Safety</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>Senior Officer – Sales</td>
+<td>52</td>
+</tr>
+
+<tr>
+<td>Assistant Manager / Manager – Projects</td>
+<td>5</td>
+</tr>
+
+<tr>
+<td>Chief Manager / DGM – Technical Services</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Senior Manager / Chief Manager / DGM – Economist</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>DGM / GM – Gas Sourcing & Marketing</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>DGM / GM / CGM – Sales & Marketing (Petrochemicals)</td>
+<td>1</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>116</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Major Disciplines Covered
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The HPCL Officers Recruitment 2026 offers opportunities across multiple engineering, management and professional disciplines. Candidates can apply according to their educational qualifications and work experience.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Chemical Engineering</li>
+
+<li>Fire & Safety</li>
+
+<li>Sales & Marketing</li>
+
+<li>Civil Engineering</li>
+
+<li>Project Management</li>
+
+<li>Technical Services</li>
+
+<li>Economics</li>
+
+<li>Gas Sourcing & Marketing</li>
+
+<li>Petrochemicals</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Why Join HPCL?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Hindustan Petroleum Corporation Limited is a Maharatna Central Public Sector Enterprise and one of India's largest integrated energy companies. Employees receive competitive salaries, excellent career progression, performance-based incentives and opportunities to work on nationally significant energy projects.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Maharatna PSU Career</li>
+
+<li>Annual CTC up to ₹49.73 Lakh</li>
+
+<li>Performance Related Pay (PRP)</li>
+
+<li>Medical Benefits for Self & Family</li>
+
+<li>Retirement Benefits</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>Professional Training Programmes</li>
+
+<li>Promotion Opportunities</li>
+
+<li>Pan-India Posting & Career Growth</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL provides structured career progression through regular promotions, leadership development programmes and specialized technical training. Officers can grow from Junior Executive to Senior Executive positions and later progress to Manager, Senior Manager, Chief Manager, Deputy General Manager, General Manager and Executive leadership roles depending on their performance, experience and organizational requirements.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Roles & Responsibilities
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The responsibilities of selected candidates vary according to the post and department. Officers are expected to contribute towards refinery operations, project execution, safety compliance, business development, sales operations, technical services and strategic planning while ensuring adherence to HPCL policies and industry standards.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Manage refinery and plant operations.</li>
+
+<li>Execute engineering and infrastructure projects.</li>
+
+<li>Ensure industrial safety and statutory compliance.</li>
+
+<li>Support sales, marketing and customer relationship management.</li>
+
+<li>Conduct technical evaluation and project monitoring.</li>
+
+<li>Perform financial and commercial analysis.</li>
+
+<li>Coordinate with multidisciplinary teams across locations.</li>
+
+<li>Contribute to HPCL's long-term business and growth initiatives.</li>
+
+</ul>
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for <strong>HPCL Officers Recruitment 2026</strong> must possess the prescribed educational qualification from a recognized University or Institution. The required qualification varies according to the post applied for. Candidates should carefully verify the eligibility criteria before submitting the online application.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Junior Executive – Chemical</td>
+<td>3-Year Full-Time Diploma in Chemical Engineering with minimum prescribed marks.</td>
+</tr>
+
+<tr>
+<td>Junior Executive – Fire & Safety</td>
+<td>Science Graduate with Full-Time Diploma in Fire & Safety and Valid Heavy Vehicle Driving Licence.</td>
+</tr>
+
+<tr>
+<td>Senior Officer – Sales</td>
+<td>B.E./B.Tech (Relevant Engineering Discipline) along with Full-Time MBA/PGDM.</td>
+</tr>
+
+<tr>
+<td>Assistant Manager / Manager – Projects</td>
+<td>Full-Time B.E./B.Tech in Civil Engineering.</td>
+</tr>
+
+<tr>
+<td>Chief Manager / DGM – Technical Services</td>
+<td>B.E./B.Tech in Chemical Engineering (MBA desirable).</td>
+</tr>
+
+<tr>
+<td>Senior Manager / Chief Manager / DGM – Economist</td>
+<td>Post Graduate Degree in Economics / Applied Economics / Energy Planning or equivalent.</td>
+</tr>
+
+<tr>
+<td>DGM / GM – Gas Sourcing & Marketing</td>
+<td>B.E./B.Tech in any discipline with Full-Time MBA.</td>
+</tr>
+
+<tr>
+<td>DGM / GM / CGM – Sales & Marketing (Petrochemicals)</td>
+<td>B.E./B.Tech in Chemical Engineering (MBA desirable).</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates belonging to UR, OBC (NCL) and EWS categories must generally secure a minimum of <strong>65% aggregate marks</strong> in the qualifying examination, whereas SC, ST and PwBD candidates require <strong>55% aggregate marks</strong>, as prescribed in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The upper age limit varies according to the post applied for. Age will be calculated as per the cut-off date mentioned in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>Junior Executive</td>
+<td>25 Years</td>
+</tr>
+
+<tr>
+<td>Senior Officer</td>
+<td>29–31 Years</td>
+</tr>
+
+<tr>
+<td>Assistant Manager</td>
+<td>31–33 Years</td>
+</tr>
+
+<tr>
+<td>Manager</td>
+<td>34–36 Years</td>
+</tr>
+
+<tr>
+<td>Senior Manager</td>
+<td>42–44 Years</td>
+</tr>
+
+<tr>
+<td>Chief Manager</td>
+<td>45–47 Years</td>
+</tr>
+
+<tr>
+<td>Deputy General Manager (DGM)</td>
+<td>48–50 Years</td>
+</tr>
+
+<tr>
+<td>General Manager (GM)</td>
+<td>51–53 Years</td>
+</tr>
+
+<tr>
+<td>Chief General Manager (CGM)</td>
+<td>54–56 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (Non-Creamy Layer)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (General)</td>
+<td>10 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (OBC-NCL)</td>
+<td>13 Years</td>
+</tr>
+
+<tr>
+<td>PwBD (SC / ST)</td>
+<td>15 Years</td>
+</tr>
+
+<tr>
+<td>Additional Relevant Experience</td>
+<td>Up to 2 Years (as per HPCL Rules)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should pay the application fee online using Debit Card, Credit Card, UPI, Net Banking or other available payment methods. The application fee is non-refundable under any circumstances.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>UR / OBC (NCL) / EWS</td>
+<td>₹1,180/- (Including GST)</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>Nil</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HPCL Selection Process 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process varies depending on the post applied for. Candidates must qualify each stage to be considered for final appointment.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Computer Based Test (CBT)</li>
+
+<li>Document Verification</li>
+
+<li>Group Task (where applicable)</li>
+
+<li>Personal Interview</li>
+
+<li>Psychometric Assessment (if applicable)</li>
+
+<li>Physical Fitness Efficiency Test (for applicable posts)</li>
+
+<li>Pre-Employment Medical Examination</li>
+
+<li>Final Merit List</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Computer Based Test (CBT) Pattern
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Computer Based Test consists of objective-type questions designed to assess candidates' aptitude and technical knowledge relevant to the post applied for.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Section</th>
+<th>Topics</th>
+</tr>
+
+<tr>
+<td>General Aptitude</td>
+<td>English Language, Quantitative Aptitude, Logical Reasoning & Data Interpretation</td>
+</tr>
+
+<tr>
+<td>Professional Knowledge</td>
+<td>Questions related to the candidate's engineering, diploma or professional qualification.</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted in the CBT will be called for subsequent stages based on merit, category-wise cut-off marks and the requirements of HPCL.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary & Pay Scale
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will be appointed at the minimum of the applicable pay scale. In addition to Basic Pay, employees are entitled to Dearness Allowance (DA), House Rent Allowance (HRA), Cafeteria Allowance, Retirement Benefits, Performance Related Pay (PRP) and other benefits as per HPCL rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Pay Scale</th>
+<th>Approximate Annual CTC</th>
+</tr>
+
+<tr>
+<td>₹30,000 – ₹1,20,000</td>
+<td>₹10.99 Lakh</td>
+</tr>
+
+<tr>
+<td>₹60,000 – ₹1,80,000</td>
+<td>₹21.98 Lakh</td>
+</tr>
+
+<tr>
+<td>₹70,000 – ₹2,00,000</td>
+<td>₹26.49 Lakh</td>
+</tr>
+
+<tr>
+<td>₹80,000 – ₹2,20,000</td>
+<td>₹30.27 Lakh</td>
+</tr>
+
+<tr>
+<td>₹90,000 – ₹2,40,000</td>
+<td>₹35.13 Lakh</td>
+</tr>
+
+<tr>
+<td>₹1,00,000 – ₹2,60,000</td>
+<td>₹40.24 Lakh</td>
+</tr>
+
+<tr>
+<td>₹1,20,000 – ₹2,80,000</td>
+<td>₹49.73 Lakh</td>
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted for further stages of the HPCL Officers Recruitment 2026 must produce original documents along with self-attested photocopies for verification. Applicants should keep all required certificates ready before filling out the online application form to avoid delays during document verification.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>Class 10 Certificate (Date of Birth Proof)</li>
+
+<li>Diploma / Degree / Post Graduation Certificates</li>
+
+<li>All Semester Mark Sheets</li>
+
+<li>Experience Certificates (For Experienced Posts)</li>
+
+<li>Valid Heavy Vehicle Driving Licence (For Fire & Safety Post)</li>
+
+<li>Category Certificate (SC/ST/OBC-NCL/EWS), if applicable</li>
+
+<li>PwBD Certificate (if applicable)</li>
+
+<li>No Objection Certificate (NOC) for PSU/Government Employees</li>
+
+<li>Valid Government Photo Identity Proof (Aadhaar/PAN/Passport/Voter ID/Driving Licence)</li>
+
+<li>Recent Salary Slips & Relieving Letter (where applicable)</li>
+
+<li>Active Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for HPCL Officers Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates fulfilling the eligibility criteria can apply online through the official HPCL Careers Portal. Applications submitted through any other mode will not be accepted. Follow the steps below to complete the registration successfully.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official HPCL website.</li>
+
+<li>Navigate to <strong>Careers → Current Openings</strong>.</li>
+
+<li>Select <strong>HPCL Officers Recruitment 2026 (Advertisement No. HPCL/OPEN/HR/1/2026-27)</strong>.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Fill in personal, educational and professional details carefully.</li>
+
+<li>Upload photograph, signature and other required documents.</li>
+
+<li>Pay the application fee through the available online payment gateway.</li>
+
+<li>Preview the application form carefully before final submission.</li>
+
+<li>Submit the application and download the confirmation page.</li>
+
+<li>Keep a printed copy of the application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Service Bond & Retention Amount
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates selected under HPCL Officers Recruitment 2026 will be required to execute a service bond and serve the Corporation for a minimum period of three years from the date of joining. A retention amount is also deducted during the probation period as per HPCL rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Service Bond Amount</th>
+</tr>
+
+<tr>
+<td>General (UR)</td>
+<td>₹3,00,000/-</td>
+</tr>
+
+<tr>
+<td>EWS / OBC-NCL / SC / ST / PwBD</td>
+<td>₹50,000/-</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+For applicable pay scales, HPCL deducts a monthly retention amount during the probation period. This amount is released after successful completion of the prescribed service bond period without any interest, subject to company rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Employee Benefits
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL provides one of the best compensation packages among Public Sector Undertakings (PSUs). Along with the attractive salary structure, employees receive several financial and non-financial benefits that ensure long-term career stability and professional growth.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Performance Related Pay (PRP)</li>
+
+<li>Dearness Allowance (DA)</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>Cafeteria Allowance</li>
+
+<li>Medical Benefits for Self & Family</li>
+
+<li>Provident Fund & Gratuity</li>
+
+<li>National Pension System (NPS)</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>Group Insurance Coverage</li>
+
+<li>Professional Training & Skill Development</li>
+
+<li>Transfer & Promotion Opportunities</li>
+
+<li>Work-Life Balance and Employee Welfare Schemes</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should prepare systematically for the Computer Based Test by strengthening both General Aptitude and Technical/Professional Knowledge. Those applying for experienced positions should also prepare thoroughly for technical interviews and managerial discussions.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Understand the latest HPCL recruitment syllabus.</li>
+
+<li>Revise engineering and professional subjects thoroughly.</li>
+
+<li>Practice Quantitative Aptitude and Logical Reasoning regularly.</li>
+
+<li>Improve English Language proficiency.</li>
+
+<li>Solve previous PSU recruitment papers.</li>
+
+<li>Attempt online mock tests.</li>
+
+<li>Stay updated with current affairs related to the Energy and Oil & Gas sector.</li>
+
+<li>Prepare technical and HR interview questions.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Common Mistakes to Avoid
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Applying without fulfilling the prescribed eligibility criteria.</li>
+
+<li>Uploading incorrect or blurred documents.</li>
+
+<li>Entering incorrect educational or experience details.</li>
+
+<li>Selecting the wrong category during registration.</li>
+
+<li>Waiting until the last date to submit the application.</li>
+
+<li>Making multiple registrations using different email IDs.</li>
+
+<li>Ignoring the official notification before applying.</li>
+
+<li>Failing to keep original documents ready for verification.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth at HPCL
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL offers outstanding long-term career opportunities through structured promotion policies, leadership development programmes and specialized technical training. Depending on performance, experience and organizational requirements, employees can progress from Junior Executive and Officer positions to Senior Officer, Manager, Chief Manager, Deputy General Manager, General Manager and Chief General Manager. Officers may also get opportunities to work in refineries, corporate offices, regional marketing divisions, international business and strategic energy projects across India.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://www.hindustanpetroleum.com" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td><a href="https://www.hindustanpetroleum.com" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://www.hindustanpetroleum.com" target="_blank">www.hindustanpetroleum.com</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies have been announced under HPCL Officers Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+HPCL has announced a total of <strong>116 Officer vacancies</strong> for various posts including Junior Executive, Senior Officer, Assistant Manager, Manager, Chief Manager, Deputy General Manager, General Manager and Chief General Manager.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date to submit the online application is <strong>20 July 2026 (up to 03:00 PM)</strong>. Candidates should complete the registration well before the deadline to avoid last-minute technical issues.
+</p>
+
+<h3>3. What educational qualifications are required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The required qualification depends on the post and includes Diploma, B.E./B.Tech, MBA/PGDM, Post Graduate Degree in Economics and other professional qualifications as prescribed in the official notification.
+</p>
+
+<h3>4. What is the age limit for HPCL Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The upper age limit varies from <strong>25 years to 56 years</strong> depending upon the post applied for. Age relaxation is applicable for reserved category candidates as per Government rules.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process may include Computer Based Test (CBT), Document Verification, Group Task, Personal Interview, Psychometric Assessment, Physical Fitness Efficiency Test (where applicable) and Pre-Employment Medical Examination.
+</p>
+
+<h3>6. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates belonging to UR, OBC (NCL) and EWS categories are required to pay <strong>₹1,180</strong> (inclusive of GST), whereas SC, ST and PwBD candidates are exempted from payment of the application fee.
+</p>
+
+<h3>7. What salary will selected candidates receive?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Depending on the post, the annual Cost to Company (CTC) ranges approximately from <strong>₹10.99 Lakh to ₹49.73 Lakh</strong>, along with allowances and other benefits as per HPCL rules.
+</p>
+
+<h3>8. Is there a service bond?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. Selected candidates are required to execute a minimum three-year service bond. The bond amount is ₹3,00,000 for General category candidates and ₹50,000 for EWS, OBC (NCL), SC, ST and PwBD candidates.
+</p>
+
+<h3>9. Where will selected candidates be posted?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates may be posted anywhere in India depending upon the business requirements of Hindustan Petroleum Corporation Limited.
+</p>
+
+<h3>10. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The official notification and online application link are available on the HPCL Careers section of the official website.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>HPCL Officers Recruitment 2026</strong> presents an excellent opportunity for Diploma holders, Engineers, MBA graduates and experienced professionals to build a rewarding career in one of India's leading Maharatna Public Sector Enterprises. With <strong>116 vacancies</strong>, competitive salary packages, outstanding employee benefits and structured career progression, this recruitment is expected to attract a large number of applicants. Interested candidates should carefully review the eligibility criteria, complete the online application before the closing date and begin their preparation for the Computer Based Test and Interview.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+⛽ Apply for HPCL Officers Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your online application before <strong>20 July 2026</strong> and regularly visit the official HPCL website for updates regarding admit card, Computer Based Test, interview schedule and final selection.
+</p>
+
+<a href="https://www.hindustanpetroleum.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<div style="margin:35px 0;padding:20px;background:#f8f9fa;border-left:6px solid #0d6efd;border-radius:6px;">
+
+<h2 style="margin-top:0;">Why Trust SarthakYojana?</h2>
+
+<p style="font-size:19px;line-height:1.8;">
+Our editorial team verifies recruitment information using official notifications before publishing detailed articles. However, candidates should always refer to the official HPCL notification to confirm eligibility, educational qualifications, age limit, important dates, application fee, selection process and other recruitment conditions before submitting the online application.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Recruitments
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=hpcl-junior-executive-recruitment-2026">HPCL Junior Executive Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ibps-po-recruitment-2026">IBPS PO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ibps-so-recruitment-2026">IBPS SO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bank-of-india-credit-officer-recruitment-2026">Bank of India Credit Officer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong> The information provided in this article is intended for educational and informational purposes only. Although every effort has been made to ensure accuracy, candidates are advised to verify all recruitment details including eligibility, vacancies, educational qualifications, age limit, important dates, application fee and selection process through the official HPCL notification before applying online.
+
+</div>
+
+`;
+JOB_CONTENT["bank-of-india-credit-officer-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Published: 01 July 2026</time> |
+Updated: 01 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Bank of India Credit Officer Recruitment 2026 – Apply Online for 779 Credit Officer (GBO Stream) Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 Bank of India Credit Officer Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Application Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>30 June 2026 to 20 July 2026</strong>
+</p>
+
+<a href="https://bankofindia.co.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Bank of India (BOI)</strong> has officially released the <strong>Credit Officer Recruitment 2026 Notification</strong> under <strong>Project No. 2026-27/01</strong> for the recruitment of <strong>779 Credit Officer (GBO Stream)</strong> vacancies in MMGS-II, MMGS-III and SMGS-IV grades. Eligible candidates possessing the required educational qualification and relevant banking experience can submit their online applications through the official website.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online registration process commenced on <strong>30 June 2026</strong> and will remain open until <strong>20 July 2026</strong>. Candidates are advised to read the official notification carefully before applying to ensure they satisfy the prescribed eligibility criteria, experience requirements and age limits.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+This recruitment offers an excellent opportunity for experienced banking professionals to join one of India's leading Public Sector Banks. Selected candidates will receive attractive salary packages, allowances, career growth opportunities and exposure to commercial banking, MSME lending, project finance and corporate credit operations.
+</p>
+
+<div style="background:#fff8e1;border-left:6px solid #ff9800;padding:18px;margin:30px 0;border-radius:6px;">
+
+<strong>Quick Highlights</strong>
+
+<ul style="font-size:19px;line-height:2;margin-top:12px;">
+
+<li>Total Vacancies : <strong>779</strong></li>
+
+<li>Post : <strong>Credit Officer (GBO Stream)</strong></li>
+
+<li>Organisation : <strong>Bank of India</strong></li>
+
+<li>Qualification : <strong>Graduate / Professional Qualification with Experience</strong></li>
+
+<li>Age Limit : <strong>25–45 Years (Post-wise)</strong></li>
+
+<li>Salary : <strong>₹64,820 – ₹1,20,940</strong></li>
+
+<li>Selection Process : <strong>Online Examination & Interview</strong></li>
+
+<li>Application Mode : <strong>Online</strong></li>
+
+</ul>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Bank of India Credit Officer Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Bank of India (BOI)</td>
+</tr>
+
+<tr>
+<th>Project Number</th>
+<td>2026-27/01</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Credit Officer (GBO Stream)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>779</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Bank Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Job Location</th>
+<td>Across India</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>30 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 July 2026</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Online Examination, Personal Interview & Document Verification</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://bankofindia.co.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+About Bank of India Credit Officer Recruitment
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The Bank of India Credit Officer Recruitment is conducted to recruit experienced professionals for handling commercial credit, MSME financing, project appraisal and banking operations. Credit Officers play an important role in evaluating loan proposals, assessing financial risks, monitoring credit portfolios and ensuring compliance with banking regulations. Candidates selected through this recruitment will be posted in various branches and offices across India depending on organizational requirements.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates preparing for this recruitment should regularly visit the official Bank of India website for updates regarding examination dates, admit cards, interview schedule and final selection results.
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates applying for <strong>Bank of India Credit Officer Recruitment 2026</strong> must possess the prescribed educational qualification along with the required post-qualification banking experience. Applicants should ensure that all qualifications are obtained from a recognized University, Institute or professional body approved by the Government of India before the closing date of the online application.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Educational Qualification</th>
+</tr>
+
+<tr>
+<td>Credit Officer (MMGS-II)</td>
+<td>Graduation in any discipline with minimum 60% marks (55% for SC/ST/OBC/PwBD) OR CA / CMA / ICWA / CS / CFA from a recognized institution.</td>
+</tr>
+
+<tr>
+<td>Credit Officer (MMGS-III)</td>
+<td>Same educational qualification as prescribed along with the required banking experience.</td>
+</tr>
+
+<tr>
+<td>Credit Officer (SMGS-IV)</td>
+<td>Same educational qualification as prescribed along with senior-level banking and credit management experience.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Experience Requirement
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must possess relevant post-qualification experience in Banking, Commercial Credit, MSME Credit, Corporate Lending or Project Finance as specified in the official notification.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Grade</th>
+<th>Minimum Experience</th>
+</tr>
+
+<tr>
+<td>MMGS-II</td>
+<td>3 Years as an Officer, including at least 2 years in MSME / Commercial Credit / Project Finance.</td>
+</tr>
+
+<tr>
+<td>MMGS-III</td>
+<td>5 Years as an Officer, including at least 3 years in MSME / Commercial Credit / Project Finance.</td>
+</tr>
+
+<tr>
+<td>SMGS-IV</td>
+<td>7 Years as an Officer, including at least 4 years in MSME / Commercial Credit / Project Finance.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The age limit will be calculated as on <strong>01 June 2026</strong>. Candidates must satisfy the prescribed age criteria for the grade they are applying for.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Grade</th>
+<th>Minimum Age</th>
+<th>Maximum Age</th>
+</tr>
+
+<tr>
+<td>MMGS-II</td>
+<td>25 Years</td>
+<td>32 Years</td>
+</tr>
+
+<tr>
+<td>MMGS-III</td>
+<td>28 Years</td>
+<td>38 Years</td>
+</tr>
+
+<tr>
+<td>SMGS-IV</td>
+<td>32 Years</td>
+<td>45 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Relaxation
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Relaxation</th>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>OBC (Non-Creamy Layer)</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>10 Years</td>
+</tr>
+
+<tr>
+<td>Ex-Servicemen</td>
+<td>5 Years</td>
+</tr>
+
+<tr>
+<td>1984 Riot Victims</td>
+<td>5 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The application fee should be paid through Debit Card, Credit Card, Internet Banking, UPI or other online payment methods. Bank transaction charges, if applicable, shall be borne by the candidate.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹850/-</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹175/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The selection process for BOI Credit Officer Recruitment 2026 consists of multiple stages. Depending on the number of applications received, the Bank may conduct an Online Examination followed by a Personal Interview. The final merit list will be prepared based on the prescribed selection criteria.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Application Scrutiny</li>
+
+<li>Online Examination</li>
+
+<li>Personal Interview</li>
+
+<li>Document Verification</li>
+
+<li>Medical Fitness</li>
+
+<li>Final Selection</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Online Examination Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Section</th>
+<th>Questions</th>
+<th>Marks</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>English Language (Qualifying)</td>
+<td>25</td>
+<td>25</td>
+<td>30 Minutes</td>
+</tr>
+
+<tr>
+<td>Professional Knowledge</td>
+<td>100</td>
+<td>100</td>
+<td>90 Minutes</td>
+</tr>
+
+<tr style="font-weight:bold;background:#f5f5f5;">
+<td>Total</td>
+<td>125</td>
+<td>125</td>
+<td>120 Minutes</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+There is a negative marking of <strong>0.25 marks</strong> for every incorrect answer in the objective examination. The English Language test is qualifying in nature, while merit is prepared primarily on the Professional Knowledge section and Interview as per the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Structure
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will receive an attractive salary according to their grade along with Dearness Allowance (DA), House Rent Allowance (HRA), Medical Benefits, Leave Travel Concession (LTC), Performance-linked benefits and other allowances applicable under Bank of India service rules.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Grade</th>
+<th>Pay Scale</th>
+</tr>
+
+<tr>
+<td>MMGS-II</td>
+<td>₹64,820 – ₹93,960</td>
+</tr>
+
+<tr>
+<td>MMGS-III</td>
+<td>₹85,920 – ₹1,05,280</td>
+</tr>
+
+<tr>
+<td>SMGS-IV</td>
+<td>₹1,02,300 – ₹1,20,940</td>
+</tr>
+
+</table>
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates shortlisted for the next stage of the recruitment process must produce original documents along with self-attested photocopies for verification. Therefore, applicants should keep all required certificates and supporting documents ready before submitting the online application.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent Passport Size Photograph</li>
+
+<li>Scanned Signature</li>
+
+<li>Left Thumb Impression</li>
+
+<li>Handwritten Declaration</li>
+
+<li>10th Class Certificate (Date of Birth Proof)</li>
+
+<li>Graduation Degree & All Semester Mark Sheets</li>
+
+<li>CA / CMA / ICWA / CS / CFA Certificate (where applicable)</li>
+
+<li>Experience Certificates from Previous Employers</li>
+
+<li>Latest Salary Slip / Appointment Letter (if applicable)</li>
+
+<li>Category Certificate (SC/ST/OBC/EWS)</li>
+
+<li>PwBD Certificate (if applicable)</li>
+
+<li>Valid Government Photo Identity Proof (Aadhaar / PAN / Passport / Voter ID / Driving Licence)</li>
+
+<li>No Objection Certificate (NOC) for Government / PSU Employees</li>
+
+<li>Valid Mobile Number & Email ID</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online for BOI Credit Officer Recruitment 2026
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can submit their applications through the official Bank of India website during the application period. Applicants should ensure that all information entered in the application form is accurate before final submission.
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website of Bank of India.</li>
+
+<li>Open the <strong>Career</strong> section.</li>
+
+<li>Select <strong>Recruitment of Credit Officers (Project No. 2026-27/01)</strong>.</li>
+
+<li>Click on <strong>Apply Online</strong>.</li>
+
+<li>Complete the New Registration process.</li>
+
+<li>Fill in personal, educational and professional details carefully.</li>
+
+<li>Upload photograph, signature, thumb impression and handwritten declaration.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Preview the application carefully before final submission.</li>
+
+<li>Submit the application and download the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Security Deposit
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates finally selected for appointment will be required to deposit a refundable security amount as specified in the official notification. The security deposit is refundable after successful completion of the prescribed service period subject to the terms and conditions of the Bank.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Grade</th>
+<th>Security Deposit</th>
+</tr>
+
+<tr>
+<td>MMGS-II</td>
+<td>₹2,00,000/-</td>
+</tr>
+
+<tr>
+<td>MMGS-III</td>
+<td>₹3,00,000/-</td>
+</tr>
+
+<tr>
+<td>SMGS-IV</td>
+<td>₹3,00,000/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Employee Benefits
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Apart from the attractive salary package, Bank of India offers several additional benefits and allowances to its officers, making it one of the preferred Public Sector Banks for experienced banking professionals.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Dearness Allowance (DA)</li>
+
+<li>House Rent Allowance (HRA)</li>
+
+<li>City Compensatory Allowance (CCA)</li>
+
+<li>Medical Reimbursement</li>
+
+<li>Leave Travel Concession (LTC)</li>
+
+<li>New Pension Scheme (NPS) Benefits</li>
+
+<li>Performance-linked Incentives</li>
+
+<li>Professional Training Programmes</li>
+
+<li>Promotion Opportunities</li>
+
+<li>Job Stability & Long-term Career Growth</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Preparation Tips
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should prepare thoroughly for both the Professional Knowledge examination and the Personal Interview. Since the recruitment targets experienced banking professionals, candidates should focus on banking regulations, credit appraisal, financial statement analysis, MSME financing, project finance and current banking developments.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Revise Credit Appraisal Concepts.</li>
+
+<li>Study RBI Guidelines & Banking Regulations.</li>
+
+<li>Strengthen Financial Statement Analysis.</li>
+
+<li>Practice Professional Knowledge Questions.</li>
+
+<li>Read Banking & Financial Current Affairs Daily.</li>
+
+<li>Prepare HR & Technical Interview Questions.</li>
+
+<li>Improve Communication Skills.</li>
+
+<li>Practice Mock Interviews.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Common Mistakes to Avoid
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Applying without fulfilling the required banking experience.</li>
+
+<li>Uploading incorrect or unreadable documents.</li>
+
+<li>Entering inaccurate employment details.</li>
+
+<li>Selecting the wrong grade during application.</li>
+
+<li>Submitting multiple applications.</li>
+
+<li>Waiting until the last day to apply.</li>
+
+<li>Not keeping the registered mobile number and email ID active.</li>
+
+<li>Ignoring the official notification before submission.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Career Growth at Bank of India
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Bank of India provides excellent career progression opportunities for officers through internal promotions, leadership development programmes and specialized banking assignments. Credit Officers can advance to Senior Manager, Chief Manager, Assistant General Manager, Deputy General Manager and General Manager positions based on performance, experience and organizational requirements. The Bank also provides opportunities to work in Corporate Banking, Risk Management, International Banking, Treasury and other specialized verticals.
+</p>
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td><a href="https://bankofindia.co.in" target="_blank">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td><a href="https://bankofindia.co.in" target="_blank">Download Notification</a></td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td><a href="https://bankofindia.co.in" target="_blank">www.bankofindia.co.in</a></td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many vacancies are available under Bank of India Credit Officer Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Bank of India has announced a total of <strong>779 Credit Officer (GBO Stream)</strong> vacancies under Project No. 2026-27/01.
+</p>
+
+<h3>2. What is the last date to apply online?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The last date for online registration and fee payment is <strong>20 July 2026</strong>.
+</p>
+
+<h3>3. What educational qualification is required?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates should possess a Graduation Degree with the required minimum marks or professional qualifications such as CA, CMA, ICWA, CS or CFA, along with the prescribed post-qualification banking experience.
+</p>
+
+<h3>4. Is banking experience mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. Relevant post-qualification experience in Banking, Commercial Credit, MSME Lending or Project Finance is mandatory. The required experience varies according to the grade applied for.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection will be based on Online Examination, Personal Interview, Document Verification and Medical Fitness as per Bank of India recruitment rules.
+</p>
+
+<h3>6. What salary will selected candidates receive?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+The salary ranges from <strong>₹64,820 to ₹1,20,940</strong> depending upon the grade, along with DA, HRA, Medical Benefits and other allowances.
+</p>
+
+<h3>7. Is there negative marking in the online examination?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Yes. One-fourth (0.25) of the marks assigned to a question will be deducted for every incorrect answer in the objective examination.
+</p>
+
+<h3>8. What is the refundable security deposit?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates are required to deposit ₹2,00,000 for MMGS-II and ₹3,00,000 for MMGS-III & SMGS-IV. The amount is refundable after completion of the prescribed service period subject to Bank rules.
+</p>
+
+<h3>9. Where will selected candidates be posted?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected officers may be posted anywhere in India depending upon the operational requirements of Bank of India.
+</p>
+
+<h3>10. Where can I download the official notification?</h3>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates can download the official notification and submit the online application through the official Bank of India website.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Bank of India Credit Officer Recruitment 2026</strong> offers an outstanding career opportunity for experienced banking professionals. With <strong>779 vacancies</strong>, an attractive salary package, structured career progression, professional work environment and long-term job stability, this recruitment is expected to attract a large number of qualified applicants. Eligible candidates should complete the online application before the closing date and regularly check the official website for examination and interview updates.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🏦 Bank of India Credit Officer Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your online application before <strong>20 July 2026</strong> and keep visiting the official website for admit card, examination schedule, interview and final selection updates.
+</p>
+
+<a href="https://bankofindia.co.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<div style="margin:35px 0;padding:20px;background:#f8f9fa;border-left:6px solid #0d6efd;border-radius:6px;">
+
+<h2 style="margin-top:0;">Why Trust SarthakYojana?</h2>
+
+<p style="font-size:19px;line-height:1.8;">
+Our editorial team verifies recruitment information from official notifications before publishing. However, candidates should always read the official notification carefully to confirm eligibility, experience requirements, age limit, vacancy details, important dates and the application process before applying online.
+</p>
+
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Related Bank Recruitments
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ibps-po-recruitment-2026">IBPS PO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ibps-so-recruitment-2026">IBPS SO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=sbi-po-recruitment-2026">SBI PO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrb-technician-recruitment-2026">RRB Technician Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=engineers-india-limited-associate-engineer-recruitment-2026">Engineers India Limited Recruitment 2026</a></li>
+
+</ul>
+
+<div style="margin-top:35px;padding:18px;background:#fff8e1;border-left:6px solid #ff9800;border-radius:6px;">
+
+<strong>Disclaimer:</strong> The information provided in this article is for educational and informational purposes only. Although every effort has been made to keep the information accurate and updated, candidates are strongly advised to verify all recruitment details including eligibility, age limit, experience, application fee, important dates and selection process through the official Bank of India notification before submitting the online application.
+
+</div>
+
+`;
 JOB_CONTENT["ibps-so-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
