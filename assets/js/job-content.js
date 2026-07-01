@@ -143,6 +143,18 @@ IBPS SO Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 About IBPS SO Recruitment
@@ -220,6 +232,18 @@ Candidates interested in the IBPS Specialist Officer Recruitment 2026 should com
 <h2 style="font-size:36px;margin-top:40px;">
 IBPS SO Vacancy 2026
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 The Institute of Banking Personnel Selection has announced a total of <strong>745 Specialist Officer vacancies</strong> for various professional disciplines. The vacancies are distributed among participating Public Sector Banks based on their recruitment requirements.
@@ -908,6 +932,18 @@ Our editorial team verifies recruitment information from official notifications 
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Recruitments
 </h2>
@@ -1072,6 +1108,18 @@ IBPS PO Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 About IBPS PO Recruitment 2026
@@ -1158,6 +1206,18 @@ Candidates should carefully note all important events related to the IBPS PO Rec
 <h2 style="font-size:36px;margin-top:40px;">
 IBPS PO Vacancy 2026
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 The Institute of Banking Personnel Selection has announced <strong>6715 indicative vacancies</strong> for Probationary Officer (PO) and Management Trainee (MT) posts. These vacancies are distributed among participating Public Sector Banks and may change depending on the requirements communicated by individual banks during the recruitment process.
@@ -1825,6 +1885,18 @@ Our editorial team verifies recruitment information from official notifications 
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Bank Recruitments
 </h2>
@@ -1962,6 +2034,18 @@ Engineers India Limited Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -2031,6 +2115,18 @@ Engineers India Limited has announced a total of <strong>41 vacancies</strong> f
 <h2 style="font-size:36px;margin-top:40px;">
 Why Join Engineers India Limited?
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 Engineers India Limited is one of India's premier engineering consultancy organizations with decades of experience in executing large-scale energy and infrastructure projects. Working at EIL provides exposure to world-class engineering practices, career development opportunities and challenging assignments across India and overseas.
@@ -2498,6 +2594,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -2628,6 +2736,18 @@ NGEL Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -2717,6 +2837,18 @@ NGEL has announced <strong>114 vacancies</strong> across multiple executive posi
 <h2 style="font-size:36px;margin-top:40px;">
 Why Join NGEL?
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 NGEL is one of India's leading renewable energy companies working in solar, wind, green hydrogen and other sustainable energy projects. Employees receive competitive salary packages, excellent career growth opportunities, exposure to national-level infrastructure projects and the opportunity to contribute towards India's clean energy mission.
@@ -3196,6 +3328,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -3327,6 +3471,18 @@ RRB Technician Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -3406,6 +3562,18 @@ The Railway Recruitment Boards have announced a total of <strong>6,557 vacancies
 <h2 style="font-size:36px;margin-top:40px;">
 Why Apply for RRB Technician Recruitment 2026?
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 The RRB Technician Recruitment is considered one of the most popular railway recruitments because it offers permanent Central Government employment, excellent career progression, attractive salary, pension benefits, medical facilities and nationwide posting opportunities. Every year lakhs of candidates compete for these vacancies due to the long-term career security offered by Indian Railways.
@@ -3916,6 +4084,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -4038,6 +4218,18 @@ AVNL Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -4190,6 +4382,18 @@ According to the official short notification, AVNL has announced a total of <str
 <h2 style="font-size:36px;margin-top:40px;">
 Educational Qualification
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 Candidates must possess the educational qualification prescribed for the respective post. The eligibility requirements vary depending on the position applied for. Applicants are advised to verify the detailed notification before submitting their online application to ensure they satisfy all eligibility conditions. :contentReference[oaicite:0]{index=0}
@@ -4524,6 +4728,18 @@ Apply online after the registration link becomes active and complete your applic
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -4664,6 +4880,18 @@ IOCL Apprentice Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -4775,6 +5003,18 @@ A total of <strong>1,524 Apprentice vacancies</strong> have been announced under
 <h2 style="font-size:36px;margin-top:40px;">
 Educational Qualification
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.9;">
 Candidates must possess the prescribed educational qualification for the respective apprentice discipline. Applicants who have completed 12th Pass, ITI, Diploma or Graduation from a recognized Board, Institute or University are eligible to apply according to the post they are applying for. Candidates are advised to carefully read the official notification before submitting the application. :contentReference[oaicite:0]{index=0}
@@ -5129,6 +5369,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -5278,6 +5530,18 @@ Apply Online
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>Important Dates</h2>
 
@@ -5341,6 +5605,18 @@ Candidates must have passed <strong>Class 10 (Matriculation)</strong> and posses
 </p>
 
 <h2>Age Limit</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table>
 
@@ -5754,6 +6030,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Related Jobs</h2>
 
 <ul>
@@ -5877,6 +6165,18 @@ CSC Aadhaar Supervisor/Operator Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:36px;margin-top:40px;">
 Important Dates
@@ -5942,6 +6242,18 @@ Vacancy Details
 <h2 style="font-size:36px;margin-top:40px;">
 State-wise Vacancy Summary
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 
@@ -6464,6 +6776,18 @@ Apply Online
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:36px;margin-top:40px;">
 Related Jobs
 </h2>
@@ -6569,6 +6893,18 @@ SSC ASO Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Important Dates
@@ -6623,6 +6959,18 @@ The recruitment process consists of a Computer Based Examination followed by eva
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 SSC ASO Vacancy 2026
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 
@@ -6899,6 +7247,18 @@ Frequently Asked Questions (FAQs)
 <h3>10. Why should I apply?</h3>
 <p style="font-size:20px;line-height:1.8;">The recruitment offers promotion to Group 'B' administrative service with attractive salary, government benefits and excellent career growth.</p>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Conclusion
 </h2>
@@ -6984,6 +7344,18 @@ SSC JSA/LDC Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Important Dates
@@ -7038,6 +7410,18 @@ Candidates selected through this recruitment will work in various departments un
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Vacancy Details
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 
@@ -7384,6 +7768,18 @@ Applications can be submitted through the official Staff Selection Commission we
 The recruitment offers a permanent Central Government job, attractive salary, allowances, career growth, promotions and excellent job security.
 </p>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Conclusion
 </h2>
@@ -7470,6 +7866,18 @@ Territorial Army Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Important Dates
@@ -7524,6 +7932,18 @@ Candidates joining the Territorial Army receive structured military training, va
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Vacancy Details
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 
@@ -7850,6 +8270,18 @@ The recruitment rally will be organized at the venue mentioned in the official n
 Joining the Territorial Army provides an opportunity to serve the nation, receive military training, develop leadership skills and contribute to environmental conservation projects while enjoying government service benefits.
 </p>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Conclusion
 </h2>
@@ -7935,6 +8367,18 @@ ISRO ISTRAC Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Important Dates
@@ -8019,6 +8463,18 @@ The recruitment includes vacancies under multiple post codes covering technical,
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Educational Qualification
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 Educational qualifications vary depending on the post. Candidates applying for Technician posts should possess SSC/SSLC along with ITI/NTC/NAC in the relevant trade. Technical Assistant posts require a First Class Diploma in the concerned engineering discipline, while Scientific Assistant posts require a First Class B.Sc. in the relevant subject. Library Assistant and Cook-A posts have separate educational and experience requirements as specified in the official notification. :contentReference[oaicite:3]{index=3}
@@ -8295,6 +8751,18 @@ Interview or Skill Test may be conducted depending upon the post applied for.
 ISRO offers excellent career growth, attractive salary, job security, modern research facilities and an opportunity to contribute towards India's prestigious space missions.
 </p>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Conclusion
 </h2>
@@ -8373,6 +8841,18 @@ AIIMS CRE-5 Recruitment 2026 Overview
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Important Dates
@@ -8452,6 +8932,18 @@ Candidates belonging to different categories are required to pay the prescribed 
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Age Limit
 </h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 The minimum age required for most posts is 18 years. The upper age limit varies according to the post and generally ranges from 27 years to 40 years. Candidates belonging to reserved categories are eligible for age relaxation as per Government of India rules. Applicants should refer to the official notification for post-wise age criteria.
@@ -8760,6 +9252,18 @@ Applications can be submitted only through the official AIIMS Examination websit
 
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
 Conclusion
 </h2>
@@ -8830,6 +9334,18 @@ The online application process will begin on 27 June 2026 and interested candida
 <td>To Be Announced</td>
 </tr>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>RCFL Vacancy Details 2026</h2>
 
@@ -8949,6 +9465,18 @@ The online application process will begin on 27 June 2026 and interested candida
 </table>
 
 <h2>Age Limit</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 The age limit varies according to the post and category. The minimum age requirement is determined as per RCFL recruitment rules. The maximum age ranges from 34 years to 52 years depending upon the post and reservation category.
@@ -9183,6 +9711,18 @@ RCFL is one of India's most prestigious fertilizer and chemical sector PSUs. Wor
 <p style="font-size:20px;">www.rcfltd.com</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – RCFL Recruitment 2026</h2>
 
 <p style="font-size:20px;">
@@ -9266,6 +9806,18 @@ Selected candidates will receive attractive salary packages, government allowanc
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>RVUNL Vacancy Details 2026</h2>
 
@@ -9323,6 +9875,18 @@ The recruitment will be conducted for multiple Rajasthan government power sector
 </ul>
 
 <h2>Educational Qualification</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="detail-table">
 
@@ -9659,6 +10223,18 @@ Employees joining Rajasthan power companies have excellent opportunities for pro
 <p style="font-size:20px;">https://energy.rajasthan.gov.in</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – RVUNL Recruitment 2026</h2>
 
 <p style="font-size:20px;">
@@ -9749,6 +10325,18 @@ Candidates seeking stable government jobs under the Ministry of Ayush should car
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>CCRUM Vacancy Details 2026</h2>
 
@@ -9838,6 +10426,18 @@ Candidates seeking stable government jobs under the Ministry of Ayush should car
 </table>
 
 <h2>About CCRUM</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p>
 The Central Council for Research in Unani Medicine (CCRUM) is an autonomous organization under the Ministry of Ayush. It is responsible for conducting scientific research, clinical studies and healthcare initiatives related to the Unani system of medicine. The council operates research institutes, regional research centers and healthcare facilities throughout India.
@@ -10198,6 +10798,18 @@ Research professionals can advance through senior scientific positions, while ad
 <p>CCRUM offers government job security, attractive salary, research opportunities and long-term career growth.</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – CCRUM Recruitment 2026</h2>
 
 <p>
@@ -10273,6 +10885,18 @@ Candidates selected for the Telecaller role will be responsible for customer int
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>NABFINS Telecaller Vacancy Details 2026</h2>
 
@@ -10310,6 +10934,18 @@ Candidates selected for the Telecaller role will be responsible for customer int
 </table>
 
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="detail-table">
 
@@ -10496,6 +11132,18 @@ The Telecaller Work From Home role offers flexibility, convenience and valuable 
 <p>No, freshers are eligible to apply.</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – NABFINS Telecaller Recruitment 2026</h2>
 
 <p>
@@ -10582,6 +11230,18 @@ Candidates are advised to carefully read the eligibility criteria, branch-wise q
 <td>Indian Naval Academy (INA), Ezhimala</td>
 </tr>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>Indian Navy SSC Officer Vacancy Details 2026</h2>
 
@@ -10621,6 +11281,18 @@ SSC Officers perform leadership roles in various branches and contribute signifi
 </p>
 
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="detail-table">
 
@@ -10921,6 +11593,18 @@ The Indian Navy is one of the most respected defence forces in the world. Servin
 <p>The Indian Navy offers excellent career growth, attractive salary, officer status, adventure, leadership opportunities and the privilege of serving the nation.</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – Indian Navy SSC Officer Recruitment 2026</h2>
 
 <p style="font-size:20px;">
@@ -11010,6 +11694,18 @@ Candidates interested in banking, insurance and financial services careers shoul
 </tr>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>NIACL Apprentice Vacancy Details 2026</h2>
 
@@ -11069,6 +11765,18 @@ Candidates interested in banking, insurance and financial services careers shoul
 </table>
 
 <h2>About NIACL Apprentice Programme</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 The NIACL Apprentice Programme aims to provide practical training to graduates who wish to build careers in the insurance sector. During the apprenticeship period, candidates gain exposure to policy servicing, claims processing, customer relationship management, underwriting assistance, office operations and digital insurance services.
@@ -11503,6 +12211,18 @@ The New India Assurance Company Limited is India's largest public sector general
 <p>No. Apprenticeship completion does not guarantee permanent employment in NIACL.</p>
 </div>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Apply Online – NIACL Apprentice Recruitment 2026</h2>
 
 <p style="font-size:20px;">
@@ -11598,6 +12318,18 @@ The recruitment offers an excellent opportunity for medical professionals seekin
 </tbody>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>SBI BMO Vacancy Details 2026</h2>
 
@@ -11667,6 +12399,18 @@ The recruitment offers an excellent opportunity for medical professionals seekin
 </table>
 
 <h2>Circle Wise Vacancy Distribution</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="detail-table">
 <thead>
@@ -12047,6 +12791,18 @@ Bank Medical Officers may progress through higher specialist and administrative 
 <li>Government Issued Photo ID Proof</li>
 </ul>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -12164,6 +12920,18 @@ The RBI Young Professional Programme is designed to attract domain experts, rese
 </tbody>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>RBI Young Professional Vacancy Details 2026</h2>
 
@@ -12276,6 +13044,18 @@ The RBI Young Professional Programme is designed to attract domain experts, rese
 </table>
 
 <h2>About RBI Young Professional Programme</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 The RBI Young Professional Programme is a unique opportunity for highly qualified professionals to contribute to India's monetary policy, financial stability framework, payment systems, fintech regulation, economic research and emerging technology governance. Selected candidates work directly with RBI's Central Office Departments and gain valuable exposure to policy-making and regulatory functions.
@@ -12515,6 +13295,18 @@ Although the engagement does not guarantee permanent employment in RBI, the prog
 <li>Relevant Professional Certifications</li>
 </ul>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -12632,6 +13424,18 @@ Selected candidates will undergo one year of training and will subsequently be p
 </tbody>
 
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>NTPC ACT Vacancy Details 2026</h2>
 
@@ -12705,6 +13509,18 @@ The above vacancies are projected vacancies and may increase or decrease dependi
 </p>
 
 <h2>About NTPC Limited</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 NTPC Limited is India's largest integrated energy company with an installed capacity exceeding 90 GW. Established in 1975, NTPC has played a vital role in the development of India's power sector. The company is targeting an installed capacity of 149 GW by 2032 through expansion in thermal, hydro, solar, wind and green hydrogen projects.
@@ -13002,6 +13818,18 @@ Assistant Chemist Trainees can progress through various executive grades based o
 <li>Valid Email ID and Mobile Number</li>
 </ul>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -13123,6 +13951,18 @@ SBI Law Officers play an important role in handling litigation matters, legal op
 
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>SBI SCO Law Officer Vacancy Details 2026</h2>
 
@@ -13174,6 +14014,18 @@ Working as a Law Officer in SBI provides exposure to banking laws, financial reg
 </p>
 
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="eligibility-table">
 
@@ -13464,6 +14316,18 @@ margin:0;
 }
 </style>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -13580,6 +14444,18 @@ Engineering Projects (India) Limited has been actively involved in executing maj
 
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>EPI Vacancy Details 2026</h2>
 
@@ -13664,6 +14540,18 @@ Engineering Projects (India) Limited has been actively involved in executing maj
 </table>
 
 <h2>About Engineering Projects (India) Limited</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <p style="font-size:20px;line-height:1.8;">
 Engineering Projects (India) Limited, popularly known as EPI, is a Government of India Enterprise established to undertake turnkey engineering and construction projects. Over the years, EPI has successfully executed several prestigious infrastructure projects including industrial plants, airports, educational institutions, hospitals, roads, railways, water supply systems and government buildings.
@@ -13919,6 +14807,18 @@ margin:0;
 }
 </style>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -14034,6 +14934,18 @@ This recruitment provides an excellent opportunity for experienced medical teach
 </tr>
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>ESIC Professor Vacancy Details 2026</h2>
 
@@ -14125,6 +15037,18 @@ Minimum 4 years as Reader/Associate Professor OR 3 years as Associate Professor 
 </table>
 
 <h2>Application Fee</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="detail-table">
 <thead>
@@ -14298,6 +15222,18 @@ margin:0;
 }
 </style>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -14407,6 +15343,18 @@ The online application process started on <strong>23 June 2026</strong> and will
 </tr>
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>NEEPCO Executive Vacancy Details 2026</h2>
 
@@ -14486,6 +15434,18 @@ North Eastern Electric Power Corporation Limited (NEEPCO) was established to dev
 Working with NEEPCO offers employees the opportunity to contribute to national infrastructure development while building a long-term career in the power sector. The organization regularly recruits professionals from engineering, finance, legal, medical and management backgrounds to support its growing operations.
 </p>
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="eligibility-table">
 
@@ -14771,6 +15731,18 @@ margin:0;
 }
 </style>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>Frequently Asked Questions (FAQs)</h2>
 
 <div class="faq-box">
@@ -14888,6 +15860,18 @@ degree from a recognized university are eligible to apply.
 </tr>
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>SSC CGL 2026 Vacancy Details</h2>
 
@@ -14962,6 +15946,18 @@ Final vacancy position may change based on organizational requirements.
 
 <div class="job-section">
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="eligibility-table">
 
@@ -15173,6 +16169,18 @@ Candidates qualifying Tier-II examination will be called for document verificati
 <li>Signature</li>
 </ul>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>FAQs – SSC CGL Recruitment 2026</h2>
 
 <p><strong>Q1.</strong> How many vacancies are available?<br>
@@ -15252,6 +16260,18 @@ Chemical Sciences, Engineering, Radiation Physics, and related areas.
 </tr>
 </tbody>
 </table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>IGCAR JRF 2026 – Vacancy Details</h2>
 
@@ -15320,6 +16340,18 @@ Machine Learning Applications
 
 <div class="job-section">
 <h2>Eligibility Criteria</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <table class="eligibility-table">
 
@@ -15565,6 +16597,18 @@ Final selection will be subject to verification of documents and medical fitness
 </tbody>
 </table>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>FAQs – IGCAR JRF Recruitment 2026</h2>
 
 <p><strong>Q1.</strong> How many vacancies are available?<br>
@@ -15610,6 +16654,18 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <tr><td>Eligibility Cut-Off Date</td><td>01 April 2026</td></tr>
 <tr><td>Field Trial Date</td><td>To be notified on official website</td></tr>
 </tbody></table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 
 <h2>Bank of Baroda Sports Quota 2026 – Vacancy Details</h2>
 <table class="detail-table"><thead><tr><th>Sport</th><th>Location</th><th>Gender</th><th>Vacancies</th></tr></thead>
@@ -15691,6 +16747,18 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
     </table>
 </div>
 <h2>Application Fee</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 <table class="detail-table"><thead><tr><th>Category</th><th>Fee</th></tr></thead>
 <tbody>
 <tr><td>General / OBC / EWS</td><td><strong>Rs. 850/- (inclusive of GST)</strong> + payment gateway charges</td></tr>
@@ -15817,6 +16885,18 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <h2>Documents Required for Bank of Baroda Sports Quota 2026</h2>
 <p>Printout of Call Letter and application form, Date of Birth proof (10th certificate/Birth Certificate), Photo ID (Aadhaar/PAN/Passport), Sports certificates/medals/achievement proof, Educational marksheets and degree certificate, Caste certificate (SC/ST/OBC as applicable), NOC from current employer (if in Government/PSU service), and Disability certificate (if applicable).</p>
 
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;min-height:90px;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>FAQs – Bank of Baroda Sports Quota Recruitment 2026</h2>
 <p style="font-size:15px;"<strong>Q: Is there reservation for SC/ST/OBC in BOB Sports Quota 2026?</strong><br>A: No. There is no category-wise reservation for the 30 vacancies. However, age relaxation for SC/ST/OBC is available as per DOPT guidelines.</p>
 <p style="font-size:15px;"<strong>Q: Can a cricketer apply for multiple disciplines?</strong><br>A: No. Candidates must apply only for the sport and role/specialisation matching their certificates and achievements. Multiple applications will lead to disqualification.</p>
