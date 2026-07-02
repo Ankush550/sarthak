@@ -3,6 +3,33 @@
 
 const RESULTS_DATA = [
     {
+    id: "jkssb-junior-assistant-result-2026",
+    title: "JKSSB Junior Assistant Result 2026",
+    organization: "Jammu and Kashmir Services Selection Board (JKSSB)",
+    examName: "JKSSB Junior Assistant Recruitment Examination 2026",
+    postName: "Junior Assistant",
+    advertisementNo: "JKSSB Junior Assistant Recruitment 2026",
+    totalPosts: "343",
+    category: "Result",
+    examMode: "Offline (OMR Based)",
+    location: "Jammu & Kashmir",
+    examDate: "19 April 2026",
+    resultDate: "01 July 2026",
+    resultMode: "Online",
+    nextStage: "Skill Test & Document Verification",
+    officialWebsite: "https://jkssb.nic.in",
+    resultPdf: "https://jkssb.nic.in",
+    resultLink: "https://jkssb.nic.in",
+    image: "JKSSB-Junior-Assistant-Result-2026.jpeg",
+    featured: true,
+    status: "Result Declared",
+    views: 0,
+    publishedDate: "2026-07-02",
+    seoTitle: "JKSSB Junior Assistant Result 2026 Out – Download Merit List & Scorecard PDF",
+    seoDescription: "JKSSB Junior Assistant Result 2026 has been declared at jkssb.nic.in. Download the merit list PDF, check scorecard, expected cut-off marks, skill test schedule and result details.",
+    keywords: "JKSSB Junior Assistant Result 2026, JKSSB JA Result 2026, JKSSB Merit List 2026, JKSSB Scorecard 2026, JKSSB Result PDF, JKSSB Junior Assistant Cut Off 2026, JKSSB Skill Test 2026"
+},
+    {
     id: "hssc-revised-result-2026",
     title: "HSSC Revised Result 2026 Out For Forester, Forest Guard & Other Posts",
     shortTitle: "HSSC Revised Result 2026",

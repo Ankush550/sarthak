@@ -1,6 +1,1195 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
+RESULT_CONTENT["jkssb-junior-assistant-result-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>JKSSB Junior Assistant Result 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Jammu and Kashmir Services Selection Board (JKSSB)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>JKSSB Junior Assistant Result 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>19 April 2026</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Result Declared</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-07-02">
+
+Published : 02 July 2026
+
+</time>
+
+|
+
+Updated : 02 July 2026
+
+</div>
+
+<h1>
+
+JKSSB Junior Assistant Result 2026 Out at jkssb.nic.in – Download Merit List & Scorecard PDF
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 JKSSB Junior Assistant Result 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Declared
+
+</span>
+
+</p>
+
+<p>
+
+<strong>Exam Conducted :</strong>
+
+19 April 2026
+
+</p>
+
+<p>
+
+<strong>Result Released :</strong>
+
+01 July 2026
+
+</p>
+
+<a href="https://jkssb.nic.in"
+
+target="_blank"
+
+class="btn-primary">
+
+Download Result PDF →
+
+</a>
+
+</div>
+
+<p>
+
+The <strong>Jammu and Kashmir Services Selection Board (JKSSB)</strong> has officially declared the <strong>JKSSB Junior Assistant Result 2026</strong> on its official website. Candidates who appeared in the <strong>OMR-based Written Examination</strong> conducted on <strong>19 April 2026</strong> can now check their qualifying status, download the merit list PDF, and verify their scorecard online.
+
+</p>
+
+<p>
+
+The result was announced on <strong>01 July 2026</strong>. Candidates whose names appear in the merit list have qualified for the next stage of the recruitment process, which includes the <strong>Skill Test (Typing Test)</strong> followed by <strong>Document Verification</strong>. Applicants are advised to download and save their result PDF for future reference.
+
+</p>
+
+<p>
+
+This article provides complete information regarding the JKSSB Junior Assistant Result 2026, including the direct result download link, merit list, scorecard details, expected cut-off marks, skill test schedule, document verification process, important dates, FAQs, and official links.
+
+</p>
+
+<h2>
+
+JKSSB Junior Assistant Result 2026 Highlights
+
+</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Recruiting Organization</th>
+
+<td>Jammu and Kashmir Services Selection Board (JKSSB)</td>
+
+</tr>
+
+<tr>
+
+<th>Post Name</th>
+
+<td>Junior Assistant</td>
+
+</tr>
+
+<tr>
+
+<th>Total Vacancies</th>
+
+<td>343</td>
+
+</tr>
+
+<tr>
+
+<th>Category</th>
+
+<td>Result</td>
+
+</tr>
+
+<tr>
+
+<th>Exam Mode</th>
+
+<td>Offline (OMR Based)</td>
+
+</tr>
+
+<tr>
+
+<th>Exam Date</th>
+
+<td>19 April 2026</td>
+
+</tr>
+
+<tr>
+
+<th>Result Date</th>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<th>Result Mode</th>
+
+<td>Online</td>
+
+</tr>
+
+<tr>
+
+<th>Next Stage</th>
+
+<td>Skill Test & Document Verification</td>
+
+</tr>
+
+<tr>
+
+<th>Official Website</th>
+
+<td>https://jkssb.nic.in</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+Quick Result Summary
+
+</h2>
+
+<div class="quick-info">
+
+<ul>
+
+<li><strong>Recruitment Board :</strong> JKSSB</li>
+
+<li><strong>Post :</strong> Junior Assistant</li>
+
+<li><strong>Total Posts :</strong> 343</li>
+
+<li><strong>Written Exam :</strong> 19 April 2026</li>
+
+<li><strong>Result Released :</strong> 01 July 2026</li>
+
+<li><strong>Result Status :</strong> Available Online</li>
+
+<li><strong>Merit List :</strong> Released</li>
+
+<li><strong>Scorecard :</strong> Available</li>
+
+<li><strong>Next Stage :</strong> Skill Test</li>
+
+<li><strong>Official Portal :</strong> jkssb.nic.in</li>
+
+</ul>
+
+</div>
+
+<h2>
+
+About JKSSB Junior Assistant Result 2026
+
+</h2>
+
+<p>
+
+The JKSSB Junior Assistant recruitment examination was conducted to fill <strong>343 vacancies</strong> across various departments in Jammu and Kashmir. After evaluating the OMR answer sheets, the Board has released the official merit list and scorecard PDF for all eligible candidates.
+
+</p>
+
+<p>
+
+Candidates should carefully verify their Name, Roll Number, Category, Marks Obtained and Qualifying Status in the official result PDF. Those shortlisted will soon receive details regarding the Typing Skill Test and Document Verification schedule through the official JKSSB website.
+
+</p>
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2>
+
+How to Check JKSSB Junior Assistant Result 2026?
+
+</h2>
+
+<p>
+
+Candidates can easily download the JKSSB Junior Assistant Result 2026 and Merit List PDF by visiting the official website of the Jammu and Kashmir Services Selection Board (JKSSB). Follow the step-by-step process below.
+
+</p>
+
+<ol>
+
+<li>Visit the official JKSSB website <strong>https://jkssb.nic.in</strong>.</li>
+
+<li>Go to the <strong>What's New</strong> section available on the homepage.</li>
+
+<li>Click on the link <strong>"JKSSB Junior Assistant Result 2026"</strong>.</li>
+
+<li>The Result / Merit List PDF will open on the screen.</li>
+
+<li>Search your Roll Number or Name using <strong>Ctrl + F</strong>.</li>
+
+<li>Check your qualifying status.</li>
+
+<li>Download the Result PDF.</li>
+
+<li>Take a printout for future reference.</li>
+
+</ol>
+
+<h2>
+
+JKSSB Junior Assistant Result 2026 Important Dates
+
+</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Event</th>
+
+<th>Date</th>
+
+</tr>
+
+<tr>
+
+<td>Notification Released</td>
+
+<td>2025</td>
+
+</tr>
+
+<tr>
+
+<td>Application Form</td>
+
+<td>Completed</td>
+
+</tr>
+
+<tr>
+
+<td>Written Examination</td>
+
+<td>19 April 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Answer Key Released</td>
+
+<td>April 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Merit List PDF</td>
+
+<td>01 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Skill Test</td>
+
+<td>First Fortnight of July 2026 (Tentative)</td>
+
+</tr>
+
+<tr>
+
+<td>Document Verification</td>
+
+<td>To Be Announced</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+Result PDF Download Details
+
+</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Information</th>
+
+</tr>
+
+<tr>
+
+<td>Result Status</td>
+
+<td>Declared</td>
+
+</tr>
+
+<tr>
+
+<td>Result Format</td>
+
+<td>PDF Merit List</td>
+
+</tr>
+
+<tr>
+
+<td>Scorecard Availability</td>
+
+<td>Online</td>
+
+</tr>
+
+<tr>
+
+<td>Selection List</td>
+
+<td>Available</td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td>jkssb.nic.in</td>
+
+</tr>
+
+<tr>
+
+<td>Download Mode</td>
+
+<td>Online</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+Details Mentioned on JKSSB Junior Assistant Scorecard
+
+</h2>
+
+<p>
+
+After downloading the scorecard or merit list PDF, candidates should carefully verify all the information mentioned in the result.
+
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Details Available</th>
+
+</tr>
+
+<tr><td>Candidate Name</td></tr>
+
+<tr><td>Roll Number / Registration Number</td></tr>
+
+<tr><td>Category</td></tr>
+
+<tr><td>Gender</td></tr>
+
+<tr><td>Date of Birth</td></tr>
+
+<tr><td>Marks Obtained</td></tr>
+
+<tr><td>Qualifying Status</td></tr>
+
+<tr><td>Selection Status</td></tr>
+
+<tr><td>Important Instructions</td></tr>
+
+</table>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2>
+
+JKSSB Junior Assistant Expected Cut-Off 2026
+
+</h2>
+
+<p>
+
+The official category-wise cut-off marks have not been released separately by JKSSB. However, based on the number of vacancies, examination difficulty level and previous recruitment trends, the expected cut-off marks are given below for reference.
+
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Category</th>
+
+<th>Expected Cut-Off (Marks)</th>
+
+</tr>
+
+<tr>
+
+<td>General (UR)</td>
+
+<td>55 – 60</td>
+
+</tr>
+
+<tr>
+
+<td>EWS</td>
+
+<td>50 – 55</td>
+
+</tr>
+
+<tr>
+
+<td>OBC</td>
+
+<td>48 – 53</td>
+
+</tr>
+
+<tr>
+
+<td>SC</td>
+
+<td>43 – 48</td>
+
+</tr>
+
+<tr>
+
+<td>ST</td>
+
+<td>40 – 45</td>
+
+</tr>
+
+<tr>
+
+<td>Ex-Servicemen</td>
+
+<td>32 – 37</td>
+
+</tr>
+
+</table>
+
+<div class="important-note">
+
+<strong>Note:</strong> The above cut-off marks are expected values based on previous recruitment trends. Candidates should rely on the official JKSSB Result PDF for their actual qualifying status.
+
+</div>
+
+<h2>
+
+Merit List PDF
+
+</h2>
+
+<p>
+
+The JKSSB Junior Assistant Merit List 2026 contains the names and roll numbers of candidates who have qualified in the written examination. Only candidates whose names appear in the official merit list will be eligible to participate in the next stage of the recruitment process.
+
+</p>
+
+<ul>
+
+<li>Merit List released in PDF format.</li>
+
+<li>Available only through the official JKSSB website.</li>
+
+<li>Contains Roll Number and Candidate Details.</li>
+
+<li>Used for Skill Test shortlisting.</li>
+
+<li>Download and keep a printed copy for future reference.</li>
+
+</ul>
+
+<h2>
+
+What Happens After JKSSB Junior Assistant Result 2026?
+
+</h2>
+
+<p>
+
+Candidates who have successfully qualified in the JKSSB Junior Assistant Written Examination will be shortlisted for the next stage of the recruitment process. Qualifying the written examination does not guarantee final selection. Candidates must successfully complete all subsequent stages prescribed by the Jammu and Kashmir Services Selection Board (JKSSB).
+
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Selection Stage</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>Written Examination</td>
+
+<td>✅ Completed</td>
+
+</tr>
+
+<tr>
+
+<td>Result Declaration</td>
+
+<td>✅ Released</td>
+
+</tr>
+
+<tr>
+
+<td>Typing Skill Test</td>
+
+<td>Upcoming</td>
+
+</tr>
+
+<tr>
+
+<td>Document Verification</td>
+
+<td>Upcoming</td>
+
+</tr>
+
+<tr>
+
+<td>Final Merit List</td>
+
+<td>To Be Released</td>
+
+</tr>
+
+<tr>
+
+<td>Appointment</td>
+
+<td>After Final Selection</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+JKSSB Junior Assistant Skill Test 2026
+
+</h2>
+
+<p>
+
+Candidates shortlisted in the written examination will be called for the Typing Skill Test. The Skill Test is qualifying in nature but mandatory for final selection. Candidates are advised to regularly visit the official JKSSB website for the latest updates regarding the Skill Test schedule.
+
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Details</th>
+
+</tr>
+
+<tr>
+
+<td>Test Name</td>
+
+<td>Typing Skill Test</td>
+
+</tr>
+
+<tr>
+
+<td>Conducting Authority</td>
+
+<td>JKSSB</td>
+
+</tr>
+
+<tr>
+
+<td>Tentative Schedule</td>
+
+<td>First Fortnight of July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Venue</td>
+
+<td>NIELIT Jammu / Srinagar</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Await Official Notice</td>
+
+</tr>
+
+</table>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2>
+
+Documents Required for Skill Test & Document Verification
+
+</h2>
+
+<p>
+
+Candidates shortlisted for the next stage should keep all original documents along with self-attested photocopies ready for verification.
+
+</p>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Document</th>
+
+<th>Required</th>
+
+</tr>
+
+<tr>
+
+<td>Result / Merit List PDF</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Admit Card</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>10th Certificate</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Graduation Degree / Marksheet</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Domicile Certificate</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Category Certificate (SC/ST/OBC/EWS)</td>
+
+<td>If Applicable</td>
+
+</tr>
+
+<tr>
+
+<td>PwBD Certificate</td>
+
+<td>If Applicable</td>
+
+</tr>
+
+<tr>
+
+<td>Government Photo ID Proof</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Passport Size Photographs</td>
+
+<td>2–4 Copies</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+Important Instructions for Qualified Candidates
+
+</h2>
+
+<ul>
+
+<li>Download and save the Result PDF for future reference.</li>
+
+<li>Regularly visit the official JKSSB website for Skill Test updates.</li>
+
+<li>Keep all original educational documents ready.</li>
+
+<li>Carry valid Government-issued Photo ID during Skill Test.</li>
+
+<li>Reach the Skill Test venue before the reporting time.</li>
+
+<li>Follow all instructions issued by JKSSB officials.</li>
+
+<li>Failure to appear in the Skill Test may lead to cancellation of candidature.</li>
+
+<li>Any discrepancy in documents may result in rejection.</li>
+
+</ul>
+
+<h2>
+
+Why Is the Skill Test Important?
+
+</h2>
+
+<p>
+
+The Typing Skill Test plays an important role in the JKSSB Junior Assistant recruitment process. Although qualifying the written examination is essential, candidates must also successfully complete the typing test to be considered for the final merit list. Candidates who fail to qualify the typing test will not be considered for final appointment, irrespective of their written examination score.
+
+</p>
+
+<h2>
+
+Selection Process
+
+</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Stage</th>
+
+<th>Description</th>
+
+</tr>
+
+<tr>
+
+<td>Stage 1</td>
+
+<td>OMR Based Written Examination</td>
+
+</tr>
+
+<tr>
+
+<td>Stage 2</td>
+
+<td>Result & Merit List</td>
+
+</tr>
+
+<tr>
+
+<td>Stage 3</td>
+
+<td>Typing Skill Test</td>
+
+</tr>
+
+<tr>
+
+<td>Stage 4</td>
+
+<td>Document Verification</td>
+
+</tr>
+
+<tr>
+
+<td>Stage 5</td>
+
+<td>Final Merit List</td>
+
+</tr>
+
+<tr>
+
+<td>Stage 6</td>
+
+<td>Appointment</td>
+
+</tr>
+
+</table>
+
+<div class="important-note">
+
+<strong>Important:</strong> Candidates should rely only on the official JKSSB website for updates regarding the Skill Test schedule, Document Verification dates, and Final Merit List. Avoid relying on unofficial sources or social media posts.
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<h2>
+
+Important Links
+
+</h2>
+
+<table class="table table-bordered">
+
+<tr>
+
+<th>Particular</th>
+
+<th>Link</th>
+
+</tr>
+
+<tr>
+
+<td>Download JKSSB Junior Assistant Result 2026 PDF</td>
+
+<td><a href="https://jkssb.nic.in" target="_blank">Click Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Download Scorecard</td>
+
+<td><a href="https://jkssb.nic.in" target="_blank">Check Here</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Notification</td>
+
+<td><a href="https://jkssb.nic.in" target="_blank">View PDF</a></td>
+
+</tr>
+
+<tr>
+
+<td>Official Website</td>
+
+<td><a href="https://jkssb.nic.in" target="_blank">jkssb.nic.in</a></td>
+
+</tr>
+
+</table>
+
+<h2>
+
+Frequently Asked Questions (FAQs)
+
+</h2>
+
+<h3>1. When was the JKSSB Junior Assistant Result 2026 declared?</h3>
+
+<p>
+
+The JKSSB Junior Assistant Result 2026 was officially declared on <strong>01 July 2026</strong> on the official JKSSB website.
+
+</p>
+
+<h3>2. How can I check the JKSSB Junior Assistant Result 2026?</h3>
+
+<p>
+
+Visit the official JKSSB website, open the Result section, download the Merit List PDF and search your Roll Number or Name.
+
+</p>
+
+<h3>3. What is the official website to download the result?</h3>
+
+<p>
+
+Candidates can download the result from the official website:
+<strong>https://jkssb.nic.in</strong>.
+
+</p>
+
+<h3>4. How many vacancies are available?</h3>
+
+<p>
+
+The recruitment is being conducted for a total of <strong>343 Junior Assistant posts</strong>.
+
+</p>
+
+<h3>5. What is the next stage after the written examination?</h3>
+
+<p>
+
+Candidates shortlisted in the written examination will appear for the <strong>Typing Skill Test</strong> followed by <strong>Document Verification</strong>.
+
+</p>
+
+<h3>6. Is the Skill Test mandatory?</h3>
+
+<p>
+
+Yes. The Typing Skill Test is mandatory for final selection under the JKSSB Junior Assistant Recruitment process.
+
+</p>
+
+<h3>7. What details are mentioned in the Result PDF?</h3>
+
+<p>
+
+The Result PDF generally contains the candidate's Name, Roll Number, Category, Marks, Qualifying Status and important recruitment instructions.
+
+</p>
+
+<h3>8. Can I request re-evaluation of my answer sheet?</h3>
+
+<p>
+
+No. JKSSB generally does not provide any facility for re-evaluation or rechecking of written examination answer sheets.
+
+</p>
+
+<h3>9. When will the Skill Test be conducted?</h3>
+
+<p>
+
+The Typing Skill Test is expected to be conducted during the <strong>first fortnight of July 2026</strong>. Candidates should regularly check the official website for the latest schedule.
+
+</p>
+
+<h3>10. What should I do after downloading the Result PDF?</h3>
+
+<p>
+
+Verify all details carefully, save multiple copies of the Result PDF, keep your original documents ready and regularly visit the official JKSSB website for further recruitment updates.
+
+</p>
+
+<h2>
+
+Why Trust SarthakYojana?
+
+</h2>
+
+<p>
+
+At <strong>SarthakYojana</strong>, every recruitment article is prepared after reviewing the official notification and result notice. We focus on providing accurate, easy-to-understand and regularly updated information so that candidates can access all important details such as results, merit lists, scorecards, cut-off marks, skill tests and document verification schedules from a single page.
+
+</p>
+
+<div class="info-box success">
+
+<h2>
+
+🎉 JKSSB Junior Assistant Result 2026 Released
+
+</h2>
+
+<p>
+
+Candidates who appeared in the written examination can now download the Merit List PDF and Scorecard from the official JKSSB website. Qualified candidates should prepare for the upcoming Typing Skill Test and Document Verification.
+
+</p>
+
+<p>
+
+<a href="https://jkssb.nic.in"
+
+target="_blank"
+
+class="btn-primary">
+
+Download Result PDF →
+
+</a>
+
+</p>
+
+</div>
+
+<h2>
+
+Related Results
+
+</h2>
+
+<ul>
+
+<li><a href="../item-detail.html?type=result&id=mahatransco-ae-result-2026">MAHATRANSCO AE Result 2026</a></li>
+
+<li><a href="../item-detail.html?type=result&id=hssc-revised-result-2026">HSSC Revised Result 2026</a></li>
+
+<li><a href="../item-detail.html?type=result&id=rrb-group-d-result-2026">RRB Group D Result 2026</a></li>
+
+<li><a href="../item-detail.html?type=result&id=up-tgt-result-2026">UP TGT Result 2026</a></li>
+
+<li><a href="../item-detail.html?type=result&id=sbi-cbo-result-2026">SBI CBO Result 2026</a></li>
+
+<li><a href="../results.html">View All Results →</a></li>
+
+</ul>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="important-note">
+
+<strong>Disclaimer:</strong>
+
+The information provided on this page is for informational purposes only. Although every effort has been made to ensure the accuracy of the details, candidates are strongly advised to verify the Result PDF, Merit List, Skill Test Schedule, Document Verification dates and all recruitment updates through the official <strong>JKSSB</strong> website before taking any further action.
+
+</div>
+
+`;
 RESULT_CONTENT["hssc-revised-result-2026"] = `
 
 <div class="article-meta">
