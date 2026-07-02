@@ -1,4 +1,4 @@
-// SarthakYojana.in – Results Page JS
+// SarthakYojana.in – Main JS (Optimized)
 
 // ── Mobile menu toggle ──────────────────────────────
 function toggleMenu() {
@@ -10,6 +10,7 @@ function toggleMenu() {
   }
 }
 
+// Close menu on outside click
 document.addEventListener('click', function(e) {
   var nav = document.getElementById('mainNav');
   var btn = document.querySelector('.hamburger');
@@ -38,6 +39,7 @@ function doSearch() {
   }
 }
 
+// ── Enter key on search inputs ───────────────────────
 (function() {
   function bindSearch() {
     ['searchInput','sideSearch','mainSearch'].forEach(function(id) {
@@ -55,16 +57,19 @@ function doSearch() {
   } else { bindSearch(); }
 })();
 
+// ── Smooth scroll ─────────────────────────────────────
 function smoothScroll(id) {
   var el = document.getElementById(id);
   if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.pageYOffset - 80, behavior: 'smooth' });
 }
 
+// ── Accordion steps ───────────────────────────────────
 function toggleStep(i) {
   var el = document.getElementById('step-' + i);
   if (el) el.classList.toggle('open');
 }
 
+// ── Auto date (Hindi) ─────────────────────────────────
 (function() {
   function updateDate() {
     var days   = ['रविवार','सोमवार','मंगलवार','बुधवार','गुरुवार','शुक्रवार','शनिवार'];
@@ -77,6 +82,7 @@ function toggleStep(i) {
   else { updateDate(); }
 })();
 
+// ── Cookie consent ────────────────────────────────────
 function cookieAccept() {
   localStorage.setItem('cookieConsent', 'accepted');
   var b = document.getElementById('cookieBanner'); if (b) b.style.display = 'none';
@@ -85,45 +91,3 @@ function cookieDecline() {
   localStorage.setItem('cookieConsent', 'declined');
   var b = document.getElementById('cookieBanner'); if (b) b.style.display = 'none';
 }
-
-renderHeader('Result');
-renderTicker();
-renderFooter();
-renderCookieConsent();
-
-// Safe data access
-const _results = typeof RESULTS_DATA     !== 'undefined' ? RESULTS_DATA     : [];
-const _admits  = typeof ADMIT_CARDS_DATA !== 'undefined' ? ADMIT_CARDS_DATA : [];
-const _answers = typeof ANSWER_KEYS_DATA !== 'undefined' ? ANSWER_KEYS_DATA : [];
-
-// ── Sidebar lists ─────────────────────────────────────
-const rList = document.getElementById('resultsList');
-if (rList) rList.innerHTML = _results.map(r=>
-  `<li><a href="item-detail.html?type=result&id=${r.id}">${r.title}${r.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('') || '<li>No results yet</li>';
-
-const aList = document.getElementById('admitList');
-if (aList) aList.innerHTML = _admits.map(a=>
-  `<li><a href="admit-card-detail.html?id=${a.id}">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('') || '<li>No admit cards yet</li>';
-
-const anList = document.getElementById('answerList');
-if (anList) anList.innerHTML = _answers.map(a=>
-  `<li><a href="item-detail.html?type=answer&id=${a.id}">${a.title}${a.isNew?'<span class="new-tag">NEW</span>':''}</a></li>`).join('') || '<li>No answer keys yet</li>';
-
-// ── Main tables ───────────────────────────────────────
-const rTable = document.getElementById('resultsTable');
-if (rTable) rTable.innerHTML = _results.length
-  ? _results.map((r,i)=>
-    `<tr><td>${i+1}</td><td><a href="item-detail.html?type=result&id=${r.id}" style="color:#c0392b;">${r.title}</a></td><td>${r.organization||'—'}</td><td>${r.date||'—'}</td><td><a href="item-detail.html?type=result&id=${r.id}" class="apply-small">Check</a></td></tr>`).join('')
-  : `<tr><td colspan="5" style="text-align:center;color:#888;padding:16px;">No results added yet. Check back soon.</td></tr>`;
-
-const aTable = document.getElementById('admitTable');
-if (aTable) aTable.innerHTML = _admits.length
-  ? _admits.map((a,i)=>
-    `<tr><td>${i+1}</td><td><a href="admit-card-detail.html?id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.examDate||'—'}</td><td><a href="admit-card-detail.html?id=${a.id}" class="apply-small">Download</a></td></tr>`).join('')
-  : `<tr><td colspan="5" style="text-align:center;color:#888;padding:16px;">No admit cards added yet. Check back soon.</td></tr>`;
-
-const anTable = document.getElementById('answerTable');
-if (anTable) anTable.innerHTML = _answers.length
-  ? _answers.map((a,i)=>
-    `<tr><td>${i+1}</td><td><a href="item-detail.html?type=answer&id=${a.id}" style="color:#c0392b;">${a.title}</a></td><td>${a.organization||'—'}</td><td>${a.date||'—'}</td><td><a href="item-detail.html?type=answer&id=${a.id}" class="apply-small">Download</a></td></tr>`).join('')
-  : `<tr><td colspan="5" style="text-align:center;color:#888;padding:16px;">No answer keys added yet. Check back soon.</td></tr>`;

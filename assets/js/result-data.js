@@ -2,6 +2,85 @@
 // PDF files: assets/notifications/<id>.pdf
 
 const RESULTS_DATA = [
+    {
+    id: "hssc-revised-result-2026",
+    title: "HSSC Revised Result 2026 Out For Forester, Forest Guard & Other Posts",
+    shortTitle: "HSSC Revised Result 2026",
+    organization: "Haryana Staff Selection Commission (HSSC)",
+    postName: "Forester, Forest Guard, Deputy Ranger, Warder, Assistant Superintendent Jail, Constable & Sub-Inspector",
+    category: "Result",
+    examName: "HSSC Recruitment 2026 (Advt. No. 13/2024, 02/2026 & 04/2026)",
+
+    resultDate: "29 June 2026",
+    examDate: "Physical Measurement Test (PMT)",
+    totalPosts: "Various",
+
+    selectionStatus: "Additional PMT Shortlist Released",
+    resultMode: "Online",
+    loginCredentials: "Registration Number",
+
+    officialWebsite: "https://hssc.gov.in",
+    resultLink: "https://hssc.gov.in",
+
+    notificationPdf: "../assets/notifications/hssc-revised-result-2026-notice.pdf",
+    resultPdf: "../assets/notifications/hssc-revised-result-2026.pdf",
+
+    image: "HSSC.jpeg",
+
+    featured: true,
+    isNew: true,
+    status: "Released",
+
+    advertisementNo: "13/2024, 02/2026 & 04/2026",
+
+    nextStage: [
+        "Physical Measurement Test (PMT)",
+        "Physical Efficiency Test (PET) (Where Applicable)",
+        "Document Verification",
+        "Final Selection"
+    ],
+
+    requiredDocuments: [
+        "PMT Admit Card",
+        "Registration Number",
+        "Aadhaar Card",
+        "Original Educational Certificates",
+        "Category Certificate (If Applicable)",
+        "Passport Size Photographs"
+    ],
+
+    importantDates: {
+        revisedResultDate: "29 June 2026",
+        grievanceLastDate: "30 June 2026",
+        pmtMale: "02 July 2026",
+        pmtFemale: "03 July 2026"
+    },
+
+    importantInstructions: [
+        "The additional shortlist has been released due to absentee candidates in the earlier PMT rounds.",
+        "Candidates must download the PMT admit card before reporting.",
+        "Report strictly according to the allotted batch timing.",
+        "Shortlisting is provisional and subject to verification of eligibility.",
+        "Final selection will be based on the complete recruitment process."
+    ],
+
+    tags: [
+        "HSSC Revised Result 2026",
+        "HSSC Result 2026",
+        "HSSC Forest Guard Result",
+        "HSSC Forester Result",
+        "HSSC PMT Result",
+        "HSSC Additional Shortlist",
+        "Haryana Forest Guard Result",
+        "HSSC Merit List",
+        "HSSC Revised Merit List",
+        "HSSC PMT Admit Card"
+    ],
+
+    description:
+        "HSSC Revised Result 2026 has been released by the Haryana Staff Selection Commission on 29 June 2026. The Commission has published an additional shortlist of candidates for the Physical Measurement Test (PMT) for Forester, Forest Guard, Deputy Ranger, Warder, Assistant Superintendent Jail, Constable and Sub-Inspector posts under Advertisement Nos. 13/2024, 02/2026 and 04/2026."
+},
+    
 {
     id: "tnpsc-group-2-mains-result-2026",
     title: "TNPSC Group 2 Mains Result 2026 Out",

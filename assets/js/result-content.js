@@ -1,1517 +1,479 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
-RESULT_CONTENT["upsssc-aso-mains-result-2026"] = `
+RESULT_CONTENT["hssc-revised-result-2026"] = `
 
 <div class="article-meta">
-  <strong>By SarthakYojana Editorial Team</strong> |
-  <time datetime="2026-06-30">Updated: 30 June 2026</time>
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-01">Updated: 01 July 2026</time>
 </div>
 
-<h1>UPSSSC ASO Mains Result 2026 Out – Shortlisting Result Released for 1,565 Vacancies</h1>
+<h1>HSSC Revised Result 2026 Out For Forester, Forest Guard & Other Posts – Download PDF</h1>
 
-<p>The <strong>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</strong> has officially released the <strong>UPSSSC Assistant Statistical Officer (ASO) Mains Shortlisting Result 2026</strong> for candidates shortlisted to appear in the Main Examination. Candidates can now check whether they have qualified through the official website <strong>upsssc.gov.in</strong>. The shortlisting has been prepared based on the PET score and eligibility criteria prescribed by the Commission. :contentReference[oaicite:0]{index=0}</p>
+<h2>HSSC Revised PMT Result 2026 Released for Additional Shortlisted Candidates</h2>
 
-<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-<strong>⚠️ Important:</strong> This is a <strong>Mains Shortlisting Result</strong>. Candidates whose Registration Number appears in the list will be eligible to appear for the UPSSSC ASO Main Written Examination. Final selection will be based on the Main Examination and Document Verification. :contentReference[oaicite:1]{index=1}
+<p>
+The <strong>Haryana Staff Selection Commission (HSSC)</strong> has officially released the
+<strong>HSSC Revised Result 2026</strong> in the form of an
+<strong>additional shortlist for the Physical Measurement Test (PMT)</strong>.
+The revised result covers the posts of
+<strong>Forester, Forest Guard, Deputy Ranger, Warder, Assistant Superintendent Jail, Constable and Sub-Inspector</strong>
+under Advertisement Nos.
+<strong>13/2024, 02/2026 and 04/2026</strong>.
+Candidates whose Registration Number appears in the revised list are eligible to appear for the upcoming PMT as per the official schedule.
+</p>
+
+<p>
+According to the Commission, the additional shortlist has been released because many shortlisted candidates remained absent during the earlier PMT rounds. Newly shortlisted candidates should download their admit cards and report on the allotted date and time.
+</p>
+
+<div class="download-box">
+
+<h3>⬇ Download HSSC Revised Result 2026 PDF</h3>
+
+<p>
+
+Download the official revised shortlist PDF and check your Registration Number.
+
+</p>
+
+<a href="https://hssc.gov.in"
+target="_blank"
+class="download-btn">
+
+Download Revised Result
+
+</a>
+
 </div>
 
-<h2>UPSSSC ASO Mains Result 2026 – Overview</h2>
+<p>
 
-<table class="detail-table">
-<thead>
+✅ <strong>Status:</strong> Additional PMT Shortlist Released on
+<strong>29 June 2026</strong>
+
+</p>
+
+<h2>HSSC Revised Result 2026 – Overview</h2>
+
+<table>
+
 <tr>
+
 <th>Particulars</th>
+
 <th>Details</th>
-</tr>
-</thead>
 
-<tbody>
+</tr>
 
 <tr>
+
 <td>Organization</td>
-<td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</td>
+
+<td>Haryana Staff Selection Commission (HSSC)</td>
+
 </tr>
 
 <tr>
-<td>Post Name</td>
-<td>Assistant Statistical Officer (ASO) / Assistant Research Officer (ARO)</td>
+
+<td>Notice Type</td>
+
+<td>Additional Shortlist for Physical Measurement Test (PMT)</td>
+
 </tr>
 
 <tr>
-<td>Advertisement No.</td>
-<td>05-Exam/2026</td>
+
+<td>Advertisement Numbers</td>
+
+<td>13/2024, 02/2026 & 04/2026</td>
+
 </tr>
 
 <tr>
-<td>Total Vacancies</td>
-<td>1,565 Posts</td>
+
+<td>Posts Covered</td>
+
+<td>Forester, Forest Guard, Deputy Ranger, Warder, Assistant Superintendent Jail, Constable & Sub-Inspector</td>
+
 </tr>
 
 <tr>
-<td>Result Type</td>
-<td>Mains Shortlisting Result</td>
-</tr>
 
-<tr>
 <td>Result Date</td>
-<td>27 June 2026</td>
+
+<td>29 June 2026</td>
+
 </tr>
 
 <tr>
-<td>Next Stage</td>
-<td>Main Written Examination</td>
+
+<td>PMT Start Date (Male)</td>
+
+<td>02 July 2026</td>
+
 </tr>
 
 <tr>
+
+<td>PMT Start Date (Female)</td>
+
+<td>03 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Selection Status</td>
+
+<td>Additional Candidates Shortlisted</td>
+
+</tr>
+
+<tr>
+
 <td>Official Website</td>
-<td><a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a></td>
-</tr>
 
-</tbody>
+<td>
+<a href="https://hssc.gov.in"
+target="_blank"
+rel="nofollow noopener">
+hssc.gov.in
+</a>
+</td>
+
+</tr>
 
 </table>
 
-<h2>UPSSSC ASO Mains Result 2026 – Direct Result Download</h2>
+<h2>Direct Download Links</h2>
 
-<p>Candidates can use the links below to download the shortlisting result PDF and check their qualification status.</p>
-
-<table class="detail-table">
-
-<thead>
+<table>
 
 <tr>
 
 <th>Particular</th>
 
-<th>Download</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td><strong>UPSSSC ASO Mains Shortlisting Result 2026</strong></td>
-
-<td>
-<a href="../assets/notifications/upsssc-aso-mains-result-2026.pdf"
-class="apply-small"
-download
-target="_blank">
-⬇ Download PDF
-</a>
-</td>
+<th>Link</th>
 
 </tr>
 
 <tr>
 
-<td><strong>Official Result Page</strong></td>
+<td>HSSC Revised Result 2026 PDF</td>
 
 <td>
-<a href="https://upsssc.gov.in"
-class="apply-small"
-target="_blank">
-Check Result
-</a>
-</td>
 
-</tr>
-
-<tr>
-
-<td><strong>Official Website</strong></td>
-
-<td>
-<a href="https://upsssc.gov.in"
+<a href="../assets/notifications/hssc-revised-result-2026.pdf"
 target="_blank"
-rel="nofollow noopener">
-upsssc.gov.in
+class="apply-small">
+
+⬇ Download PDF
+
 </a>
+
 </td>
 
 </tr>
 
-</tbody>
+<tr>
+
+<td>Official Website</td>
+
+<td>
+
+<a href="https://hssc.gov.in"
+target="_blank"
+class="apply-small">
+
+Visit Website
+
+</a>
+
+</td>
+
+</tr>
 
 </table>
 
-<h2>How to Check UPSSSC ASO Mains Result 2026 Online</h2>
+<h2>Posts Included in HSSC Revised Result 2026</h2>
+
+<p>
+The revised PMT shortlist has been published for multiple recruitment notifications issued by HSSC. Candidates belonging to the following posts should check the revised result PDF carefully.
+</p>
+
+<table>
+
+<tr>
+
+<th>Post Name</th>
+
+<th>Department</th>
+
+<th>Advertisement No.</th>
+
+</tr>
+
+<tr>
+
+<td>Forester</td>
+
+<td>Forest Department</td>
+
+<td>02/2026</td>
+
+</tr>
+
+<tr>
+
+<td>Forest Guard</td>
+
+<td>Forest Department</td>
+
+<td>04/2026</td>
+
+</tr>
+
+<tr>
+
+<td>Deputy Ranger (Sports Quota)</td>
+
+<td>Forest Department</td>
+
+<td>13/2024</td>
+
+</tr>
+
+<tr>
+
+<td>Warder (Male & Female)</td>
+
+<td>Prisons Department</td>
+
+<td>13/2024</td>
+
+</tr>
+
+<tr>
+
+<td>Assistant Superintendent Jail</td>
+
+<td>Prisons Department</td>
+
+<td>13/2024</td>
+
+</tr>
+
+<tr>
+
+<td>Male/Female Constable (GD)</td>
+
+<td>Police Department</td>
+
+<td>13/2024</td>
+
+</tr>
+
+<tr>
+
+<td>Sub-Inspector (GD)</td>
+
+<td>Police Department</td>
+
+<td>13/2024</td>
+
+</tr>
+
+</table>
+<h2>Category-wise Cut-Off Marks</h2>
+
+<p>
+HSSC has also released the revised category-wise cut-off marks along with the additional PMT shortlist. The cut-off marks vary according to the post and reservation category.
+</p>
+
+<h3>Forester (Advertisement No. 02/2026)</h3>
+
+<table>
+
+<tr>
+<th>Category</th>
+<th>Cut-Off (%)</th>
+</tr>
+
+<tr>
+<td>UR</td>
+<td>83.974913</td>
+</tr>
+
+<tr>
+<td>UR ESM</td>
+<td>76.432153</td>
+</tr>
+
+<tr>
+<td>BCA</td>
+<td>82.079424</td>
+</tr>
+
+<tr>
+<td>BCA ESM</td>
+<td>68.940250</td>
+</tr>
+
+<tr>
+<td>OSC</td>
+<td>82.058905</td>
+</tr>
+
+<tr>
+<td>DSC</td>
+<td>80.071631</td>
+</tr>
+
+</table>
+
+<h3>Forest Guard (Advertisement No. 04/2026)</h3>
+
+<table>
+
+<tr>
+<th>Category</th>
+<th>Cut-Off (%)</th>
+</tr>
+
+<tr>
+<td>UR</td>
+<td>71.753841</td>
+</tr>
+
+<tr>
+<td>UR ESM</td>
+<td>40.236340</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>76.971549</td>
+</tr>
+
+<tr>
+<td>BCA</td>
+<td>74.567546</td>
+</tr>
+
+<tr>
+<td>BCB</td>
+<td>82.079424</td>
+</tr>
+
+<tr>
+<td>BCB ESM</td>
+<td>45.466063</td>
+</tr>
+
+<tr>
+<td>OSC</td>
+<td>72.910373</td>
+</tr>
+
+<tr>
+<td>OSC ESM</td>
+<td>60.192740</td>
+</tr>
+
+<tr>
+<td>DSC</td>
+<td>69.491885</td>
+</tr>
+
+<tr>
+<td>DSC ESM</td>
+<td>52.305959</td>
+</tr>
+
+</table>
+
+<h2>Why Has HSSC Released an Additional PMT Shortlist?</h2>
+
+<p>
+The Haryana Staff Selection Commission issued this revised result after observing that a significant number of previously shortlisted candidates remained absent during the Physical Measurement Test (PMT). To ensure that the recruitment process continues smoothly and all available vacancies are filled, HSSC has decided to shortlist additional eligible candidates.
+</p>
+
+<p>
+Candidates whose Registration Numbers are included in the revised list should download their PMT admit cards and report to the examination venue according to the schedule mentioned in the official notice. The Commission has also clarified that it may further increase the number of shortlisted candidates if required. :contentReference[oaicite:0]{index=0}
+
+</p>
+
+<h2>PMT Schedule 2026</h2>
+
+<table>
+
+<tr>
+
+<th>Candidate Category</th>
+
+<th>PMT Date</th>
+
+</tr>
+
+<tr>
+
+<td>Male Candidates</td>
+
+<td>02 July 2026</td>
+
+</tr>
+
+<tr>
+
+<td>Female Candidates</td>
+
+<td>03 July 2026</td>
+
+</tr>
+
+</table>
+
+<h2>How to Check HSSC Revised Result 2026?</h2>
 
 <ol>
 
-<li>Visit the official website at <strong>upsssc.gov.in</strong>.</li>
+<li>Visit the official website <strong>hssc.gov.in</strong>.</li>
 
 <li>Open the <strong>Results</strong> section.</li>
 
-<li>Click on <strong>UPSSSC ASO Mains Shortlisting Result 2026</strong>.</li>
+<li>Click on <strong>HSSC Revised Result 2026 / Additional PMT Shortlist</strong>.</li>
 
 <li>Download the Result PDF.</li>
 
-<li>Press <strong>Ctrl + F</strong> and search your Registration Number.</li>
+<li>Press <strong>Ctrl + F</strong> and enter your Registration Number.</li>
 
-<li>Save the PDF for future reference and the Main Examination process.</li>
+<li>If your Registration Number appears in the list, download your PMT Admit Card.</li>
+
+<li>Report for the Physical Measurement Test according to the allotted schedule.</li>
 
 </ol>
 
-<h2>Important Instructions for Shortlisted Candidates</h2>
-
-<ul>
-
-<li>The <strong>UPSSSC ASO Mains Shortlisting Result 2026</strong> has been prepared on the basis of candidates' performance in the Preliminary Eligibility Test (PET) and the eligibility criteria prescribed by the Commission.</li>
-
-<li>Only candidates whose Registration Number appears in the shortlisting result will be eligible to appear in the <strong>UPSSSC ASO Main Written Examination</strong>.</li>
-
-<li>The Main Examination date, admit card release schedule and examination centre details will be notified separately on the official website.</li>
-
-<li>Candidates should regularly visit <a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a> for the latest announcements regarding the Main Examination.</li>
-
-<li>Shortlisting for the Main Examination does not guarantee final selection. Candidates must qualify the Main Examination and complete Document Verification successfully.</li>
-
-</ul>
-
-<h2>UPSSSC ASO Recruitment 2026 – Important Timeline</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Event</th>
-
-<th>Date</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Online Application Started</td>
-
-<td>April 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Last Date to Apply</td>
-
-<td>May 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Mains Shortlisting Result</td>
-
-<td>27 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Main Examination Admit Card</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-<tr>
-
-<td>Main Written Examination</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-<tr>
-
-<td>Final Result</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>FAQs – UPSSSC ASO Mains Result 2026</h2>
-
-<h3>Q1. UPSSSC ASO Mains Shortlisting Result 2026 kab release hua?</h3>
-
-<p><strong>UPSSSC ASO Mains Shortlisting Result 2026</strong> official website par <strong>27 June 2026</strong> ko release kiya gaya.</p>
-
-<h3>Q2. UPSSSC ASO Mains Shortlisting Result kaise download kare?</h3>
-
-<p>Official website <strong>upsssc.gov.in</strong> par jaakar <strong>Results</strong> section open karein aur Assistant Statistical Officer Mains Shortlisting Result PDF download karein. PDF me apna Registration Number search karke qualification status check kar sakte hain.</p>
-
-<h3>Q3. Shortlisting Result ke baad next process kya hoga?</h3>
-
-<p>Shortlisted candidates ko Main Written Examination ke liye admit card issue kiya jayega. Examination schedule Commission dwara alag se notify kiya jayega.</p>
-
-<h3>Q4. Kya Mains Shortlisting Result final selection hai?</h3>
-
-<p>Nahi. Yeh sirf Main Examination ke liye shortlisting hai. Final selection Main Written Examination, Document Verification aur recruitment rules ke anusaar kiya jayega.</p>
-
-<h2>More All Results 2026</h2>
-
-<div class="related-links">
-
-<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
-TNPSC Group 2 Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
-RSSB 4th Grade Revised Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
-RPSC ASO Marks 2026 Released
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
-RPSC ASO Main Merit List 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
-UPSSSC ASO Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
-UP Home Guard Result 2026
-<span class="new-tag">NEW</span>
-</a>
-
-<p style="margin-top:15px;">
-<a href="../results.html"><strong>View All »</strong></a>
-</p>
-
-</div>
-
-`;
-RESULT_CONTENT["rpsc-aso-main-merit-list-2026"] = `
-
-<div class="article-meta">
-  <strong>By SarthakYojana Editorial Team</strong> |
-  <time datetime="2026-06-30">Updated: 30 June 2026</time>
-</div>
-
-<h1>RPSC ASO Main Merit List 2026 Out – Download Final Merit List PDF</h1>
-
-<p>The <strong>Rajasthan Public Service Commission (RPSC)</strong> has officially released the <strong>RPSC Assistant Statistical Officer (ASO) Main Merit List 2026</strong> on its official website <strong>rpsc.rajasthan.gov.in</strong>. Candidates who appeared in the Assistant Statistical Officer recruitment process can now download the final merit list PDF and check whether their Roll Number has been shortlisted for the next stage of recruitment. The merit list has been prepared based on candidates' performance in the written examination and the applicable recruitment rules. :contentReference[oaicite:0]{index=0}</p>
-
-<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-<strong>⚠️ Important:</strong> The published <strong>Main Merit List</strong> is provisional in nature. Candidates included in the list will be called for the next stage of the recruitment process, subject to document verification and fulfillment of all eligibility conditions prescribed by RPSC.
-</div>
-
-<h2>RPSC ASO Main Merit List 2026 – Overview</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Particulars</th>
-
-<th>Details</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Organization</td>
-
-<td>Rajasthan Public Service Commission (RPSC)</td>
-
-</tr>
-
-<tr>
-
-<td>Post Name</td>
-
-<td>Assistant Statistical Officer (ASO)</td>
-
-</tr>
-
-<tr>
-
-<td>Advertisement</td>
-
-<td>Assistant Statistical Officer Recruitment 2024</td>
-
-</tr>
-
-<tr>
-
-<td>Written Examination</td>
-
-<td>12 October 2025</td>
-
-</tr>
-
-<tr>
-
-<td>Main Merit List Status</td>
-
-<td>Released</td>
-
-</tr>
-
-<tr>
-
-<td>Merit List Release Date</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Selection Process</td>
-
-<td>Written Examination → Main Merit List → Document Verification → Final Selection</td>
-
-</tr>
-
-<tr>
-
-<td>Official Website</td>
-
-<td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>RPSC ASO Main Merit List 2026 – Direct PDF Download</h2>
-
-<p>Candidates can download the Main Merit List PDF and check their qualifying status using the links provided below.</p>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Particular</th>
-
-<th>Download</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td><strong>RPSC ASO Main Merit List PDF</strong></td>
-
-<td>
-<a href="../assets/notifications/rpsc-aso-main-merit-list-2026.pdf"
-class="apply-small"
-download
-target="_blank">
-⬇ Download PDF
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Result Preamble & Cut Off</strong></td>
-
-<td>
-<a href="https://rpsc.rajasthan.gov.in/results?Pie=323"
-class="apply-small"
-target="_blank">
-View Notice
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Official Website</strong></td>
-
-<td>
-<a href="https://rpsc.rajasthan.gov.in"
-target="_blank"
-rel="nofollow noopener">
-rpsc.rajasthan.gov.in
-</a>
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>How to Check RPSC ASO Main Merit List 2026 Online</h2>
-
-<ol>
-
-<li>Visit the official RPSC website at <strong>rpsc.rajasthan.gov.in</strong>.</li>
-
-<li>Click on the <strong>Results</strong> section available on the homepage.</li>
-
-<li>Open the link for <strong>Assistant Statistical Officer (ASO) Main Merit List 2026</strong>.</li>
-
-<li>Download the Merit List PDF.</li>
-
-<li>Press <strong>Ctrl + F</strong> and search your Roll Number.</li>
-
-<li>If your Roll Number appears in the list, download and save the PDF for future Document Verification.</li>
-
-</ol>
-<h2>Important Instructions for Candidates Included in the Main Merit List</h2>
-
-<ul>
-
-<li>The <strong>RPSC ASO Main Merit List 2026</strong> is provisional and subject to verification of eligibility, original documents and other recruitment conditions prescribed by the Commission. :contentReference[oaicite:0]{index=0}</li>
-
-<li>Candidates whose Roll Number appears in the Main Merit List will be considered for the next stage of the recruitment process, including Document Verification.  </li>
-
-<li>Document Verification schedule, venue and reporting instructions will be published separately on the official RPSC website. Candidates should regularly visit the portal for updates. :contentReference[oaicite:2]{index=2}</li>
-
-<li>Candidates must carry all original educational certificates, category certificates, domicile certificate, valid photo identity proof and other supporting documents during Document Verification.</li>
-
-<li>If any candidate is found ineligible or fails to produce the required documents, his/her candidature may be cancelled as per RPSC recruitment rules.</li>
-
-</ul>
-
-<h2>RPSC ASO Recruitment 2026 – Important Timeline</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Event</th>
-
-<th>Date</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Written Examination</td>
-
-<td>12 October 2025</td>
-
-</tr>
-
-<tr>
-
-<td>Result (Main & Reserve List)</td>
-
-<td>24 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Main Merit List Released</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Marks Released</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Document Verification</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>FAQs – RPSC ASO Main Merit List 2026</h2>
-
-<h3>Q1. RPSC ASO Main Merit List 2026 kab release hui?</h3>
-
-<p>
-<strong>RPSC Assistant Statistical Officer (ASO) Main Merit List 2026</strong> official website par <strong>29 June 2026</strong> ko release ki gayi. :contentReference[oaicite:3]{index=3}
-</p>
-
-<h3>Q2. Main Merit List PDF kaise download kare?</h3>
-
-<p>
-Official website <strong>rpsc.rajasthan.gov.in</strong> ke <strong>Results</strong> section me jaakar Assistant Statistical Officer Main Merit List PDF download karein aur <strong>Ctrl + F</strong> se apna Roll Number search karein.
-</p>
-
-<h3>Q3. Main Merit List ke baad next process kya hoga?</h3>
-
-<p>
-Main Merit List me shortlisted candidates ko <strong>Document Verification</strong> ke liye bulaya jayega. Verification schedule RPSC dwara alag se notify kiya jayega. :contentReference[oaicite:4]{index=4}
-</p>
-
-<h3>Q4. Kya Main Merit List final appointment hai?</h3>
-
-<p>
-Nahi. Main Merit List provisional hai. Final appointment Document Verification, eligibility verification aur Commission ke final approval ke baad hi ki jayegi.
-</p>
-
-<h2>More All Results 2026</h2>
-
-<div class="related-links">
-
-<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
-TNPSC Group 2 Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
-RSSB 4th Grade Revised Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
-RPSC ASO Marks 2026 Released
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
-RPSC ASO Main Merit List 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
-UPSSSC ASO Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
-UP Home Guard Result 2026
-<span class="new-tag">NEW</span>
-</a>
-
-<p style="margin-top:15px;">
-<a href="../results.html"><strong>View All »</strong></a>
-</p>
-
-</div>
-
-`;
-
-RESULT_CONTENT["rpsc-aso-marks-2026"] = `
-
-<div class="article-meta">
-  <strong>By SarthakYojana Editorial Team</strong> |
-  <time datetime="2026-06-30">Updated: 30 June 2026</time>
-</div>
-
-<h1>RPSC ASO Marks 2026 Released – Download Assistant Statistical Officer Score Card</h1>
-
-<p>The <strong>Rajasthan Public Service Commission (RPSC)</strong> has officially released the <strong>RPSC Assistant Statistical Officer (ASO) Marks 2026</strong> for candidates who appeared in the written examination conducted for the Assistant Statistical Officer Recruitment. Candidates can now check their individual marks and download the score sheet through the official website <strong>rpsc.rajasthan.gov.in</strong>. The marks were published after the declaration of the written examination result and merit list. :contentReference[oaicite:0]{index=0}</p>
-
-<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-<strong>⚠️ Important:</strong> The published marks are for candidates who appeared in the written examination. Candidates should verify their obtained marks carefully and preserve a copy of the score sheet for future recruitment stages.
-</div>
-
-<h2>RPSC ASO Marks 2026 – Overview</h2>
-
-<table class="detail-table">
-<thead>
-<tr>
-<th>Particulars</th>
-<th>Details</th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td>Organization</td>
-<td>Rajasthan Public Service Commission (RPSC)</td>
-</tr>
-
-<tr>
-<td>Post Name</td>
-<td>Assistant Statistical Officer (ASO)</td>
-</tr>
-
-<tr>
-<td>Advertisement</td>
-<td>Assistant Statistical Officer Recruitment 2024</td>
-</tr>
-
-<tr>
-<td>Examination Date</td>
-<td>12 October 2025</td>
-</tr>
-
-<tr>
-<td>Marks Status</td>
-<td>Released</td>
-</tr>
-
-<tr>
-<td>Marks Release Date</td>
-<td>29 June 2026</td>
-</tr>
-
-<tr>
-<td>Selection Process</td>
-<td>Written Examination → Document Verification → Final Selection</td>
-</tr>
-
-<tr>
-<td>Official Website</td>
-<td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td>
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>RPSC ASO Marks 2026 – Direct Score Card Download</h2>
-
-<p>Candidates can use the links below to check their marks and visit the official RPSC result portal.</p>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Particular</th>
-
-<th>Download</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td><strong>RPSC ASO Marks 2026</strong></td>
-
-<td>
-<a href="../notification/rpsc-aso-marks-2026.pdf"
-class="apply-small"
-download
-target="_blank">
-⬇ Download Marks PDF
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Official Result Portal</strong></td>
-
-<td>
-<a href="https://rpsc.rajasthan.gov.in/results"
-class="apply-small"
-target="_blank">
-Check Marks
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Official Website</strong></td>
-
-<td>
-<a href="https://rpsc.rajasthan.gov.in"
-target="_blank"
-rel="nofollow noopener">
-rpsc.rajasthan.gov.in
-</a>
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>How to Check RPSC ASO Marks 2026 Online</h2>
-
-<ol>
-
-<li>Visit the official RPSC website at <strong>rpsc.rajasthan.gov.in</strong>.</li>
-
-<li>Open the <strong>Results</strong> section.</li>
-
-<li>Click on <strong>Assistant Statistical Officer (ASO) Marks 2026</strong>.</li>
-
-<li>Download the Marks PDF or Score Sheet.</li>
-
-<li>Search your Roll Number using <strong>Ctrl + F</strong>.</li>
-
-<li>Save the marks sheet for future Document Verification and recruitment process.</li>
-
-</ol>
 <h2>Important Instructions for Candidates</h2>
 
 <ul>
 
-<li>The <strong>RPSC ASO Marks 2026</strong> have been published for informational purposes. Candidates should carefully verify their marks and retain a copy for future reference.</li>
+<li>Only candidates whose Registration Number appears in the revised shortlist are eligible to appear for the PMT.</li>
 
-<li>Marks obtained in the written examination will be considered during the preparation of the final merit list as per the recruitment rules.</li>
+<li>Carry the PMT Admit Card along with a valid Photo ID proof on the examination day.</li>
 
-<li>Candidates shortlisted in the recruitment process must appear for <strong>Document Verification</strong> with all original certificates.</li>
+<li>Candidates must report according to their allotted batch timing. Late entry will not be permitted.</li>
 
-<li>Any discrepancy in the marks or score sheet should be reported to the Rajasthan Public Service Commission through the official communication channels.</li>
+<li>Any grievance regarding the revised shortlist must be submitted online through the HSSC grievance portal within the prescribed time limit.</li>
 
-<li>Keep checking the official website <a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a> for further recruitment updates.</li>
+<li>Shortlisting is provisional and subject to verification of eligibility and recruitment rules.</li>
+
+<li>Final selection will be made only after completion of all recruitment stages, including PMT, Document Verification and other applicable tests. :contentReference[oaicite:1]{index=1}
+
+</li>
 
 </ul>
-
-<h2>RPSC ASO Recruitment 2026 – Important Timeline</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Event</th>
-
-<th>Date</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Written Examination</td>
-
-<td>12 October 2025</td>
-
-</tr>
-
-<tr>
-
-<td>Written Result Declared</td>
-
-<td>24 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Marks Released</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Document Verification</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-<tr>
-
-<td>Final Selection List</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>FAQs – RPSC ASO Marks 2026</h2>
-
-<h3>Q1. RPSC ASO Marks 2026 kab release hue?</h3>
-
-<p><strong>RPSC Assistant Statistical Officer (ASO) Marks 2026</strong> officially <strong>29 June 2026</strong> ko release kiye gaye.</p>
-
-<h3>Q2. RPSC ASO Marks kaise download kare?</h3>
-
-<p>Official website <strong>rpsc.rajasthan.gov.in</strong> par jaakar <strong>Results</strong> section open karein aur Assistant Statistical Officer Marks PDF download karein.</p>
-
-<h3>Q3. Kya RPSC ASO Marks ke baad Document Verification hogi?</h3>
-
-<p>Haan. Recruitment process ke agle stage mein shortlisted candidates ko Document Verification ke liye bulaya jayega. Schedule RPSC alag se notify karega.</p>
-
-<h3>Q4. Kya marks release hone ke baad final selection ho gaya hai?</h3>
-
-<p>Nahi. Marks release hona final appointment nahi hai. Final selection Document Verification aur recruitment rules ke anusaar kiya jayega.</p>
-
-<h2>More All Results 2026</h2>
-
-<div class="related-links">
-
-<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
-TNPSC Group 2 Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
-RSSB 4th Grade Revised Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
-RPSC ASO Marks 2026 Released
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
-RPSC ASO Main Merit List 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
-UPSSSC ASO Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
-UP Home Guard Result 2026
-<span class="new-tag">NEW</span>
-</a>
-
-<p style="margin-top:15px;">
-<a href="../results.html"><strong>View All »</strong></a>
-</p>
-
-</div>
-
 `;
-RESULT_CONTENT["rssb-4th-grade-revised-result-2026"] = `
-
-<div class="article-meta">
-  <strong>By SarthakYojana Editorial Team</strong> |
-  <time datetime="2026-06-30">Updated: 30 June 2026</time>
-</div>
-
-<h1>RSSB 4th Grade Revised Result 2026 Out – Revised Merit List PDF Released</h1>
-
-<p>The <strong>Rajasthan Staff Selection Board (RSSB)</strong> has officially released the <strong>RSSB 4th Grade Revised Result 2026</strong> on <strong>29 June 2026</strong>. Candidates who appeared in the Rajasthan Fourth Grade (Class IV Employee) Recruitment Examination can now download the revised merit list PDF and check their qualifying status through the official website <strong>rssb.rajasthan.gov.in</strong>. The revised result has been prepared after updating the merit list based on the board's latest evaluation. :contentReference[oaicite:0]{index=0}</p>
-
-<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-<strong>⚠️ Important:</strong> This is a <strong>Revised Merit List</strong>. Candidates shortlisted in the revised result will be considered for the next stage of the recruitment process as per the latest notification issued by RSSB.  
-</div>
-
-<h2>RSSB 4th Grade Revised Result 2026 – Overview</h2>
-
-<table class="detail-table">
-<thead>
-<tr>
-<th>Particulars</th>
-<th>Details</th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td>Organization</td>
-<td>Rajasthan Staff Selection Board (RSSB)</td>
-</tr>
-
-<tr>
-<td>Recruitment</td>
-<td>Fourth Grade Employee (Class IV)</td>
-</tr>
-
-<tr>
-<td>Total Vacancies</td>
-<td>53,750 Posts</td>
-</tr>
-
-<tr>
-<td>Result Type</td>
-<td>Revised Merit List</td>
-</tr>
-
-<tr>
-<td>Revised Result Date</td>
-<td>29 June 2026</td>
-</tr>
-
-<tr>
-<td>Selection Process</td>
-<td>Written Examination → Document Verification</td>
-</tr>
-
-<tr>
-<td>Result Status</td>
-<td>Released</td>
-</tr>
-
-<tr>
-<td>Official Website</td>
-<td><a href="https://rssb.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rssb.rajasthan.gov.in</a></td>
-</tr>
-
-</tbody>
-</table>
-
-<h2>RSSB 4th Grade Revised Result 2026 – Direct PDF Download</h2>
-
-<p>Candidates can use the links below to download the revised merit list PDF and check their qualifying status.</p>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Particular</th>
-
-<th>Download</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td><strong>RSSB 4th Grade Revised Merit List 2026</strong></td>
-
-<td>
-<a href="../notification/rssb-4th-grade-revised-result-2026.pdf"
-class="apply-small"
-download
-target="_blank">
-⬇ Download PDF
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Official Result Page</strong></td>
-
-<td>
-<a href="https://rssb.rajasthan.gov.in/results"
-class="apply-small"
-target="_blank">
-Check Result
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td><strong>Official Website</strong></td>
-
-<td>
-<a href="https://rssb.rajasthan.gov.in"
-target="_blank"
-rel="nofollow noopener">
-rssb.rajasthan.gov.in
-</a>
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>How to Check RSSB 4th Grade Revised Result 2026 Online</h2>
-
-<ol>
-
-<li>Visit the official RSSB website at <strong>rssb.rajasthan.gov.in</strong>.</li>
-
-<li>Open the <strong>Result</strong> section.</li>
-
-<li>Click on <strong>Fourth Grade Revised Result 2026</strong>.</li>
-
-<li>Download the revised merit list PDF.</li>
-
-<li>Press <strong>Ctrl + F</strong> and search your Roll Number.</li>
-
-<li>Download and save the PDF for future Document Verification.</li>
-
-</ol>
-<h2>Important Instructions for Revised Result Candidates</h2>
-
-<ul>
-
-<li>The <strong>RSSB 4th Grade Revised Result 2026</strong> has been prepared after revision of the merit list as notified by the Board. Candidates should refer only to the revised merit list for their final qualifying status. :contentReference[oaicite:0]{index=0}</li>
-
-<li>Candidates whose Roll Number appears in the revised merit list will be considered for the next stage of the recruitment process as per RSSB rules.</li>
-
-<li>Document Verification dates and venue details will be published separately on the official RSSB website. Candidates will not receive individual intimation through post.  </li>
-
-<li>Carry all original educational certificates, caste certificate (if applicable), domicile certificate, Aadhaar Card and other required documents during Document Verification.</li>
-
-<li>Selection remains provisional until successful verification of eligibility, original documents and other recruitment formalities.</li>
-
-</ul>
-
-<h2>RSSB 4th Grade Recruitment 2026 – Important Timeline</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Event</th>
-
-<th>Date</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Written Examination</td>
-
-<td>19–21 September 2025</td>
-
-</tr>
-
-<tr>
-
-<td>Original Result</td>
-
-<td>16 January 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Score Card Released</td>
-
-<td>26 January 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Revised Result / Merit List</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Document Verification</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>FAQs – RSSB 4th Grade Revised Result 2026</h2>
-
-<h3>Q1. RSSB 4th Grade Revised Result 2026 kab release hua?</h3>
-
-<p>
-RSSB ne <strong>29 June 2026</strong> ko Fourth Grade Recruitment ka Revised Result aur Revised Merit List official website par release kiya hai. 
-</p>
-
-<h3>Q2. Revised Result kaise download kare?</h3>
-
-<p>
-Official website <strong>rssb.rajasthan.gov.in</strong> par jaakar Result section open karein aur Revised Merit List PDF download karein. PDF me apna Roll Number search karke qualifying status check kar sakte hain.
-</p>
-
-<h3>Q3. Revised Result ke baad next process kya hoga?</h3>
-
-<p>
-Shortlisted candidates ko Document Verification ke liye bulaya jayega. DV schedule alag se RSSB dwara official website par publish kiya jayega.
-</p>
-
-<h3>Q4. Kya Revised Merit List hi final selection hai?</h3>
-
-<p>
-Nahi. Revised Merit List provisional hai. Final appointment Document Verification aur eligibility verification complete hone ke baad hi ki jayegi.
-</p>
-
-<h2>More All Results 2026</h2>
-
-<div class="related-links">
-
-<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
-TNPSC Group 2 Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
-RSSB 4th Grade Revised Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
-RPSC ASO Marks 2026 Released
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
-RPSC ASO Main Merit List 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
-UPSSSC ASO Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
-UP Home Guard Result 2026
-<span class="new-tag">NEW</span>
-</a>
-
-<p style="margin-top:15px;">
-<a href="../results.html"><strong>View All »</strong></a>
-</p>
-
-</div>
-
-`;
-RESULT_CONTENT["tnpsc-group-2-mains-result-2026"] = `
-
-<div class="article-meta">
-  <strong>By SarthakYojana Editorial Team</strong> |
-  <time datetime="2026-06-30">Updated: 30 June 2026</time>
-</div>
-
-<h1>TNPSC Group 2 Mains Result 2026 Out – Merit List PDF, Marks & Rank List Released</h1>
-
-<p>The <strong>Tamil Nadu Public Service Commission (TNPSC)</strong> has officially released the <strong>TNPSC Group 2 Mains Result 2026</strong> for the Combined Civil Services Examination-II (Group II & Group IIA Services). Candidates who appeared in the Main Written Examination can now check their qualifying status, download the merit list PDF, and view their marks and rank position through the official website <strong>tnpsc.gov.in</strong>.</p>
-
-<div style="background:#fff3cd;border-left:4px solid #f39c12;padding:12px 16px;border-radius:6px;margin:16px 0;">
-  <strong>⚠️ Important:</strong> The result is only a <strong>shortlist for the next stage</strong>. Candidates qualifying in the mains examination will be called for <strong>Certificate Verification</strong> and <strong>Oral Test (Interview)</strong> wherever applicable. Final selection will be announced separately by TNPSC.
-</div>
-
-<h2>TNPSC Group 2 Mains Result 2026 – Overview</h2>
-
-<table class="detail-table">
-  <thead>
-    <tr>
-      <th>Particulars</th>
-      <th>Details</th>
-    </tr>
-  </thead>
-
-  <tbody>
-
-    <tr>
-      <td>Organisation</td>
-      <td>Tamil Nadu Public Service Commission (TNPSC)</td>
-    </tr>
-
-    <tr>
-      <td>Examination Name</td>
-      <td>Combined Civil Services Examination-II (Group II & Group IIA)</td>
-    </tr>
-
-    <tr>
-      <td>Notification Number</td>
-      <td>11/2025</td>
-    </tr>
-
-    <tr>
-      <td>Main Examination Date</td>
-      <td>15 March 2026</td>
-    </tr>
-
-    <tr>
-      <td>Result Date</td>
-      <td>29 June 2026</td>
-    </tr>
-
-    <tr>
-      <td>Result Status</td>
-      <td>Released</td>
-    </tr>
-
-    <tr>
-      <td>Selection Status</td>
-      <td>Provisionally Shortlisted for Certificate Verification / Oral Test</td>
-    </tr>
-
-    <tr>
-      <td>Official Website</td>
-      <td><a href="https://tnpsc.gov.in" target="_blank" rel="nofollow noopener">tnpsc.gov.in</a></td>
-    </tr>
-
-  </tbody>
-</table>
-
-<h2>TNPSC Group 2 Mains Result 2026 – Direct Result & Merit List Download</h2>
-
-<p>Use the links below to check your result, merit list and marks.</p>
-
-<table class="detail-table">
-
-  <thead>
-
-    <tr>
-
-      <th>Particular</th>
-
-      <th>Link</th>
-
-    </tr>
-
-  </thead>
-
-  <tbody>
-
-    <tr>
-
-      <td><strong>TNPSC Group 2 Mains Result 2026</strong></td>
-
-      <td>
-        <a href="https://tnpsc.gov.in" class="apply-small" target="_blank">
-        Check Result
-        </a>
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td><strong>Merit List PDF</strong></td>
-
-      <td>
-        <a href="../notification/tnpsc-group-2-mains-result-2026.pdf"
-        class="apply-small"
-        target="_blank"
-        download>
-        ⬇ Download PDF
-        </a>
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td><strong>Marks / Rank Position</strong></td>
-
-      <td>
-        <a href="https://tnpsc.gov.in"
-        class="apply-small"
-        target="_blank">
-        View Marks
-        </a>
-      </td>
-
-    </tr>
-
-    <tr>
-
-      <td><strong>Official Website</strong></td>
-
-      <td>
-        <a href="https://tnpsc.gov.in"
-        target="_blank"
-        rel="nofollow noopener">
-        tnpsc.gov.in
-        </a>
-      </td>
-
-    </tr>
-
-  </tbody>
-
-</table>
-
-<h2>How to Check TNPSC Group 2 Mains Result 2026 Online</h2>
-
-<ol>
-
-<li>Visit the official website <strong>tnpsc.gov.in</strong>.</li>
-
-<li>Open the <strong>Results</strong> section.</li>
-
-<li>Click on <strong>Combined Civil Services Examination-II (Group II & Group IIA) Mains Result 2026</strong>.</li>
-
-<li>Login using your <strong>Register Number</strong> and <strong>Date of Birth</strong>.</li>
-
-<li>Check your qualifying status, marks and rank position.</li>
-
-<li>Download the Merit List PDF for future reference.</li>
-
-</ol>
-<h2>Important Instructions for Qualified Candidates</h2>
-
-<ul>
-
-  <li>The TNPSC Group 2 Mains Result 2026 is <strong>provisional</strong> and subject to verification of all eligibility conditions.</li>
-
-  <li>Only shortlisted candidates will be called for <strong>Certificate Verification</strong> and <strong>Oral Test (Interview)</strong> wherever applicable.</li>
-
-  <li>Candidates must regularly visit <a href="https://tnpsc.gov.in" target="_blank" rel="nofollow noopener">tnpsc.gov.in</a> for Certificate Verification schedules and further recruitment updates.</li>
-
-  <li>Carry all original educational certificates, community certificates, identity proof and other required documents during Certificate Verification.</li>
-
-  <li>Failure to appear for Certificate Verification or the Oral Test on the scheduled date may lead to cancellation of candidature.</li>
-
-</ul>
-
-<h2>TNPSC Group 2 Recruitment 2026 – Important Dates</h2>
-
-<table class="detail-table">
-
-<thead>
-
-<tr>
-
-<th>Event</th>
-
-<th>Date</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Main Written Examination</td>
-
-<td>15 March 2026</td>
-
-</tr>
-
-<tr>
-
-<td>TNPSC Group 2 Mains Result</td>
-
-<td>29 June 2026</td>
-
-</tr>
-
-<tr>
-
-<td>Certificate Verification</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-<tr>
-
-<td>Oral Test (Interview Posts)</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-<tr>
-
-<td>Final Selection List</td>
-
-<td>To Be Announced</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<h2>FAQs – TNPSC Group 2 Mains Result 2026</h2>
-
-<h3>Q1. TNPSC Group 2 Mains Result 2026 kab release hua?</h3>
-
-<p>
-TNPSC Group 2 Mains Result 2026 <strong>29 June 2026</strong> ko official website <strong>tnpsc.gov.in</strong> par release kiya gaya.
-</p>
-
-<h3>Q2. TNPSC Group 2 Mains Merit List kaise download kare?</h3>
-
-<p>
-Official TNPSC website par jaakar Result section open karein aur Merit List PDF download karein. PDF me apna Register Number search karke qualification status check kar sakte hain.
-</p>
-
-<h3>Q3. TNPSC Group 2 Mains Result ke baad next process kya hoga?</h3>
-
-<p>
-Qualified candidates ko Certificate Verification ke liye bulaya jayega. Group II Interview Posts ke candidates ko Oral Test bhi dena hoga.
-</p>
-
-<h3>Q4. Kya TNPSC Group 2 Mains Result final selection hai?</h3>
-
-<p>
-Nahi. Yeh provisional shortlist hai. Final selection Certificate Verification, Oral Test (where applicable) aur eligibility verification ke baad hi ki jayegi.
-</p>
-
-<h2>More All Results 2026</h2>
-
-<div class="related-links">
-
-<a href="../item-detail.html?type=result&id=tnpsc-group-2-mains-result-2026">
-TNPSC Group 2 Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rssb-4th-grade-revised-result-2026">
-RSSB 4th Grade Revised Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-marks-2026">
-RPSC ASO Marks 2026 Released
-</a>
-
-<a href="../item-detail.html?type=result&id=rpsc-aso-main-merit-list-2026">
-RPSC ASO Main Merit List 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=upsssc-aso-mains-result-2026">
-UPSSSC ASO Mains Result 2026 Out
-</a>
-
-<a href="../item-detail.html?type=result&id=up-home-guard-result-2026">
-UP Home Guard Result 2026
-<span class="new-tag">NEW</span>
-</a>
-
-<p style="margin-top:15px;">
-<a href="../results.html"><strong>View All »</strong></a>
-</p>
-
-</div>
-
-`;
-
-
 
 RESULT_CONTENT["up-home-guard-result-2026"] = `
 
