@@ -1990,3 +1990,668 @@ RESULT_CONTENT["ap-high-court-result-2026"] = `
 <p>Educational certificates, community certificate, age proof, photo ID (Aadhaar/PAN). Office Subordinate ke liye original <strong>Transfer Certificate (T.C.)</strong> mandatory.</p>
 
 `;
+
+RESULT_CONTENT["tnpsc-group-2-mains-result-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>TNPSC Group 2 Mains Result 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Tamil Nadu Public Service Commission (TNPSC)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>TNPSC Group 2 Mains Result 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>15 March 2026</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Result Declared</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-06-29">
+
+Published : 29 June 2026
+
+</time>
+
+|
+
+Updated : 29 June 2026
+
+</div>
+
+<h1>
+
+TNPSC Group 2 Mains Result 2026 Out at tnpsc.gov.in – Download Score Card & Merit List
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 TNPSC Group 2 Mains Result 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Result Declared
+
+</span>
+
+</p>
+
+</div>
+
+<h2>TNPSC Group 2 Mains Result 2026 – Overview</h2>
+
+<p>
+The <strong>Tamil Nadu Public Service Commission (TNPSC)</strong> has released the <strong>TNPSC Group 2 Mains Result 2026</strong> on <strong>29 June 2026</strong>.
+This result is for the <strong>Combined Civil Services Examination-II (Group 2/2A)</strong>. Candidates who appeared in this examination can now
+check their result and download the relevant document from the official website.
+</p>
+
+<table class="table table-bordered">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organization</td><td>Tamil Nadu Public Service Commission (TNPSC)</td></tr>
+<tr><td>Examination</td><td>Combined Civil Services Examination-II (Group 2/2A)</td></tr>
+<tr><td>Total Posts</td><td>Various</td></tr>
+<tr><td>Exam Date</td><td>15 March 2026</td></tr>
+<tr><td>Result / Update Date</td><td>29 June 2026</td></tr>
+<tr><td>Next Stage</td><td>Interview / Certificate Verification</td></tr>
+<tr><td>Official Website</td><td><a href="https://tnpsc.gov.in" target="_blank" rel="nofollow noopener">tnpsc.gov.in</a></td></tr>
+</table>
+
+<h2>How to Check TNPSC Group 2 Mains Result 2026</h2>
+
+<ol>
+<li>Visit the official website <strong>tnpsc.gov.in</strong>.</li>
+<li>Look for the <strong>TNPSC Group 2 Mains Result 2026</strong> notification link on the homepage or notice board section.</li>
+<li>Click on the relevant link and enter your Roll Number / Registration Number and Date of Birth, if asked.</li>
+<li>Your result / marks / merit list will be displayed on the screen.</li>
+<li>Download and save a copy for future reference.</li>
+</ol>
+
+<h2>What's Next?</h2>
+
+<p>
+Candidates listed in this update should now prepare for the <strong>Interview / Certificate Verification</strong> stage. Keep checking
+the official website and this page regularly, as Tamil Nadu Public Service Commission (TNPSC) may release further instructions, schedules or
+document lists closer to the date. SarthakYojana.in will update this page as soon as more information
+is officially announced.
+</p>
+
+<p style="font-size:12px;color:#888;margin-top:16px;">
+Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
+the official website tnpsc.gov.in before taking any action.
+</p>
+
+`;
+
+RESULT_CONTENT["rssb-4th-grade-revised-result-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>RSSB 4th Grade Revised Result 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Rajasthan Staff Selection Board (RSSB)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>RSSB 4th Grade Revised Result 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>2025</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Revised Result Declared</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-06-29">
+
+Published : 29 June 2026
+
+</time>
+
+|
+
+Updated : 29 June 2026
+
+</div>
+
+<h1>
+
+RSSB 4th Grade Revised Result 2026 Out – Download Merit List PDF
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 RSSB 4th Grade Revised Result 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Revised Result Declared
+
+</span>
+
+</p>
+
+</div>
+
+<h2>RSSB 4th Grade Revised Result 2026 – Overview</h2>
+
+<p>
+The <strong>Rajasthan Staff Selection Board (RSSB)</strong> has released the <strong>RSSB 4th Grade Revised Result 2026</strong> on <strong>29 June 2026</strong>.
+This result is for the <strong>4th Grade Recruitment Examination</strong>. Candidates who appeared in this examination can now
+check their result and download the relevant document from the official website.
+</p>
+
+<table class="table table-bordered">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organization</td><td>Rajasthan Staff Selection Board (RSSB)</td></tr>
+<tr><td>Examination</td><td>4th Grade Recruitment Examination</td></tr>
+<tr><td>Total Posts</td><td>53,749</td></tr>
+<tr><td>Exam Date</td><td>2025</td></tr>
+<tr><td>Result / Update Date</td><td>29 June 2026</td></tr>
+<tr><td>Next Stage</td><td>Document Verification</td></tr>
+<tr><td>Official Website</td><td><a href="https://rssb.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rssb.rajasthan.gov.in</a></td></tr>
+</table>
+
+<h2>How to Check RSSB 4th Grade Revised Result 2026</h2>
+
+<ol>
+<li>Visit the official website <strong>rssb.rajasthan.gov.in</strong>.</li>
+<li>Look for the <strong>RSSB 4th Grade Revised Result 2026</strong> notification link on the homepage or notice board section.</li>
+<li>Click on the relevant link and enter your Roll Number / Registration Number and Date of Birth, if asked.</li>
+<li>Your result / marks / merit list will be displayed on the screen.</li>
+<li>Download and save a copy for future reference.</li>
+</ol>
+
+<h2>What's Next?</h2>
+
+<p>
+Candidates listed in this update should now prepare for the <strong>Document Verification</strong> stage. Keep checking
+the official website and this page regularly, as Rajasthan Staff Selection Board (RSSB) may release further instructions, schedules or
+document lists closer to the date. SarthakYojana.in will update this page as soon as more information
+is officially announced.
+</p>
+
+<p style="font-size:12px;color:#888;margin-top:16px;">
+Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
+the official website rssb.rajasthan.gov.in before taking any action.
+</p>
+
+`;
+
+RESULT_CONTENT["rpsc-aso-marks-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>RPSC ASO Marks 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Rajasthan Public Service Commission (RPSC)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>RPSC ASO Marks 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>12 October 2025</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Marks Released</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-06-29">
+
+Published : 29 June 2026
+
+</time>
+
+|
+
+Updated : 29 June 2026
+
+</div>
+
+<h1>
+
+RPSC ASO Marks 2026 Released – Check Assistant Statistical Officer Score Card
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 RPSC ASO Marks 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Marks Released
+
+</span>
+
+</p>
+
+</div>
+
+<h2>RPSC ASO Marks 2026 – Overview</h2>
+
+<p>
+The <strong>Rajasthan Public Service Commission (RPSC)</strong> has released the <strong>RPSC ASO Marks 2026</strong> on <strong>29 June 2026</strong>.
+This result is for the <strong>Assistant Statistical Officer Exam 2024</strong>. Candidates who appeared in this examination can now
+check their result and download the relevant document from the official website.
+</p>
+
+<table class="table table-bordered">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organization</td><td>Rajasthan Public Service Commission (RPSC)</td></tr>
+<tr><td>Examination</td><td>Assistant Statistical Officer Exam 2024</td></tr>
+<tr><td>Total Posts</td><td>43</td></tr>
+<tr><td>Exam Date</td><td>12 October 2025</td></tr>
+<tr><td>Result / Update Date</td><td>29 June 2026</td></tr>
+<tr><td>Next Stage</td><td>Document Verification</td></tr>
+<tr><td>Official Website</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td></tr>
+</table>
+
+<h2>How to Check RPSC ASO Marks 2026</h2>
+
+<ol>
+<li>Visit the official website <strong>rpsc.rajasthan.gov.in</strong>.</li>
+<li>Look for the <strong>RPSC ASO Marks 2026</strong> notification link on the homepage or notice board section.</li>
+<li>Click on the relevant link and enter your Roll Number / Registration Number and Date of Birth, if asked.</li>
+<li>Your result / marks / merit list will be displayed on the screen.</li>
+<li>Download and save a copy for future reference.</li>
+</ol>
+
+<h2>What's Next?</h2>
+
+<p>
+Candidates listed in this update should now prepare for the <strong>Document Verification</strong> stage. Keep checking
+the official website and this page regularly, as Rajasthan Public Service Commission (RPSC) may release further instructions, schedules or
+document lists closer to the date. SarthakYojana.in will update this page as soon as more information
+is officially announced.
+</p>
+
+<p style="font-size:12px;color:#888;margin-top:16px;">
+Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
+the official website rpsc.rajasthan.gov.in before taking any action.
+</p>
+
+`;
+
+RESULT_CONTENT["rpsc-aso-main-merit-list-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>RPSC ASO Main Merit List 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Rajasthan Public Service Commission (RPSC)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>RPSC ASO Main Merit List 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>12 October 2025</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Merit List Released</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-06-29">
+
+Published : 29 June 2026
+
+</time>
+
+|
+
+Updated : 29 June 2026
+
+</div>
+
+<h1>
+
+RPSC ASO Main Merit List 2026 Out – Download Assistant Statistical Officer Merit List PDF
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 RPSC ASO Main Merit List 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Merit List Released
+
+</span>
+
+</p>
+
+</div>
+
+<h2>RPSC ASO Main Merit List 2026 – Overview</h2>
+
+<p>
+The <strong>Rajasthan Public Service Commission (RPSC)</strong> has released the <strong>RPSC ASO Main Merit List 2026</strong> on <strong>29 June 2026</strong>.
+This result is for the <strong>Assistant Statistical Officer Exam 2024</strong>. Candidates who appeared in this examination can now
+check their result and download the relevant document from the official website.
+</p>
+
+<table class="table table-bordered">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organization</td><td>Rajasthan Public Service Commission (RPSC)</td></tr>
+<tr><td>Examination</td><td>Assistant Statistical Officer Exam 2024</td></tr>
+<tr><td>Total Posts</td><td>43</td></tr>
+<tr><td>Exam Date</td><td>12 October 2025</td></tr>
+<tr><td>Result / Update Date</td><td>29 June 2026</td></tr>
+<tr><td>Next Stage</td><td>Final Selection</td></tr>
+<tr><td>Official Website</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td></tr>
+</table>
+
+<h2>How to Check RPSC ASO Main Merit List 2026</h2>
+
+<ol>
+<li>Visit the official website <strong>rpsc.rajasthan.gov.in</strong>.</li>
+<li>Look for the <strong>RPSC ASO Main Merit List 2026</strong> notification link on the homepage or notice board section.</li>
+<li>Click on the relevant link and enter your Roll Number / Registration Number and Date of Birth, if asked.</li>
+<li>Your result / marks / merit list will be displayed on the screen.</li>
+<li>Download and save a copy for future reference.</li>
+</ol>
+
+<h2>What's Next?</h2>
+
+<p>
+Candidates listed in this update should now prepare for the <strong>Final Selection</strong> stage. Keep checking
+the official website and this page regularly, as Rajasthan Public Service Commission (RPSC) may release further instructions, schedules or
+document lists closer to the date. SarthakYojana.in will update this page as soon as more information
+is officially announced.
+</p>
+
+<p style="font-size:12px;color:#888;margin-top:16px;">
+Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
+the official website rpsc.rajasthan.gov.in before taking any action.
+</p>
+
+`;
+
+RESULT_CONTENT["upsssc-aso-mains-result-2026"] = `
+
+<nav class="breadcrumb">
+<a href="../index.html">Home</a> »
+<a href="../results.html">Results</a> »
+<span>UPSSSC ASO Mains Result 2026</span>
+</nav>
+
+<div class="result-summary">
+
+<table class="table table-bordered">
+
+<tr>
+<th>Organization</th>
+<td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</td>
+</tr>
+
+<tr>
+<th>Result</th>
+<td>UPSSSC ASO Mains Result 2026</td>
+</tr>
+
+<tr>
+<th>Exam Date</th>
+<td>PET 2025 Based</td>
+</tr>
+
+<tr>
+<th>Status</th>
+<td><span class="status-success">✅ Result Declared</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= Advertisement ================= -->
+
+<div class="ad-container">
+
+<!-- Google AdSense Responsive Display Ad -->
+
+</div>
+
+<div class="article-meta">
+
+<strong>By SarthakYojana Editorial Team</strong> |
+
+<time datetime="2026-06-29">
+
+Published : 28 June 2026
+
+</time>
+
+|
+
+Updated : 28 June 2026
+
+</div>
+
+<h1>
+
+UPSSSC ASO Mains Result 2026 Out at upsssc.gov.in – Check Assistant Statistical Officer Result
+
+</h1>
+
+<div class="hero-box success">
+
+<h2>
+
+🎉 UPSSSC ASO Mains Result 2026 Released
+
+</h2>
+
+<p>
+
+<strong>Result Status :</strong>
+
+<span class="text-success">
+
+Result Declared
+
+</span>
+
+</p>
+
+</div>
+
+<h2>UPSSSC ASO Mains Result 2026 – Overview</h2>
+
+<p>
+The <strong>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</strong> has released the <strong>UPSSSC ASO Mains Result 2026</strong> on <strong>28 June 2026</strong>.
+This result is for the <strong>Assistant Statistical Officer / Assistant Research Officer</strong>. Candidates who appeared in this examination can now
+check their result and download the relevant document from the official website.
+</p>
+
+<table class="table table-bordered">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organization</td><td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</td></tr>
+<tr><td>Examination</td><td>Assistant Statistical Officer / Assistant Research Officer</td></tr>
+<tr><td>Total Posts</td><td>1,565</td></tr>
+<tr><td>Exam Date</td><td>PET 2025 Based</td></tr>
+<tr><td>Result / Update Date</td><td>28 June 2026</td></tr>
+<tr><td>Next Stage</td><td>Mains Examination</td></tr>
+<tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a></td></tr>
+</table>
+
+<h2>How to Check UPSSSC ASO Mains Result 2026</h2>
+
+<ol>
+<li>Visit the official website <strong>upsssc.gov.in</strong>.</li>
+<li>Look for the <strong>UPSSSC ASO Mains Result 2026</strong> notification link on the homepage or notice board section.</li>
+<li>Click on the relevant link and enter your Roll Number / Registration Number and Date of Birth, if asked.</li>
+<li>Your result / marks / merit list will be displayed on the screen.</li>
+<li>Download and save a copy for future reference.</li>
+</ol>
+
+<h2>What's Next?</h2>
+
+<p>
+Candidates listed in this update should now prepare for the <strong>Mains Examination</strong> stage. Keep checking
+the official website and this page regularly, as Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) may release further instructions, schedules or
+document lists closer to the date. SarthakYojana.in will update this page as soon as more information
+is officially announced.
+</p>
+
+<p style="font-size:12px;color:#888;margin-top:16px;">
+Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
+the official website upsssc.gov.in before taking any action.
+</p>
+
+`;

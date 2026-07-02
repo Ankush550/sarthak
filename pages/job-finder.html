@@ -136,6 +136,7 @@ applySEO({
 <div id="site-footer"></div>
 <script src="../assets/js/jobs-data.js"></script>
 <script src="../assets/js/main.js"></script>
+<script src="../assets/js/common.js"></script>
 <script>
 renderHeader('Job Finder');
 renderTicker();
@@ -173,7 +174,7 @@ function runFinder() {
     if (qual && !(j.qualification||'').includes(qual)) return false;
     if (cat && (j.category||'')!==cat) return false;
     if (emp && (j.employmentType||'')!==emp) return false;
-    if (status && j.status!==status) return false;
+    if (status && resolveJobStatus(j) !== status) return false;
     if (sal && (j.salaryMin||0)<sal) return false;
     if (age) { const m=parseInt((j.ageLimit||'99').match(/\d+/g)||[99]); if(m<age) return false; }
     if (state && !(j.location||'All India').includes(state)) return false;

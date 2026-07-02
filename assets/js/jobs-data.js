@@ -1,5 +1,6 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+  
   {
     id: "ibps-po-recruitment-2026",
     title: "IBPS PO Recruitment 2026",
@@ -111,34 +112,6 @@ const JOBS_DATA = [
     seoTitle: "IBPS SO Recruitment 2026 Apply Online for 745 Specialist Officer Posts",
     seoDescription: "IBPS SO Recruitment 2026 Notification released for 745 Specialist Officer vacancies including IT Officer, Law Officer, HR, Rajbhasha Adhikari and Agriculture Field Officer. Check eligibility, salary, exam pattern and apply online.",
     keywords: "IBPS SO Recruitment 2026, IBPS SO Notification 2026, IBPS Specialist Officer Recruitment, IBPS SO Vacancy 2026, IT Officer Recruitment, Law Officer Recruitment, Agriculture Field Officer Recruitment, Bank Jobs 2026"
-},
-  {
-    id: "ibps-po-recruitment-2026",
-    title: "IBPS PO Recruitment 2026",
-    organization: "Institute of Banking Personnel Selection (IBPS)",
-    postName: "Probationary Officer (PO) / Management Trainee (MT)",
-    advertisementNo: "CRP PO/MT-XVI",
-    totalPosts: "6715",
-    qualification: "Bachelor's Degree",
-    ageLimit: "20-30 Years",
-    applyMode: "Online",
-    category: "Bank Jobs",
-    location: "India",
-    startDate: "01 July 2026",
-    lastDate: "21 July 2026",
-    salary: "₹48,480 - ₹85,920",
-    selectionProcess: "Preliminary Exam, Main Exam, Personality Test, Interview, Document Verification",
-    officialWebsite: "https://www.ibps.in",
-    notificationPdf: "#",
-    applyLink: "#",
-    image: "IBPS-PO.jpeg",
-    featured: true,
-    status: "Online Form",
-    views: 0,
-    publishedDate: "2026-07-01",
-    seoTitle: "IBPS PO Recruitment 2026 Apply Online for 6715 Probationary Officer Posts",
-    seoDescription: "IBPS PO Recruitment 2026 Notification released for 6715 Probationary Officer (PO) & Management Trainee vacancies. Check eligibility, salary, exam pattern, important dates and apply online.",
-    keywords: "IBPS PO Recruitment 2026, IBPS PO Notification 2026, IBPS PO Vacancy 2026, Probationary Officer Recruitment, IBPS Bank Jobs, Latest Bank Jobs"
 },
 
   {
@@ -620,7 +593,7 @@ isNew: true
     applyMode: "Online",
     notificationDate: "13-06-2026",
     applicationStart: "13-06-2026",
-    lastDate: "03-07-2026",
+    lastDate: "03 July 2026",
     examDate: "25-27 July 2026 (Tentative)",
     officialWebsite: "https://www.aiimsexams.ac.in",
     officialNotification: "https://www.aiimsexams.ac.in",
@@ -645,7 +618,7 @@ isNew: true
     applyMode: "Online",
     notificationDate: "27-06-2026",
     applicationStart: "27-06-2026",
-    lastDate: "20-07-2026",
+    lastDate: "20 July 2026",
     examDate: "To Be Announced",
     officialWebsite: "https://www.isro.gov.in",
     officialNotification: "https://www.isro.gov.in",
@@ -1551,66 +1524,3 @@ function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.
 function searchJobs(q){ const s=q.toLowerCase(); return JOBS_DATA.filter(j=>j.title.toLowerCase().includes(s)||j.organization.toLowerCase().includes(s)||j.description.toLowerCase().includes(s)||(j.tags&&j.tags.some(t=>t.includes(s)))); }
 function getDaysLeft(d){ return Math.ceil((new Date(d)-new Date())/(1000*60*60*24)); }
 
-const SCHEMES_DATA = [
-  {
-    id:"pm-kisan", title:"PM Kisan Samman Nidhi Yojana", name:"PM Kisan Samman Nidhi Yojana",
-    type:"Central", category:"Agriculture",
-    benefit:"Rs. 6,000 per year (3 installments of Rs. 2,000 each)",
-    benefits:"Rs. 6,000 per year directly to bank account in three equal installments of Rs. 2,000 each.",
-    eligibility:"All landholding farmer families in India whose names appear in land records.",
-    howToApply:"Apply online at pmkisan.gov.in or visit nearest CSC centre. Aadhaar and bank account linking is mandatory.",
-    officialLink:"https://pmkisan.gov.in",
-    applyLink:"https://pmkisan.gov.in",
-    description:"PM Kisan Samman Nidhi provides direct income support of Rs. 6,000 per year to small and marginal farmer families. The amount is transferred directly to the farmer's bank account in three equal installments.",
-    isNew:false
-  },
-  {
-    id:"pm-awas", title:"PM Awas Yojana – Urban (PMAY-U)", name:"PM Awas Yojana – Urban (PMAY-U)",
-    type:"Central", category:"Housing",
-    benefit:"Interest subsidy up to Rs. 2.67 Lakh on home loans under CLSS",
-    benefits:"Credit Linked Subsidy Scheme (CLSS) provides interest subsidy of 3–6.5% on home loans. EWS/LIG: subsidy up to Rs. 2.67 lakh.",
-    eligibility:"EWS (income up to Rs. 3 lakh), LIG (Rs. 3–6 lakh), MIG-I (Rs. 6–12 lakh), MIG-II (Rs. 12–18 lakh) families.",
-    howToApply:"Apply at your bank/HFC or visit PMAY portal pmaymis.gov.in. Submit Aadhaar, income certificate, and property documents.",
-    officialLink:"https://pmaymis.gov.in",
-    applyLink:"https://pmaymis.gov.in",
-    description:"PM Awas Yojana Urban aims to provide housing for all in urban areas through interest subsidies on home loans covering EWS, LIG, and MIG households.",
-    isNew:false
-  },
-  {
-    id:"sukanya-samriddhi", title:"Sukanya Samriddhi Yojana (SSY)", name:"Sukanya Samriddhi Yojana (SSY)",
-    type:"Central", category:"Finance",
-    benefit:"8.2% interest per annum (highest among small savings schemes). Tax benefits under Section 80C.",
-    benefits:"Current interest rate: 8.2% p.a. Minimum deposit: Rs. 250/year; Maximum: Rs. 1.5 lakh/year.",
-    eligibility:"Girl child aged below 10 years. Account opened by parent or legal guardian.",
-    howToApply:"Visit any Post Office or authorised bank branch with birth certificate of girl child, ID proof and address proof of guardian.",
-    officialLink:"https://www.indiapost.gov.in",
-    applyLink:"https://www.indiapost.gov.in",
-    description:"Sukanya Samriddhi Yojana is a small savings scheme for the education and marriage expenses of the girl child with highest interest rate among Govt small savings schemes.",
-    isNew:false
-  },
-  {
-    id:"ayushman-bharat", title:"Ayushman Bharat PM-JAY", name:"Ayushman Bharat PM-JAY",
-    type:"Central", category:"Health",
-    benefit:"Rs. 5 lakh health cover per family per year at empanelled hospitals",
-    benefits:"Rs. 5 lakh cashless health insurance per family per year. Covers 1,949 medical procedures. Pre-existing conditions covered from day 1.",
-    eligibility:"Poor and vulnerable families as identified in SECC 2011 database. Approximately 10.74 crore beneficiary families.",
-    howToApply:"Check eligibility at pmjay.gov.in or call helpline 14555. Visit nearest Ayushman Bharat empanelled hospital.",
-    officialLink:"https://pmjay.gov.in",
-    applyLink:"https://pmjay.gov.in",
-    description:"Ayushman Bharat PM Jan Arogya Yojana provides Rs. 5 lakh per family per year for hospitalization at over 25,000 empanelled hospitals across India. Completely cashless and paperless.",
-    isNew:false
-  },
-  {
-    id:"pm-mudra", title:"Pradhan Mantri MUDRA Yojana (PMMY)", name:"Pradhan Mantri MUDRA Yojana (PMMY)",
-    type:"Central", category:"Business",
-    benefit:"Loans up to Rs. 10 lakh for micro/small enterprises without collateral",
-    benefits:"Shishu: loans up to Rs. 50,000. Kishore: Rs. 50,001 to Rs. 5 lakh. Tarun: Rs. 5 lakh to Rs. 10 lakh. No collateral required.",
-    eligibility:"Non-corporate, non-farm micro and small enterprises including proprietary firms, partnership firms, and companies.",
-    howToApply:"Apply at any scheduled commercial bank, MFI, NBFC, or RRB. Carry ID proof, address proof, business plan, and bank statements.",
-    officialLink:"https://www.mudra.org.in",
-    applyLink:"https://www.mudra.org.in",
-    description:"PM MUDRA Yojana provides easy access to institutional credit to micro-entrepreneurs and small business owners with loans up to Rs. 10 lakh.",
-    isNew:false
-  },
-  
-];

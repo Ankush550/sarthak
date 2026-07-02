@@ -1,5 +1,82 @@
 // SarthakYojana.in – Main JS (Optimized)
 
+// ── Robust date parser (fixes false "Closed/Expired" badge bug) ──────
+// Handles: "21 July 2026", "21 Jul 2026", "2026-07-21" (ISO),
+// "21-07-2026" / "21/07/2026" (DD-MM-YYYY, Indian convention).
+// Returns a Date object at local midnight, or null if unparseable.
+function parseFlexibleDate(str) {
+  if (!str) return null;
+  str = String(str).trim();
+
+  var MONTHS = {jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
+
+  // ISO: YYYY-MM-DD
+  var m = str.match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+  if (m) {
+    var d = new Date(parseInt(m[1]), parseInt(m[2]) - 1, parseInt(m[3]));
+    return isNaN(d.getTime()) ? null : d;
+  }
+
+  // DD-MM-YYYY or DD/MM/YYYY (Indian convention — day first, never month-first)
+  m = str.match(/^(\d{1,2})[-\/](\d{1,2})[-\/](\d{4})$/);
+  if (m) {
+    var day = parseInt(m[1]), mon = parseInt(m[2]) - 1, yr = parseInt(m[3]);
+    var d2 = new Date(yr, mon, day);
+    return isNaN(d2.getTime()) ? null : d2;
+  }
+
+  // "21 July 2026" or "21 Jul 2026" (day, month name, year — any order of name)
+  m = str.match(/^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/);
+  if (m) {
+    var mi = MONTHS[m[2].slice(0,3).toLowerCase()];
+    if (mi !== undefined) {
+      var d3 = new Date(parseInt(m[3]), mi, parseInt(m[1]));
+      return isNaN(d3.getTime()) ? null : d3;
+    }
+  }
+
+  // "July 21, 2026" style — safe to let native parser handle (unambiguous, month-first)
+  m = str.match(/^[A-Za-z]+\s+\d{1,2},?\s+\d{4}$/);
+  if (m) {
+    var d4 = new Date(str);
+    return isNaN(d4.getTime()) ? null : d4;
+  }
+
+  return null;
+}
+
+// ── Resolve a job/item's display status without wrongly showing
+//    "Expired" just because a date failed to parse or is stale.
+//    Priority: explicit non-ambiguous "closed/expired" status wins.
+//    Otherwise a valid parsed date drives open/closing_soon/expired.
+//    If the date can't be parsed OR is stale but the editor explicitly
+//    marked it open, we trust the editor rather than silently hiding
+//    a live job listing. ──────────────────────────────────────────
+function resolveJobStatus(j) {
+  var explicit = (j.status || '').toString().trim().toLowerCase();
+  var isExplicitClosed = explicit === 'closed' || explicit === 'expired';
+  if (isExplicitClosed) return 'expired';
+
+  var raw = j.lastDate || j.lastDateDisplay;
+  var d = parseFlexibleDate(raw);
+
+  if (d) {
+    var today = new Date(); today.setHours(0, 0, 0, 0);
+    var diff = Math.ceil((d - today) / 86400000);
+    if (diff > 7) return 'open';
+    if (diff >= 0) return 'closing_soon';
+    // Date has passed — but if the editor explicitly says it's still
+    // open, trust that instead of silently marking it Expired.
+    if (explicit === 'open' || explicit === 'closing_soon') return 'closing_soon';
+    return 'expired';
+  }
+
+  // Date unparseable — fall back fully to explicit status if usable,
+  // otherwise default to "open" rather than incorrectly showing Closed.
+  if (explicit === 'open' || explicit === 'closing_soon') return explicit;
+  return 'open';
+}
+
 // ── Mobile menu toggle ──────────────────────────────
 function toggleMenu() {
   var nav = document.getElementById('mainNav');

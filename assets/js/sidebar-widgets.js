@@ -20,12 +20,10 @@ function renderLeftSidebar() {
   function getDaysLeft(j) {
     var ld = j.lastDate || j.lastDateDisplay;
     if (!ld) return 999;
-    var months = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
-    var d = new Date(ld);
-    if (isNaN(d.getTime())) {
-      var parts = ld.split(' ');
-      if (parts.length === 3) d = new Date(parseInt(parts[2]), months[parts[1]], parseInt(parts[0]));
-    }
+    // Shared robust parser lives in common.js — handles ISO,
+    // "DD-MM-YYYY" and "D Month YYYY" formats correctly.
+    var d = (typeof parseFlexibleDate === 'function') ? parseFlexibleDate(ld) : new Date(ld);
+    if (!d || isNaN(d.getTime())) return 999;
     var today = new Date(); today.setHours(0,0,0,0);
     return Math.ceil((d - today) / 86400000);
   }

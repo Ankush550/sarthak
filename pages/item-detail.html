@@ -78,7 +78,7 @@
 </div>
 
   <!-- AdSense Banner -->
-  <div style="margin:10px 0;">
+  <div style="margin:10px 0;" id="adBannerWrap">
     <p style="font-size:11px;color:#888;text-align:center;margin:0 0 3px;">Advertisements</p>
     <ins class="adsbygoogle"
          style="display:block;width:100%;min-height:90px;"
@@ -133,12 +133,16 @@ renderHeader(meta ? meta.label : '');
 renderTicker();
 
 if (!dataset || !meta) {
-  document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
+  document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Page Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
+  var adWrap0 = document.getElementById('adBannerWrap');
+  if (adWrap0) adWrap0.style.display = 'none';
 } else {
   const item = dataset.find(x => x.id === id);
 
   if (!item) {
-    document.getElementById('mainContent').innerHTML = '<p style="padding:30px;text-align:center;color:#c0392b;">Item not found. <a href="results.html">Browse All</a></p>';
+    document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Item Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Sorry, we could not find this item. It may have been moved or the link is incorrect. <a href="results.html">Browse All</a></p>';
+  var adWrap1 = document.getElementById('adBannerWrap');
+  if (adWrap1) adWrap1.style.display = 'none';
   var noindexMeta = document.createElement('meta');
   noindexMeta.name = 'robots'; noindexMeta.content = 'noindex,follow';
   document.head.appendChild(noindexMeta);

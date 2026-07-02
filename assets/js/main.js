@@ -83,20 +83,10 @@ function renderFooter() {
       </ul>
     </div>
     <div class="footer-col">
-      <h3>Schemes</h3>
-      <ul>
-        <li><a href="${R}pages/schemes.html">All Schemes</a></li>
-        <li><a href="${R}pages/schemes.html?type=Central">Central Govt</a></li>
-        <li><a href="${R}pages/schemes.html?type=State">State Govt</a></li>
-        <li><a href="${R}pages/private-jobs.html">Private Jobs</a></li>
-        <li><a href="${R}pages/us-companies-india-jobs.html">US MNC Jobs</a></li>
-        <li><a href="${R}pages/nri-jobs.html">NRI Jobs</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
       <h3>Quick Links</h3>
       <ul>
         <li><a href="${R}pages/job-finder.html">Job Finder</a></li>
+        <li><a href="${R}pages/private-jobs.html">Private Jobs</a></li>
         <li><a href="${R}pages/search.html">Search Jobs</a></li>
         <li><a href="${R}pages/about-us.html">About Us</a></li>
         <li><a href="${R}pages/contact.html">Contact Us</a></li>

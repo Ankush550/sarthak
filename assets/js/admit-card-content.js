@@ -1,5 +1,5 @@
 const ADMIT_CARD_CONTENT = {};
-ADMIT_CONTENT["htet-admit-card-2026"] = `
+ADMIT_CARD_CONTENT["htet-admit-card-2026"] = `
 
 <nav style="font-size:16px;margin-bottom:15px;color:#666;">
 <a href="../index.html">Home</a> ›
