@@ -88,6 +88,9 @@
     border-collapse:collapse;
     margin:25px 0;
     font-size:18px;
+    display:block;
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
 }
 
 .detail-table th{

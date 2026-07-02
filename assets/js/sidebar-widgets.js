@@ -106,7 +106,7 @@ function renderRightSidebar() {
   html += '<div id="sticky-ad-wrap" style="position:sticky;top:90px;margin-bottom:14px;">';
   html += '<p style="font-size:10px;color:#999;text-align:center;margin:0 0 4px;">Advertisement</p>';
   html += '<ins class="adsbygoogle" style="display:block;width:300px;height:600px;margin:0 auto;" ' +
-          'data-ad-client="ca-pub-8602963796651751" data-ad-slot="XXXXXXXXXX" data-ad-format="auto"></ins>';
+          'data-ad-client="ca-pub-8602963796651751" data-ad-slot="1013901637" data-ad-format="auto"></ins>';
   html += '<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>';
   html += '</div>';
 

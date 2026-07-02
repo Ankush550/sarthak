@@ -31,9 +31,9 @@
 const SEO = {
   domain:    'https://sarthakyojana.in',
   siteName:  'SarthakYojana.in',
-  defaultOgImage: 'https://sarthakyojana.in/assets/og-default.jpg',
+  defaultOgImage: 'https://sarthakyojana.in/assets/images/logo.png',
   twitterHandle:  '@sarthakyojana',
-  orgLogo:   'https://sarthakyojana.in/assets/logo.png',
+  orgLogo:   'https://sarthakyojana.in/assets/images/logo.png',
   locale:    'hi_IN'
 };
 

@@ -45,7 +45,7 @@ Download Answer Key
 
 <h2>MPSC Group B Prelims Final Answer Key 2026 – Key Highlights</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -121,9 +121,21 @@ Download Answer Key
 
 </table>
 
+
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block;text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="3305379782"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>MPSC Group B Prelims Final Answer Key 2026 – Important Dates</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -167,6 +179,17 @@ Download Answer Key
 
 </table>
 
+
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="6127673697"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>How to Download MPSC Group B Prelims Final Answer Key 2026?</h2>
 
 <ol>
@@ -191,6 +214,18 @@ Download Answer Key
 Candidates should verify the following details available in the response sheet before calculating their score.
 </p>
 
+
+<!-- AdSense Ad 3 – Before End -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block;min-height:90px;"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="5544753179"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <ul>
 
 <li>Candidate Name</li>
@@ -267,6 +302,18 @@ ANSWER_KEY_CONTENT["rrb-ntpc-ug-answer-key-2026"] = `
   </tbody>
 </table>
 
+
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block;text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="3305379782"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>RRB NTPC UG Answer Key 2026 – Important Dates</h2>
 
 <table class="detail-table">
@@ -320,6 +367,17 @@ ANSWER_KEY_CONTENT["rrb-ntpc-ug-answer-key-2026"] = `
   </tbody>
 </table>
 
+
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="6127673697"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <div style="background:#f0f4ff;border-left:4px solid #1565c0;padding:14px 16px;border-radius:6px;margin:16px 0;">
   <strong>📊 Score Formula:</strong><br>
   <code style="font-size:14px;font-weight:700;">Score = (Correct × 1) − (Incorrect × 0.33)</code><br><br>
@@ -375,6 +433,18 @@ ANSWER_KEY_CONTENT["rrb-ntpc-ug-answer-key-2026"] = `
   </tbody>
 </table>
 
+
+<!-- AdSense Ad 3 – Before End -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+     style="display:block;min-height:90px;"
+     data-ad-client="ca-pub-8602963796651751"
+     data-ad-slot="5544753179"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 <h2>RRB NTPC UG Answer Key 2026 – FAQs</h2>
 
 <h3>Q1. RRB NTPC UG Answer Key 2026 kab release hui?</h3>

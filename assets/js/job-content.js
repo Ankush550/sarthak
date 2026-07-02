@@ -1295,11 +1295,11 @@ HPCL Officers Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -1496,11 +1496,11 @@ Career Growth
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -3095,11 +3095,11 @@ IBPS SO Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -3184,11 +3184,11 @@ IBPS SO Vacancy 2026
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -3885,11 +3885,11 @@ Our editorial team verifies recruitment information from official notifications 
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -4033,11 +4033,11 @@ Engineers India Limited Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -4114,11 +4114,11 @@ Why Join Engineers India Limited?
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -4594,11 +4594,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -4735,11 +4735,11 @@ NGEL Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -4836,11 +4836,11 @@ Why Join NGEL?
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -5328,11 +5328,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -5470,11 +5470,11 @@ RRB Technician Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -5561,11 +5561,11 @@ Why Apply for RRB Technician Recruitment 2026?
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -6084,11 +6084,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -6217,11 +6217,11 @@ AVNL Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -6381,11 +6381,11 @@ Educational Qualification
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -6728,11 +6728,11 @@ Apply online after the registration link becomes active and complete your applic
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -6879,11 +6879,11 @@ IOCL Apprentice Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -7002,11 +7002,11 @@ Educational Qualification
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -7369,11 +7369,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -7442,7 +7442,7 @@ Apply Online
 
 <h2>Indian Navy Agniveer Recruitment 2026 – Key Highlights</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7529,18 +7529,18 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
 
 <h2>Important Dates</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7604,16 +7604,16 @@ Candidates must have passed <strong>Class 10 (Matriculation)</strong> and posses
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7666,7 +7666,7 @@ Selection of candidates will be carried out through multiple stages. Candidates 
 The Indian Navy has invited online applications for the Agniveer (Apprentice) 01/2027 and 02/2027 Batches. The exact number of vacancies has not been notified and selections will be made based on the service requirements of the Indian Navy.
 </p>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7692,7 +7692,7 @@ The Indian Navy has invited online applications for the Agniveer (Apprentice) 01
 Selected candidates will receive salary under the Agnipath Scheme. Apart from the monthly package, Agniveers are also entitled to Risk & Hardship Allowance, Dress Allowance, Travel Allowance and Seva Nidhi benefits as per Government of India rules.
 </p>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7752,7 +7752,7 @@ Selected candidates will receive salary under the Agnipath Scheme. Apart from th
 Candidates shortlisted for Stage-II will have to qualify the Physical Fitness Test. The qualifying standards prescribed by the Indian Navy are as follows.
 </p>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7814,7 +7814,7 @@ Candidates shortlisted for Stage-II will have to qualify the Physical Fitness Te
 
 <h2>Application Fee</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -7901,7 +7901,7 @@ Candidates shortlisted for Stage-II will have to qualify the Physical Fitness Te
 </ul>
 <h2>Important Links</h2>
 
-<table>
+<table class="detail-table">
 
 <tr>
 
@@ -8030,11 +8030,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Related Jobs</h2>
@@ -8164,11 +8164,11 @@ CSC Aadhaar Supervisor/Operator Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -8241,11 +8241,11 @@ State-wise Vacancy Summary
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -8776,11 +8776,11 @@ Apply Online
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:36px;margin-top:40px;">
@@ -8892,11 +8892,11 @@ SSC ASO Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -8958,11 +8958,11 @@ SSC ASO Vacancy 2026
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -9247,11 +9247,11 @@ Frequently Asked Questions (FAQs)
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
@@ -9343,11 +9343,11 @@ SSC JSA/LDC Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -9409,11 +9409,11 @@ Vacancy Details
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -9768,11 +9768,11 @@ The recruitment offers a permanent Central Government job, attractive salary, al
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
@@ -9865,11 +9865,11 @@ Territorial Army Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -9931,11 +9931,11 @@ Vacancy Details
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -10270,11 +10270,11 @@ Joining the Territorial Army provides an opportunity to serve the nation, receiv
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
@@ -10366,11 +10366,11 @@ ISRO ISTRAC Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -10462,11 +10462,11 @@ Educational Qualification
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -10751,11 +10751,11 @@ ISRO offers excellent career growth, attractive salary, job security, modern res
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
@@ -10840,11 +10840,11 @@ AIIMS CRE-5 Recruitment 2026 Overview
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -10931,11 +10931,11 @@ Age Limit
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -11252,11 +11252,11 @@ Applications can be submitted only through the official AIIMS Examination websit
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2 style="font-size:38px;color:#444;margin-top:40px;">
@@ -11333,11 +11333,11 @@ The online application process will begin on 27 June 2026 and interested candida
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -11464,11 +11464,11 @@ The online application process will begin on 27 June 2026 and interested candida
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -11711,11 +11711,11 @@ RCFL is one of India's most prestigious fertilizer and chemical sector PSUs. Wor
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – RCFL Recruitment 2026</h2>
@@ -11805,11 +11805,11 @@ Selected candidates will receive attractive salary packages, government allowanc
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -11874,11 +11874,11 @@ The recruitment will be conducted for multiple Rajasthan government power sector
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -12223,11 +12223,11 @@ Employees joining Rajasthan power companies have excellent opportunities for pro
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – RVUNL Recruitment 2026</h2>
@@ -12324,11 +12324,11 @@ Candidates seeking stable government jobs under the Ministry of Ayush should car
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -12425,11 +12425,11 @@ Candidates seeking stable government jobs under the Ministry of Ayush should car
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -12798,11 +12798,11 @@ Research professionals can advance through senior scientific positions, while ad
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – CCRUM Recruitment 2026</h2>
@@ -12884,11 +12884,11 @@ Candidates selected for the Telecaller role will be responsible for customer int
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -12933,11 +12933,11 @@ Candidates selected for the Telecaller role will be responsible for customer int
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -13132,11 +13132,11 @@ The Telecaller Work From Home role offers flexibility, convenience and valuable 
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – NABFINS Telecaller Recruitment 2026</h2>
@@ -13229,11 +13229,11 @@ Candidates are advised to carefully read the eligibility criteria, branch-wise q
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -13280,11 +13280,11 @@ SSC Officers perform leadership roles in various branches and contribute signifi
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -13593,11 +13593,11 @@ The Indian Navy is one of the most respected defence forces in the world. Servin
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – Indian Navy SSC Officer Recruitment 2026</h2>
@@ -13693,11 +13693,11 @@ Candidates interested in banking, insurance and financial services careers shoul
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -13764,11 +13764,11 @@ Candidates interested in banking, insurance and financial services careers shoul
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -14211,11 +14211,11 @@ The New India Assurance Company Limited is India's largest public sector general
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Apply Online – NIACL Apprentice Recruitment 2026</h2>
@@ -14317,11 +14317,11 @@ The recruitment offers an excellent opportunity for medical professionals seekin
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -14398,11 +14398,11 @@ The recruitment offers an excellent opportunity for medical professionals seekin
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -14791,11 +14791,11 @@ Bank Medical Officers may progress through higher specialist and administrative 
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -14919,11 +14919,11 @@ The RBI Young Professional Programme is designed to attract domain experts, rese
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -15043,11 +15043,11 @@ The RBI Young Professional Programme is designed to attract domain experts, rese
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -15295,11 +15295,11 @@ Although the engagement does not guarantee permanent employment in RBI, the prog
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -15423,11 +15423,11 @@ Selected candidates will undergo one year of training and will subsequently be p
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -15508,11 +15508,11 @@ The above vacancies are projected vacancies and may increase or decrease dependi
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -15818,11 +15818,11 @@ Assistant Chemist Trainees can progress through various executive grades based o
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -15950,11 +15950,11 @@ SBI Law Officers play an important role in handling litigation matters, legal op
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -16013,11 +16013,11 @@ Working as a Law Officer in SBI provides exposure to banking laws, financial reg
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -16316,11 +16316,11 @@ margin:0;
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -16443,11 +16443,11 @@ Engineering Projects (India) Limited has been actively involved in executing maj
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -16539,11 +16539,11 @@ Engineering Projects (India) Limited has been actively involved in executing maj
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -16807,11 +16807,11 @@ margin:0;
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -16933,11 +16933,11 @@ This recruitment provides an excellent opportunity for experienced medical teach
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -17036,11 +17036,11 @@ Minimum 4 years as Reader/Associate Professor OR 3 years as Associate Professor 
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -17222,11 +17222,11 @@ margin:0;
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -17342,11 +17342,11 @@ The online application process started on <strong>23 June 2026</strong> and will
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -17433,11 +17433,11 @@ Working with NEEPCO offers employees the opportunity to contribute to national i
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -17731,11 +17731,11 @@ margin:0;
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -17859,11 +17859,11 @@ degree from a recognized university are eligible to apply.
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -17945,11 +17945,11 @@ Final vacancy position may change based on organizational requirements.
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -18169,11 +18169,11 @@ Candidates qualifying Tier-II examination will be called for document verificati
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>FAQs – SSC CGL Recruitment 2026</h2>
@@ -18259,11 +18259,11 @@ Chemical Sciences, Engineering, Radiation Physics, and related areas.
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -18339,11 +18339,11 @@ Machine Learning Applications
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -18597,11 +18597,11 @@ Final selection will be subject to verification of documents and medical fitness
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>FAQs – IGCAR JRF Recruitment 2026</h2>
@@ -18653,11 +18653,11 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -18746,11 +18746,11 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -18885,11 +18885,11 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
   <ins class="adsbygoogle"
-       style="display:block;min-height:90px;"
+       style="display:block;text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
        data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="XXXXXXXXXX"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+       data-ad-slot="3305379782"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 <h2>FAQs – Bank of Baroda Sports Quota Recruitment 2026</h2>
