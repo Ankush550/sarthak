@@ -35,18 +35,6 @@ RESULT_CONTENT["jkssb-junior-assistant-result-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -73,11 +61,11 @@ Updated : 02 July 2026
 
 </div>
 
-<h1>
+<h2>
 
 JKSSB Junior Assistant Result 2026 Out at jkssb.nic.in – Download Merit List & Scorecard PDF
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -594,17 +582,6 @@ The official category-wise cut-off marks have not been released separately by JK
 
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <div class="important-note">
 
 <strong>Note:</strong> The above cut-off marks are expected values based on previous recruitment trends. Candidates should rely on the official JKSSB Result PDF for their actual qualifying status.
@@ -1045,18 +1022,6 @@ Important Links
 
 </table>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>
 
 Frequently Asked Questions (FAQs)
@@ -1232,7 +1197,7 @@ RESULT_CONTENT["hssc-revised-result-2026"] = `
 <time datetime="2026-07-01">Updated: 01 July 2026</time>
 </div>
 
-<h1>HSSC Revised Result 2026 Out For Forester, Forest Guard & Other Posts – Download PDF</h1>
+<h2>HSSC Revised Result 2026 Out For Forester, Forest Guard & Other Posts – Download PDF</h2>
 
 <h2>HSSC Revised PMT Result 2026 Released for Additional Shortlisted Candidates</h2>
 
@@ -1280,7 +1245,7 @@ Download Revised Result
 
 <h2>HSSC Revised Result 2026 – Overview</h2>
 
-<table class="detail-table">
+<table>
 
 <tr>
 
@@ -1370,21 +1335,9 @@ hssc.gov.in
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>Direct Download Links</h2>
 
-<table class="detail-table">
+<table>
 
 <tr>
 
@@ -1438,7 +1391,7 @@ Visit Website
 The revised PMT shortlist has been published for multiple recruitment notifications issued by HSSC. Candidates belonging to the following posts should check the revised result PDF carefully.
 </p>
 
-<table class="detail-table">
+<table>
 
 <tr>
 
@@ -1529,7 +1482,7 @@ HSSC has also released the revised category-wise cut-off marks along with the ad
 
 <h3>Forester (Advertisement No. 02/2026)</h3>
 
-<table class="detail-table">
+<table>
 
 <tr>
 <th>Category</th>
@@ -1568,20 +1521,9 @@ HSSC has also released the revised category-wise cut-off marks along with the ad
 
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h3>Forest Guard (Advertisement No. 04/2026)</h3>
 
-<table class="detail-table">
+<table>
 
 <tr>
 <th>Category</th>
@@ -1653,7 +1595,7 @@ Candidates whose Registration Numbers are included in the revised list should do
 
 <h2>PMT Schedule 2026</h2>
 
-<table class="detail-table">
+<table>
 
 <tr>
 
@@ -1681,18 +1623,6 @@ Candidates whose Registration Numbers are included in the revised list should do
 
 </table>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check HSSC Revised Result 2026?</h2>
 
 <ol>
@@ -1736,7 +1666,7 @@ Candidates whose Registration Numbers are included in the revised list should do
 
 RESULT_CONTENT["up-home-guard-result-2026"] = `
 
-<h1>UP Home Guard Result 2026 Out – Download Scorecard & Merit List at uppbpb.gov.in</h1>
+<h2>UP Home Guard Result 2026 Out – Download Scorecard & Merit List at uppbpb.gov.in</h2>
 
 <p><strong>By SarthakYojana Editorial Team</strong> | Updated: 29 June 2026</p>
 
@@ -1784,7 +1714,7 @@ Download Result
 
 <h2>UP Home Guard Result 2026 – Key Highlights</h2>
 
-<table class="detail-table">
+<table>
 
 <tr>
 
@@ -1860,18 +1790,6 @@ Download Result
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>When Was the UP Home Guard Result 2026 Released?</h2>
 
 <p>
@@ -1899,17 +1817,6 @@ The shortlisted candidates will now appear for the
 <strong>Physical Standard Test (PST)</strong>.
 </p>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p>
 The merit list has been prepared using the normalized written examination marks,
 reservation rules,
@@ -1927,18 +1834,6 @@ and additional marks awarded for preferential qualifications wherever applicable
 
 <li>Enter your Roll Number or Application Number.</li>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <li>Enter your Date of Birth.</li>
 
 <li>Click on the <strong>Submit</strong> button.</li>
@@ -1986,7 +1881,7 @@ RESULT_CONTENT["ap-high-court-result-2026"] = `
   <time datetime="2026-06-27">Updated: 27 June 2026</time>
 </div>
 
-<h1>AP High Court Result 2026 Out – 3rd Provisional Selection List Released for Junior Assistant & Other Posts</h1>
+<h2>AP High Court Result 2026 Out – 3rd Provisional Selection List Released for Junior Assistant & Other Posts</h2>
 
 <p>The <strong>High Court of Andhra Pradesh at Amaravati</strong> has officially released the <strong>AP High Court Result 2026</strong> in the form of the <strong>3rd Provisional Selection List</strong> dated 25 June 2026 under <strong>ROC No. 72/2025-RC</strong>. The results have been declared for six posts — <strong>Junior Assistant, Office Subordinate, Process Server, Examiner, Field Assistant, and Record Assistant</strong>.</p>
 
@@ -2010,18 +1905,6 @@ RESULT_CONTENT["ap-high-court-result-2026"] = `
   </tbody>
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>AP High Court 3rd Provisional Selection List 2026 – Direct PDF Download</h2>
 
 <p>Click the button below for your post to directly download the result PDF:</p>
@@ -2062,17 +1945,6 @@ RESULT_CONTENT["ap-high-court-result-2026"] = `
   </tbody>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check AP High Court Result 2026 Online</h2>
 <ol>
   <li>Upar diye gaye apne post ke <strong>Download PDF</strong> button par click karein</li>
@@ -2103,18 +1975,6 @@ RESULT_CONTENT["ap-high-court-result-2026"] = `
   </tbody>
 </table>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>FAQs – AP High Court Result 2026</h2>
 
 <h3>Q1. Result kab release hua?</h3>
@@ -2165,18 +2025,6 @@ RESULT_CONTENT["tnpsc-group-2-mains-result-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -2203,11 +2051,11 @@ Updated : 29 June 2026
 
 </div>
 
-<h1>
+<h2>
 
 TNPSC Group 2 Mains Result 2026 Out at tnpsc.gov.in – Download Score Card & Merit List
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -2250,17 +2098,6 @@ check their result and download the relevant document from the official website.
 <tr><td>Official Website</td><td><a href="https://tnpsc.gov.in" target="_blank" rel="nofollow noopener">tnpsc.gov.in</a></td></tr>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check TNPSC Group 2 Mains Result 2026</h2>
 
 <ol>
@@ -2280,18 +2117,6 @@ document lists closer to the date. SarthakYojana.in will update this page as soo
 is officially announced.
 </p>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p style="font-size:12px;color:#888;margin-top:16px;">
 Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
 the official website tnpsc.gov.in before taking any action.
@@ -2333,18 +2158,6 @@ RESULT_CONTENT["rssb-4th-grade-revised-result-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -2371,11 +2184,11 @@ Updated : 29 June 2026
 
 </div>
 
-<h1>
+<h2>
 
 RSSB 4th Grade Revised Result 2026 Out – Download Merit List PDF
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -2418,17 +2231,6 @@ check their result and download the relevant document from the official website.
 <tr><td>Official Website</td><td><a href="https://rssb.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rssb.rajasthan.gov.in</a></td></tr>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check RSSB 4th Grade Revised Result 2026</h2>
 
 <ol>
@@ -2448,18 +2250,6 @@ document lists closer to the date. SarthakYojana.in will update this page as soo
 is officially announced.
 </p>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p style="font-size:12px;color:#888;margin-top:16px;">
 Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
 the official website rssb.rajasthan.gov.in before taking any action.
@@ -2501,18 +2291,6 @@ RESULT_CONTENT["rpsc-aso-marks-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -2539,11 +2317,11 @@ Updated : 29 June 2026
 
 </div>
 
-<h1>
+<h2>
 
 RPSC ASO Marks 2026 Released – Check Assistant Statistical Officer Score Card
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -2586,17 +2364,6 @@ check their result and download the relevant document from the official website.
 <tr><td>Official Website</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td></tr>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check RPSC ASO Marks 2026</h2>
 
 <ol>
@@ -2616,18 +2383,6 @@ document lists closer to the date. SarthakYojana.in will update this page as soo
 is officially announced.
 </p>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p style="font-size:12px;color:#888;margin-top:16px;">
 Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
 the official website rpsc.rajasthan.gov.in before taking any action.
@@ -2669,18 +2424,6 @@ RESULT_CONTENT["rpsc-aso-main-merit-list-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -2707,11 +2450,11 @@ Updated : 29 June 2026
 
 </div>
 
-<h1>
+<h2>
 
 RPSC ASO Main Merit List 2026 Out – Download Assistant Statistical Officer Merit List PDF
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -2754,17 +2497,6 @@ check their result and download the relevant document from the official website.
 <tr><td>Official Website</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank" rel="nofollow noopener">rpsc.rajasthan.gov.in</a></td></tr>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check RPSC ASO Main Merit List 2026</h2>
 
 <ol>
@@ -2784,18 +2516,6 @@ document lists closer to the date. SarthakYojana.in will update this page as soo
 is officially announced.
 </p>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p style="font-size:12px;color:#888;margin-top:16px;">
 Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
 the official website rpsc.rajasthan.gov.in before taking any action.
@@ -2837,18 +2557,6 @@ RESULT_CONTENT["upsssc-aso-mains-result-2026"] = `
 
 </table>
 
-
-<!-- AdSense Ad 1 – After Overview -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="3305379782"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 </div>
 
 <!-- ================= Advertisement ================= -->
@@ -2875,11 +2583,11 @@ Updated : 28 June 2026
 
 </div>
 
-<h1>
+<h2>
 
 UPSSSC ASO Mains Result 2026 Out at upsssc.gov.in – Check Assistant Statistical Officer Result
 
-</h1>
+</h2>
 
 <div class="hero-box success">
 
@@ -2922,17 +2630,6 @@ check their result and download the relevant document from the official website.
 <tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank" rel="nofollow noopener">upsssc.gov.in</a></td></tr>
 </table>
 
-
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="6127673697"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <h2>How to Check UPSSSC ASO Mains Result 2026</h2>
 
 <ol>
@@ -2952,18 +2649,6 @@ document lists closer to the date. SarthakYojana.in will update this page as soo
 is officially announced.
 </p>
 
-
-<!-- AdSense Ad 3 – Before End -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-     style="display:block;min-height:90px;"
-     data-ad-client="ca-pub-8602963796651751"
-     data-ad-slot="5544753179"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 <p style="font-size:12px;color:#888;margin-top:16px;">
 Disclaimer: SarthakYojana.in is not the official examination authority. Please cross-check all details from
 the official website upsssc.gov.in before taking any action.

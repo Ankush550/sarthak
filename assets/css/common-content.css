@@ -129,6 +129,239 @@
     margin-bottom:8px;
 }
 
+/* ===== MISSING CLASSES USED IN RESULT / ANSWER KEY CONTENT =====
+   These classes (table-bordered, hero-box, result-summary, status-success,
+   ad-container, etc.) are used throughout result-content.js and
+   answerkey-content.js but were never defined anywhere, so this content
+   was rendering as plain unstyled HTML. ============================= */
+
+/* Generic bordered data table (alias of .detail-table look) */
+.article-container table.table,
+.content-article table.table{
+    width:100%;
+    border-collapse:collapse;
+    margin:18px 0;
+    font-size:16px;
+}
+.article-container table.table.table-bordered th,
+.content-article table.table.table-bordered th{
+    background:#153c8a;
+    color:#fff;
+    padding:12px 14px;
+    text-align:left;
+    font-size:15px;
+}
+.article-container table.table.table-bordered td,
+.content-article table.table.table-bordered td{
+    padding:11px 14px;
+    border:1px solid #e2e6f0;
+    font-size:15px;
+}
+.article-container table.table.table-bordered tr:nth-child(even) td,
+.content-article table.table.table-bordered tr:nth-child(even) td{
+    background:#f8f9fc;
+}
+
+/* Result quick-summary card at top of article */
+.result-summary{
+    background:#f8fbff;
+    border:1px solid #d6e6ff;
+    border-radius:10px;
+    padding:6px 14px;
+    margin-bottom:20px;
+}
+.result-summary table{
+    width:100%;
+    border-collapse:collapse;
+}
+.result-summary th{
+    text-align:left;
+    color:#555;
+    font-size:14px;
+    padding:9px 8px;
+    width:35%;
+    border-bottom:1px solid #eef1fa;
+}
+.result-summary td{
+    padding:9px 8px;
+    font-size:14.5px;
+    border-bottom:1px solid #eef1fa;
+    color:#222;
+}
+
+/* Highlighted announcement banner ("Result Declared" etc.) */
+.hero-box,
+.info-box{
+    border-radius:10px;
+    padding:16px 20px;
+    margin:18px 0;
+    border:1px solid #ddd;
+}
+.hero-box h2{
+    margin:0 0 8px !important;
+    padding:0 !important;
+    background:none !important;
+    border:none !important;
+    color:inherit !important;
+    font-size:22px !important;
+}
+.hero-box.success,
+.info-box.success{
+    background:#e8f5e9;
+    border-color:#a5d6a7;
+    color:#1b5e20;
+}
+
+/* Status colour helpers */
+.status-success,
+.text-success{
+    color:#1b5e20;
+    font-weight:700;
+}
+
+/* Ad slot spacing wrapper used inside article content */
+.ad-container{
+    margin:22px 0;
+    text-align:center;
+}
+
+/* Warning / important note callout */
+.important-note{
+    background:#fff8e1;
+    border-left:5px solid #f9a825;
+    padding:14px 18px;
+    border-radius:6px;
+    margin:16px 0;
+    font-size:15px;
+    color:#5d4a00;
+}
+
+/* Small quick-info key/value box */
+.quick-info{
+    background:#fff;
+    border:1px solid #ddd;
+    border-radius:8px;
+    padding:12px 16px;
+    margin-bottom:16px;
+    font-size:14.5px;
+}
+
+/* Primary button (used alongside .download-btn in some entries) */
+.btn-primary{
+    display:inline-block;
+    background:#1565c0;
+    color:#fff !important;
+    text-decoration:none;
+    font-weight:700;
+    padding:12px 30px;
+    border-radius:8px;
+    font-size:15px;
+}
+.btn-primary:hover{
+    background:#0d47a1;
+}
+
+/* Inline breadcrumb used at the top of injected article content —
+   scoped so it does NOT inherit the full-width site-header breadcrumb
+   bar styling (which is meant for the top of the page, not mid-article) */
+.article-container nav.breadcrumb,
+.content-article nav.breadcrumb{
+    background:none;
+    border:none;
+    padding:0 0 14px;
+    font-size:12.5px;
+    color:#888;
+    display:block;
+}
+.article-container nav.breadcrumb a,
+.content-article nav.breadcrumb a{
+    color:#1565c0;
+}
+
+@media(max-width:768px){
+  .result-summary th{width:42%;font-size:13px;}
+  .result-summary td{font-size:13.5px;}
+  .hero-box,.info-box{padding:12px 14px;}
+  .quick-info{padding:10px 12px;font-size:13.5px;}
+}
+
+/* ===== MISSING CLASSES USED IN JOB / ADMIT CARD CONTENT ===== */
+
+/* "ads-container" (admit cards) is the same idea as "ad-container" (results) */
+.ads-container{
+    margin:22px 0;
+    text-align:center;
+}
+
+/* Salary highlight block used in job articles */
+.salary-table-container{
+    margin:18px 0;
+}
+.salary-table{
+    width:100%;
+    border-collapse:collapse;
+    font-size:15px;
+}
+.salary-table th{
+    background:#153c8a;
+    color:#fff;
+    padding:11px 14px;
+    text-align:left;
+}
+.salary-table td{
+    padding:10px 14px;
+    border:1px solid #e2e6f0;
+}
+.salary-table tr:nth-child(even) td{
+    background:#f8f9fc;
+}
+.salary-highlight{
+    background:#e8f5e9;
+    border-left:5px solid #2e7d32;
+    padding:14px 18px;
+    border-radius:6px;
+    margin:16px 0;
+    font-size:15px;
+    color:#1b5e20;
+    font-weight:600;
+}
+.salary-note{
+    font-size:13px;
+    color:#777;
+    margin-top:6px;
+}
+
+/* Generic section wrapper used inside longer job articles */
+.job-section{
+    margin:22px 0;
+}
+
+/* Grid used for "related jobs" style listings inside content */
+.related-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:8px;
+    margin:14px 0;
+}
+@media(max-width:600px){
+  .related-grid{grid-template-columns:1fr;}
+}
+
+/* Complete the eligibility-table look (previously only header colour was set) */
+.eligibility-table{
+    width:100%;
+    border-collapse:collapse;
+    margin:18px 0;
+    font-size:15px;
+}
+.eligibility-table td{
+    padding:10px 14px;
+    border:1px solid #e2e6f0;
+}
+.eligibility-table tr:nth-child(even) td{
+    background:#f8f9fc;
+}
+
 /* ===== LINKS ===== */
 
 .article-container a{

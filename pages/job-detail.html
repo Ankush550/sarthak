@@ -16,6 +16,7 @@
   })();
 </script>
 <link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/css/common-content.css">
 <script src="../assets/js/seo-engine.js"></script>
 <style>
   
@@ -297,11 +298,11 @@
     <span class="ad-banner-label">Advertisements</span>
     <div class="ad-banner">
       <ins class="adsbygoogle"
-           style="display:block;text-align:center;"
-           data-ad-layout="in-article"
-           data-ad-format="fluid"
+           style="display:block;width:100%;min-height:90px;"
            data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="3305379782"></ins>
+           data-ad-slot="1013901637"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
   </div>
@@ -361,10 +362,12 @@ const _ans    = typeof ANSWER_KEYS_DATA  !== 'undefined' ? ANSWER_KEYS_DATA  : [
 const all = [..._jobs, ..._pvt, ..._res, ..._admit, ..._ans];
 const job = all.find(j => j.id === id);
 
-// Auto-calculate status from lastDate if not explicitly set
-// (uses the shared, robust resolveJobStatus() from common.js — fixes
-// false "Closed/Expired" badges caused by ambiguous date formats)
-if (job && (!job.status || job.status === 'closed')) {
+// Always recompute a clean, normalized status via the shared
+// resolveJobStatus() — the raw data uses inconsistent text like
+// "Online Form", "Active", "Open" (capital O), "Short Notice" which
+// never exactly matched the badge logic's lowercase comparison below,
+// so those jobs always incorrectly fell through to the "Closed" badge.
+if (job) {
   job.status = resolveJobStatus(job);
 }
 
