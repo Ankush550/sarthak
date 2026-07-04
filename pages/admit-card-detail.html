@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Admit Card – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Download admit card / hall ticket for government exams. Check exam date, download link and instructions.">
@@ -243,6 +244,7 @@ renderFooter();
 renderCookieConsent();
 
 const id = new URLSearchParams(window.location.search).get('id') || '';
+if (!id) { window.location.replace('results.html#admit'); }
 document.getElementById('canonicalTag').href =
   'https://sarthakyojana.in/pages/admit-card-detail.html?id=' + id;
 

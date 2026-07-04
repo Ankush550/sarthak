@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Job Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Complete government job details with eligibility, vacancies, salary and apply link.">
@@ -352,6 +353,7 @@ renderFooter();
 renderCookieConsent();
 
 const id = new URLSearchParams(window.location.search).get('id') || '';
+if (!id) { window.location.replace('jobs.html'); }
 document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
 
 const _jobs   = typeof JOBS_DATA        !== 'undefined' ? JOBS_DATA        : [];
@@ -383,9 +385,6 @@ if (!job) {
 } else {
   // Dynamic Job Banner Image
 const banner = document.getElementById("jobBannerImage");
-
-console.log("Image Name:", job.image);
-
 if (banner && job.image) {
     banner.src = "/assets/images/" + job.image;
     banner.alt = job.title;
