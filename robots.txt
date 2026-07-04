@@ -1,32 +1,39 @@
-# ============================================================
-# SarthakYojana.in
-# Enterprise robots.txt
-# Last Updated: 30 June 2026
-# ============================================================
-
 User-agent: *
 Allow: /
 
-# Allow important folders
-Allow: /pages/
-Allow: /assets/
-Allow: /assets/css/
-Allow: /assets/js/
-Allow: /assets/images/
+# ── Pages that DO NOT EXIST (404) — block from crawling ──────
+Disallow: /pages/
+Disallow: /pages/tools.html
+Disallow: /pages/upcomingipo.html
+Disallow: /pages/about.html
+Disallow: /pages/terms.html
+Disallow: /pages/sarkari-rules.html
+Disallow: /mo
+Disallow: /day
+Disallow: /month
+Disallow: /cdn-cgi/
 
-# Block search pages with query parameters
-Disallow: /pages/search.html?q=
+# ── Allow specific valid pages inside /pages/ ─────────────────
+Allow: /pages/job-detail.html
+Allow: /pages/jobs.html
+Allow: /pages/results.html
+Allow: /pages/admit-card-detail.html
+Allow: /pages/item-detail.html
+Allow: /pages/schemes.html
+Allow: /pages/private-jobs.html
+Allow: /pages/private-jobs-list.html
+Allow: /pages/job-finder.html
+Allow: /pages/about-us.html
+Allow: /pages/contact.html
+Allow: /pages/disclaimer.html
+Allow: /pages/privacy-policy.html
+Allow: /pages/terms-conditions.html
+Allow: /pages/sitemap.html
+Allow: /pages/nri-jobs.html
+Allow: /pages/us-companies-india-jobs.html
 
-# Block development/system folders (if they exist)
-Disallow: /.git/
-Disallow: /.github/
-Disallow: /node_modules/
-Disallow: /scripts/
-Disallow: /temp/
-Disallow: /backup/
+# ── Block search (thin content) ───────────────────────────────
+Disallow: /pages/search.html
 
-# Host
-Host: https://sarthakyojana.in
-
-# Sitemap
+# ── Sitemap ───────────────────────────────────────────────────
 Sitemap: https://sarthakyojana.in/sitemap.xml
