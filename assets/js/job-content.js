@@ -18898,3 +18898,234 @@ Bank of Baroda Sports Quota Recruitment 2026 – Complete Notification Details</
 <p style="font-size:15px;"<strong>Q: What is the official notification number?</strong><br>A: BOB/HRM/REC/ADVT/2026/09. Always quote this number in any communication with the bank.</p>
 `;
 
+
+JOB_CONTENT["icsil-deo-mts-driver-recruitment-2026"] = `
+
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+
+<h2>ICSIL Recruitment 2026 – Overview</h2>
+
+<p>
+Intelligent Communication Systems India Ltd. (ICSIL) has invited online applications
+(Advt. No. ICSIL/RC/10-A/ICSIL/Various Post/2026-27) to build a panel of eligible candidates for the
+posts of <strong>Data Entry Operator, MTS and Driver</strong>. This is a panel-formation exercise, meaning
+selected candidates will be empanelled to meet the present and future manpower requirements of ICSIL's
+client departments, rather than being appointed against a fixed number of vacancies.
+</p>
+
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Intelligent Communication Systems India Ltd. (ICSIL)</td></tr>
+<tr><td>Advertisement No.</td><td>ICSIL/RC/10-A/ICSIL/Various Post/2026-27</td></tr>
+<tr><td>Posts</td><td>Data Entry Operator, MTS, Driver</td></tr>
+<tr><td>Mode of Application</td><td>Online</td></tr>
+<tr><td>Registration Fee</td><td>₹590 (Non-refundable)</td></tr>
+<tr><td>Official Website</td><td><a href="https://www.icsil.in" target="_blank" rel="nofollow noopener">icsil.in</a></td></tr>
+</table>
+
+<div class="download-box">
+<a href="https://www.icsil.in" target="_blank" class="download-btn">Apply Online</a>
+</div>
+
+<h2>Important Dates</h2>
+<table class="detail-table">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Application Window Opens</td><td>04 July 2026, 6:00 PM</td></tr>
+<tr><td>Application Window Closes</td><td>11 July 2026, 6:00 PM</td></tr>
+</table>
+
+<h2>Eligibility – Qualification & Age</h2>
+<p>Eligibility differs slightly by post. Candidates should check the table below before applying.</p>
+<table class="detail-table">
+<tr><th>Post</th><th>Qualification</th><th>Age Limit</th></tr>
+<tr><td>Data Entry Operator (Graduate level)</td><td>Graduate, typing speed 30 WPM in English</td><td>21–45 years</td></tr>
+<tr><td>Data Entry Operator (12th Pass level)</td><td>12th Pass, typing speed 30 WPM in English</td><td>18–45 years</td></tr>
+<tr><td>MTS</td><td>10th Pass</td><td>18–45 years</td></tr>
+<tr><td>Driver</td><td>10th Pass (desirable) + valid LMV licence</td><td>18–45 years</td></tr>
+</table>
+
+<h2>Application Fee & Pay</h2>
+<p>
+A one-time, non-refundable registration fee of <strong>₹590</strong> must be paid online at the time of
+applying. Pay for empanelled candidates will follow the Minimum Wages notified by the Government of NCT
+of Delhi (GNCTD); the notification does not mention a separate fixed monthly salary figure.
+</p>
+
+<h2>How to Apply Online</h2>
+<ol>
+<li>Go to the official ICSIL website, icsil.in, and open the Career section.</li>
+<li>Use the "How to apply for current Jobs" link under the Current Job section.</li>
+<li>Fill in your educational qualification (10th onward) and experience in your profile.</li>
+<li>Check that your profile matches the eligibility criteria for the post you are applying for.</li>
+<li>Submit the application within the window: 04 July 2026 (6 PM) to 11 July 2026 (6 PM).</li>
+</ol>
+
+<div class="faq-box">
+<strong>Q. Does this notification guarantee a job?</strong>
+No — this is a panel-formation exercise. Empanelment does not by itself confer a right to deployment;
+candidates are called as per client department requirements and Application ID order.
+</div>
+<div class="faq-box">
+<strong>Q. How long does the ICSIL panel remain valid?</strong>
+The panel remains valid for a minimum of two years and may be revised, extended, or cancelled by ICSIL.
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official ICSIL notification before applying.</p>
+`;
+
+JOB_CONTENT["icai-branch-incharge-recruitment-2026"] = `
+
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+
+<h2>ICAI Branch In-Charge Recruitment 2026 – Overview</h2>
+
+<p>
+The Institute of Chartered Accountants of India (ICAI) has invited online applications from graduates for
+the post of <strong>Branch In-Charge</strong> under the Branch Human Resource Scheme (BHRS) 2022
+(Advt. No. 01/2026/HRD/BHRS/07). A total of <strong>129 vacancies</strong> are available across ICAI's five
+Regional Councils — CIRC, EIRC, NIRC, SIRC and WIRC.
+</p>
+
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Institute of Chartered Accountants of India (ICAI)</td></tr>
+<tr><td>Advertisement No.</td><td>01/2026/HRD/BHRS/07</td></tr>
+<tr><td>Post</td><td>Branch In-Charge</td></tr>
+<tr><td>Total Vacancies</td><td>129</td></tr>
+<tr><td>Qualification</td><td>Graduate from a recognised university</td></tr>
+<tr><td>Age Limit</td><td>27–40 years (as on 30 June 2026)</td></tr>
+<tr><td>Application Fee</td><td>₹250 (non-refundable)</td></tr>
+<tr><td>Official Website</td><td><a href="https://www.icai.org" target="_blank" rel="nofollow noopener">icai.org</a></td></tr>
+</table>
+
+<div class="download-box">
+<a href="https://www.icai.org" target="_blank" class="download-btn">Apply Online</a>
+</div>
+
+<h2>Important Dates</h2>
+<table class="detail-table">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Start of Online Application</td><td>03 July 2026</td></tr>
+<tr><td>Last Date to Apply</td><td>19 July 2026</td></tr>
+</table>
+
+<h2>Region-Wise Vacancies</h2>
+<table class="detail-table">
+<tr><th>Regional Council</th><th>Vacancies</th></tr>
+<tr><td>Central India (CIRC)</td><td>42</td></tr>
+<tr><td>Eastern India (EIRC)</td><td>7</td></tr>
+<tr><td>Northern India (NIRC)</td><td>20</td></tr>
+<tr><td>Southern India (SIRC)</td><td>29</td></tr>
+<tr><td>Western India (WIRC)</td><td>31</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>129</strong></td></tr>
+</table>
+<p>Candidates may apply for branches within only one region, giving up to three branch preferences irrespective of Branch Category.</p>
+
+<h2>Pay by Branch Category</h2>
+<table class="detail-table">
+<tr><th>Category</th><th>Min. Experience</th><th>Approx. Annual Package</th></tr>
+<tr><td>Category I</td><td>5 years</td><td>₹7.45 lakh</td></tr>
+<tr><td>Category II</td><td>5 years</td><td>₹6.33 lakh</td></tr>
+<tr><td>Category III</td><td>5 years</td><td>₹5.59 lakh</td></tr>
+<tr><td>Category IV</td><td>3 years</td><td>₹4.84 lakh</td></tr>
+<tr><td>Category V & VI</td><td>3 years</td><td>₹4.10 lakh</td></tr>
+</table>
+
+<h2>Selection Process</h2>
+<p>Selection has two stages: a Computer Based Test (CBT) of 425 marks (180 minutes; qualifying marks 170),
+followed by an Interview (qualifying marks 30). CBT and interview marks are combined for the final merit list.</p>
+
+<h2>How to Apply</h2>
+<ol>
+<li>Visit the official ICAI website and open the Branch In-Charge Recruitment 2026 notification.</li>
+<li>Register with a valid email ID and mobile number.</li>
+<li>Fill personal, educational and experience details, and select region + up to 3 branch preferences.</li>
+<li>Upload the required documents and pay the ₹250 fee online.</li>
+<li>Submit before 19 July 2026 and save a printout.</li>
+</ol>
+
+<div class="faq-box">
+<strong>Q. Can I apply for branches in more than one region?</strong>
+No, candidates may apply for branches of only one region, with up to three branch preferences within it.
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official ICAI notification before applying.</p>
+`;
+
+JOB_CONTENT["indian-army-sports-quota-recruitment-2026"] = `
+
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+
+<h2>Indian Army Sports Quota Recruitment 2026 – Overview</h2>
+
+<p>
+The Indian Army, through the Army Sports Control Board, invites unmarried Indian male and female
+sportspersons for Direct Entry <strong>Havildar</strong> and <strong>Naib Subedar (Sports)</strong> posts under
+Intake Ser No 06/2026. Candidates with notable achievements at International, National, Khelo India or
+Khelo India University Games level (on or after 01 April 2024) can apply across 23 sports disciplines
+including Athletics, Boxing, Hockey, Shooting and Wrestling.
+</p>
+
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Recruiting Body</td><td>Indian Army / Army Sports Control Board</td></tr>
+<tr><td>Posts</td><td>Havildar (Sports), Naib Subedar (Sports)</td></tr>
+<tr><td>Intake</td><td>Ser No 06/2026</td></tr>
+<tr><td>Eligible Candidates</td><td>Unmarried Indian men and women</td></tr>
+<tr><td>Qualification</td><td>Matriculation (10th Pass)</td></tr>
+<tr><td>Age Limit</td><td>17½ to 25 years</td></tr>
+<tr><td>Mode of Application</td><td>Offline, via Registered Post only</td></tr>
+<tr><td>Last Date</td><td>10 July 2026, 5:00 PM</td></tr>
+<tr><td>Official Website</td><td><a href="https://www.joinindianarmy.nic.in" target="_blank" rel="nofollow noopener">joinindianarmy.nic.in</a></td></tr>
+</table>
+
+<h2>Eligibility Criteria</h2>
+<ul>
+<li>Only unmarried Indian men and women are eligible.</li>
+<li>Age between 17½ and 25 years (DOB between 30 Sept 2001 and 01 Oct 2008).</li>
+<li>Minimum qualification: Matriculation from a recognised board.</li>
+<li>Sports achievement at International/National/Khelo India level from 01 April 2024 onward is required — the exact criterion differs for Havildar and Naib Subedar posts.</li>
+</ul>
+
+<h2>Physical Standards (Male, region-wise minimum height)</h2>
+<table class="detail-table">
+<tr><th>Region</th><th>Min. Height (cm)</th></tr>
+<tr><td>Western Himalayan</td><td>163</td></tr>
+<tr><td>Eastern Himalayan</td><td>160</td></tr>
+<tr><td>Western Plains</td><td>170</td></tr>
+<tr><td>Eastern Plains</td><td>169</td></tr>
+<tr><td>Central Plains</td><td>168</td></tr>
+<tr><td>Southern Plains</td><td>166</td></tr>
+</table>
+<p>Female candidates require a minimum height of 162 cm, with relaxations for specific regions/communities. Chest expansion of 5 cm is required for both genders.</p>
+
+<h2>Selection Process</h2>
+<ol>
+<li>Application scrutiny and shortlisting based on sports achievements.</li>
+<li>Call-up letter sent by email for selection trials.</li>
+<li>Physical Fitness Test, Physical Standards Test and Skill Test at the trial centre.</li>
+<li>Medical examination for qualified candidates.</li>
+<li>Final merit list based on available vacancies per sports discipline.</li>
+</ol>
+
+<h2>How to Apply (Offline)</h2>
+<ol>
+<li>Download the application form from joinindianarmy.nic.in.</li>
+<li>Print on A4 paper in the prescribed format and fill in block capitals as per the Matriculation certificate.</li>
+<li>Attach self-attested copies of Matriculation Certificate, Aadhaar Card and Sports Certificate(s).</li>
+<li>Send the completed form via <strong>Registered Post only</strong> (speed post/hand delivery not accepted) to:
+<br><em>Directorate of PT & Sports, General Staff Branch, IHQ of MoD (Army), Room No 747 'A' Wing, Sena Bhawan, PO New Delhi-110011</em></li>
+<li>Ensure it reaches before 5:00 PM on 10 July 2026.</li>
+</ol>
+
+<div class="faq-box">
+<strong>Q. Can married candidates apply?</strong>
+No, only unmarried Indian men and women are eligible for this recruitment.
+</div>
+<div class="faq-box">
+<strong>Q. Is there an application fee?</strong>
+The notification does not mention any application fee for submitting the form.
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
+`;

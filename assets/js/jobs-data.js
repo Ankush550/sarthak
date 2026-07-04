@@ -1,5 +1,68 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+  {
+    id: "icsil-deo-mts-driver-recruitment-2026",
+    title: "ICSIL Data Entry Operator, MTS & Driver Recruitment 2026",
+    organization: "Intelligent Communication Systems India Ltd. (ICSIL)",
+    postName: "Data Entry Operator, MTS, Driver",
+    advertisementNo: "ICSIL/RC/10-A/ICSIL/Various Post/2026-27",
+    category: "PSU",
+    qualification: "10th",
+    employmentType: "CONTRACT",
+    location: "Delhi/NCR",
+    lastDate: "11 July 2026",
+    applicationStart: "04 July 2026",
+    totalPosts: "Panel (posts not fixed)",
+    officialWebsite: "https://www.icsil.in",
+    officialNotification: "https://www.icsil.in",
+    image: "ICSIL.jpeg",
+    isNew: true,
+    status: "open",
+    description: "ICSIL has invited online applications to build a panel of eligible candidates for Data Entry Operator, MTS and Driver posts to meet current and future manpower needs of client departments."
+  },
+
+  {
+    id: "icai-branch-incharge-recruitment-2026",
+    title: "ICAI Branch In-Charge Recruitment 2026",
+    organization: "The Institute of Chartered Accountants of India (ICAI)",
+    postName: "Branch In-Charge",
+    advertisementNo: "01/2026/HRD/BHRS/07",
+    category: "Other",
+    qualification: "Graduate",
+    employmentType: "FULL_TIME",
+    location: "All India",
+    lastDate: "19 July 2026",
+    applicationStart: "03 July 2026",
+    totalPosts: "129",
+    salaryMin: 34000,
+    salaryMax: 62000,
+    officialWebsite: "https://www.icai.org",
+    officialNotification: "https://www.icai.org",
+    image: "ICAI.jpeg",
+    isNew: true,
+    status: "open",
+    description: "ICAI invites online applications from graduates for 129 Branch In-Charge posts under the Branch Human Resource Scheme (BHRS) 2022, across its five Regional Councils."
+  },
+
+  {
+    id: "indian-army-sports-quota-recruitment-2026",
+    title: "Indian Army Sports Quota Recruitment 2026 (Havildar & Naib Subedar)",
+    organization: "Indian Army / Army Sports Control Board",
+    postName: "Havildar (Sports), Naib Subedar (Sports)",
+    advertisementNo: "Intake Ser No 06/2026",
+    category: "Defence",
+    qualification: "10th",
+    employmentType: "FULL_TIME",
+    location: "All India",
+    lastDate: "10 July 2026",
+    totalPosts: "Not Specified",
+    officialWebsite: "https://www.joinindianarmy.nic.in",
+    officialNotification: "https://www.joinindianarmy.nic.in",
+    image: "IndianArmySports.jpeg",
+    isNew: true,
+    status: "closing_soon",
+    description: "Indian Army invites unmarried male and female sportspersons with outstanding achievements to apply offline for Direct Entry Havildar and Naib Subedar (Sports) posts across 23 sports disciplines."
+  },
   
   {
     id: "ibps-po-recruitment-2026",
@@ -1513,14 +1576,12 @@ isNew: true
     status:"open",
     isNew:true
 },
+
+
 ];
 
 const PRIVATE_JOBS_DATA = [];
 
-
-
-
 function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.find(j=>j.id===id); }
 function searchJobs(q){ const s=q.toLowerCase(); return JOBS_DATA.filter(j=>j.title.toLowerCase().includes(s)||j.organization.toLowerCase().includes(s)||j.description.toLowerCase().includes(s)||(j.tags&&j.tags.some(t=>t.includes(s)))); }
 function getDaysLeft(d){ return Math.ceil((new Date(d)-new Date())/(1000*60*60*24)); }
-

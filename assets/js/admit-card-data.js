@@ -1,4 +1,136 @@
 const ADMIT_CARDS_DATA = [
+  {
+    id: "mp-apex-bank-admit-card-2026",
+    title: "MP Apex Bank Admit Card 2026",
+    organization: "M.P. Rajya Sahakari Bank Maryadit (MP Apex Bank)",
+    totalPosts: "1763",
+    examDate: "Not Announced",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://apexbankmp.bank.in",
+    image: "MPApexBank.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "rpsc-deputy-jailor-admit-card-2026",
+    title: "RPSC Deputy Jailor PET/PST Admit Card 2026",
+    organization: "Rajasthan Public Service Commission (RPSC)",
+    totalPosts: "Not Specified",
+    examDate: "From 15 July 2026",
+    admitCardDate: "01 July 2026",
+    officialLink: "https://jail.rajasthan.gov.in",
+    image: "RPSCDeputyJailor.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "jkssb-sanitary-inspector-jot-admit-card-2026",
+    title: "JKSSB Sanitary Inspector & Junior Ophthalmic Technician Admit Card 2026",
+    organization: "Jammu and Kashmir Services Selection Board (JKSSB)",
+    totalPosts: "Not Specified",
+    examDate: "08 July 2026",
+    admitCardDate: "03 July 2026",
+    officialLink: "https://jkssb.nic.in",
+    image: "JKSSB-Sanitary.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "riico-admit-card-2026",
+    title: "RIICO Admit Card 2026",
+    organization: "Rajasthan State Industrial Development & Investment Corporation (RIICO)",
+    totalPosts: "121",
+    examDate: "8–9 July 2026",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://riico.rajasthan.gov.in",
+    image: "RIICO.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "gsl-management-trainee-admit-card-2026",
+    title: "GSL Management Trainee Admit Card 2026",
+    organization: "Goa Shipyard Limited (GSL)",
+    totalPosts: "32",
+    examDate: "As per Call Letter",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://goashipyard.in",
+    image: "GSL.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "ukpsc-lecturer-civics-admit-card-2026",
+    title: "UKPSC Lecturer Civics Admit Card 2026",
+    organization: "Uttarakhand Public Service Commission (UKPSC)",
+    totalPosts: "Not Specified",
+    examDate: "18 July 2026",
+    admitCardDate: "04 July 2026",
+    officialLink: "https://psc.uk.gov.in",
+    image: "UKPSC.jpeg",
+    status: "upcoming",
+    isNew: true
+  },
+  {
+    id: "mizoram-psc-admit-card-2026",
+    title: "Mizoram PSC Admit Card 2026 (Tourist Officer, Librarian, Jr. Grade MHS)",
+    organization: "Mizoram Public Service Commission (MPSC)",
+    totalPosts: "Not Specified",
+    examDate: "14–30 July 2026 (post-wise)",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://mpsconline.mizoram.gov.in",
+    image: "MizoramPSC.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "cbi-apprentice-admit-card-2026",
+    title: "Central Bank of India Apprentice Admit Card 2026",
+    organization: "Central Bank of India",
+    totalPosts: "4500",
+    examDate: "05 July 2026",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://www.centralbankofindia.co.in",
+    image: "CBIApprentice.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "ncl-admit-card-2026",
+    title: "NCL Admit Card 2026 (HEMM Operator, Paramedical, Overseer Civil)",
+    organization: "Northern Coalfields Limited (NCL)",
+    totalPosts: "Not Specified",
+    examDate: "06 July 2026",
+    admitCardDate: "01 July 2026",
+    officialLink: "https://www.nclcil.in",
+    image: "NCL.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "ssb-constable-sports-quota-admit-card-2026",
+    title: "SSB Constable (GD) Sports Quota Admit Card 2026",
+    organization: "Sashastra Seema Bal (SSB)",
+    totalPosts: "Not Specified",
+    examDate: "As per e-Admit Card",
+    admitCardDate: "01 July 2026",
+    officialLink: "https://recruitment.ssb.gov.in",
+    image: "SSBConstable.jpeg",
+    status: "released",
+    isNew: true
+  },
+  {
+    id: "bihar-bpsc-auditor-admit-card-2026",
+    title: "Bihar BPSC Auditor Admit Card 2026",
+    organization: "Bihar Public Service Commission (BPSC)",
+    totalPosts: "102",
+    examDate: "05 July 2026",
+    admitCardDate: "02 July 2026",
+    officialLink: "https://bpsconline.bihar.gov.in",
+    image: "BPSCAuditor.jpeg",
+    status: "released",
+    isNew: true
+  },
   
   {
     id: "htet-admit-card-2026",
@@ -771,6 +903,7 @@ const ADMIT_CARDS_DATA = [
     category:"Admit Card",
     isNew:true
 },
+
 
 
 ];

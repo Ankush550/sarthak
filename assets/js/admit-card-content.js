@@ -9880,3 +9880,253 @@ Contact HPRCA immediately through the official website.
 </div>
 
 `;
+ADMIT_CARD_CONTENT["mp-apex-bank-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>MP Apex Bank Admit Card 2026 – Overview</h2>
+<p>M.P. Rajya Sahakari Bank Maryadit (MP Apex Bank) has released the admit card for candidates who applied
+for <strong>Computer Operator and Society Manager</strong> posts (1,763 vacancies combined). Candidates can
+log in with their registration number and password/date of birth to download the hall ticket.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>MP Apex Bank</td></tr>
+<tr><td>Posts</td><td>Computer Operator, Society Manager</td></tr>
+<tr><td>Total Vacancies</td><td>1,763</td></tr>
+<tr><td>Exam Mode</td><td>Online (CBT)</td></tr>
+<tr><td>Exam Date</td><td>Not yet announced — will be printed on the admit card</td></tr>
+<tr><td>Official Website</td><td><a href="https://apexbankmp.bank.in" target="_blank" rel="nofollow noopener">apexbankmp.bank.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit apexbankmp.bank.in and open the Recruitment/Careers section.</li>
+<li>Click the MP Apex Bank Admit Card 2026 link for your post.</li>
+<li>Log in with Registration Number and Password/Date of Birth.</li>
+<li>Verify your details and download/print the admit card.</li>
+</ol>
+<h2>Documents to Carry</h2>
+<ul><li>Printed admit card</li><li>One valid original photo ID (Aadhaar/PAN/Voter ID/Driving Licence)</li></ul>
+<p style="font-size:12px;color:#888;">Disclaimer: Always cross-check exam date, shift and centre from the official website before travelling.</p>
+`;
+
+ADMIT_CARD_CONTENT["rpsc-deputy-jailor-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>RPSC Deputy Jailor PET/PST Admit Card 2026 – Overview</h2>
+<p>RPSC, Ajmer has notified the Physical Efficiency Test / Physical Standards Test (PET/PST) schedule for
+candidates who cleared the written exam of the Deputy Jailor Direct Recruitment Exam 2024. The PET/PST will
+be conducted by the Directorate of Prisons, Rajasthan from 15 July 2026 at the Prison Training Institute, Ajmer.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Recruiting Body</td><td>RPSC, Ajmer</td></tr>
+<tr><td>Conducting Authority (PET/PST)</td><td>Directorate of Prisons, Rajasthan</td></tr>
+<tr><td>Post</td><td>Deputy Jailor</td></tr>
+<tr><td>Stage</td><td>PET/PST</td></tr>
+<tr><td>Admit Card From</td><td>01 July 2026</td></tr>
+<tr><td>PET/PST Date</td><td>From 15 July 2026</td></tr>
+<tr><td>Venue</td><td>Prison Training Institute, Ajmer</td></tr>
+<tr><td>Download Website</td><td><a href="https://jail.rajasthan.gov.in" target="_blank" rel="nofollow noopener">jail.rajasthan.gov.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit jail.rajasthan.gov.in (the departmental site — not the main RPSC portal).</li>
+<li>Find the Deputy Jailor PET/PST Admit Card 2026 link.</li>
+<li>Enter your application/login details as prompted.</li>
+<li>Download and print the admit card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: For PET/PST queries, contact the Directorate of Prisons, not RPSC directly.</p>
+`;
+
+ADMIT_CARD_CONTENT["jkssb-sanitary-inspector-jot-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>JKSSB Sanitary Inspector & JOT Admit Card 2026 – Overview</h2>
+<p>JKSSB has released the e-admit card for the OMR-based written exam for Sanitary Inspector and Junior
+Ophthalmic Technician posts (Notification No. 07 of 2025), scheduled for 08 July 2026.</p>
+<table class="detail-table">
+<tr><th>Post</th><th>Shift</th><th>Timing</th></tr>
+<tr><td>Sanitary Inspector</td><td>Shift I</td><td>11:00 AM – 01:00 PM</td></tr>
+<tr><td>Junior Ophthalmic Technician</td><td>Shift II</td><td>03:00 PM – 05:00 PM</td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit jkssb.nic.in and find the E-Admit Card download link on the homepage.</li>
+<li>Log in with your Username and Password.</li>
+<li>Download and print the admit card.</li>
+</ol>
+<p>Candidates must report at least two hours before the exam for biometric/facial authentication.</p>
+<p style="font-size:12px;color:#888;">Disclaimer: Report any photo mismatch to JKSSB before exam day — such claims cannot be entertained at the centre.</p>
+`;
+
+ADMIT_CARD_CONTENT["riico-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>RIICO Admit Card 2026 – Overview</h2>
+<p>RIICO has released the admit card for its 2026 recruitment (121 vacancies across Company Secretary,
+Junior Assistant, Programmer, Assistant Town Planner and other posts). The written exam, hosted on the
+IBPS portal, is scheduled for 8–9 July 2026.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>RIICO</td></tr>
+<tr><td>Total Vacancies</td><td>121</td></tr>
+<tr><td>Admit Card Released</td><td>02 July 2026</td></tr>
+<tr><td>Exam Date</td><td>8–9 July 2026</td></tr>
+<tr><td>Official Website</td><td><a href="https://riico.rajasthan.gov.in" target="_blank" rel="nofollow noopener">riico.rajasthan.gov.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Click the official RIICO admit card link, which redirects to the IBPS RIICO login page.</li>
+<li>Enter your registration/roll number and DOB/password.</li>
+<li>Submit to view and download the admit card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: RIICO has partnered with IBPS for this exam — the admit card is hosted on the IBPS registration portal.</p>
+`;
+
+ADMIT_CARD_CONTENT["gsl-management-trainee-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>GSL Management Trainee Admit Card 2026 – Overview</h2>
+<p>Goa Shipyard Limited (GSL) has released the admit card for the Management Trainee CBT (32 vacancies
+across Mechanical, Electrical, Electronics, Naval Architecture, HR and Finance streams).</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Goa Shipyard Limited (GSL)</td></tr>
+<tr><td>Post</td><td>Management Trainee</td></tr>
+<tr><td>Total Vacancies</td><td>32</td></tr>
+<tr><td>Official Website</td><td><a href="https://goashipyard.in" target="_blank" rel="nofollow noopener">goashipyard.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Open the official GSL admit card portal and click "Download Admit Card".</li>
+<li>Enter your Registration Number.</li>
+<li>Enter your Password (Date of Birth in YYYYMMDD format).</li>
+<li>Solve the simple security check and click Submit to view/download the admit card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: The portal is hosted separately from the main GSL careers page; retry later if it shows "Under Maintenance".</p>
+`;
+
+ADMIT_CARD_CONTENT["ukpsc-lecturer-civics-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>UKPSC Lecturer Civics Admit Card 2026 – Overview</h2>
+<p>UKPSC has rescheduled the Lecturer (Civics) Main Written Examination-2025 to <strong>18 July 2026</strong>
+(originally 10 May 2026). Eligible candidates can provisionally download the admit card from 04 July 2026.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>UKPSC</td></tr>
+<tr><td>Subject</td><td>Civics (Nagrik Shastra)</td></tr>
+<tr><td>Revised Exam Date</td><td>18 July 2026</td></tr>
+<tr><td>Admit Card From</td><td>04 July 2026</td></tr>
+<tr><td>Shifts</td><td>Shift 1: 9 AM–12 PM &nbsp;|&nbsp; Shift 2: 2 PM–5 PM</td></tr>
+<tr><td>Official Website</td><td><a href="https://psc.uk.gov.in" target="_blank" rel="nofollow noopener">psc.uk.gov.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit psc.uk.gov.in or the alternate portal ukpsc.net.in.</li>
+<li>Find the admit card link for Lecturer (Civics) Main Written Examination-2025.</li>
+<li>Log in with your registered application details and download the admit card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: This exam is being held afresh only for the Civics subject, which was earlier postponed.</p>
+`;
+
+ADMIT_CARD_CONTENT["mizoram-psc-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>Mizoram PSC Admit Card 2026 – Overview</h2>
+<p>MPSC has opened admit card downloads for three separate posts — Tourist Officer, Librarian, and Jr. Grade
+of MHS — each with its own download window and exam date.</p>
+<table class="detail-table">
+<tr><th>Post</th><th>Download Window</th><th>Exam Date</th></tr>
+<tr><td>Tourist Officer</td><td>02–12 July 2026</td><td>14–16 July 2026</td></tr>
+<tr><td>Librarian</td><td>03–15 July 2026</td><td>21–23 July 2026</td></tr>
+<tr><td>Jr. Grade of MHS</td><td>08–22 July 2026</td><td>28–30 July 2026</td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit mpsconline.mizoram.gov.in and log in with your registered account.</li>
+<li>Open the admit card link for your post and advertisement number.</li>
+<li>Download during your post's specific window and take a printout.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: Applicants whose status shows "rejected" should log in to check the remark before the download window ends.</p>
+`;
+
+ADMIT_CARD_CONTENT["cbi-apprentice-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>Central Bank of India Apprentice Admit Card 2026 – Overview</h2>
+<p>Central Bank of India has released the admit card for 4,500 Apprentice vacancies. The online CBT,
+conducted by BFSI SSC, is scheduled for <strong>05 July 2026</strong>.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Conducting Bank</td><td>Central Bank of India</td></tr>
+<tr><td>Conducting Agency</td><td>BFSI SSC</td></tr>
+<tr><td>Total Vacancies</td><td>4,500</td></tr>
+<tr><td>Exam Date</td><td>05 July 2026 (Sunday)</td></tr>
+<tr><td>Stipend</td><td>₹15,000/month during 12-month training</td></tr>
+<tr><td>Official Website</td><td><a href="https://www.centralbankofindia.co.in" target="_blank" rel="nofollow noopener">centralbankofindia.co.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit centralbankofindia.co.in or centralbank.bank.in → Recruitment/Careers.</li>
+<li>Click "CBI Apprentice Admit Card 2026" / "Download Call Letter".</li>
+<li>Enter Registration Number and Password/DOB, then submit.</li>
+<li>Verify details and download/print the admit card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: This is a 12-month training apprenticeship and does not guarantee permanent employment.</p>
+`;
+
+ADMIT_CARD_CONTENT["ncl-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>NCL Admit Card 2026 – Exam Centre Change Notice</h2>
+<p>Northern Coalfields Limited (NCL) has shifted the Lucknow exam centre for its CBT (HEMM Operator, Paramedical
+Staff, Overseer Civil) scheduled for <strong>06 July 2026</strong>. Candidates originally allotted "Pawan Online
+Solutions" must download their revised admit card.</p>
+<table class="detail-table">
+<tr><th>Detail</th><th>Previous Centre</th><th>New Centre</th></tr>
+<tr><td>Centre Name</td><td>Pawan Online Solutions</td><td>Basudev Digital Centre</td></tr>
+<tr><td>Centre Code</td><td>9697</td><td>33399</td></tr>
+<tr><td>City</td><td>Lucknow</td><td>Lucknow</td></tr>
+</table>
+<h2>How to Download the Revised Admit Card</h2>
+<ol>
+<li>Visit nclcil.in and find the revised admit card link.</li>
+<li>Log in with your registered credentials.</li>
+<li>Check the new exam centre and reporting time carefully.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: This notice applies only to candidates originally assigned to Centre Code 9697. No further centre-change requests will be entertained.</p>
+`;
+
+ADMIT_CARD_CONTENT["ssb-constable-sports-quota-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>SSB Constable (GD) Sports Quota Admit Card 2026 – Overview</h2>
+<p>Sashastra Seema Bal (SSB) has released the e-admit card for Constable (GD) Sports Quota–2026 (Stage-1),
+covering Documentation, PST, DME and RME.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Sashastra Seema Bal (SSB)</td></tr>
+<tr><td>Post</td><td>Constable (GD)</td></tr>
+<tr><td>Stages Covered</td><td>Documentation, PST, DME, RME</td></tr>
+<tr><td>Admit Card Mode</td><td>Online (e-Admit Card only)</td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Open the official admit card link on recruitment.ssb.gov.in (or scan the QR code from the official notice).</li>
+<li>Enter the required application details as prompted.</li>
+<li>Download and print the e-Admit Card.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: No admit card will be sent by post — only the online e-Admit Card is valid for entry.</p>
+`;
+
+ADMIT_CARD_CONTENT["bihar-bpsc-auditor-admit-card-2026"] = `
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 03 July 2026</div>
+<h2>Bihar BPSC Auditor Admit Card 2026 – Overview</h2>
+<p>Bihar Public Service Commission (BPSC) has released the admit card for the Auditor recruitment exam
+(Advt. No. 09/2026, 102 vacancies), scheduled for <strong>05 July 2026</strong>.</p>
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>BPSC</td></tr>
+<tr><td>Post</td><td>Auditor</td></tr>
+<tr><td>Total Vacancies</td><td>102</td></tr>
+<tr><td>Exam Date</td><td>05 July 2026</td></tr>
+<tr><td>Application Fee</td><td>₹100</td></tr>
+<tr><td>Official Website</td><td><a href="https://bpsconline.bihar.gov.in" target="_blank" rel="nofollow noopener">bpsconline.bihar.gov.in</a></td></tr>
+</table>
+<h2>How to Download</h2>
+<ol>
+<li>Visit bpsconline.bihar.gov.in and click the BPSC Auditor Admit Card 2026 link.</li>
+<li>Log in with Enrollment/Registration Number or Date of Birth.</li>
+<li>Verify your exam date, shift and centre, then download the PDF.</li>
+</ol>
+<p style="font-size:12px;color:#888;">Disclaimer: Selection also includes Document Verification and a Medical Examination after the written exam.</p>
+`;

@@ -34,7 +34,23 @@ const SEO = {
   defaultOgImage: 'https://sarthakyojana.in/assets/og-default.jpg',
   twitterHandle:  '@sarthakyojana',
   orgLogo:   'https://sarthakyojana.in/assets/logo.png',
-  locale:    'hi_IN'
+  locale:    'hi_IN',
+
+  // ── Google Search Console verification ────────────────────────
+  // 1. Go to search.google.com/search-console → Add Property → sarthakyojana.in
+  // 2. Choose the "HTML tag" verification method (NOT the file-upload method)
+  // 3. Google shows a tag like:
+  //      <meta name="google-site-verification" content="AbCdEf123..." />
+  // 4. Copy ONLY the content value (the part inside content="...") and paste
+  //    it below, replacing PASTE_YOUR_CODE_HERE. Leave it blank/as-is and
+  //    nothing is added — safe to deploy either way.
+  // 5. Click "Verify" on Search Console — since this runs on every page via
+  //    applySEO(), it will already be live once you upload these files.
+  googleSiteVerification: 'PASTE_YOUR_CODE_HERE',
+
+  // Same idea for Bing Webmaster Tools (bing.com/webmasters), optional:
+  //   <meta name="msvalidate.01" content="..." />
+  bingSiteVerification: ''
 };
 
 function applySEO(cfg) {
@@ -53,6 +69,15 @@ function applySEO(cfg) {
   _setMeta('name', 'robots', cfg.noindex
     ? 'noindex,follow'
     : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1');
+
+  // Search engine ownership verification (site-wide, safe no-op until
+  // you paste real codes into the SEO config object above)
+  if (SEO.googleSiteVerification && SEO.googleSiteVerification !== 'PASTE_YOUR_CODE_HERE') {
+    _setMeta('name', 'google-site-verification', SEO.googleSiteVerification);
+  }
+  if (SEO.bingSiteVerification) {
+    _setMeta('name', 'msvalidate.01', SEO.bingSiteVerification);
+  }
   _setMeta('name', 'author', SEO.siteName);
 
   // ── 3. Canonical ─────────────────────────────────────────────
