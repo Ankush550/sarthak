@@ -19129,3 +19129,176 @@ The notification does not mention any application fee for submitting the form.
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
 `;
+
+JOB_CONTENT["ihmcl-systems-engineer-recruitment-2026"] = `
+
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 04 July 2026</div>
+
+<h2>IHMCL Systems Engineer (ITS) Recruitment 2026 – Overview</h2>
+
+<p>
+Indian Highways Management Company Limited (IHMCL), an initiative of NHAI, has invited online applications for
+<strong>30 posts of Systems Engineer (ITS)</strong> under the E-2 Grade on a direct recruitment basis
+(Advt. No. IHMCL/HR/Recruit./03/2026/04). Selection is made purely on the basis of a valid
+<strong>GATE Score 2025</strong> in Computer Science and Information Technology (CS), Electronics and
+Communications Engineering (EC), or Data Science and Artificial Intelligence (DA) discipline.
+</p>
+
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Indian Highways Management Company Limited (IHMCL)</td></tr>
+<tr><td>Advertisement No.</td><td>IHMCL/HR/Recruit./03/2026/04</td></tr>
+<tr><td>Post</td><td>Systems Engineer (ITS), E-2 Grade</td></tr>
+<tr><td>Total Vacancies</td><td>30</td></tr>
+<tr><td>Recruitment Mode</td><td>Direct Recruitment through GATE Score 2025</td></tr>
+<tr><td>Registration Start</td><td>04 July 2026 (10:00 AM)</td></tr>
+<tr><td>Last Date to Apply</td><td>02 August 2026 (6:00 PM)</td></tr>
+<tr><td>Age Limit</td><td>21 to 30 years (as on last date of application)</td></tr>
+<tr><td>Pay Scale (IDA)</td><td>₹50,000 – ₹1,60,000 (E-2 Grade)</td></tr>
+<tr><td>Official Website</td><td><a href="http://www.ihmcl.co.in" target="_blank" rel="nofollow noopener">ihmcl.co.in</a></td></tr>
+</table>
+
+<div class="download-box">
+<a href="http://www.ihmcl.co.in" target="_blank" class="download-btn">Apply Online</a>
+</div>
+
+<h2>Vacancy Details (Category-Wise)</h2>
+<table class="detail-table">
+<tr><th>Post</th><th>UR</th><th>OBC (NCL)</th><th>SC</th><th>ST</th><th>EWS</th><th>Total</th></tr>
+<tr><td>Systems Engineer (ITS)</td><td>14</td><td>08</td><td>04</td><td>01</td><td>03</td><td>30</td></tr>
+</table>
+<p>Of the total 30 posts, 1 post is reserved for Persons with Benchmark Disabilities (PwBD). The number of vacancies may increase or decrease as per IHMCL's requirement.</p>
+
+<h2>Eligibility Criteria</h2>
+<ul>
+<li>Bachelor's Degree in Engineering in Information Technology, Computer Science, Electronics and Communications, Data Science, Artificial Intelligence, or a combination of these branches from a recognised University/Institute.</li>
+<li>Final-year students may also apply, subject to submitting proof of passing (Degree/Provisional Certificate) by 31 August 2026.</li>
+<li>A valid GATE Score 2025 in CS, EC, or DA discipline is mandatory; the score must be entered exactly as per the official GATE 2025 Scorecard (range 0 to 1000).</li>
+<li>Age must not be less than 21 years and not exceeding 30 years as on the last date for receipt of online applications, with standard age relaxation for SC/ST/OBC/PwBD/Ex-servicemen categories.</li>
+</ul>
+
+<h2>Selection Process</h2>
+<p>
+Merit is determined solely on the basis of the valid GATE Score 2025. IHMCL reserves the right to call
+candidates for an interview as per a category-wise cut-off decided later, and may apply a shortlisting
+criterion if the number of applications is large. In case of a tie, the older candidate is placed higher
+in the merit list.
+</p>
+
+<h2>Documents Required</h2>
+<ul>
+<li>Photograph and Signature (jpg/jpeg/png/gif, up to 1 MB each)</li>
+<li>Class X Certificate showing date of birth (pdf, up to 2 MB)</li>
+<li>Caste/Category Certificate, if applicable (pdf, up to 2 MB)</li>
+<li>Engineering Degree passing certificate (pdf, up to 2 MB)</li>
+<li>GATE Score Card 2025 (pdf, up to 2 MB)</li>
+</ul>
+
+<h2>How to Apply Online</h2>
+<ol>
+<li>Visit the official IHMCL website, ihmcl.co.in, preferably on Chrome or Firefox.</li>
+<li>Go to "Careers" → "New Openings" and open the relevant advertisement.</li>
+<li>Click "Online application" and fill in the required details.</li>
+<li>Upload photograph, signature, Class X certificate, category certificate (if any), degree certificate, and GATE Score Card 2025.</li>
+<li>Preview, edit if needed, and submit the final application before 2 August 2026, 6:00 PM.</li>
+<li>Save the auto-generated Unique Reference Number and Application Acknowledgement.</li>
+</ol>
+
+<h2>Service Bond & Other Conditions</h2>
+<p>
+Selected candidates must execute a Service Bond of Rs. 3.00 lakh at the time of joining, undertaking to serve
+IHMCL for a minimum of 3 years. The posts carry all-India service liability, and only candidates willing to
+serve anywhere in India should apply. No request for alteration of entries will be entertained after submission.
+</p>
+
+<div class="faq-box">
+<strong>Q. Is the GATE Score compulsory for this recruitment?</strong>
+Yes, selection is based entirely on a valid GATE Score 2025 in CS, EC, or DA discipline, entered exactly as per the official scorecard.
+</div>
+<div class="faq-box">
+<strong>Q. What is the last date to apply for IHMCL Systems Engineer Recruitment 2026?</strong>
+The online application window closes on 2 August 2026 at 6:00 PM.
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official IHMCL notification before applying.</p>
+`;
+
+JOB_CONTENT["bgsss-recruitment-2026"] = `
+
+<div class="article-meta"><strong>By SarthakYojana Editorial Team</strong> | Updated: 04 July 2026</div>
+
+<h2>BGSSS Recruitment 2026 – Overview</h2>
+
+<p>
+Baroda Global Shared Services Limited (BGSSS), a wholly owned subsidiary of Bank of Baroda, has released a
+short notice recruitment for <strong>438 posts</strong> across multiple roles including Executive, Field
+Sales Officer, Tele-Collection Agent, and more, spanning banking operations, sales, IT, HR, and finance
+domains. Interested and eligible candidates can apply online through the official BGSSS careers portal.
+</p>
+
+<table class="detail-table">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Organisation</td><td>Baroda Global Shared Services Limited (BGSSS)</td></tr>
+<tr><td>Parent Organisation</td><td>Bank of Baroda</td></tr>
+<tr><td>Job Type</td><td>Banking / Contract / Corporate Jobs</td></tr>
+<tr><td>Total Vacancies</td><td>438</td></tr>
+<tr><td>Application Mode</td><td>Online</td></tr>
+<tr><td>Location</td><td>Across India</td></tr>
+<tr><td>Last Date to Apply</td><td>15 July 2026</td></tr>
+<tr><td>Official Email</td><td>recruitment@bgss.in</td></tr>
+<tr><td>Official Website</td><td><a href="https://www.bgss.in" target="_blank" rel="nofollow noopener">bgss.in</a></td></tr>
+</table>
+
+<div class="download-box">
+<a href="https://www.bgss.in" target="_blank" class="download-btn">Apply Online</a>
+</div>
+
+<h2>Post-Wise Vacancy Details</h2>
+<table class="detail-table">
+<tr><th>Job Role</th><th>No. of Posts</th></tr>
+<tr><td>Scrutinizer (CASA/NR)</td><td>5</td></tr>
+<tr><td>Field Sales Officer (Loan – Home/Auto/Tractor/Education)</td><td>240</td></tr>
+<tr><td>Tele-Collection Agent (Debt Recovery)</td><td>100</td></tr>
+<tr><td>Trade Finance Operations – Executive</td><td>25</td></tr>
+<tr><td>Executive – ATM/Reconciliation/Complaints/Debit Cards</td><td>40</td></tr>
+<tr><td>Risk Review Officer</td><td>1</td></tr>
+<tr><td>MIS Analyst</td><td>1</td></tr>
+<tr><td>Deputy Manager – Admin cum HR</td><td>1</td></tr>
+<tr><td>Company Secretary (Associate)</td><td>1</td></tr>
+<tr><td>Business Head – Rural & Agri Banking</td><td>1</td></tr>
+<tr><td>Executive / Sr. Executive (Makers)</td><td>20</td></tr>
+<tr><td>Procurement Officer</td><td>1</td></tr>
+<tr><td>Desktop Support Analyst</td><td>1</td></tr>
+<tr><td>HR Compliance Officer</td><td>1</td></tr>
+</table>
+
+<h2>Who Can Apply?</h2>
+<ul>
+<li>Candidates with graduation in any discipline can apply for eligible roles.</li>
+<li>Sales roles prefer candidates with experience in banking/financial products.</li>
+<li>IT roles require relevant technical qualifications (Computer Science/IT).</li>
+<li>Finance and operations roles require a commerce/finance background.</li>
+<li>HR and admin roles require relevant management or HR qualifications.</li>
+</ul>
+
+<h2>How to Apply for BGSSS Recruitment 2026</h2>
+<ol>
+<li>Visit the official BGSSS careers website.</li>
+<li>Go to the "Current Openings" section.</li>
+<li>Select the desired job role.</li>
+<li>Register using your email ID and mobile number.</li>
+<li>Fill out the application form carefully and upload the required documents.</li>
+<li>Submit the application before 15 July 2026 and save the confirmation copy.</li>
+</ol>
+
+<div class="faq-box">
+<strong>Q. Which organisation is conducting BGSSS Recruitment 2026?</strong>
+The recruitment is conducted by Baroda Global Shared Services Limited (BGSSS), a wholly owned subsidiary of Bank of Baroda.
+</div>
+<div class="faq-box">
+<strong>Q. What is the last date to apply for BGSSS Recruitment 2026?</strong>
+The last date to apply online is 15 July 2026.
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BGSSS notification before applying.</p>
+`;

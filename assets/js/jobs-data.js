@@ -1,6 +1,108 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+  
+    id:"ihmcl-systems-engineer-recruitment-2026",
+    orgWebsite:"http://www.ihmcl.co.in",
+    title:"IHMCL Systems Engineer (ITS) Recruitment 2026",
+    shortTitle:"IHMCL Systems Engineer Online Form 2026",
+    organization:"Indian Highways Management Company Limited (IHMCL)",
+    image:"IHMCL.jpeg",
+
+    totalPosts:30,
+
+    lastDate:"2026-08-02",
+    lastDateDisplay:"02 August 2026",
+
+    datePosted:"2026-07-04",
+    validThrough:"2026-08-02T18:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:50000,
+    salaryMax:160000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree in Engineering (CS/IT, EC, or Data Science & AI) with Valid GATE 2025 Score",
+
+    ageLimit:"21 to 30 Years",
+
+    applyLink:"http://www.ihmcl.co.in",
+    officialNotification:"http://www.ihmcl.co.in",
+
+    fee:"Not Specified in Notification",
+
+    description:"IHMCL Recruitment 2026 invites online applications for 30 Systems Engineer (ITS) posts under the E-2 Grade through valid GATE Score 2025 in CS/IT, EC, or Data Science & AI discipline. Online registration started on 4 July 2026 and closes on 2 August 2026. Selected candidates will draw an E-2 IDA Grade pay scale of Rs. 50,000 to Rs. 1,60,000 and must execute a Service Bond of Rs. 3 lakh for a minimum 3-year service period.",
+
+    category:"PSU Jobs",
+    jobType:"Systems Engineer",
+
+    advertisementNo:"IHMCL/HR/Recruit./03/2026/04",
+
+    applicationStartDate:"2026-07-04",
+    applicationEndDate:"2026-08-02",
+
+    examDate:"Not Applicable (Selection via GATE Score)",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+{
+    id:"bgsss-recruitment-2026",
+    orgWebsite:"https://www.bgss.in",
+    title:"BGSSS Recruitment 2026 - Executive, Field Sales Officer and More",
+    shortTitle:"BGSSS 438 Various Posts Online Form 2026",
+    organization:"Baroda Global Shared Services Limited (BGSSS)",
+    image:"BGSSS.jpeg",
+
+    totalPosts:438,
+
+    lastDate:"2026-07-15",
+    lastDateDisplay:"15 July 2026",
+
+    datePosted:"2026-07-04",
+    validThrough:"2026-07-15T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    location:"Across India",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Graduate in Any Discipline (Post Wise, Relevant Domain Experience Preferred)",
+
+    ageLimit:"Not Specified in Notification",
+
+    applyLink:"https://www.bgss.in",
+    officialNotification:"https://www.bgss.in",
+
+    fee:"Not Specified in Notification",
+
+    description:"Baroda Global Shared Services Limited (BGSSS), a wholly owned subsidiary of Bank of Baroda, has released a short notice recruitment for 438 posts across Scrutinizer, Field Sales Officer, Tele-Collection Agent, Trade Finance Operations Executive, ATM/Reconciliation Executive, Risk Review Officer, MIS Analyst, Deputy Manager HR, Company Secretary, Business Head and more roles. Applications must be submitted online through the official BGSSS careers portal before 15 July 2026.",
+
+    category:"Bank Jobs",
+    jobType:"Executive, Field Sales Officer and More",
+
+    advertisementNo:"Not Specified",
+
+    applicationEndDate:"2026-07-15",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    status:"open",
+    isNew:true
+},
+
+  {
     id: "icsil-deo-mts-driver-recruitment-2026",
     title: "ICSIL Data Entry Operator, MTS & Driver Recruitment 2026",
     organization: "Intelligent Communication Systems India Ltd. (ICSIL)",
@@ -1576,7 +1678,6 @@ isNew: true
     status:"open",
     isNew:true
 },
-
 
 ];
 
