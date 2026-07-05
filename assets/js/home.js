@@ -138,9 +138,15 @@ R+"pages/schemes.html"
 
 +
 
-secBox("💰 Scholarship",[
-
-],"#")
+secBox(
+"💰 Scholarship",
+(SCHOLARSHIPS_DATA || []).map(s=>({
+  label:s.title,
+  href:R+"pages/scholarship-detail.html?id="+s.id,
+  isNew:s.isNew
+})),
+R+"pages/scholarships.html"
+)
 
 +
 
