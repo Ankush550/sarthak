@@ -2,6 +2,134 @@
 const JOBS_DATA = [
   {
   
+    id:"iocl-paradip-refinery-apprentice-recruitment-2026",
+    orgWebsite:"https://iocl.com",
+    title:"IOCL Paradip Refinery Apprentice Vacancy 2026",
+    shortTitle:"IOCL Paradip Refinery Apprentice Online Form 2026",
+    organization:"Indian Oil Corporation Limited (IOCL), Paradip Refinery",
+    image:"IOCL.jpeg",
+
+    totalPosts:582,
+
+    lastDate:"2026-07-28",
+    lastDateDisplay:"28 July 2026",
+
+    datePosted:"2026-06-29",
+    validThrough:"2026-07-28T17:00:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    location:"Paradip, Odisha",
+    addressLocality:"Paradip",
+    addressRegion:"Odisha",
+    addressCountry:"IN",
+
+    qualification:"Class 12, ITI, Diploma, B.Sc., BA, or B.Com in the Relevant Discipline",
+
+    ageLimit:"18 to 24 Years",
+
+    applyLink:"https://iocl.com/",
+    officialNotification:"https://iocl.com/",
+
+    fee:"No Application Fee",
+
+    description:"Indian Oil Corporation Limited (IOCL) Paradip Refinery has invited online applications for 582 Trade Apprentice and Technician Apprentice posts. Candidates with Class 12, ITI, Diploma or Graduate qualifications can apply as per the trade. Online applications started on 29 June 2026 and will close on 28 July 2026 (5:00 PM) through the NAPS/NATS Portal along with a mandatory Microsoft Form. There will be no written examination; selection will be based on merit list, document verification and medical examination.",
+
+    category:"PSU Jobs",
+    jobType:"Trade Apprentice & Technician Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-06-29",
+    applicationEndDate:"2026-07-28",
+
+    examDate:"No Written Examination",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {tradeCode:"101", postName:"Trade Apprentice (Attendant Operator – Chemical Plant)", totalPosts:180},
+        {tradeCode:"102", postName:"Trade Apprentice (Fitter)", totalPosts:59},
+        {tradeCode:"104", postName:"Technician Apprentice (Chemical)", totalPosts:130},
+        {tradeCode:"105", postName:"Technician Apprentice (Mechanical)", totalPosts:60},
+        {tradeCode:"106", postName:"Technician Apprentice (Electrical)", totalPosts:80},
+        {tradeCode:"107", postName:"Technician Apprentice (Instrumentation)", totalPosts:20},
+        {tradeCode:"108", postName:"Trade Apprentice (Secretarial Assistant)", totalPosts:23},
+        {tradeCode:"109", postName:"Trade Apprentice (Accountant)", totalPosts:1},
+        {tradeCode:"110", postName:"Trade Apprentice (Data Entry Operator – Fresher)", totalPosts:20},
+        {tradeCode:"111", postName:"Trade Apprentice (Data Entry Operator – Skill Certificate Holder)", totalPosts:9}
+    ],
+
+    status:"open",
+    isNew:true
+},
+{
+    id:"drdo-acem-apprentice-recruitment-2026",
+    orgWebsite:"https://www.drdo.gov.in",
+    title:"DRDO ACEM Apprentice Vacancy 2026",
+    shortTitle:"DRDO ACEM Apprentice Online Form 2026",
+    organization:"DRDO – Advanced Centre for Energetic Materials (ACEM)",
+    image:"DRDO.jpeg",
+
+    totalPosts:41,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-05",
+    validThrough:"2026-07-26T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    location:"Nasik Road, Maharashtra",
+    addressLocality:"Nasik Road",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree / Diploma in Relevant Engineering Discipline (2024, 2025 & 2026 Pass-outs Only)",
+
+    ageLimit:"Not Mentioned in Notification",
+
+    applyLink:"apprentice.acem@gov.in",
+    officialNotification:"https://www.drdo.gov.in",
+
+    fee:"No Application Fee",
+
+    description:"DRDO's Advanced Centre for Energetic Materials (ACEM) has released the official notification for Apprentice Recruitment 2026, inviting applications for 30 Graduate Apprentice and 11 Technician Apprentice posts (41 total) for a one-year apprenticeship. Candidates must register on the NATS 2.0 Portal and email their application to apprentice.acem@gov.in before 26 July 2026. Selection will be based on merit or interview, followed by document verification. Graduate Apprentices will get a monthly stipend of Rs. 12,300 and Technician Apprentices will get Rs. 10,900.",
+
+    category:"PSU Jobs",
+    jobType:"Graduate Apprentice & Technician Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-05",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"Not Applicable",
+    interviewDate:"Merit List / Interview Based",
+
+    postDetails:[
+        {category:"Graduate Apprentice", discipline:"Chemical Engineering / Chemical Technology", totalPosts:5},
+        {category:"Graduate Apprentice", discipline:"Mechanical Engineering", totalPosts:5},
+        {category:"Graduate Apprentice", discipline:"Aerospace / Aeronautical Engineering", totalPosts:2},
+        {category:"Graduate Apprentice", discipline:"Computer Engineering / Information Science / B.Sc. Computer Science", totalPosts:2},
+        {category:"Graduate Apprentice", discipline:"Electrical / Electrical & Instrumentation Engineering", totalPosts:3},
+        {category:"Graduate Apprentice", discipline:"Electronics & Telecommunication Engineering", totalPosts:3},
+        {category:"Graduate Apprentice", discipline:"B.Sc. Chemistry", totalPosts:3},
+        {category:"Graduate Apprentice", discipline:"B.Sc. Physics", totalPosts:2},
+        {category:"Graduate Apprentice", discipline:"B.Com", totalPosts:4},
+        {category:"Graduate Apprentice", discipline:"BLIS (Library Science)", totalPosts:1},
+        {category:"Technician Apprentice", discipline:"Mechanical Engineering", totalPosts:4},
+        {category:"Technician Apprentice", discipline:"Chemical Engineering", totalPosts:2},
+        {category:"Technician Apprentice", discipline:"Electrical Engineering", totalPosts:2},
+        {category:"Technician Apprentice", discipline:"Electronics Engineering", totalPosts:2},
+        {category:"Technician Apprentice", discipline:"Computer Science / CS & IT / Web Designing", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+  {
+  
     id:"ihmcl-systems-engineer-recruitment-2026",
     orgWebsite:"http://www.ihmcl.co.in",
     title:"IHMCL Systems Engineer (ITS) Recruitment 2026",
@@ -1678,6 +1806,7 @@ isNew: true
     status:"open",
     isNew:true
 },
+
 
 ];
 

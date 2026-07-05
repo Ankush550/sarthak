@@ -19302,3 +19302,1162 @@ The last date to apply online is 15 July 2026.
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BGSSS notification before applying.</p>
 `;
+JOB_CONTENT["iocl-paradip-refinery-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-06-29">Published: 29 June 2026</time> |
+Updated: 05 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IOCL Paradip Refinery Apprentice Vacancy 2026 – Apply Online for 582 Trade & Technician Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 IOCL Paradip Refinery Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>28 July 2026 (05:00 PM)</strong>
+</p>
+
+<a href="https://iocl.com/"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Indian Oil Corporation Limited (IOCL) has released the official notification for
+<strong>IOCL Paradip Refinery Apprentice Vacancy 2026</strong>. A total of
+<strong>582 Trade Apprentice and Technician Apprentice vacancies</strong> have been announced at the Paradip Refinery unit. Candidates with Class 12, ITI, Diploma or Graduate qualifications can apply according to their respective trade through the NAPS/NATS Portal along with a mandatory Microsoft Form.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online application process commenced on
+<strong>29 June 2026</strong>
+and applications will be accepted until
+<strong>28 July 2026 (05:00 PM)</strong>.
+There is <strong>no application fee</strong> for any category, and there will be
+<strong>no written examination</strong>
+for this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IOCL Paradip Refinery Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Oil Corporation Limited (IOCL), Paradip Refinery</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Trade Apprentice & Technician Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>582</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>PSU Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>29 June 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>28 July 2026 (05:00 PM)</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Merit List, Tie-Breaker, Document Verification & Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://iocl.com</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Online Application Starts</td>
+<td>29 June 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Online Registration</td>
+<td>28 July 2026 (05:00 PM)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no application fee</strong> for this recruitment. Candidates of all categories can apply online free of cost.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>18 Years</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>24 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Age relaxation will be applicable for SC, ST, OBC (NCL) and PwBD candidates as per Government of India rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy & Post Details
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>582 vacancies</strong> have been announced across the following trades at IOCL Paradip Refinery:
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Code</th>
+<th>Post Name</th>
+<th>Total Posts</th>
+</tr>
+
+<tr>
+<td>101</td>
+<td>Trade Apprentice (Attendant Operator – Chemical Plant)</td>
+<td>180</td>
+</tr>
+
+<tr>
+<td>102</td>
+<td>Trade Apprentice (Fitter)</td>
+<td>59</td>
+</tr>
+
+<tr>
+<td>104</td>
+<td>Technician Apprentice (Chemical)</td>
+<td>130</td>
+</tr>
+
+<tr>
+<td>105</td>
+<td>Technician Apprentice (Mechanical)</td>
+<td>60</td>
+</tr>
+
+<tr>
+<td>106</td>
+<td>Technician Apprentice (Electrical)</td>
+<td>80</td>
+</tr>
+
+<tr>
+<td>107</td>
+<td>Technician Apprentice (Instrumentation)</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>108</td>
+<td>Trade Apprentice (Secretarial Assistant)</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>109</td>
+<td>Trade Apprentice (Accountant)</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>110</td>
+<td>Trade Apprentice (Data Entry Operator – Fresher)</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>111</td>
+<td>Trade Apprentice (Data Entry Operator – Skill Certificate Holder)</td>
+<td>9</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>All Posts</th>
+<th>582</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification (Trade-Wise)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Attendant Operator</td>
+<td>B.Sc. (Physics, Chemistry & Mathematics/Industrial Chemistry)</td>
+</tr>
+
+<tr>
+<td>Fitter</td>
+<td>Matriculation + ITI (Fitter Trade)</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice (Chemical)</td>
+<td>Diploma in Chemical/Petrochemical/Chemical Technology/Refinery Engineering</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice (Mechanical)</td>
+<td>Diploma in Mechanical Engineering</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice (Electrical)</td>
+<td>Diploma in Electrical/Electrical & Electronics Engineering</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice (Instrumentation)</td>
+<td>Diploma in Instrumentation/Instrumentation & Control/Applied Electronics</td>
+</tr>
+
+<tr>
+<td>Secretarial Assistant</td>
+<td>Bachelor's Degree (BA/B.Sc./B.Com)</td>
+</tr>
+
+<tr>
+<td>Accountant</td>
+<td>B.Com Degree</td>
+</tr>
+
+<tr>
+<td>Data Entry Operator (Fresher)</td>
+<td>Class 12 Pass</td>
+</tr>
+
+<tr>
+<td>Data Entry Operator (Skill Certificate Holder)</td>
+<td>Class 12 Pass + Domestic Data Entry Operator Skill Certificate</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend / Salary
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected apprentices will be paid a monthly stipend as per the <strong>Apprentices Act, 1961/1973</strong> and applicable IOCL Guidelines. The exact amount is not mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There will be <strong>no written examination</strong> for this recruitment. Selection will be made through the following stages:
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Merit List Based on Academic Marks</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Tie-Breaker by Age & Class 10 Marks</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<th>Final Selection</th>
+<th>Merit + Document Verification + Medical Fitness</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can apply through the NAPS/NATS Portal along with the mandatory Microsoft Form by following the steps below:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the NAPS Portal (for Trade Apprentice) or NATS Portal (for Technician Apprentice).</li>
+
+<li>Complete Apprentice Registration using a valid email ID and mobile number.</li>
+
+<li>Update your profile with all educational and personal details.</li>
+
+<li>Search for IOCL Paradip Refinery Apprentice Recruitment 2026 using the establishment ID.</li>
+
+<li>Select your preferred trade/discipline and submit the online application.</li>
+
+<li>After applying on NAPS/NATS, fill in the mandatory Microsoft Form.</li>
+
+<li>Upload the required details carefully and submit the Microsoft Form.</li>
+
+<li>Verify all information before final submission.</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only online applications through NAPS/NATS along with the Microsoft Form will be accepted.</li>
+
+<li>There is no application fee for any category.</li>
+
+<li>Candidates should apply strictly as per their eligible trade/discipline.</li>
+
+<li>Keep the registered mobile number and email ID active for future correspondence.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://iocl.com/" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td>
+<a href="https://iocl.com/" target="_blank">
+Download PDF
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://iocl.com/" target="_blank">
+iocl.com
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in IOCL Paradip Refinery Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>582 Trade and Technician Apprentice posts</strong> have been announced, covering candidates with 12th Pass, ITI, Diploma and Graduate qualifications across different trades.
+</p>
+
+<h3>2. What is the last date to apply for IOCL Paradip Refinery Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>29 June 2026</strong> and candidates can apply until <strong>28 July 2026 (05:00 PM)</strong> through the NAPS/NATS Portal and Microsoft Form.
+</p>
+
+<h3>3. How will selection be made in IOCL Paradip Refinery Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+There will be <strong>no written examination</strong>. Selection will be made through a merit list based on academic marks, followed by document verification and medical examination.
+</p>
+
+<h3>4. What is the age limit for IOCL Paradip Refinery Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The minimum age is <strong>18 years</strong> and the maximum age is <strong>24 years</strong> (as on 30 June 2026). Age relaxation applies to SC, ST, OBC (NCL) and PwBD candidates as per Government rules.
+</p>
+
+<h3>5. What is the application fee for IOCL Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+There is <strong>no application fee</strong> for any category. All eligible candidates can apply free of cost.
+</p>
+
+<h3>6. Who can apply for IOCL Paradip Refinery Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates with <strong>12th Pass, ITI, Diploma, B.Sc., BA or B.Com</strong> qualifications can apply according to the trade they are eligible for. Qualification must be regular full-time.
+</p>
+
+<h3>7. What stipend will selected apprentices receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected apprentices will receive a monthly stipend as per the <strong>Apprentices Act, 1961/1973</strong> and applicable IOCL Guidelines. The exact amount is not mentioned in the official notification.
+</p>
+
+<h3>8. Is there a job guarantee after completing the apprenticeship?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. This is an apprenticeship training program. IOCL is not obligated to offer permanent employment after the completion of the training period.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IOCL Paradip Refinery Apprentice Vacancy 2026</strong> offers a great opportunity for 12th Pass, ITI, Diploma and Graduate candidates to gain apprenticeship training in one of India's leading Public Sector Undertakings. Interested candidates should verify their eligibility, complete the online registration on the NAPS/NATS Portal along with the Microsoft Form before the last date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply Online for IOCL Paradip Refinery Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your application before <strong>28 July 2026</strong> and keep all required documents ready for verification.
+</p>
+
+<a href="https://iocl.com/"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=indian-navy-agniveer-apprentice-recruitment-2026">Indian Navy Agniveer (Apprentice) Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ihmcl-systems-engineer-recruitment-2026">IHMCL Systems Engineer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bgsss-recruitment-2026">BGSSS Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official IOCL notification before applying.</p>
+`;
+JOB_CONTENT["drdo-acem-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-05">Published: 05 July 2026</time> |
+Updated: 05 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+DRDO ACEM Apprentice Vacancy 2026 – Apply for 41 Graduate & Technician Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 DRDO ACEM Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>26 July 2026</strong>
+</p>
+
+<a href="https://www.drdo.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+DRDO's <strong>Advanced Centre for Energetic Materials (ACEM)</strong> has released the official notification for
+<strong>DRDO ACEM Apprentice Vacancy 2026</strong>. A total of
+<strong>41 Apprentice vacancies</strong> have been announced for Graduate Apprentice and Technician Apprentice posts under a one-year apprenticeship program. Interested candidates can apply through email before the closing date.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Applications are being accepted from the date of notification release and will close on
+<strong>26 July 2026</strong>.
+Candidates must register on the
+<strong>NATS 2.0 Portal</strong>
+before applying. Only candidates who passed their qualifying examination in
+<strong>2024, 2025 or 2026</strong>
+are eligible to apply.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+DRDO ACEM Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>DRDO – Advanced Centre for Energetic Materials (ACEM)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Graduate Apprentice & Technician Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>41</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>PSU Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>E-mail</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>26 July 2026</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<th>Training Period</th>
+<td>1 Year</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.drdo.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no application fee</strong> for this recruitment. Candidates of all categories can apply free of cost.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum age is <strong>not mentioned</strong> in the official notification. Candidates must have passed their qualifying examination only in
+<strong>2024, 2025 or 2026</strong>.
+Candidates with one year or more experience/training after qualification are
+<strong>not eligible</strong> to apply. Registration on the
+<strong>NATS 2.0 Portal</strong>
+is mandatory before applying.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy & Post Details
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>41 vacancies</strong> have been announced, comprising 30 Graduate Apprentice posts and 11 Technician Apprentice posts, distributed across the following disciplines:
+</p>
+
+<h3 style="font-size:26px;margin-top:25px;">Graduate Apprentice (30 Posts)</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Discipline</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Chemical Engineering / Chemical Technology</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Mechanical Engineering</td>
+<td>05</td>
+</tr>
+
+<tr>
+<td>Aerospace / Aeronautical Engineering</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Computer Engineering / Information Science / B.Sc. Computer Science</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Electrical / Electrical & Instrumentation Engineering</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td>Electronics & Telecommunication Engineering</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td>B.Sc. Chemistry</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td>B.Sc. Physics</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>B.Com</td>
+<td>04</td>
+</tr>
+
+<tr>
+<td>BLIS (Library Science)</td>
+<td>01</td>
+</tr>
+
+<tr>
+<th>Total Graduate Vacancies</th>
+<th>30</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Technician Apprentice (11 Posts)</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Discipline</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Mechanical Engineering</td>
+<td>04</td>
+</tr>
+
+<tr>
+<td>Chemical Engineering</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Electrical Engineering</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Electronics Engineering</td>
+<td>02</td>
+</tr>
+
+<tr>
+<td>Computer Science / CS & IT / Web Designing</td>
+<td>01</td>
+</tr>
+
+<tr>
+<th>Total Technician Vacancies</th>
+<th>11</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;margin-top:15px;">
+<strong>Grand Total Vacancies: 41 Posts</strong>
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Graduate Apprentice</td>
+<td>B.E./B.Tech in Relevant Engineering Discipline OR B.Sc. (Chemistry/Physics/Computer Science) OR B.Com OR BLIS</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice</td>
+<td>Diploma in Relevant Engineering Discipline</td>
+</tr>
+
+<tr>
+<td>Passing Year</td>
+<td>Only 2024, 2025 & 2026 Pass-outs</td>
+</tr>
+
+<tr>
+<td>NATS Registration</td>
+<td>Mandatory</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Candidates with 1+ years experience/training after qualification are not eligible</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend / Salary
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Apprentice Category</th>
+<th>Monthly Stipend</th>
+</tr>
+
+<tr>
+<td>Graduate Apprentice</td>
+<td>₹12,300/-</td>
+</tr>
+
+<tr>
+<td>Technician Apprentice (Diploma)</td>
+<td>₹10,900/-</td>
+</tr>
+
+<tr>
+<th>Training Period</th>
+<th>1 Year</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection of candidates will be made through the following stages:
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Application Screening</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Merit List / Interview</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Final Selection & Offer Letter</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should apply by following the steps below and email their application before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the NATS 2.0 Portal and complete your registration.</li>
+
+<li>Download the official application form from the notification.</li>
+
+<li>Fill in the application form using a computer (do not handwrite).</li>
+
+<li>Paste a recent passport-size photograph.</li>
+
+<li>Sign the application form.</li>
+
+<li>Attach all required educational certificates and supporting documents.</li>
+
+<li>Include the CGPA-to-Percentage conversion certificate (if applicable).</li>
+
+<li>Merge the application form and all documents into one PDF file.</li>
+
+<li>Send the PDF to <strong>apprentice.acem@gov.in</strong> before <strong>26 July 2026</strong>.</li>
+
+<li>Do not send any hard copy of the application.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only email applications will be accepted; hard copies are not required.</li>
+
+<li>Registration on NATS 2.0 Portal is mandatory before applying.</li>
+
+<li>Only 2024, 2025 & 2026 pass-outs are eligible to apply.</li>
+
+<li>Candidates with 1+ years of prior experience/training are not eligible.</li>
+
+<li>Keep the registered mobile number and email ID active for future correspondence.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Application Email</td>
+<td>apprentice.acem@gov.in</td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td>
+<a href="https://www.drdo.gov.in" target="_blank">
+Download PDF
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.drdo.gov.in" target="_blank">
+drdo.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in DRDO ACEM Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>41 posts</strong> have been announced, including 30 Graduate Apprentice and 11 Technician Apprentice vacancies.
+</p>
+
+<h3>2. What is the last date to apply for DRDO ACEM Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can apply through email until <strong>26 July 2026</strong>.
+</p>
+
+<h3>3. What is the mode of application?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications will be accepted only through <strong>email</strong>. No offline application will be accepted.
+</p>
+
+<h3>4. Is there any application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. The application is completely <strong>free of cost</strong> for all categories.
+</p>
+
+<h3>5. What is the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates will be selected based on <strong>Application Screening, Merit List/Interview, Document Verification</strong> and Final Offer Letter.
+</p>
+
+<h3>6. What stipend will selected apprentices receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Graduate Apprentices will receive <strong>₹12,300</strong> per month and Technician Apprentices will receive <strong>₹10,900</strong> per month.
+</p>
+
+<h3>7. Who can apply for DRDO ACEM Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Only fresh candidates who completed their relevant qualification in <strong>2024, 2025 or 2026</strong> and have registered on the <strong>NATS 2.0 Portal</strong> can apply.
+</p>
+
+<h3>8. What is the training period for this apprenticeship?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will undergo <strong>1 year</strong> of apprenticeship training.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>DRDO ACEM Apprentice Vacancy 2026</strong> is a valuable opportunity for recent graduates and diploma holders to gain hands-on apprenticeship training at a premier DRDO establishment. Interested candidates should complete their NATS 2.0 registration, prepare the application form and required documents, and email their application before the last date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for DRDO ACEM Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Send your application to <strong>apprentice.acem@gov.in</strong> before <strong>26 July 2026</strong>.
+</p>
+
+<a href="https://www.drdo.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=iocl-paradip-refinery-apprentice-recruitment-2026">IOCL Paradip Refinery Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iocl-apprentice-recruitment-2026">IOCL Apprentice Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=indian-navy-agniveer-apprentice-recruitment-2026">Indian Navy Agniveer (Apprentice) Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ihmcl-systems-engineer-recruitment-2026">IHMCL Systems Engineer Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official DRDO ACEM notification before applying.</p>
+`;
