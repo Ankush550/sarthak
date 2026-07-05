@@ -177,11 +177,11 @@ img{max-width:100%;}
 
 /* ===== IMPROVED SECTION BOX LAYOUT ===== */
 .sec-box{background:#fff;border:1px solid #ddd;border-radius:3px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06);}
-.sec-list{padding:4px 10px 2px;}
-.sec-list li{border-bottom:1px dotted #e5e5e5;padding:0;}
-.sec-list li:last-child{border-bottom:none;}
-.sec-list li a{color:#1a0dab;font-size:13.5px;display:flex;align-items:baseline;gap:4px;padding:7px 2px;line-height:1.5;font-weight:500;}
-.sec-list li a:hover{color:#c0392b;background:#fef9f9;padding-left:5px;transition:all .15s;}
+.sec-list{padding:8px 10px;}
+.sec-list li{border:1px solid #1a0dab;border-radius:3px;margin-bottom:6px;list-style:none;}
+.sec-list li:last-child{margin-bottom:0;}
+.sec-list li a{color:#1a0dab;font-size:13.5px;display:flex;align-items:baseline;gap:4px;padding:9px 10px;line-height:1.5;font-weight:500;}
+.sec-list li a:hover{color:#c0392b;background:#fef9f9;transition:all .15s;}
 
 /* 3-column grid for homepage sec boxes */
 .sec-row-3{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:12px;}
