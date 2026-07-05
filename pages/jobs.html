@@ -153,29 +153,13 @@ renderFooter();
 renderCookieConsent();
 
 function getStatus(j) {
-  const ld = j.lastDate || '';
-  const ldDisp = j.lastDateDisplay || '';
-  let d = null;
-  if (ld) {
-    d = new Date(ld + 'T23:59:00+05:30');
-  }
-  if (!d || isNaN(d.getTime())) {
-    const mon = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11,
-                 January:0,February:1,March:2,April:3,June:5,July:6,August:7,
-                 September:8,October:9,November:10,December:11};
-    const p = ldDisp.replace(/,/g,'').split(' ');
-    if (p.length === 3 && mon[p[1]] !== undefined) {
-      d = new Date(parseInt(p[2]), mon[p[1]], parseInt(p[0]), 23, 59, 0);
-    }
-  }
-  if (d && !isNaN(d.getTime())) {
-    const today = new Date(); today.setHours(0,0,0,0);
-    const diff = Math.ceil((d - today) / 86400000);
-    if (diff > 7)  return 'open';
-    if (diff >= 0) return 'closing_soon';
-    return 'expired';
-  }
-  return j.status || 'open';
+  // Use the shared, battle-tested resolver from common.js instead of a
+  // separate local implementation. The old local version only recognized
+  // lowercase "open"/"closing_soon" statuses and silently fell through to
+  // "Expired" for any other value editors actually use in the data
+  // ("Online Form", "Open", "Active", "Short Notice" etc.) — showing
+  // genuinely open jobs as Closed on this listing page.
+  return resolveJobStatus(j);
 }
 
 function renderTable(data) {
@@ -205,7 +189,7 @@ function applyFilter() {
   renderTable(JOBS_DATA.filter(j => {
     if (cat && (j.category||'') !== cat) return false;
     if (qual && !(j.qualification||'').includes(qual)) return false;
-    if (status && j.status !== status) return false;
+    if (status && getStatus(j) !== status) return false;
     if (kw && !j.title.toLowerCase().includes(kw) && !j.organization.toLowerCase().includes(kw)) return false;
     return true;
   }));

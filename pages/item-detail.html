@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="robots" content="noindex, follow">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Check latest government exam results, admit cards and answer keys on SarthakYojana.in">
@@ -114,7 +114,13 @@ const type = params.get('type'); // result | admit | answer
 const id   = params.get('id');
 if (!type || !id) { window.location.replace('results.html'); }
 
-document.getElementById('canonicalTag').href = window.location.href;
+// FIX: build a clean canonical from type+id only — do NOT use window.location.href,
+// which was picking up tracking params (utm_*, fbclid, gclid, ref, etc.) and
+// producing a different canonical URL per share-link. That mismatch between the
+// canonical Google discovers and the one we declare is what causes "Duplicate,
+// Google chose different canonical than user" in Search Console.
+document.getElementById('canonicalTag').href =
+  'https://sarthakyojana.in/pages/item-detail.html?type=' + encodeURIComponent(type || '') + '&id=' + encodeURIComponent(id || '');
 
 const ALL = {
   result: typeof RESULTS_DATA !== 'undefined' ? RESULTS_DATA : [],
@@ -145,11 +151,18 @@ if (!dataset || !meta) {
     document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Item Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Sorry, we could not find this item. It may have been moved or the link is incorrect. <a href="results.html">Browse All</a></p>';
   var adWrap1 = document.getElementById('adBannerWrap');
   if (adWrap1) adWrap1.style.display = 'none';
-  var noindexMeta = document.createElement('meta');
-  noindexMeta.name = 'robots'; noindexMeta.content = 'noindex,follow';
-  document.head.appendChild(noindexMeta);
+  // Page already defaults to noindex,follow in <head> — nothing more to do here.
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
   } else {
+    // Valid item confirmed — safe to index now (default meta above is noindex).
+    let robotsTag = document.querySelector('meta[name="robots"]');
+    if (!robotsTag) {
+      robotsTag = document.createElement('meta');
+      robotsTag.name = 'robots';
+      document.head.appendChild(robotsTag);
+    }
+    robotsTag.content = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
+
     // ── ENTERPRISE SEO — Article schema + breadcrumbs + OG/Twitter ──
     const schemaType = type === 'admit' ? 'Admit Card' : type === 'answer' ? 'Answer Key' : 'Exam Result';
     applySEO({

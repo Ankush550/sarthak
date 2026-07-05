@@ -5,13 +5,17 @@ Allow: /
 Disallow: /pages/
 Disallow: /pages/tools.html
 Disallow: /pages/upcomingipo.html
-Disallow: /pages/about.html
-Disallow: /pages/terms.html
 Disallow: /pages/sarkari-rules.html
 Disallow: /mo
 Disallow: /day
 Disallow: /month
 Disallow: /cdn-cgi/
+
+# NOTE: /pages/about.html and /pages/terms.html are intentionally NOT
+# disallowed anymore. They are old URLs (renamed to about-us.html and
+# terms-conditions.html) that Google already knows about — we now serve
+# a real redirect page at each so Google can consolidate them into the
+# new URL instead of reporting them as 404s forever.
 
 # ── Allow specific valid pages inside /pages/ ─────────────────
 Allow: /pages/job-detail.html

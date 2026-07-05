@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="robots" content="noindex, follow">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Admit Card – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Download admit card / hall ticket for government exams. Check exam date, download link and instructions.">
@@ -258,10 +258,17 @@ if (!card) {
     '<p style="text-align:center;color:#c0392b;padding:20px;">Sorry, we could not find this admit card. It may have been moved or the link is incorrect. <a href="results.html#admit">Browse All Admit Cards</a></p></div>';
   var adWrap = document.getElementById('adBannerWrap');
   if (adWrap) adWrap.style.display = 'none';
-  const m = document.createElement('meta');
-  m.name = 'robots'; m.content = 'noindex,follow';
-  document.head.appendChild(m);
+  // Page already defaults to noindex,follow in <head> — nothing more to do here.
 } else {
+
+  // Valid admit card confirmed — safe to index now (default meta above is noindex).
+  let robotsTag = document.querySelector('meta[name="robots"]');
+  if (!robotsTag) {
+    robotsTag = document.createElement('meta');
+    robotsTag.name = 'robots';
+    document.head.appendChild(robotsTag);
+  }
+  robotsTag.content = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
 
   // ── ENTERPRISE SEO — full meta + Article schema + breadcrumbs ──
   applySEO({
@@ -292,7 +299,12 @@ if (!card) {
     `<a href="../index.html">Home</a> &rsaquo; <a href="results.html#admit">Admit Cards</a> &rsaquo; ${card.title}`;
 
   // Status badge
-  const statusBadge = card.status === 'released'
+  // Case-insensitive + tolerant of variants like "Hall Ticket Released" —
+  // several entries in admit-card-data.js use capitalized or fuller status
+  // strings, and a strict === 'released' check was showing them as
+  // "Upcoming" even though they were already released.
+  const isReleased = /released/i.test(card.status || '');
+  const statusBadge = isReleased
     ? '<span class="badge-released">✔ Released</span>'
     : '<span class="badge-upcoming">🕐 Upcoming</span>';
 
@@ -347,7 +359,7 @@ if (!card) {
   document.getElementById('downloadTitle').textContent = '📥 Download ' + card.title;
   document.getElementById('downloadMeta').innerHTML =
     (card.examDate ? 'Exam Date: <strong style="color:#c0392b;">' + card.examDate + '</strong> &nbsp;|&nbsp; ' : '') +
-    'Status: <strong>' + (card.status === 'released' ? '✔ Released' : '🕐 Upcoming') + '</strong>';
+    'Status: <strong>' + (isReleased ? '✔ Released' : '🕐 Upcoming') + '</strong>';
   document.getElementById('downloadLinks').innerHTML = card.officialLink
     ? `<a href="${card.officialLink}" class="download-btn" target="_blank" rel="nofollow noopener">
         📥 Download Admit Card &rarr;
