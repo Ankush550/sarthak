@@ -20461,3 +20461,1619 @@ Related Jobs
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official DRDO ACEM notification before applying.</p>
 `;
+JOB_CONTENT["svpuat-non-teaching-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-03">Published: 03 July 2026</time> |
+Updated: 05 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+SVPUAT Non-Teaching Vacancy 2026 – Apply Online for 62 Farm Manager, Assistant, Stenographer & Driver Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 SVPUAT Non-Teaching Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>03 August 2026</strong>
+</p>
+
+<a href="https://www.svpuat.edu.in/jobs.php"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT), Meerut has released the official notification for
+<strong>SVPUAT Non-Teaching Vacancy 2026</strong>. A total of
+<strong>62 Non-Teaching vacancies</strong> have been announced, including Farm Manager, Programme Assistant (Computer), Programme Assistant (Lab Technician), Assistant, Stenographer Grade-III and Driver posts. Candidates with 10th, 12th or Bachelor's Degree qualifications can apply online as per the eligible post.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The online application process commenced on
+<strong>03 July 2026</strong>
+and applications will be accepted until
+<strong>03 August 2026</strong>.
+Candidates must also submit a hard copy of the application along with self-attested documents to the university address by
+<strong>17 August 2026</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+SVPUAT Non-Teaching Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT), Meerut</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Farm Manager, Programme Assistant, Assistant, Stenographer Grade-III, Driver</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>62</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Uttar Pradesh Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online + Hard Copy Submission</td>
+</tr>
+
+<tr>
+<th>Application Starts</th>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply Online</th>
+<td>03 August 2026</td>
+</tr>
+
+<tr>
+<th>Last Date for Hard Copy</th>
+<td>17 August 2026</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>General/OBC/EWS: Rs. 1,000 | SC/ST/PwD: Rs. 500</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Written Examination, Skill Test, Document Verification, Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>https://www.svpuat.edu.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Starts</td>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Online Application</td>
+<td>03 August 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Submit Hard Copy</td>
+<td>17 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹1,000</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwD (PH)</td>
+<td>₹500</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Payment must be made through <strong>online mode</strong> only.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>18 Years</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>40 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Age relaxation will be applicable as per Government norms for reserved category candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy & Post Details
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>62 vacancies</strong> have been announced across the following posts, along with category-wise breakup:
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>UR</th>
+<th>EWS</th>
+<th>OBC</th>
+<th>SC</th>
+<th>Total</th>
+</tr>
+
+<tr>
+<td>Farm Manager / T-4</td>
+<td>02</td>
+<td>01</td>
+<td>02</td>
+<td>01</td>
+<td>06</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Computer) / T-4</td>
+<td>03</td>
+<td>01</td>
+<td>02</td>
+<td>01</td>
+<td>07</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Lab Technician) / T-4</td>
+<td>04</td>
+<td>02</td>
+<td>03</td>
+<td>02</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>Assistant</td>
+<td>03</td>
+<td>01</td>
+<td>03</td>
+<td>01</td>
+<td>08</td>
+</tr>
+
+<tr>
+<td>Stenographer Grade-III</td>
+<td>02</td>
+<td>01</td>
+<td>02</td>
+<td>01</td>
+<td>06</td>
+</tr>
+
+<tr>
+<td>Driver / T-1</td>
+<td>09</td>
+<td>03</td>
+<td>08</td>
+<td>04</td>
+<td>24</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>23</th>
+<th>09</th>
+<th>20</th>
+<th>10</th>
+<th>62</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Educational Qualification (Post-Wise)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Farm Manager / T-4</td>
+<td>Bachelor's Degree in Agriculture or Agriculture-related Science/Social Science from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Computer) / T-4</td>
+<td>Bachelor's Degree in Computer Science or Computer Applications from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Lab Technician) / T-4</td>
+<td>Bachelor's Degree in Agriculture or Agriculture-related Science/Social Science from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Assistant</td>
+<td>Bachelor's Degree in any discipline from a recognized University.</td>
+</tr>
+
+<tr>
+<td>Stenographer Grade-III</td>
+<td>12th Pass from a recognized Board. Must qualify Stenography Test (80 WPM Dictation for 10 Minutes). Transcription: English – 50 Minutes / Hindi – 65 Minutes on Computer.</td>
+</tr>
+
+<tr>
+<td>Driver / T-1</td>
+<td>10th Pass with a Valid Driving License issued by the competent authority. Desirable: ITI Trade Certificate, Driving Experience, or Motor Mechanic Experience.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Pay Scale
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Pay Scale</th>
+<th>Pay Level</th>
+</tr>
+
+<tr>
+<td>Farm Manager / T-4</td>
+<td>₹35,400 – ₹1,12,400</td>
+<td>Level-6</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Computer) / T-4</td>
+<td>₹35,400 – ₹1,12,400</td>
+<td>Level-6</td>
+</tr>
+
+<tr>
+<td>Programme Assistant (Lab Technician) / T-4</td>
+<td>₹35,400 – ₹1,12,400</td>
+<td>Level-6</td>
+</tr>
+
+<tr>
+<td>Assistant</td>
+<td>₹35,400 – ₹1,12,400</td>
+<td>Level-6</td>
+</tr>
+
+<tr>
+<td>Stenographer Grade-III</td>
+<td>₹25,500 – ₹81,100</td>
+<td>Level-4</td>
+</tr>
+
+<tr>
+<td>Driver / T-1</td>
+<td>₹21,700 – ₹69,100</td>
+<td>Level-3</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Skill Test (Where Applicable)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<th>Final Selection</th>
+<th>Merit Based on Successful Completion of All Stages</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online?
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates can apply through the official SVPUAT recruitment portal by following the steps below:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official SVPUAT recruitment portal.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+<li>Complete the online registration using a valid email ID and mobile number.</li>
+
+<li>Fill in all personal, educational, and communication details correctly.</li>
+
+<li>Upload the required documents, photograph, and signature in the prescribed format.</li>
+
+<li>Pay the application fee through the online payment gateway.</li>
+
+<li>Verify all the entered information before final submission.</li>
+
+<li>Submit the online application form.</li>
+
+<li>Download and print the submitted application form.</li>
+
+<li>Attach self-attested copies of all required documents and the self-assessed scorecard, and send the complete application in an A4-size envelope to the prescribed university address before 17 August 2026.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Both online submission and hard copy dispatch are mandatory for this recruitment.</li>
+
+<li>Candidates should apply strictly as per the eligible post's qualification criteria.</li>
+
+<li>Keep the application printout and payment receipt safe for future reference.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://www.svpuat.edu.in/jobs.php" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td>
+<a href="https://www.svpuat.edu.in/jobs.php" target="_blank">
+Download PDF
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.svpuat.edu.in" target="_blank">
+svpuat.edu.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in SVPUAT Non-Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>62 Non-Teaching posts</strong> have been announced, including Farm Manager, Programme Assistant (Computer), Programme Assistant (Lab Technician), Assistant, Stenographer Grade-III and Driver.
+</p>
+
+<h3>2. What is the last date to apply for SVPUAT Non-Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications can be submitted until <strong>03 August 2026</strong>, and the hard copy of the application must reach the university by <strong>17 August 2026</strong>.
+</p>
+
+<h3>3. What is the minimum educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates with 10th Pass, 12th Pass or a Bachelor's Degree can apply depending on the post, with some posts requiring Agriculture or Computer Science qualifications specifically.
+</p>
+
+<h3>4. What is the age limit for SVPUAT Non-Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The minimum age is <strong>18 years</strong> and the maximum age is <strong>40 years</strong>. Age relaxation applies to reserved category candidates as per Government rules.
+</p>
+
+<h3>5. What is the application fee for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹1,000</strong> for General, OBC and EWS candidates, and <strong>₹500</strong> for SC, ST and PwD candidates, payable online.
+</p>
+
+<h3>6. What is the selection process for SVPUAT Non-Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on a <strong>written examination</strong>, followed by a skill test (where applicable), document verification and medical examination.
+</p>
+
+<h3>7. Is a hard copy submission mandatory after applying online?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Candidates must send a printed copy of the application along with self-attested documents to the prescribed university address by <strong>17 August 2026</strong>.
+</p>
+
+<h3>8. Can 10th Pass candidates apply for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, 10th Pass candidates with a valid driving license can apply for the <strong>Driver</strong> post.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>SVPUAT Non-Teaching Vacancy 2026</strong> offers a great opportunity for 10th Pass, 12th Pass and Graduate candidates to secure a government job at Sardar Vallabhbhai Patel University of Agriculture & Technology, Meerut. Interested candidates should verify their eligibility and complete the online registration along with the hard copy submission before the last date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply Online for SVPUAT Non-Teaching Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Complete your application before <strong>03 August 2026</strong> and keep all required documents ready for verification.
+</p>
+
+<a href="https://www.svpuat.edu.in/jobs.php"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=up-gram-panchayat-sachiv-recruitment-2026">UP Gram Panchayat Sachiv Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ihmcl-systems-engineer-recruitment-2026">IHMCL Systems Engineer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bgsss-recruitment-2026">BGSSS Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rvunl-je-junior-accountant-2026">RVUNL JE & Junior Accountant Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official SVPUAT notification before applying.</p>
+`;
+JOB_CONTENT["up-gram-panchayat-sachiv-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-05">Published: 05 July 2026</time> |
+Updated: 05 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+UP Gram Panchayat Sachiv Vacancy 2026 – 13,116 Panchayat Secretary Posts Approved
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+📢 UP Gram Panchayat Sachiv Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Notification Awaited</span>
+</p>
+
+<p style="font-size:19px;">
+Total Posts Approved :
+<strong>13,116</strong>
+</p>
+
+<a href="https://panchayatiraj.up.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Official Website →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Uttar Pradesh Panchayati Raj Department</strong> has approved the creation of
+<strong>13,116 new Gram Panchayat Sachiv (Panchayat Secretary)</strong> posts to address the staff shortage in Gram Panchayats across the state. The recruitment drive under
+<strong>UP Gram Panchayat Sachiv Vacancy 2026</strong>
+will be conducted in a phased manner, with the first phase expected to fill
+<strong>4,372 posts</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The detailed official notification has not yet been released. Application dates, application fee and final eligibility criteria will be announced along with the notification. Candidates are advised to keep checking the official website regularly for updates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+UP Gram Panchayat Sachiv Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Uttar Pradesh Panchayati Raj Department</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Gram Panchayat Sachiv (Panchayat Secretary)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>13,116</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Uttar Pradesh Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Notification Status</th>
+<td>To Be Released Soon</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Written Examination (Expected), Document Verification, Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>panchayatiraj.up.nic.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post Details / Vacancy Breakup
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Gram Panchayat Sachiv (Panchayat Secretary)</td>
+<td>13,116</td>
+</tr>
+
+<tr>
+<td>First Phase Recruitment</td>
+<td>4,372</td>
+</tr>
+
+<tr>
+<td>Remaining Vacancies</td>
+<td>To Be Filled in Subsequent Phases</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<th>13,116</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification (Expected)
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Criteria</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Educational Qualification</td>
+<td>12th Pass from a Recognized Board (Expected)</td>
+</tr>
+
+<tr>
+<td>Computer Qualification</td>
+<td>CCC Certificate or Equivalent (Expected)</td>
+</tr>
+
+<tr>
+<td>PET Requirement</td>
+<td>Valid UPSSSC PET Score (If Mentioned in Official Notification)</td>
+</tr>
+
+<tr>
+<td>Final Eligibility</td>
+<td>As Per Official Notification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit (Expected)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Age</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>18 Years (Expected)</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>40 Years (Expected)</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Reserved category candidates are expected to get age relaxation as per Uttar Pradesh Government rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Pay Scale
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Component</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Pay Matrix Level-3</td>
+</tr>
+
+<tr>
+<td>Basic Salary</td>
+<td>Approx. ₹21,700 Per Month</td>
+</tr>
+
+<tr>
+<td>Allowances</td>
+<td>DA, HRA, TA and Other Government Allowances</td>
+</tr>
+
+<tr>
+<td>Salary Structure</td>
+<td>As Per Uttar Pradesh Government Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process (Expected)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Written Examination (Expected)</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Examination (If Applicable)</td>
+</tr>
+
+<tr>
+<th>Final Selection</th>
+<th>Final Merit List</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online (Expected Process)
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website of the Uttar Pradesh Panchayati Raj Department.</li>
+
+<li>Open the UP Gram Panchayat Sachiv Recruitment 2026 notification.</li>
+
+<li>Read the eligibility criteria and instructions carefully.</li>
+
+<li>Complete the online registration using a valid mobile number and email ID.</li>
+
+<li>Fill in the online application form with accurate details.</li>
+
+<li>Upload the required documents, recent passport-size photograph, and signature.</li>
+
+<li>Pay the application fee through the available online payment gateway (if applicable).</li>
+
+<li>Review the application form before final submission.</li>
+
+<li>Submit the application form successfully and download the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>The detailed notification is yet to be released; only post creation has been approved so far.</li>
+
+<li>Candidates are advised to regularly check the official website for updates.</li>
+
+<li>Keep educational certificates, CCC certificate and UPSSSC PET scorecard ready.</li>
+
+<li>Read the official notification carefully once released before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://panchayatiraj.up.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in UP Gram Panchayat Sachiv Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Uttar Pradesh Government has approved <strong>13,116 Gram Panchayat Sachiv (Panchayat Secretary)</strong> posts, with the first phase expected to fill <strong>4,372 posts</strong>.
+</p>
+
+<h3>2. When will the official notification for UP Gram Panchayat Sachiv Vacancy 2026 be released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Currently only the creation of posts has been approved. The detailed recruitment notification, application dates and other important information will be released soon on the official website.
+</p>
+
+<h3>3. What is the expected educational qualification for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates are expected to be <strong>12th Pass</strong> along with a <strong>CCC Certificate</strong>, and possibly a valid <strong>UPSSSC PET score</strong> if mentioned in the official notification.
+</p>
+
+<h3>4. What will be the age limit for UP Gram Panchayat Sachiv Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The expected age limit is <strong>18 to 40 years</strong>, with age relaxation for reserved category candidates as per Government norms.
+</p>
+
+<h3>5. What will be the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is expected to include a written examination, document verification, medical examination (if applicable) and a final merit list.
+</p>
+
+<h3>6. How much salary will selected Gram Panchayat Sachiv candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a basic salary of approximately <strong>₹21,700 per month</strong> under Pay Matrix Level-3, along with DA, HRA, TA and other allowances.
+</p>
+
+<h3>7. When will applications start for UP Gram Panchayat Sachiv Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application process will begin only after the detailed official notification is released. Candidates should keep checking the official website regularly.
+</p>
+
+<h3>8. Can 12th Pass candidates apply for UP Gram Panchayat Sachiv Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Based on available information, 12th Pass candidates are expected to be eligible. However, final eligibility will be confirmed only after the official notification is released.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>UP Gram Panchayat Sachiv Vacancy 2026</strong> is a major recruitment opportunity for 12th Pass candidates in Uttar Pradesh, with 13,116 posts approved. Interested candidates should stay updated with the official website for the detailed notification, application dates and eligibility criteria.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Stay Updated for UP Gram Panchayat Sachiv Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Keep checking this page regularly for the latest updates on notification release and application dates.
+</p>
+
+<a href="https://panchayatiraj.up.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Official Website
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=svpuat-non-teaching-recruitment-2026">SVPUAT Non-Teaching Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=tslprb-recruitment-2026">TSLPRB Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rvunl-je-junior-accountant-2026">RVUNL JE & Junior Accountant Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UP Panchayati Raj Department notification before applying.</p>
+`;
+JOB_CONTENT["tslprb-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-05">Published: 05 July 2026</time> |
+Updated: 05 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+TSLPRB Vacancy 2026 – 7,437 SI, Constable, Fire Fighter, Warder & Jailor Posts Approved
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+📢 TSLPRB Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Press Note Released, Notification Awaited</span>
+</p>
+
+<p style="font-size:19px;">
+Total Posts Approved :
+<strong>7,437</strong>
+</p>
+
+<a href="https://tgprb.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Official Website →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Telangana State Level Police Recruitment Board (TSLPRB)</strong> has received government approval for
+<strong>TSLPRB Vacancy 2026</strong>, covering a total of
+<strong>7,437 vacancies</strong>
+across the Police, Fire, Prisons & Correctional Services and Special Protection Force departments. The recruitment includes Sub Inspector (SI), Assistant Sub Inspector (ASI), Police Constable, Fire Fighter, Station Fire Officer, Deputy Jailor, Warder and SPF Constable posts.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+A press note was released on
+<strong>05 July 2026</strong>. The detailed notification with post-wise qualification, age limit, application process, selection process, physical standards and exam pattern will be released soon by TSLPRB.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+TSLPRB Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Telangana State Level Police Recruitment Board (TSLPRB)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>SI, Reserve SI, ASI, Police Constable, Fire Fighter, Station Fire Officer, Deputy Jailor, Warder, SPF Constable</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>7,437</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Telangana Government Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Press Note Released</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<th>Selection Process</th>
+<td>Written Examination, PMT, PET, Document Verification, Medical Examination</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>tgprb.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post & Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Department</th>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Sub Inspector (Civil)</td>
+<td>148</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Reserve Sub Inspector (AR)</td>
+<td>14</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Reserve Sub Inspector (TGSP)</td>
+<td>12</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Reserve Sub Inspector (SARCPL)</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Assistant Sub Inspector (FPB)</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Police Constable (Civil)</td>
+<td>3,697</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Police Constable (AR)</td>
+<td>1,052</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Police Constable (SARCPL)</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Police Constable (Driver) PTO</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Police Department</td>
+<td>Police Constable (Mechanic) PTO</td>
+<td>7</td>
+</tr>
+
+<tr>
+<td>Fire Disaster Response Emergency & Civil Defence</td>
+<td>Station Fire Officer</td>
+<td>39</td>
+</tr>
+
+<tr>
+<td>Fire Disaster Response Emergency & Civil Defence</td>
+<td>Fire Fighter</td>
+<td>751</td>
+</tr>
+
+<tr>
+<td>Prisons & Correctional Services</td>
+<td>Deputy Jailor (Men)</td>
+<td>14</td>
+</tr>
+
+<tr>
+<td>Prisons & Correctional Services</td>
+<td>Deputy Jailor (Women)</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Prisons & Correctional Services</td>
+<td>Warder (Male)</td>
+<td>196</td>
+</tr>
+
+<tr>
+<td>Prisons & Correctional Services</td>
+<td>Warder (Female)</td>
+<td>12</td>
+</tr>
+
+<tr>
+<td>Special Protection Force</td>
+<td>Sub Inspector</td>
+<td>44</td>
+</tr>
+
+<tr>
+<td>Special Protection Force</td>
+<td>Constable</td>
+<td>1,380</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>All Posts</th>
+<th>7,437</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification (Expected)
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Sub Inspector</td>
+<td>Bachelor's Degree from a recognized University (Expected)</td>
+</tr>
+
+<tr>
+<td>Assistant Sub Inspector</td>
+<td>Bachelor's Degree or Equivalent (Expected)</td>
+</tr>
+
+<tr>
+<td>Police Constable</td>
+<td>Intermediate (10+2) or Equivalent (Expected)</td>
+</tr>
+
+<tr>
+<td>Fire Fighter</td>
+<td>Intermediate (10+2) or Equivalent (Expected)</td>
+</tr>
+
+<tr>
+<td>Station Fire Officer</td>
+<td>Bachelor's Degree (Expected)</td>
+</tr>
+
+<tr>
+<td>Deputy Jailor</td>
+<td>Bachelor's Degree</td>
+</tr>
+
+<tr>
+<td>Warder</td>
+<td>Intermediate (10+2) or Equivalent</td>
+</tr>
+
+<tr>
+<td>SPF Constable</td>
+<td>Intermediate (10+2) or Equivalent</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Detailed educational qualification for each post will be available in the official notification once released.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Physical Measurement Test (PMT)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Physical Efficiency Test (PET)</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<th>Final Stage</th>
+<th>Merit List</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online (Expected Process)
+</h2>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official TSLPRB website.</li>
+
+<li>Open the TSLPRB Recruitment 2026 notification.</li>
+
+<li>Read the eligibility criteria carefully.</li>
+
+<li>Register with a valid mobile number and email ID.</li>
+
+<li>Fill in the online application form correctly.</li>
+
+<li>Upload the required documents, photograph, and signature.</li>
+
+<li>Pay the application fee (if applicable).</li>
+
+<li>Review all entered details before final submission.</li>
+
+<li>Submit the application form and download the printout for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only a press note has been released so far; the detailed notification is awaited.</li>
+
+<li>Candidates should regularly check the official TSLPRB website for updates.</li>
+
+<li>Keep educational certificates and identity documents ready in advance.</li>
+
+<li>Read the official notification carefully once released before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://tgprb.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in TSLPRB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>7,437 posts</strong> have been approved, covering Sub Inspector, Reserve SI, Assistant Sub Inspector, Police Constable, Fire Fighter, Station Fire Officer, Deputy Jailor, Warder and SPF Constable posts.
+</p>
+
+<h3>2. Has the official notification for TSLPRB Vacancy 2026 been released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Currently only a press note has been released. The detailed recruitment notification is expected to be released soon.
+</p>
+
+<h3>3. When will the application process for TSLPRB Vacancy 2026 begin?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The online application start date will be announced only after the detailed official notification is released.
+</p>
+
+<h3>4. What will be the selection process for TSLPRB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is expected to include a written examination, Physical Measurement Test (PMT), Physical Efficiency Test (PET), document verification and medical examination.
+</p>
+
+<h3>5. What is the expected educational qualification for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Qualification will vary by post. Sub Inspector and Deputy Jailor posts are expected to require a Bachelor's Degree, while Constable, Fire Fighter and Warder posts are expected to require Intermediate (10+2) qualification.
+</p>
+
+<h3>6. What is the age limit for TSLPRB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Age limit details have not been announced yet. The minimum and maximum age limits along with category-wise relaxation will be provided in the detailed notification.
+</p>
+
+<h3>7. How can candidates apply for TSLPRB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates will need to register on the official website, fill the application form, upload required documents, pay the application fee (if applicable), and submit the form before the last date once the notification is released.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>TSLPRB Vacancy 2026</strong> is a major recruitment opportunity for candidates seeking a career in the Telangana Police, Fire, Prisons and Special Protection Force departments, with 7,437 posts approved. Interested candidates should keep checking the official website for the detailed notification and application dates.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Stay Updated for TSLPRB Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Keep checking this page regularly for the latest updates on notification release and application dates.
+</p>
+
+<a href="https://tgprb.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Official Website
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=up-gram-panchayat-sachiv-recruitment-2026">UP Gram Panchayat Sachiv Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=svpuat-non-teaching-recruitment-2026">SVPUAT Non-Teaching Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=indian-navy-ssc-officer-2026">Indian Navy SSC Officer Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official TSLPRB notification before applying.</p>
+`;

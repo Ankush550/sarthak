@@ -1,5 +1,197 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+{
+    id:"svpuat-non-teaching-recruitment-2026",
+    orgWebsite:"https://www.svpuat.edu.in",
+    title:"SVPUAT Non-Teaching Vacancy 2026",
+    shortTitle:"SVPUAT Non-Teaching Online Form 2026",
+    organization:"Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT), Meerut",
+    image:"SVPUAT.jpeg",
+
+    totalPosts:62,
+
+    lastDate:"2026-08-03",
+    lastDateDisplay:"03 August 2026",
+
+    datePosted:"2026-07-03",
+    validThrough:"2026-08-03T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:21700,
+    salaryMax:112400,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Meerut, Uttar Pradesh",
+    addressLocality:"Meerut",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"10th Pass, 12th Pass or Bachelor's Degree (Post Wise)",
+
+    ageLimit:"18 to 40 Years",
+
+    applyLink:"https://www.svpuat.edu.in/jobs.php",
+    officialNotification:"https://www.svpuat.edu.in/jobs.php",
+
+    fee:"General/OBC/EWS: Rs. 1,000 | SC/ST/PwD: Rs. 500",
+
+    description:"Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT), Meerut has released the official notification for Non-Teaching Vacancy 2026, inviting applications for 62 vacancies including Farm Manager, Programme Assistant (Computer), Programme Assistant (Lab Technician), Assistant, Stenographer Grade-III and Driver posts. Candidates with 10th, 12th or Bachelor's Degree qualifications can apply online from 03 July 2026 to 03 August 2026, with hard copy submission accepted until 17 August 2026.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Farm Manager, Programme Assistant, Assistant, Stenographer, Driver",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-03",
+    applicationEndDate:"2026-08-03",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Farm Manager / T-4", totalPosts:6},
+        {postName:"Programme Assistant (Computer) / T-4", totalPosts:7},
+        {postName:"Programme Assistant (Lab Technician) / T-4", totalPosts:11},
+        {postName:"Assistant", totalPosts:8},
+        {postName:"Stenographer Grade-III", totalPosts:6},
+        {postName:"Driver / T-1", totalPosts:24}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"up-gram-panchayat-sachiv-recruitment-2026",
+    orgWebsite:"https://panchayatiraj.up.nic.in",
+    title:"UP Gram Panchayat Sachiv Vacancy 2026",
+    shortTitle:"UP Gram Panchayat Sachiv Online Form 2026",
+    organization:"Uttar Pradesh Panchayati Raj Department",
+    image:"UPGramPanchayatSachiv.jpeg",
+
+    totalPosts:13116,
+
+    lastDate:"To Be Announced",
+    lastDateDisplay:"To Be Announced",
+
+    datePosted:"2026-07-05",
+    validThrough:"2026-12-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:21700,
+    salaryMax:21700,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"12th Pass + CCC Certificate (Expected)",
+
+    ageLimit:"18 to 40 Years (Expected)",
+
+    applyLink:"https://panchayatiraj.up.nic.in",
+    officialNotification:"https://panchayatiraj.up.nic.in",
+
+    fee:"To Be Announced",
+
+    description:"The Uttar Pradesh Panchayati Raj Department has approved the creation of 13,116 new Gram Panchayat Sachiv (Panchayat Secretary) posts to address staff shortage in Gram Panchayats. Recruitment will be conducted in phases, with the first phase expected to fill 4,372 posts. The detailed official notification, application dates, fee and final eligibility criteria are yet to be released. 12th Pass candidates with a CCC Certificate and valid UPSSSC PET score are expected to be eligible.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Gram Panchayat Sachiv (Panchayat Secretary)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"To Be Announced",
+    applicationEndDate:"To Be Announced",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Gram Panchayat Sachiv (Panchayat Secretary) – First Phase", totalPosts:4372},
+        {postName:"Gram Panchayat Sachiv (Panchayat Secretary) – Remaining Phases", totalPosts:8744}
+    ],
+
+    status:"upcoming",
+    isNew:true
+},
+
+{
+    id:"tslprb-recruitment-2026",
+    orgWebsite:"https://tgprb.in",
+    title:"TSLPRB Vacancy 2026",
+    shortTitle:"TSLPRB 7437 Various Posts Online Form 2026",
+    organization:"Telangana State Level Police Recruitment Board (TSLPRB)",
+    image:"TSLPRB.jpeg",
+
+    totalPosts:7437,
+
+    lastDate:"To Be Announced",
+    lastDateDisplay:"To Be Announced",
+
+    datePosted:"2026-07-05",
+    validThrough:"2026-12-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    location:"Telangana",
+    addressLocality:"Hyderabad",
+    addressRegion:"Telangana",
+    addressCountry:"IN",
+
+    qualification:"Intermediate (10+2) or Bachelor's Degree (Post Wise, Expected)",
+
+    ageLimit:"To Be Announced",
+
+    applyLink:"https://tgprb.in",
+    officialNotification:"https://tgprb.in",
+
+    fee:"To Be Announced",
+
+    description:"The Telangana State Level Police Recruitment Board (TSLPRB) has received government approval to recruit for 7,437 vacancies across Sub Inspector, Reserve Sub Inspector, Assistant Sub Inspector, Police Constable, Fire Fighter, Station Fire Officer, Deputy Jailor, Warder and Special Protection Force (SPF) Constable posts. The detailed notification with post-wise eligibility, age limit, application process, selection process, physical standards and exam pattern will be released soon.",
+
+    category:"Telangana Government Jobs",
+    jobType:"SI, Reserve SI, ASI, Police Constable, Fire Fighter, Station Fire Officer, Deputy Jailor, Warder, SPF Constable",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"To Be Announced",
+    applicationEndDate:"To Be Announced",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Sub Inspector (Civil)", totalPosts:148},
+        {postName:"Reserve Sub Inspector (AR)", totalPosts:14},
+        {postName:"Reserve Sub Inspector (TGSP)", totalPosts:12},
+        {postName:"Reserve Sub Inspector (SARCPL)", totalPosts:3},
+        {postName:"Assistant Sub Inspector (FPB)", totalPosts:23},
+        {postName:"Police Constable (Civil)", totalPosts:3697},
+        {postName:"Police Constable (AR)", totalPosts:1052},
+        {postName:"Police Constable (SARCPL)", totalPosts:24},
+        {postName:"Police Constable (Driver) PTO", totalPosts:20},
+        {postName:"Police Constable (Mechanic) PTO", totalPosts:7},
+        {postName:"Station Fire Officer", totalPosts:39},
+        {postName:"Fire Fighter", totalPosts:751},
+        {postName:"Deputy Jailor (Men)", totalPosts:14},
+        {postName:"Deputy Jailor (Women)", totalPosts:1},
+        {postName:"Warder (Male)", totalPosts:196},
+        {postName:"Warder (Female)", totalPosts:12},
+        {postName:"Special Protection Force – Sub Inspector", totalPosts:44},
+        {postName:"Special Protection Force – Constable", totalPosts:1380}
+    ],
+
+    status:"upcoming",
+    isNew:true
+},
+
   {
   
     id:"iocl-paradip-refinery-apprentice-recruitment-2026",
@@ -1806,6 +1998,8 @@ isNew: true
     status:"open",
     isNew:true
 },
+
+
 
 
 ];
