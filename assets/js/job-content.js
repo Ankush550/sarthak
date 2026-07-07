@@ -24566,3 +24566,2868 @@ Related Jobs
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Air Force notification before applying.</p>
 `;
+JOB_CONTENT["iaf-medical-assistant-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IAF Medical Assistant Bharti 2026 – Apply Online for Airmen Group 'Y' Medical Assistant Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+⚕️ IAF Medical Assistant Bharti 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>06 July 2026 to 26 July 2026</strong>
+</p>
+
+<a href="https://iafrecruitment.edcil.co.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Air Force (IAF)</strong> has released the official notification for
+<strong>Airmen Group 'Y' Medical Assistant Bharti 2026</strong>. This is an excellent opportunity for candidates
+who have completed 12th (Physics, Chemistry, Biology) or a Diploma/B.Pharm/B.Sc Pharmacy qualification.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>06 July 2026</strong> and will close on
+<strong>26 July 2026</strong>. Selected candidates will receive a training stipend of
+<strong>₹14,600 per month</strong>, and after completing training, a starting salary of
+<strong>₹26,900 per month</strong> along with various government allowances.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IAF Medical Assistant Bharti 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Air Force</td>
+</tr>
+
+<tr>
+<th>Advertisement No.</th>
+<td>02/2027</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Medical Assistant</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>26 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 23 Years</td>
+</tr>
+
+<tr>
+<th>Training Stipend</th>
+<td>₹14,600 per Month</td>
+</tr>
+
+<tr>
+<th>Starting Salary</th>
+<td>₹26,900 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>iafrecruitment.edcil.co.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>June 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>06 July 2026 (11:00 AM)</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>26 July 2026 (11:00 PM)</td>
+</tr>
+
+<tr>
+<td>Admit Card Release</td>
+<td>Before Exam</td>
+</tr>
+
+<tr>
+<td>Phase-I Online Exam Date</td>
+<td>22–23 September 2026</td>
+</tr>
+
+<tr>
+<td>Phase-I Result</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Phase-II Test</td>
+<td>As Per Admit Card</td>
+</tr>
+
+<tr>
+<td>Medical Examination</td>
+<td>After Phase-II Qualification</td>
+</tr>
+
+<tr>
+<td>Provisional Select List (PSL)</td>
+<td>Last Week of May 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>All Candidates</td>
+<td>₹550</td>
+</tr>
+
+<tr>
+<td>GST (18%)</td>
+<td>Extra Applicable</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online (UPI, Debit Card, Credit Card, Net Banking)</td>
+</tr>
+
+<tr>
+<td>Refundable</td>
+<td>No</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Category</th>
+<th>Date of Birth Range</th>
+<th>Approximate Age as on 01 July 2026</th>
+</tr>
+
+<tr>
+<td>Medical Assistant (10+2 Candidates)</td>
+<td>Born between 01 July 2006 and 01 July 2010</td>
+<td>16 to 20 Years</td>
+</tr>
+
+<tr>
+<td>Diploma/B.Pharm/B.Sc Pharmacy (Unmarried)</td>
+<td>Born between 01 July 2003 and 01 July 2008</td>
+<td>18 to 23 Years</td>
+</tr>
+
+<tr>
+<td>Diploma/B.Pharm/B.Sc Pharmacy (Married)</td>
+<td>Born between 01 July 2003 and 01 July 2006</td>
+<td>20 to 23 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Note: The maximum permissible age at the time of enrolment is <strong>21 years</strong> for 10+2 candidates and
+<strong>24 years</strong> for Diploma/B.Pharm/B.Sc Pharmacy candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancy</th>
+</tr>
+
+<tr>
+<td>Airmen Group 'Y' Medical Assistant</td>
+<td>Not Specified</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+The Indian Air Force has not announced category-wise or total vacancies in the official notification. Selection
+will be based on merit and organizational requirements.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Qualification Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Type</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>10+2 Candidates</td>
+<td>Passed 10+2/Intermediate with Physics, Chemistry, Biology & English</td>
+</tr>
+
+<tr>
+<td>Minimum Marks</td>
+<td>50% Aggregate Marks</td>
+</tr>
+
+<tr>
+<td>English Marks</td>
+<td>Minimum 50% Marks</td>
+</tr>
+
+<tr>
+<td>Vocational Candidates</td>
+<td>Two-Year Vocational Course with Physics, Chemistry, Biology & English</td>
+</tr>
+
+<tr>
+<td>Vocational Marks</td>
+<td>Minimum 50% Aggregate and 50% in English</td>
+</tr>
+
+<tr>
+<td>Diploma Pharmacy</td>
+<td>Diploma in Pharmacy with 50% Marks</td>
+</tr>
+
+<tr>
+<td>B.Pharm Candidates</td>
+<td>B.Pharm with 50% Marks</td>
+</tr>
+
+<tr>
+<td>B.Sc Pharmacy Candidates</td>
+<td>B.Sc Pharmacy with 50% Marks</td>
+</tr>
+
+<tr>
+<td>Additional Requirement</td>
+<td>Valid Registration from State Pharmacy Council/PCI</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particulars</th>
+<th>Amount</th>
+</tr>
+
+<tr>
+<td>Training Stipend</td>
+<td>₹14,600 Per Month</td>
+</tr>
+
+<tr>
+<td>Starting Salary After Training</td>
+<td>₹26,900 Per Month</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Physical Fitness Test (PFT)
+</h2>
+
+<h3 style="font-size:26px;margin-top:25px;">PFT-I: Running Test</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Criteria</th>
+</tr>
+
+<tr>
+<td>1.6 KM Run (Up to 21 Years)</td>
+<td>Within 7 Minutes</td>
+</tr>
+
+<tr>
+<td>1.6 KM Run (Above 21 Years)</td>
+<td>Within 7 Minutes 30 Seconds</td>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">PFT-II</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Requirement</th>
+<th>Time Limit</th>
+</tr>
+
+<tr>
+<td>Push-Ups</td>
+<td>10</td>
+<td>1 Minute</td>
+</tr>
+
+<tr>
+<td>Sit-Ups</td>
+<td>10</td>
+<td>1 Minute</td>
+</tr>
+
+<tr>
+<td>Squats</td>
+<td>20</td>
+<td>1 Minute</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Medical Standards
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Requirement</th>
+</tr>
+
+<tr>
+<td>Minimum Height</td>
+<td>152 cm</td>
+</tr>
+
+<tr>
+<td>Chest</td>
+<td>77 cm Minimum</td>
+</tr>
+
+<tr>
+<td>Chest Expansion</td>
+<td>5 cm</td>
+</tr>
+
+<tr>
+<td>Hearing</td>
+<td>Normal</td>
+</tr>
+
+<tr>
+<td>Vision</td>
+<td>6/36 Correctable to 6/6</td>
+</tr>
+
+<tr>
+<td>Colour Vision</td>
+<td>CP-II</td>
+</tr>
+
+<tr>
+<td>Dental Points</td>
+<td>Minimum 14</td>
+</tr>
+
+<tr>
+<td>Weight</td>
+<td>Proportionate to Height & Age</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage-1</td>
+<td>Online Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage-2</td>
+<td>Physical Fitness Test (PFT)</td>
+</tr>
+
+<tr>
+<td>Stage-3</td>
+<td>Adaptability Test-I</td>
+</tr>
+
+<tr>
+<td>Stage-4</td>
+<td>Adaptability Test-II</td>
+</tr>
+
+<tr>
+<td>Stage-5</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage-6</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage-7</td>
+<td>Enrolment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official recruitment portal.</li>
+
+<li>Click on "Airmen Group Y Medical Assistant Intake 02/2027".</li>
+
+<li>Complete New Registration using Mobile Number and Email ID.</li>
+
+<li>Verify both OTPs received on Mobile Number and Email ID.</li>
+
+<li>Login using User ID and Password.</li>
+
+<li>Fill Personal Details, Communication Details and Qualification Details carefully.</li>
+
+<li>Upload required documents: Passport Size Photograph, Candidate Signature, Parent/Guardian Signature
+(if applicable), Left Thumb Impression and Live Photograph Capture.</li>
+
+<li>Preview the Application Form and verify all details.</li>
+
+<li>Pay the Application Fee through Online Mode.</li>
+
+<li>Submit the Application Form.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Download Notification</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+iafrecruitment.edcil.co.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When will applications start for IAF Medical Assistant Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>06 July 2026</strong> and interested candidates can apply until
+<strong>26 July 2026</strong>.
+</p>
+
+<h3>2. What is the last date for IAF Medical Assistant Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply online is <strong>26 July 2026</strong>. Candidates are advised not to wait until the
+last minute.
+</p>
+
+<h3>3. What is the eligibility for Air Force Medical Assistant Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must have a minimum of <strong>50% marks</strong> in 12th (Physics, Chemistry, Biology & English).
+Candidates with Diploma in Pharmacy, B.Pharm or B.Sc Pharmacy can also apply.
+</p>
+
+<h3>4. What is the salary for IAF Medical Assistant?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+During training, candidates get a stipend of <strong>₹14,600 per month</strong>. After training, the starting
+salary is approximately <strong>₹26,900 per month</strong>, plus DA, HRA, Transport Allowance and other
+government allowances.
+</p>
+
+<h3>5. What is the physical test for IAF Medical Assistant?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must complete a <strong>1.6 km run</strong> within the prescribed time, along with
+<strong>10 Push-Ups, 10 Sit-Ups and 20 Squats</strong> within the time limit.
+</p>
+
+<h3>6. What is the exam pattern for Air Force Medical Assistant Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The exam is conducted in <strong>online mode</strong>, covering English, Reasoning and General Awareness. The
+exam duration is <strong>45 minutes</strong> with a negative marking of <strong>0.25 marks</strong> for each
+wrong answer.
+</p>
+
+<h3>7. What is the selection process for Air Force Medical Assistant Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes an <strong>Online Examination, Physical Fitness Test, Adaptability Test-I, Adaptability
+Test-II, Medical Examination</strong> and Final Merit List.
+</p>
+
+<h3>8. What is the height requirement for Air Force Medical Assistant Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The minimum height required is <strong>152 cm</strong>. Candidates' weight must also be proportionate to their
+height and age.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IAF Medical Assistant Bharti 2026</strong> is a great career opportunity for candidates with a
+science or pharmacy background to join the Indian Air Force. Interested candidates should complete their
+registration and submit the application well before <strong>26 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for IAF Medical Assistant Bharti 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>26 July 2026</strong>.
+</p>
+
+<a href="https://iafrecruitment.edcil.co.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=agniveervayu-intake-02-2027-recruitment-2026">Agniveervayu Intake 02/2027 Notification</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-bhubaneswar-senior-resident-recruitment-2026">AIIMS Bhubaneswar Senior Resident Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=territorial-army-130-inf-bn-rally-2026">Territorial Army 130 Inf Bn Rally 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Air Force notification before applying.</p>
+`;
+
+JOB_CONTENT["nhidcl-associate-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+NHIDCL Associate Vacancy 2026 – Apply Online for 100 Associate Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🛣️ NHIDCL Associate Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 05 August 2026</strong>
+</p>
+
+<a href="https://www.nhidcl.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>National Highways and Infrastructure Development Corporation Limited (NHIDCL)</strong> has released
+the official notification for <strong>100 Associate</strong> posts under the State Specific Graduate Scheme
+(SSGS). Applications will be accepted only through the <strong>NHIDCL Resource Pool Portal</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online registration started on <strong>08 July 2026 at 10:00 AM</strong> and will continue until
+<strong>05 August 2026 at 5:00 PM</strong>. Candidates with a B.E./B.Tech in Civil Engineering can apply.
+Selected candidates will receive a monthly consultancy fee of <strong>₹70,000 to ₹80,000</strong>, with a
+<strong>5% annual increment</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NHIDCL Associate Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>National Highways and Infrastructure Development Corporation Limited (NHIDCL)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Associate (State Specific Graduate Scheme – SSGS)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>100</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>05 August 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>30 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>B.E./B.Tech in Civil Engineering</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹70,000 – ₹80,000 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.nhidcl.com</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>05 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+No application fee has been mentioned in the official notification for any category of candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be within the maximum age of <strong>30 years</strong>. The required qualification is
+<strong>B.E./B.Tech in Civil Engineering</strong> or an equivalent degree from IITs, NITs or Top 100 NIRF
+Engineering Institutions.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+State/UT-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>State / UT</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Assam</td><td>10</td></tr>
+<tr><td>Arunachal Pradesh</td><td>10</td></tr>
+<tr><td>Jammu (J&K)</td><td>5</td></tr>
+<tr><td>Srinagar (J&K)</td><td>5</td></tr>
+<tr><td>Manipur</td><td>10</td></tr>
+<tr><td>Meghalaya</td><td>10</td></tr>
+<tr><td>Mizoram</td><td>8</td></tr>
+<tr><td>Nagaland</td><td>5</td></tr>
+<tr><td>Sikkim</td><td>5</td></tr>
+<tr><td>Tripura</td><td>10</td></tr>
+<tr><td>Uttarakhand</td><td>5</td></tr>
+<tr><td>Ladakh</td><td>2</td></tr>
+<tr><td>West Bengal</td><td>8</td></tr>
+<tr><td>Andaman & Nicobar Islands</td><td>7</td></tr>
+
+<tr>
+<th>Total (All States/UTs)</th>
+<th>100</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+<th>Experience</th>
+</tr>
+
+<tr>
+<td>Associate</td>
+<td>B.E./B.Tech in Civil Engineering or Equivalent from IITs, NITs, or Top 100 NIRF Engineering
+Institutions</td>
+<td>0–2 Years</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Monthly Salary</th>
+</tr>
+
+<tr>
+<td>Associate</td>
+<td>₹70,000 – ₹80,000 per Month</td>
+</tr>
+
+<tr>
+<td>Annual Increment</td>
+<td>5% Every Year</td>
+</tr>
+
+<tr>
+<td>Andaman & Nicobar Posting</td>
+<td>Additional 20% Location Allowance</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Screening</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Written Examination (Only if Applications Exceed Three Times the Vacancies)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Personal Interview</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Medical Fitness Examination</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Final Merit List & Appointment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the NHIDCL Resource Pool Portal through the official website.</li>
+
+<li>Click on "Register" and create your account using a valid Email ID and Mobile Number.</li>
+
+<li>Complete your profile with personal, educational and domicile details.</li>
+
+<li>Select Associate (State Specific Graduate Scheme – SSGS).</li>
+
+<li>Upload the required documents, photograph and signature.</li>
+
+<li>Verify all entered details carefully.</li>
+
+<li>Submit the application before 05 August 2026 (05:00 PM).</li>
+
+<li>Download and print the final submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.nhidcl.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.nhidcl.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.nhidcl.com" target="_blank">
+nhidcl.com
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in NHIDCL Associate Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>100 Associate posts</strong> will be filled under this recruitment.
+</p>
+
+<h3>2. When will applications start for NHIDCL Associate Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start on <strong>08 July 2026</strong> at 10:00 AM.
+</p>
+
+<h3>3. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply is <strong>05 August 2026</strong> at 5:00 PM.
+</p>
+
+<h3>4. What is the maximum age limit for NHIDCL Associate Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must not exceed the maximum age of <strong>30 years</strong>.
+</p>
+
+<h3>5. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold a <strong>B.E./B.Tech in Civil Engineering</strong> or an equivalent degree from eligible
+institutions such as IITs, NITs or Top 100 NIRF-ranked institutions.
+</p>
+
+<h3>6. What will be the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on <strong>Application Screening, Written Examination</strong> (if required),
+<strong>Personal Interview, Document Verification</strong> and <strong>Medical Fitness Examination</strong>.
+</p>
+
+<h3>7. How much salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a consultancy fee of <strong>₹70,000 to ₹80,000</strong> per month, with a
+<strong>5% annual increment</strong> and an additional 20% location allowance for Andaman & Nicobar postings.
+</p>
+
+<h3>8. Is there any application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No application fee has been mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>NHIDCL Associate Vacancy 2026</strong> offers young civil engineering graduates a chance to work on
+national highway infrastructure projects across strategically important states and union territories, with an
+attractive consultancy fee. Interested candidates should register on the NHIDCL Resource Pool Portal and submit
+the application well before <strong>05 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for NHIDCL Associate Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>05 August 2026</strong>.
+</p>
+
+<a href="https://www.nhidcl.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=ihmcl-systems-engineer-recruitment-2026">IHMCL Systems Engineer Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=svpuat-teaching-recruitment-2026">SVPUAT Teaching Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rcfl-various-posts-2026">RCFL Various Posts Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NHIDCL notification before applying.</p>
+`;
+
+JOB_CONTENT["aiims-bhubaneswar-senior-resident-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+AIIMS Bhubaneswar Senior Resident Vacancy 2026 – Apply Online for 83 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏥 AIIMS Bhubaneswar Senior Resident Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 22 July 2026</strong>
+</p>
+
+<a href="https://aiimsbhubaneswar.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>All India Institute of Medical Sciences (AIIMS), Bhubaneswar</strong> has invited online applications
+for <strong>Senior Resident (Non-Academic) Recruitment 2026</strong>, offering a total of
+<strong>83 posts</strong> across <strong>34 medical departments</strong> for a tenure of three years.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>08 July 2026</strong> and will close on
+<strong>22 July 2026</strong>. Candidates holding MD, MS, DNB, DM, MCh, MDS or an equivalent qualification in
+the relevant department can apply. Selected candidates will get Level-11 pay of
+<strong>₹67,700 per month</strong> as per the 7th Pay Commission, along with Non-Practising Allowance and other
+admissible allowances.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+AIIMS Bhubaneswar Senior Resident Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>All India Institute of Medical Sciences (AIIMS), Bhubaneswar</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Senior Resident (Non-Academic)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>83</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>22 July 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>45 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹67,700 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>aiimsbhubaneswar.nic.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>22 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General/OBC</td>
+<td>₹1,770</td>
+</tr>
+
+<tr>
+<td>SC/ST/EWS</td>
+<td>₹1,416</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>Exempted</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit for this recruitment is <strong>45 years</strong>. SC/ST, OBC and PwBD candidates will get
+age relaxation as per Central Government rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Department-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Department</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Anaesthesiology</td><td>2</td></tr>
+<tr><td>Anatomy</td><td>2</td></tr>
+<tr><td>Biochemistry</td><td>3</td></tr>
+<tr><td>Cardiology</td><td>1</td></tr>
+<tr><td>Conservative Dentistry & Endodontics</td><td>1</td></tr>
+<tr><td>Dermatology</td><td>2</td></tr>
+<tr><td>Endocrinology</td><td>1</td></tr>
+<tr><td>ENT</td><td>3</td></tr>
+<tr><td>Forensic Medicine & Toxicology (FMT)</td><td>5</td></tr>
+<tr><td>General Medicine</td><td>10</td></tr>
+<tr><td>General Surgery</td><td>10</td></tr>
+<tr><td>Hospital Administration</td><td>3</td></tr>
+<tr><td>Microbiology</td><td>1</td></tr>
+<tr><td>Neonatology</td><td>1</td></tr>
+<tr><td>Neurology</td><td>1</td></tr>
+<tr><td>Obstetrics & Gynaecology</td><td>3</td></tr>
+<tr><td>Ophthalmology</td><td>2</td></tr>
+<tr><td>Orthopaedics</td><td>2</td></tr>
+<tr><td>Paediatric Surgery</td><td>2</td></tr>
+<tr><td>Paediatrics</td><td>2</td></tr>
+<tr><td>Pharmacology</td><td>1</td></tr>
+<tr><td>Physical Medicine & Rehabilitation</td><td>1</td></tr>
+<tr><td>Physiology</td><td>2</td></tr>
+<tr><td>Psychiatry</td><td>1</td></tr>
+<tr><td>Radiation Oncology</td><td>2</td></tr>
+<tr><td>Radiodiagnosis</td><td>3</td></tr>
+<tr><td>Surgical Gastroenterology</td><td>2</td></tr>
+<tr><td>Surgical Oncology</td><td>2</td></tr>
+<tr><td>Transfusion Medicine</td><td>3</td></tr>
+<tr><td>Trauma & Emergency (Anaesthesiology)</td><td>2</td></tr>
+<tr><td>Trauma & Emergency (Emergency Medicine)</td><td>2</td></tr>
+<tr><td>Trauma & Emergency (Orthopaedics)</td><td>1</td></tr>
+<tr><td>Burn Centre (Anaesthesiology)</td><td>2</td></tr>
+<tr><td>Burn & Plastic Surgery</td><td>1</td></tr>
+<tr><td>Gastroenterology</td><td>1</td></tr>
+
+<tr>
+<th>Total Posts</th>
+<th>83</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Department / Post</th>
+<th>Essential Qualification</th>
+</tr>
+
+<tr><td>Anaesthesiology</td><td>MD/DNB in Anaesthesiology</td></tr>
+<tr><td>Anatomy</td><td>MD/DNB in Anatomy</td></tr>
+<tr><td>Biochemistry</td><td>MD/DNB in Biochemistry</td></tr>
+<tr><td>Cardiology</td><td>MD/DNB (General Medicine/Paediatrics) or DM/DNB Cardiology</td></tr>
+<tr><td>Conservative Dentistry</td><td>MDS in Conservative Dentistry & Endodontics</td></tr>
+<tr><td>Dermatology</td><td>MD/DNB in Dermatology</td></tr>
+<tr><td>Endocrinology</td><td>MD/DNB (General Medicine) or DM/DNB Endocrinology</td></tr>
+<tr><td>ENT</td><td>MS/DNB in ENT</td></tr>
+<tr><td>FMT</td><td>MD/DNB in Forensic Medicine</td></tr>
+<tr><td>General Medicine</td><td>MD/DNB in General Medicine</td></tr>
+<tr><td>General Surgery</td><td>MS/DNB in General Surgery</td></tr>
+<tr><td>Hospital Administration</td><td>MD/DNB in Hospital Administration</td></tr>
+<tr><td>Microbiology</td><td>MD/DNB in Microbiology</td></tr>
+<tr><td>Neonatology</td><td>MD/DNB Paediatrics or DM/DNB Neonatology</td></tr>
+<tr><td>Neurology</td><td>MD/DNB General Medicine or DM/DNB Neurology</td></tr>
+<tr><td>Obstetrics & Gynaecology</td><td>MS/MD/DNB in OBG</td></tr>
+<tr><td>Ophthalmology</td><td>MD/MS/DNB in Ophthalmology</td></tr>
+<tr><td>Orthopaedics</td><td>MS/DNB in Orthopaedics</td></tr>
+<tr><td>Paediatric Surgery</td><td>MS/DNB General Surgery or MCh/DNB Paediatric Surgery</td></tr>
+<tr><td>Paediatrics</td><td>MD/DNB in Paediatrics</td></tr>
+<tr><td>Pharmacology</td><td>MD/DNB in Pharmacology</td></tr>
+<tr><td>PMR</td><td>MD/DNB in Physical Medicine & Rehabilitation</td></tr>
+<tr><td>Physiology</td><td>MD/DNB in Physiology</td></tr>
+<tr><td>Psychiatry</td><td>MD/DNB in Psychiatry</td></tr>
+<tr><td>Radiation Oncology</td><td>MD/DNB in Radiation Oncology</td></tr>
+<tr><td>Radiodiagnosis</td><td>MD/DNB in Radiodiagnosis</td></tr>
+<tr><td>Surgical Gastroenterology</td><td>MS/DNB General Surgery</td></tr>
+<tr><td>Surgical Oncology</td><td>MS/DNB General Surgery or MCh/DNB Surgical Oncology</td></tr>
+<tr><td>Transfusion Medicine</td><td>MD/DNB in Transfusion Medicine/Pathology</td></tr>
+<tr><td>Trauma & Emergency</td><td>Relevant MD/MS/DNB Qualification</td></tr>
+<tr><td>Burn & Plastic Surgery</td><td>MS/DNB General Surgery or MCh/DNB Burn & Plastic Surgery</td></tr>
+<tr><td>Gastroenterology</td><td>MD/DNB General Medicine or DM/DNB Gastroenterology</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Component</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Level-11 (7th CPC)</td>
+</tr>
+
+<tr>
+<td>Basic Pay</td>
+<td>₹67,700 Per Month</td>
+</tr>
+
+<tr>
+<td>Non-Practising Allowance (NPA)</td>
+<td>Applicable</td>
+</tr>
+
+<tr>
+<td>Other Allowances</td>
+<td>As Per AIIMS/Government Rules</td>
+</tr>
+
+<tr>
+<td>Job Type</td>
+<td>Tenure (3 Years)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Screening</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Written Examination (Only if Applications Exceed Three Times the Vacancies)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Personal Interview</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Medical Fitness Examination</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Final Merit List & Appointment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official AIIMS Bhubaneswar website.</li>
+
+<li>Open the Recruitment > Recruitment Notice > Online Recruitment section.</li>
+
+<li>Register using your valid email ID and mobile number.</li>
+
+<li>Fill in the online application form carefully with personal, educational and category details.</li>
+
+<li>Select the desired department/post (Maximum 3 departments can be applied for separately).</li>
+
+<li>Upload scanned copies of the required documents in the prescribed format.</li>
+
+<li>Pay the application fee through Debit Card, Credit Card or Net Banking.</li>
+
+<li>Verify all entered details before final submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the submitted application form and payment receipt for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://aiimsbhubaneswar.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://aiimsbhubaneswar.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://aiimsbhubaneswar.nic.in" target="_blank">
+aiimsbhubaneswar.nic.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in AIIMS Bhubaneswar Senior Resident Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+AIIMS Bhubaneswar has released a total of <strong>83 posts</strong> for Senior Resident (Non-Academic) across
+34 different medical departments.
+</p>
+
+<h3>2. When will applications start for AIIMS Bhubaneswar Senior Resident Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start on <strong>08 July 2026</strong>, with the last date for submission being
+<strong>22 July 2026</strong>.
+</p>
+
+<h3>3. What is the maximum age limit for AIIMS Bhubaneswar Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit is <strong>45 years</strong>. SC/ST, OBC and PwBD candidates will get age relaxation as
+per Central Government rules.
+</p>
+
+<h3>4. What is the educational qualification for AIIMS Bhubaneswar Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold <strong>MD, MS, DNB, DM, MCh, MDS</strong> or an equivalent recognized medical degree as
+per the relevant department.
+</p>
+
+<h3>5. How will selection be made for AIIMS Bhubaneswar Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will include a written examination (if required), followed by a <strong>Personal Interview,
+Document Verification</strong> and <strong>Medical Fitness</strong> checks.
+</p>
+
+<h3>6. What is the salary for AIIMS Bhubaneswar Senior Resident Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>Level-11 (7th CPC) Basic Pay of ₹67,700 per month</strong>, along with NPA
+and other government allowances.
+</p>
+
+<h3>7. What is the application fee for AIIMS Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹1,770</strong> for General/OBC candidates, <strong>₹1,416</strong> for SC/ST/EWS candidates,
+and it is fully <strong>exempted for PwBD</strong> candidates.
+</p>
+
+<h3>8. How can candidates apply for AIIMS Bhubaneswar Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must register on the official AIIMS Bhubaneswar website, fill in the online application form,
+upload the required documents, pay the fee, and submit the form, keeping a copy of the printed application.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>AIIMS Bhubaneswar Senior Resident Vacancy 2026</strong> is a valuable opportunity for medical
+professionals to gain tenure-based experience at a premier government medical institution across a wide range of
+specialities. Interested candidates should complete their online registration and submit the application well
+before <strong>22 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for AIIMS Bhubaneswar Senior Resident Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>22 July 2026</strong>.
+</p>
+
+<a href="https://aiimsbhubaneswar.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=esic-professor-2026">ESIC Professor Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iaf-medical-assistant-recruitment-2026">IAF Medical Assistant Bharti 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=svpuat-teaching-recruitment-2026">SVPUAT Teaching Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AIIMS Bhubaneswar notification before applying.</p>
+`;
+
+JOB_CONTENT["svpuat-teaching-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+SVPUAT Teaching Vacancy 2026 – Apply Online for 126 Assistant Professor, Associate Professor & Professor Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🎓 SVPUAT Teaching Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>03 July 2026 to 03 August 2026</strong>
+</p>
+
+<a href="https://www.svpuat.edu.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT)</strong>, Meerut has invited
+online applications for <strong>Teaching Recruitment 2026</strong>, offering a total of
+<strong>126 posts</strong> including Assistant Professor, Associate Professor and Professor across a wide range
+of agriculture and veterinary science disciplines.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>03 July 2026</strong> and will continue until
+<strong>03 August 2026</strong>. The maximum age limit for Assistant Professor is
+<strong>40 years</strong>, while there is no upper age limit for Associate Professor and Professor posts.
+Selected candidates will get a monthly salary of <strong>₹57,700 to ₹1,44,200</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+SVPUAT Teaching Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Assistant Professor, Associate Professor & Professor</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>126</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>03 August 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>40 Years (Assistant Professor Only)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹57,700 – ₹1,44,200 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.svpuat.edu.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>03 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹1,500</td>
+</tr>
+
+<tr>
+<td>SC / ST / PwD</td>
+<td>₹750</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit for the <strong>Assistant Professor</strong> post is <strong>40 years</strong>. No maximum
+age limit has been prescribed for <strong>Associate Professor</strong> and <strong>Professor</strong> posts.
+Candidates need a <strong>Master's Degree, Ph.D.</strong> in the relevant discipline.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Assistant Professor</td><td>65</td></tr>
+<tr><td>Associate Professor</td><td>24</td></tr>
+<tr><td>Professor</td><td>13</td></tr>
+<tr><td>Veterinary Biochemistry & Physiology (Assistant Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Anatomy (Associate Professor)</td><td>1</td></tr>
+<tr><td>Livestock Products Technology (Associate Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Gynaecology & Obstetrics (Associate Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Medicine (Associate Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Parasitology (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Public Health & Epidemiology (Professor)</td><td>1</td></tr>
+<tr><td>Animal Nutrition (Professor)</td><td>1</td></tr>
+<tr><td>Livestock Products Technology (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Animal Husbandry & Extension Education (Professor)</td><td>1</td></tr>
+<tr><td>Post Harvest Technology (Professor)</td><td>1</td></tr>
+<tr><td>Floriculture & Landscaping Architecture (Professor)</td><td>1</td></tr>
+<tr><td>Dairy Technology (Professor)</td><td>1</td></tr>
+<tr><td>Plant Biotechnology (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Pathology (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Physiology & Biochemistry (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Surgery & Radiology (Professor)</td><td>1</td></tr>
+<tr><td>Veterinary Clinical Complex (Professor)</td><td>1</td></tr>
+<tr><td>Livestock Farm Complex (Professor)</td><td>1</td></tr>
+<tr><td>Natural Resource Management (Associate Professor)</td><td>1</td></tr>
+<tr><td>Food Safety & Quality Assurance (Associate Professor)</td><td>1</td></tr>
+<tr><td>Dairy Chemistry (Associate Professor)</td><td>1</td></tr>
+<tr><td>Civil Engineering (Associate Professor)</td><td>1</td></tr>
+<tr><td>Agricultural Economics & Management (Associate Professor)</td><td>1</td></tr>
+
+<tr>
+<th>Total Posts</th>
+<th>126</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Assistant Professor</td>
+<td>Master's Degree in the relevant discipline with NET/SLET/SET or Ph.D. as per UGC Regulations. Veterinary
+posts require a recognized Veterinary Degree and VCI/State Veterinary Council Registration.</td>
+</tr>
+
+<tr>
+<td>Associate Professor</td>
+<td>Ph.D. in the relevant discipline, Master's Degree with at least 55% marks, minimum 8 years of
+teaching/research experience, and required research publications as per UGC/ICAR norms.</td>
+</tr>
+
+<tr>
+<td>Professor</td>
+<td>Ph.D. in the relevant discipline, Master's Degree, minimum 10 years of teaching/research experience, at
+least 10 research publications, and API/Research Score as prescribed.</td>
+</tr>
+
+<tr>
+<td>Veterinary Professor Posts</td>
+<td>Recognized Veterinary Qualification, VCI Registration, Ph.D., 10 years of experience, and required
+research publications.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Academic Level</th>
+<th>Entry Pay</th>
+</tr>
+
+<tr>
+<td>Assistant Professor</td>
+<td>Level-10</td>
+<td>₹57,700/-</td>
+</tr>
+
+<tr>
+<td>Associate Professor</td>
+<td>Level-13A</td>
+<td>₹1,31,400/-</td>
+</tr>
+
+<tr>
+<td>Professor</td>
+<td>Level-14</td>
+<td>₹1,44,200/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Process</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Submission</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Application Screening</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Shortlisting of Eligible Candidates</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Interview</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 7</td>
+<td>Appointment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official SVPUAT website.</li>
+
+<li>Open the Recruitment section and select Teaching Recruitment 2026.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Fill in the online application form carefully with personal, educational and experience details.</li>
+
+<li>Upload scanned copies of the required documents, photograph and signature.</li>
+
+<li>Pay the application fee through the online payment gateway.</li>
+
+<li>Review all the entered details before final submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the application form and fee receipt for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.svpuat.edu.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.svpuat.edu.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.svpuat.edu.in" target="_blank">
+svpuat.edu.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>126 posts</strong> will be filled, including Assistant Professor, Associate Professor and
+Professor across various subjects.
+</p>
+
+<h3>2. When did applications start for SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>03 July 2026</strong> and candidates can apply until
+<strong>03 August 2026</strong>.
+</p>
+
+<h3>3. What is the last date to apply for SVPUAT Teaching Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply online is <strong>03 August 2026</strong>.
+</p>
+
+<h3>4. What is the educational qualification required for SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates need a <strong>Master's Degree, NET/SLET/SET or Ph.D.</strong> in the relevant subject. Associate
+Professor and Professor posts also require prescribed teaching experience, research work and publications.
+</p>
+
+<h3>5. What is the age limit for SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit for Assistant Professor is <strong>40 years</strong>, while there is no maximum age limit
+for Associate Professor and Professor posts. Reserved categories will get age relaxation as per rules.
+</p>
+
+<h3>6. What is the application fee for SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹1,500</strong> for General/OBC/EWS candidates and <strong>₹750</strong> for
+SC/ST/PwD candidates.
+</p>
+
+<h3>7. What is the selection process for SVPUAT Teaching Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes <strong>Online Application, Application Screening, Shortlisting, Interview, Document
+Verification</strong> and appointment based on the Final Merit List.
+</p>
+
+<h3>8. What salary will selected candidates get in SVPUAT Teaching Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Assistant Professor will get <strong>₹57,700</strong>, Associate Professor <strong>₹1,31,400</strong> and
+Professor <strong>₹1,44,200</strong> as starting salary, as per the applicable Academic Pay Level.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>SVPUAT Teaching Vacancy 2026</strong> offers a wide range of academic opportunities for qualified
+candidates in agriculture, veterinary science and allied disciplines. Interested candidates should prepare their
+qualification and experience documents and submit the online application well before
+<strong>03 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for SVPUAT Teaching Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>03 August 2026</strong>.
+</p>
+
+<a href="https://www.svpuat.edu.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=svpuat-non-teaching-recruitment-2026">SVPUAT Non-Teaching Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-cre-5-recruitment-2026">AIIMS CRE 5 Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhidcl-associate-recruitment-2026">NHIDCL Associate Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official SVPUAT notification before applying.</p>
+`;
+
+JOB_CONTENT["bsa-aligarh-kgbv-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+BSA Aligarh KGBV Vacancy 2026 – Apply Offline for 122 Contract Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 BSA Aligarh KGBV Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>20 July 2026</strong>
+</p>
+
+<a href="https://aligarh.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Office of the District Basic Education Officer (BSA), Aligarh</strong> has released the official
+notification for <strong>KGBV Bharti 2026</strong>, inviting applications for
+<strong>122 contract posts</strong> across <strong>9 upgraded Kasturba Gandhi Balika Vidyalayas</strong>.
+Vacancies include Principal, PGT, Computer Science Teacher, Lab Assistant, Office Superintendent/Clerk,
+Caretaker, Peon, Watchman and Cook.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Only <strong>female candidates</strong> are eligible to apply for this recruitment. The application process is
+<strong>offline</strong>, and eligible candidates must send their application via <strong>Speed Post or
+Registered Post</strong> before <strong>20 July 2026</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+BSA Aligarh KGBV Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Office of the District Basic Education Officer (BSA), Aligarh</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Principal, PGT, Computer Science Teacher, Lab Assistant, Clerk, Caretaker, Peon, Watchman, Cook</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>122</td>
+</tr>
+
+<tr>
+<th>Eligible Candidates</th>
+<td>Female Candidates Only</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Offline (Speed Post/Registered Post)</td>
+</tr>
+
+<tr>
+<th>Notification Released</th>
+<td>03 July 2026</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>05 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>25 to 45 Years</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>No Fee Mentioned</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>aligarh.nic.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>25 and 45 years</strong> of age. Educational qualification requirements vary
+by post, ranging from <strong>Class 8 Pass to Postgraduate Degree</strong>. Only
+<strong>female candidates</strong> are eligible to apply for any of the 122 posts.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Principal</td><td>6</td></tr>
+<tr><td>PGT Hindi</td><td>6</td></tr>
+<tr><td>PGT English</td><td>7</td></tr>
+<tr><td>PGT Mathematics</td><td>7</td></tr>
+<tr><td>PGT Biology</td><td>6</td></tr>
+<tr><td>PGT Chemistry</td><td>6</td></tr>
+<tr><td>PGT Physics</td><td>7</td></tr>
+<tr><td>Computer Science Teacher</td><td>6</td></tr>
+<tr><td>Lab Assistant</td><td>20</td></tr>
+<tr><td>Office Superintendent/Clerk</td><td>7</td></tr>
+<tr><td>Caretaker</td><td>7</td></tr>
+<tr><td>Peon</td><td>6</td></tr>
+<tr><td>Watchman</td><td>6</td></tr>
+<tr><td>Cook</td><td>24</td></tr>
+
+<tr>
+<th>Total</th>
+<th>122</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Principal</td>
+<td>Postgraduate (MA/MSc) with B.Ed./Training and minimum 4 years teaching/administrative experience as per
+notification</td>
+</tr>
+
+<tr>
+<td>PGT Hindi</td>
+<td>MA Hindi with required subject combination and B.Ed.</td>
+</tr>
+
+<tr>
+<td>PGT English</td>
+<td>Postgraduate Degree in English with B.Ed./Teaching Qualification</td>
+</tr>
+
+<tr>
+<td>PGT Mathematics</td>
+<td>M.Sc./MA Mathematics with B.Ed.</td>
+</tr>
+
+<tr>
+<td>PGT Biology</td>
+<td>M.Sc. Botany/Zoology/Life Science or equivalent</td>
+</tr>
+
+<tr>
+<td>PGT Chemistry</td>
+<td>M.Sc. Chemistry or equivalent</td>
+</tr>
+
+<tr>
+<td>PGT Physics</td>
+<td>M.Sc. Physics or equivalent</td>
+</tr>
+
+<tr>
+<td>Computer Science Teacher</td>
+<td>BE/B.Tech (CS), MCA, M.Sc. CS, DOEACC 'B' Level or equivalent</td>
+</tr>
+
+<tr>
+<td>Lab Assistant</td>
+<td>High School with Science + Laboratory Diploma / Intermediate (Science)</td>
+</tr>
+
+<tr>
+<td>Office Superintendent/Clerk</td>
+<td>Intermediate + CCC/Computer Qualification + Hindi & English Typing</td>
+</tr>
+
+<tr>
+<td>Caretaker</td>
+<td>Graduate with B.Ed.</td>
+</tr>
+
+<tr>
+<td>Peon</td>
+<td>Class 8 Pass</td>
+</tr>
+
+<tr>
+<td>Watchman</td>
+<td>Class 8 Pass</td>
+</tr>
+
+<tr>
+<td>Cook</td>
+<td>Class 8 Pass</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Monthly Salary/Honorarium</th>
+</tr>
+
+<tr>
+<td>Principal</td>
+<td>₹30,000</td>
+</tr>
+
+<tr>
+<td>Caretaker</td>
+<td>₹24,200</td>
+</tr>
+
+<tr>
+<td>PGT (All Subjects)</td>
+<td>₹22,000</td>
+</tr>
+
+<tr>
+<td>Office Superintendent/Clerk</td>
+<td>₹12,430</td>
+</tr>
+
+<tr>
+<td>Lab Assistant</td>
+<td>₹7,147</td>
+</tr>
+
+<tr>
+<td>Peon</td>
+<td>₹7,505</td>
+</tr>
+
+<tr>
+<td>Watchman</td>
+<td>₹7,505</td>
+</tr>
+
+<tr>
+<td>Cook</td>
+<td>₹6,755</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Merit Based Shortlisting (Teaching & Administrative Posts)</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Interview (Cook, Peon, Watchman and other support staff as applicable)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Appointment on Contract Basis</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply (Offline)
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible female candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website and download the application form.</li>
+
+<li>Read the official notification carefully before filling out the form.</li>
+
+<li>Fill in all required personal, educational and communication details.</li>
+
+<li>Attach self-attested copies of all required certificates.</li>
+
+<li>Paste recent passport-size photographs.</li>
+
+<li>Write the post name and reservation category clearly on the envelope.</li>
+
+<li>If applying for multiple posts, submit separate application forms for each post.</li>
+
+<li>Send the application only through Speed Post or Registered Post.</li>
+
+<li>Ensure the application reaches the Office of the District Basic Education Officer, Aligarh on or before
+20 July 2026 (5:00 PM).</li>
+
+<li>Keep the postal receipt safely for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only female candidates are eligible to apply for this recruitment.</li>
+
+<li>Applications must be sent only through Speed Post or Registered Post; hand delivery is not accepted.</li>
+
+<li>Selection for most posts is based on merit; interview applies to support staff posts as applicable.</li>
+
+<li>No application fee is mentioned in the official notification.</li>
+
+<li>Submit separate application forms if applying for multiple posts.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Application Form</td>
+<td>
+<a href="https://aligarh.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://aligarh.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://aligarh.nic.in" target="_blank">
+aligarh.nic.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in BSA Aligarh KGBV Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>122 posts</strong> will be filled under this recruitment across 9 upgraded Kasturba Gandhi
+Balika Vidyalayas.
+</p>
+
+<h3>2. Who can apply for BSA Aligarh KGBV Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Only <strong>female candidates</strong> who meet the prescribed educational qualification and age criteria can
+apply.
+</p>
+
+<h3>3. What is the last date to apply for BSA Aligarh KGBV Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to submit the application is <strong>20 July 2026</strong> at 5:00 PM.
+</p>
+
+<h3>4. What is the mode of application?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications will be accepted only through <strong>Speed Post or Registered Post</strong>.
+</p>
+
+<h3>5. Is there any application fee for BSA Aligarh KGBV Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No application fee has been mentioned in the official notification.
+</p>
+
+<h3>6. What is the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Most posts will be selected based on <strong>merit</strong>, while certain support staff posts (Cook, Peon,
+Watchman) will also have an <strong>Interview</strong>.
+</p>
+
+<h3>7. What salary will the Principal post get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Principal post carries a monthly honorarium of <strong>₹30,000</strong>.
+</p>
+
+<h3>8. What salary will PGT posts get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+All PGT posts carry a monthly honorarium of <strong>₹22,000</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>BSA Aligarh KGBV Vacancy 2026</strong> offers a meaningful opportunity for eligible female candidates
+to join Kasturba Gandhi Balika Vidyalayas across a wide range of academic and support roles. Interested
+candidates should carefully prepare their application form and required documents, and send them via Speed Post
+or Registered Post well before the closing date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for BSA Aligarh KGBV Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Send your application before <strong>20 July 2026</strong>.
+</p>
+
+<a href="https://aligarh.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=kgbv-hamirpur-recruitment-2026">KGBV Hamirpur Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=up-gram-panchayat-sachiv-recruitment-2026">UP Gram Panchayat Sachiv Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=svpuat-teaching-recruitment-2026">SVPUAT Teaching Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BSA Aligarh notification before applying.</p>
+`;

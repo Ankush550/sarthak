@@ -1,7 +1,6 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
-    
-{
+    {
     id:"iob-apprentice-recruitment-2026",
     orgWebsite:"https://www.iob.bank.in",
     title:"Indian Overseas Bank Apprentice Vacancy 2026",
@@ -274,6 +273,378 @@ const JOBS_DATA = [
 
     examDate:"22 & 23 September 2026",
     interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"iaf-medical-assistant-recruitment-2026",
+    orgWebsite:"https://iafrecruitment.edcil.co.in",
+    title:"IAF Medical Assistant Bharti 2026",
+    shortTitle:"IAF Medical Assistant Online Form 2026",
+    organization:"Indian Air Force (IAF)",
+    image:"IAFMedicalAssistant.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-07-26T23:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:14600,
+    salaryMax:26900,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"12th (PCB) / Vocational PCB / Diploma Pharmacy / B.Pharm / B.Sc Pharmacy",
+
+    ageLimit:"18 to 23 Years",
+
+    applyLink:"https://iafrecruitment.edcil.co.in",
+    officialNotification:"https://iafrecruitment.edcil.co.in",
+
+    fee:"Rs. 550 + 18% GST (All Candidates)",
+
+    description:"Indian Air Force has released the official notification for Airmen Group 'Y' Medical Assistant Bharti 2026. Candidates with 12th (Physics, Chemistry, Biology), Diploma in Pharmacy, B.Pharm or B.Sc Pharmacy can apply online from 06 July 2026 to 26 July 2026. Selected candidates will get a training stipend of Rs. 14,600 per month, followed by a starting salary of Rs. 26,900 per month after training. Selection includes an online exam, Physical Fitness Test, Adaptability Tests and Medical Examination.",
+
+    category:"Defence Jobs",
+    jobType:"Medical Assistant",
+
+    advertisementNo:"02/2027",
+
+    applicationStartDate:"2026-07-06",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"22-23 September 2026",
+    interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"nhidcl-associate-recruitment-2026",
+    orgWebsite:"https://www.nhidcl.com",
+    title:"NHIDCL Associate Vacancy 2026",
+    shortTitle:"NHIDCL Associate Online Form 2026",
+    organization:"National Highways and Infrastructure Development Corporation Limited (NHIDCL)",
+    image:"NHIDCL.jpeg",
+
+    totalPosts:100,
+
+    lastDate:"2026-08-05",
+    lastDateDisplay:"05 August 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-08-05T17:00:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:70000,
+    salaryMax:80000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (North East, J&K, Ladakh, West Bengal, Andaman & Nicobar)",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF Institutions",
+
+    ageLimit:"Maximum 30 Years",
+
+    applyLink:"https://www.nhidcl.com",
+    officialNotification:"https://www.nhidcl.com",
+
+    fee:"Not Mentioned",
+
+    description:"National Highways and Infrastructure Development Corporation Limited (NHIDCL) has released the official notification for 100 Associate posts under the State Specific Graduate Scheme (SSGS). Online applications through the NHIDCL Resource Pool Portal will be accepted from 08 July 2026 to 05 August 2026. Candidates need a B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF institutions, with a maximum age of 30 years. Selected candidates will get a consultancy fee of Rs. 70,000 to Rs. 80,000 per month, with a 5% annual increment.",
+
+    category:"PSU Jobs",
+    jobType:"Associate (SSGS)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-05",
+
+    examDate:"Only if Applications Exceed 3x Vacancies",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {state:"Assam", totalPosts:10},
+        {state:"Arunachal Pradesh", totalPosts:10},
+        {state:"Jammu (J&K)", totalPosts:5},
+        {state:"Srinagar (J&K)", totalPosts:5},
+        {state:"Manipur", totalPosts:10},
+        {state:"Meghalaya", totalPosts:10},
+        {state:"Mizoram", totalPosts:8},
+        {state:"Nagaland", totalPosts:5},
+        {state:"Sikkim", totalPosts:5},
+        {state:"Tripura", totalPosts:10},
+        {state:"Uttarakhand", totalPosts:5},
+        {state:"Ladakh", totalPosts:2},
+        {state:"West Bengal", totalPosts:8},
+        {state:"Andaman & Nicobar Islands", totalPosts:7}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"aiims-bhubaneswar-senior-resident-recruitment-2026",
+    orgWebsite:"https://aiimsbhubaneswar.nic.in",
+    title:"AIIMS Bhubaneswar Senior Resident Vacancy 2026",
+    shortTitle:"AIIMS Bhubaneswar Senior Resident Online Form 2026",
+    organization:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar",
+    image:"AIIMSBhubaneswar.jpeg",
+
+    totalPosts:83,
+
+    lastDate:"2026-07-22",
+    lastDateDisplay:"22 July 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-07-22T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:67700,
+    salaryMax:67700,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bhubaneswar, Odisha",
+    addressLocality:"Bhubaneswar",
+    addressRegion:"Odisha",
+    addressCountry:"IN",
+
+    qualification:"MD/MS/DNB/DM/MCh/MDS or Equivalent (Post Wise, 34 Departments)",
+
+    ageLimit:"Maximum 45 Years",
+
+    applyLink:"https://aiimsbhubaneswar.nic.in",
+    officialNotification:"https://aiimsbhubaneswar.nic.in",
+
+    fee:"General/OBC: Rs. 1,770 | SC/ST/EWS: Rs. 1,416 | PwBD: Exempted",
+
+    description:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar has invited online applications for 83 Senior Resident (Non-Academic) posts across 34 medical departments for a tenure of 3 years. Online applications will be accepted from 08 July 2026 to 22 July 2026. Candidates need MD, MS, DNB, DM, MCh, MDS or an equivalent degree as per the relevant department. Selection includes a written examination (if required) followed by a personal interview. Selected candidates will get a Basic Pay of Rs. 67,700 per month under Level-11 (7th CPC), along with NPA and other allowances.",
+
+    category:"Medical Jobs",
+    jobType:"Senior Resident (Non-Academic)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-07-22",
+
+    examDate:"Only if Applications Exceed 3x Vacancies",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {department:"Anaesthesiology", totalPosts:2},
+        {department:"Anatomy", totalPosts:2},
+        {department:"Biochemistry", totalPosts:3},
+        {department:"Cardiology", totalPosts:1},
+        {department:"Conservative Dentistry & Endodontics", totalPosts:1},
+        {department:"Dermatology", totalPosts:2},
+        {department:"Endocrinology", totalPosts:1},
+        {department:"ENT", totalPosts:3},
+        {department:"Forensic Medicine & Toxicology (FMT)", totalPosts:5},
+        {department:"General Medicine", totalPosts:10},
+        {department:"General Surgery", totalPosts:10},
+        {department:"Hospital Administration", totalPosts:3},
+        {department:"Microbiology", totalPosts:1},
+        {department:"Neonatology", totalPosts:1},
+        {department:"Neurology", totalPosts:1},
+        {department:"Obstetrics & Gynaecology", totalPosts:3},
+        {department:"Ophthalmology", totalPosts:2},
+        {department:"Orthopaedics", totalPosts:2},
+        {department:"Paediatric Surgery", totalPosts:2},
+        {department:"Paediatrics", totalPosts:2},
+        {department:"Pharmacology", totalPosts:1},
+        {department:"Physical Medicine & Rehabilitation", totalPosts:1},
+        {department:"Physiology", totalPosts:2},
+        {department:"Psychiatry", totalPosts:1},
+        {department:"Radiation Oncology", totalPosts:2},
+        {department:"Radiodiagnosis", totalPosts:3},
+        {department:"Surgical Gastroenterology", totalPosts:2},
+        {department:"Surgical Oncology", totalPosts:2},
+        {department:"Transfusion Medicine", totalPosts:3},
+        {department:"Trauma & Emergency (Anaesthesiology)", totalPosts:2},
+        {department:"Trauma & Emergency (Emergency Medicine)", totalPosts:2},
+        {department:"Trauma & Emergency (Orthopaedics)", totalPosts:1},
+        {department:"Burn Centre (Anaesthesiology)", totalPosts:2},
+        {department:"Burn & Plastic Surgery", totalPosts:1},
+        {department:"Gastroenterology", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"svpuat-teaching-recruitment-2026",
+    orgWebsite:"https://www.svpuat.edu.in",
+    title:"SVPUAT Teaching Vacancy 2026",
+    shortTitle:"SVPUAT Teaching Online Form 2026",
+    organization:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT)",
+    image:"SVPUATTeaching.jpeg",
+
+    totalPosts:126,
+
+    lastDate:"2026-08-03",
+    lastDateDisplay:"03 August 2026",
+
+    datePosted:"2026-07-03",
+    validThrough:"2026-08-03T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:57700,
+    salaryMax:144200,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Meerut, Uttar Pradesh",
+    addressLocality:"Meerut",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Master's Degree / Ph.D. in the Relevant Discipline (Post Wise)",
+
+    ageLimit:"Maximum 40 Years (Assistant Professor Only)",
+
+    applyLink:"https://www.svpuat.edu.in",
+    officialNotification:"https://www.svpuat.edu.in",
+
+    fee:"General/OBC/EWS: Rs. 1,500 | SC/ST/PwD: Rs. 750",
+
+    description:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT), Meerut has invited online applications for 126 Teaching posts including Assistant Professor, Associate Professor and Professor. Online applications started on 03 July 2026 and will close on 03 August 2026. Maximum age for Assistant Professor is 40 years, while there is no upper age limit for Associate Professor and Professor posts. Selected candidates will get a salary ranging from Rs. 57,700 to Rs. 1,44,200 per month based on academic pay level.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Assistant Professor, Associate Professor, Professor",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-03",
+    applicationEndDate:"2026-08-03",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Assistant Professor", totalPosts:65},
+        {postName:"Associate Professor", totalPosts:24},
+        {postName:"Professor", totalPosts:13},
+        {postName:"Veterinary Biochemistry & Physiology (Assistant Professor)", totalPosts:1},
+        {postName:"Veterinary Anatomy (Associate Professor)", totalPosts:1},
+        {postName:"Livestock Products Technology (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Gynaecology & Obstetrics (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Medicine (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Parasitology (Professor)", totalPosts:1},
+        {postName:"Veterinary Public Health & Epidemiology (Professor)", totalPosts:1},
+        {postName:"Animal Nutrition (Professor)", totalPosts:1},
+        {postName:"Livestock Products Technology (Professor)", totalPosts:1},
+        {postName:"Veterinary Animal Husbandry & Extension Education (Professor)", totalPosts:1},
+        {postName:"Post Harvest Technology (Professor)", totalPosts:1},
+        {postName:"Floriculture & Landscaping Architecture (Professor)", totalPosts:1},
+        {postName:"Dairy Technology (Professor)", totalPosts:1},
+        {postName:"Plant Biotechnology (Professor)", totalPosts:1},
+        {postName:"Veterinary Pathology (Professor)", totalPosts:1},
+        {postName:"Veterinary Physiology & Biochemistry (Professor)", totalPosts:1},
+        {postName:"Veterinary Surgery & Radiology (Professor)", totalPosts:1},
+        {postName:"Veterinary Clinical Complex (Professor)", totalPosts:1},
+        {postName:"Livestock Farm Complex (Professor)", totalPosts:1},
+        {postName:"Natural Resource Management (Associate Professor)", totalPosts:1},
+        {postName:"Food Safety & Quality Assurance (Associate Professor)", totalPosts:1},
+        {postName:"Dairy Chemistry (Associate Professor)", totalPosts:1},
+        {postName:"Civil Engineering (Associate Professor)", totalPosts:1},
+        {postName:"Agricultural Economics & Management (Associate Professor)", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"bsa-aligarh-kgbv-recruitment-2026",
+    orgWebsite:"https://aligarh.nic.in",
+    title:"BSA Aligarh KGBV Vacancy 2026",
+    shortTitle:"BSA Aligarh KGBV Online Form 2026",
+    organization:"Office of the District Basic Education Officer (BSA), Aligarh",
+    image:"BSAAligarhKGBV.jpeg",
+
+    totalPosts:122,
+
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026",
+
+    datePosted:"2026-07-05",
+    validThrough:"2026-07-20T17:00:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:6755,
+    salaryMax:30000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Aligarh, Uttar Pradesh",
+    addressLocality:"Aligarh",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Class 8 Pass, 10th Pass, Intermediate, Graduate or Postgraduate Degree (Post Wise)",
+
+    ageLimit:"25 to 45 Years",
+
+    applyLink:"https://aligarh.nic.in",
+    officialNotification:"https://aligarh.nic.in",
+
+    fee:"No Fee Mentioned",
+
+    description:"The Office of the District Basic Education Officer (BSA), Aligarh has released the official notification for KGBV Bharti 2026, inviting applications for 122 contract posts across 9 upgraded Kasturba Gandhi Balika Vidyalayas. Vacancies include Principal, PGT, Computer Science Teacher, Lab Assistant, Office Superintendent/Clerk, Caretaker, Peon, Watchman and Cook. Only female candidates are eligible to apply. Applications are offline; candidates must send the filled form via Speed Post or Registered Post before 20 July 2026. Selected candidates will get a monthly honorarium ranging from Rs. 6,755 to Rs. 30,000 depending on the post.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Principal, PGT, Teacher, Lab Assistant, Clerk, Caretaker, Peon, Watchman, Cook",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-05",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"Not Applicable",
+    interviewDate:"Only for Cook, Peon, Watchman and Support Staff",
+
+    postDetails:[
+        {postName:"Principal", totalPosts:6},
+        {postName:"PGT Hindi", totalPosts:6},
+        {postName:"PGT English", totalPosts:7},
+        {postName:"PGT Mathematics", totalPosts:7},
+        {postName:"PGT Biology", totalPosts:6},
+        {postName:"PGT Chemistry", totalPosts:6},
+        {postName:"PGT Physics", totalPosts:7},
+        {postName:"Computer Science Teacher", totalPosts:6},
+        {postName:"Lab Assistant", totalPosts:20},
+        {postName:"Office Superintendent/Clerk", totalPosts:7},
+        {postName:"Caretaker", totalPosts:7},
+        {postName:"Peon", totalPosts:6},
+        {postName:"Watchman", totalPosts:6},
+        {postName:"Cook", totalPosts:24}
+    ],
 
     status:"open",
     isNew:true
@@ -2276,6 +2647,9 @@ isNew: true
     status:"open",
     isNew:true
 },
+
+
+
 
 
 
