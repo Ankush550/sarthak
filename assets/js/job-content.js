@@ -23389,3 +23389,1180 @@ Related Jobs
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official KGBV Hamirpur notification before applying.</p>
 `;
+JOB_CONTENT["lpsc-isro-internship-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-07">Published: 07 July 2026</time> |
+Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+LPSC/ISRO Internship 2026 – Apply Online for the October–January Batch
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🚀 LPSC/ISRO Internship 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Open Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>01 August 2026 to 31 August 2026</strong>
+</p>
+
+<a href="https://www.lpsc.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Liquid Propulsion Systems Centre (LPSC), ISRO</strong> has announced the
+<strong>LPSC/ISRO Internship 2026</strong> programme, offering engineering, science and research students a
+chance to work on real projects related to rocket engines, cryogenic technology, spacecraft propulsion and
+advanced space research. The internship is entirely <strong>offline</strong> and lasts between
+<strong>21 and 45 days</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications for the <strong>October 2026 – January 2027 batch</strong> will be accepted from
+<strong>01 August 2026</strong> to <strong>31 August 2026</strong>. Students of B.E./B.Tech, M.E./M.Tech,
+M.Sc. and Ph.D. programmes who meet the eligibility criteria can apply through the official LPSC internship
+portal.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+LPSC/ISRO Internship 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Liquid Propulsion Systems Centre (LPSC), ISRO</td>
+</tr>
+
+<tr>
+<th>Internship Name</th>
+<td>LPSC/ISRO Internship 2026</td>
+</tr>
+
+<tr>
+<th>Eligibility</th>
+<td>B.E./B.Tech, M.E./M.Tech, M.Sc., Ph.D. Students</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>31 August 2026</td>
+</tr>
+
+<tr>
+<th>Internship Duration</th>
+<td>21–45 Days</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.lpsc.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Available</td>
+<td>Released</td>
+</tr>
+
+<tr>
+<td>Application Start Date (October–January Batch)</td>
+<td>01 August 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply</td>
+<td>31 August 2026</td>
+</tr>
+
+<tr>
+<td>Internship Batch</td>
+<td>15 October 2026 – 15 January 2027</td>
+</tr>
+
+<tr>
+<td>Internship Duration</td>
+<td>21–45 Days</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General</td>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<td>SC/ST</td>
+<td>No Application Fee</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>No Application Fee</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no specific minimum age</strong> mentioned in the official notification. Eligibility is based
+purely on the candidate's academic programme and performance, as detailed below.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Total Seats</td>
+<td>Not Disclosed by LPSC</td>
+</tr>
+
+<tr>
+<td>Vacancy Type</td>
+<td>Internship Programme</td>
+</tr>
+
+<tr>
+<td>Selection</td>
+<td>Based on Eligibility & Availability of Seats</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Qualification Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Course</th>
+<th>Eligibility</th>
+</tr>
+
+<tr>
+<td>B.E./B.Tech</td>
+<td>Minimum 60% Marks or 6.32 CGPA, Completed Required Semester</td>
+</tr>
+
+<tr>
+<td>M.E./M.Tech</td>
+<td>Minimum 60% Marks or 6.32 CGPA</td>
+</tr>
+
+<tr>
+<td>M.Sc.</td>
+<td>Relevant Science Discipline</td>
+</tr>
+
+<tr>
+<td>Ph.D.</td>
+<td>Research Scholars in Relevant Subjects</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Submission</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Eligibility Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Academic Performance Evaluation</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Department Requirement & Seat Availability</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Final Selection & Intimation</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official LPSC/ISRO Internship Portal.</li>
+
+<li>Read the official internship guidelines and eligibility criteria carefully.</li>
+
+<li>Click on the Internship Application link.</li>
+
+<li>Fill in all required personal, academic and institute details.</li>
+
+<li>Upload the required documents in the prescribed format.</li>
+
+<li>Review all entered information carefully.</li>
+
+<li>Submit the online application before the last date.</li>
+
+<li>Download and save the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.lpsc.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Download Notification</td>
+<td>
+<a href="https://www.lpsc.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.lpsc.gov.in" target="_blank">
+lpsc.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is LPSC/ISRO Internship 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+It is a special internship programme run by the <strong>Liquid Propulsion Systems Centre (LPSC), ISRO</strong>,
+offering engineering, science and research students hands-on exposure to real space technology projects
+including rocket engines, cryogenic systems and space research.
+</p>
+
+<h3>2. Who can apply for LPSC/ISRO Internship 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Students pursuing <strong>B.E./B.Tech, M.E./M.Tech, M.Sc. or Ph.D.</strong> at a recognized institute, with a
+minimum of <strong>60% marks or 6.32 CGPA</strong> (for B.E./B.Tech and M.E./M.Tech), can apply.
+</p>
+
+<h3>3. What is the duration of LPSC/ISRO Internship 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The internship lasts between <strong>21 and 45 days</strong>, and selected students undergo offline training at
+various LPSC research centres.
+</p>
+
+<h3>4. Is any stipend provided during the internship?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. This internship does not provide any <strong>stipend or salary</strong>. However, students who successfully
+complete the internship receive an official <strong>ISRO/LPSC Internship Certificate</strong>.
+</p>
+
+<h3>5. What is the last date to apply for LPSC/ISRO Internship 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications for the October 2026 – January 2027 batch will be accepted until
+<strong>31 August 2026</strong>.
+</p>
+
+<h3>6. Is there any application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No, there is <strong>no application fee</strong> for any category of candidates.
+</p>
+
+<h3>7. Where will the internship be conducted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The internship is conducted <strong>offline</strong> at LPSC centres, with selected candidates working directly
+on space technology related projects.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>LPSC/ISRO Internship 2026</strong> is an excellent opportunity for engineering and science students
+to gain real-world exposure to India's space research programme. Eligible candidates should prepare their
+academic documents in advance and submit the online application before <strong>31 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for LPSC/ISRO Internship 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>31 August 2026</strong>.
+</p>
+
+<a href="https://www.lpsc.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=isro-istrac-recruitment-2026">ISRO ISTRAC Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=agniveervayu-intake-02-2027-recruitment-2026">Agniveervayu Intake 02/2027 Notification</a></li>
+
+<li><a href="../item-detail.html?type=job&id=drdo-acem-apprentice-recruitment-2026">DRDO ACEM Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official LPSC/ISRO notification before applying.</p>
+`;
+
+JOB_CONTENT["agniveervayu-intake-02-2027-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-07">Published: 07 July 2026</time> |
+Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Agniveervayu Intake 02/2027 Notification Out – Apply Online for Indian Air Force Recruitment
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+✈️ Agniveervayu Intake 02/2027
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>06 July 2026 to 26 July 2026</strong>
+</p>
+
+<a href="https://iafrecruitment.edcil.co.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Air Force (IAF)</strong> has released the official notification for
+<strong>Agniveervayu Intake 02/2027</strong> under the Agnipath Scheme, inviting unmarried male and female
+candidates to serve in the Indian Air Force for a period of <strong>four years</strong>. Online applications
+started on <strong>06 July 2026</strong> and will close on <strong>26 July 2026</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates with a minimum of <strong>50% marks</strong> in 10+2, a recognized Diploma or a vocational course
+can apply. The selection process includes an <strong>online examination, Physical Fitness Test, Adaptability
+Tests</strong> and a <strong>Medical Examination</strong>. Selected Agniveers will receive a starting monthly
+package of <strong>₹30,000</strong>, rising to <strong>₹40,000</strong> by the fourth year of service.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Agniveervayu Intake 02/2027 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Air Force (IAF)</td>
+</tr>
+
+<tr>
+<th>Advertisement No.</th>
+<td>Vayu 02/2027</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Agniveervayu Intake</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>26 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>17.5 to 22 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>12th Passed in Any Stream</td>
+</tr>
+
+<tr>
+<th>Starting Salary</th>
+<td>₹30,000 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>iafrecruitment.edcil.co.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>06 July 2026 (11:00 AM)</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>26 July 2026 (11:00 PM)</td>
+</tr>
+
+<tr>
+<td>Admit Card Release</td>
+<td>Before Exam</td>
+</tr>
+
+<tr>
+<td>Online Examination Date</td>
+<td>22 & 23 September 2026</td>
+</tr>
+
+<tr>
+<td>Phase-II Exam</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Provisional Select List (PSL)</td>
+<td>Last Week of May 2027</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>All Categories</td>
+<td>₹550 + 18% GST</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online (UPI, Net Banking, Debit Card, Credit Card)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>17.5 and 22 years</strong> of age. Only <strong>unmarried</strong> male and
+female candidates are eligible to apply for this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Total Posts</th>
+</tr>
+
+<tr>
+<td>Agniveervayu (Science Subjects)</td>
+<td>Not Announced</td>
+</tr>
+
+<tr>
+<td>Agniveervayu (Other Than Science Subjects)</td>
+<td>Not Announced</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+The Indian Air Force has not specified the exact number of vacancies for Agniveervayu Intake 02/2027. Vacancies
+will be announced based on organizational requirements.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Qualification Details – Science Subjects
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Type</th>
+<th>Eligibility</th>
+</tr>
+
+<tr>
+<td>10+2 / Intermediate</td>
+<td>Physics, Mathematics & English with minimum 50% aggregate marks and 50% in English</td>
+</tr>
+
+<tr>
+<td>3-Year Engineering Diploma</td>
+<td>Mechanical, Electrical, Electronics, Automobile, Computer Science, Instrumentation Technology,
+Information Technology with 50% marks</td>
+</tr>
+
+<tr>
+<td>2-Year Vocational Course</td>
+<td>Physics & Mathematics as non-vocational subjects with 50% marks</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Qualification Details – Other Than Science Subjects
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Type</th>
+<th>Eligibility</th>
+</tr>
+
+<tr>
+<td>10+2 / Intermediate</td>
+<td>Any Stream with minimum 50% aggregate marks and 50% in English</td>
+</tr>
+
+<tr>
+<td>2-Year Vocational Course</td>
+<td>Minimum 50% aggregate marks and 50% in English</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Service Year</th>
+<th>Monthly Package</th>
+</tr>
+
+<tr>
+<td>1st Year</td>
+<td>₹30,000</td>
+</tr>
+
+<tr>
+<td>2nd Year</td>
+<td>₹33,000</td>
+</tr>
+
+<tr>
+<td>3rd Year</td>
+<td>₹36,500</td>
+</tr>
+
+<tr>
+<td>4th Year</td>
+<td>₹40,000</td>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Seva Nidhi Package</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Amount</th>
+</tr>
+
+<tr>
+<td>Candidate Contribution</td>
+<td>₹5.02 Lakh</td>
+</tr>
+
+<tr>
+<td>Government Contribution</td>
+<td>₹5.02 Lakh</td>
+</tr>
+
+<tr>
+<th>Total Seva Nidhi Package</th>
+<th>Approx. ₹10.04 Lakh</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Physical Fitness Test (PFT)
+</h2>
+
+<h3 style="font-size:26px;margin-top:25px;">PFT-I</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Male Candidates</th>
+<th>Female Candidates</th>
+</tr>
+
+<tr>
+<td>1.6 Km Run</td>
+<td>Within 7 Minutes</td>
+<td>Within 8 Minutes</td>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">PFT-II (Male Candidates)</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Requirement</th>
+<th>Time</th>
+</tr>
+
+<tr>
+<td>Push-Ups</td>
+<td>10</td>
+<td>1 Minute</td>
+</tr>
+
+<tr>
+<td>Sit-Ups</td>
+<td>10</td>
+<td>1 Minute</td>
+</tr>
+
+<tr>
+<td>Squats</td>
+<td>20</td>
+<td>1 Minute</td>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">PFT-II (Female Candidates)</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Requirement</th>
+<th>Time</th>
+</tr>
+
+<tr>
+<td>Sit-Ups</td>
+<td>10</td>
+<td>1 Minute 30 Seconds</td>
+</tr>
+
+<tr>
+<td>Squats</td>
+<td>15</td>
+<td>1 Minute</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Physical Standards
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Criteria</th>
+<th>Male</th>
+<th>Female</th>
+</tr>
+
+<tr>
+<td>Minimum Height</td>
+<td>152 cm</td>
+<td>152 cm</td>
+</tr>
+
+<tr>
+<td>Chest</td>
+<td>77 cm + 5 cm Expansion</td>
+<td>Minimum 5 cm Expansion</td>
+</tr>
+
+<tr>
+<td>Hearing</td>
+<td>Normal</td>
+<td>Normal</td>
+</tr>
+
+<tr>
+<td>Vision</td>
+<td>6/12 Correctable to 6/6</td>
+<td>6/12 Correctable to 6/6</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage-1</td>
+<td>Online Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage-2</td>
+<td>Physical Fitness Test (PFT)</td>
+</tr>
+
+<tr>
+<td>Stage-3</td>
+<td>Adaptability Test-I</td>
+</tr>
+
+<tr>
+<td>Stage-4</td>
+<td>Adaptability Test-II</td>
+</tr>
+
+<tr>
+<td>Stage-5</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage-6</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage-7</td>
+<td>Enrolment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official Indian Air Force Agniveervayu recruitment portal.</li>
+
+<li>Click on "Candidate Login / Registration" and complete registration using your mobile number and email ID.</li>
+
+<li>Verify the OTP received on your registered mobile number and email address.</li>
+
+<li>Login using the generated User ID and Password.</li>
+
+<li>Fill in all required details including Personal Details, Address Details, Educational Qualification and
+Domicile Details.</li>
+
+<li>Upload the required documents: recent passport size photograph, candidate signature, parent/guardian
+signature (if applicable) and left thumb impression.</li>
+
+<li>Preview the application form carefully and verify all entered information.</li>
+
+<li>Pay the application fee of ₹550 + 18% GST through online payment modes.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Download Notification</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://iafrecruitment.edcil.co.in" target="_blank">
+iafrecruitment.edcil.co.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When will applications start for Agniveervayu Intake 02/2027?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>06 July 2026 at 11:00 AM</strong> and will continue until
+<strong>26 July 2026 at 11:00 PM</strong>.
+</p>
+
+<h3>2. Who can apply for Agniveervayu Intake 02/2027?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Unmarried male and female candidates who meet the qualification criteria (10+2, Diploma or vocational course
+with minimum 50% marks) can apply, subject to the prescribed age limit of <strong>17.5 to 22 years</strong>.
+</p>
+
+<h3>3. What is the starting salary of Agniveervayu?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>₹30,000</strong> per month in the first year, rising to
+<strong>₹40,000</strong> per month by the fourth year, along with other allowances and benefits.
+</p>
+
+<h3>4. How much money will an Agniveervayu receive after four years?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+On completion of four years of service, candidates will receive a <strong>Seva Nidhi package</strong> of
+approximately <strong>₹10.04 lakh</strong>, comprising both candidate and government contributions.
+</p>
+
+<h3>5. What is the selection process for Agniveervayu Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes an <strong>Online Examination, Physical Fitness Test (PFT), Adaptability Test-I,
+Adaptability Test-II, Medical Examination</strong> and the Final Merit List.
+</p>
+
+<h3>6. Can female candidates apply for Agniveervayu Intake 02/2027?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, unmarried female candidates are also eligible to apply for Agniveervayu Intake 02/2027, subject to
+requirements of the Indian Air Force.
+</p>
+
+<h3>7. What is the Physical Fitness Test requirement?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Male candidates must complete a <strong>1.6 km run in 7 minutes</strong>, while female candidates must complete
+it in <strong>8 minutes</strong>, along with push-ups, sit-ups and squats as applicable.
+</p>
+
+<h3>8. What is the application fee for Agniveervayu Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹550 + 18% GST</strong> for all categories of candidates, payable online.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Agniveervayu Intake 02/2027</strong> notification offers a valuable opportunity for young,
+unmarried candidates to serve the nation in the Indian Air Force under the Agnipath Scheme. Interested
+candidates should complete their online registration, prepare the required documents and pay the application
+fee well before the closing date of <strong>26 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for Agniveervayu Intake 02/2027
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>26 July 2026</strong>.
+</p>
+
+<a href="https://iafrecruitment.edcil.co.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=lpsc-isro-internship-2026">LPSC/ISRO Internship 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=territorial-army-130-inf-bn-rally-2026">Territorial Army 130 Inf Bn Rally 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=indian-navy-agniveer-apprentice-recruitment-2026">Indian Navy Agniveer (Apprentice) Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Air Force notification before applying.</p>
+`;
