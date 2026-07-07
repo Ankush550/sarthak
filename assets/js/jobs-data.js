@@ -1999,7 +1999,180 @@ isNew: true
     isNew:true
 },
 
+{
+    id:"iob-apprentice-recruitment-2026",
+    orgWebsite:"https://www.iob.bank.in",
+    title:"Indian Overseas Bank Apprentice Vacancy 2026",
+    shortTitle:"IOB Apprentice Online Form 2026",
+    organization:"Indian Overseas Bank (IOB)",
+    image:"IOB.jpeg",
 
+    totalPosts:750,
+
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-20T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:14000,
+    salaryMax:15500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Chennai",
+    addressRegion:"Tamil Nadu",
+    addressCountry:"IN",
+
+    qualification:"Graduation in Any Discipline",
+
+    ageLimit:"20 to 28 Years",
+
+    applyLink:"https://www.iob.bank.in",
+    officialNotification:"https://www.iob.bank.in",
+
+    fee:"SC/ST/PwBD: Rs. 236 | GEN/OBC/EWS (Female): Rs. 708 | GEN/OBC/EWS (Male): Rs. 944",
+
+    description:"Indian Overseas Bank (IOB) has released the official notification for Apprentice Recruitment 2026-27 under the Apprentices Act, 1961, inviting applications for 750 Apprentice posts across various states. Online applications through the NATS, NAPS and BEEP portals started on 07 July 2026 and will close on 20 July 2026. Fresh graduates who completed graduation between 01 March 2022 and 31 July 2026 are eligible. Selected candidates will get a monthly stipend of Rs. 14,000 to Rs. 15,500 depending on branch category, for a one-year training period.",
+
+    category:"Bank Jobs",
+    jobType:"Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"02 August 2026 (Tentative)",
+    interviewDate:"Personal Interaction (If Conducted)",
+
+    postDetails:[
+        {state:"Tamil Nadu", totalPosts:200},
+        {state:"Uttar Pradesh", totalPosts:110},
+        {state:"Maharashtra", totalPosts:85},
+        {state:"Delhi", totalPosts:53},
+        {state:"Bihar", totalPosts:35},
+        {state:"West Bengal", totalPosts:35},
+        {state:"Kerala", totalPosts:33},
+        {state:"Punjab", totalPosts:24},
+        {state:"Odisha", totalPosts:22},
+        {state:"Gujarat", totalPosts:16},
+        {state:"Haryana", totalPosts:16},
+        {state:"Rajasthan", totalPosts:16},
+        {state:"Andhra Pradesh", totalPosts:15},
+        {state:"Madhya Pradesh", totalPosts:12},
+        {state:"Puducherry", totalPosts:12},
+        {state:"Chhattisgarh", totalPosts:10},
+        {state:"Jharkhand", totalPosts:8},
+        {state:"Uttarakhand", totalPosts:8},
+        {state:"Karnataka", totalPosts:6},
+        {state:"Telangana", totalPosts:6},
+        {state:"Assam", totalPosts:4},
+        {state:"Chandigarh", totalPosts:4},
+        {state:"Manipur", totalPosts:4},
+        {state:"Jammu & Kashmir", totalPosts:2},
+        {state:"Meghalaya", totalPosts:2},
+        {state:"Mizoram", totalPosts:2},
+        {state:"Sikkim", totalPosts:2},
+        {state:"Tripura", totalPosts:2},
+        {state:"Andaman & Nicobar", totalPosts:1},
+        {state:"Arunachal Pradesh", totalPosts:1},
+        {state:"Daman & Diu", totalPosts:1},
+        {state:"Goa", totalPosts:1},
+        {state:"Himachal Pradesh", totalPosts:1},
+        {state:"Nagaland", totalPosts:1},
+        {state:"Dadra & Nagar Haveli", totalPosts:0},
+        {state:"Lakshadweep", totalPosts:0}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"kgbv-hamirpur-recruitment-2026",
+    orgWebsite:"https://hamirpur.nic.in",
+    title:"KGBV Hamirpur Vacancy 2026",
+    shortTitle:"KGBV Hamirpur Online Form 2026",
+    organization:"District Basic Education Officer (Samagra Shiksha), Hamirpur, Uttar Pradesh",
+    image:"KGBVHamirpur.jpeg",
+
+    totalPosts:73,
+
+    lastDate:"2026-07-25",
+    lastDateDisplay:"25 July 2026",
+
+    datePosted:"2026-07-04",
+    validThrough:"2026-07-25T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:6433,
+    salaryMax:30000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Hamirpur, Uttar Pradesh",
+    addressLocality:"Hamirpur",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"8th Pass, 10th Pass, Intermediate, Graduate or Postgraduate Degree (Post Wise)",
+
+    ageLimit:"25 to 45 Years",
+
+    applyLink:"https://hamirpur.nic.in",
+    officialNotification:"https://hamirpur.nic.in",
+
+    fee:"Not Mentioned",
+
+    description:"The District Basic Education Officer (Samagra Shiksha), Hamirpur has released the official notification for KGBV Bharti 2026, inviting applications for 73 posts including Principal, PGT, Full-Time Teacher, Part-Time Teacher, Computer Science Teacher, Care Taker, Lab Assistant, Office Superintendent, Accountant, Cook, Peon and Chowkidar. Only female candidates are eligible to apply. Applications are offline; candidates must send the filled form via Registered Post or Speed Post before 25 July 2026. Selected candidates will get a monthly salary ranging from Rs. 6,433 to Rs. 30,000 depending on the post.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Principal, PGT, Teacher, Lab Assistant, Clerk, Accountant, Cook, Peon, Chowkidar",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-04",
+    applicationEndDate:"2026-07-25",
+
+    examDate:"Not Applicable",
+    interviewDate:"Only for Specified Posts",
+
+    postDetails:[
+        {postName:"Principal (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Hindi (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT English (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Mathematics (New Upgraded KGBV)", totalPosts:3},
+        {postName:"PGT Biology (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Chemistry (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Physics (New Upgraded KGBV)", totalPosts:4},
+        {postName:"Computer Science Teacher (New Upgraded KGBV)", totalPosts:2},
+        {postName:"Care Taker (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Lab Assistant (New Upgraded KGBV)", totalPosts:13},
+        {postName:"Office Superintendent / Clerk (New Upgraded KGBV)", totalPosts:5},
+        {postName:"Cook (New Upgraded KGBV)", totalPosts:6},
+        {postName:"Peon (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Chowkidar (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Full-Time Teacher Maths (Existing KGBV)", totalPosts:2},
+        {postName:"Full-Time Teacher Science (Existing KGBV)", totalPosts:1},
+        {postName:"Full-Time Teacher English (Existing KGBV)", totalPosts:1},
+        {postName:"Full-Time Teacher Hindi (Existing KGBV)", totalPosts:1},
+        {postName:"Part-Time Teacher Art/Music (Existing KGBV)", totalPosts:2},
+        {postName:"Part-Time Teacher Physical Education (Existing KGBV)", totalPosts:2},
+        {postName:"Part-Time Teacher Computer (Existing KGBV)", totalPosts:1},
+        {postName:"Accountant (Existing KGBV)", totalPosts:1},
+        {postName:"Chief Cook (Existing KGBV)", totalPosts:2},
+        {postName:"Assistant Cook (Existing KGBV)", totalPosts:7},
+        {postName:"Chowkidar (Existing KGBV)", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
 
 
 ];

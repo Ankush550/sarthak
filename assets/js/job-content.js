@@ -22077,3 +22077,1315 @@ Related Jobs
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official TSLPRB notification before applying.</p>
 `;
+JOB_CONTENT["iob-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-07">Published: 07 July 2026</time> |
+Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Indian Overseas Bank Apprentice Vacancy 2026 – Apply Online for 750 Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 IOB Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>07 July 2026 to 20 July 2026</strong>
+</p>
+
+<a href="https://www.iob.bank.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Indian Overseas Bank (IOB)</strong> has released the official notification for
+<strong>Apprentice Recruitment 2026-27</strong>, inviting online applications for
+<strong>750 Apprentice</strong> vacancies under the Apprentices Act, 1961. Graduates from any recognized
+university can apply through the NATS, NAPS and BEEP portals before the closing date.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online registration started on <strong>07 July 2026</strong> and will continue until
+<strong>20 July 2026</strong>. This is an excellent opportunity for fresh graduates to gain one year of
+structured, practical banking experience with a monthly stipend, while building valuable exposure to core
+banking operations across IOB branches nationwide.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IOB Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Overseas Bank (IOB)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>750</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Bank Jobs</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online (NATS / NAPS / BEEP Portal)</td>
+</tr>
+
+<tr>
+<th>Online Registration Start</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>20 to 28 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>Graduation in Any Discipline</td>
+</tr>
+
+<tr>
+<th>Monthly Stipend</th>
+<td>₹14,000 – ₹15,500</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.iob.bank.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply (NATS/NAPS)</td>
+<td>20 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Fee Payment</td>
+<td>07 July – 22 July 2026</td>
+</tr>
+
+<tr>
+<td>Tentative Online Examination</td>
+<td>02 August 2026</td>
+</tr>
+
+<tr>
+<td>Document Verification</td>
+<td>After Online Exam</td>
+</tr>
+
+<tr>
+<td>Final Engagement</td>
+<td>After Completion of Selection Process</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Fee (Including GST)</th>
+</tr>
+
+<tr>
+<td>SC/ST/PwBD</td>
+<td>₹236</td>
+</tr>
+
+<tr>
+<td>GEN/OBC/EWS (Female)</td>
+<td>₹708</td>
+</tr>
+
+<tr>
+<td>GEN/OBC/EWS (Male)</td>
+<td>₹944</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Application fee payment must be completed online between <strong>07 July 2026</strong> and
+<strong>22 July 2026</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Criteria</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Minimum Age</td>
+<td>20 Years</td>
+</tr>
+
+<tr>
+<td>Maximum Age</td>
+<td>28 Years</td>
+</tr>
+
+<tr>
+<td>Qualification</td>
+<td>Graduation in Any Discipline from a University Recognized by the Government of India</td>
+</tr>
+
+<tr>
+<td>Eligible Candidates</td>
+<td>Fresh Graduates</td>
+</tr>
+
+<tr>
+<td>NATS Eligibility</td>
+<td>Graduation between 01 March 2022 and 31 July 2026</td>
+</tr>
+
+<tr>
+<td>Result Declaration</td>
+<td>On or Before 31 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+State-Wise Vacancy Details
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+A total of <strong>750 Apprentice vacancies</strong> have been announced across the following States and Union
+Territories:
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>State / UT</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Tamil Nadu</td><td>200</td></tr>
+<tr><td>Uttar Pradesh</td><td>110</td></tr>
+<tr><td>Maharashtra</td><td>85</td></tr>
+<tr><td>Delhi</td><td>53</td></tr>
+<tr><td>Bihar</td><td>35</td></tr>
+<tr><td>West Bengal</td><td>35</td></tr>
+<tr><td>Kerala</td><td>33</td></tr>
+<tr><td>Punjab</td><td>24</td></tr>
+<tr><td>Odisha</td><td>22</td></tr>
+<tr><td>Gujarat</td><td>16</td></tr>
+<tr><td>Haryana</td><td>16</td></tr>
+<tr><td>Rajasthan</td><td>16</td></tr>
+<tr><td>Andhra Pradesh</td><td>15</td></tr>
+<tr><td>Madhya Pradesh</td><td>12</td></tr>
+<tr><td>Puducherry</td><td>12</td></tr>
+<tr><td>Chhattisgarh</td><td>10</td></tr>
+<tr><td>Jharkhand</td><td>8</td></tr>
+<tr><td>Uttarakhand</td><td>8</td></tr>
+<tr><td>Karnataka</td><td>6</td></tr>
+<tr><td>Telangana</td><td>6</td></tr>
+<tr><td>Assam</td><td>4</td></tr>
+<tr><td>Chandigarh</td><td>4</td></tr>
+<tr><td>Manipur</td><td>4</td></tr>
+<tr><td>Jammu & Kashmir</td><td>2</td></tr>
+<tr><td>Meghalaya</td><td>2</td></tr>
+<tr><td>Mizoram</td><td>2</td></tr>
+<tr><td>Sikkim</td><td>2</td></tr>
+<tr><td>Tripura</td><td>2</td></tr>
+<tr><td>Andaman & Nicobar</td><td>1</td></tr>
+<tr><td>Arunachal Pradesh</td><td>1</td></tr>
+<tr><td>Daman & Diu</td><td>1</td></tr>
+<tr><td>Goa</td><td>1</td></tr>
+<tr><td>Himachal Pradesh</td><td>1</td></tr>
+<tr><td>Nagaland</td><td>1</td></tr>
+<tr><td>Dadra & Nagar Haveli</td><td>0</td></tr>
+<tr><td>Lakshadweep</td><td>0</td></tr>
+
+<tr>
+<th>Total</th>
+<th>750</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates may select only <strong>one State/UT</strong> for apprenticeship while filling the online application.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Monthly Stipend
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Branch Category</th>
+<th>Monthly Stipend</th>
+</tr>
+
+<tr>
+<td>Metro Branch</td>
+<td>₹15,500</td>
+</tr>
+
+<tr>
+<td>Urban Branch</td>
+<td>₹14,500</td>
+</tr>
+
+<tr>
+<td>Semi-Urban / Rural Branch</td>
+<td>₹14,000</td>
+</tr>
+
+<tr>
+<th>Training Period</th>
+<th>1 Year</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Local Language Test</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Personal Interaction (If Conducted)</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Apprenticeship Engagement</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Online Test Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Questions</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>General / Financial Awareness</td>
+<td>25</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>General English</td>
+<td>25</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Quantitative Aptitude & Reasoning</td>
+<td>25</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Computer / Subject Knowledge</td>
+<td>25</td>
+<td>25</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>100</th>
+<th>100</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Exam Mode</td>
+<td>Online</td>
+</tr>
+
+<tr>
+<td>Duration</td>
+<td>90 Minutes</td>
+</tr>
+
+<tr>
+<td>Total Questions</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Total Marks</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Negative Marking</td>
+<td>Not Mentioned</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Register yourself on the NATS or NAPS portal.</li>
+
+<li>Complete your Apprentice Registration successfully.</li>
+
+<li>Visit the BFSI SSC/BEEP application portal.</li>
+
+<li>Log in using your registered credentials.</li>
+
+<li>Enter your NATS/NAPS Enrollment Number.</li>
+
+<li>Fill in all personal, educational and communication details carefully.</li>
+
+<li>Upload the required documents in the prescribed format.</li>
+
+<li>Select only one State/UT for apprenticeship.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Review all details before final submission and submit the application form.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>NATS Portal</td>
+<td>
+<a href="https://www.iob.bank.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>NAPS Portal</td>
+<td>
+<a href="https://www.iob.bank.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Application Portal (BEEP)</td>
+<td>
+<a href="https://www.iob.bank.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.iob.bank.in" target="_blank">
+iob.bank.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in IOB Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>750 Apprentice posts</strong> will be filled through this recruitment.
+</p>
+
+<h3>2. What is the last date to apply for IOB Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will be accepted from <strong>07 July 2026</strong> to <strong>20 July 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold a <strong>Graduation degree in any discipline</strong> from a recognized university, with
+the result declared on or before <strong>31 July 2026</strong>.
+</p>
+
+<h3>4. What is the age limit for IOB Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>20 and 28 years</strong> of age, with age relaxation applicable for reserved
+categories as per rules.
+</p>
+
+<h3>5. How much stipend will selected apprentices receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a monthly stipend of <strong>₹14,000 to ₹15,500</strong>, depending on the branch
+category (Metro, Urban, or Semi-Urban/Rural).
+</p>
+
+<h3>6. What is the selection process for IOB Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on an <strong>Online Written Test, Local Language Test, Document Verification</strong>
+and, if conducted, a <strong>Personal Interaction</strong>.
+</p>
+
+<h3>7. When will the online examination be conducted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The online examination is tentatively scheduled for <strong>02 August 2026</strong>.
+</p>
+
+<h3>8. What is the application fee for IOB Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹236</strong> for SC/ST/PwBD candidates, <strong>₹708</strong> for GEN/OBC/EWS female
+candidates and <strong>₹944</strong> for GEN/OBC/EWS male candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Overseas Bank Apprentice Vacancy 2026</strong> is a great opportunity for fresh graduates to
+gain valuable banking exposure with a monthly stipend across 750 posts nationwide. Interested candidates should
+complete their NATS/NAPS registration and submit the online application well before the last date to avoid any
+last-minute technical issues.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for IOB Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>20 July 2026</strong>.
+</p>
+
+<a href="https://www.iob.bank.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=bgsss-recruitment-2026">BGSSS Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ibps-po-recruitment-2026">IBPS PO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ibps-so-recruitment-2026">IBPS SO Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=kgbv-hamirpur-recruitment-2026">KGBV Hamirpur Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official IOB notification before applying.</p>
+`;
+
+JOB_CONTENT["kgbv-hamirpur-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-07">Published: 07 July 2026</time> |
+Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+KGBV Hamirpur Vacancy 2026 – Apply Offline for 73 Principal, PGT, Teacher & Other Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+📢 KGBV Hamirpur Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>25 July 2026</strong>
+</p>
+
+<a href="https://hamirpur.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>District Basic Education Officer (Samagra Shiksha), Hamirpur, Uttar Pradesh</strong> has released
+the official notification for <strong>KGBV Bharti 2026</strong>, inviting applications for
+<strong>73 posts</strong> under the Kasturba Gandhi Balika Vidyalaya scheme. Vacancies include Principal, PGT,
+Full-Time Teacher, Part-Time Teacher, Computer Science Teacher, Care Taker, Lab Assistant, Office
+Superintendent, Accountant, Cook, Peon and Chowkidar.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Only <strong>female candidates</strong> are eligible to apply for this recruitment. The application process is
+<strong>offline</strong>, and eligible candidates must send their filled application form along with the
+required documents via <strong>Registered Post or Speed Post</strong> before
+<strong>25 July 2026</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+KGBV Hamirpur Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>District Basic Education Officer (Samagra Shiksha), Hamirpur, Uttar Pradesh</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Principal, PGT, Full-Time Teacher, Part-Time Teacher, Computer Teacher, Care Taker, Lab Assistant,
+Clerk, Accountant, Cook, Peon, Chowkidar</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>73</td>
+</tr>
+
+<tr>
+<th>Category</th>
+<td>Uttar Pradesh Government Jobs</td>
+</tr>
+
+<tr>
+<th>Eligible Candidates</th>
+<td>Female Candidates Only</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Offline</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>04 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>25 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>25 to 45 Years</td>
+</tr>
+
+<tr>
+<th>Application Fee</th>
+<td>Not Mentioned</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>hamirpur.nic.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>25 and 45 years</strong> of age. Educational qualification requirements vary
+by post, ranging from <strong>8th Pass to Postgraduate Degree</strong>. Only <strong>female candidates</strong>
+are eligible to apply for any of the 73 posts under this notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details – New Upgraded KGBV (52 Posts)
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Total Posts</th>
+<th>UR</th>
+<th>OBC</th>
+<th>SC</th>
+</tr>
+
+<tr><td>Principal</td><td>2</td><td>1</td><td>–</td><td>1</td></tr>
+<tr><td>PGT Hindi</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>PGT English</td><td>2</td><td>1</td><td>–</td><td>1</td></tr>
+<tr><td>PGT Mathematics</td><td>3</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>PGT Biology</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>PGT Chemistry</td><td>2</td><td>1</td><td>–</td><td>1</td></tr>
+<tr><td>PGT Physics</td><td>4</td><td>2</td><td>1</td><td>1</td></tr>
+<tr><td>Computer Science Teacher</td><td>2</td><td>1</td><td>–</td><td>1</td></tr>
+<tr><td>Care Taker</td><td>3</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>Lab Assistant</td><td>13</td><td>7</td><td>4</td><td>2</td></tr>
+<tr><td>Office Superintendent / Clerk</td><td>5</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>Cook</td><td>6</td><td>3</td><td>2</td><td>1</td></tr>
+<tr><td>Peon</td><td>3</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>Chowkidar</td><td>3</td><td>2</td><td>1</td><td>–</td></tr>
+
+<tr>
+<th>Total</th>
+<th>52</th>
+<th>28</th>
+<th>14</th>
+<th>10</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details – Existing KGBV (21 Posts)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Total Posts</th>
+<th>UR</th>
+<th>OBC</th>
+<th>ST</th>
+</tr>
+
+<tr><td>Full-Time Teacher (Maths)</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>Full-Time Teacher (Science)</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+<tr><td>Full-Time Teacher (English)</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+<tr><td>Full-Time Teacher (Hindi)</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+<tr><td>Part-Time Teacher (Art/Music)</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>Part-Time Teacher (Physical Education)</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>Part-Time Teacher (Computer)</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+<tr><td>Accountant</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+<tr><td>Chief Cook</td><td>2</td><td>1</td><td>1</td><td>–</td></tr>
+<tr><td>Assistant Cook</td><td>7</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>Chowkidar</td><td>1</td><td>1</td><td>–</td><td>–</td></tr>
+
+<tr>
+<th>Total</th>
+<th>21</th>
+<th>13</th>
+<th>6</th>
+<th>2</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;margin-top:15px;">
+<strong>Grand Total Vacancies: 73 Posts</strong>
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Principal</td>
+<td>Postgraduate + B.Ed. + Minimum 4 Years Teaching Experience</td>
+</tr>
+
+<tr>
+<td>PGT Teachers</td>
+<td>Postgraduate in Relevant Subject + B.Ed.</td>
+</tr>
+
+<tr>
+<td>Computer Science Teacher</td>
+<td>MCA / B.Tech (CS) / PG Diploma in Computer Applications</td>
+</tr>
+
+<tr>
+<td>Care Taker</td>
+<td>12th Pass</td>
+</tr>
+
+<tr>
+<td>Lab Assistant</td>
+<td>Science + Laboratory Diploma / Intermediate (Science)</td>
+</tr>
+
+<tr>
+<td>Office Superintendent / Clerk</td>
+<td>Intermediate + Computer Diploma + Hindi & English Typing</td>
+</tr>
+
+<tr>
+<td>Full-Time Teacher</td>
+<td>Graduate + B.Ed. + Upper Primary TET</td>
+</tr>
+
+<tr>
+<td>Part-Time Teacher (Art/Music)</td>
+<td>Graduate in Relevant Subject</td>
+</tr>
+
+<tr>
+<td>Part-Time Teacher (Physical Education)</td>
+<td>B.P.Ed.</td>
+</tr>
+
+<tr>
+<td>Part-Time Teacher (Computer)</td>
+<td>Computer Graduate</td>
+</tr>
+
+<tr>
+<td>Accountant</td>
+<td>B.Com / Graduate + Computer Knowledge</td>
+</tr>
+
+<tr>
+<td>Cook / Chief Cook / Assistant Cook</td>
+<td>Class 8 Pass</td>
+</tr>
+
+<tr>
+<td>Peon</td>
+<td>Class 8 Pass</td>
+</tr>
+
+<tr>
+<td>Chowkidar</td>
+<td>Class 8 Pass</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Pay Scale
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Monthly Salary</th>
+</tr>
+
+<tr>
+<td>Principal</td>
+<td>₹30,000</td>
+</tr>
+
+<tr>
+<td>Care Taker</td>
+<td>₹24,200</td>
+</tr>
+
+<tr>
+<td>Full-Time Teacher</td>
+<td>₹24,200</td>
+</tr>
+
+<tr>
+<td>PGT Teacher</td>
+<td>₹22,000</td>
+</tr>
+
+<tr>
+<td>Accountant</td>
+<td>₹13,673</td>
+</tr>
+
+<tr>
+<td>Office Superintendent / Clerk</td>
+<td>₹12,430</td>
+</tr>
+
+<tr>
+<td>Part-Time Teacher</td>
+<td>₹12,181</td>
+</tr>
+
+<tr>
+<td>Lab Assistant</td>
+<td>₹7,147</td>
+</tr>
+
+<tr>
+<td>Peon</td>
+<td>₹7,147</td>
+</tr>
+
+<tr>
+<td>Chowkidar</td>
+<td>₹7,147</td>
+</tr>
+
+<tr>
+<td>Cook / Chief Cook / Assistant Cook</td>
+<td>₹6,433</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Merit List Based on Academic Marks</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Interview (Only for Specified Posts)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Appointment on Contract Basis</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply (Offline)
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible female candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website of Hamirpur District.</li>
+
+<li>Download the prescribed application form.</li>
+
+<li>Fill in all personal, educational and experience details carefully.</li>
+
+<li>Paste a recent passport-size photograph.</li>
+
+<li>Attach self-attested copies of all required certificates.</li>
+
+<li>Attach caste, experience and identity certificates (if applicable).</li>
+
+<li>Enclose two self-addressed envelopes with the required postage.</li>
+
+<li>Write the post name clearly on the envelope.</li>
+
+<li>Send the application only through Registered Post or Speed Post.</li>
+
+<li>Ensure the application reaches the District Basic Education Officer, Hamirpur before <strong>25 July 2026</strong>.</li>
+
+<li>Keep a photocopy of the application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Instructions
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Only female candidates are eligible to apply for this recruitment.</li>
+
+<li>Applications must be sent only through Registered Post or Speed Post; hand delivery is not accepted.</li>
+
+<li>Selection for most posts is based on academic merit; interview applies only to specified posts.</li>
+
+<li>No application fee is mentioned in the official notification.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Application Form</td>
+<td>
+<a href="https://hamirpur.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td>
+<a href="https://hamirpur.nic.in" target="_blank">
+Download PDF
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://hamirpur.nic.in" target="_blank">
+hamirpur.nic.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>73 posts</strong> have been announced, including Principal, PGT, Full-Time Teacher, Part-Time
+Teacher, Computer Teacher, Clerk, Accountant, Care Taker, Cook, Peon and Chowkidar.
+</p>
+
+<h3>2. What is the last date to apply for KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to submit the offline application is <strong>25 July 2026</strong>, through Registered Post or
+Speed Post only.
+</p>
+
+<h3>3. Can male candidates apply for KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. As per the official notification, only <strong>female candidates</strong> are eligible to apply for this
+recruitment.
+</p>
+
+<h3>4. What is the age limit for KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>25 and 45 years</strong> of age, with age relaxation applicable for reserved
+categories as per rules.
+</p>
+
+<h3>5. What is the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is mainly based on <strong>academic merit</strong>, followed by an <strong>Interview</strong> (only
+for specified posts) and <strong>Document Verification</strong>.
+</p>
+
+<h3>6. What salary will selected candidates receive?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Salary varies by post, ranging from <strong>₹6,433</strong> for Cook/Peon/Chowkidar posts up to
+<strong>₹30,000</strong> for the Principal post.
+</p>
+
+<h3>7. Is there any application fee for KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No application fee has been mentioned in the official notification for any category of candidates.
+</p>
+
+<h3>8. How can candidates apply for KGBV Hamirpur Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must download the application form from the official website, fill it carefully, attach all required
+documents, and send it via <strong>Registered Post or Speed Post</strong> before the last date.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>KGBV Hamirpur Vacancy 2026</strong> offers a meaningful opportunity for eligible female candidates to
+join Kasturba Gandhi Balika Vidyalayas across a wide range of academic and support roles. Interested candidates
+should carefully prepare their application form and required documents, and send them via Registered Post or
+Speed Post well before the closing date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for KGBV Hamirpur Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Send your application before <strong>25 July 2026</strong>.
+</p>
+
+<a href="https://hamirpur.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=up-gram-panchayat-sachiv-recruitment-2026">UP Gram Panchayat Sachiv Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iob-apprentice-recruitment-2026">Indian Overseas Bank Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=svpuat-non-teaching-recruitment-2026">SVPUAT Non-Teaching Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official KGBV Hamirpur notification before applying.</p>
+`;
