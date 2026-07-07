@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signature Resizer (KB & Size) - SarthakYojana.in</title>
+<meta name="description" content="Free online signature resizer tool. Exact width/height aur KB size ke saath apna signature Sarkari form ke liye ready karein, sirf browser mein.">
+<style>
+  :root{
+    --blue:#1565c0; --blue-dark:#0d47a1; --green:#2e7d32; --red:#bb2424;
+    --bg:#f5f7fa; --card:#ffffff; --text:#2b2b2b; --muted:#667085; --border:#e2e6ec;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--text);}
+  header{background:linear-gradient(90deg,var(--blue-dark),var(--blue));padding:22px 16px;text-align:center;border-bottom:6px solid var(--red);}
+  header h1{color:#fff;margin:0;font-size:26px;}
+  header p{color:#dceaff;margin:6px 0 0;font-size:15px;}
+  .wrap{max-width:760px;margin:22px auto;padding:0 14px 40px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:22px;box-shadow:0 2px 10px rgba(0,0,0,0.04);margin-bottom:20px;}
+  .dropzone{border:2px dashed var(--blue);border-radius:10px;padding:30px 16px;text-align:center;cursor:pointer;background:#f0f7ff;}
+  .dropzone.drag{background:#dcefff;}
+  .dropzone p{margin:8px 0 0;color:var(--muted);font-size:14px;}
+  .dropzone .icon{font-size:34px;}
+  input[type=file]{display:none;}
+  .row{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px;}
+  .field{flex:1;min-width:140px;}
+  .field label{display:block;font-size:13px;color:var(--muted);margin-bottom:5px;font-weight:600;}
+  .field select, .field input[type=number]{width:100%;padding:10px;border:1px solid var(--border);border-radius:8px;font-size:15px;}
+  .presets{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;}
+  .presets button{background:#eef4ff;border:1px solid #cfe1ff;color:var(--blue-dark);padding:6px 12px;border-radius:20px;font-size:13px;cursor:pointer;}
+  .presets button.active{background:var(--blue);color:#fff;}
+  .checkrow{display:flex;align-items:center;gap:8px;margin-top:14px;font-size:14px;}
+  .btn{display:inline-block;background:var(--green);color:#fff;border:none;padding:13px 26px;border-radius:8px;font-size:16px;font-weight:600;cursor:pointer;margin-top:18px;width:100%;}
+  .btn:disabled{background:#a5c9a8;cursor:not-allowed;}
+  .btn.secondary{background:var(--blue);}
+  .preview-grid{display:flex;gap:16px;flex-wrap:wrap;margin-top:18px;}
+  .preview-box{flex:1;min-width:200px;text-align:center;background:#fafbfc;border:1px solid var(--border);border-radius:10px;padding:12px;}
+  .preview-box img{max-width:100%;max-height:150px;border-radius:6px;border:1px solid var(--border);background:repeating-conic-gradient(#f0f0f0 0% 25%, #fff 0% 50%) 50% / 16px 16px;}
+  .preview-box h4{margin:8px 0 4px;font-size:14px;color:var(--muted);}
+  .size-tag{display:inline-block;padding:3px 10px;border-radius:20px;font-size:13px;font-weight:700;margin-top:4px;}
+  .size-tag.over{background:#fdecea;color:var(--red);}
+  .size-tag.ok{background:#e8f5e9;color:var(--green);}
+  .status{margin-top:14px;font-size:14px;color:var(--muted);text-align:center;min-height:18px;}
+  .adslot{margin:22px 0;text-align:center;}
+  .adslot p{font-size:11px;color:#aaa;text-transform:uppercase;letter-spacing:.5px;margin:0 0 4px;}
+  .adbox{background:#eef1f4;border:1px dashed #ccc;border-radius:8px;padding:26px;color:#98a2b3;font-size:13px;}
+  footer{text-align:center;padding:18px;color:#98a2b3;font-size:12px;}
+  .privacy{background:#f0f7ff;border-left:4px solid var(--blue);padding:10px 14px;border-radius:6px;font-size:13px;color:#334;margin-top:16px;}
+  .toollinks{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:14px;}
+  .toollinks a{font-size:13px;color:var(--blue-dark);text-decoration:none;background:#eef4ff;padding:6px 12px;border-radius:20px;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>✍ Signature Resizer</h1>
+  <p>Signature ki exact size (px) aur KB set karein - form ready in seconds</p>
+</header>
+
+<div class="wrap">
+
+  <div class="card">
+    <div class="dropzone" id="dropzone">
+      <div class="icon">📤</div>
+      <strong>Signature image yahan drop karein ya click karein</strong>
+      <p>JPG ya PNG file select karein</p>
+      <input type="file" id="fileInput" accept="image/jpeg,image/png,image/jpg">
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label>Width (px)</label>
+        <input type="number" id="widthInput" value="140" min="20" max="2000">
+      </div>
+      <div class="field">
+        <label>Height (px)</label>
+        <input type="number" id="heightInput" value="60" min="20" max="2000">
+      </div>
+    </div>
+    <div class="presets" id="sizePresets">
+      <button data-w="140" data-h="60" class="active">140x60 (SSC/UPSC)</button>
+      <button data-w="200" data-h="80">200x80</button>
+      <button data-w="150" data-h="100">150x100</button>
+      <button data-w="300" data-h="100">300x100</button>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label>Target Size (KB)</label>
+        <input type="number" id="targetKB" value="15" min="2" max="500">
+        <div class="presets" id="kbPresets">
+          <button data-kb="10">10 KB</button>
+          <button data-kb="15" class="active">15 KB</button>
+          <button data-kb="20">20 KB</button>
+          <button data-kb="50">50 KB</button>
+        </div>
+      </div>
+      <div class="field">
+        <label>Output Format</label>
+        <select id="format">
+          <option value="image/jpeg">JPEG (white background)</option>
+          <option value="image/png">PNG (transparent)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="checkrow">
+      <input type="checkbox" id="whiteBg" checked>
+      <label for="whiteBg">Background white karein (agar signature transparent PNG hai)</label>
+    </div>
+
+    <button class="btn" id="processBtn" disabled>Signature Resize Karein</button>
+    <div class="status" id="status"></div>
+
+    <div class="preview-grid" id="previewGrid" style="display:none;">
+      <div class="preview-box">
+        <h4>Original</h4>
+        <img id="origImg">
+        <div><span class="size-tag over" id="origSize">-</span></div>
+      </div>
+      <div class="preview-box">
+        <h4>Resized</h4>
+        <img id="newImg">
+        <div><span class="size-tag ok" id="newSize">-</span></div>
+        <div id="newDims" style="font-size:12px;color:#98a2b3;margin-top:4px;"></div>
+      </div>
+    </div>
+
+    <button class="btn secondary" id="downloadBtn" style="display:none;">⬇ Download Resized Signature</button>
+
+    <div class="privacy">🔒 Aapka signature kahin upload nahi hota - sara kaam sirf aapke browser mein hota hai. 100% safe & private.</div>
+  </div>
+
+  <div class="adslot">
+    <p>Advertisement</p>
+    <div class="adbox">Ad Space</div>
+  </div>
+
+  <div class="toollinks">
+    <a href="image-resizer.html">📉 Image Resizer</a>
+    <a href="pdf-to-jpg.html">📄 PDF to JPEG</a>
+    <a href="jpg-to-pdf.html">🖼 JPEG to PDF</a>
+  </div>
+
+</div>
+
+<footer>SarthakYojana.in - Yeh tool sirf aapki suvidha ke liye hai. Kripya apne form ke exact size/dimension requirement official notification mein check karein.</footer>
+
+<script>
+const dropzone = document.getElementById('dropzone');
+const fileInput = document.getElementById('fileInput');
+const processBtn = document.getElementById('processBtn');
+const downloadBtn = document.getElementById('downloadBtn');
+const statusEl = document.getElementById('status');
+const previewGrid = document.getElementById('previewGrid');
+const widthInput = document.getElementById('widthInput');
+const heightInput = document.getElementById('heightInput');
+const targetKBInput = document.getElementById('targetKB');
+const formatSelect = document.getElementById('format');
+const whiteBgCheck = document.getElementById('whiteBg');
+const sizePresets = document.getElementById('sizePresets');
+const kbPresets = document.getElementById('kbPresets');
+
+let selectedFile = null;
+let outputBlob = null;
+let outputExt = 'jpg';
+
+dropzone.addEventListener('click', () => fileInput.click());
+['dragover','dragenter'].forEach(evt => dropzone.addEventListener(evt, e => { e.preventDefault(); dropzone.classList.add('drag'); }));
+['dragleave','drop'].forEach(evt => dropzone.addEventListener(evt, e => { e.preventDefault(); dropzone.classList.remove('drag'); }));
+dropzone.addEventListener('drop', e => { if (e.dataTransfer.files[0]) handleFile(e.dataTransfer.files[0]); });
+fileInput.addEventListener('change', e => { if (e.target.files[0]) handleFile(e.target.files[0]); });
+
+sizePresets.addEventListener('click', e => {
+  if (e.target.tagName === 'BUTTON') {
+    [...sizePresets.children].forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    widthInput.value = e.target.dataset.w;
+    heightInput.value = e.target.dataset.h;
+  }
+});
+kbPresets.addEventListener('click', e => {
+  if (e.target.tagName === 'BUTTON') {
+    [...kbPresets.children].forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    targetKBInput.value = e.target.dataset.kb;
+  }
+});
+formatSelect.addEventListener('change', () => {
+  whiteBgCheck.parentElement.style.opacity = formatSelect.value === 'image/png' ? '0.5' : '1';
+  if (formatSelect.value === 'image/png') whiteBgCheck.checked = false;
+});
+
+function handleFile(file) {
+  if (!file.type.startsWith('image/')) { statusEl.textContent = 'Kripya valid image file select karein.'; return; }
+  selectedFile = file;
+  processBtn.disabled = false;
+  statusEl.textContent = 'File select ho gayi: ' + file.name + ' (' + formatKB(file.size) + ')';
+  downloadBtn.style.display = 'none';
+  previewGrid.style.display = 'none';
+}
+
+function formatKB(bytes) {
+  const kb = bytes / 1024;
+  return kb >= 1024 ? (kb/1024).toFixed(2) + ' MB' : Math.round(kb) + ' KB';
+}
+
+function loadImage(file) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    const reader = new FileReader();
+    reader.onload = e => { img.onload = () => resolve(img); img.onerror = reject; img.src = e.target.result; };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+function canvasToBlob(canvas, type, quality) {
+  return new Promise(resolve => canvas.toBlob(resolve, type, quality));
+}
+
+async function resizeToTarget(img, w, h, targetBytes, mimeType, whiteBg) {
+  const canvas = document.createElement('canvas');
+  canvas.width = w;
+  canvas.height = h;
+  const ctx = canvas.getContext('2d');
+
+  if (mimeType === 'image/jpeg' || whiteBg) {
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, w, h);
+  }
+  ctx.drawImage(img, 0, 0, w, h);
+
+  if (mimeType === 'image/png') {
+    return await canvasToBlob(canvas, 'image/png');
+  }
+
+  let quality = 0.92;
+  let blob = await canvasToBlob(canvas, 'image/jpeg', quality);
+  for (let i = 0; i < 10 && blob && blob.size > targetBytes && quality > 0.3; i++) {
+    quality -= 0.08;
+    blob = await canvasToBlob(canvas, 'image/jpeg', quality);
+  }
+  return blob;
+}
+
+processBtn.addEventListener('click', async () => {
+  if (!selectedFile) return;
+  processBtn.disabled = true;
+  statusEl.textContent = 'Resize ho raha hai...';
+
+  const w = parseInt(widthInput.value, 10) || 140;
+  const h = parseInt(heightInput.value, 10) || 60;
+  const targetKB = parseInt(targetKBInput.value, 10) || 15;
+  const mimeType = formatSelect.value;
+  const whiteBg = whiteBgCheck.checked;
+  outputExt = mimeType === 'image/png' ? 'png' : 'jpg';
+
+  try {
+    const img = await loadImage(selectedFile);
+    const blob = await resizeToTarget(img, w, h, targetKB * 1024, mimeType, whiteBg);
+    outputBlob = blob;
+
+    document.getElementById('origImg').src = URL.createObjectURL(selectedFile);
+    document.getElementById('origSize').textContent = formatKB(selectedFile.size);
+
+    const newImgEl = document.getElementById('newImg');
+    newImgEl.src = URL.createObjectURL(blob);
+    document.getElementById('newDims').textContent = w + ' x ' + h + ' px';
+    const newSizeTag = document.getElementById('newSize');
+    newSizeTag.textContent = formatKB(blob.size);
+    newSizeTag.className = 'size-tag ' + (blob.size <= targetKB * 1024 ? 'ok' : 'over');
+
+    previewGrid.style.display = 'flex';
+    downloadBtn.style.display = 'block';
+    statusEl.textContent = blob.size <= targetKB * 1024
+      ? '✅ Signature ready hai, form mein upload kar sakte hain!'
+      : '⚠ PNG format mein exact KB control possible nahi hota, JPEG try karein.';
+  } catch (err) {
+    statusEl.textContent = 'Kuch error aaya, dobara try karein.';
+    console.error(err);
+  }
+  processBtn.disabled = false;
+});
+
+downloadBtn.addEventListener('click', () => {
+  if (!outputBlob) return;
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(outputBlob);
+  a.download = 'signature-resized.' + outputExt;
+  a.click();
+});
+</script>
+
+</body>
+</html>

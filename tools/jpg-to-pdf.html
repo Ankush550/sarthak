@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JPEG to PDF Converter - SarthakYojana.in</title>
+<meta name="description" content="Free online JPEG to PDF converter. Ek ya multiple photos ko ek PDF file mein convert karein, Sarkari form upload ke liye ready, sirf browser mein.">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<style>
+  :root{
+    --blue:#1565c0; --blue-dark:#0d47a1; --green:#2e7d32; --red:#bb2424;
+    --bg:#f5f7fa; --card:#ffffff; --text:#2b2b2b; --muted:#667085; --border:#e2e6ec;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--text);}
+  header{background:linear-gradient(90deg,var(--blue-dark),var(--blue));padding:22px 16px;text-align:center;border-bottom:6px solid var(--red);}
+  header h1{color:#fff;margin:0;font-size:26px;}
+  header p{color:#dceaff;margin:6px 0 0;font-size:15px;}
+  .wrap{max-width:820px;margin:22px auto;padding:0 14px 40px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:22px;box-shadow:0 2px 10px rgba(0,0,0,0.04);margin-bottom:20px;}
+  .dropzone{border:2px dashed var(--blue);border-radius:10px;padding:30px 16px;text-align:center;cursor:pointer;background:#f0f7ff;}
+  .dropzone.drag{background:#dcefff;}
+  .dropzone p{margin:8px 0 0;color:var(--muted);font-size:14px;}
+  .dropzone .icon{font-size:34px;}
+  input[type=file]{display:none;}
+  .row{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px;}
+  .field{flex:1;min-width:150px;}
+  .field label{display:block;font-size:13px;color:var(--muted);margin-bottom:5px;font-weight:600;}
+  .field select{width:100%;padding:10px;border:1px solid var(--border);border-radius:8px;font-size:15px;}
+  .btn{display:inline-block;background:var(--green);color:#fff;border:none;padding:13px 26px;border-radius:8px;font-size:16px;font-weight:600;cursor:pointer;margin-top:18px;width:100%;}
+  .btn:disabled{background:#a5c9a8;cursor:not-allowed;}
+  .status{margin-top:14px;font-size:14px;color:var(--muted);text-align:center;min-height:18px;}
+  .thumbs{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px;}
+  .thumb{position:relative;width:100px;height:100px;border-radius:8px;overflow:hidden;border:1px solid var(--border);background:#fafbfc;}
+  .thumb img{width:100%;height:100%;object-fit:cover;}
+  .thumb .num{position:absolute;top:4px;left:4px;background:var(--blue);color:#fff;font-size:11px;padding:2px 6px;border-radius:10px;font-weight:700;}
+  .thumb .remove{position:absolute;top:4px;right:4px;background:var(--red);color:#fff;border:none;border-radius:50%;width:20px;height:20px;font-size:12px;cursor:pointer;line-height:1;}
+  .add-more{width:100px;height:100px;border:2px dashed var(--blue);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:26px;color:var(--blue);cursor:pointer;background:#f0f7ff;}
+  .adslot{margin:22px 0;text-align:center;}
+  .adslot p{font-size:11px;color:#aaa;text-transform:uppercase;letter-spacing:.5px;margin:0 0 4px;}
+  .adbox{background:#eef1f4;border:1px dashed #ccc;border-radius:8px;padding:26px;color:#98a2b3;font-size:13px;}
+  footer{text-align:center;padding:18px;color:#98a2b3;font-size:12px;}
+  .privacy{background:#f0f7ff;border-left:4px solid var(--blue);padding:10px 14px;border-radius:6px;font-size:13px;color:#334;margin-top:16px;}
+  .toollinks{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:14px;}
+  .toollinks a{font-size:13px;color:var(--blue-dark);text-decoration:none;background:#eef4ff;padding:6px 12px;border-radius:20px;}
+  .hint{font-size:12px;color:var(--muted);margin-top:8px;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🖼 JPEG to PDF Converter</h1>
+  <p>Ek ya multiple photos ko ek PDF file mein badlein - Sarkari form ready</p>
+</header>
+
+<div class="wrap">
+
+  <div class="card">
+    <div class="dropzone" id="dropzone">
+      <div class="icon">📤</div>
+      <strong>Photos yahan drop karein ya click karein</strong>
+      <p>Multiple JPG/PNG files select kar sakte hain</p>
+      <input type="file" id="fileInput" accept="image/jpeg,image/png,image/jpg" multiple>
+    </div>
+
+    <div id="thumbsWrap" style="display:none;">
+      <div class="thumbs" id="thumbs"></div>
+      <div class="hint">Photos ka order wahi rahega jis order mein PDF mein add hongi. Kisi photo ko hataane ke liye ✕ dabaayein.</div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label>Page Size</label>
+        <select id="pageSize">
+          <option value="a4" selected>A4</option>
+          <option value="letter">Letter</option>
+          <option value="fit">Photo ke size ke hisab se (Fit)</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Orientation</label>
+        <select id="orientation">
+          <option value="p" selected>Portrait</option>
+          <option value="l">Landscape</option>
+        </select>
+      </div>
+    </div>
+
+    <button class="btn" id="convertBtn" disabled>PDF Banayein</button>
+    <div class="status" id="status"></div>
+
+    <button class="btn" id="downloadBtn" style="display:none;background:var(--blue);">⬇ Download PDF</button>
+
+    <div class="privacy">🔒 Aapki photos kahin upload nahi hoti - sara kaam sirf aapke browser mein hota hai. 100% safe & private.</div>
+  </div>
+
+  <div class="adslot">
+    <p>Advertisement</p>
+    <div class="adbox">Ad Space</div>
+  </div>
+
+  <div class="toollinks">
+    <a href="pdf-to-jpg.html">📄 PDF to JPEG</a>
+    <a href="image-resizer.html">📉 Image Resizer</a>
+    <a href="signature-resizer.html">✍ Signature Resizer</a>
+  </div>
+
+</div>
+
+<footer>SarthakYojana.in - Yeh tool sirf aapki suvidha ke liye hai. Kripya apne form ke exact requirement official notification mein check karein.</footer>
+
+<script>
+const { jsPDF } = window.jspdf;
+
+const dropzone = document.getElementById('dropzone');
+const fileInput = document.getElementById('fileInput');
+const convertBtn = document.getElementById('convertBtn');
+const downloadBtn = document.getElementById('downloadBtn');
+const statusEl = document.getElementById('status');
+const thumbsWrap = document.getElementById('thumbsWrap');
+const thumbsEl = document.getElementById('thumbs');
+const pageSizeSelect = document.getElementById('pageSize');
+const orientationSelect = document.getElementById('orientation');
+
+let selectedFiles = [];
+let pdfBlob = null;
+
+dropzone.addEventListener('click', () => fileInput.click());
+['dragover','dragenter'].forEach(evt => dropzone.addEventListener(evt, e => { e.preventDefault(); dropzone.classList.add('drag'); }));
+['dragleave','drop'].forEach(evt => dropzone.addEventListener(evt, e => { e.preventDefault(); dropzone.classList.remove('drag'); }));
+dropzone.addEventListener('drop', e => { addFiles(Array.from(e.dataTransfer.files)); });
+fileInput.addEventListener('change', e => { addFiles(Array.from(e.target.files)); fileInput.value = ''; });
+
+function addFiles(files) {
+  const validFiles = files.filter(f => f.type.startsWith('image/'));
+  if (!validFiles.length) return;
+  selectedFiles = selectedFiles.concat(validFiles);
+  renderThumbs();
+  convertBtn.disabled = selectedFiles.length === 0;
+  downloadBtn.style.display = 'none';
+  statusEl.textContent = selectedFiles.length + ' photo(s) select ho gayi.';
+}
+
+function renderThumbs() {
+  thumbsEl.innerHTML = '';
+  selectedFiles.forEach((file, idx) => {
+    const div = document.createElement('div');
+    div.className = 'thumb';
+    div.innerHTML = `
+      <span class="num">${idx + 1}</span>
+      <img src="${URL.createObjectURL(file)}">
+      <button class="remove" data-idx="${idx}">✕</button>
+    `;
+    thumbsEl.appendChild(div);
+  });
+  thumbsWrap.style.display = selectedFiles.length ? 'block' : 'none';
+}
+
+thumbsEl.addEventListener('click', e => {
+  if (e.target.classList.contains('remove')) {
+    const idx = parseInt(e.target.dataset.idx, 10);
+    selectedFiles.splice(idx, 1);
+    renderThumbs();
+    convertBtn.disabled = selectedFiles.length === 0;
+    statusEl.textContent = selectedFiles.length + ' photo(s) select ho gayi.';
+  }
+});
+
+function loadImage(file) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    const reader = new FileReader();
+    reader.onload = e => { img.onload = () => resolve(img); img.onerror = reject; img.src = e.target.result; };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+convertBtn.addEventListener('click', async () => {
+  if (!selectedFiles.length) return;
+  convertBtn.disabled = true;
+  statusEl.textContent = 'PDF ban raha hai...';
+
+  try {
+    const pageSizeVal = pageSizeSelect.value;
+    const orientation = orientationSelect.value;
+    let doc = null;
+
+    for (let i = 0; i < selectedFiles.length; i++) {
+      statusEl.textContent = `Photo ${i + 1} / ${selectedFiles.length} add ho rahi hai...`;
+      const img = await loadImage(selectedFiles[i]);
+      const canvas = document.createElement('canvas');
+      canvas.width = img.width;
+      canvas.height = img.height;
+      const ctx = canvas.getContext('2d');
+      ctx.fillStyle = '#ffffff';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(img, 0, 0);
+      const imgData = canvas.toDataURL('image/jpeg', 0.92);
+
+      if (pageSizeVal === 'fit') {
+        const w = img.width * 0.264583;
+        const h = img.height * 0.264583;
+        if (!doc) doc = new jsPDF({ orientation: w > h ? 'l' : 'p', unit: 'mm', format: [w, h] });
+        else doc.addPage([w, h], w > h ? 'l' : 'p');
+        doc.addImage(imgData, 'JPEG', 0, 0, w, h);
+      } else {
+        if (!doc) doc = new jsPDF({ orientation, unit: 'mm', format: pageSizeVal });
+        else doc.addPage(pageSizeVal, orientation);
+
+        const pageWidth = doc.internal.pageSize.getWidth();
+        const pageHeight = doc.internal.pageSize.getHeight();
+        const imgRatio = img.width / img.height;
+        const pageRatio = pageWidth / pageHeight;
+        let renderW, renderH;
+        if (imgRatio > pageRatio) {
+          renderW = pageWidth;
+          renderH = pageWidth / imgRatio;
+        } else {
+          renderH = pageHeight;
+          renderW = pageHeight * imgRatio;
+        }
+        const x = (pageWidth - renderW) / 2;
+        const y = (pageHeight - renderH) / 2;
+        doc.addImage(imgData, 'JPEG', x, y, renderW, renderH);
+      }
+    }
+
+    pdfBlob = doc.output('blob');
+    statusEl.textContent = `✅ ${selectedFiles.length} photo(s) ki PDF taiyar hai!`;
+    downloadBtn.style.display = 'block';
+  } catch (err) {
+    statusEl.textContent = 'Kuch error aaya, dobara try karein.';
+    console.error(err);
+  }
+  convertBtn.disabled = false;
+});
+
+downloadBtn.addEventListener('click', () => {
+  if (!pdfBlob) return;
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(pdfBlob);
+  a.download = 'photos.pdf';
+  a.click();
+});
+</script>
+
+</body>
+</html>

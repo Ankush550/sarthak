@@ -169,3 +169,19 @@ secBox("🏢 PSU Jobs",[
 {label:"GAIL Recruitment 2026",href:"#"},
 {label:"HAL Vacancy 2026",href:"#"}
 ],"#");
+
+// ===============================
+// FREE ONLINE TOOLS
+// ===============================
+
+const TOOLS_DATA = [
+  {title:"Image Resizer", href:R+"tools/image-resizer.html", color:"ql-teal"},
+  {title:"JPG to PDF", href:R+"tools/jpg-to-pdf.html", color:"ql-purple"},
+  {title:"PDF to JPG", href:R+"tools/pdf-to-jpg.html", color:"ql-orange"},
+  {title:"Signature Resizer", href:R+"tools/signature-resizer.html", color:"ql-darkblue"}
+];
+
+document.getElementById("toolsGrid").innerHTML =
+TOOLS_DATA.map(t=>`
+  <a href="${t.href}" class="qlink ${t.color}">${t.title}</a>
+`).join("");
