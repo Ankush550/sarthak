@@ -34,6 +34,10 @@ const SEO = {
   defaultOgImage: 'https://sarthakyojana.in/assets/og-default.jpg',
   twitterHandle:  '@sarthakyojana',
   orgLogo:   'https://sarthakyojana.in/assets/logo.png',
+  orgDescription: 'Free Sarkari Naukri portal for Government Jobs, Results, Admit Cards and Sarkari Yojana',
+  orgFoundingDate: '2022',
+  orgAreaServed: 'India',
+  orgContactEmail: 'Ankush.Jain70146@gmail.com',
   locale:    'hi_IN',
 
   // ── Google Search Console verification ────────────────────────
@@ -125,6 +129,15 @@ function applySEO(cfg) {
     "name": SEO.siteName,
     "url": SEO.domain,
     "logo": SEO.orgLogo,
+    "description": SEO.orgDescription,
+    "foundingDate": SEO.orgFoundingDate,
+    "areaServed": SEO.orgAreaServed,
+    "contactPoint": SEO.orgContactEmail ? {
+      "@type": "ContactPoint",
+      "contactType": "Customer Support",
+      "email": SEO.orgContactEmail,
+      "availableLanguage": ["Hindi", "English"]
+    } : undefined,
     "sameAs": [SEO.domain]
   });
 
@@ -201,6 +214,15 @@ function _buildJobPostingSchema(job, url) {
 
   var schemaTitle = (job.title || '').replace(/\s*Recruitment\s*\d{4}.*$/i, '').trim() || job.title;
 
+  var address = { "@type": "PostalAddress", "addressCountry": "IN" };
+  // Only claim a specific city/state when the job data actually says so.
+  // Defaulting every unspecified job to "Delhi" (or "India" as a locality,
+  // which isn't a real locality) fabricates location data for jobs that
+  // are genuinely nationwide or based elsewhere — same accuracy risk as
+  // the salary fallback above.
+  if (job.addressLocality || job.location) address.addressLocality = job.addressLocality || job.location;
+  if (job.addressRegion) address.addressRegion = job.addressRegion;
+
   var schema = {
     "@context": "https://schema.org/",
     "@type": "JobPosting",
@@ -218,26 +240,30 @@ function _buildJobPostingSchema(job, url) {
     },
     "jobLocation": {
       "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": job.addressLocality || job.location || "India",
-        "addressRegion": job.addressRegion || "Delhi",
-        "addressCountry": "IN"
-      }
+      "address": address
     },
     "applicantLocationRequirements": { "@type": "Country", "name": "India" },
-    "baseSalary": {
+    "directApply": false
+  };
+
+  // Only add baseSalary when we actually have real numbers for this job.
+  // A fabricated generic ₹20,000–₹1,00,000 fallback range would misrepresent
+  // pay for every job that doesn't specify a salary (e.g. a ₹10,900 apprentice
+  // stipend would incorrectly show as up to ₹1,00,000) — this violates
+  // Google's structured-data accuracy policy and risks a manual JobPosting
+  // rich-result penalty. Better to omit the field entirely than guess.
+  if (job.salaryMin || job.salaryMax) {
+    schema.baseSalary = {
       "@type": "MonetaryAmount",
       "currency": "INR",
       "value": {
         "@type": "QuantitativeValue",
-        "minValue": job.salaryMin || 20000,
-        "maxValue": job.salaryMax || 100000,
+        "minValue": job.salaryMin || job.salaryMax,
+        "maxValue": job.salaryMax || job.salaryMin,
         "unitText": "MONTH"
       }
-    },
-    "directApply": false
-  };
+    };
+  }
 
   if (job.totalPosts || job.totalVacancies) {
     schema.totalJobOpenings = parseInt(job.totalPosts || job.totalVacancies) || undefined;
