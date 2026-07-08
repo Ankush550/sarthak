@@ -1,5 +1,1031 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["up-anganwadi-bharti-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+UP Anganwadi Bharti 2026 – Apply Online for 6000+ Anganwadi Worker & Helper Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+👩‍👧 UP Anganwadi Bharti 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">District-Wise Applications Open</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date : <strong>Varies by District (Up to 31 July 2026)</strong>
+</p>
+
+<a href="https://upanganwadibharti.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Uttar Pradesh Government</strong> is running a large-scale recruitment drive for
+<strong>Anganwadi Karyakartri (Anganwadi Worker)</strong> and <strong>Anganwadi Helper</strong> posts, with
+more than <strong>6,000 vacancies</strong> across various districts of the state.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Female candidates who have passed <strong>12th class</strong> and are aged between <strong>18 and 35
+years</strong> can apply as per the eligibility for each post. Importantly, <strong>each district has its own
+separate start and last date</strong> for applications, so candidates must check their district's official
+recruitment notice carefully.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+UP Anganwadi Bharti 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Office of the District Programme Officer, Child Development</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Anganwadi Karyakartri (Anganwadi Worker), Anganwadi Helper</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>6000+</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Gender</th>
+<td>Only Female Candidates</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 35 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>10th Pass, Intermediate (10+2) or Equivalent</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>upanganwadibharti.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+District-Wise Important Dates – Anganwadi Worker
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Notification Released</th>
+<th>Last Date to Apply</th>
+</tr>
+
+<tr><td>Auraiya</td><td>07-07-2026</td><td>28-07-2026</td></tr>
+<tr><td>Shravasti</td><td>06-07-2026</td><td>27-07-2026</td></tr>
+<tr><td>Chandauli</td><td>06-07-2026</td><td>25-07-2026</td></tr>
+<tr><td>Moradabad</td><td>02-07-2026</td><td>23-07-2026</td></tr>
+<tr><td>Varanasi</td><td>01-07-2026</td><td>31-07-2026</td></tr>
+<tr><td>Bhadohi</td><td>01-07-2026</td><td>25-07-2026</td></tr>
+<tr><td>Agra</td><td>30-06-2026</td><td>20-07-2026</td></tr>
+<tr><td>Pratapgarh</td><td>30-06-2026</td><td>28-07-2026</td></tr>
+<tr><td>Aligarh</td><td>30-06-2026</td><td>20-07-2026</td></tr>
+<tr><td>Mathura</td><td>29-06-2026</td><td>24-07-2026</td></tr>
+<tr><td>Farrukhabad</td><td>29-06-2026</td><td>20-07-2026</td></tr>
+<tr><td>Meerut</td><td>27-06-2026</td><td>17-07-2026</td></tr>
+<tr><td>Baghpat</td><td>27-06-2026</td><td>16-07-2026</td></tr>
+<tr><td>Kannauj</td><td>26-06-2026</td><td>16-07-2026</td></tr>
+<tr><td>Bijnor</td><td>25-06-2026</td><td>15-07-2026</td></tr>
+<tr><td>Kanpur Nagar</td><td>25-06-2026</td><td>15-07-2026</td></tr>
+<tr><td>Lalitpur</td><td>19-06-2026</td><td>09-07-2026</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+District-Wise Important Dates – Anganwadi Helper
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Notification Released</th>
+<th>Last Date to Apply</th>
+</tr>
+
+<tr><td>Auraiya</td><td>07-07-2026</td><td>28-07-2026</td></tr>
+<tr><td>Shravasti</td><td>06-07-2026</td><td>27-07-2026</td></tr>
+<tr><td>Chandauli</td><td>06-07-2026</td><td>25-07-2026</td></tr>
+<tr><td>Agra</td><td>30-06-2026</td><td>20-07-2026</td></tr>
+<tr><td>Baghpat</td><td>27-06-2026</td><td>16-07-2026</td></tr>
+<tr><td>Bijnor*</td><td>25-06-2025</td><td>15-07-2025</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr><td>General (UR)</td><td>₹0 (No Fee)</td></tr>
+<tr><td>OBC</td><td>₹0 (No Fee)</td></tr>
+<tr><td>SC</td><td>₹0 (No Fee)</td></tr>
+<tr><td>ST</td><td>₹0 (No Fee)</td></tr>
+<tr><td>EWS</td><td>₹0 (No Fee)</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 35 years</strong> of age. Only <strong>female candidates</strong> who
+are permanent residents of the concerned Ward/Gram Sabha are eligible.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+District-Wise Vacancy Details – Anganwadi Worker
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Total Posts</th>
+</tr>
+
+<tr><td>Auraiya</td><td>292</td></tr>
+<tr><td>Shravasti</td><td>60</td></tr>
+<tr><td>Chandauli</td><td>43</td></tr>
+<tr><td>Moradabad</td><td>207</td></tr>
+<tr><td>Varanasi</td><td>187</td></tr>
+<tr><td>Bhadohi</td><td>108</td></tr>
+<tr><td>Agra</td><td>322</td></tr>
+<tr><td>Pratapgarh</td><td>250</td></tr>
+<tr><td>Aligarh</td><td>237</td></tr>
+<tr><td>Mathura</td><td>236</td></tr>
+<tr><td>Farrukhabad</td><td>292</td></tr>
+<tr><td>Meerut</td><td>180</td></tr>
+<tr><td>Baghpat</td><td>261</td></tr>
+<tr><td>Kannauj</td><td>125</td></tr>
+<tr><td>Bijnor</td><td>268</td></tr>
+<tr><td>Kanpur Nagar</td><td>259</td></tr>
+<tr><td>Lalitpur</td><td>75</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+District-Wise Vacancy Details – Anganwadi Helper
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Total Posts</th>
+</tr>
+
+<tr><td>Auraiya</td><td>181</td></tr>
+<tr><td>Shravasti</td><td>68</td></tr>
+<tr><td>Chandauli</td><td>126</td></tr>
+<tr><td>Agra</td><td>322</td></tr>
+<tr><td>Baghpat</td><td>374</td></tr>
+<tr><td>Bijnor*</td><td>260</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Minimum Qualification</td>
+<td>10th Pass, Intermediate (10+2) or Equivalent</td>
+</tr>
+
+<tr>
+<td>Gender</td>
+<td>Only Female Candidates</td>
+</tr>
+
+<tr>
+<td>Domicile</td>
+<td>Must be a Permanent Resident of the Concerned Ward/Gram Sabha</td>
+</tr>
+
+<tr>
+<td>Merit Criteria</td>
+<td>Intermediate to Postgraduate Marks</td>
+</tr>
+
+<tr>
+<td>Domicile Certificate</td>
+<td>Online Tehsil Issued & Digitally Verifiable</td>
+</tr>
+
+<tr>
+<td>Caste Certificate</td>
+<td>Online Verifiable</td>
+</tr>
+
+<tr>
+<td>Income Certificate</td>
+<td>Online Verifiable as per UP Government Rules</td>
+</tr>
+
+<tr>
+<td>Widow Candidates</td>
+<td>Death Certificate & Family Register Required</td>
+</tr>
+
+<tr>
+<td>Divorced Candidates</td>
+<td>Valid Court Order Required</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected Anganwadi Karyakatri will get an honorarium as per <strong>Uttar Pradesh Government norms</strong>.
+The job is <strong>temporary and honorarium based</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Merit Preparation</td>
+<td>Based on Academic Marks</td>
+</tr>
+
+<tr>
+<td>Written Examination</td>
+<td>Not Conducted</td>
+</tr>
+
+<tr>
+<td>Interview</td>
+<td>Not Conducted</td>
+</tr>
+
+<tr>
+<td>Document Verification</td>
+<td>Required</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Merit List & Eligibility Verification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before their district's last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website.</li>
+
+<li>Read the official notification carefully.</li>
+
+<li>Register/Login on the portal.</li>
+
+<li>Fill in personal, educational and domicile details.</li>
+
+<li>Upload the required documents.</li>
+
+<li>Review all entered information carefully.</li>
+
+<li>Submit the online application before the last date.</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://upanganwadibharti.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://upanganwadibharti.in" target="_blank">
+upanganwadibharti.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in UP Anganwadi Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+More than <strong>6,000 posts</strong> of Anganwadi Worker and Anganwadi Helper are being filled across various
+districts of Uttar Pradesh.
+</p>
+
+<h3>2. Who can apply for UP Anganwadi Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Only <strong>female candidates</strong> who are permanent residents of the concerned Ward/Gram Sabha and have
+passed at least <strong>10th class</strong> can apply.
+</p>
+
+<h3>3. Will there be a written examination for UP Anganwadi Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. There is <strong>no written examination or interview</strong>. Selection is entirely based on the merit
+list of academic marks.
+</p>
+
+<h3>4. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date varies by district, ranging up to <strong>31 July 2026</strong>. Candidates should check their
+district's specific notification.
+</p>
+
+<h3>5. What honorarium will selected Anganwadi Workers get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get an honorarium as per <strong>Uttar Pradesh Government norms</strong>.
+</p>
+
+<h3>6. Is there any application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No, the application is <strong>completely free</strong> for all categories of candidates.
+</p>
+
+<h3>7. How will the merit list be prepared?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The merit list will be prepared based on marks obtained from <strong>Intermediate to Postgraduate</strong>
+level. Candidates with higher academic qualifications get additional merit benefit.
+</p>
+
+<h3>8. Can a woman from another district apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Only permanent female residents of the specific <strong>Ward/Gram Sabha</strong> where the vacancy exists
+can apply. Applications from other areas will not be accepted.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>UP Anganwadi Bharti 2026</strong> is a major opportunity for women across Uttar Pradesh to join
+government child development services. Since each district has a different deadline, interested candidates
+should check their district's official notification promptly and apply before the last date.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for UP Anganwadi Bharti 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Check your district's last date and apply before it closes.
+</p>
+
+<a href="https://upanganwadibharti.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=army-ssc-tech-68th-women-recruitment-2026">Army SSC Tech 68th Women Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrc-ncr-act-apprentice-recruitment-2026">North Central Railway Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official district-wise notification before applying.</p>
+`;
+JOB_CONTENT["army-ssc-tech-68th-women-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Army SSC Tech 68th Women Vacancy 2026 – Apply Online for 31 Lieutenant Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🎖️ Army SSC Tech 68th Women Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 06 August 2026</strong>
+</p>
+
+<a href="https://joinindianarmy.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Army</strong> has released the recruitment notification for
+<strong>SSC Tech 68th (Women) Course April 2027</strong>, inviting unmarried female engineering candidates for
+<strong>31 (probable) Lieutenant</strong> posts under the <strong>Short Service Commission (SSC)</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>08 July 2026</strong> and will close on
+<strong>06 August 2026</strong>. Candidates must hold a <strong>B.E./B.Tech</strong> degree in the relevant
+engineering discipline, or be in their final year. Selected candidates will get a salary of
+<strong>₹56,100 to ₹1,77,500</strong> per month.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Army SSC Tech 68th Women Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Army</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Lieutenant (SSC Technical Entry)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>31 (Probable)</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>06 August 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>20 to 27 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹56,100 – ₹1,77,500 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>joinindianarmy.nic.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Out</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>06 August 2026 (11:59 PM)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no application fee</strong> for this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>20 and 27 years</strong> of age, calculated as on
+<strong>01 April 2027</strong>. Only <strong>unmarried female candidates</strong> are eligible for this
+recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>Lieutenant (SSC 68th Technical Women Course April 2027)</td>
+<td>31</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Lieutenant (SSC 68th Tech Women Course 2027)</td>
+<td>B.E./B.Tech Degree in the Relevant Engineering Discipline from a Recognized University</td>
+</tr>
+
+<tr>
+<td>Final Year Candidates</td>
+<td>Eligible to Apply, Subject to Completion of Degree within the Prescribed Time</td>
+</tr>
+
+<tr>
+<td>Gender</td>
+<td>Only Unmarried Female Candidates are Eligible</td>
+</tr>
+
+<tr>
+<td>Nationality</td>
+<td>Must Meet Indian Army Eligibility Conditions</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Component</th>
+<th>Salary/Benefits</th>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Level-10</td>
+</tr>
+
+<tr>
+<td>Basic Pay</td>
+<td>₹56,100/- Per Month</td>
+</tr>
+
+<tr>
+<td>Maximum Pay</td>
+<td>₹1,77,500/- Per Month</td>
+</tr>
+
+<tr>
+<td>Military Service Pay</td>
+<td>As per Government Rules</td>
+</tr>
+
+<tr>
+<td>Additional Allowances</td>
+<td>DA, HRA, Transport Allowance and Other Army Allowances</td>
+</tr>
+
+<tr>
+<td>Other Benefits</td>
+<td>Medical Facility, Canteen, Leave, Insurance and Other Benefits as per Army Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Step</th>
+<th>Selection Stage</th>
+</tr>
+
+<tr>
+<td>Step 1</td>
+<td>Application Submission</td>
+</tr>
+
+<tr>
+<td>Step 2</td>
+<td>Shortlisting</td>
+</tr>
+
+<tr>
+<td>Step 3</td>
+<td>SSB Interview</td>
+</tr>
+
+<tr>
+<td>Step 4</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Step 5</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Step 6</td>
+<td>Final Merit List</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official Indian Army recruitment website.</li>
+
+<li>Open the Officer Entry / SSC Technical (Women) 68th Course 2027 recruitment link.</li>
+
+<li>Register using a valid Email ID and Mobile Number (if not already registered).</li>
+
+<li>Log in and fill out the online application form with the required personal, educational and other details.</li>
+
+<li>Upload the necessary documents, photograph and signature in the prescribed format.</li>
+
+<li>Review all the entered details carefully before submitting the application.</li>
+
+<li>Submit the application form on or before 06 August 2026 (11:59 PM).</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://joinindianarmy.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://joinindianarmy.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://joinindianarmy.nic.in" target="_blank">
+joinindianarmy.nic.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in Army SSC Tech 68th Women Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>31 (probable) posts</strong> are available for female candidates for Lieutenant (SSC
+Technical Entry). The final number of vacancies will be as per the official notification.
+</p>
+
+<h3>2. When will the application process start?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>08 July 2026</strong> and will continue until
+<strong>06 August 2026 at 11:59 PM</strong>.
+</p>
+
+<h3>3. Who can apply for Army SSC Tech 68th Women Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Unmarried female candidates who have passed <strong>B.E./B.Tech</strong> in the relevant engineering discipline,
+or are in their final year, are eligible to apply.
+</p>
+
+<h3>4. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+There is <strong>no application fee</strong> for any category of female candidates in this recruitment.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes <strong>Shortlisting, SSB Interview, Medical Examination, Document Verification</strong> and
+the Final Merit List.
+</p>
+
+<h3>6. How much salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>₹56,100 to ₹1,77,500</strong> per month, along with DA, HRA, Transport
+Allowance, medical facility, canteen, insurance and other Army benefits.
+</p>
+
+<h3>7. What is the age limit?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>20 and 27 years</strong> of age. Age is calculated as on
+<strong>01 April 2027</strong>, with age relaxation applicable as per rules.
+</p>
+
+<h3>8. Can final year students apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. Candidates in their <strong>final year of B.E./B.Tech</strong> can apply, provided they can submit their
+degree within the prescribed time.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Army SSC Tech 68th Women Vacancy 2026</strong> is a prestigious opportunity for unmarried female
+engineering graduates to serve the nation as a Lieutenant in the Indian Army. Interested candidates should
+complete their online registration and submit the application well before <strong>06 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for Army SSC Tech 68th Women Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>06 August 2026</strong>.
+</p>
+
+<a href="https://joinindianarmy.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrc-ncr-act-apprentice-recruitment-2026">North Central Railway Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=up-anganwadi-bharti-recruitment-2026">UP Anganwadi Bharti 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
+`;
 JOB_CONTENT["rrc-ncr-act-apprentice-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
