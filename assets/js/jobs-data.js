@@ -1,6 +1,127 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"pgvcl-vidyut-sahayak-recruitment-2026",
+    orgWebsite:"https://www.pgvcl.com",
+    title:"PGVCL Vidyut Sahayak Vacancy 2026",
+    shortTitle:"PGVCL Vidyut Sahayak Online Form 2026",
+    organization:"Paschim Gujarat Vij Company Ltd. (PGVCL)",
+    image:"PGVCLVidyutSahayak.jpeg",
+
+    totalPosts:236,
+
+    lastDate:"2026-08-06",
+    lastDateDisplay:"06 August 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-08-06T18:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:22750,
+    salaryMax:55800,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Gujarat (PGVCL, UGVCL, MGVCL, DGVCL)",
+    addressLocality:"Rajkot",
+    addressRegion:"Gujarat",
+    addressCountry:"IN",
+
+    qualification:"B.A. / B.Com. / B.Sc. / BCA / BBA with Minimum 55% Marks",
+
+    ageLimit:"Up to 45 Years",
+
+    applyLink:"https://www.pgvcl.com",
+    officialNotification:"https://www.pgvcl.com",
+
+    fee:"All PwBD Candidates: Rs. 250 (Inclusive of GST)",
+
+    description:"Paschim Gujarat Vij Company Ltd. (PGVCL) has released a special recruitment notification for 236 posts of Vidyut Sahayak (Junior Assistant), exclusively for Persons with Benchmark Disability (PwBD) candidates, across PGVCL, UGVCL, MGVCL and DGVCL. Candidates with a B.A., B.Com., B.Sc., BCA or BBA degree with minimum 55% marks can apply online from 17 July 2026 to 06 August 2026. Selection includes Tier-I and Tier-II objective examinations, document verification and a pre-employment medical examination. Selected candidates will get a fixed salary of Rs. 22,750 per month in the first year, rising to a regular pay scale of Rs. 25,000 to Rs. 55,800 after three years.",
+
+    category:"Gujarat Government Jobs",
+    jobType:"Vidyut Sahayak (Junior Assistant)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-17",
+    applicationEndDate:"2026-08-06",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"PGVCL - Low Vision (LV)", totalPosts:29},
+        {postName:"PGVCL - Hard of Hearing (HH)", totalPosts:31},
+        {postName:"PGVCL - Locomotor Disability", totalPosts:10},
+        {postName:"PGVCL - SLD", totalPosts:3},
+        {postName:"UGVCL - Low Vision (LV)", totalPosts:12},
+        {postName:"UGVCL - Hard of Hearing (HH)", totalPosts:13},
+        {postName:"UGVCL - Locomotor Disability", totalPosts:1},
+        {postName:"UGVCL - SLD", totalPosts:5},
+        {postName:"MGVCL - Low Vision (LV)", totalPosts:14},
+        {postName:"MGVCL - Hard of Hearing (HH)", totalPosts:14},
+        {postName:"MGVCL - Locomotor Disability", totalPosts:18},
+        {postName:"MGVCL - SLD", totalPosts:12},
+        {postName:"DGVCL - Low Vision (LV)", totalPosts:21},
+        {postName:"DGVCL - Hard of Hearing (HH)", totalPosts:22},
+        {postName:"DGVCL - Locomotor Disability", totalPosts:1},
+        {postName:"DGVCL - SLD", totalPosts:18}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"psssb-craft-instructor-recruitment-2026",
+    orgWebsite:"https://www.sssb.punjab.gov.in",
+    title:"Punjab Craft Instructor Vacancy 2026",
+    shortTitle:"PSSSB Craft Instructor Online Form 2026",
+    organization:"Punjab Subordinate Services Selection Board (PSSSB)",
+    image:"PSSSBCraftInstructor.jpeg",
+
+    totalPosts:681,
+
+    lastDate:"",
+    lastDateDisplay:"To Be Announced",
+
+    datePosted:"2026-07-07",
+    validThrough:"",
+
+    employmentType:"FULL_TIME",
+
+    location:"Punjab",
+    addressLocality:"Chandigarh",
+    addressRegion:"Punjab",
+    addressCountry:"IN",
+
+    qualification:"To Be Announced in Detailed Notification (Trade Certificate / Diploma / Degree)",
+
+    ageLimit:"To Be Announced",
+
+    applyLink:"https://www.sssb.punjab.gov.in",
+    officialNotification:"https://www.sssb.punjab.gov.in",
+
+    fee:"To Be Announced",
+
+    description:"Punjab Subordinate Services Selection Board (PSSSB) has released a short notice for 681 posts of Craft Instructor (Various Trades) under the Directorate of Technical Education and Industrial Training, Punjab. Online applications will start from 10 July 2026 through the official website. The detailed notification, including educational qualification, age limit, application fee, selection process and trade-wise vacancies, will be released soon.",
+
+    category:"Punjab Government Jobs",
+    jobType:"Craft Instructor",
+
+    advertisementNo:"03/2026",
+
+    applicationStartDate:"2026-07-10",
+    applicationEndDate:"",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"csc-aadhaar-supervisor-recruitment-2026",
     orgWebsite:"https://career.csccloud.in",
     title:"CSC Aadhaar Supervisor Vacancy 2026",

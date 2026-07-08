@@ -1,5 +1,1215 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["psssb-craft-instructor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Punjab Craft Instructor Vacancy 2026 – Short Notice Out for 681 Posts
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+📢 Punjab Craft Instructor Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Short Notice Released – Detailed Notification Awaited</span>
+</p>
+
+<p style="font-size:19px;">
+Application Start Date :
+<strong>10 July 2026</strong>
+</p>
+
+<a href="https://www.sssb.punjab.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Official Website →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Punjab Subordinate Services Selection Board (PSSSB)</strong> has released a short notice for
+<strong>681 posts</strong> of <strong>Craft Instructor (Various Trades)</strong> under the Directorate of
+Technical Education and Industrial Training, Punjab (Industrial Training Wing).
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications will start from <strong>10 July 2026</strong> through the official website. The Board has
+currently released only a <strong>short notice</strong>, and the <strong>detailed notification</strong> —
+including educational qualification, age limit, application fee, selection process and trade-wise vacancies —
+will be published soon.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Punjab Craft Instructor Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Punjab Subordinate Services Selection Board (PSSSB)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Craft Instructor (Various Trades)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>681</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.sssb.punjab.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The application fee has <strong>not yet been announced</strong>. Details will be published in the detailed
+notification, along with fee category-wise information.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum and maximum age limit has <strong>not yet been announced</strong>. This information, along with
+applicable reservation-based age relaxation, will be released in the detailed notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Trade</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>Craft Instructor</td>
+<td>Various Trades</td>
+<td>681</td>
+</tr>
+
+<tr>
+<td>Trade-wise Vacancy</td>
+<td>To Be Announced</td>
+<td>—</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>All Trades</th>
+<th>681</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Trade-wise vacancy distribution has not been announced yet and will be published along with the detailed
+notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Post Name</td>
+<td>Craft Instructor</td>
+</tr>
+
+<tr>
+<td>Educational Qualification</td>
+<td>To Be Announced in Detailed Notification</td>
+</tr>
+
+<tr>
+<td>Technical Qualification</td>
+<td>Trade Certificate / Diploma / Degree (As per Official Notification)</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Eligibility Details</td>
+<td>Will be available in the detailed notification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Salary</td>
+<td>As Per Punjab Government Rules</td>
+</tr>
+
+<tr>
+<td>Allowances</td>
+<td>As Per Government Norms</td>
+</tr>
+
+<tr>
+<td>Other Benefits</td>
+<td>Applicable as per Service Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Examination (If Applicable)</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Merit List Based</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Once the detailed notification is released, eligible candidates should follow the steps below to apply:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official PSSSB website.</li>
+
+<li>Open the Recruitment/Careers section.</li>
+
+<li>Click on Craft Instructor Recruitment 2026 (Advertisement No. 03/2026).</li>
+
+<li>Read the detailed notification carefully.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Fill in the application form with correct personal and educational details.</li>
+
+<li>Upload the required documents, photograph and signature.</li>
+
+<li>Pay the application fee through the online payment gateway (when announced).</li>
+
+<li>Verify all the entered information carefully.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.sssb.punjab.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.sssb.punjab.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.sssb.punjab.gov.in" target="_blank">
+sssb.punjab.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total vacancies are there in PSSSB Craft Instructor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+PSSSB has released a short notice for <strong>681 Craft Instructor (Various Trades)</strong> posts.
+Trade-wise vacancy details will be released in the detailed notification.
+</p>
+
+<h3>2. When will applications start for PSSSB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start from <strong>10 July 2026</strong>. The last date has not yet been announced.
+</p>
+
+<h3>3. What is the educational qualification for PSSSB Craft Instructor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Detailed educational qualification, trade-wise eligibility and technical qualification will be available once
+the official detailed notification is released.
+</p>
+
+<h3>4. What is the age limit for PSSSB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The age limit has not been released yet. The detailed notification will specify the minimum and maximum age
+along with category-wise relaxation.
+</p>
+
+<h3>5. What is the application fee for PSSSB Craft Instructor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee has not been announced yet. Fee details for all categories will be available after the
+detailed notification is released.
+</p>
+
+<h3>6. What will be the selection process for PSSSB Craft Instructor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates will be selected based on a <strong>Written Examination, Document Verification</strong> and, if
+applicable, a <strong>Medical Examination</strong>. Final selection will be merit-based.
+</p>
+
+<h3>7. When will the detailed notification for PSSSB Craft Instructor Vacancy 2026 be released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Board has currently released only a <strong>short notice</strong>. The detailed notification will be
+published soon on the official website.
+</p>
+
+<h3>8. Has trade-wise vacancy information been released?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Currently only the total of <strong>681 posts</strong> has been announced. Complete trade-wise vacancy
+details will be released in the detailed notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Punjab Craft Instructor Vacancy 2026</strong> is a major recruitment drive with 681 posts announced
+under PSSSB. Candidates interested in this opportunity should keep checking the official website regularly for
+the detailed notification with full eligibility and application details.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Track Punjab Craft Instructor Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Applications start from <strong>10 July 2026</strong>. Keep checking for the detailed notification.
+</p>
+
+<a href="https://www.sssb.punjab.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Official Website
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=pgvcl-vidyut-sahayak-recruitment-2026">PGVCL Vidyut Sahayak Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=csc-aadhaar-supervisor-recruitment-2026">CSC Aadhaar Supervisor Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official PSSSB notification before applying.</p>
+`;
+JOB_CONTENT["pgvcl-vidyut-sahayak-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+PGVCL Vidyut Sahayak Vacancy 2026 – Apply Online for 236 Junior Assistant Posts (PwBD Special Recruitment)
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+⚡ PGVCL Vidyut Sahayak Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:orange;font-weight:bold;">Applications Open Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>17 July 2026 to 06 August 2026</strong>
+</p>
+
+<a href="https://www.pgvcl.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Paschim Gujarat Vij Company Ltd. (PGVCL)</strong> has released a special recruitment notification for
+<strong>236 posts</strong> of <strong>Vidyut Sahayak (Junior Assistant)</strong>, exclusively for
+<strong>Persons with Benchmark Disability (PwBD)</strong> candidates, across PGVCL, UGVCL, MGVCL and DGVCL.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications will start on <strong>17 July 2026</strong> and continue until
+<strong>06 August 2026 at 6:00 PM</strong>. Candidates need a <strong>B.A., B.Com., B.Sc., BCA or BBA</strong>
+degree with minimum 55% marks. Selected candidates will get a fixed salary of
+<strong>₹22,750 per month</strong> in the first year, rising to a regular pay scale of
+<strong>₹25,000 – ₹55,800</strong> after three years.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+PGVCL Vidyut Sahayak Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Paschim Gujarat Vij Company Ltd. (PGVCL)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Vidyut Sahayak (Junior Assistant)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>236</td>
+</tr>
+
+<tr>
+<th>Eligible Candidates</th>
+<td>Persons with Benchmark Disability (PwBD) Only</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>17 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>06 August 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>45 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹22,750 per Month (Starting)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.pgvcl.com</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>17 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>06 August 2026</td>
+</tr>
+
+<tr>
+<td>Exam Date</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>All PwBD Candidates</td>
+<td>₹250 (Inclusive of GST)</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit is <strong>45 years</strong> (as on 07 July 2026). This is a special recruitment drive
+exclusively for <strong>Persons with Benchmark Disability (PwBD)</strong> candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Company-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Company</th>
+<th>Low Vision (LV)</th>
+<th>Hard of Hearing (HH)</th>
+<th>Locomotor Disability</th>
+<th>SLD</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr>
+<td>PGVCL</td>
+<td>29</td>
+<td>31</td>
+<td>10</td>
+<td>3</td>
+<td>85</td>
+</tr>
+
+<tr>
+<td>UGVCL</td>
+<td>12</td>
+<td>13</td>
+<td>1</td>
+<td>5</td>
+<td>31</td>
+</tr>
+
+<tr>
+<td>MGVCL</td>
+<td>14</td>
+<td>14</td>
+<td>18</td>
+<td>12</td>
+<td>58</td>
+</tr>
+
+<tr>
+<td>DGVCL</td>
+<td>21</td>
+<td>22</td>
+<td>1</td>
+<td>18</td>
+<td>62</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>76</th>
+<th>80</th>
+<th>23</th>
+<th>57</th>
+<th>236</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Required Qualification</td>
+<td>B.A., B.Com., B.Sc., BCA or BBA</td>
+</tr>
+
+<tr>
+<td>University</td>
+<td>Recognized by UGC/AICTE</td>
+</tr>
+
+<tr>
+<td>Minimum Marks</td>
+<td>55% Average in Final Year / Last Two Semesters</td>
+</tr>
+
+<tr>
+<td>Mode of Study</td>
+<td>Regular / External / Open / Distance Learning</td>
+</tr>
+
+<tr>
+<td>ODL Requirement</td>
+<td>NAAC Score 3.01+ or NBA 650+ (where applicable)</td>
+</tr>
+
+<tr>
+<td>Computer Knowledge</td>
+<td>Required</td>
+</tr>
+
+<tr>
+<td>Language Skills</td>
+<td>Good Command of English & Gujarati</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Period</th>
+<th>Fixed Salary</th>
+</tr>
+
+<tr>
+<td>1st Year</td>
+<td>₹22,750 per Month</td>
+</tr>
+
+<tr>
+<td>2nd Year</td>
+<td>₹24,700 per Month</td>
+</tr>
+
+<tr>
+<td>3rd Year</td>
+<td>₹26,650 per Month</td>
+</tr>
+
+<tr>
+<td>After Regular Appointment</td>
+<td>₹25,000 – ₹55,800 Pay Scale</td>
+</tr>
+
+<tr>
+<td>Other Benefits</td>
+<td>TA/DA as per Company Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Tier-I Objective Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Tier-II Objective Examination</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Pre-Employment Medical Examination</td>
+</tr>
+
+<tr>
+<td>Final Merit</td>
+<td>Based on Tier-II Performance & Eligibility</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Tier-I Exam Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>Reasoning</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>Quantitative Aptitude</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>English Language</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Gujarati Language</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>General Knowledge</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>Computer Knowledge</td>
+<td>20</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>100</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Tier-II Exam Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>English</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Gujarati</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Polity / Public Administration / RTI</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>History, Geography & Culture</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>Economics, Environment & Science</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>Current Affairs</td>
+<td>10</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>100</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Negative Marking
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Total Questions</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Total Marks</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Question Type</td>
+<td>Objective (MCQ)</td>
+</tr>
+
+<tr>
+<td>Negative Marking</td>
+<td>0.25 Mark Deduction for Each Wrong Answer</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official PGVCL website.</li>
+
+<li>Open the Recruitment/Careers section.</li>
+
+<li>Click on Vidyut Sahayak (Junior Assistant) Recruitment 2026.</li>
+
+<li>Read the official notification carefully.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Fill in the application form with accurate personal and educational details.</li>
+
+<li>Upload the required documents, photograph and signature.</li>
+
+<li>Select your preferred DISCOM/company in order of preference.</li>
+
+<li>Pay the application fee through the online payment gateway.</li>
+
+<li>Review all entered details before submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.pgvcl.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.pgvcl.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.pgvcl.com" target="_blank">
+pgvcl.com
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total vacancies are there in PGVCL Vidyut Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>236 posts</strong> will be filled. This recruitment is exclusively for
+<strong>PwBD (Persons with Benchmark Disability)</strong> candidates.
+</p>
+
+<h3>2. When will applications start for PGVCL Vidyut Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start on <strong>17 July 2026</strong> and candidates can apply until
+<strong>06 August 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification for PGVCL Junior Assistant?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold a <strong>B.A., B.Com., B.Sc., BCA or BBA</strong> degree with at least
+<strong>55% marks</strong>, along with computer knowledge and a good command of English and Gujarati.
+</p>
+
+<h3>4. What is the application fee for PGVCL Vidyut Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹250 (inclusive of GST)</strong> for all eligible candidates, payable only
+online.
+</p>
+
+<h3>5. What is the selection process for PGVCL Vidyut Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes a <strong>Tier-I Exam, Tier-II Exam, Document Verification</strong> and
+<strong>Medical Examination</strong>. Final merit is prepared based on rules.
+</p>
+
+<h3>6. What salary will PGVCL Junior Assistant get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates will get <strong>₹22,750</strong> in the first year, <strong>₹24,700</strong> in the second year and
+<strong>₹26,650</strong> in the third year. After successful completion of three years, the regular pay scale
+of <strong>₹25,000 – ₹55,800</strong> may be given.
+</p>
+
+<h3>7. What is the maximum age limit for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit is <strong>45 years</strong> (as on 07 July 2026), for this special PwBD recruitment.
+</p>
+
+<h3>8. Is there negative marking in the PGVCL exam?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, <strong>0.25 marks</strong> will be deducted for each wrong answer in both Tier-I and Tier-II
+examinations.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>PGVCL Vidyut Sahayak Vacancy 2026</strong> is a valuable opportunity for eligible PwBD candidates to
+secure a government job in Gujarat's power distribution companies. Interested candidates should prepare their
+documents in advance and submit the online application well before <strong>06 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for PGVCL Vidyut Sahayak Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>06 August 2026</strong>.
+</p>
+
+<a href="https://www.pgvcl.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=psssb-craft-instructor-recruitment-2026">Punjab Craft Instructor Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=csc-aadhaar-supervisor-recruitment-2026">CSC Aadhaar Supervisor Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=cgssb-namuna-sahayak-recruitment-2026">CGSSB Namuna Sahayak Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official PGVCL notification before applying.</p>
+`;
 JOB_CONTENT["csc-aadhaar-supervisor-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
