@@ -1,5 +1,478 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["dhfw-punjab-house-surgeon-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+DHFW Punjab House Surgeon Vacancy 2026 – Apply Online for 523 Posts
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+⚕️ DHFW Punjab House Surgeon Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Short Notice – Applications Start Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>10 July 2026 to 26 July 2026</strong>
+</p>
+
+<a href="https://nhm.punjab.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Department of Health & Family Welfare, Punjab (NHM Punjab)</strong> has released a short notice for
+<strong>House Surgeon Recruitment 2026</strong>, inviting applications for <strong>523 posts</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications will start on <strong>10 July 2026</strong> and continue until
+<strong>26 July 2026</strong>. Candidates need an <strong>MBBS degree</strong> with compulsory rotatory
+internship completed, and a valid registration with the <strong>Punjab Medical Council (PMC)</strong> or
+<strong>National Medical Commission (NMC)</strong>, along with knowledge of Punjabi language. Selected
+candidates will get an attractive monthly salary of <strong>₹70,000</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+DHFW Punjab House Surgeon Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Department of Health & Family Welfare, Punjab (NHM Punjab)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>House Surgeon</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>523</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>26 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹70,000 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>nhm.punjab.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>26 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The application fee has <strong>not been announced yet</strong> in the short notice. Details will be released
+in the detailed notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum and maximum age limit has <strong>not been mentioned</strong> in the short notice. This information
+will be released along with the detailed notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Number of Posts</th>
+</tr>
+
+<tr>
+<td>House Surgeon</td>
+<td>523</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>523 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>House Surgeon</td>
+<td>MBBS Degree from a Recognized Medical College/University</td>
+</tr>
+
+<tr>
+<td>Internship</td>
+<td>Compulsory Rotatory Internship Completed</td>
+</tr>
+
+<tr>
+<td>Registration</td>
+<td>Valid Registration with Punjab Medical Council (PMC) or National Medical Commission (NMC)</td>
+</tr>
+
+<tr>
+<td>Language Requirement</td>
+<td>Proficiency in Punjabi Language</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Monthly Salary</td>
+<td>₹70,000/- Per Month</td>
+</tr>
+
+<tr>
+<td>Pay Type</td>
+<td>Fixed Monthly Salary</td>
+</tr>
+
+<tr>
+<td>Additional Benefits</td>
+<td>As per Punjab Government / NHM Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Counselling</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Final Selection</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official NHM Punjab website.</li>
+
+<li>Open the House Surgeon Recruitment 2026 notification.</li>
+
+<li>Register using your valid email ID and mobile number.</li>
+
+<li>Fill in the online application form carefully.</li>
+
+<li>Upload all the required documents.</li>
+
+<li>Pay the application fee (if applicable after the detailed notification is released).</li>
+
+<li>Verify all entered details before submission.</li>
+
+<li>Submit the application form online.</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://nhm.punjab.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://nhm.punjab.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://nhm.punjab.gov.in" target="_blank">
+nhm.punjab.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When will applications start for DHFW Punjab House Surgeon Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start from <strong>10 July 2026</strong>.
+</p>
+
+<h3>2. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can apply online until <strong>26 July 2026</strong>.
+</p>
+
+<h3>3. How many total posts are there in this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>523 House Surgeon</strong> posts will be filled under this recruitment drive.
+</p>
+
+<h3>4. What salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get an attractive salary of <strong>₹70,000 per month</strong>.
+</p>
+
+<h3>5. What is the educational qualification for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold an <strong>MBBS degree</strong>, have completed compulsory rotatory internship, and hold
+valid registration with <strong>PMC or NMC</strong>. Knowledge of Punjabi language is also required.
+</p>
+
+<h3>6. What is the selection process for DHFW Punjab House Surgeon Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on <strong>Counselling, Document Verification</strong> and final selection as decided
+by the department.
+</p>
+
+<h3>7. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee has not been released in the short notice. Full details will be available in the detailed
+notification.
+</p>
+
+<h3>8. What is the age limit for DHFW Punjab House Surgeon Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The age limit has not been mentioned in the short notice. It will be specified in the detailed notification
+along with applicable age relaxation.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>DHFW Punjab House Surgeon Vacancy 2026</strong> offers MBBS graduates a chance to secure a
+well-paying government healthcare role in Punjab. Interested candidates should keep checking the official
+website and submit the online application well before <strong>26 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for DHFW Punjab House Surgeon Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>26 July 2026</strong>.
+</p>
+
+<a href="https://nhm.punjab.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=army-ssc-tech-68th-women-recruitment-2026">Army SSC Tech 68th Women Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=rrc-ncr-act-apprentice-recruitment-2026">North Central Railway Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=psssb-craft-instructor-recruitment-2026">Punjab Craft Instructor Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NHM Punjab notification before applying.</p>
+`;
 JOB_CONTENT["up-anganwadi-bharti-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
