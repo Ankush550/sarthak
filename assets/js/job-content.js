@@ -27431,3 +27431,2287 @@ Related Jobs
 
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BSA Aligarh notification before applying.</p>
 `;
+JOB_CONTENT["cgssb-namuna-sahayak-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+CGSSB Namuna Sahayak Vacancy 2026 – Apply Online for 36 Namuna Sahayak & Lab Assistant Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🧪 CGSSB Namuna Sahayak Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>07 July 2026 to 31 July 2026</strong>
+</p>
+
+<a href="https://cgssb.cgstate.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Chhattisgarh Staff Selection Board (CGSSB)</strong> has invited online applications for
+<strong>Namuna Sahayak and Lab Assistant Recruitment 2026</strong>, offering a total of
+<strong>36 posts</strong> including Namuna Sahayak, Lab Assistant (Aushadhi) and Lab Assistant (Khadya).
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>07 July 2026</strong> and will close on
+<strong>31 July 2026 at 5:00 PM</strong>. Candidates must have passed 12th (Science Stream) with Chemistry from
+a recognized board. Selection includes a written examination, document verification and medical fitness test.
+Selected candidates will get Pay Level-4 (<strong>₹5,200 – ₹20,200</strong> plus Grade Pay
+<strong>₹1,900</strong>).
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+CGSSB Namuna Sahayak Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Chhattisgarh Staff Selection Board (CGSSB)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Namuna Sahayak, Lab Assistant (Aushadhi), Lab Assistant (Khadya)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>36</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Application Start Date</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 30 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>10+2 (Science Stream with Chemistry)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>Pay Level-4 (₹5,200 – ₹20,200 + Grade Pay ₹1,900)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>cgssb.cgstate.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>31 July 2026</td>
+</tr>
+
+<tr>
+<td>Application Correction Window</td>
+<td>01 August – 03 August 2026</td>
+</tr>
+
+<tr>
+<td>Admit Card (Tentative)</td>
+<td>11 September 2026</td>
+</tr>
+
+<tr>
+<td>Exam (Tentative)</td>
+<td>20 September 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General (UR)</td>
+<td>₹350</td>
+</tr>
+
+<tr>
+<td>OBC</td>
+<td>₹250</td>
+</tr>
+
+<tr>
+<td>SC/ST/PwBD</td>
+<td>₹200</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 30 years</strong> of age. Candidates must have passed
+<strong>12th (Science Stream)</strong> with <strong>Chemistry</strong> as a subject from a recognized board.
+Candidates must also be a <strong>local resident of Chhattisgarh</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Department</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Namuna Sahayak</td>
+<td>Public Health & Family Welfare Department</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td>Lab Assistant (Aushadhi)</td>
+<td>State Drug Testing Laboratory</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Lab Assistant (Khadya)</td>
+<td>State Food Testing Laboratory</td>
+<td>3</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>—</th>
+<th>36</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Namuna Sahayak</td>
+<td>Higher Secondary (10+2) in Science Stream with Chemistry from a Recognized Board</td>
+</tr>
+
+<tr>
+<td>Lab Assistant (Aushadhi)</td>
+<td>Higher Secondary (10+2) in Science Stream with Chemistry from a Recognized Board</td>
+</tr>
+
+<tr>
+<td>Lab Assistant (Khadya)</td>
+<td>Higher Secondary (10+2) in Science Stream with Chemistry from a Recognized Board</td>
+</tr>
+
+<tr>
+<td>Domicile Requirement</td>
+<td>Candidate must be a Local Resident of Chhattisgarh</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>₹5,200 – ₹20,200</td>
+</tr>
+
+<tr>
+<td>Grade Pay</td>
+<td>₹1,900</td>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Level-4</td>
+</tr>
+
+<tr>
+<td>Probation Period</td>
+<td>3 Years</td>
+</tr>
+
+<tr>
+<td>Other Benefits</td>
+<td>As per Chhattisgarh Government Rules</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Process</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Merit List Preparation</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Medical Fitness Test</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Final Appointment</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Written Examination Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Exam Mode</td>
+<td>Offline (OMR-Based)</td>
+</tr>
+
+<tr>
+<td>Question Type</td>
+<td>Multiple Choice Questions (MCQs)</td>
+</tr>
+
+<tr>
+<td>Total Questions</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Total Marks</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Marks per Question</td>
+<td>1 Mark</td>
+</tr>
+
+<tr>
+<td>Exam Duration</td>
+<td>2 Hours 15 Minutes</td>
+</tr>
+
+<tr>
+<td>Negative Marking</td>
+<td>0.25 Mark Deducted for Each Wrong Answer</td>
+</tr>
+
+<tr>
+<td>Tentative Exam Date</td>
+<td>20 September 2026</td>
+</tr>
+
+<tr>
+<td>Exam Timing</td>
+<td>10:00 AM – 12:15 PM</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official CGSSB website.</li>
+
+<li>Complete the Profile Registration process.</li>
+
+<li>Log in using your registered credentials.</li>
+
+<li>Select the desired post.</li>
+
+<li>Fill in the online application form carefully.</li>
+
+<li>Upload the required photograph and signature.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Review all the entered information carefully.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and print the final submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://cgssb.cgstate.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://cgssb.cgstate.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://cgssb.cgstate.gov.in" target="_blank">
+cgssb.cgstate.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is CGSSB Namuna Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+CGSSB has released a recruitment drive for <strong>36 posts</strong> of Namuna Sahayak, Lab Assistant
+(Aushadhi) and Lab Assistant (Khadya) under the Food & Drug Administration Department in Chhattisgarh.
+</p>
+
+<h3>2. How many total vacancies are there in CGSSB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>36 posts</strong> have been announced: 30 for Namuna Sahayak, 3 for Lab Assistant
+(Aushadhi), and 3 for Lab Assistant (Khadya).
+</p>
+
+<h3>3. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>07 July 2026</strong> and will be accepted until
+<strong>31 July 2026 at 5:00 PM</strong>.
+</p>
+
+<h3>4. What is the educational qualification for CGSSB Namuna Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must have passed <strong>12th (Science Stream)</strong> from a recognized board with
+<strong>Chemistry</strong> as a subject. Candidates from other streams are not eligible.
+</p>
+
+<h3>5. What is the age limit for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>18 and 30 years</strong> of age, with age relaxation applicable for reserved
+categories, women and local residents of Chhattisgarh as per government rules.
+</p>
+
+<h3>6. What is the application fee for CGSSB Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹350</strong> for General candidates, <strong>₹250</strong> for OBC candidates and
+<strong>₹200</strong> for SC/ST/PwBD candidates, payable only online.
+</p>
+
+<h3>7. What is the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on a <strong>Written Examination, Merit List, Document Verification</strong> and
+<strong>Medical Fitness Test</strong>.
+</p>
+
+<h3>8. What is the exam pattern for CGSSB Namuna Sahayak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The written exam will have <strong>100 MCQs</strong> worth 100 marks, with <strong>0.25 mark negative
+marking</strong> for each wrong answer. The exam duration will be <strong>2 hours 15 minutes</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>CGSSB Namuna Sahayak Vacancy 2026</strong> is a good opportunity for science stream candidates in
+Chhattisgarh to secure a government job in the Food & Drug Administration Department. Interested candidates
+should complete their online registration and submit the application well before
+<strong>31 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for CGSSB Namuna Sahayak Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>31 July 2026</strong>.
+</p>
+
+<a href="https://cgssb.cgstate.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhsrcl-technician-recruitment-2026">NHSRCL Technician Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=pdil-engineer-recruitment-2026">PDIL Engineer Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CGSSB notification before applying.</p>
+`;
+
+JOB_CONTENT["aai-ner-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+AAI NER Apprentice Vacancy 2026 – Apply Online for 95 Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+✈️ AAI NER Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Open</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>28 July 2026</strong>
+</p>
+
+<a href="https://www.aai.aero"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Airports Authority of India (AAI)</strong> has released the official notification for
+<strong>North Eastern Region (NER) Apprentice Vacancy 2026</strong>, offering
+<strong>95 apprentice posts</strong> including Graduate Apprentice, Diploma Apprentice and ITI Trade Apprentice.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates who have passed their Degree, Diploma or ITI in <strong>2024 or later</strong> can apply through the
+<strong>NATS or NAPS portal</strong> before <strong>28 July 2026</strong>. Selected candidates will undergo a
+<strong>one-year apprenticeship training</strong> at various airports in the North Eastern Region, with a
+stipend as per the Apprentices Act and AAI rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+AAI NER Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Airports Authority of India (AAI)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Graduate Apprentice, Diploma Apprentice & ITI Trade Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>95</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>28 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 26 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>Degree / Diploma / ITI in Relevant Trade</td>
+</tr>
+
+<tr>
+<th>Stipend</th>
+<td>As per Apprentices Act & AAI Rules</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.aai.aero</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>28 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no application fee</strong> for any category of candidates under this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 26 years</strong> of age. Candidates must hold a
+<strong>Degree, Diploma or ITI</strong> in the relevant trade, and must have passed their qualifying exam in
+<strong>2024 or later</strong> to be eligible.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Trade-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade / Discipline</th>
+<th>Graduate Apprentice</th>
+<th>Diploma Apprentice</th>
+<th>ITI Apprentice</th>
+<th>Total Posts</th>
+</tr>
+
+<tr>
+<td>Civil Engineering</td>
+<td>8</td>
+<td>10</td>
+<td>–</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>Electrical Engineering</td>
+<td>10</td>
+<td>10</td>
+<td>–</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>Electronics / IT / Computer Science</td>
+<td>10</td>
+<td>6</td>
+<td>–</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>Mechanical Engineering</td>
+<td>3</td>
+<td>5</td>
+<td>–</td>
+<td>8</td>
+</tr>
+
+<tr>
+<td>Fitter (ITI)</td>
+<td>–</td>
+<td>–</td>
+<td>7</td>
+<td>7</td>
+</tr>
+
+<tr>
+<td>Mechanic (Motor Vehicle)</td>
+<td>–</td>
+<td>–</td>
+<td>12</td>
+<td>12</td>
+</tr>
+
+<tr>
+<td>Electrician</td>
+<td>–</td>
+<td>–</td>
+<td>14</td>
+<td>14</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>31</th>
+<th>31</th>
+<th>33</th>
+<th>95</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Graduate Apprentice</td>
+<td>Full-time 4-Year B.E./B.Tech Degree in the Relevant Engineering Discipline recognized by AICTE</td>
+</tr>
+
+<tr>
+<td>Diploma Apprentice</td>
+<td>Full-time 3-Year Diploma in the Relevant Engineering Discipline recognized by AICTE</td>
+</tr>
+
+<tr>
+<td>ITI Trade Apprentice</td>
+<td>ITI/NCVT Certificate in the Relevant Trade from a Recognized Institute</td>
+</tr>
+
+<tr>
+<td>Eligibility Condition</td>
+<td>Candidates who passed their Degree/Diploma in 2024 or later are eligible to apply</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Apprentice Type</th>
+<th>Stipend</th>
+</tr>
+
+<tr>
+<td>Graduate Apprentice</td>
+<td>As per Apprentices Act & AAI Rules</td>
+</tr>
+
+<tr>
+<td>Diploma Apprentice</td>
+<td>As per Apprentices Act & AAI Rules</td>
+</tr>
+
+<tr>
+<td>ITI Apprentice</td>
+<td>As per Apprentices Act & AAI Rules</td>
+</tr>
+
+<tr>
+<td>Additional Benefits</td>
+<td>As per AAI Apprenticeship Guidelines</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Process</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Preparation of Merit List based on Qualifying Examination Marks</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Fitness Verification</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Final Merit List after Successful Verification</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+No written examination will be conducted for this recruitment; selection is based purely on merit from the
+qualifying examination marks.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the NATS Portal (for Graduate & Diploma Apprentices) or the NAPS/Apprenticeship India Portal (for
+ITI Apprentices).</li>
+
+<li>Register using a valid Email ID and Mobile Number.</li>
+
+<li>Search for Airports Authority of India (AAI) – Regional Headquarters (NER), Guwahati.</li>
+
+<li>Select the appropriate Apprentice Trade/Discipline.</li>
+
+<li>Fill in all personal, educational and communication details carefully.</li>
+
+<li>Upload the required documents, photograph and certificates.</li>
+
+<li>Review the application form before submission.</li>
+
+<li>Submit the application online before 28 July 2026.</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.aai.aero" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.aai.aero" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.aai.aero" target="_blank">
+aai.aero
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in AAI NER Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>95 posts</strong> have been announced, including Graduate Apprentice, Diploma Apprentice and
+ITI Apprentice.
+</p>
+
+<h3>2. What is the last date to apply for AAI NER Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Interested candidates can apply online until <strong>28 July 2026</strong>.
+</p>
+
+<h3>3. Who can apply for AAI Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates who have completed <strong>B.E./B.Tech, Diploma or ITI (NCVT)</strong> in the relevant trade and
+passed in <strong>2024 or later</strong> are eligible to apply.
+</p>
+
+<h3>4. Is there any application fee for AAI Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. The application is <strong>completely free</strong> for all categories of candidates.
+</p>
+
+<h3>5. What is the selection process for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on a <strong>merit list</strong> from academic marks, followed by <strong>Document
+Verification</strong> and <strong>Medical Fitness</strong> checks. No written examination will be conducted.
+</p>
+
+<h3>6. What is the duration of the apprenticeship?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive <strong>1 year</strong> of apprenticeship training.
+</p>
+
+<h3>7. What is the age limit for AAI NER Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>18 and 26 years</strong> of age, with age relaxation applicable for reserved
+categories as per government rules.
+</p>
+
+<h3>8. Can fresher candidates apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, if the candidate completed the required qualification in <strong>2024 or later</strong>, they are eligible
+to apply for this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>AAI NER Apprentice Vacancy 2026</strong> is an excellent opportunity for recent graduates, diploma
+holders and ITI candidates to gain hands-on training at airports in the North Eastern Region. Interested
+candidates should complete their NATS/NAPS registration and submit the application well before
+<strong>28 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for AAI NER Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>28 July 2026</strong>.
+</p>
+
+<a href="https://www.aai.aero"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=iob-apprentice-recruitment-2026">Indian Overseas Bank Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhsrcl-technician-recruitment-2026">NHSRCL Technician Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=drdo-acem-apprentice-recruitment-2026">DRDO ACEM Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AAI notification before applying.</p>
+`;
+
+JOB_CONTENT["pdil-engineer-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+PDIL Engineer Vacancy 2026 – Apply Online for 140 Diploma & Graduate Engineer Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+⚙️ PDIL Engineer Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>07 July 2026 to 27 July 2026</strong>
+</p>
+
+<a href="https://www.pdilin.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Projects & Development India Limited (PDIL)</strong> has released the official notification for
+<strong>140 posts</strong> of Diploma Engineer and Graduate Engineer on a contract basis, for a maximum tenure
+of <strong>3 years</strong>. Selected candidates may be posted at any of PDIL's offices and project sites
+across India.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Vacancies span Civil, Mechanical, Electrical, Instrumentation, Process, Computer, Human Resources, Materials
+Management and Project Management disciplines. Online applications started on <strong>07 July 2026</strong> and
+will close on <strong>27 July 2026</strong>. Candidates need <strong>2 to 11 years</strong> of
+post-qualification experience depending on the post, with a monthly remuneration ranging from
+<strong>₹31,000 to ₹71,000</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+PDIL Engineer Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Projects & Development India Limited (PDIL)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Diploma Engineer & Graduate Engineer</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>140</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>27 July 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>42 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹31,000 – ₹71,000 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.pdilin.com</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>27 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC</td>
+<td>₹800/-</td>
+</tr>
+
+<tr>
+<td>SC / ST / EWS</td>
+<td>₹400/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit for this recruitment is <strong>42 years</strong>. Candidates must hold an
+<strong>Engineering Degree, Diploma or other relevant qualification</strong> along with the required
+post-qualification experience for the applicable post.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Diploma Engineers – Vacancy Details (23 Posts)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Discipline</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Civil (Design)</td><td>4</td></tr>
+<tr><td>Electrical (Design)</td><td>4</td></tr>
+<tr><td>Instrumentation (Design)</td><td>2</td></tr>
+<tr><td>Mechanical – Material Handling</td><td>2</td></tr>
+<tr><td>Mechanical – Piping</td><td>7</td></tr>
+<tr><td>Mechanical – Pressure Vessel</td><td>1</td></tr>
+<tr><td>Process (Design)</td><td>3</td></tr>
+
+<tr>
+<th>Grand Total</th>
+<th>23 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Graduate Engineers – Vacancy Details (130 Posts)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Discipline</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Civil</td><td>10</td></tr>
+<tr><td>Civil (Construction)</td><td>20</td></tr>
+<tr><td>Computer</td><td>1</td></tr>
+<tr><td>Electrical</td><td>7</td></tr>
+<tr><td>Electrical (Construction)</td><td>8</td></tr>
+<tr><td>Fire/Industrial Safety (Construction)</td><td>6</td></tr>
+<tr><td>Fire/Industrial Safety (Design)</td><td>2</td></tr>
+<tr><td>Human Resources</td><td>3</td></tr>
+<tr><td>Instrumentation</td><td>6</td></tr>
+<tr><td>Instrumentation (Construction)</td><td>5</td></tr>
+<tr><td>Management Services</td><td>6</td></tr>
+<tr><td>Materials Management</td><td>3</td></tr>
+<tr><td>Mechanical (Construction)</td><td>23</td></tr>
+<tr><td>Mechanical (Machinery)</td><td>3</td></tr>
+<tr><td>Mechanical (Material Handling)</td><td>3</td></tr>
+<tr><td>Mechanical (Piping)</td><td>4</td></tr>
+<tr><td>Mechanical (Pressure Vessel)</td><td>3</td></tr>
+<tr><td>Process</td><td>9</td></tr>
+<tr><td>Project Management</td><td>5</td></tr>
+<tr><td>SSP & QC Audit</td><td>3</td></tr>
+
+<tr>
+<th>Grand Total</th>
+<th>130 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Diploma Engineer</td>
+<td>Diploma in relevant Engineering discipline with required post-qualification experience (2–8 years).</td>
+</tr>
+
+<tr>
+<td>Graduate Engineer</td>
+<td>B.E./B.Tech in relevant Engineering discipline with required experience (2–11 years).</td>
+</tr>
+
+<tr>
+<td>Computer</td>
+<td>B.E./B.Tech (CS/IT), MCA or Engineering Degree with PG Diploma in Computer Science/IT.</td>
+</tr>
+
+<tr>
+<td>Human Resources</td>
+<td>MBA (HR/PM & IR) or PG Degree/PG Diploma in HR/Personnel Management/Labour Welfare.</td>
+</tr>
+
+<tr>
+<td>Materials Management</td>
+<td>Engineering Degree or MBA/PG Diploma in Materials Management/Supply Chain Management.</td>
+</tr>
+
+<tr>
+<td>Fire & Industrial Safety</td>
+<td>Degree along with one-year regular Diploma/Certificate in Fire & Industrial Safety.</td>
+</tr>
+
+<tr>
+<td>Other Posts</td>
+<td>Candidates must possess qualifications mentioned in the official notification for the respective
+discipline.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Scale</th>
+<th>Monthly Remuneration</th>
+</tr>
+
+<tr>
+<td>Graduate Engineer Scale 4</td>
+<td>₹71,000/-</td>
+</tr>
+
+<tr>
+<td>Graduate Engineer Scale 3</td>
+<td>₹63,000/-</td>
+</tr>
+
+<tr>
+<td>Graduate Engineer Scale 2</td>
+<td>₹56,000/-</td>
+</tr>
+
+<tr>
+<td>Graduate Engineer Scale 1</td>
+<td>₹47,000/-</td>
+</tr>
+
+<tr>
+<td>Diploma Engineer Scale 3</td>
+<td>₹40,000/-</td>
+</tr>
+
+<tr>
+<td>Diploma Engineer Scale 2</td>
+<td>₹36,000/-</td>
+</tr>
+
+<tr>
+<td>Diploma Engineer Scale 1</td>
+<td>₹31,000/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Application Scrutiny</td>
+<td>Verification of eligibility and experience</td>
+</tr>
+
+<tr>
+<td>Shortlisting</td>
+<td>Candidates shortlisted based on qualification and experience</td>
+</tr>
+
+<tr>
+<td>Personal Interview</td>
+<td>Interview conducted by PDIL</td>
+</tr>
+
+<tr>
+<td>Document Verification</td>
+<td>Original certificates verification</td>
+</tr>
+
+<tr>
+<td>Medical Fitness</td>
+<td>If applicable</td>
+</tr>
+
+<tr>
+<td>Final Merit List</td>
+<td>Based on performance and eligibility</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official PDIL recruitment portal.</li>
+
+<li>Read the official notification carefully.</li>
+
+<li>Check your eligibility for the desired post.</li>
+
+<li>Complete the online registration.</li>
+
+<li>Fill in the application form with accurate details.</li>
+
+<li>Upload the photograph, signature and required documents.</li>
+
+<li>Pay the application fee (if applicable).</li>
+
+<li>Review all entered information carefully.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.pdilin.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.pdilin.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.pdilin.com" target="_blank">
+pdilin.com
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in PDIL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+PDIL Recruitment 2026 covers a total of <strong>140 posts</strong> — 23 posts for Diploma Engineer and
+130 posts for Graduate Engineer — on a contract basis for a maximum of three years.
+</p>
+
+<h3>2. Who can apply for PDIL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates holding a <strong>Diploma, B.E./B.Tech, MBA, MCA</strong>, PG Degree or other prescribed
+qualification in the relevant trade, along with the required post-qualification experience, can apply.
+</p>
+
+<h3>3. What is the selection process for PDIL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on <strong>Application Screening, Shortlisting, Personal Interview, Document
+Verification</strong> and other prescribed processes.
+</p>
+
+<h3>4. What is the application fee for PDIL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹800</strong> for General/OBC candidates and <strong>₹400</strong> for SC/ST/EWS candidates.
+</p>
+
+<h3>5. Where will selected candidates be posted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates may be posted at any of PDIL's offices and project sites located across various states in
+India.
+</p>
+
+<h3>6. What is the last date to apply for PDIL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will be accepted until <strong>27 July 2026</strong>.
+</p>
+
+<h3>7. What salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a monthly remuneration ranging from <strong>₹31,000</strong> for Diploma Engineer
+Scale 1 to <strong>₹71,000</strong> for Graduate Engineer Scale 4, depending on the applicable scale.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>PDIL Engineer Vacancy 2026</strong> offers experienced diploma and degree engineers a wide range of
+opportunities across engineering and management disciplines at Projects & Development India Limited. Interested
+candidates should check their eligibility and submit the online application well before
+<strong>27 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for PDIL Engineer Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>27 July 2026</strong>.
+</p>
+
+<a href="https://www.pdilin.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=nhsrcl-technician-recruitment-2026">NHSRCL Technician Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhidcl-associate-recruitment-2026">NHIDCL Associate Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=ihmcl-systems-engineer-recruitment-2026">IHMCL Systems Engineer Recruitment 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official PDIL notification before applying.</p>
+`;
+
+JOB_CONTENT["nhsrcl-technician-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+NHSRCL Technician Vacancy 2026 – Apply Online for 237 Technician Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🚄 NHSRCL Technician Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>07 July 2026 to 05 August 2026</strong>
+</p>
+
+<a href="https://nhsrcl.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>National High Speed Rail Corporation Limited (NHSRCL)</strong> has released the official notification
+for <strong>237 Technician posts</strong> across various technical trades, to be filled on an
+<strong>Absorption Basis</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Only regular or contract employees currently working in the <strong>Operation & Maintenance</strong>
+departments of Indian Railways, government-owned/operated railways, metro railways or RRTS are eligible to
+apply. Online applications started on <strong>07 July 2026</strong> and will close on
+<strong>05 August 2026</strong>. Selected candidates will get an IDA pay scale of
+<strong>₹35,000 to ₹1,10,000 (NE-2)</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+NHSRCL Technician Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>National High Speed Rail Corporation Limited (NHSRCL)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Technician (Various Disciplines)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>237</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>05 August 2026</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>35 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>IDA ₹35,000 – ₹1,10,000 (NE-2)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>nhsrcl.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>05 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>UR, OBC, EWS</td>
+<td>₹400</td>
+</tr>
+
+<tr>
+<td>SC, ST, Women Candidates</td>
+<td>Exempted</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit is <strong>35 years</strong>. Only regular or contract employees of the Operation &
+Maintenance departments of Indian Railways, government railways, metro railways or RRTS, holding
+<strong>Matric + ITI, Apprenticeship or Diploma</strong> in the relevant trade with at least
+<strong>2 years</strong> of post-qualification experience, are eligible.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Vacancy No.</th>
+<th>Post Name</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>35/2026</td><td>Technician (Civil/Track-Fitter)</td><td>18</td></tr>
+<tr><td>36/2026</td><td>Technician (Civil/Track-Mechanic)</td><td>16</td></tr>
+<tr><td>37/2026</td><td>Technician (Civil/Track-Draughtsman)</td><td>8</td></tr>
+<tr><td>38/2026</td><td>Technician (Civil/Track-Surveyor)</td><td>7</td></tr>
+<tr><td>39/2026</td><td>Technician (Civil/Track-Electrician)</td><td>8</td></tr>
+<tr><td>40/2026</td><td>Technician (Civil/Track-Welder)</td><td>6</td></tr>
+<tr><td>41/2026</td><td>Technician (Civil-Plumber)</td><td>2</td></tr>
+<tr><td>42/2026</td><td>Technician (Civil-Painter)</td><td>2</td></tr>
+<tr><td>43/2026</td><td>Technician (Electrical)</td><td>77</td></tr>
+<tr><td>44/2026</td><td>Technician (Signalling & Telecom)</td><td>63</td></tr>
+<tr><td>45/2026</td><td>Technician (Rolling Stock-Fitter)</td><td>10</td></tr>
+<tr><td>46/2026</td><td>Technician (Rolling Stock-Machinist)</td><td>2</td></tr>
+<tr><td>47/2026</td><td>Technician (Rolling Stock-Welder)</td><td>2</td></tr>
+<tr><td>48/2026</td><td>Technician (Rolling Stock-Electrician)</td><td>13</td></tr>
+<tr><td>49/2026</td><td>Technician (Rolling Stock-RAC)</td><td>3</td></tr>
+
+<tr>
+<th colspan="2">Grand Total</th>
+<th>237 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Civil Track Posts</td>
+<td>Matric/SSLC + ITI in relevant trade OR Course Completed Act Apprenticeship OR 3-Year Diploma in Civil
+Engineering</td>
+</tr>
+
+<tr>
+<td>Technician (Electrical)</td>
+<td>Matric + ITI Electrician/Equivalent OR Act Apprenticeship OR Diploma in Electrical Engineering</td>
+</tr>
+
+<tr>
+<td>Technician (Signalling & Telecom)</td>
+<td>Matric + ITI in Electrical/Electronics/Computer Operator OR Apprenticeship OR Diploma in
+Electrical/Electronics/E&C/IT/Computer Engineering</td>
+</tr>
+
+<tr>
+<td>Rolling Stock (Fitter)</td>
+<td>Matric + ITI Fitter OR Apprenticeship OR Diploma in Mechanical Engineering</td>
+</tr>
+
+<tr>
+<td>Rolling Stock (Machinist)</td>
+<td>Matric + ITI Machinist/Turner OR Apprenticeship OR Diploma in Mechanical Engineering</td>
+</tr>
+
+<tr>
+<td>Rolling Stock (Welder)</td>
+<td>Matric + ITI Welder OR Apprenticeship OR Diploma in Mechanical Engineering</td>
+</tr>
+
+<tr>
+<td>Rolling Stock (Electrician)</td>
+<td>Matric + ITI Electrician/Electronic Mechanic OR Apprenticeship OR Diploma in Electrical/Electronics
+Engineering</td>
+</tr>
+
+<tr>
+<td>Rolling Stock (RAC)</td>
+<td>Matric + ITI MRAC OR Apprenticeship OR Diploma in Mechanical/Electrical Engineering</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Minimum 2 Years Post Qualification Experience in Operations & Maintenance Departments of Indian
+Railways/Government Railways/Metro Railways/RRTS</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Component</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Scale</td>
+<td>IDA ₹35,000 – ₹1,10,000 (NE-2)</td>
+</tr>
+
+<tr>
+<td>Dearness Allowance</td>
+<td>As per Corporation Rules</td>
+</tr>
+
+<tr>
+<td>Other Allowances</td>
+<td>As per NHSRCL Policy</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Examination (Bee-One B-1 Standard)</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Merit based on successful completion of all stages</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official NHSRCL recruitment website.</li>
+
+<li>Open the Technician Recruitment 2026 notification.</li>
+
+<li>Read the eligibility criteria carefully.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Log in using your registration credentials.</li>
+
+<li>Fill in the application form with accurate personal and educational details.</li>
+
+<li>Upload the required photograph, signature and supporting documents.</li>
+
+<li>Pay the application fee online (if applicable).</li>
+
+<li>Verify all entered information before final submission.</li>
+
+<li>Submit the application form and download/print the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://nhsrcl.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://nhsrcl.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://nhsrcl.in" target="_blank">
+nhsrcl.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>237 Technician posts</strong> have been announced across 15 different trades, including
+Civil, Electrical, Signalling & Telecom and Rolling Stock.
+</p>
+
+<h3>2. Who can apply for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Only regular or contract employees currently working in the Operation & Maintenance departments of
+<strong>Indian Railways, government railways, metro railways or RRTS</strong>, with at least 2 years of
+relevant experience, can apply.
+</p>
+
+<h3>3. What is the educational qualification for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates need <strong>10th (Matric/SSLC)</strong> along with <strong>ITI, Course Completed Act
+Apprenticeship or a 3-year Diploma</strong> in the relevant trade, which varies for each post.
+</p>
+
+<h3>4. What is the age limit for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit is <strong>35 years</strong>, with age relaxation applicable for reserved categories as
+per government rules.
+</p>
+
+<h3>5. What is the salary for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get an IDA pay scale of <strong>₹35,000 to ₹1,10,000 (NE-2)</strong>, along with HRA,
+medical facilities, EPF, gratuity and other corporation benefits.
+</p>
+
+<h3>6. What is the selection process for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes a <strong>Computer Based Test (CBT), Document Verification</strong> and
+<strong>Medical Examination</strong> (Bee-One B-1 Standard).
+</p>
+
+<h3>7. Can a candidate apply for more than one post?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. As per the official notification, a candidate can apply for only <strong>one Technician post</strong>.
+</p>
+
+<h3>8. What is the application fee for NHSRCL Technician Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹400</strong> for UR, OBC and EWS candidates, while <strong>SC, ST and all women
+candidates</strong> are exempted from the fee.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>NHSRCL Technician Vacancy 2026</strong> offers experienced railway/metro technicians a chance to
+work on the prestigious Mumbai-Ahmedabad High Speed Rail (Bullet Train) Project. Interested and eligible
+candidates should complete their online registration and submit the application well before
+<strong>05 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for NHSRCL Technician Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>05 August 2026</strong>.
+</p>
+
+<a href="https://nhsrcl.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=pdil-engineer-recruitment-2026">PDIL Engineer Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=iob-apprentice-recruitment-2026">Indian Overseas Bank Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NHSRCL notification before applying.</p>
+`;

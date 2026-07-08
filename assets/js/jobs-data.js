@@ -1,584 +1,6 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
-    {
-    id:"iob-apprentice-recruitment-2026",
-    orgWebsite:"https://www.iob.bank.in",
-    title:"Indian Overseas Bank Apprentice Vacancy 2026",
-    shortTitle:"IOB Apprentice Online Form 2026",
-    organization:"Indian Overseas Bank (IOB)",
-    image:"IOB.jpeg",
-
-    totalPosts:750,
-
-    lastDate:"2026-07-20",
-    lastDateDisplay:"20 July 2026",
-
-    datePosted:"2026-07-07",
-    validThrough:"2026-07-20T23:59:00+05:30",
-
-    employmentType:"CONTRACT",
-
-    salaryMin:14000,
-    salaryMax:15500,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"Across India",
-    addressLocality:"Chennai",
-    addressRegion:"Tamil Nadu",
-    addressCountry:"IN",
-
-    qualification:"Graduation in Any Discipline",
-
-    ageLimit:"20 to 28 Years",
-
-    applyLink:"https://www.iob.bank.in",
-    officialNotification:"https://www.iob.bank.in",
-
-    fee:"SC/ST/PwBD: Rs. 236 | GEN/OBC/EWS (Female): Rs. 708 | GEN/OBC/EWS (Male): Rs. 944",
-
-    description:"Indian Overseas Bank (IOB) has released the official notification for Apprentice Recruitment 2026-27 under the Apprentices Act, 1961, inviting applications for 750 Apprentice posts across various states. Online applications through the NATS, NAPS and BEEP portals started on 07 July 2026 and will close on 20 July 2026. Fresh graduates who completed graduation between 01 March 2022 and 31 July 2026 are eligible. Selected candidates will get a monthly stipend of Rs. 14,000 to Rs. 15,500 depending on branch category, for a one-year training period.",
-
-    category:"Bank Jobs",
-    jobType:"Apprentice",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-07-07",
-    applicationEndDate:"2026-07-20",
-
-    examDate:"02 August 2026 (Tentative)",
-    interviewDate:"Personal Interaction (If Conducted)",
-
-    postDetails:[
-        {state:"Tamil Nadu", totalPosts:200},
-        {state:"Uttar Pradesh", totalPosts:110},
-        {state:"Maharashtra", totalPosts:85},
-        {state:"Delhi", totalPosts:53},
-        {state:"Bihar", totalPosts:35},
-        {state:"West Bengal", totalPosts:35},
-        {state:"Kerala", totalPosts:33},
-        {state:"Punjab", totalPosts:24},
-        {state:"Odisha", totalPosts:22},
-        {state:"Gujarat", totalPosts:16},
-        {state:"Haryana", totalPosts:16},
-        {state:"Rajasthan", totalPosts:16},
-        {state:"Andhra Pradesh", totalPosts:15},
-        {state:"Madhya Pradesh", totalPosts:12},
-        {state:"Puducherry", totalPosts:12},
-        {state:"Chhattisgarh", totalPosts:10},
-        {state:"Jharkhand", totalPosts:8},
-        {state:"Uttarakhand", totalPosts:8},
-        {state:"Karnataka", totalPosts:6},
-        {state:"Telangana", totalPosts:6},
-        {state:"Assam", totalPosts:4},
-        {state:"Chandigarh", totalPosts:4},
-        {state:"Manipur", totalPosts:4},
-        {state:"Jammu & Kashmir", totalPosts:2},
-        {state:"Meghalaya", totalPosts:2},
-        {state:"Mizoram", totalPosts:2},
-        {state:"Sikkim", totalPosts:2},
-        {state:"Tripura", totalPosts:2},
-        {state:"Andaman & Nicobar", totalPosts:1},
-        {state:"Arunachal Pradesh", totalPosts:1},
-        {state:"Daman & Diu", totalPosts:1},
-        {state:"Goa", totalPosts:1},
-        {state:"Himachal Pradesh", totalPosts:1},
-        {state:"Nagaland", totalPosts:1},
-        {state:"Dadra & Nagar Haveli", totalPosts:0},
-        {state:"Lakshadweep", totalPosts:0}
-    ],
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"kgbv-hamirpur-recruitment-2026",
-    orgWebsite:"https://hamirpur.nic.in",
-    title:"KGBV Hamirpur Vacancy 2026",
-    shortTitle:"KGBV Hamirpur Online Form 2026",
-    organization:"District Basic Education Officer (Samagra Shiksha), Hamirpur, Uttar Pradesh",
-    image:"KGBVHamirpur.jpeg",
-
-    totalPosts:73,
-
-    lastDate:"2026-07-25",
-    lastDateDisplay:"25 July 2026",
-
-    datePosted:"2026-07-04",
-    validThrough:"2026-07-25T23:59:00+05:30",
-
-    employmentType:"CONTRACT",
-
-    salaryMin:6433,
-    salaryMax:30000,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"Hamirpur, Uttar Pradesh",
-    addressLocality:"Hamirpur",
-    addressRegion:"Uttar Pradesh",
-    addressCountry:"IN",
-
-    qualification:"8th Pass, 10th Pass, Intermediate, Graduate or Postgraduate Degree (Post Wise)",
-
-    ageLimit:"25 to 45 Years",
-
-    applyLink:"https://hamirpur.nic.in",
-    officialNotification:"https://hamirpur.nic.in",
-
-    fee:"Not Mentioned",
-
-    description:"The District Basic Education Officer (Samagra Shiksha), Hamirpur has released the official notification for KGBV Bharti 2026, inviting applications for 73 posts including Principal, PGT, Full-Time Teacher, Part-Time Teacher, Computer Science Teacher, Care Taker, Lab Assistant, Office Superintendent, Accountant, Cook, Peon and Chowkidar. Only female candidates are eligible to apply. Applications are offline; candidates must send the filled form via Registered Post or Speed Post before 25 July 2026. Selected candidates will get a monthly salary ranging from Rs. 6,433 to Rs. 30,000 depending on the post.",
-
-    category:"Uttar Pradesh Government Jobs",
-    jobType:"Principal, PGT, Teacher, Lab Assistant, Clerk, Accountant, Cook, Peon, Chowkidar",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-07-04",
-    applicationEndDate:"2026-07-25",
-
-    examDate:"Not Applicable",
-    interviewDate:"Only for Specified Posts",
-
-    postDetails:[
-        {postName:"Principal (New Upgraded KGBV)", totalPosts:2},
-        {postName:"PGT Hindi (New Upgraded KGBV)", totalPosts:2},
-        {postName:"PGT English (New Upgraded KGBV)", totalPosts:2},
-        {postName:"PGT Mathematics (New Upgraded KGBV)", totalPosts:3},
-        {postName:"PGT Biology (New Upgraded KGBV)", totalPosts:2},
-        {postName:"PGT Chemistry (New Upgraded KGBV)", totalPosts:2},
-        {postName:"PGT Physics (New Upgraded KGBV)", totalPosts:4},
-        {postName:"Computer Science Teacher (New Upgraded KGBV)", totalPosts:2},
-        {postName:"Care Taker (New Upgraded KGBV)", totalPosts:3},
-        {postName:"Lab Assistant (New Upgraded KGBV)", totalPosts:13},
-        {postName:"Office Superintendent / Clerk (New Upgraded KGBV)", totalPosts:5},
-        {postName:"Cook (New Upgraded KGBV)", totalPosts:6},
-        {postName:"Peon (New Upgraded KGBV)", totalPosts:3},
-        {postName:"Chowkidar (New Upgraded KGBV)", totalPosts:3},
-        {postName:"Full-Time Teacher Maths (Existing KGBV)", totalPosts:2},
-        {postName:"Full-Time Teacher Science (Existing KGBV)", totalPosts:1},
-        {postName:"Full-Time Teacher English (Existing KGBV)", totalPosts:1},
-        {postName:"Full-Time Teacher Hindi (Existing KGBV)", totalPosts:1},
-        {postName:"Part-Time Teacher Art/Music (Existing KGBV)", totalPosts:2},
-        {postName:"Part-Time Teacher Physical Education (Existing KGBV)", totalPosts:2},
-        {postName:"Part-Time Teacher Computer (Existing KGBV)", totalPosts:1},
-        {postName:"Accountant (Existing KGBV)", totalPosts:1},
-        {postName:"Chief Cook (Existing KGBV)", totalPosts:2},
-        {postName:"Assistant Cook (Existing KGBV)", totalPosts:7},
-        {postName:"Chowkidar (Existing KGBV)", totalPosts:1}
-    ],
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"lpsc-isro-internship-2026",
-    orgWebsite:"https://www.lpsc.gov.in",
-    title:"LPSC/ISRO Internship 2026",
-    shortTitle:"LPSC/ISRO Internship Online Form 2026",
-    organization:"Liquid Propulsion Systems Centre (LPSC), ISRO",
-    image:"LPSCISRO.jpeg",
-
-    totalPosts:0,
-
-    lastDate:"2026-08-31",
-    lastDateDisplay:"31 August 2026",
-
-    datePosted:"2026-07-07",
-    validThrough:"2026-08-31T23:59:00+05:30",
-
-    employmentType:"INTERN",
-
-    location:"India",
-    addressLocality:"Thiruvananthapuram",
-    addressRegion:"Kerala",
-    addressCountry:"IN",
-
-    qualification:"B.E./B.Tech, M.E./M.Tech, M.Sc., Ph.D. Students",
-
-    ageLimit:"Not Specified",
-
-    applyLink:"https://www.lpsc.gov.in",
-    officialNotification:"https://www.lpsc.gov.in",
-
-    fee:"No Application Fee",
-
-    description:"Liquid Propulsion Systems Centre (LPSC), ISRO invites online applications for its Internship Programme 2026 for the October 2026 - January 2027 batch. Engineering, science and research students can gain hands-on experience in rocket engines, cryogenic technology and spacecraft propulsion through a 21-45 day offline internship. Applications are open from 01 August 2026 to 31 August 2026. There is no stipend, but successful interns receive an official ISRO/LPSC Internship Certificate.",
-
-    category:"Internship",
-    jobType:"Internship Programme",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-08-01",
-    applicationEndDate:"2026-08-31",
-
-    examDate:"Not Applicable",
-    interviewDate:"Not Applicable",
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"agniveervayu-intake-02-2027-recruitment-2026",
-    orgWebsite:"https://iafrecruitment.edcil.co.in",
-    title:"Agniveervayu Intake 02/2027 Notification",
-    shortTitle:"Agniveervayu Intake 02/2027 Online Form 2026",
-    organization:"Indian Air Force (IAF)",
-    image:"AgniveerVayu.jpeg",
-
-    totalPosts:0,
-
-    lastDate:"2026-07-26",
-    lastDateDisplay:"26 July 2026",
-
-    datePosted:"2026-07-06",
-    validThrough:"2026-07-26T23:00:00+05:30",
-
-    employmentType:"CONTRACT",
-
-    salaryMin:30000,
-    salaryMax:40000,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"All India",
-    addressLocality:"New Delhi",
-    addressRegion:"Delhi",
-    addressCountry:"IN",
-
-    qualification:"12th Pass in Any Stream / 3-Year Engineering Diploma / 2-Year Vocational Course",
-
-    ageLimit:"17.5 to 22 Years",
-
-    applyLink:"https://iafrecruitment.edcil.co.in",
-    officialNotification:"https://iafrecruitment.edcil.co.in",
-
-    fee:"Rs. 550 + 18% GST (All Categories)",
-
-    description:"The Indian Air Force has released the official notification for Agniveervayu Intake 02/2027 under the Agnipath Scheme, inviting unmarried male and female candidates to serve in the IAF for four years. Online applications started on 06 July 2026 and will close on 26 July 2026. Candidates need a minimum 50% in 10+2, Diploma or a recognized vocational course. Selection includes an online exam, Physical Fitness Test, Adaptability Tests and Medical Examination. Selected Agniveers will get a starting monthly package of Rs. 30,000, rising to Rs. 40,000 by the fourth year, plus a Seva Nidhi package of approximately Rs. 10.04 lakh on completion of service.",
-
-    category:"Defence Jobs",
-    jobType:"Agniveervayu",
-
-    advertisementNo:"Vayu 02/2027",
-
-    applicationStartDate:"2026-07-06",
-    applicationEndDate:"2026-07-26",
-
-    examDate:"22 & 23 September 2026",
-    interviewDate:"Not Applicable",
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"iaf-medical-assistant-recruitment-2026",
-    orgWebsite:"https://iafrecruitment.edcil.co.in",
-    title:"IAF Medical Assistant Bharti 2026",
-    shortTitle:"IAF Medical Assistant Online Form 2026",
-    organization:"Indian Air Force (IAF)",
-    image:"IAFMedicalAssistant.jpeg",
-
-    totalPosts:0,
-
-    lastDate:"2026-07-26",
-    lastDateDisplay:"26 July 2026",
-
-    datePosted:"2026-07-06",
-    validThrough:"2026-07-26T23:00:00+05:30",
-
-    employmentType:"FULL_TIME",
-
-    salaryMin:14600,
-    salaryMax:26900,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"All India",
-    addressLocality:"New Delhi",
-    addressRegion:"Delhi",
-    addressCountry:"IN",
-
-    qualification:"12th (PCB) / Vocational PCB / Diploma Pharmacy / B.Pharm / B.Sc Pharmacy",
-
-    ageLimit:"18 to 23 Years",
-
-    applyLink:"https://iafrecruitment.edcil.co.in",
-    officialNotification:"https://iafrecruitment.edcil.co.in",
-
-    fee:"Rs. 550 + 18% GST (All Candidates)",
-
-    description:"Indian Air Force has released the official notification for Airmen Group 'Y' Medical Assistant Bharti 2026. Candidates with 12th (Physics, Chemistry, Biology), Diploma in Pharmacy, B.Pharm or B.Sc Pharmacy can apply online from 06 July 2026 to 26 July 2026. Selected candidates will get a training stipend of Rs. 14,600 per month, followed by a starting salary of Rs. 26,900 per month after training. Selection includes an online exam, Physical Fitness Test, Adaptability Tests and Medical Examination.",
-
-    category:"Defence Jobs",
-    jobType:"Medical Assistant",
-
-    advertisementNo:"02/2027",
-
-    applicationStartDate:"2026-07-06",
-    applicationEndDate:"2026-07-26",
-
-    examDate:"22-23 September 2026",
-    interviewDate:"Not Applicable",
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"nhidcl-associate-recruitment-2026",
-    orgWebsite:"https://www.nhidcl.com",
-    title:"NHIDCL Associate Vacancy 2026",
-    shortTitle:"NHIDCL Associate Online Form 2026",
-    organization:"National Highways and Infrastructure Development Corporation Limited (NHIDCL)",
-    image:"NHIDCL.jpeg",
-
-    totalPosts:100,
-
-    lastDate:"2026-08-05",
-    lastDateDisplay:"05 August 2026",
-
-    datePosted:"2026-07-08",
-    validThrough:"2026-08-05T17:00:00+05:30",
-
-    employmentType:"CONTRACT",
-
-    salaryMin:70000,
-    salaryMax:80000,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"Across India (North East, J&K, Ladakh, West Bengal, Andaman & Nicobar)",
-    addressLocality:"New Delhi",
-    addressRegion:"Delhi",
-    addressCountry:"IN",
-
-    qualification:"B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF Institutions",
-
-    ageLimit:"Maximum 30 Years",
-
-    applyLink:"https://www.nhidcl.com",
-    officialNotification:"https://www.nhidcl.com",
-
-    fee:"Not Mentioned",
-
-    description:"National Highways and Infrastructure Development Corporation Limited (NHIDCL) has released the official notification for 100 Associate posts under the State Specific Graduate Scheme (SSGS). Online applications through the NHIDCL Resource Pool Portal will be accepted from 08 July 2026 to 05 August 2026. Candidates need a B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF institutions, with a maximum age of 30 years. Selected candidates will get a consultancy fee of Rs. 70,000 to Rs. 80,000 per month, with a 5% annual increment.",
-
-    category:"PSU Jobs",
-    jobType:"Associate (SSGS)",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-07-08",
-    applicationEndDate:"2026-08-05",
-
-    examDate:"Only if Applications Exceed 3x Vacancies",
-    interviewDate:"To Be Announced",
-
-    postDetails:[
-        {state:"Assam", totalPosts:10},
-        {state:"Arunachal Pradesh", totalPosts:10},
-        {state:"Jammu (J&K)", totalPosts:5},
-        {state:"Srinagar (J&K)", totalPosts:5},
-        {state:"Manipur", totalPosts:10},
-        {state:"Meghalaya", totalPosts:10},
-        {state:"Mizoram", totalPosts:8},
-        {state:"Nagaland", totalPosts:5},
-        {state:"Sikkim", totalPosts:5},
-        {state:"Tripura", totalPosts:10},
-        {state:"Uttarakhand", totalPosts:5},
-        {state:"Ladakh", totalPosts:2},
-        {state:"West Bengal", totalPosts:8},
-        {state:"Andaman & Nicobar Islands", totalPosts:7}
-    ],
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"aiims-bhubaneswar-senior-resident-recruitment-2026",
-    orgWebsite:"https://aiimsbhubaneswar.nic.in",
-    title:"AIIMS Bhubaneswar Senior Resident Vacancy 2026",
-    shortTitle:"AIIMS Bhubaneswar Senior Resident Online Form 2026",
-    organization:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar",
-    image:"AIIMSBhubaneswar.jpeg",
-
-    totalPosts:83,
-
-    lastDate:"2026-07-22",
-    lastDateDisplay:"22 July 2026",
-
-    datePosted:"2026-07-08",
-    validThrough:"2026-07-22T23:59:00+05:30",
-
-    employmentType:"CONTRACT",
-
-    salaryMin:67700,
-    salaryMax:67700,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"Bhubaneswar, Odisha",
-    addressLocality:"Bhubaneswar",
-    addressRegion:"Odisha",
-    addressCountry:"IN",
-
-    qualification:"MD/MS/DNB/DM/MCh/MDS or Equivalent (Post Wise, 34 Departments)",
-
-    ageLimit:"Maximum 45 Years",
-
-    applyLink:"https://aiimsbhubaneswar.nic.in",
-    officialNotification:"https://aiimsbhubaneswar.nic.in",
-
-    fee:"General/OBC: Rs. 1,770 | SC/ST/EWS: Rs. 1,416 | PwBD: Exempted",
-
-    description:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar has invited online applications for 83 Senior Resident (Non-Academic) posts across 34 medical departments for a tenure of 3 years. Online applications will be accepted from 08 July 2026 to 22 July 2026. Candidates need MD, MS, DNB, DM, MCh, MDS or an equivalent degree as per the relevant department. Selection includes a written examination (if required) followed by a personal interview. Selected candidates will get a Basic Pay of Rs. 67,700 per month under Level-11 (7th CPC), along with NPA and other allowances.",
-
-    category:"Medical Jobs",
-    jobType:"Senior Resident (Non-Academic)",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-07-08",
-    applicationEndDate:"2026-07-22",
-
-    examDate:"Only if Applications Exceed 3x Vacancies",
-    interviewDate:"To Be Announced",
-
-    postDetails:[
-        {department:"Anaesthesiology", totalPosts:2},
-        {department:"Anatomy", totalPosts:2},
-        {department:"Biochemistry", totalPosts:3},
-        {department:"Cardiology", totalPosts:1},
-        {department:"Conservative Dentistry & Endodontics", totalPosts:1},
-        {department:"Dermatology", totalPosts:2},
-        {department:"Endocrinology", totalPosts:1},
-        {department:"ENT", totalPosts:3},
-        {department:"Forensic Medicine & Toxicology (FMT)", totalPosts:5},
-        {department:"General Medicine", totalPosts:10},
-        {department:"General Surgery", totalPosts:10},
-        {department:"Hospital Administration", totalPosts:3},
-        {department:"Microbiology", totalPosts:1},
-        {department:"Neonatology", totalPosts:1},
-        {department:"Neurology", totalPosts:1},
-        {department:"Obstetrics & Gynaecology", totalPosts:3},
-        {department:"Ophthalmology", totalPosts:2},
-        {department:"Orthopaedics", totalPosts:2},
-        {department:"Paediatric Surgery", totalPosts:2},
-        {department:"Paediatrics", totalPosts:2},
-        {department:"Pharmacology", totalPosts:1},
-        {department:"Physical Medicine & Rehabilitation", totalPosts:1},
-        {department:"Physiology", totalPosts:2},
-        {department:"Psychiatry", totalPosts:1},
-        {department:"Radiation Oncology", totalPosts:2},
-        {department:"Radiodiagnosis", totalPosts:3},
-        {department:"Surgical Gastroenterology", totalPosts:2},
-        {department:"Surgical Oncology", totalPosts:2},
-        {department:"Transfusion Medicine", totalPosts:3},
-        {department:"Trauma & Emergency (Anaesthesiology)", totalPosts:2},
-        {department:"Trauma & Emergency (Emergency Medicine)", totalPosts:2},
-        {department:"Trauma & Emergency (Orthopaedics)", totalPosts:1},
-        {department:"Burn Centre (Anaesthesiology)", totalPosts:2},
-        {department:"Burn & Plastic Surgery", totalPosts:1},
-        {department:"Gastroenterology", totalPosts:1}
-    ],
-
-    status:"open",
-    isNew:true
-},
-
-{
-    id:"svpuat-teaching-recruitment-2026",
-    orgWebsite:"https://www.svpuat.edu.in",
-    title:"SVPUAT Teaching Vacancy 2026",
-    shortTitle:"SVPUAT Teaching Online Form 2026",
-    organization:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT)",
-    image:"SVPUATTeaching.jpeg",
-
-    totalPosts:126,
-
-    lastDate:"2026-08-03",
-    lastDateDisplay:"03 August 2026",
-
-    datePosted:"2026-07-03",
-    validThrough:"2026-08-03T23:59:00+05:30",
-
-    employmentType:"FULL_TIME",
-
-    salaryMin:57700,
-    salaryMax:144200,
-    salaryCurrency:"INR",
-    salaryUnit:"MONTH",
-
-    location:"Meerut, Uttar Pradesh",
-    addressLocality:"Meerut",
-    addressRegion:"Uttar Pradesh",
-    addressCountry:"IN",
-
-    qualification:"Master's Degree / Ph.D. in the Relevant Discipline (Post Wise)",
-
-    ageLimit:"Maximum 40 Years (Assistant Professor Only)",
-
-    applyLink:"https://www.svpuat.edu.in",
-    officialNotification:"https://www.svpuat.edu.in",
-
-    fee:"General/OBC/EWS: Rs. 1,500 | SC/ST/PwD: Rs. 750",
-
-    description:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT), Meerut has invited online applications for 126 Teaching posts including Assistant Professor, Associate Professor and Professor. Online applications started on 03 July 2026 and will close on 03 August 2026. Maximum age for Assistant Professor is 40 years, while there is no upper age limit for Associate Professor and Professor posts. Selected candidates will get a salary ranging from Rs. 57,700 to Rs. 1,44,200 per month based on academic pay level.",
-
-    category:"Uttar Pradesh Government Jobs",
-    jobType:"Assistant Professor, Associate Professor, Professor",
-
-    advertisementNo:"Not Specified",
-
-    applicationStartDate:"2026-07-03",
-    applicationEndDate:"2026-08-03",
-
-    examDate:"Not Applicable",
-    interviewDate:"To Be Announced",
-
-    postDetails:[
-        {postName:"Assistant Professor", totalPosts:65},
-        {postName:"Associate Professor", totalPosts:24},
-        {postName:"Professor", totalPosts:13},
-        {postName:"Veterinary Biochemistry & Physiology (Assistant Professor)", totalPosts:1},
-        {postName:"Veterinary Anatomy (Associate Professor)", totalPosts:1},
-        {postName:"Livestock Products Technology (Associate Professor)", totalPosts:1},
-        {postName:"Veterinary Gynaecology & Obstetrics (Associate Professor)", totalPosts:1},
-        {postName:"Veterinary Medicine (Associate Professor)", totalPosts:1},
-        {postName:"Veterinary Parasitology (Professor)", totalPosts:1},
-        {postName:"Veterinary Public Health & Epidemiology (Professor)", totalPosts:1},
-        {postName:"Animal Nutrition (Professor)", totalPosts:1},
-        {postName:"Livestock Products Technology (Professor)", totalPosts:1},
-        {postName:"Veterinary Animal Husbandry & Extension Education (Professor)", totalPosts:1},
-        {postName:"Post Harvest Technology (Professor)", totalPosts:1},
-        {postName:"Floriculture & Landscaping Architecture (Professor)", totalPosts:1},
-        {postName:"Dairy Technology (Professor)", totalPosts:1},
-        {postName:"Plant Biotechnology (Professor)", totalPosts:1},
-        {postName:"Veterinary Pathology (Professor)", totalPosts:1},
-        {postName:"Veterinary Physiology & Biochemistry (Professor)", totalPosts:1},
-        {postName:"Veterinary Surgery & Radiology (Professor)", totalPosts:1},
-        {postName:"Veterinary Clinical Complex (Professor)", totalPosts:1},
-        {postName:"Livestock Farm Complex (Professor)", totalPosts:1},
-        {postName:"Natural Resource Management (Associate Professor)", totalPosts:1},
-        {postName:"Food Safety & Quality Assurance (Associate Professor)", totalPosts:1},
-        {postName:"Dairy Chemistry (Associate Professor)", totalPosts:1},
-        {postName:"Civil Engineering (Associate Professor)", totalPosts:1},
-        {postName:"Agricultural Economics & Management (Associate Professor)", totalPosts:1}
-    ],
-
-    status:"open",
-    isNew:true
-},
-
+    
 {
     id:"bsa-aligarh-kgbv-recruitment-2026",
     orgWebsite:"https://aligarh.nic.in",
@@ -644,6 +66,281 @@ const JOBS_DATA = [
         {postName:"Peon", totalPosts:6},
         {postName:"Watchman", totalPosts:6},
         {postName:"Cook", totalPosts:24}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"cgssb-namuna-sahayak-recruitment-2026",
+    orgWebsite:"https://cgssb.cgstate.gov.in",
+    title:"CGSSB Namuna Sahayak Vacancy 2026",
+    shortTitle:"CGSSB Namuna Sahayak Online Form 2026",
+    organization:"Chhattisgarh Staff Selection Board (CGSSB)",
+    image:"CGSSBNamunaSahayak.jpeg",
+
+    totalPosts:36,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-31T17:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:5200,
+    salaryMax:20200,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Chhattisgarh",
+    addressLocality:"Raipur",
+    addressRegion:"Chhattisgarh",
+    addressCountry:"IN",
+
+    qualification:"10+2 (Science Stream with Chemistry)",
+
+    ageLimit:"18 to 30 Years",
+
+    applyLink:"https://cgssb.cgstate.gov.in",
+    officialNotification:"https://cgssb.cgstate.gov.in",
+
+    fee:"General (UR): Rs. 350 | OBC: Rs. 250 | SC/ST/PwBD: Rs. 200",
+
+    description:"Chhattisgarh Staff Selection Board (CGSSB) has invited online applications for 36 posts of Namuna Sahayak and Lab Assistant under the Public Health & Family Welfare Department. Candidates with 12th (Science Stream with Chemistry) from a recognized board can apply from 07 July 2026 to 31 July 2026. Selection includes a written examination, document verification and medical fitness test. Selected candidates will get Pay Level-4 (Rs. 5,200-20,200 + Grade Pay Rs. 1,900).",
+
+    category:"Chhattisgarh Government Jobs",
+    jobType:"Namuna Sahayak, Lab Assistant",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"20 September 2026 (Tentative)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Namuna Sahayak (Public Health & Family Welfare Department)", totalPosts:30},
+        {postName:"Lab Assistant - Aushadhi (State Drug Testing Laboratory)", totalPosts:3},
+        {postName:"Lab Assistant - Khadya (State Food Testing Laboratory)", totalPosts:3}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"aai-ner-apprentice-recruitment-2026",
+    orgWebsite:"https://www.aai.aero",
+    title:"AAI NER Apprentice Vacancy 2026",
+    shortTitle:"AAI NER Apprentice Online Form 2026",
+    organization:"Airports Authority of India (AAI)",
+    image:"AAIApprentice.jpeg",
+
+    totalPosts:95,
+
+    lastDate:"2026-07-28",
+    lastDateDisplay:"28 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-28T23:59:00+05:30",
+
+    employmentType:"INTERN",
+
+    location:"North Eastern Region (Guwahati)",
+    addressLocality:"Guwahati",
+    addressRegion:"Assam",
+    addressCountry:"IN",
+
+    qualification:"Degree / Diploma / ITI in Relevant Trade",
+
+    ageLimit:"18 to 26 Years",
+
+    applyLink:"https://www.aai.aero",
+    officialNotification:"https://www.aai.aero",
+
+    fee:"No Application Fee",
+
+    description:"Airports Authority of India (AAI) has released the official notification for North Eastern Region (NER) Apprentice Vacancy 2026, inviting applications for 95 apprentice posts including Graduate Apprentice, Diploma Apprentice and ITI Trade Apprentice. Candidates who passed their Degree/Diploma/ITI in 2024 or later can apply online through the NATS or NAPS portal before 28 July 2026. Selected candidates will undergo a one-year apprenticeship training at various airports with a stipend as per Apprentices Act & AAI Rules.",
+
+    category:"PSU Jobs",
+    jobType:"Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-28",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Civil Engineering (Graduate + Diploma)", totalPosts:18},
+        {postName:"Electrical Engineering (Graduate + Diploma)", totalPosts:20},
+        {postName:"Electronics / IT / Computer Science (Graduate + Diploma)", totalPosts:16},
+        {postName:"Mechanical Engineering (Graduate + Diploma)", totalPosts:8},
+        {postName:"Fitter (ITI)", totalPosts:7},
+        {postName:"Mechanic - Motor Vehicle (ITI)", totalPosts:12},
+        {postName:"Electrician (ITI)", totalPosts:14}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"pdil-engineer-recruitment-2026",
+    orgWebsite:"https://www.pdilin.com",
+    title:"PDIL Engineer Vacancy 2026",
+    shortTitle:"PDIL Engineer Online Form 2026",
+    organization:"Projects & Development India Limited (PDIL)",
+    image:"PDILEngineer.jpeg",
+
+    totalPosts:140,
+
+    lastDate:"2026-07-27",
+    lastDateDisplay:"27 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-27T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:31000,
+    salaryMax:71000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Noida",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Diploma / B.E./B.Tech / MCA / MBA in Relevant Discipline (2-11 Years Experience)",
+
+    ageLimit:"Up to 42 Years",
+
+    applyLink:"https://www.pdilin.com",
+    officialNotification:"https://www.pdilin.com",
+
+    fee:"General/OBC: Rs. 800 | SC/ST/EWS: Rs. 400",
+
+    description:"Projects & Development India Limited (PDIL) has released the official notification for 140 Diploma Engineer and Graduate Engineer posts on a contract basis for a maximum of 3 years. Vacancies span Civil, Mechanical, Electrical, Instrumentation, Process, Computer, Human Resources, Materials Management and Project Management disciplines. Candidates need 2 to 11 years of post-qualification experience depending on the post. Online applications started on 07 July 2026 and will close on 27 July 2026. Selected candidates will get a monthly remuneration of Rs. 31,000 to Rs. 71,000 depending on the scale.",
+
+    category:"PSU Jobs",
+    jobType:"Diploma Engineer, Graduate Engineer",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-27",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Civil (Design) - Diploma", totalPosts:4},
+        {postName:"Electrical (Design) - Diploma", totalPosts:4},
+        {postName:"Instrumentation (Design) - Diploma", totalPosts:2},
+        {postName:"Mechanical - Material Handling - Diploma", totalPosts:2},
+        {postName:"Mechanical - Piping - Diploma", totalPosts:7},
+        {postName:"Mechanical - Pressure Vessel - Diploma", totalPosts:1},
+        {postName:"Process (Design) - Diploma", totalPosts:3},
+        {postName:"Civil - Graduate", totalPosts:10},
+        {postName:"Civil (Construction) - Graduate", totalPosts:20},
+        {postName:"Computer - Graduate", totalPosts:1},
+        {postName:"Electrical - Graduate", totalPosts:7},
+        {postName:"Electrical (Construction) - Graduate", totalPosts:8},
+        {postName:"Fire/Industrial Safety (Construction) - Graduate", totalPosts:6},
+        {postName:"Fire/Industrial Safety (Design) - Graduate", totalPosts:2},
+        {postName:"Human Resources - Graduate", totalPosts:3},
+        {postName:"Instrumentation - Graduate", totalPosts:6},
+        {postName:"Instrumentation (Construction) - Graduate", totalPosts:5},
+        {postName:"Management Services - Graduate", totalPosts:6},
+        {postName:"Materials Management - Graduate", totalPosts:3},
+        {postName:"Mechanical (Construction) - Graduate", totalPosts:23},
+        {postName:"Mechanical (Machinery) - Graduate", totalPosts:3},
+        {postName:"Mechanical (Material Handling) - Graduate", totalPosts:3},
+        {postName:"Mechanical (Piping) - Graduate", totalPosts:4},
+        {postName:"Mechanical (Pressure Vessel) - Graduate", totalPosts:3},
+        {postName:"Process - Graduate", totalPosts:9},
+        {postName:"Project Management - Graduate", totalPosts:5},
+        {postName:"SSP & QC Audit - Graduate", totalPosts:3}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"nhsrcl-technician-recruitment-2026",
+    orgWebsite:"https://nhsrcl.in",
+    title:"NHSRCL Technician Vacancy 2026",
+    shortTitle:"NHSRCL Technician Online Form 2026",
+    organization:"National High Speed Rail Corporation Limited (NHSRCL)",
+    image:"NHSRCLTechnician.jpeg",
+
+    totalPosts:237,
+
+    lastDate:"2026-08-05",
+    lastDateDisplay:"05 August 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-08-05T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:35000,
+    salaryMax:110000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (Mumbai-Ahmedabad High Speed Rail Project)",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Matric + ITI / Apprenticeship / Diploma in Relevant Trade",
+
+    ageLimit:"Up to 35 Years",
+
+    applyLink:"https://nhsrcl.in",
+    officialNotification:"https://nhsrcl.in",
+
+    fee:"UR/OBC/EWS: Rs. 400 | SC/ST/Women: Exempted",
+
+    description:"National High Speed Rail Corporation Limited (NHSRCL) has released the official notification for 237 Technician posts across various technical trades on an Absorption Basis. Only regular or contract employees currently working in the Operation & Maintenance departments of Indian Railways, government railways, metro railways or RRTS are eligible. Candidates need ITI, Act Apprenticeship or Diploma in the relevant trade with a minimum of 2 years post-qualification experience. Online applications started on 07 July 2026 and close on 05 August 2026. Selected candidates will get an IDA pay scale of Rs. 35,000 to Rs. 1,10,000 (NE-2).",
+
+    category:"Railway Jobs",
+    jobType:"Technician",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-08-05",
+
+    examDate:"To Be Announced (CBT)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Technician (Civil/Track-Fitter) - 35/2026", totalPosts:18},
+        {postName:"Technician (Civil/Track-Mechanic) - 36/2026", totalPosts:16},
+        {postName:"Technician (Civil/Track-Draughtsman) - 37/2026", totalPosts:8},
+        {postName:"Technician (Civil/Track-Surveyor) - 38/2026", totalPosts:7},
+        {postName:"Technician (Civil/Track-Electrician) - 39/2026", totalPosts:8},
+        {postName:"Technician (Civil/Track-Welder) - 40/2026", totalPosts:6},
+        {postName:"Technician (Civil-Plumber) - 41/2026", totalPosts:2},
+        {postName:"Technician (Civil-Painter) - 42/2026", totalPosts:2},
+        {postName:"Technician (Electrical) - 43/2026", totalPosts:77},
+        {postName:"Technician (Signalling & Telecom) - 44/2026", totalPosts:63},
+        {postName:"Technician (Rolling Stock-Fitter) - 45/2026", totalPosts:10},
+        {postName:"Technician (Rolling Stock-Machinist) - 46/2026", totalPosts:2},
+        {postName:"Technician (Rolling Stock-Welder) - 47/2026", totalPosts:2},
+        {postName:"Technician (Rolling Stock-Electrician) - 48/2026", totalPosts:13},
+        {postName:"Technician (Rolling Stock-RAC) - 49/2026", totalPosts:3}
     ],
 
     status:"open",
@@ -2648,8 +2345,584 @@ isNew: true
     isNew:true
 },
 
+{
+    id:"iob-apprentice-recruitment-2026",
+    orgWebsite:"https://www.iob.bank.in",
+    title:"Indian Overseas Bank Apprentice Vacancy 2026",
+    shortTitle:"IOB Apprentice Online Form 2026",
+    organization:"Indian Overseas Bank (IOB)",
+    image:"IOB.jpeg",
 
+    totalPosts:750,
 
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-20T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:14000,
+    salaryMax:15500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Chennai",
+    addressRegion:"Tamil Nadu",
+    addressCountry:"IN",
+
+    qualification:"Graduation in Any Discipline",
+
+    ageLimit:"20 to 28 Years",
+
+    applyLink:"https://www.iob.bank.in",
+    officialNotification:"https://www.iob.bank.in",
+
+    fee:"SC/ST/PwBD: Rs. 236 | GEN/OBC/EWS (Female): Rs. 708 | GEN/OBC/EWS (Male): Rs. 944",
+
+    description:"Indian Overseas Bank (IOB) has released the official notification for Apprentice Recruitment 2026-27 under the Apprentices Act, 1961, inviting applications for 750 Apprentice posts across various states. Online applications through the NATS, NAPS and BEEP portals started on 07 July 2026 and will close on 20 July 2026. Fresh graduates who completed graduation between 01 March 2022 and 31 July 2026 are eligible. Selected candidates will get a monthly stipend of Rs. 14,000 to Rs. 15,500 depending on branch category, for a one-year training period.",
+
+    category:"Bank Jobs",
+    jobType:"Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"02 August 2026 (Tentative)",
+    interviewDate:"Personal Interaction (If Conducted)",
+
+    postDetails:[
+        {state:"Tamil Nadu", totalPosts:200},
+        {state:"Uttar Pradesh", totalPosts:110},
+        {state:"Maharashtra", totalPosts:85},
+        {state:"Delhi", totalPosts:53},
+        {state:"Bihar", totalPosts:35},
+        {state:"West Bengal", totalPosts:35},
+        {state:"Kerala", totalPosts:33},
+        {state:"Punjab", totalPosts:24},
+        {state:"Odisha", totalPosts:22},
+        {state:"Gujarat", totalPosts:16},
+        {state:"Haryana", totalPosts:16},
+        {state:"Rajasthan", totalPosts:16},
+        {state:"Andhra Pradesh", totalPosts:15},
+        {state:"Madhya Pradesh", totalPosts:12},
+        {state:"Puducherry", totalPosts:12},
+        {state:"Chhattisgarh", totalPosts:10},
+        {state:"Jharkhand", totalPosts:8},
+        {state:"Uttarakhand", totalPosts:8},
+        {state:"Karnataka", totalPosts:6},
+        {state:"Telangana", totalPosts:6},
+        {state:"Assam", totalPosts:4},
+        {state:"Chandigarh", totalPosts:4},
+        {state:"Manipur", totalPosts:4},
+        {state:"Jammu & Kashmir", totalPosts:2},
+        {state:"Meghalaya", totalPosts:2},
+        {state:"Mizoram", totalPosts:2},
+        {state:"Sikkim", totalPosts:2},
+        {state:"Tripura", totalPosts:2},
+        {state:"Andaman & Nicobar", totalPosts:1},
+        {state:"Arunachal Pradesh", totalPosts:1},
+        {state:"Daman & Diu", totalPosts:1},
+        {state:"Goa", totalPosts:1},
+        {state:"Himachal Pradesh", totalPosts:1},
+        {state:"Nagaland", totalPosts:1},
+        {state:"Dadra & Nagar Haveli", totalPosts:0},
+        {state:"Lakshadweep", totalPosts:0}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"kgbv-hamirpur-recruitment-2026",
+    orgWebsite:"https://hamirpur.nic.in",
+    title:"KGBV Hamirpur Vacancy 2026",
+    shortTitle:"KGBV Hamirpur Online Form 2026",
+    organization:"District Basic Education Officer (Samagra Shiksha), Hamirpur, Uttar Pradesh",
+    image:"KGBVHamirpur.jpeg",
+
+    totalPosts:73,
+
+    lastDate:"2026-07-25",
+    lastDateDisplay:"25 July 2026",
+
+    datePosted:"2026-07-04",
+    validThrough:"2026-07-25T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:6433,
+    salaryMax:30000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Hamirpur, Uttar Pradesh",
+    addressLocality:"Hamirpur",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"8th Pass, 10th Pass, Intermediate, Graduate or Postgraduate Degree (Post Wise)",
+
+    ageLimit:"25 to 45 Years",
+
+    applyLink:"https://hamirpur.nic.in",
+    officialNotification:"https://hamirpur.nic.in",
+
+    fee:"Not Mentioned",
+
+    description:"The District Basic Education Officer (Samagra Shiksha), Hamirpur has released the official notification for KGBV Bharti 2026, inviting applications for 73 posts including Principal, PGT, Full-Time Teacher, Part-Time Teacher, Computer Science Teacher, Care Taker, Lab Assistant, Office Superintendent, Accountant, Cook, Peon and Chowkidar. Only female candidates are eligible to apply. Applications are offline; candidates must send the filled form via Registered Post or Speed Post before 25 July 2026. Selected candidates will get a monthly salary ranging from Rs. 6,433 to Rs. 30,000 depending on the post.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Principal, PGT, Teacher, Lab Assistant, Clerk, Accountant, Cook, Peon, Chowkidar",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-04",
+    applicationEndDate:"2026-07-25",
+
+    examDate:"Not Applicable",
+    interviewDate:"Only for Specified Posts",
+
+    postDetails:[
+        {postName:"Principal (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Hindi (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT English (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Mathematics (New Upgraded KGBV)", totalPosts:3},
+        {postName:"PGT Biology (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Chemistry (New Upgraded KGBV)", totalPosts:2},
+        {postName:"PGT Physics (New Upgraded KGBV)", totalPosts:4},
+        {postName:"Computer Science Teacher (New Upgraded KGBV)", totalPosts:2},
+        {postName:"Care Taker (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Lab Assistant (New Upgraded KGBV)", totalPosts:13},
+        {postName:"Office Superintendent / Clerk (New Upgraded KGBV)", totalPosts:5},
+        {postName:"Cook (New Upgraded KGBV)", totalPosts:6},
+        {postName:"Peon (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Chowkidar (New Upgraded KGBV)", totalPosts:3},
+        {postName:"Full-Time Teacher Maths (Existing KGBV)", totalPosts:2},
+        {postName:"Full-Time Teacher Science (Existing KGBV)", totalPosts:1},
+        {postName:"Full-Time Teacher English (Existing KGBV)", totalPosts:1},
+        {postName:"Full-Time Teacher Hindi (Existing KGBV)", totalPosts:1},
+        {postName:"Part-Time Teacher Art/Music (Existing KGBV)", totalPosts:2},
+        {postName:"Part-Time Teacher Physical Education (Existing KGBV)", totalPosts:2},
+        {postName:"Part-Time Teacher Computer (Existing KGBV)", totalPosts:1},
+        {postName:"Accountant (Existing KGBV)", totalPosts:1},
+        {postName:"Chief Cook (Existing KGBV)", totalPosts:2},
+        {postName:"Assistant Cook (Existing KGBV)", totalPosts:7},
+        {postName:"Chowkidar (Existing KGBV)", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"lpsc-isro-internship-2026",
+    orgWebsite:"https://www.lpsc.gov.in",
+    title:"LPSC/ISRO Internship 2026",
+    shortTitle:"LPSC/ISRO Internship Online Form 2026",
+    organization:"Liquid Propulsion Systems Centre (LPSC), ISRO",
+    image:"LPSCISRO.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"2026-08-31",
+    lastDateDisplay:"31 August 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-08-31T23:59:00+05:30",
+
+    employmentType:"INTERN",
+
+    location:"India",
+    addressLocality:"Thiruvananthapuram",
+    addressRegion:"Kerala",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech, M.E./M.Tech, M.Sc., Ph.D. Students",
+
+    ageLimit:"Not Specified",
+
+    applyLink:"https://www.lpsc.gov.in",
+    officialNotification:"https://www.lpsc.gov.in",
+
+    fee:"No Application Fee",
+
+    description:"Liquid Propulsion Systems Centre (LPSC), ISRO invites online applications for its Internship Programme 2026 for the October 2026 - January 2027 batch. Engineering, science and research students can gain hands-on experience in rocket engines, cryogenic technology and spacecraft propulsion through a 21-45 day offline internship. Applications are open from 01 August 2026 to 31 August 2026. There is no stipend, but successful interns receive an official ISRO/LPSC Internship Certificate.",
+
+    category:"Internship",
+    jobType:"Internship Programme",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-08-01",
+    applicationEndDate:"2026-08-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"agniveervayu-intake-02-2027-recruitment-2026",
+    orgWebsite:"https://iafrecruitment.edcil.co.in",
+    title:"Agniveervayu Intake 02/2027 Notification",
+    shortTitle:"Agniveervayu Intake 02/2027 Online Form 2026",
+    organization:"Indian Air Force (IAF)",
+    image:"AgniveerVayu.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-07-26T23:00:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:30000,
+    salaryMax:40000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"12th Pass in Any Stream / 3-Year Engineering Diploma / 2-Year Vocational Course",
+
+    ageLimit:"17.5 to 22 Years",
+
+    applyLink:"https://iafrecruitment.edcil.co.in",
+    officialNotification:"https://iafrecruitment.edcil.co.in",
+
+    fee:"Rs. 550 + 18% GST (All Categories)",
+
+    description:"The Indian Air Force has released the official notification for Agniveervayu Intake 02/2027 under the Agnipath Scheme, inviting unmarried male and female candidates to serve in the IAF for four years. Online applications started on 06 July 2026 and will close on 26 July 2026. Candidates need a minimum 50% in 10+2, Diploma or a recognized vocational course. Selection includes an online exam, Physical Fitness Test, Adaptability Tests and Medical Examination. Selected Agniveers will get a starting monthly package of Rs. 30,000, rising to Rs. 40,000 by the fourth year, plus a Seva Nidhi package of approximately Rs. 10.04 lakh on completion of service.",
+
+    category:"Defence Jobs",
+    jobType:"Agniveervayu",
+
+    advertisementNo:"Vayu 02/2027",
+
+    applicationStartDate:"2026-07-06",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"22 & 23 September 2026",
+    interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"iaf-medical-assistant-recruitment-2026",
+    orgWebsite:"https://iafrecruitment.edcil.co.in",
+    title:"IAF Medical Assistant Bharti 2026",
+    shortTitle:"IAF Medical Assistant Online Form 2026",
+    organization:"Indian Air Force (IAF)",
+    image:"IAFMedicalAssistant.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-07-26T23:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:14600,
+    salaryMax:26900,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"12th (PCB) / Vocational PCB / Diploma Pharmacy / B.Pharm / B.Sc Pharmacy",
+
+    ageLimit:"18 to 23 Years",
+
+    applyLink:"https://iafrecruitment.edcil.co.in",
+    officialNotification:"https://iafrecruitment.edcil.co.in",
+
+    fee:"Rs. 550 + 18% GST (All Candidates)",
+
+    description:"Indian Air Force has released the official notification for Airmen Group 'Y' Medical Assistant Bharti 2026. Candidates with 12th (Physics, Chemistry, Biology), Diploma in Pharmacy, B.Pharm or B.Sc Pharmacy can apply online from 06 July 2026 to 26 July 2026. Selected candidates will get a training stipend of Rs. 14,600 per month, followed by a starting salary of Rs. 26,900 per month after training. Selection includes an online exam, Physical Fitness Test, Adaptability Tests and Medical Examination.",
+
+    category:"Defence Jobs",
+    jobType:"Medical Assistant",
+
+    advertisementNo:"02/2027",
+
+    applicationStartDate:"2026-07-06",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"22-23 September 2026",
+    interviewDate:"Not Applicable",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"nhidcl-associate-recruitment-2026",
+    orgWebsite:"https://www.nhidcl.com",
+    title:"NHIDCL Associate Vacancy 2026",
+    shortTitle:"NHIDCL Associate Online Form 2026",
+    organization:"National Highways and Infrastructure Development Corporation Limited (NHIDCL)",
+    image:"NHIDCL.jpeg",
+
+    totalPosts:100,
+
+    lastDate:"2026-08-05",
+    lastDateDisplay:"05 August 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-08-05T17:00:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:70000,
+    salaryMax:80000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (North East, J&K, Ladakh, West Bengal, Andaman & Nicobar)",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF Institutions",
+
+    ageLimit:"Maximum 30 Years",
+
+    applyLink:"https://www.nhidcl.com",
+    officialNotification:"https://www.nhidcl.com",
+
+    fee:"Not Mentioned",
+
+    description:"National Highways and Infrastructure Development Corporation Limited (NHIDCL) has released the official notification for 100 Associate posts under the State Specific Graduate Scheme (SSGS). Online applications through the NHIDCL Resource Pool Portal will be accepted from 08 July 2026 to 05 August 2026. Candidates need a B.E./B.Tech in Civil Engineering from IITs, NITs or Top 100 NIRF institutions, with a maximum age of 30 years. Selected candidates will get a consultancy fee of Rs. 70,000 to Rs. 80,000 per month, with a 5% annual increment.",
+
+    category:"PSU Jobs",
+    jobType:"Associate (SSGS)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-05",
+
+    examDate:"Only if Applications Exceed 3x Vacancies",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {state:"Assam", totalPosts:10},
+        {state:"Arunachal Pradesh", totalPosts:10},
+        {state:"Jammu (J&K)", totalPosts:5},
+        {state:"Srinagar (J&K)", totalPosts:5},
+        {state:"Manipur", totalPosts:10},
+        {state:"Meghalaya", totalPosts:10},
+        {state:"Mizoram", totalPosts:8},
+        {state:"Nagaland", totalPosts:5},
+        {state:"Sikkim", totalPosts:5},
+        {state:"Tripura", totalPosts:10},
+        {state:"Uttarakhand", totalPosts:5},
+        {state:"Ladakh", totalPosts:2},
+        {state:"West Bengal", totalPosts:8},
+        {state:"Andaman & Nicobar Islands", totalPosts:7}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"aiims-bhubaneswar-senior-resident-recruitment-2026",
+    orgWebsite:"https://aiimsbhubaneswar.nic.in",
+    title:"AIIMS Bhubaneswar Senior Resident Vacancy 2026",
+    shortTitle:"AIIMS Bhubaneswar Senior Resident Online Form 2026",
+    organization:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar",
+    image:"AIIMSBhubaneswar.jpeg",
+
+    totalPosts:83,
+
+    lastDate:"2026-07-22",
+    lastDateDisplay:"22 July 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-07-22T23:59:00+05:30",
+
+    employmentType:"CONTRACT",
+
+    salaryMin:67700,
+    salaryMax:67700,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bhubaneswar, Odisha",
+    addressLocality:"Bhubaneswar",
+    addressRegion:"Odisha",
+    addressCountry:"IN",
+
+    qualification:"MD/MS/DNB/DM/MCh/MDS or Equivalent (Post Wise, 34 Departments)",
+
+    ageLimit:"Maximum 45 Years",
+
+    applyLink:"https://aiimsbhubaneswar.nic.in",
+    officialNotification:"https://aiimsbhubaneswar.nic.in",
+
+    fee:"General/OBC: Rs. 1,770 | SC/ST/EWS: Rs. 1,416 | PwBD: Exempted",
+
+    description:"All India Institute of Medical Sciences (AIIMS), Bhubaneswar has invited online applications for 83 Senior Resident (Non-Academic) posts across 34 medical departments for a tenure of 3 years. Online applications will be accepted from 08 July 2026 to 22 July 2026. Candidates need MD, MS, DNB, DM, MCh, MDS or an equivalent degree as per the relevant department. Selection includes a written examination (if required) followed by a personal interview. Selected candidates will get a Basic Pay of Rs. 67,700 per month under Level-11 (7th CPC), along with NPA and other allowances.",
+
+    category:"Medical Jobs",
+    jobType:"Senior Resident (Non-Academic)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-07-22",
+
+    examDate:"Only if Applications Exceed 3x Vacancies",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {department:"Anaesthesiology", totalPosts:2},
+        {department:"Anatomy", totalPosts:2},
+        {department:"Biochemistry", totalPosts:3},
+        {department:"Cardiology", totalPosts:1},
+        {department:"Conservative Dentistry & Endodontics", totalPosts:1},
+        {department:"Dermatology", totalPosts:2},
+        {department:"Endocrinology", totalPosts:1},
+        {department:"ENT", totalPosts:3},
+        {department:"Forensic Medicine & Toxicology (FMT)", totalPosts:5},
+        {department:"General Medicine", totalPosts:10},
+        {department:"General Surgery", totalPosts:10},
+        {department:"Hospital Administration", totalPosts:3},
+        {department:"Microbiology", totalPosts:1},
+        {department:"Neonatology", totalPosts:1},
+        {department:"Neurology", totalPosts:1},
+        {department:"Obstetrics & Gynaecology", totalPosts:3},
+        {department:"Ophthalmology", totalPosts:2},
+        {department:"Orthopaedics", totalPosts:2},
+        {department:"Paediatric Surgery", totalPosts:2},
+        {department:"Paediatrics", totalPosts:2},
+        {department:"Pharmacology", totalPosts:1},
+        {department:"Physical Medicine & Rehabilitation", totalPosts:1},
+        {department:"Physiology", totalPosts:2},
+        {department:"Psychiatry", totalPosts:1},
+        {department:"Radiation Oncology", totalPosts:2},
+        {department:"Radiodiagnosis", totalPosts:3},
+        {department:"Surgical Gastroenterology", totalPosts:2},
+        {department:"Surgical Oncology", totalPosts:2},
+        {department:"Transfusion Medicine", totalPosts:3},
+        {department:"Trauma & Emergency (Anaesthesiology)", totalPosts:2},
+        {department:"Trauma & Emergency (Emergency Medicine)", totalPosts:2},
+        {department:"Trauma & Emergency (Orthopaedics)", totalPosts:1},
+        {department:"Burn Centre (Anaesthesiology)", totalPosts:2},
+        {department:"Burn & Plastic Surgery", totalPosts:1},
+        {department:"Gastroenterology", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"svpuat-teaching-recruitment-2026",
+    orgWebsite:"https://www.svpuat.edu.in",
+    title:"SVPUAT Teaching Vacancy 2026",
+    shortTitle:"SVPUAT Teaching Online Form 2026",
+    organization:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT)",
+    image:"SVPUATTeaching.jpeg",
+
+    totalPosts:126,
+
+    lastDate:"2026-08-03",
+    lastDateDisplay:"03 August 2026",
+
+    datePosted:"2026-07-03",
+    validThrough:"2026-08-03T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:57700,
+    salaryMax:144200,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Meerut, Uttar Pradesh",
+    addressLocality:"Meerut",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Master's Degree / Ph.D. in the Relevant Discipline (Post Wise)",
+
+    ageLimit:"Maximum 40 Years (Assistant Professor Only)",
+
+    applyLink:"https://www.svpuat.edu.in",
+    officialNotification:"https://www.svpuat.edu.in",
+
+    fee:"General/OBC/EWS: Rs. 1,500 | SC/ST/PwD: Rs. 750",
+
+    description:"Sardar Vallabhbhai Patel University of Agriculture and Technology (SVPUAT), Meerut has invited online applications for 126 Teaching posts including Assistant Professor, Associate Professor and Professor. Online applications started on 03 July 2026 and will close on 03 August 2026. Maximum age for Assistant Professor is 40 years, while there is no upper age limit for Associate Professor and Professor posts. Selected candidates will get a salary ranging from Rs. 57,700 to Rs. 1,44,200 per month based on academic pay level.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Assistant Professor, Associate Professor, Professor",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-03",
+    applicationEndDate:"2026-08-03",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Assistant Professor", totalPosts:65},
+        {postName:"Associate Professor", totalPosts:24},
+        {postName:"Professor", totalPosts:13},
+        {postName:"Veterinary Biochemistry & Physiology (Assistant Professor)", totalPosts:1},
+        {postName:"Veterinary Anatomy (Associate Professor)", totalPosts:1},
+        {postName:"Livestock Products Technology (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Gynaecology & Obstetrics (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Medicine (Associate Professor)", totalPosts:1},
+        {postName:"Veterinary Parasitology (Professor)", totalPosts:1},
+        {postName:"Veterinary Public Health & Epidemiology (Professor)", totalPosts:1},
+        {postName:"Animal Nutrition (Professor)", totalPosts:1},
+        {postName:"Livestock Products Technology (Professor)", totalPosts:1},
+        {postName:"Veterinary Animal Husbandry & Extension Education (Professor)", totalPosts:1},
+        {postName:"Post Harvest Technology (Professor)", totalPosts:1},
+        {postName:"Floriculture & Landscaping Architecture (Professor)", totalPosts:1},
+        {postName:"Dairy Technology (Professor)", totalPosts:1},
+        {postName:"Plant Biotechnology (Professor)", totalPosts:1},
+        {postName:"Veterinary Pathology (Professor)", totalPosts:1},
+        {postName:"Veterinary Physiology & Biochemistry (Professor)", totalPosts:1},
+        {postName:"Veterinary Surgery & Radiology (Professor)", totalPosts:1},
+        {postName:"Veterinary Clinical Complex (Professor)", totalPosts:1},
+        {postName:"Livestock Farm Complex (Professor)", totalPosts:1},
+        {postName:"Natural Resource Management (Associate Professor)", totalPosts:1},
+        {postName:"Food Safety & Quality Assurance (Associate Professor)", totalPosts:1},
+        {postName:"Dairy Chemistry (Associate Professor)", totalPosts:1},
+        {postName:"Civil Engineering (Associate Professor)", totalPosts:1},
+        {postName:"Agricultural Economics & Management (Associate Professor)", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
 
 
 
