@@ -1,5 +1,289 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+  {
+    id:"up-anganwadi-bharti-recruitment-2026",
+    orgWebsite:"https://upanganwadibharti.in",
+    title:"UP Anganwadi Bharti 2026",
+    shortTitle:"UP Anganwadi Online Form 2026",
+    organization:"Office of the District Programme Officer, Child Development",
+    image:"UPAnganwadiBharti.jpeg",
+
+    totalPosts:6000,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"District-Wise (Varies by District, up to 31 July 2026)",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    location:"Uttar Pradesh (Multiple Districts)",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"10th Pass, Intermediate (10+2) or Equivalent",
+
+    ageLimit:"18 to 35 Years",
+
+    applyLink:"https://upanganwadibharti.in",
+    officialNotification:"https://upanganwadibharti.in",
+
+    fee:"No Fee (All Categories)",
+
+    description:"The Uttar Pradesh Government has launched a large-scale recruitment drive for Anganwadi Karyakartri (Anganwadi Worker) and Anganwadi Helper posts, with more than 6000 vacancies across various districts. Female candidates aged 18 to 35 years with 10th Pass or Intermediate qualification can apply. Each district has its own separate notification start and last date, so candidates must check their district's official notification. Selection is purely merit-based on academic marks, with no written exam or interview.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Anganwadi Worker, Anganwadi Helper",
+
+    advertisementNo:"Not Specified (District-Wise)",
+
+    applicationStartDate:"2026-06-19",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {district:"Auraiya (Worker)", totalPosts:292},
+        {district:"Shravasti (Worker)", totalPosts:60},
+        {district:"Chandauli (Worker)", totalPosts:43},
+        {district:"Moradabad (Worker)", totalPosts:207},
+        {district:"Varanasi (Worker)", totalPosts:187},
+        {district:"Bhadohi (Worker)", totalPosts:108},
+        {district:"Agra (Worker)", totalPosts:322},
+        {district:"Pratapgarh (Worker)", totalPosts:250},
+        {district:"Aligarh (Worker)", totalPosts:237},
+        {district:"Mathura (Worker)", totalPosts:236},
+        {district:"Farrukhabad (Worker)", totalPosts:292},
+        {district:"Meerut (Worker)", totalPosts:180},
+        {district:"Baghpat (Worker)", totalPosts:261},
+        {district:"Kannauj (Worker)", totalPosts:125},
+        {district:"Bijnor (Worker)", totalPosts:268},
+        {district:"Kanpur Nagar (Worker)", totalPosts:259},
+        {district:"Lalitpur (Worker)", totalPosts:75},
+        {district:"Auraiya (Helper)", totalPosts:181},
+        {district:"Shravasti (Helper)", totalPosts:68},
+        {district:"Chandauli (Helper)", totalPosts:126},
+        {district:"Agra (Helper)", totalPosts:322},
+        {district:"Baghpat (Helper)", totalPosts:374},
+        {district:"Bijnor (Helper)", totalPosts:260}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"army-ssc-tech-68th-women-recruitment-2026",
+    orgWebsite:"https://joinindianarmy.nic.in",
+    title:"Army SSC Tech 68th Women Vacancy 2026",
+    shortTitle:"Army SSC Tech Women Online Form 2026",
+    organization:"Indian Army",
+    image:"ArmySSCTechWomen.jpeg",
+
+    totalPosts:31,
+
+    lastDate:"2026-08-06",
+    lastDateDisplay:"06 August 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-08-06T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:56100,
+    salaryMax:177500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech Degree in the Relevant Engineering Discipline",
+
+    ageLimit:"20 to 27 Years",
+
+    applyLink:"https://joinindianarmy.nic.in",
+    officialNotification:"https://joinindianarmy.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"The Indian Army has released the recruitment notification for SSC Tech 68th (Women) Course April 2027, inviting unmarried female engineering candidates for 31 (probable) Lieutenant posts under the Short Service Commission (SSC). Online applications started on 08 July 2026 and will close on 06 August 2026. Candidates must hold a B.E./B.Tech degree in the relevant engineering discipline, or be in their final year. Selection includes shortlisting, SSB Interview, medical examination and document verification. Selected candidates will get a salary of Rs. 56,100 to Rs. 1,77,500 per month.",
+
+    category:"Defence Jobs",
+    jobType:"Lieutenant (SSC Technical Entry)",
+
+    advertisementNo:"SSC Tech 68th Women",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-06",
+
+    examDate:"Not Applicable",
+    interviewDate:"SSB Interview (As Per Schedule)",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"dhfw-punjab-house-surgeon-recruitment-2026",
+    orgWebsite:"https://nhm.punjab.gov.in",
+    title:"DHFW Punjab House Surgeon Vacancy 2026",
+    shortTitle:"NHM Punjab House Surgeon Online Form 2026",
+    organization:"Department of Health & Family Welfare, Punjab (NHM Punjab)",
+    image:"DHFWPunjabHouseSurgeon.jpeg",
+
+    totalPosts:523,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-26T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:70000,
+    salaryMax:70000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Punjab",
+    addressLocality:"Chandigarh",
+    addressRegion:"Punjab",
+    addressCountry:"IN",
+
+    qualification:"MBBS Degree from a Recognized Medical College/University",
+
+    ageLimit:"To Be Announced",
+
+    applyLink:"https://nhm.punjab.gov.in",
+    officialNotification:"https://nhm.punjab.gov.in",
+
+    fee:"To Be Announced",
+
+    description:"Department of Health & Family Welfare, Punjab (NHM Punjab) has released a short notice for House Surgeon Recruitment 2026, inviting applications for 523 posts. Online applications will start on 10 July 2026 and close on 26 July 2026. Candidates need an MBBS degree with compulsory rotatory internship completed and valid registration with the Punjab Medical Council (PMC) or National Medical Commission (NMC), along with knowledge of Punjabi language. Selected candidates will get an attractive monthly salary of Rs. 70,000.",
+
+    category:"Punjab Government Jobs",
+    jobType:"House Surgeon",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-10",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"Not Applicable",
+    interviewDate:"Counselling Based",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"rrc-ncr-act-apprentice-recruitment-2026",
+    orgWebsite:"https://www.rrcpryj.org",
+    title:"North Central Railway Apprentice Vacancy 2026",
+    shortTitle:"RRC NCR Apprentice Online Form 2026",
+    organization:"Railway Recruitment Cell (RRC), North Central Railway (NCR)",
+    image:"NCRApprentice.jpeg",
+
+    totalPosts:1853,
+
+    lastDate:"2026-08-07",
+    lastDateDisplay:"07 August 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-08-07T23:59:00+05:30",
+
+    employmentType:"INTERN",
+
+    location:"North Central Railway (Agra, Jhansi, Prayagraj)",
+    addressLocality:"Prayagraj",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"10th Pass (50% Marks) + ITI (Relevant Trade)",
+
+    ageLimit:"15 to 24 Years",
+
+    applyLink:"https://www.rrcpryj.org",
+    officialNotification:"https://www.rrcpryj.org",
+
+    fee:"General/OBC/EWS: Rs. 100 | SC/ST/PwBD/Female: Nil",
+
+    description:"Railway Recruitment Cell (RRC), North Central Railway (NCR) has released the official notification for Act Apprentice Recruitment 2026, inviting applications for 1,853 apprentice posts across Agra, Jhansi and Prayagraj divisions, headquarters, and workshops. Online applications are open from 08 July 2026 to 07 August 2026. Candidates need 10th Pass with minimum 50% marks and an ITI/NTC certificate in the relevant trade. Selection is based on a merit list from 10th and ITI marks, followed by document verification and medical examination. Stipend will be paid as per the Apprentices Act, 1961.",
+
+    category:"Railway Jobs",
+    jobType:"Act Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-07",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Agra Division - Fitter", totalPosts:80},
+        {postName:"Agra Division - Electrician", totalPosts:113},
+        {postName:"Agra Division - Welder", totalPosts:15},
+        {postName:"Agra Division - Machinist", totalPosts:5},
+        {postName:"Agra Division - Carpenter", totalPosts:5},
+        {postName:"Agra Division - Painter", totalPosts:5},
+        {postName:"Agra Division - ICT System Maintenance", totalPosts:8},
+        {postName:"Agra Division - Plumber", totalPosts:5},
+        {postName:"Agra Division - Draftsman (Civil)", totalPosts:5},
+        {postName:"Agra Division - Stenographer (English)", totalPosts:4},
+        {postName:"Agra Division - Wireman", totalPosts:13},
+        {postName:"Agra Division - Mechanic-cum-Operator Electronics Communication", totalPosts:15},
+        {postName:"Agra Division - Health Sanitary Inspector", totalPosts:6},
+        {postName:"Agra Division - Multimedia & Web Page Designer", totalPosts:5},
+        {postName:"Agra Division - COPA", totalPosts:12},
+        {postName:"Jhansi Division - Fitter", totalPosts:240},
+        {postName:"Jhansi Division - Electrician", totalPosts:129},
+        {postName:"Jhansi Division - Mechanic (DSL)", totalPosts:60},
+        {postName:"Jhansi Division - Painter", totalPosts:4},
+        {postName:"Jhansi Division - Carpenter", totalPosts:7},
+        {postName:"Jhansi Division - Welder", totalPosts:14},
+        {postName:"Jhansi Division - Turner", totalPosts:3},
+        {postName:"Jhansi Division - Machinist", totalPosts:4},
+        {postName:"Jhansi Division - COPA", totalPosts:53},
+        {postName:"Prayagraj Division - Fitter", totalPosts:385},
+        {postName:"Prayagraj Division - Welder", totalPosts:20},
+        {postName:"Prayagraj Division - Carpenter", totalPosts:7},
+        {postName:"Prayagraj Division - COPA", totalPosts:26},
+        {postName:"Prayagraj Division - Stenographer (Hindi)", totalPosts:3},
+        {postName:"Prayagraj Division - Stenographer (English)", totalPosts:3},
+        {postName:"Prayagraj Division - Machinist", totalPosts:54},
+        {postName:"Prayagraj Division - Electrician", totalPosts:140},
+        {postName:"Prayagraj Division - Turner", totalPosts:15},
+        {postName:"Prayagraj Division - Wireman", totalPosts:50},
+        {postName:"Headquarters - Stenographer (English)", totalPosts:7},
+        {postName:"Headquarters - Stenographer (Hindi)", totalPosts:7},
+        {postName:"Headquarters - COPA", totalPosts:12},
+        {postName:"Headquarters - Multimedia & Web Page Designer", totalPosts:4},
+        {postName:"Headquarters - Computer Networking Technician", totalPosts:2},
+        {postName:"Jhansi Workshop - Fitter", totalPosts:123},
+        {postName:"Jhansi Workshop - Welder", totalPosts:59},
+        {postName:"Jhansi Workshop - Machinist", totalPosts:20},
+        {postName:"Jhansi Workshop - Electrician", totalPosts:23},
+        {postName:"Jhansi Workshop - Stenographer (English)", totalPosts:1},
+        {postName:"Track Machine Workshop - Fitter", totalPosts:21},
+        {postName:"Track Machine Workshop - Mechanic (DSL)", totalPosts:12},
+        {postName:"Track Machine Workshop - Welder", totalPosts:12},
+        {postName:"Track Machine Workshop - Machinist", totalPosts:7},
+        {postName:"Track Machine Workshop - Electrician & Electronics", totalPosts:19},
+        {postName:"Track Machine Workshop - COPA", totalPosts:11}
+    ],
+
+    status:"open",
+    isNew:true
+},
     {
     id:"pgvcl-vidyut-sahayak-recruitment-2026",
     orgWebsite:"https://www.pgvcl.com",

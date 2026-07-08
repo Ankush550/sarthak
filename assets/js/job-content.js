@@ -1,5 +1,605 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["rrc-ncr-act-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+North Central Railway Apprentice Vacancy 2026 – Apply Online for 1,853 Act Apprentice Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🚂 RRC NCR Act Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 07 August 2026</strong>
+</p>
+
+<a href="https://www.rrcpryj.org"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Railway Recruitment Cell (RRC), North Central Railway (NCR)</strong> has released the official
+notification for <strong>Act Apprentice Recruitment 2026</strong>, offering a total of
+<strong>1,853 apprentice</strong> posts across the Agra, Jhansi and Prayagraj divisions, headquarters, and
+workshops.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Interested candidates can apply online from <strong>08 July 2026</strong> to
+<strong>07 August 2026</strong>. Candidates must be between <strong>15 and 24 years</strong> of age, with
+<strong>10th Pass and ITI</strong> in the relevant trade. Selection is based on merit from 10th and ITI marks,
+document verification and medical examination.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+RRC NCR Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Railway Recruitment Cell (RRC), North Central Railway (NCR)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Act Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>1,853</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>07 August 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>15 to 24 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>10th Pass (50% Marks) + ITI (Relevant Trade)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.rrcpryj.org</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>07 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General, OBC, EWS</td>
+<td>₹100</td>
+</tr>
+
+<tr>
+<td>SC, ST, PwBD, Female</td>
+<td>Nil</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>15 and 24 years</strong> of age. Candidates need to have passed
+<strong>10th/Matriculation</strong> with at least <strong>50% marks</strong>, along with an
+<strong>ITI/National Trade Certificate (NTC)</strong> in the relevant trade issued by NCVT/SCVT.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Division & Trade-Wise Vacancy Details
+</h2>
+
+<h3 style="font-size:26px;margin-top:25px;">Agra (AGC) Division – Total 296</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>80</td></tr>
+<tr><td>Electrician</td><td>113</td></tr>
+<tr><td>Welder</td><td>15</td></tr>
+<tr><td>Machinist</td><td>5</td></tr>
+<tr><td>Carpenter</td><td>5</td></tr>
+<tr><td>Painter</td><td>5</td></tr>
+<tr><td>ICT System Maintenance</td><td>8</td></tr>
+<tr><td>Plumber</td><td>5</td></tr>
+<tr><td>Draftsman (Civil)</td><td>5</td></tr>
+<tr><td>Stenographer (English)</td><td>4</td></tr>
+<tr><td>Wireman</td><td>13</td></tr>
+<tr><td>Mechanic-cum-Operator Electronics Communication</td><td>15</td></tr>
+<tr><td>Health Sanitary Inspector</td><td>6</td></tr>
+<tr><td>Multimedia & Web Page Designer</td><td>5</td></tr>
+<tr><td>COPA</td><td>12</td></tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Jhansi (JHS) Division – Total 514</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>240</td></tr>
+<tr><td>Electrician</td><td>129</td></tr>
+<tr><td>Mechanic (DSL)</td><td>60</td></tr>
+<tr><td>Painter</td><td>4</td></tr>
+<tr><td>Carpenter</td><td>7</td></tr>
+<tr><td>Welder</td><td>14</td></tr>
+<tr><td>Turner</td><td>3</td></tr>
+<tr><td>Machinist</td><td>4</td></tr>
+<tr><td>COPA</td><td>53</td></tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Prayagraj (PRYJ) Division – Total 703</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>385</td></tr>
+<tr><td>Welder</td><td>20</td></tr>
+<tr><td>Carpenter</td><td>7</td></tr>
+<tr><td>COPA</td><td>26</td></tr>
+<tr><td>Stenographer (Hindi)</td><td>3</td></tr>
+<tr><td>Stenographer (English)</td><td>3</td></tr>
+<tr><td>Machinist</td><td>54</td></tr>
+<tr><td>Electrician</td><td>140</td></tr>
+<tr><td>Turner</td><td>15</td></tr>
+<tr><td>Wireman</td><td>50</td></tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Headquarters / NCR – Total 32</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Stenographer (English)</td><td>7</td></tr>
+<tr><td>Stenographer (Hindi)</td><td>7</td></tr>
+<tr><td>COPA</td><td>12</td></tr>
+<tr><td>Multimedia & Web Page Designer</td><td>4</td></tr>
+<tr><td>Computer Networking Technician</td><td>2</td></tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Jhansi Workshop – Total 226</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>123</td></tr>
+<tr><td>Welder</td><td>59</td></tr>
+<tr><td>Machinist</td><td>20</td></tr>
+<tr><td>Electrician</td><td>23</td></tr>
+<tr><td>Stenographer (English)</td><td>1</td></tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Track Machine Workshop / Headquarters – Total 82</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade Name</th>
+<th>Total Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>21</td></tr>
+<tr><td>Mechanic (DSL)</td><td>12</td></tr>
+<tr><td>Welder</td><td>12</td></tr>
+<tr><td>Machinist</td><td>7</td></tr>
+<tr><td>Electrician & Electronics</td><td>19</td></tr>
+<tr><td>COPA</td><td>11</td></tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;margin-top:15px;">
+<strong>Grand Total (All Divisions & Trades): 1,823 Posts</strong> as per division-wise breakdown
+(1,853 as per official total).
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Act Apprentice</td>
+<td>Passed 10th/Matriculation (SSC) with at least 50% aggregate marks from a recognized Board.</td>
+</tr>
+
+<tr>
+<td>Technical Qualification</td>
+<td>ITI / National Trade Certificate (NTC) in the relevant trade issued by NCVT/SCVT.</td>
+</tr>
+
+<tr>
+<td>Additional Requirement</td>
+<td>Relevant Trade Certificate is mandatory.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend / Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>During Apprenticeship</td>
+<td>Stipend will be paid as per the Apprentices Act, 1961 and Railway rules.</td>
+</tr>
+
+<tr>
+<td>Additional Benefits</td>
+<td>As per RRC/NCR Apprenticeship Guidelines.</td>
+</tr>
+
+<tr>
+<td>Permanent Job</td>
+<td>Apprenticeship training does not guarantee permanent employment in Indian Railways.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Merit List based on 10th & ITI Marks</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Subject to verification of eligibility and medical fitness</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official RRC North Central Railway website.</li>
+
+<li>Open the Act Apprentice Recruitment 2026 application link.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Fill in all personal, educational and trade details carefully.</li>
+
+<li>Upload your photograph, signature and required certificates.</li>
+
+<li>Pay the application fee online (if applicable).</li>
+
+<li>Preview the application form before final submission.</li>
+
+<li>Submit the application form.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.rrcpryj.org" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.rrcpryj.org" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.rrcpryj.org" target="_blank">
+rrcpryj.org
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. When will applications start for RRC NCR Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>08 July 2026</strong>. Eligible candidates can apply through the
+official website.
+</p>
+
+<h3>2. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply online is <strong>07 August 2026</strong>.
+</p>
+
+<h3>3. How many total posts are there in RRC NCR Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>1,853 Act Apprentice</strong> posts will be filled through this recruitment.
+</p>
+
+<h3>4. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must have passed <strong>10th class with at least 50% marks</strong>, along with an
+<strong>ITI Certificate</strong> recognized by NCVT/SCVT in the relevant trade.
+</p>
+
+<h3>5. What is the age limit?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>15 and 24 years</strong> of age. SC/ST, OBC, PwBD and Ex-Servicemen will get
+age relaxation as per government rules.
+</p>
+
+<h3>6. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹100</strong> for General, OBC and EWS candidates, while application is completely free for
+<strong>SC, ST, PwBD</strong> and all <strong>female candidates</strong>.
+</p>
+
+<h3>7. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is based on a merit list from <strong>10th and ITI marks</strong>, followed by document verification
+and medical examination. There is <strong>no written exam</strong>.
+</p>
+
+<h3>8. Is the ITI Certificate mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. An <strong>ITI or National Trade Certificate</strong> recognized by NCVT/SCVT in the relevant trade is
+mandatory for all candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>North Central Railway Apprentice Vacancy 2026</strong> is a bumper opportunity for ITI-qualified
+candidates to gain apprenticeship training with Indian Railways across Agra, Jhansi and Prayagraj divisions.
+Interested candidates should complete their online registration and submit the application well before
+<strong>07 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for North Central Railway Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>07 August 2026</strong>.
+</p>
+
+<a href="https://www.rrcpryj.org"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=army-ssc-tech-68th-women-recruitment-2026">Army SSC Tech 68th Women Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=pgvcl-vidyut-sahayak-recruitment-2026">PGVCL Vidyut Sahayak Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official RRC NCR notification before applying.</p>
+`;
 JOB_CONTENT["psssb-craft-instructor-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
