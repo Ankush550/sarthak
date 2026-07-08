@@ -1,5 +1,742 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["csc-aadhaar-supervisor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+CSC Aadhaar Supervisor Vacancy 2026 – Apply Online for 316 Aadhaar Supervisor/Operator Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🆔 CSC Aadhaar Supervisor Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Open</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>20 August 2026</strong>
+</p>
+
+<a href="https://career.csccloud.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>CSC e-Governance Services India Ltd.</strong> has released the official notification for
+<strong>Aadhaar Supervisor/Operator Bharti 2026</strong>, offering a total of <strong>316 posts</strong>
+across <strong>7 states</strong> — Bihar, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Maharashtra, Karnataka
+and Goa.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Interested candidates can apply online until <strong>20 August 2026</strong>. Candidates must hold
+<strong>12th Pass, ITI or Polytechnic Diploma</strong> qualification along with a valid
+<strong>UIDAI Authorized Aadhaar Supervisor/Operator Certificate</strong>. Selected candidates will get a
+monthly salary as per the <strong>Semi-Skilled Minimum Wages</strong> of the respective state, for a
+<strong>contractual period of 1 year</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+CSC Aadhaar Supervisor Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>CSC e-Governance Services India Ltd.</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Aadhaar Supervisor / Operator – District</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>316</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>20 August 2026</td>
+</tr>
+
+<tr>
+<th>Minimum Age</th>
+<td>18 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>12th Pass (Senior Secondary)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>State Minimum Wages</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>career.csccloud.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>20 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+No application fee has been mentioned in the official notification for any category of candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum age to apply is <strong>18 years</strong>. No maximum age limit has been mentioned in the official
+notification. Candidates must also hold a valid <strong>UIDAI Authorized Aadhaar Supervisor/Operator
+Certificate</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+State-Wise & District-Wise Vacancy Details
+</h2>
+
+<h3 style="font-size:26px;margin-top:25px;">Bihar – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Arwal</td><td>1</td></tr>
+<tr><td>Araria</td><td>2</td></tr>
+<tr><td>Aurangabad</td><td>2</td></tr>
+<tr><td>Banka</td><td>1</td></tr>
+<tr><td>Begusarai</td><td>5</td></tr>
+<tr><td>Bhagalpur</td><td>3</td></tr>
+<tr><td>Bhojpur</td><td>3</td></tr>
+<tr><td>Buxar</td><td>2</td></tr>
+<tr><td>Darbhanga</td><td>3</td></tr>
+<tr><td>Purbi Champaran</td><td>6</td></tr>
+<tr><td>Gaya</td><td>4</td></tr>
+<tr><td>Gopalganj</td><td>2</td></tr>
+<tr><td>Jamui</td><td>1</td></tr>
+<tr><td>Jehanabad</td><td>1</td></tr>
+<tr><td>Katihar</td><td>2</td></tr>
+<tr><td>Kaimur (Bhabua)</td><td>3</td></tr>
+<tr><td>Khagaria</td><td>2</td></tr>
+<tr><td>Kishanganj</td><td>1</td></tr>
+<tr><td>Lakhisarai</td><td>1</td></tr>
+<tr><td>Madhepura</td><td>2</td></tr>
+<tr><td>Madhubani</td><td>5</td></tr>
+<tr><td>Munger</td><td>3</td></tr>
+<tr><td>Muzaffarpur</td><td>2</td></tr>
+<tr><td>Nalanda</td><td>3</td></tr>
+<tr><td>Nawada</td><td>2</td></tr>
+<tr><td>Patna</td><td>6</td></tr>
+<tr><td>Purnia</td><td>4</td></tr>
+<tr><td>Rohtas</td><td>3</td></tr>
+<tr><td>Saharsa</td><td>2</td></tr>
+<tr><td>Samastipur</td><td>4</td></tr>
+<tr><td>Saran</td><td>3</td></tr>
+<tr><td>Sheikhpura</td><td>1</td></tr>
+<tr><td>Sheohar</td><td>1</td></tr>
+<tr><td>Sitamarhi</td><td>3</td></tr>
+<tr><td>Siwan</td><td>2</td></tr>
+<tr><td>Supaul</td><td>4</td></tr>
+<tr><td>Vaishali</td><td>3</td></tr>
+<tr><td>Pashchim Champaran</td><td>3</td></tr>
+
+<tr>
+<th>Total</th>
+<th>107</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Chhattisgarh – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Balod</td><td>4</td></tr>
+<tr><td>Bijapur</td><td>3</td></tr>
+<tr><td>Kondagaon</td><td>4</td></tr>
+<tr><td>Balrampur</td><td>5</td></tr>
+<tr><td>Bastar</td><td>1</td></tr>
+<tr><td>Sukma</td><td>1</td></tr>
+
+<tr>
+<th>Total</th>
+<th>18</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Madhya Pradesh – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Chhatarpur</td><td>1</td></tr>
+<tr><td>Seoni</td><td>1</td></tr>
+<tr><td>Jhabua</td><td>1</td></tr>
+<tr><td>Dhar</td><td>1</td></tr>
+<tr><td>Sehore</td><td>1</td></tr>
+
+<tr>
+<th>Total</th>
+<th>5</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Maharashtra – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Yavatmal</td><td>1</td></tr>
+
+<tr>
+<th>Total</th>
+<th>1</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Uttar Pradesh – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Etawah</td><td>1</td></tr>
+<tr><td>Ghaziabad</td><td>1</td></tr>
+<tr><td>Hathras</td><td>1</td></tr>
+<tr><td>Jalaun</td><td>1</td></tr>
+<tr><td>Jhansi</td><td>1</td></tr>
+<tr><td>Kanpur Nagar</td><td>1</td></tr>
+<tr><td>Lalitpur</td><td>1</td></tr>
+<tr><td>Pilibhit</td><td>1</td></tr>
+<tr><td>Ambedkar Nagar</td><td>1</td></tr>
+<tr><td>Amethi</td><td>1</td></tr>
+<tr><td>Baghpat</td><td>1</td></tr>
+<tr><td>Bareilly</td><td>1</td></tr>
+<tr><td>Chitrakoot</td><td>1</td></tr>
+<tr><td>Hapur</td><td>1</td></tr>
+<tr><td>Kanpur Dehat</td><td>1</td></tr>
+<tr><td>Mathura</td><td>1</td></tr>
+<tr><td>Mirzapur</td><td>1</td></tr>
+<tr><td>Sant Kabir Nagar</td><td>1</td></tr>
+<tr><td>Shahjahanpur</td><td>1</td></tr>
+<tr><td>Azamgarh</td><td>1</td></tr>
+<tr><td>Etah</td><td>1</td></tr>
+<tr><td>Maharajganj</td><td>1</td></tr>
+<tr><td>Lucknow</td><td>1</td></tr>
+<tr><td>Mainpuri</td><td>1</td></tr>
+<tr><td>Shamli</td><td>1</td></tr>
+<tr><td>Ayodhya</td><td>1</td></tr>
+<tr><td>Chandauli</td><td>1</td></tr>
+<tr><td>Hardoi</td><td>1</td></tr>
+<tr><td>Sambhal</td><td>1</td></tr>
+
+<tr>
+<th>Total</th>
+<th>29</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Karnataka – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Bagalkot</td><td>6</td></tr>
+<tr><td>Ballari</td><td>12</td></tr>
+<tr><td>Belagavi</td><td>5</td></tr>
+<tr><td>Bengaluru Rural</td><td>6</td></tr>
+<tr><td>Bengaluru Urban</td><td>5</td></tr>
+<tr><td>Bidar</td><td>5</td></tr>
+<tr><td>Chamarajanagara</td><td>4</td></tr>
+<tr><td>Chikkaballapura</td><td>6</td></tr>
+<tr><td>Chikkamagaluru</td><td>6</td></tr>
+<tr><td>Chitradurga</td><td>4</td></tr>
+<tr><td>Dakshina Kannada</td><td>7</td></tr>
+<tr><td>Davangere</td><td>6</td></tr>
+<tr><td>Dharwad</td><td>3</td></tr>
+<tr><td>Gadag</td><td>3</td></tr>
+<tr><td>Hassan</td><td>4</td></tr>
+<tr><td>Haveri</td><td>5</td></tr>
+<tr><td>Kalaburagi</td><td>6</td></tr>
+<tr><td>Kodagu</td><td>3</td></tr>
+<tr><td>Vijayanagar</td><td>6</td></tr>
+<tr><td>Kolar</td><td>4</td></tr>
+<tr><td>Koppal</td><td>5</td></tr>
+<tr><td>Mandya</td><td>5</td></tr>
+<tr><td>Mysuru</td><td>8</td></tr>
+<tr><td>Raichur</td><td>5</td></tr>
+<tr><td>Ramanagara</td><td>3</td></tr>
+<tr><td>Shivamogga</td><td>4</td></tr>
+<tr><td>Tumakuru</td><td>7</td></tr>
+<tr><td>Udupi</td><td>3</td></tr>
+<tr><td>Uttara Kannada</td><td>2</td></tr>
+<tr><td>Vijayapura</td><td>5</td></tr>
+<tr><td>Yadgir</td><td>4</td></tr>
+
+<tr>
+<th>Total</th>
+<th>155</th>
+</tr>
+
+</table>
+
+<h3 style="font-size:26px;margin-top:25px;">Goa – Aadhaar Supervisor/Operator Vacancy 2026</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>District</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Goa</td><td>1</td></tr>
+
+<tr>
+<th>Total</th>
+<th>1</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;margin-top:15px;">
+<strong>Grand Total Vacancies (All 7 States): 316 Posts</strong>
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification Option</th>
+<th>Eligibility</th>
+</tr>
+
+<tr>
+<td>Option 1</td>
+<td>12th Pass (Senior Secondary)</td>
+</tr>
+
+<tr>
+<td>Option 2</td>
+<td>Matriculation + 2-Year ITI Certificate</td>
+</tr>
+
+<tr>
+<td>Option 3</td>
+<td>Matriculation + 3-Year Polytechnic Diploma</td>
+</tr>
+
+<tr>
+<td>Mandatory Certificate</td>
+<td>UIDAI Authorized Aadhaar Supervisor/Operator Certificate</td>
+</tr>
+
+<tr>
+<td>Computer Knowledge</td>
+<td>Basic Computer Skills Required</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Terms & Conditions
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Job Nature</td>
+<td>Contractual</td>
+</tr>
+
+<tr>
+<td>Contract Duration</td>
+<td>1 Year</td>
+</tr>
+
+<tr>
+<td>Work Location</td>
+<td>District-wise Aadhaar Seva Kendras</td>
+</tr>
+
+<tr>
+<td>Certificate Requirement</td>
+<td>UIDAI Authorized Aadhaar Supervisor/Operator Certificate is Mandatory</td>
+</tr>
+
+<tr>
+<td>VLE Eligibility</td>
+<td>Not Eligible</td>
+</tr>
+
+<tr>
+<td>Posting</td>
+<td>District-Based</td>
+</tr>
+
+<tr>
+<td>Employment Type</td>
+<td>CSC e-Governance Contract</td>
+</tr>
+
+<tr>
+<td>Document Verification</td>
+<td>Mandatory Before Joining</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will be paid a monthly salary as per the <strong>Semi-Skilled Minimum Wages</strong>
+notified by the respective state government where the candidate is posted.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Submission</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Eligibility Verification</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>UIDAI Certificate Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Final Selection</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>District Posting</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official CSC Job Portal.</li>
+
+<li>Open the Aadhaar Supervisor/Operator Recruitment page.</li>
+
+<li>Select your respective State and District.</li>
+
+<li>Click on Apply Now.</li>
+
+<li>Register using the required details.</li>
+
+<li>Fill in the online application form carefully.</li>
+
+<li>Upload your educational documents and the UIDAI Aadhaar Supervisor/Operator Certificate.</li>
+
+<li>Verify all the entered information before submission.</li>
+
+<li>Submit the application on or before 20 August 2026.</li>
+
+<li>Download and print the submitted application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://career.csccloud.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://career.csccloud.in" target="_blank">
+career.csccloud.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in CSC Aadhaar Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>316 posts</strong> have been announced across 7 states: Bihar, Chhattisgarh, Madhya Pradesh,
+Maharashtra, Uttar Pradesh, Karnataka and Goa.
+</p>
+
+<h3>2. What is the last date to apply for CSC Aadhaar Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date for online application submission is <strong>20 August 2026</strong>.
+</p>
+
+<h3>3. Who can apply for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates with <strong>12th Pass, Matric + ITI or Matric + Polytechnic Diploma</strong> can apply, provided
+they hold a valid <strong>UIDAI Aadhaar Supervisor/Operator Certificate</strong>.
+</p>
+
+<h3>4. What is the minimum age required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The minimum age for application is <strong>18 years</strong>.
+</p>
+
+<h3>5. Is there any maximum age limit?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No maximum age limit has been mentioned in the official notification.
+</p>
+
+<h3>6. What is the application fee for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No application fee has been mentioned in the official notification for any category.
+</p>
+
+<h3>7. What is the selection process for CSC Aadhaar Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is based on <strong>Application Screening, Eligibility Verification, UIDAI Certificate Verification,
+Document Verification</strong> and Final Selection followed by district posting.
+</p>
+
+<h3>8. What salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a monthly salary as per the <strong>Semi-Skilled Minimum Wages</strong> of the
+respective state.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>CSC Aadhaar Supervisor Vacancy 2026</strong> is a good opportunity for 12th pass, ITI and Polytechnic
+Diploma holders who possess a valid UIDAI certificate to secure a contractual role at Aadhaar Seva Kendras.
+Interested candidates should complete their online application well before <strong>20 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for CSC Aadhaar Supervisor Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>20 August 2026</strong>.
+</p>
+
+<a href="https://career.csccloud.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=cgssb-namuna-sahayak-recruitment-2026">CGSSB Namuna Sahayak Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhsrcl-technician-recruitment-2026">NHSRCL Technician Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CSC notification before applying.</p>
+`;
 JOB_CONTENT["ibps-po-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

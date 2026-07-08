@@ -1,5 +1,68 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+    {
+    id:"csc-aadhaar-supervisor-recruitment-2026",
+    orgWebsite:"https://career.csccloud.in",
+    title:"CSC Aadhaar Supervisor Vacancy 2026",
+    shortTitle:"CSC Aadhaar Supervisor Online Form 2026",
+    organization:"CSC e-Governance Services India Ltd.",
+    image:"CSCAadhaarSupervisor.jpeg",
+
+    totalPosts:316,
+
+    lastDate:"2026-08-20",
+    lastDateDisplay:"20 August 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-08-20T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:0,
+    salaryMax:0,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bihar, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Maharashtra, Karnataka, Goa",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"12th Pass / Matriculation + ITI / Matriculation + Polytechnic Diploma + UIDAI Aadhaar Supervisor/Operator Certificate",
+
+    ageLimit:"18 Years and Above (No Maximum Age Mentioned)",
+
+    applyLink:"https://career.csccloud.in",
+    officialNotification:"https://career.csccloud.in",
+
+    fee:"Not Mentioned",
+
+    description:"CSC e-Governance Services India Ltd. has released the official notification for Aadhaar Supervisor/Operator Bharti 2026, inviting applications for 316 posts across 7 states - Bihar, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Maharashtra, Karnataka and Goa. Candidates with 12th Pass, ITI or Polytechnic Diploma along with a valid UIDAI Authorized Aadhaar Supervisor/Operator Certificate can apply online until 20 August 2026. This is a contractual position for 1 year at District-wise Aadhaar Seva Kendras, with salary as per the respective state's Semi-Skilled Minimum Wages.",
+
+    category:"PSU Jobs",
+    jobType:"Aadhaar Supervisor / Operator",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-08-20",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {state:"Bihar", totalPosts:107},
+        {state:"Chhattisgarh", totalPosts:18},
+        {state:"Madhya Pradesh", totalPosts:5},
+        {state:"Maharashtra", totalPosts:1},
+        {state:"Uttar Pradesh", totalPosts:29},
+        {state:"Karnataka", totalPosts:155},
+        {state:"Goa", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
     
 {
     id:"bsa-aligarh-kgbv-recruitment-2026",
