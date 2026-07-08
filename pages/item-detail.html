@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="robots" content="noindex, follow">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Check latest government exam results, admit cards and answer keys on SarthakYojana.in">
@@ -144,6 +144,17 @@ if (!dataset || !meta) {
   document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Page Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
   var adWrap0 = document.getElementById('adBannerWrap');
   if (adWrap0) adWrap0.style.display = 'none';
+  // Invalid/missing type param — explicitly mark this specific page as
+  // noindex. (Default in <head> is now "index, follow" since almost all
+  // requests have a valid type+id; we only override it in this rare case.)
+  let invalidTypeRobotsTag = document.querySelector('meta[name="robots"]');
+  if (!invalidTypeRobotsTag) {
+    invalidTypeRobotsTag = document.createElement('meta');
+    invalidTypeRobotsTag.name = 'robots';
+    document.head.appendChild(invalidTypeRobotsTag);
+  }
+  invalidTypeRobotsTag.content = 'noindex, follow';
+  document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/index.html';
 } else {
   const item = dataset.find(x => x.id === id);
 
@@ -151,17 +162,17 @@ if (!dataset || !meta) {
     document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Item Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Sorry, we could not find this item. It may have been moved or the link is incorrect. <a href="results.html">Browse All</a></p>';
   var adWrap1 = document.getElementById('adBannerWrap');
   if (adWrap1) adWrap1.style.display = 'none';
-  // Page already defaults to noindex,follow in <head> — nothing more to do here.
+  // Invalid/missing item ID — explicitly mark this specific page as noindex.
+  let notFoundRobotsTag = document.querySelector('meta[name="robots"]');
+  if (!notFoundRobotsTag) {
+    notFoundRobotsTag = document.createElement('meta');
+    notFoundRobotsTag.name = 'robots';
+    document.head.appendChild(notFoundRobotsTag);
+  }
+  notFoundRobotsTag.content = 'noindex, follow';
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
   } else {
-    // Valid item confirmed — safe to index now (default meta above is noindex).
-    let robotsTag = document.querySelector('meta[name="robots"]');
-    if (!robotsTag) {
-      robotsTag = document.createElement('meta');
-      robotsTag.name = 'robots';
-      document.head.appendChild(robotsTag);
-    }
-    robotsTag.content = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
+    // Valid item confirmed — page is already index,follow by default (see <head>).
 
     // ── ENTERPRISE SEO — Article schema + breadcrumbs + OG/Twitter ──
     const schemaType = type === 'admit' ? 'Admit Card' : type === 'answer' ? 'Answer Key' : 'Exam Result';
@@ -216,6 +227,25 @@ else if(type === 'answer'){
     : '<h2 style="color:red">Content Not Found</h2>';
 }
 
+    // Resolve the right link + button label per type, with sensible fallbacks
+    const actionLink = type === 'result'
+      ? (item.resultLink || item.officialWebsite || item.officialLink)
+      : type === 'answer'
+        ? (item.answerKeyLink || item.officialWebsite || item.officialLink)
+        : (item.officialLink || item.officialWebsite);
+
+    const pdfLink = item.resultPdf || item.notificationPdf || '';
+
+    const ctaHTML = actionLink
+      ? `<div class="dl-box" style="background:#fff;border:1.5px solid ${meta.color};">
+           <h2 style="color:${meta.color};">${meta.icon} ${meta.dlLabel} – ${item.title}</h2>
+           <p>${(item.declaredDate || item.date) ? 'Date: <strong>' + (item.declaredDate || item.date) + '</strong>' : ''}</p>
+           <a href="${actionLink}" class="dl-btn dl-btn-primary" target="_blank" rel="nofollow noopener">${meta.dlLabel} &rarr;</a>
+           ${pdfLink ? `<a href="${pdfLink}" class="dl-btn dl-btn-secondary" target="_blank" rel="nofollow noopener">Download PDF &rarr;</a>` : ''}
+         </div>
+         <p class="notice-box"><strong>Disclaimer:</strong> SarthakYojana.in is not the official exam authority. Always verify details from the official website. We are not responsible for any discrepancy in the information provided.</p>`
+      : `<p class="notice-box">Link will be available soon. Bookmark this page and check back.</p>`;
+
     // Build content
     document.getElementById('mainContent').innerHTML = `
 
@@ -228,6 +258,7 @@ alt="${item.title}"
 style="width:100%;border-radius:10px;margin-bottom:20px;">
 
 <div class="download-box">
+${ctaHTML}
 </div>
 
 ${articleContent}

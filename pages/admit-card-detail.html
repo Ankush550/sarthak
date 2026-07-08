@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="robots" content="noindex, follow">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Admit Card – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Download admit card / hall ticket for government exams. Check exam date, download link and instructions.">
@@ -258,17 +258,20 @@ if (!card) {
     '<p style="text-align:center;color:#c0392b;padding:20px;">Sorry, we could not find this admit card. It may have been moved or the link is incorrect. <a href="results.html#admit">Browse All Admit Cards</a></p></div>';
   var adWrap = document.getElementById('adBannerWrap');
   if (adWrap) adWrap.style.display = 'none';
-  // Page already defaults to noindex,follow in <head> — nothing more to do here.
+  // Invalid/missing admit card ID — explicitly mark this specific page as
+  // noindex. (Default in <head> is now "index, follow" since almost all
+  // requests have a valid ?id=; we only override it in this rare case.)
+  let notFoundRobotsTag = document.querySelector('meta[name="robots"]');
+  if (!notFoundRobotsTag) {
+    notFoundRobotsTag = document.createElement('meta');
+    notFoundRobotsTag.name = 'robots';
+    document.head.appendChild(notFoundRobotsTag);
+  }
+  notFoundRobotsTag.content = 'noindex, follow';
+  document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html#admit';
 } else {
 
-  // Valid admit card confirmed — safe to index now (default meta above is noindex).
-  let robotsTag = document.querySelector('meta[name="robots"]');
-  if (!robotsTag) {
-    robotsTag = document.createElement('meta');
-    robotsTag.name = 'robots';
-    document.head.appendChild(robotsTag);
-  }
-  robotsTag.content = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
+  // Valid admit card confirmed — page is already index,follow by default (see <head>).
 
   // ── ENTERPRISE SEO — full meta + Article schema + breadcrumbs ──
   applySEO({
