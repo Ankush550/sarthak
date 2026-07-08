@@ -54,7 +54,12 @@ const SEO = {
 
   // Same idea for Bing Webmaster Tools (bing.com/webmasters), optional:
   //   <meta name="msvalidate.01" content="..." />
-  bingSiteVerification: ''
+  bingSiteVerification: '',
+
+  // AdSense account verification meta tag (in addition to the adsbygoogle.js
+  // script already on every page) — this is your actual publisher ID with
+  // the "ca-" prefix kept, exactly as AdSense shows it.
+  adsenseAccount: 'ca-pub-8602963796651751'
 };
 
 function applySEO(cfg) {
@@ -81,6 +86,9 @@ function applySEO(cfg) {
   }
   if (SEO.bingSiteVerification) {
     _setMeta('name', 'msvalidate.01', SEO.bingSiteVerification);
+  }
+  if (SEO.adsenseAccount) {
+    _setMeta('name', 'google-adsense-account', SEO.adsenseAccount);
   }
   _setMeta('name', 'author', SEO.siteName);
 
