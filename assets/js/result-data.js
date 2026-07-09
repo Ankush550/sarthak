@@ -3,6 +3,92 @@
 
 const RESULTS_DATA = [
     {
+    id:"rssb-hostel-superintendent-grade-2-result-2026",
+    title:"RSSB Hostel Superintendent Grade II Final Result 2026",
+    organization:"Rajasthan Staff Selection Board (RSSB)",
+    postName:"Hostel Superintendent Grade II",
+    resultType:"Final Result",
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://rssb.rajasthan.gov.in",
+    resultLink:"https://rssb.rajasthan.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Rajasthan Staff Selection Board (RSSB) has released the Final Result for Hostel Superintendent Grade II posts. Candidates can download the result from the official website."
+},
+
+{
+    id:"mppsc-ophthalmologist-specialist-result-2026",
+    title:"MPPSC Ophthalmologist Specialist Result 2026",
+    organization:"Madhya Pradesh Public Service Commission (MPPSC)",
+    postName:"Ophthalmologist",
+    resultType:"Final Result",
+    advertisementNo:"50/2024",
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    totalPosts:248,
+    postsAdvertised:40,
+    mainListCandidates:28,
+    supplementaryListCandidates:8,
+    officialWebsite:"https://mppsc.mp.gov.in",
+    resultLink:"https://mppsc.mp.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Madhya Pradesh Public Service Commission (MPPSC) has released the Final Result for Ophthalmologist posts (Advt. No. 50/2024). Candidates can download the marks list and selection list from the official website."
+},
+
+{
+    id:"gpsc-deputy-section-officer-provisional-list-2026",
+    title:"GPSC Deputy Section Officer Provisional List 2026",
+    organization:"Gujarat Public Service Commission (GPSC)",
+    postName:"Deputy Section Officer (Legal Branch), Class-3",
+    resultType:"Provisional List",
+    advertisementNo:"67/2024-25",
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    totalPosts:40,
+    examDate:"22 February 2026 to 24 February 2026",
+    officialWebsite:"https://gpsc.gujarat.gov.in",
+    resultLink:"https://gpsc.gujarat.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Gujarat Public Service Commission (GPSC) has released the Provisional List for Deputy Section Officer (Legal Branch), Class-3 posts (Advt. No. 67/2024-25). Candidates can download the provisional list from the official website."
+},
+
+{
+    id:"jpsc-acf-fro-mains-result-2026",
+    title:"JPSC ACF Mains Result 2026",
+    organization:"Jharkhand Public Service Commission (JPSC)",
+    postName:"Assistant Conservator of Forest (ACF), Forest Range Officer (FRO)",
+    resultType:"Mains Result",
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    totalPosts:248,
+    examDate:"22-24 January 2026",
+    officialWebsite:"https://jpsc.gov.in",
+    resultLink:"https://jpsc.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Jharkhand Public Service Commission (JPSC) has released the Mains Result for Assistant Conservator of Forest (ACF) and Forest Range Officer (FRO) posts. Candidates can download the result from the official website."
+},
+
+{
+    id:"mpesb-police-si-subedar-final-result-2026",
+    title:"MPESB MP Police SI, Subedar Final Result 2026",
+    organization:"Madhya Pradesh Employee Selection Board (MPESB)",
+    postName:"Sub Inspector (SI) & Subedar",
+    resultType:"Final Result",
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    totalPosts:500,
+    examDate:"26 April 2026 (Second Phase)",
+    officialWebsite:"https://esb.mp.gov.in",
+    resultLink:"https://esb.mp.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Madhya Pradesh Employee Selection Board (MPESB) has released the Final Result for Sub Inspector (SI) and Subedar posts. Candidates can download the result from the official website."
+},
+    {
     id: "jkssb-junior-assistant-result-2026",
     title: "JKSSB Junior Assistant Result 2026",
     organization: "Jammu and Kashmir Services Selection Board (JKSSB)",

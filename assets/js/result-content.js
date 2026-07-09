@@ -1,6 +1,277 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
+RESULT_CONTENT["rssb-hostel-superintendent-grade-2-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+RSSB Hostel Superintendent Grade II Final Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Rajasthan Staff Selection Board (RSSB)</strong> has released the Final Result for
+<strong>Hostel Superintendent Grade II</strong> posts. Candidates who appeared in this recruitment can
+download the result from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Rajasthan Staff Selection Board (RSSB)</td></tr>
+<tr><th>Post Name</th><td>Hostel Superintendent Grade II</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Final Result Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://rssb.rajasthan.gov.in" target="_blank">rssb.rajasthan.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Result</td><td><a href="https://rssb.rajasthan.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://rssb.rajasthan.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://rssb.rajasthan.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=mppsc-ophthalmologist-specialist-result-2026">MPPSC Ophthalmologist Specialist Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=gpsc-deputy-section-officer-provisional-list-2026">GPSC Deputy Section Officer Provisional List 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=jpsc-acf-fro-mains-result-2026">JPSC ACF Mains Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mpesb-police-si-subedar-final-result-2026">MPESB MP Police SI, Subedar Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official RSSB website.</p>
+`;
+
+RESULT_CONTENT["mppsc-ophthalmologist-specialist-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+MPPSC Ophthalmologist Specialist Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Madhya Pradesh Public Service Commission (MPPSC)</strong> has released the Final Result for
+<strong>Ophthalmologist</strong> posts (Advt. No. 50/2024). Candidates who appeared in this recruitment can
+download the marks list and selection list from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Madhya Pradesh Public Service Commission (MPPSC)</td></tr>
+<tr><th>Post Name</th><td>Ophthalmologist</td></tr>
+<tr><th>Advertisement Number</th><td>50/2024</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Total Posts</th><td>248</td></tr>
+<tr><th>Final Result Release Date</th><td>07 July 2026</td></tr>
+<tr><th>Total Posts Advertised (Main Portion)</th><td>40</td></tr>
+<tr><th>Main List Candidates</th><td>28</td></tr>
+<tr><th>Supplementary List Candidates</th><td>08</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://mppsc.mp.gov.in" target="_blank">mppsc.mp.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Marks List</td><td><a href="https://mppsc.mp.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Download Selection List</td><td><a href="https://mppsc.mp.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://mppsc.mp.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://mppsc.mp.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=rssb-hostel-superintendent-grade-2-result-2026">RSSB Hostel Superintendent Grade II Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=gpsc-deputy-section-officer-provisional-list-2026">GPSC Deputy Section Officer Provisional List 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=jpsc-acf-fro-mains-result-2026">JPSC ACF Mains Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mpesb-police-si-subedar-final-result-2026">MPESB MP Police SI, Subedar Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MPPSC website.</p>
+`;
+
+RESULT_CONTENT["gpsc-deputy-section-officer-provisional-list-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+GPSC Deputy Section Officer Provisional List 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Gujarat Public Service Commission (GPSC)</strong> has released the Provisional List for
+<strong>Deputy Section Officer (Legal Branch), Class-3</strong> posts (Advt. No. 67/2024-25). Candidates who
+appeared in this recruitment can download the provisional list from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Body</th><td>Gujarat Public Service Commission (GPSC)</td></tr>
+<tr><th>Post Name</th><td>Deputy Section Officer (Legal Branch), Class-3</td></tr>
+<tr><th>Advertisement Number</th><td>67/2024-25</td></tr>
+<tr><th>Total Posts</th><td>40</td></tr>
+<tr><th>Exam Dates</th><td>22 February 2026 to 24 February 2026</td></tr>
+<tr><th>List Release Date</th><td>07 July 2026</td></tr>
+<tr><th>Provisional List Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://gpsc.gujarat.gov.in" target="_blank">gpsc.gujarat.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Provisional List</td><td><a href="https://gpsc.gujarat.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://gpsc.gujarat.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://gpsc.gujarat.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Provisional List</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=rssb-hostel-superintendent-grade-2-result-2026">RSSB Hostel Superintendent Grade II Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mppsc-ophthalmologist-specialist-result-2026">MPPSC Ophthalmologist Specialist Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=jpsc-acf-fro-mains-result-2026">JPSC ACF Mains Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mpesb-police-si-subedar-final-result-2026">MPESB MP Police SI, Subedar Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official GPSC website.</p>
+`;
+
+RESULT_CONTENT["jpsc-acf-fro-mains-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+JPSC ACF Mains Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Jharkhand Public Service Commission (JPSC)</strong> has released the Mains Result for
+<strong>Assistant Conservator of Forest (ACF)</strong> and <strong>Forest Range Officer (FRO)</strong> posts.
+Candidates who appeared in the mains exam can download the result from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Jharkhand Public Service Commission (JPSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant Conservator of Forest (ACF), Forest Range Officer (FRO)</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Total Posts</th><td>248</td></tr>
+<tr><th>Final Result Release Date</th><td>07 July 2026</td></tr>
+<tr><th>FRO Mains Exam Date</th><td>22-24 January 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://jpsc.gov.in" target="_blank">jpsc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Result</td><td><a href="https://jpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://jpsc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://jpsc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=rssb-hostel-superintendent-grade-2-result-2026">RSSB Hostel Superintendent Grade II Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mppsc-ophthalmologist-specialist-result-2026">MPPSC Ophthalmologist Specialist Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=gpsc-deputy-section-officer-provisional-list-2026">GPSC Deputy Section Officer Provisional List 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mpesb-police-si-subedar-final-result-2026">MPESB MP Police SI, Subedar Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official JPSC website.</p>
+`;
+
+RESULT_CONTENT["mpesb-police-si-subedar-final-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+MPESB MP Police SI, Subedar Final Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Madhya Pradesh Employee Selection Board (MPESB)</strong> has released the Final Result for
+<strong>Sub Inspector (SI)</strong> and <strong>Subedar</strong> posts. Candidates who appeared in this
+recruitment can download the result from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Madhya Pradesh Employee Selection Board (MPESB)</td></tr>
+<tr><th>Post Name</th><td>Sub Inspector (SI) & Subedar</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Total Posts</th><td>500</td></tr>
+<tr><th>Final Result Release Date</th><td>07 July 2026</td></tr>
+<tr><th>Second Phase Exam Date</th><td>26 April 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://esb.mp.gov.in" target="_blank">esb.mp.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Result</td><td><a href="https://esb.mp.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://esb.mp.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://esb.mp.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=rssb-hostel-superintendent-grade-2-result-2026">RSSB Hostel Superintendent Grade II Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=mppsc-ophthalmologist-specialist-result-2026">MPPSC Ophthalmologist Specialist Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=gpsc-deputy-section-officer-provisional-list-2026">GPSC Deputy Section Officer Provisional List 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=jpsc-acf-fro-mains-result-2026">JPSC ACF Mains Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MPESB website.</p>
+`;
 RESULT_CONTENT["jkssb-junior-assistant-result-2026"] = `
 
 <nav class="breadcrumb">
