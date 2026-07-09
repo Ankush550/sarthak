@@ -1,5 +1,1396 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["spsc-village-level-worker-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+SPSC Village Level Worker Vacancy 2026 – Apply Online for 69 VLW Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🌱 SPSC Village Level Worker Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>31 August 2026</strong>
+</p>
+
+<a href="https://spsc.sikkim.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Sikkim Public Service Commission (SPSC)</strong> has released the official notification for
+<strong>Village Level Worker (VLW)</strong> posts under the Agriculture & Horticulture Department, inviting
+applications for <strong>69 posts</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications are already open and will close on <strong>31 August 2026</strong>. Candidates need a
+<strong>B.Sc. in Agriculture or Horticulture</strong> from an ICAR-recognized institute. Selected candidates
+will get <strong>Level-9 Pay Matrix</strong> salary of <strong>₹29,200 to ₹92,300</strong> per month.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+SPSC Village Level Worker Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Sikkim Public Service Commission (SPSC)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Village Level Worker (VLW)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>69</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>31 August 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 40 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹29,200 – ₹92,300 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>spsc.sikkim.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>Already Started</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>31 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>All Categories</td>
+<td>₹200</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 40 years</strong> of age, calculated as on
+<strong>31 August 2026</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Reservation Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Unreserved (UR)</td><td>8</td></tr>
+<tr><td>Bhutia-Lepcha (BL)</td><td>8</td></tr>
+<tr><td>Bhutia-Lepcha (Women)</td><td>5</td></tr>
+<tr><td>Bhutia-Lepcha (BPL)</td><td>1</td></tr>
+<tr><td>OBC – Central List</td><td>7</td></tr>
+<tr><td>OBC – Central List (Women)</td><td>6</td></tr>
+<tr><td>OBC – Central List (BPL)</td><td>1</td></tr>
+<tr><td>OBC – State List</td><td>7</td></tr>
+<tr><td>OBC – State List (Women)</td><td>5</td></tr>
+<tr><td>OBC – State List (BPL)</td><td>1</td></tr>
+<tr><td>Scheduled Tribe (Limboo & Tamang)</td><td>6</td></tr>
+<tr><td>Scheduled Tribe (Women)</td><td>3</td></tr>
+<tr><td>Scheduled Caste</td><td>2</td></tr>
+<tr><td>Scheduled Caste (Women)</td><td>1</td></tr>
+<tr><td>Scheduled Caste (BPL)</td><td>1</td></tr>
+<tr><td>Primitive Tribe (PT)</td><td>2</td></tr>
+<tr><td>Primitive Tribe (Women)</td><td>1</td></tr>
+<tr><td>Most Backward Classes (State List)</td><td>2</td></tr>
+<tr><td>Weaker Section of Society (WSS)</td><td>2</td></tr>
+
+<tr>
+<th>Total Posts</th>
+<th>69</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Qualification</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Essential Qualification</td>
+<td>B.Sc. in Agriculture or Horticulture from an ICAR-recognized University/Institute</td>
+</tr>
+
+<tr>
+<td>Higher Qualification</td>
+<td>Candidates with M.Sc. Agriculture/Horticulture must also possess a B.Sc. in Agriculture/Horticulture</td>
+</tr>
+
+<tr>
+<td>Final Year Students</td>
+<td>Not Eligible</td>
+</tr>
+
+<tr>
+<td>Language Requirement</td>
+<td>Must be able to read, write and speak at least one State Language</td>
+</tr>
+
+<tr>
+<td>Local Requirement</td>
+<td>Must be familiar with the local customs and traditions of Sikkim</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Post Name</td><td>Village Level Worker (VLW)</td></tr>
+<tr><td>Pay Level</td><td>Level-9 Pay Matrix</td></tr>
+<tr><td>Department</td><td>Agriculture & Horticulture Department</td></tr>
+<tr><td>Nature of Appointment</td><td>Temporary-Regular</td></tr>
+<tr><td>Starting Basic Pay</td><td>₹29,200/- Per Month</td></tr>
+<tr><td>Pay Scale</td><td>₹29,200 – ₹92,300/-</td></tr>
+<tr><td>Probation Pay</td><td>As per Government Notification during Probation/Training</td></tr>
+<tr><td>Other Benefits</td><td>DA, HRA, Medical and Other Government Allowances as Applicable</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Document Scrutiny/Verification</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Based on Written Exam Performance and Successful Document Verification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official SPSC website.</li>
+
+<li>Read the official recruitment notification carefully.</li>
+
+<li>Register yourself using a valid email ID and mobile number.</li>
+
+<li>Fill in the online application form with personal, educational and category details.</li>
+
+<li>Upload the required documents, photograph and signature in the prescribed format.</li>
+
+<li>Pay the application fee of ₹200 through online payment methods.</li>
+
+<li>Review all the information carefully before final submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the submitted application form and payment receipt for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://spsc.sikkim.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://spsc.sikkim.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://spsc.sikkim.gov.in" target="_blank">
+spsc.sikkim.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in SPSC Village Level Worker Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+SPSC has released <strong>69 posts</strong> of Village Level Worker (VLW) under the Agriculture and
+Horticulture Department, Sikkim Government.
+</p>
+
+<h3>2. What is the last date to apply for SPSC VLW Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Interested candidates can apply online until <strong>31 August 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification for SPSC Village Level Worker Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold a <strong>B.Sc. Agriculture or B.Sc. Horticulture</strong> degree from an ICAR-recognized
+university/institute.
+</p>
+
+<h3>4. What is the age limit for SPSC VLW Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>18 and 40 years</strong> of age, calculated as on
+<strong>31 August 2026</strong>.
+</p>
+
+<h3>5. What is the application fee for SPSC Village Level Worker Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹200</strong> for all categories, payable online.
+</p>
+
+<h3>6. What is the selection process for SPSC VLW Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is based on a <strong>Written Examination</strong> followed by <strong>Document Scrutiny</strong>.
+</p>
+
+<h3>7. What salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>Level-9 Pay Matrix</strong> salary and other government allowances.
+</p>
+
+<h3>8. How can candidates apply for SPSC Village Level Worker Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can apply online through the SPSC website, upload required documents, pay the ₹200 fee, and submit
+the application form.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>SPSC Village Level Worker Vacancy 2026</strong> is a great opportunity for agriculture and
+horticulture graduates in Sikkim to secure a stable government job. Interested candidates should complete their
+online registration and submit the application well before <strong>31 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for SPSC Village Level Worker Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>31 August 2026</strong>.
+</p>
+
+<a href="https://spsc.sikkim.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=hal-barrackpore-iti-apprentice-recruitment-2026">HAL Barrackpore ITI Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=maruti-suzuki-production-associate-recruitment-2026">Maruti Suzuki Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official SPSC notification before applying.</p>
+`;
+JOB_CONTENT["hal-barrackpore-iti-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+HAL Barrackpore ITI Apprentice Vacancy 2026 – Walk-In for 27 Posts
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+🛠️ HAL Barrackpore ITI Apprentice Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Walk-In Recruitment</span>
+</p>
+
+<p style="font-size:19px;">
+Walk-In Date :
+<strong>24 July 2026</strong>
+</p>
+
+<a href="https://www.hal-india.co.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Hindustan Aeronautics Limited (HAL), Barrackpore Division</strong> has released the official
+notification for <strong>ITI Trade Apprentice Vacancy 2026</strong>, offering <strong>27 posts</strong> across
+Fitter, Machinist, Electrician, Welder and Turner trades.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no online application</strong> for this recruitment. Eligible candidates must attend a
+<strong>Walk-In</strong> at the designated venue on <strong>24 July 2026</strong>. There will be no written
+exam or interview; selection is purely merit-based with <strong>70% weightage to 10th marks</strong> and
+<strong>30% weightage to ITI marks</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HAL Barrackpore ITI Apprentice Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Hindustan Aeronautics Limited (HAL), Barrackpore Division</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>ITI Trade Apprentice</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>27</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Walk-In</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<th>Walk-In Date</th>
+<td>24 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 26 Years</td>
+</tr>
+
+<tr>
+<th>Stipend</th>
+<td>As per Apprentices Act, 1961</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.hal-india.co.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<td>Walk-In Date</td>
+<td>24 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+No application fee has been mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 26 years</strong> of age (as on 24 July 2026). Candidates must have
+passed full-time <strong>10th/SSC/HSC</strong> from a recognized board.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Trade-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Trade</th>
+<th>Number of Vacancies</th>
+</tr>
+
+<tr><td>Fitter</td><td>11</td></tr>
+<tr><td>Machinist</td><td>7</td></tr>
+<tr><td>Electrician</td><td>5</td></tr>
+<tr><td>Welder</td><td>2</td></tr>
+<tr><td>Turner</td><td>2</td></tr>
+
+<tr>
+<th>Total</th>
+<th>27</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>ITI Trade Apprentice</td>
+<td>Passed Full-Time 10th/SSC/HSC from a recognized Board</td>
+</tr>
+
+<tr>
+<td>ITI Requirement</td>
+<td>ITI (CTS/NCVT) in Fitter, Machinist, Electrician, Welder or Turner Trade</td>
+</tr>
+
+<tr>
+<td>Passing Year</td>
+<td>2021, 2022, 2023, 2024 or 2025</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Candidates having one year or more work experience are not eligible</td>
+</tr>
+
+<tr>
+<td>NAPS Registration</td>
+<td>Mandatory before Walk-In</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Stipend / Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Salary Type</td><td>Monthly Stipend</td></tr>
+<tr><td>Stipend Amount</td><td>As per Apprentices Act, 1961</td></tr>
+<tr><td>Training Duration</td><td>One Year</td></tr>
+<tr><td>Additional Benefits</td><td>As per Apprenticeship Rules</td></tr>
+<tr><td>Employment Guarantee</td><td>No</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Merit Preparation</td><td>70% Weightage of 10th Marks</td></tr>
+<tr><td>ITI Marks</td><td>30% Weightage</td></tr>
+<tr><td>Written Examination</td><td>Not Conducted</td></tr>
+<tr><td>Interview</td><td>Not Conducted</td></tr>
+<tr><td>Document Verification</td><td>Mandatory</td></tr>
+<tr><td>Final Merit List</td><td>Published on HAL Official Website</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Attend the Walk-In
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below before attending the Walk-In:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Read the official notification carefully before applying.</li>
+
+<li>Ensure you meet all eligibility criteria.</li>
+
+<li>Register yourself on the NAPS 2.0 Portal and obtain a Registration Number.</li>
+
+<li>Collect all original documents and one set of self-attested photocopies.</li>
+
+<li>Keep three recent passport-size photographs ready.</li>
+
+<li>Reach the Training Auditorium, HAL Barrackpore on 24 July 2026 before 10:00 AM.</li>
+
+<li>Carry Aadhaar Card, 10th Marksheet, ITI Certificate, ITI Marksheet, Caste Certificate (if applicable), NAPS
+Registration Number and other required documents.</li>
+
+<li>Complete document verification at the venue.</li>
+
+<li>Wait for the merit list to be published on the HAL official website.</li>
+
+<li>Selected candidates will be called for Apprenticeship Training as per the schedule.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.hal-india.co.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.hal-india.co.in" target="_blank">
+hal-india.co.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in HAL Barrackpore ITI Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>27 ITI Trade Apprentice</strong> posts, including Fitter, Machinist, Electrician, Welder and
+Turner trades.
+</p>
+
+<h3>2. How to apply for HAL Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+There is <strong>no online application</strong>. Eligible candidates must attend the Walk-In at HAL Barrackpore
+Training Auditorium on <strong>24 July 2026</strong> with the required documents.
+</p>
+
+<h3>3. What is the eligibility for HAL Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates need <strong>10th Pass</strong> and an <strong>NCVT/CTS ITI</strong> in the relevant trade, passed
+between <strong>2021 and 2025</strong>.
+</p>
+
+<h3>4. How will selection be made for HAL Barrackpore ITI Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is purely merit-based, with <strong>70% weightage to 10th marks</strong> and
+<strong>30% weightage to ITI marks</strong>. There is no written exam or interview.
+</p>
+
+<h3>5. What is the age limit for HAL Barrackpore ITI Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>18 and 26 years</strong> of age as on 24 July 2026, with age relaxation
+applicable for reserved categories.
+</p>
+
+<h3>6. Is there any application fee for HAL Apprentice Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No, there is <strong>no application fee</strong> mentioned in the official notification.
+</p>
+
+<h3>7. What stipend will HAL Barrackpore ITI Apprentice Vacancy 2026 offer?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a monthly stipend as per the <strong>Apprentices Act, 1961</strong> and related
+rules. The exact amount is not mentioned in the notification.
+</p>
+
+<h3>8. Is NAPS Registration mandatory?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. All candidates must register on the <strong>NAPS 2.0 Portal</strong> and obtain a Registration Number
+before attending the Walk-In.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>HAL Barrackpore ITI Apprentice Vacancy 2026</strong> is a great opportunity for ITI-qualified youth
+to gain apprenticeship training at a premier PSU. Interested candidates should complete their NAPS registration
+and attend the Walk-In on <strong>24 July 2026</strong> with all required documents.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Attend HAL Barrackpore ITI Apprentice Walk-In
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Reach the venue with documents on <strong>24 July 2026</strong>.
+</p>
+
+<a href="https://www.hal-india.co.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=maruti-suzuki-production-associate-recruitment-2026">Maruti Suzuki Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=spsc-village-level-worker-recruitment-2026">SPSC Village Level Worker Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official HAL notification before applying.</p>
+`;
+JOB_CONTENT["maruti-suzuki-production-associate-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Maruti Suzuki Vacancy 2026 – Job Camp for 250 Production Associate Posts
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+🚗 Maruti Suzuki Vacancy 2026 (Job Camp)
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Offline Job Camp Recruitment</span>
+</p>
+
+<p style="font-size:19px;">
+Job Camp Date :
+<strong>15 July 2026 (10:30 AM)</strong>
+</p>
+
+<a href="https://state.bihar.gov.in/yesd/CitizenHome"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Maruti Suzuki India Limited</strong>, in association with the Bihar Government's
+<strong>Yuva, Rojgar Evam Kaushal Vibhag</strong>, is offering <strong>250 Production Associate</strong> posts
+through a <strong>Job Camp</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates with <strong>10th Pass</strong> and <strong>ITI</strong> qualification can attend the job camp on
+<strong>15 July 2026 at 10:30 AM</strong>. The process is entirely <strong>offline</strong>; candidates must
+first register on the <strong>NCS Portal</strong> before attending. Selected candidates will get approximately
+<strong>₹28,300 per month</strong> including company benefits and allowances.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Maruti Suzuki Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Maruti Suzuki India Limited</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Production Associate</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>250</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Offline (Job Camp)</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<th>Job Camp Date</th>
+<td>15 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>As per Company/Job Camp Rules</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹28,300 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>state.bihar.gov.in/yesd/CitizenHome</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<td>Job Camp Date</td>
+<td>15 July 2026 (10:30 AM)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+There is <strong>no application fee</strong> for any candidate under this recruitment.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The age limit is <strong>as per Company/Job Camp rules</strong>. No specific minimum or maximum age has been
+mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Company Name</th>
+<th>Post Name</th>
+<th>Number of Vacancies</th>
+</tr>
+
+<tr>
+<td>Maruti Suzuki India Limited</td>
+<td>Production Associate</td>
+<td>250</td>
+</tr>
+
+<tr>
+<th colspan="2">Total</th>
+<th>250 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Qualification</th>
+<th>Additional Requirement</th>
+</tr>
+
+<tr>
+<td>Production Associate</td>
+<td>Passed 10th from a recognized Board</td>
+<td>Mandatory</td>
+</tr>
+
+<tr>
+<td>Production Associate</td>
+<td>ITI in Relevant Trade</td>
+<td>Mandatory</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Freshers Eligible</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>NCS Registration</td>
+<td>Required Before Attending Job Camp</td>
+<td>Mandatory</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Post Name</td><td>Production Associate</td></tr>
+<tr><td>Monthly Salary</td><td>₹28,300/-</td></tr>
+<tr><td>Salary Includes</td><td>Company Benefits & Allowances</td></tr>
+<tr><td>Salary Type</td><td>Monthly</td></tr>
+<tr><td>Other Benefits</td><td>As per Company Policy</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Registration Verification</td><td>NCS Portal Registration Check</td></tr>
+<tr><td>Document Verification</td><td>Required</td></tr>
+<tr><td>Personal Interview</td><td>Conducted at Job Camp</td></tr>
+<tr><td>Final Selection</td><td>Based on Interview & Document Verification</td></tr>
+<tr><td>Medical Fitness</td><td>If Required by Company</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Attend the Job Camp
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below before attending the job camp:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Read the official notification carefully before attending the Job Camp.</li>
+
+<li>Visit the official NCS Portal and complete your Job Seeker registration.</li>
+
+<li>Note down your NCS Registration Number after successful registration.</li>
+
+<li>Prepare all required documents, including your Resume/Biodata.</li>
+
+<li>Carry original documents along with one set of photocopies.</li>
+
+<li>Bring recent passport-size colour photographs.</li>
+
+<li>Reach the Job Camp venue on 15 July 2026 before 10:30 AM.</li>
+
+<li>Complete document verification at the venue.</li>
+
+<li>Attend the interview conducted by Maruti Suzuki officials.</li>
+
+<li>If selected, complete further joining formalities as instructed by the company.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://state.bihar.gov.in/yesd/CitizenHome" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://state.bihar.gov.in/yesd/CitizenHome" target="_blank">
+state.bihar.gov.in/yesd
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is Maruti Suzuki Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Under Maruti Suzuki Vacancy 2026, the Bihar Government's Yuva, Rojgar Evam Kaushal Vibhag is organizing a Job
+Camp to fill <strong>250 Production Associate</strong> posts. Eligible candidates can attend the job camp on
+the scheduled date to secure a job.
+</p>
+
+<h3>2. Who can apply for Maruti Suzuki Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates who have passed <strong>10th class</strong> from a recognized board and hold an <strong>ITI</strong>
+in the relevant trade can apply. NCS Portal registration is mandatory before attending the job camp.
+</p>
+
+<h3>3. How many posts are available in Maruti Suzuki Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>250 Production Associate</strong> posts will be filled under this recruitment drive.
+</p>
+
+<h3>4. What salary will Maruti Suzuki Vacancy 2026 offer?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get approximately <strong>₹28,300</strong> per month, along with company benefits and
+allowances as per policy.
+</p>
+
+<h3>5. What is the selection process for Maruti Suzuki Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is based on <strong>Interview and Document Verification</strong>. No written examination is
+mentioned in the official notice.
+</p>
+
+<h3>6. When and where will the Maruti Suzuki Job Camp 2026 be held?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The Job Camp will be held on <strong>15 July 2026 at 10:30 AM</strong>, at the venue: Sanyukt Shram Bhawan,
+ITI Campus Panhas, Begusarai (Bihar).
+</p>
+
+<h3>7. What documents are required for the Maruti Suzuki Job Camp 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should carry their Biodata, Aadhaar Card, PAN Card, 10th and ITI academic certificates, passport
+size photos and other required documents when attending the job camp.
+</p>
+
+<h3>8. Is NCS Portal registration required for Maruti Suzuki Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes. All candidates attending the job camp must register in advance on the <strong>NCS Portal</strong>. Without
+NCS registration, candidates may face difficulty participating in the selection process.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Maruti Suzuki Vacancy 2026</strong> Job Camp offers 10th pass and ITI-qualified youth in Bihar a
+direct opportunity to secure a job with a leading automobile company. Interested candidates should complete
+their NCS registration and attend the job camp on <strong>15 July 2026</strong> with all required documents.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Attend Maruti Suzuki Job Camp 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Reach the venue with documents on <strong>15 July 2026</strong>.
+</p>
+
+<a href="https://state.bihar.gov.in/yesd/CitizenHome"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=hal-barrackpore-iti-apprentice-recruitment-2026">HAL Barrackpore ITI Apprentice Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=spsc-village-level-worker-recruitment-2026">SPSC Village Level Worker Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=upsssc-cane-supervisor-recruitment-2026">UPSSSC Cane Supervisor Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Maruti Suzuki notification before applying.</p>
+`;
 JOB_CONTENT["bpssc-police-si-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

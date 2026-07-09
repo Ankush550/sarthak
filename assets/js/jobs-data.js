@@ -1,5 +1,191 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+  {
+    id:"spsc-village-level-worker-recruitment-2026",
+    orgWebsite:"https://spsc.sikkim.gov.in",
+    title:"SPSC Village Level Worker Vacancy 2026",
+    shortTitle:"SPSC VLW Online Form 2026",
+    organization:"Sikkim Public Service Commission (SPSC)",
+    image:"SPSCVLW.jpeg",
+
+    totalPosts:69,
+
+    lastDate:"2026-08-31",
+    lastDateDisplay:"31 August 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-08-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:29200,
+    salaryMax:92300,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Sikkim",
+    addressLocality:"Gangtok",
+    addressRegion:"Sikkim",
+    addressCountry:"IN",
+
+    qualification:"B.Sc. Agriculture/Horticulture (ICAR Recognized)",
+
+    ageLimit:"18 to 40 Years",
+
+    applyLink:"https://spsc.sikkim.gov.in",
+    officialNotification:"https://spsc.sikkim.gov.in",
+
+    fee:"All Categories: Rs. 200",
+
+    description:"Sikkim Public Service Commission (SPSC) has released the official notification for Village Level Worker (VLW) posts under the Agriculture & Horticulture Department, inviting applications for 69 posts. Online applications are already open and will close on 31 August 2026. Candidates need a B.Sc. in Agriculture or Horticulture from an ICAR-recognized institute. Selection includes a written examination followed by document scrutiny/verification. Selected candidates will get Level-9 Pay Matrix salary of Rs. 29,200 to Rs. 92,300 per month.",
+
+    category:"Sikkim Government Jobs",
+    jobType:"Village Level Worker (VLW)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-08-31",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"Unreserved (UR)", totalPosts:8},
+        {category:"Bhutia-Lepcha (BL)", totalPosts:8},
+        {category:"Bhutia-Lepcha (Women)", totalPosts:5},
+        {category:"Bhutia-Lepcha (BPL)", totalPosts:1},
+        {category:"OBC - Central List", totalPosts:7},
+        {category:"OBC - Central List (Women)", totalPosts:6},
+        {category:"OBC - Central List (BPL)", totalPosts:1},
+        {category:"OBC - State List", totalPosts:7},
+        {category:"OBC - State List (Women)", totalPosts:5},
+        {category:"OBC - State List (BPL)", totalPosts:1},
+        {category:"Scheduled Tribe (Limboo & Tamang)", totalPosts:6},
+        {category:"Scheduled Tribe (Women)", totalPosts:3},
+        {category:"Scheduled Caste", totalPosts:2},
+        {category:"Scheduled Caste (Women)", totalPosts:1},
+        {category:"Scheduled Caste (BPL)", totalPosts:1},
+        {category:"Primitive Tribe (PT)", totalPosts:2},
+        {category:"Primitive Tribe (Women)", totalPosts:1},
+        {category:"Most Backward Classes (State List)", totalPosts:2},
+        {category:"Weaker Section of Society (WSS)", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"hal-barrackpore-iti-apprentice-recruitment-2026",
+    orgWebsite:"https://www.hal-india.co.in",
+    title:"HAL Barrackpore ITI Apprentice Vacancy 2026",
+    shortTitle:"HAL Barrackpore ITI Apprentice Walk-In 2026",
+    organization:"Hindustan Aeronautics Limited (HAL), Barrackpore Division",
+    image:"HALBarrackpore.jpeg",
+
+    totalPosts:27,
+
+    lastDate:"2026-07-24",
+    lastDateDisplay:"24 July 2026 (Walk-In)",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-07-24T10:00:00+05:30",
+
+    employmentType:"INTERN",
+
+    location:"Barrackpore, West Bengal",
+    addressLocality:"Barrackpore",
+    addressRegion:"West Bengal",
+    addressCountry:"IN",
+
+    qualification:"10th/SSC/HSC + ITI (CTS/NCVT) in Fitter, Machinist, Electrician, Welder or Turner Trade",
+
+    ageLimit:"18 to 26 Years",
+
+    applyLink:"https://www.hal-india.co.in",
+    officialNotification:"https://www.hal-india.co.in",
+
+    fee:"Not Mentioned",
+
+    description:"Hindustan Aeronautics Limited (HAL), Barrackpore Division has released the official notification for ITI Trade Apprentice Vacancy 2026, inviting eligible candidates for 27 posts through a Walk-In process on 24 July 2026. No online application is required. Candidates need 10th Pass and ITI (NCVT/CTS) in Fitter, Machinist, Electrician, Welder or Turner trade, passed between 2021 and 2025. There is no written exam or interview; selection is purely merit-based with 70% weightage to 10th marks and 30% weightage to ITI marks. NAPS registration is mandatory before the walk-in.",
+
+    category:"PSU Jobs",
+    jobType:"ITI Trade Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-07-24",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable (Walk-In on 24 July 2026)",
+
+    postDetails:[
+        {postName:"Fitter", totalPosts:11},
+        {postName:"Machinist", totalPosts:7},
+        {postName:"Electrician", totalPosts:5},
+        {postName:"Welder", totalPosts:2},
+        {postName:"Turner", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"maruti-suzuki-production-associate-recruitment-2026",
+    orgWebsite:"https://state.bihar.gov.in/yesd/CitizenHome",
+    title:"Maruti Suzuki Vacancy 2026 (Job Camp)",
+    shortTitle:"Maruti Suzuki Production Associate Job Camp 2026",
+    organization:"Maruti Suzuki India Limited (via Bihar Yuva, Rojgar Evam Kaushal Vibhag)",
+    image:"MarutiSuzuki.jpeg",
+
+    totalPosts:250,
+
+    lastDate:"2026-07-15",
+    lastDateDisplay:"15 July 2026 (Job Camp)",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-07-15T10:30:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:28300,
+    salaryMax:28300,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Begusarai, Bihar",
+    addressLocality:"Begusarai",
+    addressRegion:"Bihar",
+    addressCountry:"IN",
+
+    qualification:"10th Pass + ITI in Relevant Trade",
+
+    ageLimit:"As per Company/Job Camp Rules",
+
+    applyLink:"https://state.bihar.gov.in/yesd/CitizenHome",
+    officialNotification:"https://state.bihar.gov.in/yesd/CitizenHome",
+
+    fee:"No Fee",
+
+    description:"Maruti Suzuki India Limited, in association with the Bihar Government's Yuva, Rojgar Evam Kaushal Vibhag, is offering 250 Production Associate posts through a Job Camp. Candidates with 10th Pass and ITI qualification can attend the job camp on 15 July 2026 at 10:30 AM. The process is entirely offline; candidates must first register on the NCS Portal before attending. Selection is based on Interview and Document Verification. Selected candidates will get approximately Rs. 28,300 per month including company benefits and allowances.",
+
+    category:"Private Jobs",
+    jobType:"Production Associate",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-07-15",
+
+    examDate:"Not Applicable",
+    interviewDate:"15 July 2026 (Job Camp)",
+
+    status:"open",
+    isNew:true
+},
     
     {
     id:"aiims-capfims-assistant-professor-recruitment-2026",
