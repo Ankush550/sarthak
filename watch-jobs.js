@@ -1,3 +1,4 @@
+const FormData = require('form-data');
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
@@ -8,6 +9,7 @@ const axios = require('axios');
 const JOB_CONTENT_FILE = path.join(__dirname, 'assets', 'js', 'job-content.js');
 const JOBS_DATA_FILE = path.join(__dirname, 'assets', 'js', 'jobs-data.js');
 const POSTED_JOBS_FILE = path.join(__dirname, 'posted-jobs.json');
+const IMAGES_DIR = path.join(__dirname, 'assets', 'images');
 const BASE_URL = 'https://sarthakyojana.in/pages/item-detail.html?type=job&id=';
 
 // ===== job-content.js se id + html nikalna =====
@@ -138,26 +140,64 @@ function buildMessage(id, htmlTitle, jobData, link) {
 }
 
 // ===== Facebook par post karna =====
+// ===== Facebook par post karna (image ke saath ya bina) =====
 async function postJobToFacebook(id, htmlTitle) {
   const jobData = findJobData(id);
   const link = BASE_URL + id;
   const message = buildMessage(id, htmlTitle, jobData, link);
 
+  // Check karo ki image field hai aur file actually exist karti hai
+  let imagePath = null;
+  if (jobData && jobData.image) {
+    const candidatePath = path.join(IMAGES_DIR, jobData.image);
+    if (fs.existsSync(candidatePath)) {
+      imagePath = candidatePath;
+    } else {
+      console.log(`⚠️  Image nahi mili: ${candidatePath} — bina image ke post karunga.`);
+    }
+  }
+
   try {
-    const res = await axios.post(
-      `https://graph.facebook.com/v20.0/${process.env.FB_PAGE_ID}/feed`,
-      {
-        message,
-        link,
-        access_token: process.env.FB_PAGE_ACCESS_TOKEN,
-      }
-    );
-    console.log(`✅ Posted to Facebook: ${(jobData && jobData.title) || htmlTitle} (${res.data.id})`);
+    let res;
+
+    if (imagePath) {
+      // ===== Image ke saath post (Photos endpoint) =====
+      const form = new FormData();
+      form.append('caption', message);
+      form.append('access_token', process.env.FB_PAGE_ACCESS_TOKEN);
+      form.append('source', fs.createReadStream(imagePath));
+
+      res = await axios.post(
+        `https://graph.facebook.com/v20.0/${process.env.FB_PAGE_ID}/photos`,
+        form,
+        { headers: form.getHeaders() }
+      );
+    } else {
+      // ===== Bina image ke post (Feed endpoint, link preview ke saath) =====
+      res = await axios.post(
+        `https://graph.facebook.com/v20.0/${process.env.FB_PAGE_ID}/feed`,
+        {
+          message,
+          link,
+          access_token: process.env.FB_PAGE_ACCESS_TOKEN,
+        }
+      );
+    }
+
+    console.log(`✅ Posted to Facebook${imagePath ? ' (with image)' : ''}: ${(jobData && jobData.title) || htmlTitle} (${res.data.id})`);
     return true;
   } catch (err) {
-    console.error(`❌ FB post failed for ${id}:`, err.response?.data || err.message);
+    console.error(`❌ FB post failed for ${id}`);
+    console.error("Status:", err.response?.status);
+
+    console.error(
+        JSON.stringify(err.response?.data, null, 2)
+    );
+
+    console.error("Message:", err.message);
+
     return false;
-  }
+}
 }
 
 // ===== Naye jobs check karo aur post karo =====

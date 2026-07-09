@@ -11,7 +11,8 @@
   "description": "",
   "main": "generate-sitemap.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Ankush550/sarthak/issues"
   },
-  "homepage": "https://github.com/Ankush550/sarthak#readme"
+  "homepage": "https://github.com/Ankush550/sarthak#readme",
+  "directories": {
+    "test": "test"
+  }
 }
