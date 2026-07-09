@@ -1,5 +1,403 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["indian-army-68th-sscw-tech-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> |
+<time datetime="2026-07-08">Published: 08 July 2026</time> |
+Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Indian Army 68th SSCW (Technical) Recruitment 2026 – Apply Online for 30 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🎖️ Indian Army 68th SSCW (Technical) Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 06 August 2026</strong>
+</p>
+
+<a href="https://www.joinindianarmy.nic.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Army</strong> has officially released the notification for the
+<strong>68th Short Service Commission (Technical) Women Course (April 2027)</strong>, offering unmarried
+female engineering graduates a golden opportunity to join the Indian Army as commissioned officers. Widows of
+defence personnel are also eligible under Technical and Non-Technical (Non-UPSC) categories.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>08 July 2026</strong> and will continue until
+<strong>06 August 2026</strong>. This recruitment covers multiple engineering streams including Civil, Computer
+Science, Electrical, Electronics and Mechanical.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Indian Army SSCW (Tech)-68 Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Indian Army</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Short Service Commission (Technical) Women - SSCW(T)-68</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>30 (Stream-wise)</td>
+</tr>
+
+<tr>
+<th>Job Type</th>
+<td>Central Government / Defence Jobs</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>B.E./B.Tech in Notified Engineering Streams</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>20 to 27 Years as on 01 April 2027</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>06 August 2026</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>joinindianarmy.nic.in</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Start Date for Apply Online</td>
+<td>08 July 2026 (1500 hrs)</td>
+</tr>
+
+<tr>
+<td>Last Date for Apply Online</td>
+<td>06 August 2026 (1500 hrs)</td>
+</tr>
+
+<tr>
+<td>Cut-off % Publication for Shortlisting</td>
+<td>First Week of September 2026</td>
+</tr>
+
+<tr>
+<td>Likely SSB Duration</td>
+<td>October–December 2026 (5-day SSB)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Vacancy Details (Stream-Wise)
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stream</th>
+<th>Vacancies</th>
+</tr>
+
+<tr>
+<td>Civil / Architecture</td>
+<td>07</td>
+</tr>
+
+<tr>
+<td>Computer Science / IT</td>
+<td>04</td>
+</tr>
+
+<tr>
+<td>Electrical</td>
+<td>03</td>
+</tr>
+
+<tr>
+<td>Electronics</td>
+<td>06</td>
+</tr>
+
+<tr>
+<td>Mechanical / Production / Aeronautical</td>
+<td>09</td>
+</tr>
+
+<tr>
+<td>Widows of Defence Personnel (Tech & Non-Tech)</td>
+<td>02</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>30 Posts</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Nationality</td>
+<td>Citizen of India, Subject of Nepal, or Person of Indian Origin as Specified</td>
+</tr>
+
+<tr>
+<td>Eligibility</td>
+<td>Unmarried Female Engineering Graduates or Final-Year Students (Result by 01 April 2027)</td>
+</tr>
+
+<tr>
+<td>Widows of Defence Personnel</td>
+<td>Graduation in Any Stream (Non-Tech) or B.E./B.Tech (Tech), Age Limit up to 35 Years</td>
+</tr>
+
+<tr>
+<td>Physical Standards</td>
+<td>2.4 Km Run in 13 Minutes, 15 Push-Ups, 2 Pull-Ups, 25 Sit-Ups, Swimming Basics Required</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Application Submission</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Shortlisting</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>SSB Interview (5 Days)</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Joining Letter</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website www.joinindianarmy.nic.in.</li>
+
+<li>Click on "Officer Entry Appln/Login" → "Registration".</li>
+
+<li>Fill the online registration form and complete Aadhaar/Matriculation verification.</li>
+
+<li>Click "Apply Online" → select "Short Service Commission Technical Course".</li>
+
+<li>Fill Personal, Communication, Education and previous SSB details.</li>
+
+<li>Review the "Summary of your information" page carefully.</li>
+
+<li>Click "Submit" and take two printouts of the application with roll number.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://www.joinindianarmy.nic.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Notification</td>
+<td>
+<a href="https://www.joinindianarmy.nic.in" target="_blank">
+Download PDF
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.joinindianarmy.nic.in" target="_blank">
+joinindianarmy.nic.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is Indian Army SSCW (Tech)-68 Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+It is a recruitment drive for the <strong>68th Short Service Commission (Technical) Women Course</strong>,
+commencing in April 2027, offering unmarried women engineering graduates a chance to join the Indian Army as
+commissioned officers.
+</p>
+
+<h3>2. How many vacancies are available in this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>30 stream-wise vacancies</strong> have been announced across Civil, Computer Science,
+Electrical, Electronics, Mechanical and Widow categories.
+</p>
+
+<h3>3. What is the educational qualification required?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must possess a <strong>B.E./B.Tech degree</strong> in the relevant engineering discipline. Final-year
+students can also apply, subject to submitting proof of passing by 01 April 2027.
+</p>
+
+<h3>4. What is the age limit for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be <strong>20 to 27 years</strong> of age as on 01 April 2027. Widows of defence personnel can
+apply up to <strong>35 years</strong> of age.
+</p>
+
+<h3>5. What is the last date to apply for Indian Army SSCW-68 Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply online is <strong>06 August 2026 (1500 hrs)</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Indian Army 68th SSCW (Technical) Recruitment 2026</strong> is a prestigious opportunity for
+unmarried female engineering graduates to serve the nation as commissioned officers. Interested candidates
+should complete their online registration and submit the application well before <strong>06 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for Indian Army 68th SSCW (Technical) Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>06 August 2026</strong>.
+</p>
+
+<a href="https://www.joinindianarmy.nic.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
+`;
 JOB_CONTENT["dhfw-punjab-house-surgeon-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

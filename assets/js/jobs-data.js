@@ -1,6 +1,63 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
   {
+    id:"indian-army-68th-sscw-tech-recruitment-2026",
+    orgWebsite:"https://www.joinindianarmy.nic.in",
+    title:"Indian Army 68th SSCW (Technical) Recruitment 2026",
+    shortTitle:"Indian Army SSCW (T)-68 Online Form 2026",
+    organization:"Indian Army",
+    image:"IndianArmySSCWTech.jpeg",
+
+    totalPosts:30,
+
+    lastDate:"2026-08-06",
+    lastDateDisplay:"06 August 2026 (1500 hrs)",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-08-06T15:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech in Notified Engineering Streams (Civil, CS/IT, Electrical, Electronics, Mechanical)",
+
+    ageLimit:"20 to 27 Years as on 01 April 2027",
+
+    applyLink:"https://www.joinindianarmy.nic.in",
+    officialNotification:"https://www.joinindianarmy.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"The Indian Army has officially released the notification for the 68th Short Service Commission (Technical) Women Course (April 2027), offering unmarried female engineering graduates an opportunity to join the Indian Army as commissioned officers. Widows of defence personnel are also eligible under Technical and Non-Technical (Non-UPSC) categories. Online applications started on 08 July 2026 and will close on 06 August 2026. This recruitment covers multiple engineering streams including Civil, Computer Science, Electrical, Electronics and Mechanical. Selection includes shortlisting, a 5-day SSB Interview, medical examination and preparation of the final merit list.",
+
+    category:"Defence Jobs",
+    jobType:"Short Service Commission (Technical) Women - SSCW(T)-68",
+
+    advertisementNo:"SSCW(T)-68",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-06",
+
+    examDate:"Not Applicable",
+    interviewDate:"SSB Interview (October–December 2026, 5 Days)",
+
+    postDetails:[
+        {stream:"Civil / Architecture", totalPosts:7},
+        {stream:"Computer Science / IT", totalPosts:4},
+        {stream:"Electrical", totalPosts:3},
+        {stream:"Electronics", totalPosts:6},
+        {stream:"Mechanical / Production / Aeronautical", totalPosts:9},
+        {stream:"Widows of Defence Personnel (Tech & Non-Tech)", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+  {
     id:"up-anganwadi-bharti-recruitment-2026",
     orgWebsite:"https://upanganwadibharti.in",
     title:"UP Anganwadi Bharti 2026",
