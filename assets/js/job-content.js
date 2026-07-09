@@ -1357,12 +1357,10 @@ Reach the venue with documents on <strong>15 July 2026</strong>.
 target="_blank"
 style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
 
-Check Notification
-
+Check Notifications
 </a>
 
 </div>
-
 
 <!-- AdSense Ad 3 – Before Apply -->
 <div style="margin:28px 0;text-align:center;">
