@@ -1,5 +1,1712 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["bpssc-police-si-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+BPSSC Police SI Vacancy 2026 – Apply Online for 150 Sub-Inspector Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+👮 BPSSC Police SI Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>09 July 2026 to 09 August 2026</strong>
+</p>
+
+<a href="https://bpssc.bihar.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Bihar Police Subordinate Services Commission (BPSSC)</strong> has released the official notification
+(<strong>Advt. No. 09/2026</strong>) for <strong>Police Sub-Inspector (General Closed Cadre)</strong> posts
+under the Special Branch of the Home Department, inviting applications for <strong>150 posts</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>09 July 2026</strong> and will close on
+<strong>09 August 2026</strong>. Candidates need a <strong>Bachelor's Degree or equivalent</strong> from a
+recognized university. Selection includes a Preliminary Examination, Main Examination, Physical Standards Test
+(PST), Medical Examination and Document Verification. Selected candidates will get a Level-6 salary of
+<strong>₹35,400 to ₹1,12,400</strong> per month.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+BPSSC Police SI Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Bihar Police Subordinate Services Commission (BPSSC)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Police Sub-Inspector (General Closed Cadre)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>150</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>09 August 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>20 to 42 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹35,400 – ₹1,12,400 (Level-6)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>bpssc.bihar.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>09 August 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>All Candidates</td>
+<td>₹100</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>20 and 42 years</strong> of age. Age relaxation varies by category as per
+Bihar Government rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+<th>35% Reserved for Women</th>
+</tr>
+
+<tr><td>Unreserved (UR)</td><td>60</td><td>21</td></tr>
+<tr><td>Economically Weaker Section (EWS)</td><td>15</td><td>5</td></tr>
+<tr><td>Extremely Backward Class (EBC)</td><td>27</td><td>9</td></tr>
+<tr><td>Scheduled Caste (SC)</td><td>24</td><td>8</td></tr>
+<tr><td>Backward Class (BC)</td><td>18</td><td>6</td></tr>
+<tr><td>BC Women</td><td>4</td><td>–</td></tr>
+<tr><td>Scheduled Tribe (ST)</td><td>2</td><td>–</td></tr>
+
+<tr>
+<th>Total</th>
+<th>150</th>
+<th>49</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Criteria</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Required Qualification</td>
+<td>Bachelor's Degree (Graduation) or Equivalent</td>
+</tr>
+
+<tr>
+<td>Recognized By</td>
+<td>Any Recognized University in India</td>
+</tr>
+
+<tr>
+<td>Qualification Cut-off Date</td>
+<td>Candidate must possess the qualification on or before 01 August 2025</td>
+</tr>
+
+<tr>
+<td>Eligible Candidates</td>
+<td>Male and Female Indian Citizens</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Physical Standards Test
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Standard</th>
+<th>Male</th>
+<th>Female</th>
+</tr>
+
+<tr>
+<td>Height (UR/BC)</td>
+<td>165 cm</td>
+<td>155 cm</td>
+</tr>
+
+<tr>
+<td>Height (EBC/SC/ST)</td>
+<td>160 cm</td>
+<td>155 cm</td>
+</tr>
+
+<tr>
+<td>Chest (UR/BC/EBC)</td>
+<td>81–86 cm</td>
+<td>Not Applicable</td>
+</tr>
+
+<tr>
+<td>Chest (SC/ST)</td>
+<td>79–84 cm</td>
+<td>Not Applicable</td>
+</tr>
+
+<tr>
+<td>Minimum Weight</td>
+<td>Not Specified</td>
+<td>48 kg</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Level-6</td>
+</tr>
+
+<tr>
+<td>Post</td>
+<td>Police Sub-Inspector (General Closed Cadre)</td>
+</tr>
+
+<tr>
+<td>Salary</td>
+<td>₹35,400 – ₹1,12,400 (Level-6 Pay Matrix)</td>
+</tr>
+
+<tr>
+<td>Other Benefits</td>
+<td>DA, HRA, Medical Allowance, Pension & Other Government Benefits</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Preliminary Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Main Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Physical Standards Test (PST)</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Final Selection</td>
+<td>Based on Main Examination Merit, Subject to Qualifying PST & Medical</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern – Preliminary Examination
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Mode</td><td>Objective Type</td></tr>
+<tr><td>Total Questions</td><td>100</td></tr>
+<tr><td>Total Marks</td><td>200</td></tr>
+<tr><td>Marks per Question</td><td>2</td></tr>
+<tr><td>Duration</td><td>2 Hours</td></tr>
+<tr><td>Negative Marking</td><td>Not Mentioned</td></tr>
+<tr><td>Subjects</td><td>General Knowledge, Current Affairs, Hindi, English, Reasoning</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern – Main Examination
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Paper</th>
+<th>Subject</th>
+<th>Marks</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>Paper-I</td>
+<td>General Studies, Current Affairs, Mathematics, Reasoning, English, Hindi, Bihar GK</td>
+<td>200</td>
+<td>3 Hours</td>
+</tr>
+
+<tr>
+<td>Paper-II</td>
+<td>Hindi Essay, English Essay, English Precis, Hindi to English Translation</td>
+<td>50</td>
+<td>1 Hour</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Negative Marking:</strong> 0.25 Mark Deduction for Each Wrong Answer (Paper-I)
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official BPSSC website.</li>
+
+<li>Open the Bihar Police recruitment section.</li>
+
+<li>Click on Advt. No. 09/2026 – Police Sub-Inspector Recruitment.</li>
+
+<li>Complete the online registration using your mobile number and email ID.</li>
+
+<li>Log in using the generated Registration ID and Password.</li>
+
+<li>Fill in all personal, educational and communication details carefully.</li>
+
+<li>Upload the required photograph, signature and necessary documents.</li>
+
+<li>Pay the application fee through the available online payment options.</li>
+
+<li>Review the complete application form before final submission.</li>
+
+<li>Submit the application form and download/print the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://bpssc.bihar.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://bpssc.bihar.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://bpssc.bihar.gov.in" target="_blank">
+bpssc.bihar.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in BPSSC Police SI Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>150 Police Sub-Inspector (General Closed Cadre)</strong> posts will be filled under the
+Special Branch.
+</p>
+
+<h3>2. When will applications start for BPSSC Police SI Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>09 July 2026</strong> and candidates can apply until
+<strong>09 August 2026</strong>.
+</p>
+
+<h3>3. What is the educational qualification for BPSSC Police SI Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must hold a <strong>Bachelor's Degree (Graduation)</strong> or equivalent from a recognized
+university, with the qualification completed on or before <strong>01 August 2025</strong>.
+</p>
+
+<h3>4. What is the selection process for Bihar Police SI Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes a <strong>Preliminary Examination, Main Examination, Physical Standards Test (PST), Medical
+Examination</strong> and <strong>Document Verification</strong>. Final merit is based on the main examination.
+</p>
+
+<h3>5. What is the age limit for Bihar Police SI 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The age limit is <strong>20 to 42 years</strong>, with variations by category and gender as per official rules.
+</p>
+
+<h3>6. What is the application fee for BPSSC Police SI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹100</strong> for all male and female candidates of every category, payable
+online.
+</p>
+
+<h3>7. What salary will Bihar Police SI get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>Pay Level-6</strong> salary of <strong>₹35,400 to ₹1,12,400</strong>,
+along with DA, HRA, medical facility and other government benefits.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>BPSSC Police SI Vacancy 2026</strong> is a prestigious opportunity for graduates in Bihar to join
+the police force as a Sub-Inspector with an attractive pay scale. Interested candidates should complete their
+online registration and submit the application well before <strong>09 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for BPSSC Police SI Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>09 August 2026</strong>.
+</p>
+
+<a href="https://bpssc.bihar.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=best-bus-vahak-recruitment-2026">BEST Bus Vahak Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=upsssc-cane-supervisor-recruitment-2026">UPSSSC Cane Supervisor Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=army-ssc-tech-68th-women-recruitment-2026">Army SSC Tech 68th Women Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BPSSC notification before applying.</p>
+`;
+JOB_CONTENT["best-bus-vahak-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+BEST Bus Vahak Vacancy 2026 – Apply Online for 364 Bus Conductor Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🚌 BEST Bus Vahak Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>08 July 2026 to 29 July 2026</strong>
+</p>
+
+<a href="https://www.bestundertaking.com"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>BEST Undertaking, Mumbai</strong> has released the official notification for
+<strong>Bus Vahak (Bus Conductor) Vacancy 2026</strong>, inviting applications for
+<strong>364 posts</strong> on a direct recruitment basis.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>08 July 2026</strong> and will close on
+<strong>29 July 2026</strong>. Candidates need <strong>SSC (10th) with at least 50% marks</strong>, must have
+passed <strong>Marathi</strong> as a subject, and hold a valid <strong>RTA Bus Conductor License and
+Badge</strong>. Selected candidates will get a basic pay of <strong>₹22,060</strong> per month, with a gross
+salary of approximately <strong>₹36,000</strong> per month.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+BEST Bus Vahak Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>BEST Undertaking, Mumbai</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Bus Vahak (Bus Conductor)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>364</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>29 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 38 Years (General) / 18 to 43 Years (Reserved)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹22,060 (Basic) / ~₹36,000 (Gross)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.bestundertaking.com</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Released</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>08 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>29 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>Open (General)</td>
+<td>₹1,000</td>
+</tr>
+
+<tr>
+<td>Reserved Categories</td>
+<td>₹900</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The age limit is <strong>18 to 38 years</strong> for general category candidates and
+<strong>18 to 43 years</strong> for reserved category candidates.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>Open (UR)</td><td>142</td></tr>
+<tr><td>Scheduled Caste (SC)</td><td>34</td></tr>
+<tr><td>Scheduled Tribe (ST)</td><td>22</td></tr>
+<tr><td>Vimukta Jati (A)</td><td>6</td></tr>
+<tr><td>Nomadic Tribe (B)</td><td>6</td></tr>
+<tr><td>Nomadic Tribe (C)</td><td>10</td></tr>
+<tr><td>Special Backward Class (SBC)</td><td>5</td></tr>
+<tr><td>Other Backward Class (OBC)</td><td>67</td></tr>
+<tr><td>Economically Weaker Section (EWS)</td><td>36</td></tr>
+<tr><td>Socially & Educationally Backward Class (SEBC)</td><td>36</td></tr>
+
+<tr>
+<th>Total</th>
+<th>364</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Minimum Qualification</td>
+<td>SSC (10th Pass) or Equivalent</td>
+</tr>
+
+<tr>
+<td>Minimum Marks</td>
+<td>50% Aggregate Marks</td>
+</tr>
+
+<tr>
+<td>Marathi Subject</td>
+<td>Mandatory (Minimum Required Marks as per Notification)</td>
+</tr>
+
+<tr>
+<td>License Requirement</td>
+<td>Valid RTA Bus Conductor License</td>
+</tr>
+
+<tr>
+<td>Badge</td>
+<td>Valid Bus Conductor Badge Required</td>
+</tr>
+
+<tr>
+<td>Nationality</td>
+<td>Indian Citizen</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Component</th>
+<th>Details</th>
+</tr>
+
+<tr><td>Basic Pay</td><td>₹22,060 per month</td></tr>
+<tr><td>Dearness Allowance (DA)</td><td>As Applicable</td></tr>
+<tr><td>House Rent Allowance (HRA)</td><td>As Applicable</td></tr>
+<tr><td>Medical Allowance</td><td>Available</td></tr>
+<tr><td>Uniform Washing Allowance</td><td>Available</td></tr>
+<tr><td>Leave Encashment</td><td>Available</td></tr>
+<tr><td>Leave Travel Allowance</td><td>Available</td></tr>
+<tr><td>Free Bus Travel Facility</td><td>Available</td></tr>
+
+<tr>
+<th>Approximate Gross Salary</th>
+<th>Around ₹36,000 per month</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Computer Based Test (CBT)</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Appointment as Bus Vahak</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official BEST Undertaking website.</li>
+
+<li>Open the Recruitment section on the homepage.</li>
+
+<li>Click on BEST Bus Vahak Recruitment 2026.</li>
+
+<li>Complete the online registration using your mobile number and email ID.</li>
+
+<li>Fill in all personal, educational and category details carefully.</li>
+
+<li>Upload the required documents, passport-size photograph, signature, conductor license and badge.</li>
+
+<li>Pay the application fee through the online payment gateway.</li>
+
+<li>Review all entered details before final submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the final application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.bestundertaking.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.bestundertaking.com" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.bestundertaking.com" target="_blank">
+bestundertaking.com
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in BEST Mumbai Bus Vahak Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+BEST Undertaking has released <strong>364 Bus Conductor (Bus Vahak)</strong> posts, distributed across various
+reserved and unreserved categories.
+</p>
+
+<h3>2. What is the last date to apply for BEST Bus Vahak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>08 July 2026</strong>. Candidates can apply until
+<strong>29 July 2026</strong> through the official website.
+</p>
+
+<h3>3. What is the educational qualification for BEST Bus Vahak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must have passed <strong>10th (SSC)</strong> with at least <strong>50% marks</strong>, along with
+<strong>Marathi</strong> as a subject and a valid RTA-issued <strong>Bus Conductor License and Badge</strong>.
+</p>
+
+<h3>4. What is the age limit for BEST Mumbai Bus Vahak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+General category candidates must be between <strong>18 and 38 years</strong>, while reserved category
+candidates can apply up to <strong>43 years</strong>.
+</p>
+
+<h3>5. What is the selection process for BEST Bus Vahak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection is based on a <strong>Computer Based Test (CBT), Document Verification</strong> and the
+<strong>Final Merit List</strong>.
+</p>
+
+<h3>6. How much salary will Bus Vahak get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get a basic pay of <strong>₹22,060</strong>, along with DA, HRA, medical allowance,
+uniform allowance and other benefits. Gross monthly salary is approximately <strong>₹36,000</strong>.
+</p>
+
+<h3>7. What is the application fee?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹1,000</strong> for general category candidates and <strong>₹900</strong> for reserved
+category candidates.
+</p>
+
+<h3>8. How can candidates apply for BEST Bus Vahak Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must register on the official BEST Undertaking website, fill the online application form, upload
+required documents including the conductor license and badge, pay the fee, and submit the form.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>BEST Bus Vahak Vacancy 2026</strong> offers a stable government job in Mumbai's public transport
+sector with attractive allowances and benefits. Interested candidates should complete their online registration
+and submit the application well before <strong>29 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for BEST Bus Vahak Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>29 July 2026</strong>.
+</p>
+
+<a href="https://www.bestundertaking.com"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=upsssc-cane-supervisor-recruitment-2026">UPSSSC Cane Supervisor Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bpssc-police-si-recruitment-2026">BPSSC Police SI Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=up-anganwadi-bharti-recruitment-2026">UP Anganwadi Bharti 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BEST Undertaking notification before applying.</p>
+`;
+JOB_CONTENT["upsssc-cane-supervisor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+UPSSSC Cane Supervisor Vacancy 2026 – Apply Online for 1,182 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🌾 UPSSSC Cane Supervisor Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>07 July 2026 to 28 July 2026</strong>
+</p>
+
+<a href="https://upsssc.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</strong> has released the official
+notification for <strong>Cane Supervisor Recruitment 2026</strong>, inviting applications for
+<strong>1,182 posts</strong>. This is a great opportunity for candidates with an agriculture background looking
+for a permanent government job in Uttar Pradesh.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>07 July 2026</strong> and will close on
+<strong>28 July 2026 at 11:59 PM</strong>, with a correction window open until
+<strong>04 August 2026</strong>. Candidates need a <strong>Bachelor's Degree in Agriculture</strong>, an
+<strong>'O' Level Computer Certificate</strong>, and must have qualified <strong>UP PET 2025</strong>. Selected
+candidates will get Level-4 Pay Matrix salary of <strong>₹25,500 to ₹81,100</strong> per month.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+UPSSSC Cane Supervisor Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Cane Supervisor</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>1,182</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Notification Release Date</th>
+<td>12 May 2026</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>28 July 2026 (11:59 PM)</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>21 to 40 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹25,500 – ₹81,100 (Level-4)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>upsssc.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release Date</td>
+<td>12 May 2026</td>
+</tr>
+
+<tr>
+<td>Online Application Start Date</td>
+<td>07 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date to Apply Online</td>
+<td>28 July 2026 (11:59 PM)</td>
+</tr>
+
+<tr>
+<td>Application Correction Last Date</td>
+<td>04 August 2026</td>
+</tr>
+
+<tr>
+<td>Exam Date</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Admit Card Release</td>
+<td>Before Exam</td>
+</tr>
+
+<tr>
+<td>Answer Key</td>
+<td>After Examination</td>
+</tr>
+
+<tr>
+<td>Result Declaration</td>
+<td>To Be Announced</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr><td>General</td><td>₹25/-</td></tr>
+<tr><td>OBC</td><td>₹25/-</td></tr>
+<tr><td>EWS</td><td>₹25/-</td></tr>
+<tr><td>SC</td><td>₹25/-</td></tr>
+<tr><td>ST</td><td>₹25/-</td></tr>
+<tr><td>PH</td><td>₹25/-</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>21 and 40 years</strong> of age, calculated as on
+<strong>01 July 2026</strong>. Reserved category candidates will get age relaxation as per government rules.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>General</th>
+<th>EWS</th>
+<th>OBC</th>
+<th>SC</th>
+<th>ST</th>
+<th>Total</th>
+</tr>
+
+<tr>
+<td>Cane Supervisor</td>
+<td>402</td>
+<td>100</td>
+<td>272</td>
+<td>210</td>
+<td>16</td>
+<td>1000</td>
+</tr>
+
+<tr>
+<td>Cane Supervisor (Special Selection)</td>
+<td>0</td>
+<td>0</td>
+<td>156</td>
+<td>8</td>
+<td>18</td>
+<td>182</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>402</th>
+<th>100</th>
+<th>428</th>
+<th>218</th>
+<th>34</th>
+<th>1182</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Eligibility Criteria
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Cane Supervisor</td>
+<td>Bachelor's Degree in Agriculture from a recognized university</td>
+</tr>
+
+<tr>
+<td>Computer Qualification</td>
+<td>"O" Level Computer Certificate</td>
+</tr>
+
+<tr>
+<td>Additional Requirement</td>
+<td>UP PET 2025 Qualified</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Pay Level</th>
+<th>Salary Range</th>
+</tr>
+
+<tr>
+<td>Cane Supervisor</td>
+<td>Level-04</td>
+<td>₹25,500 – ₹81,100/-</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Process</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Shortlisting Based on UP PET 2025 Score</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Written Examination</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Final Stage</td>
+<td>Final Merit List</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Questions</th>
+<th>Marks</th>
+</tr>
+
+<tr><td>Crop Science</td><td>25</td><td>25</td></tr>
+<tr><td>Biotechnology, Plant Breeding & Crop Physiology</td><td>10</td><td>10</td></tr>
+<tr><td>Soil & Water Conservation</td><td>15</td><td>15</td></tr>
+<tr><td>Agriculture Extension</td><td>5</td><td>5</td></tr>
+<tr><td>Agriculture Economics & Government Schemes</td><td>5</td><td>5</td></tr>
+<tr><td>Dairy & Animal Husbandry</td><td>5</td><td>5</td></tr>
+<tr><td>Computer and Information Technology</td><td>15</td><td>15</td></tr>
+<tr><td>General Information Related to Uttar Pradesh</td><td>20</td><td>20</td></tr>
+
+<tr>
+<th>Total</th>
+<th>100</th>
+<th>100</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Duration:</strong> 2 Hours | <strong>Negative Marking:</strong> 1/4 Mark Deduction for Each Wrong
+Answer
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Syllabus Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Topics Covered</th>
+</tr>
+
+<tr><td>Crop Science</td><td>Crop Production, Seed Technology, Agronomy</td></tr>
+<tr><td>Biotechnology</td><td>Genetics, Plant Breeding, Crop Physiology</td></tr>
+<tr><td>Soil Science</td><td>Soil Fertility, Irrigation, Water Conservation</td></tr>
+<tr><td>Agriculture Extension</td><td>Rural Development, Extension Education</td></tr>
+<tr><td>Agriculture Economics</td><td>Agricultural Policies, Government Schemes</td></tr>
+<tr><td>Dairy Science</td><td>Animal Nutrition, Dairy Management</td></tr>
+<tr><td>Computer Knowledge</td><td>MS Office, Internet, Basic IT</td></tr>
+<tr><td>General Knowledge</td><td>Uttar Pradesh History, Geography, Current Affairs</td></tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official portal of Uttar Pradesh Subordinate Services Selection Commission.</li>
+
+<li>Open the Cane Supervisor Recruitment 2026 notification link.</li>
+
+<li>Read the official notification carefully before applying.</li>
+
+<li>Click on Apply Online.</li>
+
+<li>Login using your PET Registration details.</li>
+
+<li>Fill in personal details, educational qualifications and other required information.</li>
+
+<li>Upload scanned documents such as photograph, signature and certificates.</li>
+
+<li>Pay the application fee through online mode.</li>
+
+<li>Preview the application form carefully.</li>
+
+<li>Submit the final application form and take a printout for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://upsssc.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Download Notification</td>
+<td>
+<a href="https://upsssc.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://upsssc.gov.in" target="_blank">
+upsssc.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is UPSSSC Cane Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+UPSSSC has released a recruitment drive for <strong>Cane Supervisor (Ganna Paryavekshak)</strong> posts,
+selecting a total of <strong>1,182 candidates</strong>. This is a great opportunity for candidates with an
+agriculture background, with a permanent government job in Uttar Pradesh.
+</p>
+
+<h3>2. How many total vacancies are there in UPSSSC Cane Supervisor 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>1,182 posts</strong> have been announced, covering both regular recruitment and special
+selection seats across categories.
+</p>
+
+<h3>3. When will the UPSSSC Cane Supervisor Online Form 2026 start?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications started on <strong>07 July 2026</strong>. Candidates should read the official notification
+carefully before applying.
+</p>
+
+<h3>4. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply for this recruitment is <strong>28 July 2026</strong>.
+</p>
+
+<h3>5. What is the educational qualification for UPSSSC Cane Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must have a <strong>Bachelor's Degree in Agriculture</strong>, an <strong>'O' Level Computer
+Certificate</strong>, and must have qualified <strong>UP PET 2025</strong>.
+</p>
+
+<h3>6. What is the age limit for UPSSSC Cane Supervisor?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>21 and 40 years</strong> of age. Reserved category candidates will get age
+relaxation as per government rules.
+</p>
+
+<h3>7. What is the application fee for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The application fee is <strong>₹25</strong> for all categories of candidates, payable online.
+</p>
+
+<h3>8. What is the selection process for UPSSSC Cane Supervisor Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes <strong>Shortlisting based on UP PET score, a Written Examination, Medical Examination</strong>
+and <strong>Document Verification</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>UPSSSC Cane Supervisor Vacancy 2026</strong> is an excellent opportunity for agriculture graduates
+in Uttar Pradesh to secure a permanent government job. Interested candidates should complete their online
+registration and submit the application well before <strong>28 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for UPSSSC Cane Supervisor Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>28 July 2026</strong>.
+</p>
+
+<a href="https://upsssc.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=best-bus-vahak-recruitment-2026">BEST Bus Vahak Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bpssc-police-si-recruitment-2026">BPSSC Police SI Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=up-anganwadi-bharti-recruitment-2026">UP Anganwadi Bharti 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSSSC notification before applying.</p>
+`;
 JOB_CONTENT["aiims-capfims-assistant-professor-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

@@ -1,6 +1,201 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"upsssc-cane-supervisor-recruitment-2026",
+    orgWebsite:"https://upsssc.gov.in",
+    title:"UPSSSC Cane Supervisor Vacancy 2026",
+    shortTitle:"UPSSSC Cane Supervisor Online Form 2026",
+    organization:"Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    image:"UPSSSC-Cane.jpeg",
+
+    totalPosts:1182,
+
+    lastDate:"2026-07-28",
+    lastDateDisplay:"28 July 2026",
+
+    datePosted:"2026-05-12",
+    validThrough:"2026-07-28T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:25500,
+    salaryMax:81100,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree in Agriculture + 'O' Level Computer Certificate + UP PET 2025 Qualified",
+
+    ageLimit:"21 to 40 Years",
+
+    applyLink:"https://upsssc.gov.in",
+    officialNotification:"https://upsssc.gov.in",
+
+    fee:"All Categories: Rs. 25",
+
+    description:"Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has released the official notification for Cane Supervisor Recruitment 2026, inviting applications for 1,182 posts. Online applications started on 07 July 2026 and will close on 28 July 2026. Candidates need a Bachelor's Degree in Agriculture, an 'O' Level Computer Certificate, and must have qualified UP PET 2025. Selection includes shortlisting based on PET score, a written examination, medical examination and document verification. Selected candidates will get Level-4 Pay Matrix salary of Rs. 25,500 to Rs. 81,100 per month.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Cane Supervisor",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-07",
+    applicationEndDate:"2026-07-28",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"General (Regular)", totalPosts:402},
+        {category:"EWS (Regular)", totalPosts:100},
+        {category:"OBC (Regular)", totalPosts:272},
+        {category:"SC (Regular)", totalPosts:210},
+        {category:"ST (Regular)", totalPosts:16},
+        {category:"OBC (Special Selection)", totalPosts:156},
+        {category:"SC (Special Selection)", totalPosts:8},
+        {category:"ST (Special Selection)", totalPosts:18}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"best-bus-vahak-recruitment-2026",
+    orgWebsite:"https://www.bestundertaking.com",
+    title:"BEST Bus Vahak Vacancy 2026",
+    shortTitle:"BEST Bus Vahak Online Form 2026",
+    organization:"BEST Undertaking, Mumbai",
+    image:"BIHAR-police.jpeg",
+
+    totalPosts:364,
+
+    lastDate:"2026-07-29",
+    lastDateDisplay:"29 July 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-07-29T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:22060,
+    salaryMax:36000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Mumbai, Maharashtra",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"SSC (10th Pass) with Minimum 50% Marks, Marathi Subject, Valid RTA Bus Conductor License & Badge",
+
+    ageLimit:"18 to 38 Years (General) | 18 to 43 Years (Reserved)",
+
+    applyLink:"https://www.bestundertaking.com",
+    officialNotification:"https://www.bestundertaking.com",
+
+    fee:"Open (General): Rs. 1,000 | Reserved Categories: Rs. 900",
+
+    description:"BEST Undertaking, Mumbai has released the official notification for Bus Vahak (Bus Conductor) Vacancy 2026, inviting applications for 364 posts. Online applications started on 08 July 2026 and will close on 29 July 2026. Candidates need SSC (10th) with at least 50% marks, Marathi as a subject, and a valid RTA Bus Conductor License and Badge. Selection includes a Computer Based Test (CBT), document verification and final merit list. Selected candidates will get a basic pay of Rs. 22,060 per month, with a gross salary of approximately Rs. 36,000 including DA, HRA and other allowances.",
+
+    category:"Maharashtra Government Jobs",
+    jobType:"Bus Vahak (Bus Conductor)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-07-29",
+
+    examDate:"To Be Announced (CBT)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"Open (UR)", totalPosts:142},
+        {category:"Scheduled Caste (SC)", totalPosts:34},
+        {category:"Scheduled Tribe (ST)", totalPosts:22},
+        {category:"Vimukta Jati (A)", totalPosts:6},
+        {category:"Nomadic Tribe (B)", totalPosts:6},
+        {category:"Nomadic Tribe (C)", totalPosts:10},
+        {category:"Special Backward Class (SBC)", totalPosts:5},
+        {category:"Other Backward Class (OBC)", totalPosts:67},
+        {category:"Economically Weaker Section (EWS)", totalPosts:36},
+        {category:"Socially & Educationally Backward Class (SEBC)", totalPosts:36}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"bpssc-police-si-recruitment-2026",
+    orgWebsite:"https://bpssc.bihar.gov.in",
+    title:"BPSSC Police SI Vacancy 2026",
+    shortTitle:"BPSSC Police SI Online Form 2026",
+    organization:"Bihar Police Subordinate Services Commission (BPSSC)",
+    image:"BPSSCPoliceSI.jpeg",
+
+    totalPosts:150,
+
+    lastDate:"2026-08-09",
+    lastDateDisplay:"09 August 2026",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-08-09T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:35400,
+    salaryMax:112400,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bihar",
+    addressLocality:"Patna",
+    addressRegion:"Bihar",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree (Graduation) or Equivalent",
+
+    ageLimit:"20 to 42 Years",
+
+    applyLink:"https://bpssc.bihar.gov.in",
+    officialNotification:"https://bpssc.bihar.gov.in",
+
+    fee:"All Candidates: Rs. 100",
+
+    description:"Bihar Police Subordinate Services Commission (BPSSC) has released the official notification (Advt. No. 09/2026) for Police Sub-Inspector (General Closed Cadre) posts under the Special Branch of the Home Department, inviting applications for 150 posts. Online applications started on 09 July 2026 and will close on 09 August 2026. Candidates need a Bachelor's Degree or equivalent from a recognized university. Selection includes a Preliminary Examination, Main Examination, Physical Standards Test (PST), Medical Examination and Document Verification. Selected candidates will get a Level-6 salary of Rs. 35,400 to Rs. 1,12,400 per month.",
+
+    category:"Bihar Government Jobs",
+    jobType:"Police Sub-Inspector (General Closed Cadre)",
+
+    advertisementNo:"09/2026",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-08-09",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"Unreserved (UR)", totalPosts:60},
+        {category:"Economically Weaker Section (EWS)", totalPosts:15},
+        {category:"Extremely Backward Class (EBC)", totalPosts:27},
+        {category:"Scheduled Caste (SC)", totalPosts:24},
+        {category:"Backward Class (BC)", totalPosts:18},
+        {category:"BC Women", totalPosts:4},
+        {category:"Scheduled Tribe (ST)", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"aiims-capfims-assistant-professor-recruitment-2026",
     orgWebsite:"https://www.aiims.edu",
     title:"AIIMS CAPFIMS Assistant Professor Recruitment 2026",
