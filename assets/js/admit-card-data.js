@@ -1,5 +1,72 @@
 const ADMIT_CARDS_DATA = [
   {
+    id:"upsssc-teacher-cadre-jtc-admit-card-2026",
+    title:"UPSSSC Teacher Cadre JTC Admit Card 2026",
+    organization:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    postName:"Teacher Cadre JTC",
+    postType:"Admit Card",
+    totalPosts:58,
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    examDate:"12 July 2026",
+    officialWebsite:"https://upsssc.gov.in",
+    admitCardLink:"https://upsssc.gov.in",
+    category:"Admit Card",
+    isNew:true,
+    description:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has released the Admit Card for Teacher Cadre JTC posts. Candidates can download the admit card from the official website before the mains exam on 12 July 2026."
+},
+
+{
+    id:"upsssc-assistant-boring-technician-admit-card-2026",
+    title:"UPSSSC Assistant Boring Technician Admit Card 2026",
+    organization:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    postName:"Assistant Boring Technician",
+    postType:"Admit Card",
+    totalPosts:402,
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    examDate:"12 July 2026",
+    officialWebsite:"https://upsssc.gov.in",
+    admitCardLink:"https://upsssc.gov.in",
+    category:"Admit Card",
+    isNew:true,
+    description:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has released the Admit Card for Assistant Boring Technician posts. Candidates can download the admit card from the official website before the mains exam on 12 July 2026."
+},
+
+{
+    id:"opsc-assistant-professor-admit-card-2026",
+    title:"OPSC Assistant Professor Admit Card 2026",
+    organization:"Odisha Public Service Commission (OPSC)",
+    postName:"Assistant Professor",
+    advertisementNo:"Advt. No. 01 of 2026-27",
+    postType:"Admit Card",
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    examDate:"12 July 2026",
+    officialWebsite:"https://opsc.gov.in",
+    admitCardLink:"https://opsc.gov.in",
+    category:"Admit Card",
+    isNew:true,
+    description:"Odisha Public Service Commission (OPSC) has released the Admit Card for Assistant Professor posts (Advt. No. 01 of 2026-27). Candidates can download the admit card from the official website before the exam on 12 July 2026."
+},
+
+{
+    id:"jkpsc-prosecuting-officer-mains-admit-card-2026",
+    title:"JKPSC Prosecuting Officer Mains Admit Card 2026",
+    organization:"Jammu and Kashmir Public Service Commission (JKPSC)",
+    postName:"Prosecuting Officer",
+    notificationNo:"13-PSC (DR-P) of 2025",
+    postType:"Admit Card",
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    examDate:"15 July 2026",
+    officialWebsite:"https://jkpsc.nic.in",
+    admitCardLink:"https://jkpsc.nic.in",
+    category:"Admit Card",
+    isNew:true,
+    description:"Jammu and Kashmir Public Service Commission (JKPSC) has released the Mains Admit Card for Prosecuting Officer posts (Notification No. 13-PSC (DR-P) of 2025). Candidates can download the admit card from the official website before the exam on 15 July 2026."
+},
+  {
     id: "mp-apex-bank-admit-card-2026",
     title: "MP Apex Bank Admit Card 2026",
     organization: "M.P. Rajya Sahakari Bank Maryadit (MP Apex Bank)",

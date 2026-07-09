@@ -1,4 +1,216 @@
 const ADMIT_CARD_CONTENT = {};
+ADMIT_CARD_CONTENT["upsssc-teacher-cadre-jtc-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+UPSSSC Teacher Cadre JTC Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</strong> has released the
+<strong>Admit Card</strong> for <strong>Teacher Cadre JTC</strong> posts. Candidates who applied for this
+recruitment can download their admit card from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</td></tr>
+<tr><th>Post Name</th><td>Teacher Cadre JTC</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Total Posts</th><td>58</td></tr>
+<tr><th>Admit Card Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Mains Exam Date</th><td>12 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://upsssc.gov.in" target="_blank">upsssc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-assistant-boring-technician-admit-card-2026">UPSSSC Assistant Boring Technician Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=opsc-assistant-professor-admit-card-2026">OPSC Assistant Professor Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=jkpsc-prosecuting-officer-mains-admit-card-2026">JKPSC Prosecuting Officer Mains Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSSSC website.</p>
+`;
+
+ADMIT_CARD_CONTENT["upsssc-assistant-boring-technician-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+UPSSSC Assistant Boring Technician Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</strong> has released the
+<strong>Admit Card</strong> for <strong>Assistant Boring Technician</strong> posts. Candidates who applied for
+this recruitment can download their admit card from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant Boring Technician</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Total Posts</th><td>402</td></tr>
+<tr><th>Admit Card Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Mains Exam Date</th><td>12 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://upsssc.gov.in" target="_blank">upsssc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-teacher-cadre-jtc-admit-card-2026">UPSSSC Teacher Cadre JTC Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=opsc-assistant-professor-admit-card-2026">OPSC Assistant Professor Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=jkpsc-prosecuting-officer-mains-admit-card-2026">JKPSC Prosecuting Officer Mains Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSSSC website.</p>
+`;
+
+ADMIT_CARD_CONTENT["opsc-assistant-professor-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+OPSC Assistant Professor Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Odisha Public Service Commission (OPSC)</strong> has released the <strong>Admit Card</strong> for
+<strong>Assistant Professor</strong> posts (Advt. No. 01 of 2026-27). Candidates who applied for this
+recruitment can download their admit card from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Odisha Public Service Commission (OPSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant Professor</td></tr>
+<tr><th>Advertisement Number</th><td>Advt. No. 01 of 2026-27</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Admit Card Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Exam Date</th><td>12 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://opsc.gov.in" target="_blank">opsc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://opsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://opsc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://opsc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-teacher-cadre-jtc-admit-card-2026">UPSSSC Teacher Cadre JTC Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-assistant-boring-technician-admit-card-2026">UPSSSC Assistant Boring Technician Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=jkpsc-prosecuting-officer-mains-admit-card-2026">JKPSC Prosecuting Officer Mains Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official OPSC website.</p>
+`;
+
+ADMIT_CARD_CONTENT["jkpsc-prosecuting-officer-mains-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+JKPSC Prosecuting Officer Mains Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Jammu and Kashmir Public Service Commission (JKPSC)</strong> has released the
+<strong>Mains Admit Card</strong> for <strong>Prosecuting Officer</strong> posts (Notification No.
+13-PSC (DR-P) of 2025). Candidates who applied for this recruitment can download their admit card from the
+link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Jammu and Kashmir Public Service Commission (JKPSC)</td></tr>
+<tr><th>Post Name</th><td>Prosecuting Officer</td></tr>
+<tr><th>Notification Number</th><td>13-PSC (DR-P) of 2025</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Admit Card Release Date</th><td>07 July 2026</td></tr>
+<tr><th>Exam Date</th><td>15 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://jkpsc.nic.in" target="_blank">jkpsc.nic.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://jkpsc.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://jkpsc.nic.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://jkpsc.nic.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-teacher-cadre-jtc-admit-card-2026">UPSSSC Teacher Cadre JTC Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=upsssc-assistant-boring-technician-admit-card-2026">UPSSSC Assistant Boring Technician Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=opsc-assistant-professor-admit-card-2026">OPSC Assistant Professor Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official JKPSC website.</p>
+`;
 ADMIT_CARD_CONTENT["htet-admit-card-2026"] = `
 
 <nav style="font-size:16px;margin-bottom:15px;color:#666;">

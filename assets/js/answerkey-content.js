@@ -2,6 +2,230 @@
 // Full article content for each answer key ID
 
 const ANSWER_KEY_CONTENT = {};
+ANSWER_KEY_CONTENT["uptet-answer-key-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+UPESSC UPTET 2026 Answer Key
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Uttar Pradesh Education Service Selection Commission (UPESSC)</strong> has released the
+<strong>Answer Key</strong> for the <strong>Uttar Pradesh Teacher Eligibility Test (UPTET) 2026</strong>.
+Candidates who appeared for the exam can check and download the answer key from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Uttar Pradesh Education Service Selection Commission (UPESSC)</td></tr>
+<tr><th>Exam Name</th><td>Uttar Pradesh Teacher Eligibility Test (UPTET) 2026</td></tr>
+<tr><th>Post Type</th><td>Answer Key</td></tr>
+<tr><th>Exam Date</th><td>02-04 July 2026</td></tr>
+<tr><th>Answer Key Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Answer Key Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://upessc.up.gov.in" target="_blank">upessc.up.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Answer Key</td><td><a href="https://upessc.up.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upessc.up.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://upessc.up.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Answer Key</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Answer Keys</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=answerkey&id=hpsc-ada-answer-key-2026">HPSC ADA Answer Key 2026</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-stenographer-answer-key-2026">BPSC Stenographer Answer Key 2026</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-aes-answer-key-2026">BPSC AES Assistant Environmental Scientist Answer Key 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPESSC website.</p>
+`;
+
+ANSWER_KEY_CONTENT["hpsc-ada-answer-key-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+HPSC ADA Answer Key 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Haryana Public Service Commission (HPSC)</strong> has released the <strong>Answer Key</strong> for
+<strong>Assistant District Attorney (ADA)</strong> posts (Advt. No. 18/2025). Candidates who appeared for the
+Screening Test can check and download the answer key from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Haryana Public Service Commission (HPSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant District Attorney (ADA)</td></tr>
+<tr><th>Advertisement No.</th><td>18/2025</td></tr>
+<tr><th>Post Type</th><td>Answer Key</td></tr>
+<tr><th>Screening Test Date</th><td>05 July 2026</td></tr>
+<tr><th>Total Posts</th><td>255</td></tr>
+<tr><th>Answer Key Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Answer Key Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://hpsc.gov.in" target="_blank">hpsc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Answer Key</td><td><a href="https://hpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://hpsc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://hpsc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Answer Key</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Answer Keys</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=answerkey&id=uptet-answer-key-2026">UPESSC UPTET 2026 Answer Key</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-stenographer-answer-key-2026">BPSC Stenographer Answer Key 2026</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-aes-answer-key-2026">BPSC AES Assistant Environmental Scientist Answer Key 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official HPSC website.</p>
+`;
+
+ANSWER_KEY_CONTENT["bpsc-stenographer-answer-key-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+BPSC Stenographer Answer Key 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Bihar Public Service Commission (BPSC)</strong> has released the <strong>Answer Key</strong> for
+<strong>Stenographer</strong> posts. Candidates who appeared for the exam can check and download the answer key
+from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Bihar Public Service Commission (BPSC)</td></tr>
+<tr><th>Post Name</th><td>Stenographer</td></tr>
+<tr><th>Post Type</th><td>Answer Key</td></tr>
+<tr><th>Exam Dates</th><td>11 June 2026</td></tr>
+<tr><th>Total Posts</th><td>15</td></tr>
+<tr><th>Answer Key Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Answer Key Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://bpsc.bih.nic.in" target="_blank">bpsc.bih.nic.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Answer Key</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>For Answer Key Objection</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://bpsc.bih.nic.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Answer Key</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Answer Keys</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=answerkey&id=uptet-answer-key-2026">UPESSC UPTET 2026 Answer Key</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=hpsc-ada-answer-key-2026">HPSC ADA Answer Key 2026</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-aes-answer-key-2026">BPSC AES Assistant Environmental Scientist Answer Key 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BPSC website.</p>
+`;
+
+ANSWER_KEY_CONTENT["bpsc-aes-answer-key-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By SarthakYojana Editorial Team</strong> | Updated: 07 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+BPSC AES Assistant Environmental Scientist Answer Key 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Bihar Public Service Commission (BPSC)</strong> has released the <strong>Answer Key</strong> for
+<strong>Assistant Environmental Scientist</strong> posts. Candidates who appeared for the exam can check and
+download the paper-wise answer key from the links given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Bihar Public Service Commission (BPSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant Environmental Scientist</td></tr>
+<tr><th>Post Type</th><td>Answer Key</td></tr>
+<tr><th>Exam Dates</th><td>11 June 2026</td></tr>
+<tr><th>Total Posts</th><td>17</td></tr>
+<tr><th>Answer Key Release Date</th><td>07 July 2026</td></tr>
+<tr><th>Answer Key Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://bpsc.bih.nic.in" target="_blank">bpsc.bih.nic.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Paper-Wise Answer Key Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Paper</th><th>Link</th></tr>
+<tr><td>General Studies</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Physics</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Chemistry</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Life Science</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Environmental Science</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Official Website</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://bpsc.bih.nic.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Answer Key</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Answer Keys</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=answerkey&id=uptet-answer-key-2026">UPESSC UPTET 2026 Answer Key</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=hpsc-ada-answer-key-2026">HPSC ADA Answer Key 2026</a></li>
+<li><a href="../item-detail.html?type=answerkey&id=bpsc-stenographer-answer-key-2026">BPSC Stenographer Answer Key 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BPSC website.</p>
+`;
 
 ANSWER_KEY_CONTENT["mpsc-group-b-prelims-final-answer-key-2026"] = `
 

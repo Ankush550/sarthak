@@ -3,6 +3,73 @@
 
 const ANSWER_KEYS_DATA = [
   {
+    id:"uptet-answer-key-2026",
+    title:"UPESSC UPTET 2026 Answer Key",
+    organization:"Uttar Pradesh Education Service Selection Commission (UPESSC)",
+    examName:"Uttar Pradesh Teacher Eligibility Test (UPTET) 2026",
+    postType:"Answer Key",
+    examDate:"02-04 July 2026",
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://upessc.up.gov.in",
+    answerKeyLink:"https://upessc.up.gov.in",
+    category:"Answer Key",
+    isNew:true,
+    description:"Uttar Pradesh Education Service Selection Commission (UPESSC) has released the Answer Key for Uttar Pradesh Teacher Eligibility Test (UPTET) 2026. Candidates who appeared for the exam can download the answer key from the official website."
+},
+
+{
+    id:"hpsc-ada-answer-key-2026",
+    title:"HPSC ADA Answer Key 2026",
+    organization:"Haryana Public Service Commission (HPSC)",
+    postName:"Assistant District Attorney (ADA)",
+    advertisementNo:"18/2025",
+    postType:"Answer Key",
+    examDate:"05 July 2026",
+    totalPosts:255,
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://hpsc.gov.in",
+    answerKeyLink:"https://hpsc.gov.in",
+    category:"Answer Key",
+    isNew:true,
+    description:"Haryana Public Service Commission (HPSC) has released the Answer Key for Assistant District Attorney (ADA) posts (Advt. No. 18/2025). Candidates who appeared for the Screening Test can download the answer key from the official website."
+},
+
+{
+    id:"bpsc-stenographer-answer-key-2026",
+    title:"BPSC Stenographer Answer Key 2026",
+    organization:"Bihar Public Service Commission (BPSC)",
+    postName:"Stenographer",
+    postType:"Answer Key",
+    examDate:"11 June 2026",
+    totalPosts:15,
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://bpsc.bih.nic.in",
+    answerKeyLink:"https://bpsc.bih.nic.in",
+    category:"Answer Key",
+    isNew:true,
+    description:"Bihar Public Service Commission (BPSC) has released the Answer Key for Stenographer posts. Candidates who appeared for the exam on 11 June 2026 can download the answer key and raise objections from the official website."
+},
+
+{
+    id:"bpsc-aes-answer-key-2026",
+    title:"BPSC AES Assistant Environmental Scientist Answer Key 2026",
+    organization:"Bihar Public Service Commission (BPSC)",
+    postName:"Assistant Environmental Scientist",
+    postType:"Answer Key",
+    examDate:"11 June 2026",
+    totalPosts:17,
+    releaseDate:"2026-07-07",
+    releaseDateDisplay:"07 July 2026",
+    officialWebsite:"https://bpsc.bih.nic.in",
+    answerKeyLink:"https://bpsc.bih.nic.in",
+    category:"Answer Key",
+    isNew:true,
+    description:"Bihar Public Service Commission (BPSC) has released the Answer Key for Assistant Environmental Scientist posts, covering General Studies, Physics, Chemistry, Life Science and Environmental Science papers. Candidates who appeared for the exam on 11 June 2026 can download the answer key from the official website."
+},
+  {
     id: "mpsc-group-b-prelims-final-answer-key-2026",
     title: "MPSC Group B Prelims Final Answer Key 2026",
     shortTitle: "MPSC Group B Answer Key 2026",
