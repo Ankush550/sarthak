@@ -1,5 +1,132 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+    {
+    id:"aiims-capfims-assistant-professor-recruitment-2026",
+    orgWebsite:"https://www.aiims.edu",
+    title:"AIIMS CAPFIMS Assistant Professor Recruitment 2026",
+    shortTitle:"AIIMS CAPFIMS Assistant Professor Online Form 2026",
+    organization:"All India Institute of Medical Sciences (AIIMS), New Delhi",
+    image:"AIIMSCAPFIMS.jpeg",
+
+    totalPosts:18,
+
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026",
+
+    datePosted:"2026-07-06",
+    validThrough:"2026-07-20T17:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:142506,
+    salaryMax:142506,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"AIIMS-CAPFIMS Campus, Maidangarhi, New Delhi",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"MD / MS / D.M. / M.Ch. / Equivalent Medical Qualification",
+
+    ageLimit:"Up to 50 Years",
+
+    applyLink:"https://www.aiimsexams.ac.in",
+    officialNotification:"https://www.aiims.edu",
+
+    fee:"General/OBC: Rs. 3000 | EWS/SC/ST: Rs. 2400 | PwBD: Exempted",
+
+    description:"All India Institute of Medical Sciences (AIIMS), New Delhi has released a recruitment notification for 18 Assistant Professor posts on a contract basis at AIIMS-CAPFIMS Campus, Maidangarhi. Vacancies span Gastroenterology, Medical Oncology, Nephrology, Neurosurgery, Nuclear Medicine, Orthopedics and Urology. Candidates with MD, MS, D.M., M.Ch. or equivalent medical qualification can apply online from 06 July 2026 to 20 July 2026. Selection includes screening, shortlisting, personal interview and document verification. Selected candidates will get a consolidated salary of Rs. 1,42,506 per month.",
+
+    category:"Medical Jobs",
+    jobType:"Assistant Professor (Various Disciplines)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-06",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"Not Applicable",
+    interviewDate:"Personal Interview (As Per Schedule)",
+
+    postDetails:[
+        {postName:"Assistant Professor of Gastroenterology", totalPosts:3},
+        {postName:"Assistant Professor of Medical Oncology", totalPosts:1},
+        {postName:"Assistant Professor of Nephrology", totalPosts:3},
+        {postName:"Assistant Professor of Neurosurgery", totalPosts:3},
+        {postName:"Assistant Professor of Nuclear Medicine", totalPosts:2},
+        {postName:"Assistant Professor of Orthopedics", totalPosts:3},
+        {postName:"Assistant Professor of Urology", totalPosts:3}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"cci-management-trainee-junior-assistant-recruitment-2026",
+    orgWebsite:"https://www.cotcorp.org.in",
+    title:"CCI Recruitment 2026 (Management Trainee, Junior Assistant & More)",
+    shortTitle:"CCI 148 MT, Junior Assistant Online Form 2026",
+    organization:"The Cotton Corporation of India Ltd (CCI)",
+    image:"CCIRecruitment.jpeg",
+
+    totalPosts:148,
+
+    lastDate:"2026-07-24",
+    lastDateDisplay:"24 July 2026",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-07-24T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:22000,
+    salaryMax:140000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Graduate/Post-Graduate/MBA/CA/CMA/BE-MCA (Post Wise)",
+
+    ageLimit:"18 to 32 Years (Post Wise)",
+
+    applyLink:"https://www.cotcorp.org.in",
+    officialNotification:"https://www.cotcorp.org.in",
+
+    fee:"GEN/EWS/OBC: Rs. 1,770 | SC/ST/Ex-Servicemen/PwBD: Rs. 590",
+
+    description:"The Cotton Corporation of India Ltd (CCI), a Government of India Undertaking under the Ministry of Textiles, has released Advt. No. DR/CCI/2026 inviting online applications for 148 posts of Assistant Manager, Management Trainee, Junior Commercial Executive and Junior Assistant. Online applications are open from 09 July 2026 to 24 July 2026 through www.cotcorp.org.in. Selection is through a Computer Based Test (120 MCQs, 120 minutes) followed by Document Verification. Selected candidates will get an IDA pay scale ranging from Rs. 22,000 to Rs. 1,40,000 depending on the post, along with a 12-month probation and a 3-year service bond.",
+
+    category:"PSU Jobs",
+    jobType:"Assistant Manager, Management Trainee, Junior Commercial Executive, Junior Assistant",
+
+    advertisementNo:"DR/CCI/2026",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-07-24",
+
+    examDate:"To Be Announced (CBT)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Assistant Manager (Official Language) - 101", totalPosts:1},
+        {postName:"Assistant Manager (Information Technology) - 102", totalPosts:1},
+        {postName:"Management Trainee (Marketing) - 103", totalPosts:8},
+        {postName:"Management Trainee (Accounts) - 104", totalPosts:8},
+        {postName:"Junior Commercial Executive - 105", totalPosts:50},
+        {postName:"Junior Assistant (Accounts) - 106", totalPosts:50},
+        {postName:"Junior Assistant (General) - 107", totalPosts:30}
+    ],
+
+    status:"open",
+    isNew:true
+},
   {
     id:"indian-army-68th-sscw-tech-recruitment-2026",
     orgWebsite:"https://www.joinindianarmy.nic.in",

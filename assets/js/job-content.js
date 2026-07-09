@@ -1,5 +1,1138 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["aiims-capfims-assistant-professor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+AIIMS CAPFIMS Assistant Professor Recruitment 2026 – Apply Online for 18 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏥 AIIMS CAPFIMS Assistant Professor Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>06 July 2026 to 20 July 2026</strong>
+</p>
+
+<a href="https://www.aiimsexams.ac.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>All India Institute of Medical Sciences (AIIMS), New Delhi</strong> has released a recruitment
+notification for <strong>18 Assistant Professor</strong> posts on a contract basis at the
+<strong>AIIMS-CAPFIMS Campus, Maidangarhi, New Delhi</strong>. Vacancies span
+<strong>Gastroenterology, Medical Oncology, Nephrology, Neurosurgery, Nuclear Medicine, Orthopedics and
+Urology</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications started on <strong>06 July 2026</strong> and will close on
+<strong>20 July 2026 at 5:00 PM</strong>. Candidates with <strong>MD, MS, D.M., M.Ch.</strong> or an equivalent
+medical qualification can apply. Selected candidates will get a consolidated salary of
+<strong>₹1,42,506 per month</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+AIIMS CAPFIMS Assistant Professor Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>All India Institute of Medical Sciences (AIIMS), New Delhi</td>
+</tr>
+
+<tr>
+<th>Campus</th>
+<td>AIIMS-CAPFIMS Campus, Maidangarhi, New Delhi</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Assistant Professor (Various Disciplines)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>18</td>
+</tr>
+
+<tr>
+<th>Job Type</th>
+<td>Contract Basis (1 Year or Till Alternate Arrangements)</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>20 July 2026 (5:00 PM)</td>
+</tr>
+
+<tr>
+<th>Maximum Age</th>
+<td>50 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹1,42,506 per Month</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.aiims.edu</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Starting Date for Apply Online</td>
+<td>06 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date for Apply Online</td>
+<td>20 July 2026 (5:00 PM)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>General / OBC</td>
+<td>₹3,000</td>
+</tr>
+
+<tr>
+<td>EWS</td>
+<td>₹2,400</td>
+</tr>
+
+<tr>
+<td>SC / ST</td>
+<td>₹2,400 (Refundable for Candidates Appearing in Interview)</td>
+</tr>
+
+<tr>
+<td>PwBD</td>
+<td>Exempted</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The maximum age limit is <strong>50 years</strong>. Age relaxation is applicable as per Government of India
+rules: <strong>SC/ST – 5 years, OBC – 3 years, PwBD – 5 years</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>No. of Posts</th>
+</tr>
+
+<tr><td>Assistant Professor of Gastroenterology</td><td>3</td></tr>
+<tr><td>Assistant Professor of Medical Oncology</td><td>1</td></tr>
+<tr><td>Assistant Professor of Nephrology</td><td>3</td></tr>
+<tr><td>Assistant Professor of Neurosurgery</td><td>3</td></tr>
+<tr><td>Assistant Professor of Nuclear Medicine</td><td>2</td></tr>
+<tr><td>Assistant Professor of Orthopedics</td><td>3</td></tr>
+<tr><td>Assistant Professor of Urology</td><td>3</td></tr>
+
+<tr>
+<th>Total</th>
+<th>18</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post / Discipline</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>General Requirement</td>
+<td>Medical qualification included in Schedule I & II or Part II of the Third Schedule of the Indian
+Medical Council Act, 1956</td>
+</tr>
+
+<tr>
+<td>Gastroenterology / Medical Oncology / Nephrology</td>
+<td>D.M. in the concerned specialty or equivalent qualification after MBBS</td>
+</tr>
+
+<tr>
+<td>Neurosurgery / Urology</td>
+<td>M.Ch. in the concerned specialty or equivalent qualification</td>
+</tr>
+
+<tr>
+<td>Nuclear Medicine</td>
+<td>MD in Nuclear Medicine or equivalent qualification</td>
+</tr>
+
+<tr>
+<td>Orthopedics</td>
+<td>MS in Orthopedics or equivalent qualification</td>
+</tr>
+
+<tr>
+<td>Experience</td>
+<td>Teaching and/or research experience in the concerned specialty from recognised institutions, as per
+post</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will get a consolidated salary of <strong>₹1,42,506 per month</strong>, on a contract basis
+for a period of <strong>1 year</strong> or till alternate arrangements are made.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Screening of Applications</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Shortlisting of Candidates</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Personal Interview</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official AIIMS recruitment website.</li>
+
+<li>Open the online application link.</li>
+
+<li>Register using a valid email ID and mobile number.</li>
+
+<li>Fill in the application form with correct details.</li>
+
+<li>Upload required educational certificates, experience documents and photographs.</li>
+
+<li>Pay the application fee as applicable.</li>
+
+<li>Submit the online application form before the last date.</li>
+
+<li>Keep a printout of the application form for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://www.aiimsexams.ac.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td>
+<a href="https://www.aiims.edu" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.aiims.edu" target="_blank">
+aiims.edu
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is the full form of AIIMS CAPFIMS?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+AIIMS CAPFIMS stands for <strong>All India Institute of Medical Sciences - Central Armed Police Forces
+Institute of Medical Sciences</strong>.
+</p>
+
+<h3>2. How many vacancies are available in AIIMS CAPFIMS Assistant Professor Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>18 vacancies</strong> have been announced across various medical specialties.
+</p>
+
+<h3>3. What is the post name in AIIMS CAPFIMS Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The post is <strong>Assistant Professor</strong> in disciplines including Gastroenterology, Medical Oncology,
+Nephrology, Neurosurgery, Nuclear Medicine, Orthopedics and Urology.
+</p>
+
+<h3>4. What is the qualification required for AIIMS CAPFIMS Assistant Professor Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates should possess the required medical qualification such as <strong>MD, MS, D.M., M.Ch.</strong> or an
+equivalent qualification in the concerned specialty as per the post requirement.
+</p>
+
+<h3>5. What is the age limit for this recruitment?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit is <strong>50 years</strong>, with age relaxation applicable as per Government of India
+rules.
+</p>
+
+<h3>6. What is the salary offered for AIIMS CAPFIMS Assistant Professor posts?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will receive a consolidated salary of <strong>₹1,42,506 per month</strong>.
+</p>
+
+<h3>7. What is the application fee for AIIMS CAPFIMS Assistant Professor Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+General/OBC candidates pay <strong>₹3,000</strong>, EWS and SC/ST candidates pay <strong>₹2,400</strong>, while
+PwBD candidates are <strong>exempted</strong>.
+</p>
+
+<h3>8. What is the last date to apply for AIIMS CAPFIMS Assistant Professor Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to submit the online application is <strong>20 July 2026</strong>, up to 5:00 PM.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>AIIMS CAPFIMS Assistant Professor Recruitment 2026</strong> offers super-specialist doctors a
+valuable opportunity to join AIIMS Delhi on contract with an attractive consolidated salary. Interested
+candidates should complete their online registration and submit the application well before
+<strong>20 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for AIIMS CAPFIMS Assistant Professor Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>20 July 2026</strong>.
+</p>
+
+<a href="https://www.aiimsexams.ac.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=aiims-bhubaneswar-senior-resident-recruitment-2026">AIIMS Bhubaneswar Senior Resident Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=cci-management-trainee-junior-assistant-recruitment-2026">CCI Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AIIMS notification before applying.</p>
+`;
+JOB_CONTENT["cci-management-trainee-junior-assistant-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-09">Published: 09 July 2026</time> |
+Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+CCI Recruitment 2026 – Apply Online for 148 Management Trainee, Junior Assistant & More Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🌾 CCI Recruitment 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>09 July 2026 to 24 July 2026</strong>
+</p>
+
+<a href="https://www.cotcorp.org.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>The Cotton Corporation of India Ltd (CCI)</strong>, a Government of India Undertaking under the
+Ministry of Textiles, has released <strong>Advt. No. DR/CCI/2026</strong>, inviting online applications for
+<strong>148 posts</strong> of Assistant Manager, Management Trainee, Junior Commercial Executive and Junior
+Assistant.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications are open from <strong>09 July 2026</strong> to <strong>24 July 2026</strong> through
+<strong>www.cotcorp.org.in</strong>. Selection is through a <strong>Computer Based Test</strong> (120 MCQs,
+120 minutes) followed by <strong>Document Verification</strong>. Selected candidates will get an IDA pay scale
+ranging from <strong>₹22,000 to ₹1,40,000</strong> depending on the post.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+CCI Recruitment 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>The Cotton Corporation of India Ltd (CCI)</td>
+</tr>
+
+<tr>
+<th>Advertisement No.</th>
+<td>DR/CCI/2026</td>
+</tr>
+
+<tr>
+<th>Post Names</th>
+<td>Assistant Manager, Management Trainee, Junior Commercial Executive, Junior Assistant</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>148</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>24 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 32 Years (Post Wise)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹22,000 – ₹1,40,000 (IDA)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.cotcorp.org.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Opening Date of Online Registration</td>
+<td>09/07/2026</td>
+</tr>
+
+<tr>
+<td>Closing Date of Online Registration (Last Day of Fee Payment)</td>
+<td>24/07/2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+<th>Intimation Charges</th>
+<th>GST (18%)</th>
+<th>Total</th>
+</tr>
+
+<tr>
+<td>GEN/EWS/OBC</td>
+<td>₹1,000</td>
+<td>₹500</td>
+<td>₹270</td>
+<td>₹1,770</td>
+</tr>
+
+<tr>
+<td>SC/ST/Ex-Servicemen/PwBD</td>
+<td>-</td>
+<td>₹500</td>
+<td>₹90</td>
+<td>₹590</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Payment must be made online only through debit card, credit card or net banking via the SBI payment gateway.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Maximum Age Limit</th>
+</tr>
+
+<tr>
+<td>Assistant Manager (Official Language/IT)</td>
+<td>32 Years</td>
+</tr>
+
+<tr>
+<td>Management Trainee (Marketing/Accounts)</td>
+<td>30 Years</td>
+</tr>
+
+<tr>
+<td>Junior Commercial Executive / Junior Assistant (General/Accounts)</td>
+<td>30 Years</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+The minimum age for all posts is <strong>18 years</strong> as on the date of advertisement. Age relaxation:
+<strong>SC/ST – 5 years, OBC (Non-Creamy Layer) – 3 years, PwBD – 10 years, Ex-Servicemen – 3 years after
+deduction of military service, J&K Domiciled (1980-1989) – 5 years</strong>. Maximum age after cumulative
+relaxation shall not exceed <strong>47 years</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Code</th>
+<th>Name of Post</th>
+<th>Regular</th>
+<th>Backlog</th>
+<th>Total</th>
+</tr>
+
+<tr><td>101</td><td>Assistant Manager (Official Language)</td><td>01 (UR)</td><td>-</td><td>01</td></tr>
+<tr><td>102</td><td>Assistant Manager (Information Technology)</td><td>01 (UR)</td><td>-</td><td>01</td></tr>
+<tr><td>103</td><td>Management Trainee (Marketing)</td><td>7 (SC-2, ST-1, OBC-2, EWS-1, UR-1)</td><td>1 (OBC)</td><td>8</td></tr>
+<tr><td>104</td><td>Management Trainee (Accounts)</td><td>5 (SC-1, OBC-2, EWS-1, UR-1)</td><td>3 (ST)</td><td>8</td></tr>
+<tr><td>105</td><td>Junior Commercial Executive</td><td>50 (SC-7, ST-4, OBC-14, EWS-5, UR-20)</td><td>-</td><td>50</td></tr>
+<tr><td>106</td><td>Junior Assistant (Accounts)</td><td>50 (SC-7, ST-4, OBC-14, EWS-5, UR-20)</td><td>-</td><td>50</td></tr>
+<tr><td>107</td><td>Junior Assistant (General)</td><td>29 (SC-5, ST-2, OBC-8, EWS-3, UR-11)</td><td>1 (ST)</td><td>30</td></tr>
+
+<tr>
+<th colspan="4">Grand Total</th>
+<th>148</th>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Out of the total posts for Junior Commercial Executive, Junior Assistant (Accounts) and Junior Assistant
+(General), <strong>2, 2, and 1 posts</strong> respectively are reserved for PwBD candidates, and
+<strong>7, 7, and 4 posts</strong> respectively are reserved for Ex-Servicemen.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Code</th>
+<th>Post Name</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>101</td>
+<td>Assistant Manager (Official Language)</td>
+<td>Post graduate degree in Hindi with minimum 50% marks in aggregate; should have studied English as one
+subject up to graduation and be well conversant in Hindi. Hindi translation qualification and MBA are added
+advantages. Minimum 1 year experience.</td>
+</tr>
+
+<tr>
+<td>102</td>
+<td>Assistant Manager (Information Technology)</td>
+<td>BE (IT/CS), MCA, or MBA/PGDM with specialization in IT/System with minimum 50% marks in aggregate;
+minimum 1 year experience in a reputed public/private sector organization.</td>
+</tr>
+
+<tr>
+<td>103</td>
+<td>Management Trainee (Marketing)</td>
+<td>MBA in Agri Business Management/Agriculture related Management equivalent to MBA.</td>
+</tr>
+
+<tr>
+<td>104</td>
+<td>Management Trainee (Accounts)</td>
+<td>CA/CMA</td>
+</tr>
+
+<tr>
+<td>105</td>
+<td>Junior Commercial Executive</td>
+<td>B.Sc Agriculture from a recognized University with 50% marks in aggregate (45% for SC/ST/PwBD
+candidates).</td>
+</tr>
+
+<tr>
+<td>106</td>
+<td>Junior Assistant (Accounts)</td>
+<td>B.Com from a recognized University with 50% marks in aggregate (45% for SC/ST/PwBD candidates).</td>
+</tr>
+
+<tr>
+<td>107</td>
+<td>Junior Assistant (General)</td>
+<td>Any Graduate from a recognized University with 50% marks in aggregate (45% for SC/ST/PwBD candidates).</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary / Pay Scale
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Pay Scale (IDA)</th>
+</tr>
+
+<tr>
+<td>Assistant Manager (Official Language)</td>
+<td>₹40,000 - ₹1,40,000</td>
+</tr>
+
+<tr>
+<td>Assistant Manager (Information Technology)</td>
+<td>₹40,000 - ₹1,40,000</td>
+</tr>
+
+<tr>
+<td>Management Trainee (Marketing)</td>
+<td>₹30,000 - ₹1,20,000</td>
+</tr>
+
+<tr>
+<td>Management Trainee (Accounts)</td>
+<td>₹30,000 - ₹1,20,000</td>
+</tr>
+
+<tr>
+<td>Junior Commercial Executive</td>
+<td>₹22,000 - ₹90,000</td>
+</tr>
+
+<tr>
+<td>Junior Assistant (Accounts)</td>
+<td>₹22,000 - ₹90,000</td>
+</tr>
+
+<tr>
+<td>Junior Assistant (General)</td>
+<td>₹22,000 - ₹90,000</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Selected candidates will be on probation for <strong>12 months</strong> and must execute a service bond to
+serve a minimum of <strong>3 years</strong> in the Corporation, or pay 3 months' basic pay in lieu thereof.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Selection will be made through a <strong>Computer Based Test</strong> followed by <strong>Document
+Verification</strong>.
+</p>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>The written test consists of <strong>120 objective-type MCQs</strong> to be completed in
+<strong>120 minutes</strong>.</li>
+
+<li><strong>1 mark</strong> is awarded for each correct answer, with <strong>0.25 marks</strong> deducted for
+each wrong answer.</li>
+
+<li>The test covers <strong>General English, Reasoning, Quantitative Aptitude, General Knowledge, Computer
+Proficiency</strong> (post-wise) and <strong>Subject Knowledge</strong> specific to the post.</li>
+
+</ul>
+
+<h3 style="font-size:26px;margin-top:25px;">Minimum Qualifying Percentage</h3>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Minimum Qualifying Percentage</th>
+</tr>
+
+<tr>
+<td>UR/EWS/OBC</td>
+<td>40%</td>
+</tr>
+
+<tr>
+<td>SC/ST/PwBD/Ex-Servicemen</td>
+<td>35%</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Examinations will be conducted in <strong>Mumbai/Navi Mumbai, Hyderabad, New Delhi, Chennai, Lucknow,
+Chandigarh, Kolkata, Bengaluru, Ahmedabad, Patna and Jaipur</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Documents Required
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li>Recent passport size color photograph</li>
+
+<li>Recent scanned signature</li>
+
+<li>10th class certificate/mark sheet</li>
+
+<li>12th class certificate/mark sheet</li>
+
+<li>Essential qualification degree certificate</li>
+
+<li>Additional qualification degree certificate (if any)</li>
+
+<li>Experience certificate (if applicable)</li>
+
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website www.cotcorp.org.in and click on the "Recruitment" link.</li>
+
+<li>Read the advertisement carefully and verify eligibility for the post.</li>
+
+<li>Click "Enter" and fill in the online application form with personal, educational and other required
+details.</li>
+
+<li>Upload scanned copies of photograph, signature and required certificates.</li>
+
+<li>Preview the application form and read the declaration before submission.</li>
+
+<li>Pay the applicable application fee/intimation charges through the online payment gateway.</li>
+
+<li>Take a printout of the application form and the fee payment receipt for future reference.</li>
+
+</ol>
+
+<p style="font-size:20px;line-height:1.9;">
+Note: The online application, once submitted, cannot be altered or withdrawn under any circumstances.
+Candidates can apply for <strong>only one post</strong>; multiple applications will be summarily rejected.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Official Notification PDF</td>
+<td>
+<a href="https://www.cotcorp.org.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Apply Online</td>
+<td>
+<a href="https://www.cotcorp.org.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.cotcorp.org.in" target="_blank">
+cotcorp.org.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. What is CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+CCI Recruitment 2026 is a notification released by The Cotton Corporation of India Ltd for
+<strong>148 vacancies</strong> across Assistant Manager, Management Trainee, Junior Commercial Executive and
+Junior Assistant posts.
+</p>
+
+<h3>2. What is the total number of vacancies in CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+There are a total of <strong>148 vacancies</strong> across seven posts.
+</p>
+
+<h3>3. When can I apply for CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications can be submitted from <strong>09/07/2026 to 24/07/2026</strong>.
+</p>
+
+<h3>4. What is the application fee for CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹1,770</strong> for GEN/EWS/OBC candidates and <strong>₹590</strong> for
+SC/ST/Ex-Servicemen/PwBD candidates.
+</p>
+
+<h3>5. What is the age limit for CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The maximum age limit ranges from <strong>30 to 32 years</strong> depending on the post, as on the date of
+advertisement.
+</p>
+
+<h3>6. What is the selection process for CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection will be based on a <strong>Computer Based Test</strong> followed by
+<strong>Document Verification</strong>.
+</p>
+
+<h3>7. What is the salary for posts under CCI Recruitment 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Salary ranges from <strong>₹22,000 to ₹1,40,000 (IDA)</strong> depending on the post.
+</p>
+
+<h3>8. Where will the CCI Recruitment 2026 exam be conducted?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The examination will be conducted in <strong>Mumbai/Navi Mumbai, Hyderabad, New Delhi, Chennai, Lucknow,
+Chandigarh, Kolkata, Bengaluru, Ahmedabad, Patna and Jaipur</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>CCI Recruitment 2026</strong> offers a great career opportunity for graduates, postgraduates and
+professionals to join a Government of India Undertaking with competitive IDA pay scales. Interested candidates
+should carefully check their eligibility and submit the online application well before
+<strong>24 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for CCI Recruitment 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>24 July 2026</strong>.
+</p>
+
+<a href="https://www.cotcorp.org.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=aiims-capfims-assistant-professor-recruitment-2026">AIIMS CAPFIMS Assistant Professor Recruitment 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=nhidcl-associate-recruitment-2026">NHIDCL Associate Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=pdil-engineer-recruitment-2026">PDIL Engineer Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CCI notification before applying.</p>
+`;
 JOB_CONTENT["indian-army-68th-sscw-tech-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
