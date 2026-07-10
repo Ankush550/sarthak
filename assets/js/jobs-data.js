@@ -1,6 +1,192 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"idbi-bank-specialist-officer-recruitment-2026",
+    orgWebsite:"https://idbi.bank.in",
+    title:"IDBI Bank Specialist Officer Vacancy 2026",
+    shortTitle:"IDBI Bank SO Online Form 2026",
+    organization:"IDBI Bank Ltd.",
+    image:"IDBIBankSO.jpeg",
+
+    totalPosts:31,
+
+    lastDate:"2026-07-26",
+    lastDateDisplay:"26 July 2026",
+
+    datePosted:"2026-07-10",
+    validThrough:"2026-07-26T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:64820,
+    salaryMax:120940,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Graduation (Post Wise: B.E./B.Tech, LLB, CISA etc. with Relevant Experience)",
+
+    ageLimit:"25 to 45 Years",
+
+    applyLink:"https://idbi.bank.in",
+    officialNotification:"https://idbi.bank.in",
+
+    fee:"SC/ST/PwBD: Rs. 250 | General/OBC/EWS: Rs. 1,050",
+
+    description:"IDBI Bank Ltd. has released the official notification for Specialist Officer Recruitment 2026, inviting applications for 31 posts including Deputy General Manager (Grade D), Assistant General Manager (Grade C) and Manager (Grade B). Online applications will start on 14 July 2026 and close on 26 July 2026. Vacancies span Audit (Information System), Infrastructure Management, Legal and Security Officer functional areas, each requiring 4 to 10 years of relevant experience. Selection includes screening, shortlisting, document verification, group discussion (if conducted), personal interview, medical examination and final merit list. Selected candidates will get an approximate monthly gross salary of Rs. 1.29 lakh to Rs. 2.04 lakh depending on the grade.",
+
+    category:"Bank Jobs",
+    jobType:"Specialist Officer (DGM, AGM & Manager)",
+
+    advertisementNo:"03/2026-27",
+
+    applicationStartDate:"2026-07-14",
+    applicationEndDate:"2026-07-26",
+
+    examDate:"Not Applicable",
+    interviewDate:"Personal Interview (As Per Schedule)",
+
+    postDetails:[
+        {postName:"Audit - Information System (AGM)", totalPosts:4},
+        {postName:"Audit - Information System (Manager)", totalPosts:6},
+        {postName:"Infrastructure Management (DGM)", totalPosts:5},
+        {postName:"Infrastructure Management (Manager)", totalPosts:3},
+        {postName:"Legal (DGM)", totalPosts:3},
+        {postName:"Legal (Manager)", totalPosts:6},
+        {postName:"Security Officer (Manager)", totalPosts:4}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"chhattisgarh-high-court-recruitment-2026",
+    orgWebsite:"https://highcourt.cg.gov.in",
+    title:"Chhattisgarh High Court Vacancy 2026",
+    shortTitle:"CG High Court Online Form 2026",
+    organization:"Chhattisgarh High Court, Bilaspur",
+    image:"CGHighCourt.jpeg",
+
+    totalPosts:58,
+
+    lastDate:"2026-08-10",
+    lastDateDisplay:"10 August 2026",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-08-10T17:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:19500,
+    salaryMax:62000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bilaspur, Chhattisgarh",
+    addressLocality:"Bilaspur",
+    addressRegion:"Chhattisgarh",
+    addressCountry:"IN",
+
+    qualification:"8th Pass / 10th Pass / 12th Pass (Post Wise)",
+
+    ageLimit:"18 to 30 Years",
+
+    applyLink:"https://highcourt.cg.gov.in",
+    officialNotification:"https://highcourt.cg.gov.in",
+
+    fee:"Not Mentioned",
+
+    description:"Chhattisgarh High Court, Bilaspur has released the official notification for 58 posts including Staff Car Driver, Lift Man and Contingency Fund Employee. Applications are offline; candidates must send the filled form via Speed Post only, to be received on or before 10 August 2026 (5:00 PM). Qualification requirements vary by post: 10th Pass with Commercial Driving Licence for Driver, 12th Pass with ITI in Wireman/Electrician for Lift Man, and only 8th Pass for Contingency Fund Employee. Selection includes a Written Examination, Practical/Skill Test, Document Verification and Medical Examination. Selected candidates will get Rs. 19,500 to Rs. 62,000 per month (Pay Level-4) for Driver and Lift Man posts, while Contingency Fund Employees get a daily wage fixed by the Collector.",
+
+    category:"Chhattisgarh Government Jobs",
+    jobType:"Staff Car Driver, Lift Man, Contingency Fund Employee",
+
+    advertisementNo:"04/2026",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-08-10",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Staff Car Driver", totalPosts:17},
+        {postName:"Lift Man", totalPosts:7},
+        {postName:"Contingency Fund Employee", totalPosts:34}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"mgm-hospital-junior-resident-recruitment-2026",
+    orgWebsite:"https://mgmmedicalcollege.org",
+    title:"MGM Hospital Vacancy 2026",
+    shortTitle:"MGM Hospital Junior Resident Offline Form 2026",
+    organization:"MGM Medical College Hospital, Jamshedpur",
+    image:"MGMHospital.jpeg",
+
+    totalPosts:54,
+
+    lastDate:"2026-07-13",
+    lastDateDisplay:"13 July 2026",
+
+    datePosted:"2026-07-01",
+    validThrough:"2026-07-13T15:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:15000,
+    salaryMax:25000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Jamshedpur, Jharkhand",
+    addressLocality:"Jamshedpur",
+    addressRegion:"Jharkhand",
+    addressCountry:"IN",
+
+    qualification:"MBBS / BDS",
+
+    ageLimit:"As Per NMC & Government Rules",
+
+    applyLink:"https://mgmmedicalcollege.org",
+    officialNotification:"https://mgmmedicalcollege.org",
+
+    fee:"Not Mentioned",
+
+    description:"MGM Medical College Hospital, Jamshedpur has invited offline applications for 54 posts of Junior Resident (Non-Academic). Candidates with an MBBS or BDS degree and permanent registration with the Jharkhand State Medical Council can apply. The last date to submit the application is 13 July 2026 (3:00 PM), followed by Document Verification on 14 July 2026 and Counselling on 15 July 2026. There is no written exam; selection is based on application scrutiny, document verification and counselling. Selected candidates will get an approximate monthly remuneration of Rs. 15,000 to Rs. 25,000 for an initial appointment of 1 year.",
+
+    category:"Medical Jobs",
+    jobType:"Junior Resident (Non-Academic)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-01",
+    applicationEndDate:"2026-07-13",
+
+    examDate:"Not Applicable",
+    interviewDate:"15 July 2026 (Counselling)",
+
+    postDetails:[
+        {category:"General (UR)", totalPosts:24},
+        {category:"Economically Weaker Section (EWS)", totalPosts:5},
+        {category:"Scheduled Tribe (ST)", totalPosts:11},
+        {category:"Scheduled Caste (SC)", totalPosts:4},
+        {category:"Backward Class-I (BC-I)", totalPosts:6},
+        {category:"Backward Class-II (BC-II)", totalPosts:4}
+    ],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"hppsc-police-constable-recruitment-2026",
     orgWebsite:"https://www.hppsc.hp.gov.in",
     title:"HPPSC Police Constable Vacancy 2026",

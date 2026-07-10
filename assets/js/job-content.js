@@ -1,5 +1,1706 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["mgm-hospital-junior-resident-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+MGM Hospital Vacancy 2026 – Apply Offline for 54 Junior Resident Posts
+</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#e65100;">
+🏥 MGM Hospital Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:#e65100;font-weight:bold;">Applications Closing Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>13 July 2026</strong>
+</p>
+
+<a href="https://mgmmedicalcollege.org"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>MGM Medical College Hospital, Jamshedpur</strong> has invited offline applications for
+<strong>54 posts</strong> of <strong>Junior Resident (Non-Academic)</strong>, offering an excellent opportunity
+for medical graduates in Jharkhand to work at a government hospital.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates with an <strong>MBBS or BDS</strong> degree and permanent registration with the
+<strong>Jharkhand State Medical Council</strong> can apply. The last date to submit the application is
+<strong>13 July 2026 (3:00 PM)</strong>, followed by <strong>Document Verification on 14 July 2026</strong> and
+<strong>Counselling on 15 July 2026</strong>. There is no written exam; selection is based on application
+scrutiny, document verification and counselling.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+MGM Hospital Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>MGM Medical College Hospital, Jamshedpur</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Junior Resident (Non-Academic)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>54</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Offline</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>13 July 2026 (3:00 PM)</td>
+</tr>
+
+<tr>
+<th>Document Verification</th>
+<td>14 July 2026 (11:00 AM)</td>
+</tr>
+
+<tr>
+<th>Counselling</th>
+<td>15 July 2026 (12:00 PM)</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹15,000 – ₹25,000 (Approx.)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>mgmmedicalcollege.org</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>13 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+No application fee has been mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+The age limit is <strong>as per NMC and Government rules</strong>. No specific age has been mentioned in the
+official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>General (UR)</td><td>24</td></tr>
+<tr><td>Economically Weaker Section (EWS)</td><td>5</td></tr>
+<tr><td>Scheduled Tribe (ST)</td><td>11</td></tr>
+<tr><td>Scheduled Caste (SC)</td><td>4</td></tr>
+<tr><td>Backward Class-I (BC-I)</td><td>6</td></tr>
+<tr><td>Backward Class-II (BC-II)</td><td>4</td></tr>
+
+<tr>
+<th>Total Vacancies</th>
+<th>54</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Criteria</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Educational Qualification</td>
+<td>MBBS or BDS Degree</td>
+</tr>
+
+<tr>
+<td>University</td>
+<td>Recognized Medical/Dental University</td>
+</tr>
+
+<tr>
+<td>Medical Registration</td>
+<td>Permanent Registration with Jharkhand State Medical Council</td>
+</tr>
+
+<tr>
+<td>Internship</td>
+<td>Internship must be completed</td>
+</tr>
+
+<tr>
+<td>Internship Eligibility</td>
+<td>Candidate should apply within 4 years of Internship Completion</td>
+</tr>
+
+<tr>
+<td>Preference</td>
+<td>MGM Medical College Graduates completing Internship recently will be given preference</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Post Name</td>
+<td>Junior Resident (Non-Academic)</td>
+</tr>
+
+<tr>
+<td>Salary</td>
+<td>As Per Jharkhand Government Rules / NMC Guidelines (Approx. ₹15,000 – ₹25,000)</td>
+</tr>
+
+<tr>
+<td>Pay Structure</td>
+<td>Monthly Remuneration</td>
+</tr>
+
+<tr>
+<td>Allowances</td>
+<td>As Per Government Rules</td>
+</tr>
+
+<tr>
+<td>Initial Appointment</td>
+<td>1 Year</td>
+</tr>
+
+<tr>
+<td>Contract Extension</td>
+<td>Based on Performance & Hospital Requirement</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+Note: The official notification has not disclosed the exact salary amount.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Process</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Submission of Offline Application</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Scrutiny of Application Forms</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Counselling</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Department-wise Seat Allotment</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Final Selection</td>
+</tr>
+
+<tr>
+<td>Stage 7</td>
+<td>Appointment as Junior Resident</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply (Offline)
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Download or collect the prescribed Offline Application Form.</li>
+
+<li>Fill in all personal, educational and registration details carefully.</li>
+
+<li>Attach self-attested copies of all required documents.</li>
+
+<li>Paste recent passport-size photographs in the application form.</li>
+
+<li>Submit the completed application form to the prescribed office before 13 July 2026 (03:00 PM).</li>
+
+<li>Attend the Document Verification on 14 July 2026 at 11:00 AM with all original documents.</li>
+
+<li>Appear for the Counselling on 15 July 2026 at 12:00 PM.</li>
+
+<li>After successful verification and counselling, complete the joining formalities if selected.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://mgmmedicalcollege.org" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://mgmmedicalcollege.org" target="_blank">
+mgmmedicalcollege.org
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in MGM Hospital Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+MGM Medical College Hospital, Jamshedpur has released <strong>54 posts</strong> of Junior Resident
+(Non-Academic).
+</p>
+
+<h3>2. Who can apply for MGM Hospital Junior Resident Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates with an <strong>MBBS or BDS</strong> degree and permanent registration with the
+<strong>Jharkhand State Medical Council</strong> can apply. Completed internship is mandatory.
+</p>
+
+<h3>3. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The offline application must be submitted on or before <strong>13 July 2026 (3:00 PM)</strong>.
+</p>
+
+<h3>4. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes application scrutiny, <strong>document verification, counselling, department-wise seat
+allotment</strong> and final selection. There is <strong>no written examination</strong>.
+</p>
+
+<h3>5. When will document verification and counselling be held?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Document Verification will be held on <strong>14 July 2026 (11:00 AM)</strong>, and Counselling on
+<strong>15 July 2026 (12:00 PM)</strong>.
+</p>
+
+<h3>6. Is there any application fee for MGM Hospital Junior Resident Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No application fee has been mentioned in the official notification for any category.
+</p>
+
+<h3>7. How long is the MGM Hospital Junior Resident job?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The initial appointment is for <strong>1 year</strong>. It may be extended based on performance and hospital
+requirement.
+</p>
+
+<h3>8. Can fresh MBBS/BDS candidates apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, if the candidate has completed internship and is applying within <strong>4 years</strong> of internship
+completion, they may be eligible to apply.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>MGM Hospital Vacancy 2026</strong> is a valuable opportunity for MBBS/BDS graduates in Jharkhand to
+join a government medical college hospital. Interested candidates should prepare their documents and submit the
+application well before <strong>13 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for MGM Hospital Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your offline application before <strong>13 July 2026</strong>.
+</p>
+
+<a href="https://mgmmedicalcollege.org"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=chhattisgarh-high-court-recruitment-2026">Chhattisgarh High Court Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=aiims-bhubaneswar-senior-resident-recruitment-2026">AIIMS Bhubaneswar Senior Resident Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MGM Medical College notification before applying.</p>
+`;
+JOB_CONTENT["chhattisgarh-high-court-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+Chhattisgarh High Court Vacancy 2026 – Apply Offline for 58 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+⚖️ Chhattisgarh High Court Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Applications Open</span>
+</p>
+
+<p style="font-size:19px;">
+Last Date to Apply :
+<strong>10 August 2026 (5:00 PM)</strong>
+</p>
+
+<a href="https://highcourt.cg.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Check Notification →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Chhattisgarh High Court, Bilaspur</strong> has released the official notification for
+<strong>58 posts</strong>, including <strong>Staff Car Driver, Lift Man</strong> and
+<strong>Contingency Fund Employee</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+The application process is <strong>offline</strong>; candidates must send the filled application form via
+<strong>Speed Post only</strong>, to be received on or before <strong>10 August 2026 (5:00 PM)</strong>.
+Qualification requirements vary by post: <strong>10th Pass</strong> with a valid Commercial Driving Licence for
+Driver, <strong>12th Pass</strong> with ITI in Wireman/Electrician for Lift Man, and only
+<strong>8th Pass</strong> for Contingency Fund Employee. Selected candidates will get
+<strong>₹19,500 to ₹62,000</strong> per month for Driver and Lift Man posts.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Chhattisgarh High Court Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Chhattisgarh High Court, Bilaspur</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Staff Car Driver, Lift Man, Contingency Fund Employee</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>58</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Offline (Speed Post Only)</td>
+</tr>
+
+<tr>
+<th>Notification Release</th>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date to Apply</th>
+<td>10 August 2026 (5:00 PM)</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 30 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹19,500 – ₹62,000 (Driver & Lift Man), Daily Wage (Contingency Fund Employee)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>highcourt.cg.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>09 July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>10 August 2026 (5:00 PM)</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+No application fee has been mentioned in the official notification.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 30 years</strong> of age. Qualification is
+<strong>8th Pass, 10th Pass or 12th Pass</strong> depending on the post applied for.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Post-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>UR</th>
+<th>SC</th>
+<th>ST</th>
+<th>OBC</th>
+<th>Total Posts</th>
+<th>Pay Level</th>
+</tr>
+
+<tr>
+<td>Staff Car Driver</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>17</td>
+<td>Level-4</td>
+</tr>
+
+<tr>
+<td>Lift Man</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>7</td>
+<td>Level-4</td>
+</tr>
+
+<tr>
+<td>Contingency Fund Employee</td>
+<td>17</td>
+<td>5</td>
+<td>7</td>
+<td>5</td>
+<td>34</td>
+<td>Daily Wage</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>28</th>
+<th>8</th>
+<th>13</th>
+<th>9</th>
+<th>58</th>
+<th>—</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Required Qualification</th>
+</tr>
+
+<tr>
+<td>Staff Car Driver</td>
+<td>10th Pass from a recognized board with a valid Transport (Commercial) Driving Licence and driving
+experience. Mechanical knowledge is desirable.</td>
+</tr>
+
+<tr>
+<td>Lift Man</td>
+<td>12th Pass with ITI in Wireman/Electrician Trade from a Government-recognized institute. Lift operation
+experience is preferred.</td>
+</tr>
+
+<tr>
+<td>Contingency Fund Employee</td>
+<td>Only 8th Pass from a recognized school. Candidates having qualification above 8th Pass are not
+eligible.</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Salary</th>
+</tr>
+
+<tr>
+<td>Staff Car Driver</td>
+<td>₹19,500 – ₹62,000 per month (Pay Level-4)</td>
+</tr>
+
+<tr>
+<td>Lift Man</td>
+<td>₹19,500 – ₹62,000 per month (Pay Level-4)</td>
+</tr>
+
+<tr>
+<td>Contingency Fund Employee</td>
+<td>Daily Wage as fixed by the Collector, Bilaspur</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post Name</th>
+<th>Selection Process</th>
+</tr>
+
+<tr>
+<td>Staff Car Driver</td>
+<td>Written Examination → Practical Driving Test → Document Verification → Medical Examination</td>
+</tr>
+
+<tr>
+<td>Lift Man</td>
+<td>Written Examination → Practical Test → Document Verification → Medical Examination</td>
+</tr>
+
+<tr>
+<td>Contingency Fund Employee</td>
+<td>Skill Test → Document Verification → Medical Examination</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern – Staff Car Driver
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>Motor Vehicle Act & Driving Knowledge</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Practical Driving Test</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Bonus Marks (Mechanic Certificate)</td>
+<td>5</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Minimum Qualifying Marks:</strong> 33% (Written), 40 Marks (Practical)
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern – Lift Man
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Subject</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>Wiring, Electrician & Lift Operation</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Practical Test</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Bonus Marks (Lift Experience Certificate)</td>
+<td>10</td>
+</tr>
+
+</table>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Minimum Qualifying Marks:</strong> 33% (Written), 40 Marks (Practical)
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Exam Pattern – Contingency Fund Employee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Test</th>
+<th>Marks</th>
+</tr>
+
+<tr>
+<td>Skill Test</td>
+<td>As Decided by High Court</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply (Offline)
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official website of Chhattisgarh High Court.</li>
+
+<li>Download the application form for the desired post.</li>
+
+<li>Fill the application form carefully in block letters or type it.</li>
+
+<li>Paste a recent passport-size photograph.</li>
+
+<li>Attach self-attested copies of all required documents.</li>
+
+<li>Attach caste, domicile, experience and other certificates (if applicable).</li>
+
+<li>Contingency Fund Employee applicants must attach the required notarized affidavit.</li>
+
+<li>Put the application form and documents in a sealed envelope.</li>
+
+<li>Write the Post Name, Advertisement No. 04/2026, and Notification Date on the envelope.</li>
+
+<li>Send the envelope only through Speed Post to the Registrar General, Chhattisgarh High Court,
+Bilaspur.</li>
+
+<li>Ensure that the application reaches the office on or before 10 August 2026 (5:00 PM).</li>
+
+</ol>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Important:</strong> Applications must reach the office on or before <strong>10 August 2026 by
+5:00 PM</strong> through Speed Post only.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Application Form</td>
+<td>
+<a href="https://highcourt.cg.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://highcourt.cg.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://highcourt.cg.gov.in" target="_blank">
+highcourt.cg.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in Chhattisgarh High Court Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>58 posts</strong> will be filled, including Staff Car Driver, Lift Man and Contingency Fund
+Employee.
+</p>
+
+<h3>2. How to apply for Chhattisgarh High Court Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must apply <strong>offline</strong>. The filled application form along with required documents must
+be sent via <strong>Speed Post only</strong>.
+</p>
+
+<h3>3. What is the last date to apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date for the offline application to reach the office is <strong>10 August 2026 (5:00 PM)</strong>.
+Applications received after this will not be accepted.
+</p>
+
+<h3>4. What is the educational qualification for Chhattisgarh High Court Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can apply as per post: <strong>8th Pass, 10th Pass or 12th Pass</strong>. A Commercial Driving
+Licence is mandatory for Driver, and ITI is mandatory for Lift Man.
+</p>
+
+<h3>5. What is the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+For Staff Car Driver and Lift Man, selection includes a <strong>Written Examination, Practical Test, Document
+Verification</strong> and <strong>Medical Examination</strong>. For Contingency Fund Employee, selection is
+based on a <strong>Skill Test</strong>.
+</p>
+
+<h3>6. What salary will selected candidates get?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Staff Car Driver and Lift Man will get <strong>₹19,500 to ₹62,000</strong> per month (Pay Level-4), while
+Contingency Fund Employee will get a <strong>daily wage</strong> fixed by the Collector, Bilaspur.
+</p>
+
+<h3>7. Can candidates from other states apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, candidates from other states can apply, but reservation benefits are only applicable to permanent
+residents of Chhattisgarh.
+</p>
+
+<h3>8. Can 10th or 12th pass candidates apply for the Contingency Fund Employee post?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. Only <strong>8th Pass</strong> candidates are eligible for this post. Candidates with qualification above
+8th Pass are not eligible.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>Chhattisgarh High Court Vacancy 2026</strong> offers a good opportunity for 8th, 10th and 12th pass
+candidates to secure a government job at the High Court, Bilaspur. Interested candidates should prepare their
+documents and send the application via Speed Post well before <strong>10 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for Chhattisgarh High Court Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Send your application before <strong>10 August 2026</strong>.
+</p>
+
+<a href="https://highcourt.cg.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Check Notification
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=mgm-hospital-junior-resident-recruitment-2026">MGM Hospital Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=idbi-bank-specialist-officer-recruitment-2026">IDBI Bank Specialist Officer Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=hppsc-police-constable-recruitment-2026">HPPSC Police Constable Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Chhattisgarh High Court notification before applying.</p>
+`;
+JOB_CONTENT["idbi-bank-specialist-officer-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+IDBI Bank Specialist Officer Vacancy 2026 – Apply Online for 31 Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+🏦 IDBI Bank Specialist Officer Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:orange;font-weight:bold;">Applications Open Soon</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>14 July 2026 to 26 July 2026</strong>
+</p>
+
+<a href="https://idbi.bank.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>IDBI Bank Ltd.</strong> has released the official notification for <strong>Specialist Officer (SO)
+Recruitment 2026</strong>, offering a total of <strong>31 posts</strong> including
+<strong>Deputy General Manager (Grade D), Assistant General Manager (Grade C)</strong> and
+<strong>Manager (Grade B)</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications will start on <strong>14 July 2026</strong> and close on
+<strong>26 July 2026</strong>. Vacancies span <strong>Audit (Information System), Infrastructure Management,
+Legal and Security Officer</strong> functional areas, each requiring relevant work experience. Selected
+candidates will get an approximate monthly gross salary of <strong>₹1.29 lakh to ₹2.04 lakh</strong> depending
+on the grade.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+IDBI Bank Specialist Officer Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>IDBI Bank Ltd.</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Specialist Officer (DGM, AGM & Manager)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>31</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>14 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>26 July 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>25 to 45 Years</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹64,820 – ₹1,20,940 per Month (Basic)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>idbi.bank.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>14 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>26 July 2026</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>SC / ST / PwBD</td>
+<td>₹250</td>
+</tr>
+
+<tr>
+<td>General / OBC / EWS</td>
+<td>₹1,050</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>25 and 45 years</strong> of age. This recruitment is for
+<strong>experienced candidates only</strong>; each post requires a minimum of 4 to 10 years of relevant work
+experience.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Functional Area-Wise Vacancy Details
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Functional Area</th>
+<th>DGM</th>
+<th>AGM</th>
+<th>Manager</th>
+<th>Total Posts</th>
+</tr>
+
+<tr>
+<td>Audit – Information System</td>
+<td>0</td>
+<td>4</td>
+<td>6</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>Infrastructure Management (Premises)</td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td>8</td>
+</tr>
+
+<tr>
+<td>Legal</td>
+<td>3</td>
+<td>0</td>
+<td>6</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Security Officer</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+</tr>
+
+<tr>
+<th>Grand Total</th>
+<th>8</th>
+<th>4</th>
+<th>19</th>
+<th>31</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Functional Area</th>
+<th>Grade</th>
+<th>Educational Qualification</th>
+<th>Required Experience</th>
+</tr>
+
+<tr>
+<td>Audit – Information System</td>
+<td>AGM (Grade C)</td>
+<td>B.E./B.Tech (IT/CS/Electronics), MCA, M.Tech, M.Sc. or Science Graduate with CISA</td>
+<td>Minimum 7 Years including 4 Years in IS Audit/Cyber Security</td>
+</tr>
+
+<tr>
+<td>Audit – Information System</td>
+<td>Manager (Grade B)</td>
+<td>Same as Above</td>
+<td>Minimum 4 Years including 2 Years in IS Audit</td>
+</tr>
+
+<tr>
+<td>Infrastructure Management (Civil/Electrical)</td>
+<td>DGM (Grade D)</td>
+<td>B.E./B.Tech Civil/Electrical Engineering</td>
+<td>Minimum 10 Years including 7 Years in Engineering Projects</td>
+</tr>
+
+<tr>
+<td>Infrastructure Management</td>
+<td>Manager (Grade B)</td>
+<td>B.E./B.Tech Civil/Electrical Engineering</td>
+<td>Minimum 4 Years Relevant Experience</td>
+</tr>
+
+<tr>
+<td>Legal</td>
+<td>DGM (Grade D)</td>
+<td>Graduation in Law (LLB)</td>
+<td>Minimum 10 Years including 7 Years as Law Officer/Advocate</td>
+</tr>
+
+<tr>
+<td>Legal</td>
+<td>Manager (Grade B)</td>
+<td>Graduation in Law (LLB)</td>
+<td>Minimum 4 Years including 2 Years as Law Officer</td>
+</tr>
+
+<tr>
+<td>Security Officer</td>
+<td>Manager (Grade B)</td>
+<td>Graduation in Any Discipline</td>
+<td>Minimum 4 Years Commissioned Service in Army/Navy/Air Force or Police/Paramilitary</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Grade</th>
+<th>Pay Scale</th>
+<th>Approx. Monthly Gross Salary</th>
+</tr>
+
+<tr>
+<td>Deputy General Manager (Grade D)</td>
+<td>₹1,02,300 – ₹1,20,940</td>
+<td>₹2,04,000</td>
+</tr>
+
+<tr>
+<td>Assistant General Manager (Grade C)</td>
+<td>₹85,920 – ₹1,05,280</td>
+<td>₹1,69,000</td>
+</tr>
+
+<tr>
+<td>Manager (Grade B)</td>
+<td>₹64,820 – ₹93,960</td>
+<td>₹1,29,000</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Stage 1</td>
+<td>Online Application Submission</td>
+</tr>
+
+<tr>
+<td>Stage 2</td>
+<td>Preliminary Screening of Applications</td>
+</tr>
+
+<tr>
+<td>Stage 3</td>
+<td>Shortlisting Based on Qualification & Experience</td>
+</tr>
+
+<tr>
+<td>Stage 4</td>
+<td>Document Verification</td>
+</tr>
+
+<tr>
+<td>Stage 5</td>
+<td>Group Discussion (If Conducted)</td>
+</tr>
+
+<tr>
+<td>Stage 6</td>
+<td>Personal Interview</td>
+</tr>
+
+<tr>
+<td>Stage 7</td>
+<td>Pre-Recruitment Medical Examination</td>
+</tr>
+
+<tr>
+<td>Stage 8</td>
+<td>Final Merit List</td>
+</tr>
+
+<tr>
+<td>Stage 9</td>
+<td>Appointment & Joining</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official IDBI Bank Careers website.</li>
+
+<li>Click on Specialist Officer Recruitment 2026 (Advertisement No. 03/2026-27).</li>
+
+<li>Register using a valid Email ID and Mobile Number.</li>
+
+<li>Complete the online registration process.</li>
+
+<li>Fill in all personal, educational, professional and experience details carefully.</li>
+
+<li>Upload your Photograph, Signature and PDF Resume/CV in the prescribed format.</li>
+
+<li>Pay the application fee through the online payment gateway.</li>
+
+<li>Preview the application form carefully before final submission.</li>
+
+<li>Submit the application form successfully.</li>
+
+<li>Download and print the Application Form and Fee Receipt for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://idbi.bank.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://idbi.bank.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://idbi.bank.in" target="_blank">
+idbi.bank.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in IDBI Bank Specialist Officer Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+IDBI Bank has released a total of <strong>31 posts</strong>, including Deputy General Manager (Grade D),
+Assistant General Manager (Grade C) and Manager (Grade B).
+</p>
+
+<h3>2. When will online applications start for IDBI Bank SO Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start on <strong>14 July 2026</strong>.
+</p>
+
+<h3>3. What is the last date for IDBI Bank SO Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The last date to apply and pay the fee is <strong>26 July 2026</strong>.
+</p>
+
+<h3>4. What is the application fee for IDBI Bank SO Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The fee is <strong>₹250</strong> for SC/ST/PwBD candidates and <strong>₹1,050</strong> for General, OBC and
+EWS candidates.
+</p>
+
+<h3>5. What is the selection process for IDBI Bank Specialist Officer Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selection includes <strong>Preliminary Screening, Document Verification, Group Discussion</strong> (if
+conducted), <strong>Personal Interview, Medical Test</strong> and the Final Merit List.
+</p>
+
+<h3>6. What is the salary of IDBI Bank Specialist Officer?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get an approximate monthly gross salary of <strong>₹1.29 lakh to ₹2.04 lakh</strong>,
+along with DA, HRA, medical facility, pension, leave and other bank allowances.
+</p>
+
+<h3>7. Can fresher candidates apply for IDBI Bank Specialist Officer Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+No. This recruitment is for <strong>experienced candidates</strong> only. Each post requires a minimum of
+<strong>4 to 10 years</strong> of relevant work experience.
+</p>
+
+<h3>8. Which posts are included in IDBI Bank Specialist Officer Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+This recruitment includes <strong>Audit (Information System), Infrastructure Management, Legal</strong> and
+<strong>Security Officer</strong> posts, each with different grades and eligibility criteria.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>IDBI Bank Specialist Officer Vacancy 2026</strong> offers experienced professionals a lucrative
+opportunity to join a leading public sector bank at senior management levels. Interested candidates should
+complete their online registration and submit the application well before <strong>26 July 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for IDBI Bank Specialist Officer Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>26 July 2026</strong>.
+</p>
+
+<a href="https://idbi.bank.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=chhattisgarh-high-court-recruitment-2026">Chhattisgarh High Court Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=hppsc-police-constable-recruitment-2026">HPPSC Police Constable Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=mgm-hospital-junior-resident-recruitment-2026">MGM Hospital Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official IDBI Bank notification before applying.</p>
+`;
 JOB_CONTENT["hppsc-police-constable-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
