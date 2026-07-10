@@ -1,5 +1,840 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UPESSC Assistant Professor Vacancy 2025 Re-Open – Apply for 107 Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🎓 UPESSC Assistant Professor Vacancy 2025 Re-Open</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Re-Open Applications Active</span></p>
+<p style="font-size:19px;">Re-Open Period : <strong>10 July 2026 to 20 July 2026</strong></p>
+<a href="https://upessc.up.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Uttar Pradesh Education Service Selection Commission (UPESSC)</strong> has re-opened the online application window for <strong>Assistant Professor (B.Ed) Direct Recruitment 2025</strong>, offering a total of <strong>107 posts</strong> in Uttar Pradesh's aided colleges. Candidates who could not apply during the earlier window can now apply again from <strong>10 July 2026</strong> to <strong>20 July 2026</strong>.</p>
+
+<p style="font-size:20px;line-height:1.9;">Candidates need a <strong>Master's Degree (55%)</strong> with M.Ed./M.A. Education and B.Ed. (55%), along with <strong>UGC NET (Education)</strong> or <strong>Ph.D.</strong> The written examination is scheduled for <strong>28 July 2026</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Uttar Pradesh Education Service Selection Commission (UPESSC)</td></tr>
+<tr><th>Post Name</th><td>Assistant Professor (B.Ed)</td></tr>
+<tr><th>Total Vacancies</th><td>107</td></tr>
+<tr><th>Original Application Period</th><td>28 April 2026 – 27 May 2026</td></tr>
+<tr><th>Re-Open Period</th><td>10 July 2026 – 20 July 2026</td></tr>
+<tr><th>Written Exam Date</th><td>28 July 2026</td></tr>
+<tr><th>Maximum Age</th><td>62 Years</td></tr>
+<tr><th>Official Website</th><td>upessc.up.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General / OBC</td><td>₹2,000</td></tr>
+<tr><td>SC / ST</td><td>₹1,000</td></tr>
+<tr><td>PH (Divyang)</td><td>₹1,000</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Posts</th></tr>
+<tr><td>General (UR)</td><td>44</td></tr>
+<tr><td>EWS</td><td>07</td></tr>
+<tr><td>OBC</td><td>36</td></tr>
+<tr><td>SC</td><td>20</td></tr>
+<tr><td>ST</td><td>11</td></tr>
+<tr><th>Total</th><th>107</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Qualification Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Criteria</th><th>Required Qualification</th></tr>
+<tr><td>Option 1</td><td>Master's Degree (Science/Maths/Social Science/Humanities) 55% + M.Ed. 55%</td></tr>
+<tr><td>Option 2</td><td>Master's Degree 55% + M.A. (Education) 55% + B.Ed. 55%</td></tr>
+<tr><td>Additional</td><td>Must have qualified UGC NET (Education)</td></tr>
+<tr><td>Alternative to NET</td><td>Ph.D./D.Phil. in Education (UGC Regulations 2009)</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>Stage 1</td><td>Written Examination (100 Questions, 200 Marks, No Negative Marking)</td></tr>
+<tr><td>Stage 2</td><td>Interview (30 Marks)</td></tr>
+<tr><td>Stage 3</td><td>Document Verification</td></tr>
+<tr><td>Stage 4</td><td>Medical Examination</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Section</th><th>Questions</th><th>Marks</th></tr>
+<tr><td>General Knowledge</td><td>30</td><td>60</td></tr>
+<tr><td>Concerned Subject</td><td>70</td><td>140</td></tr>
+<tr><th>Total</th><th>100</th><th>200</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit upessc.up.gov.in and click on Assistant Professor (B.Ed) Direct Recruitment 2025.</li>
+<li>Complete New Registration (first-time applicants).</li>
+<li>Login using Registration ID and Password.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Pay the fee via Debit Card, Credit Card, Net Banking or UPI.</li>
+<li>Submit and download the final application form.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://upessc.up.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upessc.up.gov.in" target="_blank">upessc.up.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Frequently Asked Questions (FAQs)</h2>
+<h3>1. What is the last date to apply for UPESSC Assistant Professor Re-Open 2025?</h3>
+<p style="font-size:20px;line-height:1.8;">The re-open application window closes on <strong>20 July 2026</strong>.</p>
+<h3>2. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>107 posts</strong> for Assistant Professor (B.Ed) are available.</p>
+<h3>3. What is the qualification required?</h3>
+<p style="font-size:20px;line-height:1.8;">A Master's degree (55%) with M.Ed./M.A. Education and B.Ed. (55%), plus UGC NET (Education) or Ph.D.</p>
+<h3>4. When is the written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">The written examination is scheduled for <strong>28 July 2026</strong>.</p>
+<h3>5. What is the application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">₹2,000 for General/OBC and ₹1,000 for SC/ST/PH candidates.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UPESSC Assistant Professor Re-Open 2025</strong> gives candidates a second chance to secure a permanent teaching position in Uttar Pradesh. Complete your application before <strong>20 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for UPESSC Assistant Professor 2025</h2>
+<p style="font-size:19px;margin:15px 0;">Submit your application before <strong>20 July 2026</strong>.</p>
+<a href="https://upessc.up.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=hppsc-police-constable-recruitment-2026">HPPSC Police Constable Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=jharkhand-anganwadi-sevika-sahayika-recruitment-2026">Jharkhand Anganwadi Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPESSC notification before applying.</p>
+`;
+
+JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Jharkhand Anganwadi Vacancy 2026 – District-Wise Recruitment for Sevika & Sahayika</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">👩‍👧 Jharkhand Anganwadi Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">District-Wise Applications Ongoing</span></p>
+<a href="https://jharkhand.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">The <strong>Women, Child Development & Social Security Department, Jharkhand</strong> has started <strong>district-wise recruitment</strong> for <strong>Anganwadi Sevika</strong> and <strong>Anganwadi Sahayika</strong> posts. Notifications for <strong>Godda, Giridih and Dhanbad</strong> districts have already been released, with more districts to follow in phases.</p>
+
+<p style="font-size:20px;line-height:1.9;">Applications are <strong>offline</strong>; only eligible women from the concerned Anganwadi catchment area can apply. There is <strong>no written examination</strong> — selection is based on <strong>Gram Sabha, document verification and merit</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Women, Child Development & Social Security Department, Jharkhand</td></tr>
+<tr><th>Post Name</th><td>Anganwadi Sevika, Anganwadi Sahayika</td></tr>
+<tr><th>Total Vacancies</th><td>500+ (Expected, District-Wise)</td></tr>
+<tr><th>Application Mode</th><td>Offline</td></tr>
+<tr><th>Age Limit</th><td>18 to 35 Years</td></tr>
+<tr><th>Qualification</th><td>12th Pass (Sevika), 10th Pass (Sahayika)</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Godda District – Panchayat-Wise Gram Sabha Schedule (Sample)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Panchayat</th><th>Post</th><th>Gram Sabha Date</th><th>Time</th></tr>
+<tr><td>Badi Kalyani</td><td>Sahayika</td><td>02 July 2026</td><td>10:00 AM</td></tr>
+<tr><td>Markhan</td><td>Sevika</td><td>03 July 2026</td><td>10:00 AM</td></tr>
+<tr><td>Adhisoochit</td><td>Sevika</td><td>04 July 2026</td><td>10:00 AM</td></tr>
+<tr><td>Amlo</td><td>Sevika / Sahayika</td><td>07 July 2026</td><td>10:00 AM / 1:00 PM</td></tr>
+<tr><td>Gaychhand</td><td>Sahayika / Sevika</td><td>13 July 2026</td><td>10:00 AM / 1:00 PM</td></tr>
+<tr><td>Saidpur</td><td>Sahayika</td><td>17 July 2026</td><td>10:00 AM / 1:00 PM</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Giridih District – Sample Schedule</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Panchayat/Ward</th><th>Post</th><th>Date</th><th>Time</th></tr>
+<tr><td>Leda</td><td>Sahayika</td><td>07-07-2026</td><td>09:00 AM</td></tr>
+<tr><td>Pindatand</td><td>Sevika</td><td>07-07-2026</td><td>01:00 PM</td></tr>
+<tr><td>Barmoriya</td><td>Sahayika / Sevika</td><td>10 & 13-07-2026</td><td>09:00 AM</td></tr>
+<tr><td>Ward No. 33 & 34</td><td>Sevika & Sahayika</td><td>14-07-2026</td><td>09:00 AM</td></tr>
+<tr><td>Jeetpur Pahadpur / Domasingha</td><td>Sevika & Sahayika</td><td>28-07-2026</td><td>10:00 AM</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Dhanbad District – Sample Schedule</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Ward</th><th>Post</th><th>Date</th><th>Time</th></tr>
+<tr><td>Ward-31</td><td>Sevika</td><td>13-07-2026</td><td>11:00 AM</td></tr>
+<tr><td>Ward-20</td><td>Sahayika</td><td>15-07-2026</td><td>11:00 AM</td></tr>
+<tr><td>Ward-29</td><td>Sevika</td><td>20-07-2026</td><td>11:00 AM / 1:00 PM</td></tr>
+<tr><td>Ward-41</td><td>Sevika</td><td>27-07-2026</td><td>11:30 AM / 1:30 PM</td></tr>
+<tr><td>Ward-49</td><td>Sevika</td><td>31-07-2026</td><td>11:30 AM</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification & Selection</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Anganwadi Sevika</td><td>12th Pass</td></tr>
+<tr><td>Anganwadi Sahayika</td><td>10th Pass</td></tr>
+<tr><td>Eligible Candidates</td><td>Female Candidates of Concerned Anganwadi Area</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>1</td><td>Offline Application Submission</td></tr>
+<tr><td>2</td><td>Application Scrutiny</td></tr>
+<tr><td>3</td><td>Gram Sabha Selection</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Merit List & Final Selection</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit your respective District Office or obtain the form from the district notification.</li>
+<li>Read the eligibility criteria carefully.</li>
+<li>Fill in personal, educational and address details.</li>
+<li>Attach self-attested copies of all required documents.</li>
+<li>Submit the completed form before the district-wise last date.</li>
+<li>Attend the Gram Sabha with all original documents.</li>
+<li>Complete document verification and wait for the merit list.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Notification (Godda/Giridih/Dhanbad)</td><td><a href="https://jharkhand.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://jharkhand.gov.in" target="_blank">jharkhand.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are expected?</h3>
+<p style="font-size:20px;line-height:1.8;">More than <strong>500 posts</strong> are expected statewide, with vacancies varying by district.</p>
+<h3>2. Is there a written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">No, selection is based on <strong>Gram Sabha, document verification and merit</strong>.</p>
+<h3>3. What is the age limit?</h3>
+<p style="font-size:20px;line-height:1.8;">Candidates must be between <strong>18 and 35 years</strong>.</p>
+<h3>4. Is there any application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">No application fee is required for any category.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Jharkhand Anganwadi Vacancy 2026</strong> offers women across Jharkhand a chance to join child development services. Check your district's official notification regularly as more districts release their schedules.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Check Jharkhand Anganwadi Vacancy 2026</h2>
+<a href="https://jharkhand.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=upessc-assistant-professor-bed-recruitment-2025">UPESSC Assistant Professor Vacancy 2025</a></li>
+<li><a href="../item-detail.html?type=job&id=cmho-bemetara-recruitment-2026">CMHO Bemetara Bharti 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official district notification before applying.</p>
+`;
+
+JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">GADVASU Vacancy 2026 – Apply Offline for 49 Non-Teaching Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🐄 GADVASU Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Applications Open</span></p>
+<p style="font-size:19px;">Last Date : <strong>28 July 2026 (4:00 PM)</strong></p>
+<a href="https://www.gadvasu.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Guru Angad Dev Veterinary and Animal Sciences University (GADVASU)</strong>, Ludhiana has invited offline applications for <strong>49 posts</strong> including Junior Engineer, Veterinary Inspector, Agriculture Sub-Inspector, Driver, Chowkidar and Animal Attendant. As per the revised notice, the last date is <strong>28 July 2026 (4:00 PM)</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>GADVASU, Ludhiana</td></tr>
+<tr><th>Total Vacancies</th><td>49</td></tr>
+<tr><th>Application Mode</th><td>Offline</td></tr>
+<tr><th>Fee Payment Link Activated</th><td>20 June 2026</td></tr>
+<tr><th>Last Date</th><td>28 July 2026 (4:00 PM)</td></tr>
+<tr><th>Age Limit</th><td>18 to 37 Years</td></tr>
+<tr><th>Salary</th><td>₹18,000 – ₹35,400</td></tr>
+<tr><th>Official Website</th><td>www.gadvasu.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>SC/ST/PwD</th><th>Others</th></tr>
+<tr><td>JE, Veterinary Inspector, Agri Sub-Inspector, Driver (1–5)</td><td>₹590</td><td>₹1,180</td></tr>
+<tr><td>Chowkidar & Animal Attendant (6–7)</td><td>₹295</td><td>₹590</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Vacancies</th><th>Pay Level</th><th>Salary</th></tr>
+<tr><td>Junior Engineer (Civil)</td><td>1</td><td>Level-6</td><td>₹35,400</td></tr>
+<tr><td>Junior Engineer (Electrical)</td><td>1</td><td>Level-6</td><td>₹35,400</td></tr>
+<tr><td>Veterinary Inspector</td><td>5</td><td>Level-5</td><td>₹29,200</td></tr>
+<tr><td>Agriculture Sub-Inspector</td><td>2</td><td>Level-4</td><td>₹25,500</td></tr>
+<tr><td>Driver</td><td>10</td><td>Level-3</td><td>₹21,700</td></tr>
+<tr><td>Chowkidar</td><td>10</td><td>Level-1</td><td>₹18,000</td></tr>
+<tr><td>Animal Attendant</td><td>20</td><td>Level-1</td><td>₹18,000</td></tr>
+<tr><th>Total</th><th>49</th><th>—</th><th>—</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Eligibility</h2>
+<p style="font-size:20px;line-height:1.9;">Candidates must be between <strong>18 and 37 years</strong> of age. Common requirement: <strong>Matriculation with Punjabi</strong> from a recognized board. Post-wise detailed qualification is available in the official notification.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Punjabi Language Qualifying Test (Min. 50%)</td></tr>
+<tr><td>2</td><td>Written Examination / Competitive Test (Post-wise)</td></tr>
+<tr><td>3</td><td>Skill / Physical / Proficiency Test (If Applicable)</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Medical Examination</td></tr>
+<tr><td>6</td><td>Final Merit List & Appointment</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official GADVASU website and download the application form.</li>
+<li>Fill in all details carefully.</li>
+<li>Pay the application fee online and attach the receipt.</li>
+<li>Attach self-attested documents, photo and signature.</li>
+<li>Attach three self-addressed envelopes (9×4 inches).</li>
+<li>Send the form to: The Registrar, GADVASU, Near Verka Milk Plant, Ferozepur Road, Ludhiana – 141012.</li>
+<li>Ensure it reaches by 28 July 2026 (4:00 PM).</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Application Form</td><td><a href="https://www.gadvasu.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.gadvasu.in" target="_blank">gadvasu.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>49 posts</strong> across 7 categories.</p>
+<h3>2. Is Punjabi mandatory?</h3>
+<p style="font-size:20px;line-height:1.8;">Yes, Matriculation with Punjabi and a 50% qualifying Punjabi test is required.</p>
+<h3>3. What is the highest salary post?</h3>
+<p style="font-size:20px;line-height:1.8;">Junior Engineer (Civil/Electrical) at <strong>₹35,400</strong> per month.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>GADVASU Vacancy 2026</strong> offers 10th to Diploma-level candidates a government job at a Punjab university. Send your application well before <strong>28 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for GADVASU Vacancy 2026</h2>
+<a href="https://www.gadvasu.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=bel-havildar-security-recruitment-2026">BEL Havildar Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=ncl-mining-sirdar-surveyor-recruitment-2026">Northern Coalfields Limited Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official GADVASU notification before applying.</p>
+`;
+
+JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">BEL Havildar Vacancy 2026 – Apply Online for 5 Security Posts (Ex-Servicemen)</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🎖️ BEL Havildar Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>08 July 2026 to 31 July 2026</strong></p>
+<a href="https://bel-india.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Bharat Electronics Limited (BEL)</strong> has invited online applications for <strong>5 Havildar (Security)</strong> posts, reserved <strong>100% for Ex-Servicemen</strong>. Candidates need SSLC (10th Pass), a minimum of <strong>15 years</strong> of Indian Armed Forces service, and knowledge of Marathi.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Bharat Electronics Limited (BEL)</td></tr>
+<tr><th>Total Vacancies</th><td>5</td></tr>
+<tr><th>Start Date</th><td>08 July 2026</td></tr>
+<tr><th>Last Date</th><td>31 July 2026</td></tr>
+<tr><th>Maximum Age</th><td>43 Years</td></tr>
+<tr><th>Salary</th><td>₹20,500 – ₹79,000</td></tr>
+<tr><th>Official Website</th><td>bel-india.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Total</th><th>UR</th><th>OBC-NCL</th><th>SC</th><th>ST</th><th>EWS</th><th>Reservation</th></tr>
+<tr><td>Havildar (Security)</td><td>05</td><td>01</td><td>01</td><td>01</td><td>01</td><td>01</td><td>100% Ex-Servicemen</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Criteria</th><th>Details</th></tr>
+<tr><td>Educational Qualification</td><td>SSLC (10th Pass)</td></tr>
+<tr><td>Military Service</td><td>Minimum 15 Years in Indian Armed Forces</td></tr>
+<tr><td>Medical Category</td><td>AYE & SHAPE-I</td></tr>
+<tr><td>Marathi Language</td><td>Ability to Read, Write & Speak Marathi Essential</td></tr>
+<tr><td>Sainik Welfare Board</td><td>Registration Mandatory (Maharashtra)</td></tr>
+<tr><td>Other Documents</td><td>Experience/Discharge Certificate, PPO (Where Applicable), Exemplary Character Record</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Grade</td><td>WG-III</td></tr>
+<tr><td>Pay Scale</td><td>₹20,500 – ₹79,000</td></tr>
+<tr><td>Annual Increment</td><td>3%</td></tr>
+<tr><td>Approx. Annual CTC</td><td>₹6.2 Lakhs</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>1</td><td>Application Screening</td></tr>
+<tr><td>2</td><td>Physical Endurance Test (PET)</td></tr>
+<tr><td>3</td><td>Written Examination</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Medical Examination</td></tr>
+<tr><td>6</td><td>Final Merit List</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official BEL recruitment portal.</li>
+<li>Open the Havildar (Security) Recruitment 2026 notification.</li>
+<li>Click Apply Online and fill personal, educational and service details.</li>
+<li>Upload photo, SSLC certificate, discharge certificate, experience certificate and category certificate.</li>
+<li>Submit and download the final application form.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://bel-india.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://bel-india.in" target="_blank">bel-india.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. Who can apply for BEL Havildar Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">Only <strong>Ex-Servicemen</strong> with 15+ years of service and 10th pass qualification can apply.</p>
+<h3>2. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>₹20,500 – ₹79,000</strong> with ~₹6.2 lakh annual CTC.</p>
+<h3>3. Is Marathi mandatory?</h3>
+<p style="font-size:20px;line-height:1.8;">Yes, candidates must be able to read, write and speak Marathi.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>BEL Havildar Vacancy 2026</strong> is a great post-retirement opportunity for Ex-Servicemen. Apply before <strong>31 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for BEL Havildar Vacancy 2026</h2>
+<a href="https://bel-india.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=gadvasu-non-teaching-recruitment-2026">GADVASU Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=bpssc-forest-range-officer-recruitment-2026">BPSSC Forest Range Officer Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BEL notification before applying.</p>
+`;
+
+JOB_CONTENT["ncl-mining-sirdar-surveyor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Northern Coalfields Limited Vacancy 2026 – Apply for 259 Mining Sirdar & Surveyor Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">⛏️ NCL Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>14 July 2026 to 05 August 2026</strong></p>
+<a href="https://www.nclcil.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Northern Coalfields Limited (NCL)</strong> has released the notification for <strong>Mining Sirdar T&S Grade C</strong> and <strong>Surveyor (Mining) T&S Grade B</strong> posts, offering <strong>259 posts</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Northern Coalfields Limited (NCL)</td></tr>
+<tr><th>Total Vacancies</th><td>259</td></tr>
+<tr><th>Start Date</th><td>14 July 2026</td></tr>
+<tr><th>Last Date</th><td>05 August 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 30 Years</td></tr>
+<tr><th>Salary</th><td>₹47,330.25 – ₹51,103.12</td></tr>
+<tr><th>Official Website</th><td>www.nclcil.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General/OBC/EWS</td><td>₹1,180</td></tr>
+<tr><td>SC/ST/ESM/Departmental</td><td>Nil</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>UR</th><th>EWS</th><th>OBC-NCL</th><th>SC</th><th>ST</th><th>Total</th></tr>
+<tr><td>Mining Sirdar T&S Grade C</td><td>101</td><td>25</td><td>64</td><td>51</td><td>13</td><td>254</td></tr>
+<tr><td>Surveyor (Mining) T&S Grade B</td><td>2</td><td>0</td><td>1</td><td>0</td><td>2</td><td>5</td></tr>
+<tr><th>Grand Total</th><th>103</th><th>25</th><th>65</th><th>51</th><th>15</th><th>259</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Mining Sirdar T&S Grade C</td><td>10th Pass + DGMS Mining Sirdar Certificate, Gas Testing & First Aid Certificate, OR Diploma/Degree in Mining Engineering with Overman Certificate</td></tr>
+<tr><td>Surveyor (Mining) T&S Grade B</td><td>10th Pass + DGMS Surveyor's Certificate, OR Diploma/Degree in Mining/Mine Surveying with DGMS Certificate</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Basic Pay</th><th>Probation</th></tr>
+<tr><td>Mining Sirdar T&S Grade C</td><td>₹47,330.25/month</td><td>6 Months</td></tr>
+<tr><td>Surveyor (Mining) T&S Grade B</td><td>₹51,103.12/month</td><td>6 Months</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Computer Based Test (CBT)</td></tr>
+<tr><td>2</td><td>Document Verification</td></tr>
+<tr><td>3</td><td>Medical Examination</td></tr>
+<tr><td>4</td><td>Final Merit List</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Section</th><th>Subjects</th><th>Questions</th><th>Marks</th></tr>
+<tr><td>A</td><td>Technical Subject</td><td>70</td><td>70</td></tr>
+<tr><td>B</td><td>GK, Current Affairs, Reasoning, Quant Aptitude</td><td>30</td><td>30</td></tr>
+<tr><th colspan="2">Total</th><th>100</th><th>100</th></tr>
+</table>
+<p style="font-size:20px;line-height:1.9;">No negative marking; exam duration is 90 minutes.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official NCL website and open Career/Recruitment section.</li>
+<li>Click NCL Recruitment 2026 Apply Online and register.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload photograph, signature and required certificates.</li>
+<li>Pay the fee online and submit the form.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.nclcil.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.nclcil.in" target="_blank">nclcil.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>259 posts</strong> - 254 Mining Sirdar and 5 Surveyor.</p>
+<h3>2. Is there negative marking?</h3>
+<p style="font-size:20px;line-height:1.8;">No, the NCL CBT has <strong>no negative marking</strong>.</p>
+<h3>3. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>₹47,330.25 to ₹51,103.12</strong> basic pay per month.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>NCL Vacancy 2026</strong> is a great opportunity for 10th pass mining certificate holders. Apply before <strong>05 August 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for NCL Vacancy 2026</h2>
+<a href="https://www.nclcil.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=bel-havildar-security-recruitment-2026">BEL Havildar Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=gadvasu-non-teaching-recruitment-2026">GADVASU Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NCL notification before applying.</p>
+`;
+
+JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">BPSSC Forest Range Officer Vacancy 2026 – Apply for 16 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🌲 BPSSC Forest Range Officer Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>16 July 2026 to 16 August 2026</strong></p>
+<a href="https://bpssc.bihar.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Bihar Police Subordinate Services Commission (BPSSC)</strong> has released the notification for <strong>Forest Range Officer</strong> posts under the Environment, Forest and Climate Change Department, offering <strong>16 posts</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Bihar Police Subordinate Services Commission (BPSSC)</td></tr>
+<tr><th>Total Vacancies</th><td>16</td></tr>
+<tr><th>Start Date</th><td>16 July 2026</td></tr>
+<tr><th>Last Date</th><td>16 August 2026</td></tr>
+<tr><th>Age Limit</th><td>21 to 42 Years</td></tr>
+<tr><th>Salary</th><td>₹35,400 – ₹1,12,400</td></tr>
+<tr><th>Official Website</th><td>bpssc.bihar.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">₹100 for all categories (Male, Female & Third Gender), payable online.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Total Posts</th><th>Women Reservation (35%)</th></tr>
+<tr><td>Unreserved (UR)</td><td>6</td><td>2</td></tr>
+<tr><td>Scheduled Caste (SC)</td><td>3</td><td>1</td></tr>
+<tr><td>Extremely Backward Class (EBC)</td><td>3</td><td>1</td></tr>
+<tr><td>Backward Class (BC)</td><td>2</td><td>0</td></tr>
+<tr><td>Economically Weaker Section (EWS)</td><td>2</td><td>0</td></tr>
+<tr><th>Total</th><th>16</th><th>4</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<p style="font-size:20px;line-height:1.9;">Bachelor's degree with at least one subject: Animal Husbandry & Veterinary Science, Botany, Chemistry, Geology, Mathematics, Physics, Statistics or Zoology. Agriculture, Forestry and Engineering degrees are also eligible.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Physical Standards</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Male Height</th><th>Female Height</th></tr>
+<tr><td>UR/BC/EBC/SC</td><td>Min. 163 cm</td><td>Min. 150 cm</td></tr>
+<tr><td>ST</td><td>Min. 152.5 cm</td><td>Min. 145 cm</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Category</th><th>Distance</th><th>Time Limit</th></tr>
+<tr><td>Male</td><td>25 km walk</td><td>4 hours</td></tr>
+<tr><td>Female</td><td>14 km walk</td><td>4 hours</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Online Application</td></tr>
+<tr><td>2</td><td>Written Examination (Paper-I & II)</td></tr>
+<tr><td>3</td><td>Interview</td></tr>
+<tr><td>4</td><td>Physical Efficiency Test (PET)</td></tr>
+<tr><td>5</td><td>Medical Examination</td></tr>
+<tr><td>6</td><td>Final Merit List & Document Verification</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Paper</th><th>Subject</th><th>Questions</th><th>Marks</th><th>Marking</th></tr>
+<tr><td>Paper-I</td><td>General Hindi (Qualifying)</td><td>50</td><td>100</td><td>+2/-0.2</td></tr>
+<tr><td>Paper-II</td><td>General Studies</td><td>100</td><td>300</td><td>+3/-0.3</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official BPSSC website and open Forest Department Recruitment.</li>
+<li>Complete online registration and log in.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload photograph, signature and documents.</li>
+<li>Pay the application fee and submit.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://bpssc.bihar.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://bpssc.bihar.gov.in" target="_blank">bpssc.bihar.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. What is the application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">₹100 for all categories, including male, female and third gender.</p>
+<h3>2. Is there negative marking?</h3>
+<p style="font-size:20px;line-height:1.8;">Yes, -0.2 in Paper-I and -0.3 in Paper-II per wrong answer.</p>
+<h3>3. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;">Level-6 salary of <strong>₹35,400 – ₹1,12,400</strong> per month.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>BPSSC Forest Range Officer Vacancy 2026</strong> is a prestigious opportunity for science/agriculture/forestry graduates. Apply before <strong>16 August 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for BPSSC Forest Range Officer 2026</h2>
+<a href="https://bpssc.bihar.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=ncl-mining-sirdar-surveyor-recruitment-2026">Northern Coalfields Limited Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=cmho-bemetara-recruitment-2026">CMHO Bemetara Bharti 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BPSSC notification before applying.</p>
+`;
+
+JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">CMHO Bemetara Bharti 2026 – Apply Offline for 52 Contractual Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🏥 CMHO Bemetara Bharti 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Applications Open</span></p>
+<p style="font-size:19px;">Last Date : <strong>14 August 2026</strong></p>
+<a href="https://bemetara.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Chief Medical and Health Office, Bemetara (CMHO Bemetara)</strong> has invited offline applications for <strong>52 contractual posts</strong> including Community Health Officer, Staff Nurse, Nursing Officer, Pharmacist, Physiotherapist, Counselor, Laboratory Technician, Dental Assistant, Block Manager and Support Staff.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Chief Medical and Health Office, Bemetara</td></tr>
+<tr><th>Total Vacancies</th><td>52</td></tr>
+<tr><th>Application Mode</th><td>Offline</td></tr>
+<tr><th>Last Date</th><td>14 August 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 70 Years</td></tr>
+<tr><th>Salary</th><td>₹8,800 – ₹25,000</td></tr>
+<tr><th>Official Website</th><td>bemetara.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>Divyang/SC/ST</td><td>₹100</td></tr>
+<tr><td>OBC/Women</td><td>₹200</td></tr>
+<tr><td>Unreserved</td><td>₹300</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy & Salary Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Vacancies</th><th>Monthly Salary</th></tr>
+<tr><td>Community Health Officer (CHO)</td><td>24</td><td>₹16,500</td></tr>
+<tr><td>Staff Nurse (SNCU/NBSU)</td><td>6</td><td>₹16,000</td></tr>
+<tr><td>Nursing Officer</td><td>3</td><td>₹16,500</td></tr>
+<tr><td>Counselor (NHM)</td><td>3</td><td>₹12,000</td></tr>
+<tr><td>Laboratory Technician</td><td>2</td><td>₹14,000</td></tr>
+<tr><td>Physiotherapist</td><td>2</td><td>₹18,000</td></tr>
+<tr><td>MO-AYUSH</td><td>2</td><td>₹25,000</td></tr>
+<tr><td>Support Staff</td><td>2</td><td>₹8,800</td></tr>
+<tr><td>Jr. Secretarial Assistant (PADA)</td><td>2</td><td>₹12,000</td></tr>
+<tr><td>2nd ANM</td><td>1</td><td>₹12,000</td></tr>
+<tr><td>Dental Assistant</td><td>1</td><td>₹12,000</td></tr>
+<tr><td>Technical Assistant</td><td>1</td><td>₹15,000</td></tr>
+<tr><td>Block Manager - Account</td><td>1</td><td>₹21,000</td></tr>
+<tr><td>Pharmacist</td><td>1</td><td>₹16,500</td></tr>
+<tr><td>TBHV</td><td>1</td><td>₹14,000</td></tr>
+<tr><th>Total</th><th>52</th><th>—</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification (Key Posts)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Community Health Officer</td><td>B.Sc Nursing/Post Basic Nursing + CCH Certificate + Live Registration</td></tr>
+<tr><td>Staff Nurse / Nursing Officer</td><td>B.Sc Nursing / Post Basic Nursing / GNM with Live Registration</td></tr>
+<tr><td>MO-AYUSH</td><td>BHMS/BAMS/BUMS with Valid Registration</td></tr>
+<tr><td>Laboratory Technician</td><td>DMLT / BMLT with Live Registration</td></tr>
+<tr><td>Physiotherapist</td><td>Bachelor's Degree in Physiotherapy (BPT)</td></tr>
+<tr><td>Block Manager - Account</td><td>B.Com (55%) + PGDCA + Tally Knowledge</td></tr>
+<tr><td>Support Staff</td><td>10th Pass</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Document Scrutiny</td></tr>
+<tr><td>2</td><td>Document Verification</td></tr>
+<tr><td>3</td><td>Skill Test (If Applicable)</td></tr>
+<tr><td>4</td><td>Merit List & Final Selection</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Download the official application form from bemetara.gov.in.</li>
+<li>Fill in personal, educational and communication details.</li>
+<li>Attach self-attested documents and photograph.</li>
+<li>Pay the applicable fee as mentioned.</li>
+<li>Send the form via Registered Post/Speed Post before 14 August 2026.</li>
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Application Form</td><td><a href="https://bemetara.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://bemetara.gov.in" target="_blank">bemetara.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>52 contractual posts</strong> across 15 different roles.</p>
+<h3>2. Is online application accepted?</h3>
+<p style="font-size:20px;line-height:1.8;">No, only <strong>offline applications</strong> via Speed Post/Registered Post are accepted.</p>
+<h3>3. Which post has the highest salary?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>MO-AYUSH</strong> at ₹25,000 per month.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>CMHO Bemetara Bharti 2026</strong> offers a wide range of healthcare job opportunities in Chhattisgarh. Send your application well before <strong>14 August 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for CMHO Bemetara Bharti 2026</h2>
+<a href="https://bemetara.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=bpssc-forest-range-officer-recruitment-2026">BPSSC Forest Range Officer Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=jharkhand-anganwadi-sevika-sahayika-recruitment-2026">Jharkhand Anganwadi Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CMHO Bemetara notification before applying.</p>
+`;
 JOB_CONTENT["mgm-hospital-junior-resident-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
