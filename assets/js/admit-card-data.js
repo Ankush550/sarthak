@@ -1060,3 +1060,10 @@ const ADMIT_CARDS_DATA = [
 
 
 ];
+
+// ---- Node.js compatibility (automation scripts ke liye) ----
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    ADMIT_CARDS_DATA: typeof ADMIT_CARDS_DATA !== 'undefined' ? ADMIT_CARDS_DATA : []
+  };
+}

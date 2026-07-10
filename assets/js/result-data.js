@@ -484,3 +484,9 @@ const RESULTS_DATA = [
   },
 
 ];
+// ---- Node.js compatibility (automation scripts ke liye) ----
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    RESULTS_DATA: typeof RESULTS_DATA !== 'undefined' ? RESULTS_DATA : []
+  };
+}

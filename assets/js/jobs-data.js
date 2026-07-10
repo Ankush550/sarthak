@@ -3864,3 +3864,13 @@ const PRIVATE_JOBS_DATA = [];
 function getJobById(id){ return JOBS_DATA.find(j=>j.id===id)||PRIVATE_JOBS_DATA.find(j=>j.id===id); }
 function searchJobs(q){ const s=q.toLowerCase(); return JOBS_DATA.filter(j=>j.title.toLowerCase().includes(s)||j.organization.toLowerCase().includes(s)||j.description.toLowerCase().includes(s)||(j.tags&&j.tags.some(t=>t.includes(s)))); }
 function getDaysLeft(d){ return Math.ceil((new Date(d)-new Date())/(1000*60*60*24)); }
+
+// ---- Node.js compatibility (automation scripts ke liye) ----
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    JOBS_DATA: typeof JOBS_DATA !== 'undefined' ? JOBS_DATA : [],
+    getJobById: typeof getJobById !== 'undefined'
+      ? getJobById
+      : (id => JOBS_DATA.find(j => j.id === id))
+  };
+}

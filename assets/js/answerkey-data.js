@@ -126,3 +126,9 @@ const ANSWER_KEYS_DATA = [
   },
 
 ];
+// ---- Node.js compatibility (automation scripts ke liye) ----
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    ANSWER_KEYS_DATA: typeof ANSWER_KEYS_DATA !== 'undefined' ? ANSWER_KEYS_DATA : []
+  };
+}
