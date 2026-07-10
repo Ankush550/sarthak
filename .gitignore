@@ -1,0 +1,13 @@
+.env
+# ============================================================
+# Sensitive credentials — kabhi bhi GitHub par push nahi honi chahiye
+# ============================================================
+
+# Google Cloud service account key (Indexing API ke liye)
+assets/js/google-service-account.json
+
+# Facebook Page automation config (agar future me banayein)
+fb-config.js
+
+# Node.js dependencies (agar npm install se koi node_modules bana ho)
+node_modules/
