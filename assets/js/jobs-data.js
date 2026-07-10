@@ -1,5 +1,97 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+    {
+    id:"hppsc-police-constable-recruitment-2026",
+    orgWebsite:"https://www.hppsc.hp.gov.in",
+    title:"HPPSC Police Constable Vacancy 2026",
+    shortTitle:"HP Police Constable Online Form 2026",
+    organization:"Himachal Pradesh Public Service Commission (HPPSC)",
+    image:"HPPSCPoliceConstable.jpeg",
+
+    totalPosts:734,
+
+    lastDate:"2026-08-06",
+    lastDateDisplay:"06 August 2026",
+
+    datePosted:"2026-07-01",
+    validThrough:"2026-08-06T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:20200,
+    salaryMax:64000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Himachal Pradesh",
+    addressLocality:"Shimla",
+    addressRegion:"Himachal Pradesh",
+    addressCountry:"IN",
+
+    qualification:"12th Class Passed from any Recognized Board",
+
+    ageLimit:"18 to 26 Years",
+
+    applyLink:"https://www.hppsc.hp.gov.in",
+    officialNotification:"https://www.hppsc.hp.gov.in",
+
+    fee:"Gen/EWS/Other State: Rs. 600 | SC/ST/OBC/BPL of HP: Rs. 150 | All Female Category: Nil",
+
+    description:"Himachal Pradesh Public Service Commission (HPPSC) has released the official notification for HP Police Constable Vacancy 2026, inviting applications from male and female candidates for a total of 734 Constable posts - 491 for Male Constable and 243 for Female Constable. Online applications will start on 10 July 2026 and close on 06 August 2026. Candidates need 12th Class Pass from any recognized board. Selection includes a Written Examination, Physical Standard Test (PST), Physical Efficiency Test (PET), Document Verification and Medical Examination. Selected candidates will get Level-3 Pay Matrix salary of Rs. 20,200 to Rs. 64,000 per month.",
+
+    category:"Himachal Pradesh Government Jobs",
+    jobType:"Police Constable (Male & Female)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-10",
+    applicationEndDate:"2026-08-06",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"Male - UR", totalPosts:140},
+        {category:"Male - UR WFF", totalPosts:9},
+        {category:"Male - UR Home Guards", totalPosts:38},
+        {category:"Male - SC UR", totalPosts:68},
+        {category:"Male - SC WFF", totalPosts:19},
+        {category:"Male - SC BPL", totalPosts:17},
+        {category:"Male - SC Home Guards", totalPosts:18},
+        {category:"Male - ST UR", totalPosts:13},
+        {category:"Male - ST BPL", totalPosts:6},
+        {category:"Male - ST Home Guards", totalPosts:4},
+        {category:"Male - OBC UR", totalPosts:54},
+        {category:"Male - OBC WFF", totalPosts:16},
+        {category:"Male - OBC BPL", totalPosts:17},
+        {category:"Male - OBC Home Guards", totalPosts:15},
+        {category:"Male - EWS", totalPosts:48},
+        {category:"Male - EWS Home Guards", totalPosts:9},
+        {category:"Female - UR", totalPosts:60},
+        {category:"Female - UR WFF", totalPosts:3},
+        {category:"Female - UR Ward of Ex-Servicemen", totalPosts:22},
+        {category:"Female - UR Home Guards", totalPosts:16},
+        {category:"Female - SC UR", totalPosts:28},
+        {category:"Female - SC WFF", totalPosts:7},
+        {category:"Female - SC BPL", totalPosts:8},
+        {category:"Female - SC Ward of Ex-Servicemen", totalPosts:7},
+        {category:"Female - SC Home Guards", totalPosts:8},
+        {category:"Female - ST UR", totalPosts:5},
+        {category:"Female - ST BPL", totalPosts:3},
+        {category:"Female - ST Ward of Ex-Servicemen", totalPosts:2},
+        {category:"Female - ST Home Guards", totalPosts:2},
+        {category:"Female - OBC UR", totalPosts:24},
+        {category:"Female - OBC WFF", totalPosts:6},
+        {category:"Female - OBC BPL", totalPosts:7},
+        {category:"Female - OBC Ward of Ex-Servicemen", totalPosts:5},
+        {category:"Female - OBC Home Guards", totalPosts:6},
+        {category:"Female - EWS", totalPosts:20},
+        {category:"Female - EWS Home Guards", totalPosts:4}
+    ],
+
+    status:"open",
+    isNew:true
+},
   {
     id:"spsc-village-level-worker-recruitment-2026",
     orgWebsite:"https://spsc.sikkim.gov.in",

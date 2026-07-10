@@ -1,5 +1,569 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["hppsc-police-constable-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+HPPSC Police Constable Vacancy 2026 – Apply Online for 734 Male & Female Constable Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+
+<h2 style="margin:0;color:#0d47a1;">
+👮 HPPSC Police Constable Vacancy 2026
+</h2>
+
+<p style="font-size:20px;margin-top:12px;">
+<strong>Status :</strong>
+<span style="color:green;font-weight:bold;">Online Applications Started</span>
+</p>
+
+<p style="font-size:19px;">
+Application Period :
+<strong>10 July 2026 to 06 August 2026</strong>
+</p>
+
+<a href="https://www.hppsc.hp.gov.in"
+target="_blank"
+style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
+
+Apply Online →
+
+</a>
+
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+<strong>Himachal Pradesh Public Service Commission (HPPSC)</strong> has released the official notification for
+<strong>HP Police Constable Vacancy 2026</strong>, inviting applications from male and female candidates for a
+total of <strong>734 Constable</strong> posts – <strong>491 for Male Constable</strong> and
+<strong>243 for Female Constable</strong>.
+</p>
+
+<p style="font-size:20px;line-height:1.9;">
+Online applications will start on <strong>10 July 2026</strong> and close on
+<strong>06 August 2026</strong>. Candidates need <strong>12th Class Pass</strong> from any recognized board and
+must be between <strong>18 and 26 years</strong> of age. Selected candidates will get Level-3 Pay Matrix salary
+of <strong>₹20,200 to ₹64,000</strong> per month. Applications will be accepted only through the
+<strong>HPPSC online portal (ORA)</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+HPPSC Police Constable Vacancy 2026 Overview
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Organisation</th>
+<td>Himachal Pradesh Public Service Commission (HPPSC)</td>
+</tr>
+
+<tr>
+<th>Post Name</th>
+<td>Police Constable (Male & Female)</td>
+</tr>
+
+<tr>
+<th>Total Vacancies</th>
+<td>734</td>
+</tr>
+
+<tr>
+<th>Application Mode</th>
+<td>Online</td>
+</tr>
+
+<tr>
+<th>Start Date</th>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<th>Last Date</th>
+<td>06 August 2026</td>
+</tr>
+
+<tr>
+<th>Age Limit</th>
+<td>18 to 26 Years</td>
+</tr>
+
+<tr>
+<th>Qualification</th>
+<td>12th Class Passed</td>
+</tr>
+
+<tr>
+<th>Salary</th>
+<td>₹20,200 – ₹64,000 (Level-3)</td>
+</tr>
+
+<tr>
+<th>Official Website</th>
+<td>www.hppsc.hp.gov.in</td>
+</tr>
+
+</table>
+<!-- AdSense Ad 1 – After Overview -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Dates
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Event</th>
+<th>Date</th>
+</tr>
+
+<tr>
+<td>Notification Release</td>
+<td>July 2026</td>
+</tr>
+
+<tr>
+<td>Start Date</td>
+<td>10 July 2026</td>
+</tr>
+
+<tr>
+<td>Last Date</td>
+<td>10 August 2026 (as per short notice)</td>
+</tr>
+
+</table>
+
+<p style="font-size:16px;color:#666;">
+Note: Some sources list the closing date as <strong>06 August 2026 (11:59 PM)</strong> while the overview table
+mentions <strong>10 August 2026</strong>. Candidates are advised to verify the exact last date from the official
+HPPSC notification before applying.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Application Fee
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Application Fee</th>
+</tr>
+
+<tr>
+<td>Gen / EWS / Other State</td>
+<td>₹600/-</td>
+</tr>
+
+<tr>
+<td>SC / ST / OBC / BPL of HP</td>
+<td>₹150/-</td>
+</tr>
+
+<tr>
+<td>All Female Category</td>
+<td>Nil</td>
+</tr>
+
+<tr>
+<td>Payment Mode</td>
+<td>Online</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Age Limit & Eligibility
+</h2>
+<!-- AdSense Ad 2 – Mid Article -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+Candidates must be between <strong>18 and 26 years</strong> of age. Candidates must have passed
+<strong>12th Class</strong> from any recognized board.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details – Police Constable (Male) – 491 Posts
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>UR</td><td>140</td></tr>
+<tr><td>UR WFF</td><td>9</td></tr>
+<tr><td>UR Home Guards</td><td>38</td></tr>
+<tr><td>SC UR</td><td>68</td></tr>
+<tr><td>SC WFF</td><td>19</td></tr>
+<tr><td>SC BPL</td><td>17</td></tr>
+<tr><td>SC Home Guards</td><td>18</td></tr>
+<tr><td>ST UR</td><td>13</td></tr>
+<tr><td>ST BPL</td><td>6</td></tr>
+<tr><td>ST Home Guards</td><td>4</td></tr>
+<tr><td>OBC UR</td><td>54</td></tr>
+<tr><td>OBC WFF</td><td>16</td></tr>
+<tr><td>OBC BPL</td><td>17</td></tr>
+<tr><td>OBC Home Guards</td><td>15</td></tr>
+<tr><td>EWS</td><td>48</td></tr>
+<tr><td>EWS Home Guards</td><td>9</td></tr>
+
+<tr>
+<th>Total</th>
+<th>491</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Category-Wise Vacancy Details – Police Constable (Female) – 243 Posts
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Category</th>
+<th>Vacancies</th>
+</tr>
+
+<tr><td>UR</td><td>60</td></tr>
+<tr><td>UR WFF</td><td>3</td></tr>
+<tr><td>UR Ward of Ex-Servicemen</td><td>22</td></tr>
+<tr><td>UR Home Guards</td><td>16</td></tr>
+<tr><td>SC UR</td><td>28</td></tr>
+<tr><td>SC WFF</td><td>7</td></tr>
+<tr><td>SC BPL</td><td>8</td></tr>
+<tr><td>SC Ward of Ex-Servicemen</td><td>7</td></tr>
+<tr><td>SC Home Guards</td><td>8</td></tr>
+<tr><td>ST UR</td><td>5</td></tr>
+<tr><td>ST BPL</td><td>3</td></tr>
+<tr><td>ST Ward of Ex-Servicemen</td><td>2</td></tr>
+<tr><td>ST Home Guards</td><td>2</td></tr>
+<tr><td>OBC UR</td><td>24</td></tr>
+<tr><td>OBC WFF</td><td>6</td></tr>
+<tr><td>OBC BPL</td><td>7</td></tr>
+<tr><td>OBC Ward of Ex-Servicemen</td><td>5</td></tr>
+<tr><td>OBC Home Guards</td><td>6</td></tr>
+<tr><td>EWS</td><td>20</td></tr>
+<tr><td>EWS Home Guards</td><td>4</td></tr>
+
+<tr>
+<th>Total</th>
+<th>243</th>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Required Qualification
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Post</th>
+<th>Qualification</th>
+</tr>
+
+<tr>
+<td>Police Constable (Male)</td>
+<td>12th Class Passed from any Recognized Board</td>
+</tr>
+
+<tr>
+<td>Police Constable (Female)</td>
+<td>12th Class Passed from any Recognized Board</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Salary Pay
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Particular</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Post Name</td>
+<td>Police Constable (Male & Female)</td>
+</tr>
+
+<tr>
+<td>Pay Level</td>
+<td>Level-3</td>
+</tr>
+
+<tr>
+<td>Salary</td>
+<td>₹20,200 – ₹64,000 per month</td>
+</tr>
+
+<tr>
+<td>Department</td>
+<td>Himachal Pradesh Police</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Selection Process
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Stage</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Written Examination</td>
+<td>To Be Announced</td>
+</tr>
+
+<tr>
+<td>Physical Standard Test (PST)</td>
+<td>As per HPPSC Rules</td>
+</tr>
+
+<tr>
+<td>Physical Efficiency Test (PET)</td>
+<td>As per HPPSC Rules</td>
+</tr>
+
+<tr>
+<td>Document Verification</td>
+<td>Required</td>
+</tr>
+
+<tr>
+<td>Medical Examination</td>
+<td>Final Stage</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+How to Apply Online
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+Eligible candidates should follow the steps below to apply before the last date:
+</p>
+
+<ol style="font-size:20px;line-height:2;">
+
+<li>Visit the official HPPSC website.</li>
+
+<li>Open the Online Recruitment Application (ORA) portal.</li>
+
+<li>Register using your mobile number and email ID.</li>
+
+<li>Login with your registration credentials.</li>
+
+<li>Select Police Constable (Male) or Police Constable (Female) advertisement.</li>
+
+<li>Fill in all personal, educational and communication details carefully.</li>
+
+<li>Upload the required documents, photograph and signature.</li>
+
+<li>Pay the application fee (if applicable).</li>
+
+<li>Preview the application form carefully before final submission.</li>
+
+<li>Submit the application and download/print the confirmation page for future reference.</li>
+
+</ol>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Important Links
+</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+
+<tr>
+<th>Purpose</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>Apply Now</td>
+<td>
+<a href="https://www.hppsc.hp.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Notification Download</td>
+<td>
+<a href="https://www.hppsc.hp.gov.in" target="_blank">
+Click Here
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Official Website</td>
+<td>
+<a href="https://www.hppsc.hp.gov.in" target="_blank">
+hppsc.hp.gov.in
+</a>
+</td>
+</tr>
+
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Frequently Asked Questions (FAQs)
+</h2>
+
+<h3>1. How many total posts are there in HPPSC Police Constable Vacancy 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+A total of <strong>734 posts</strong> have been announced, including <strong>491 Male Constable</strong> and
+<strong>243 Female Constable</strong> posts.
+</p>
+
+<h3>2. When will applications start for HPPSC Police Constable 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Online applications will start on <strong>10 July 2026</strong>.
+</p>
+
+<h3>3. What is the last date for HP Police Constable Bharti 2026?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates can apply online until <strong>06 August 2026 (11:59 PM)</strong>.
+</p>
+
+<h3>4. What is the salary for HP Police Constable?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Selected candidates will get <strong>Level-3 Pay Matrix</strong> salary of <strong>₹20,200 to ₹64,000</strong>
+per month.
+</p>
+
+<h3>5. Can both male and female candidates apply?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Yes, HPPSC Police Constable Vacancy 2026 has separate posts notified for both male and female candidates.
+</p>
+
+<h3>6. What is the mode of application?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Applications will be accepted only through the <strong>Online Recruitment Application (ORA) Portal</strong>.
+</p>
+
+<h3>7. What is the age limit and educational qualification?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+Candidates must be between <strong>18 and 26 years</strong> of age and must have passed
+<strong>12th Class</strong> from any recognized board.
+</p>
+
+<h3>8. What stages are included in the selection process?</h3>
+
+<p style="font-size:20px;line-height:1.8;">
+The selection process may include a <strong>Written Examination, Physical Standard Test (PST), Physical
+Efficiency Test (PET), Document Verification</strong> and <strong>Medical Examination</strong>.
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">
+Conclusion
+</h2>
+
+<p style="font-size:20px;line-height:1.9;">
+The <strong>HPPSC Police Constable Vacancy 2026</strong> is a great opportunity for 12th pass candidates in
+Himachal Pradesh to join the state police force. Interested male and female candidates should complete their
+online registration through the ORA portal and submit the application well before
+<strong>06 August 2026</strong>.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+
+<h2 style="margin:0;color:#2e7d32;">
+🚀 Apply for HPPSC Police Constable Vacancy 2026
+</h2>
+
+<p style="font-size:19px;margin:15px 0;">
+Submit your online application before <strong>06 August 2026</strong>.
+</p>
+
+<a href="https://www.hppsc.hp.gov.in"
+target="_blank"
+style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
+
+Apply Online
+
+</a>
+
+</div>
+
+
+<!-- AdSense Ad 3 – Before Apply -->
+<div style="margin:28px 0;text-align:center;">
+  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
+  <ins class="adsbygoogle"
+       style="display:block;text-align:center;"
+       data-ad-client="ca-pub-8602963796651751"
+       data-ad-slot="3505379782"
+       data-ad-format="fluid"
+       data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<h2 style="font-size:36px;margin-top:40px;">
+Related Jobs
+</h2>
+
+<ul style="font-size:20px;line-height:2;">
+
+<li><a href="../item-detail.html?type=job&id=spsc-village-level-worker-recruitment-2026">SPSC Village Level Worker Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=bpssc-police-si-recruitment-2026">BPSSC Police SI Vacancy 2026</a></li>
+
+<li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
+
+</ul>
+
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official HPPSC notification before applying.</p>
+`;
 JOB_CONTENT["spsc-village-level-worker-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

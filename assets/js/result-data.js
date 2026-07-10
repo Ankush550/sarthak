@@ -3,6 +3,88 @@
 
 const RESULTS_DATA = [
     {
+    id:"oicl-ao-final-result-2026",
+    title:"Oriental Insurance OICL AO Final Result 2026",
+    organization:"Oriental Insurance Company Limited (OICL)",
+    postName:"Administrative Officer (AO)",
+    resultType:"Final Result",
+    phase2ExamDate:"28 February 2026",
+    mainsResultReleaseDate:"30 April 2026",
+    releaseDate:"2026-07-09",
+    releaseDateDisplay:"09 July 2026",
+    officialWebsite:"https://orientalinsurance.org.in",
+    resultLink:"https://orientalinsurance.org.in",
+    category:"Result",
+    isNew:true,
+    description:"Oriental Insurance Company Limited (OICL) has officially released the Final Result for the OICL AO Recruitment. Candidates who participated in the selection process can check their selection status in the final merit list from the official website."
+},
+
+{
+    id:"mppsc-mining-inspector-final-result-2026",
+    title:"MPPSC Mining Inspector Final Result 2026",
+    organization:"Madhya Pradesh Public Service Commission (MPPSC)",
+    postName:"Mining Inspector",
+    resultType:"Final Result",
+    examDate:"21 December 2025",
+    releaseDate:"2026-07-09",
+    releaseDateDisplay:"09 July 2026",
+    officialWebsite:"https://mppsc.mp.gov.in",
+    resultLink:"https://mppsc.mp.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Madhya Pradesh Public Service Commission (MPPSC) has officially released the Final Result for the Mining Inspector Recruitment. Candidates who participated in the selection process can check their selection status in the final merit list from the official website."
+},
+
+{
+    id:"hc-calcutta-translator-result-2026",
+    title:"High Court Calcutta Translator Result 2026",
+    organization:"High Court Calcutta, Appellate Side",
+    postName:"Translator (Purely Contractual Basis)",
+    resultType:"Result",
+    totalPosts:4,
+    writtenTestDate:"18 April 2026",
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://calcuttahighcourt.gov.in",
+    resultLink:"https://calcuttahighcourt.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"High Court Calcutta, Appellate Side has released the Result for Translator (Purely Contractual Basis) posts. Candidates who appeared in the written test can download the result from the official website."
+},
+
+{
+    id:"punjab-sind-bank-so-security-manager-result-2026",
+    title:"Punjab and Sind Bank SO Security Manager Result 2026",
+    organization:"Punjab & Sind Bank",
+    postName:"Specialist Officers - Security Managers (MMGS II)",
+    resultType:"Result",
+    selectionProcess:"Personal Interview",
+    releaseDate:"2026-07-08",
+    releaseDateDisplay:"08 July 2026",
+    officialWebsite:"https://punjabandsindbank.co.in",
+    resultLink:"https://punjabandsindbank.co.in",
+    category:"Result",
+    isNew:true,
+    description:"Punjab & Sind Bank has released the Result for Specialist Officers - Security Managers (MMGS II) posts. Candidates who appeared for the Personal Interview can download the result from the official website."
+},
+
+{
+    id:"ssc-je-engineer-final-result-2026",
+    title:"SSC JE Engineer Final Result 2026",
+    organization:"Staff Selection Commission (SSC)",
+    postName:"Junior Engineer",
+    resultType:"Final Result",
+    tier2ExamDate:"07 April 2026",
+    totalPosts:1731,
+    releaseDate:"2026-07-09",
+    releaseDateDisplay:"09 July 2026",
+    officialWebsite:"https://ssc.gov.in",
+    resultLink:"https://ssc.gov.in",
+    category:"Result",
+    isNew:true,
+    description:"Staff Selection Commission (SSC) has released the Final Result for Junior Engineer posts, covering a total of 1,731 posts. Candidates who appeared in the Tier-II exam can download the result from the official website."
+},
+    {
     id:"rssb-hostel-superintendent-grade-2-result-2026",
     title:"RSSB Hostel Superintendent Grade II Final Result 2026",
     organization:"Rajasthan Staff Selection Board (RSSB)",

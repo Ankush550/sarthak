@@ -1,6 +1,269 @@
 // SarthakYojana.in — result-content.js
 
 const RESULT_CONTENT = {};
+RESULT_CONTENT["oicl-ao-final-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+Oriental Insurance OICL AO Final Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Oriental Insurance Company Limited (OICL)</strong> has officially released the
+<strong>Final Result</strong> for the <strong>OICL AO Recruitment</strong>. Candidates who participated in the
+selection process can now check their selection status in the final merit list from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Oriental Insurance Company Limited</td></tr>
+<tr><th>Exam Name</th><td>Oriental Insurance OICL AO</td></tr>
+<tr><th>Post Type</th><td>Final Result</td></tr>
+<tr><th>Phase II Exam Date</th><td>28 February 2026</td></tr>
+<tr><th>Mains Result Release Date</th><td>30 April 2026</td></tr>
+<tr><th>Final Result Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://orientalinsurance.org.in" target="_blank">orientalinsurance.org.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Final Result</td><td><a href="https://orientalinsurance.org.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://orientalinsurance.org.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://orientalinsurance.org.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Final Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=mppsc-mining-inspector-final-result-2026">MPPSC Mining Inspector Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=hc-calcutta-translator-result-2026">High Court Calcutta Translator Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=ssc-je-engineer-final-result-2026">SSC JE Engineer Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official OICL website.</p>
+`;
+
+RESULT_CONTENT["mppsc-mining-inspector-final-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+MPPSC Mining Inspector Final Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Madhya Pradesh Public Service Commission (MPPSC)</strong> has officially released the
+<strong>Final Result</strong> for the <strong>Mining Inspector Recruitment</strong>. Candidates who participated
+in the selection process can now check their selection status in the final merit list from the link given
+below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization</th><td>Madhya Pradesh Public Service Commission</td></tr>
+<tr><th>Post Name</th><td>MPPSC Mining Inspector</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Exam Date</th><td>21 December 2025</td></tr>
+<tr><th>Final Result Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://mppsc.mp.gov.in" target="_blank">mppsc.mp.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Final Result</td><td><a href="https://mppsc.mp.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://mppsc.mp.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://mppsc.mp.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Final Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=oicl-ao-final-result-2026">Oriental Insurance OICL AO Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=hc-calcutta-translator-result-2026">High Court Calcutta Translator Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=punjab-sind-bank-so-security-manager-result-2026">Punjab and Sind Bank SO Security Manager Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MPPSC website.</p>
+`;
+
+RESULT_CONTENT["hc-calcutta-translator-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+High Court Calcutta Translator Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>High Court Calcutta, Appellate Side</strong> has released the <strong>Result</strong> for
+<strong>Translator (Purely Contractual Basis)</strong> posts. Candidates who appeared in the written test can
+download the result from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>High Court Calcutta, Appellate Side</td></tr>
+<tr><th>Post Name</th><td>Translator (Purely Contractual Basis)</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Result Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Total Posts</th><td>04</td></tr>
+<tr><th>Written Test Date</th><td>18 April 2026</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://calcuttahighcourt.gov.in" target="_blank">calcuttahighcourt.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Result</td><td><a href="https://calcuttahighcourt.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://calcuttahighcourt.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://calcuttahighcourt.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=oicl-ao-final-result-2026">Oriental Insurance OICL AO Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=punjab-sind-bank-so-security-manager-result-2026">Punjab and Sind Bank SO Security Manager Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=ssc-je-engineer-final-result-2026">SSC JE Engineer Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official High Court Calcutta website.</p>
+`;
+
+RESULT_CONTENT["punjab-sind-bank-so-security-manager-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+Punjab and Sind Bank SO Security Manager Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Punjab & Sind Bank</strong> has released the <strong>Result</strong> for
+<strong>Specialist Officers - Security Managers (MMGS II)</strong> posts. Candidates who appeared for the
+Personal Interview can download the result from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Punjab & Sind Bank</td></tr>
+<tr><th>Post Name</th><td>Specialist Officers - Security Managers (MMGS II)</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Result Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Selection Process</th><td>Personal Interview</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://punjabandsindbank.co.in" target="_blank">punjabandsindbank.co.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Result</td><td><a href="https://punjabandsindbank.co.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://punjabandsindbank.co.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://punjabandsindbank.co.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=hc-calcutta-translator-result-2026">High Court Calcutta Translator Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=oicl-ao-final-result-2026">Oriental Insurance OICL AO Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=ssc-je-engineer-final-result-2026">SSC JE Engineer Final Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Punjab & Sind Bank website.</p>
+`;
+
+RESULT_CONTENT["ssc-je-engineer-final-result-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+SSC JE Engineer Final Result 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Staff Selection Commission (SSC)</strong> has released the <strong>Final Result</strong> for
+<strong>Junior Engineer</strong> posts. Candidates who appeared in the Tier-II exam can download the result
+from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>Staff Selection Commission (SSC)</td></tr>
+<tr><th>Post Name</th><td>Junior Engineer</td></tr>
+<tr><th>Post Type</th><td>Result</td></tr>
+<tr><th>Tier-II Exam Date</th><td>07 April 2026</td></tr>
+<tr><th>Final Result Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Total Posts</th><td>1,731</td></tr>
+<tr><th>Result Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://ssc.gov.in" target="_blank">ssc.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Final Result</td><td><a href="https://ssc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://ssc.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://ssc.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Final Result</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Results</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=result&id=mppsc-mining-inspector-final-result-2026">MPPSC Mining Inspector Final Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=hc-calcutta-translator-result-2026">High Court Calcutta Translator Result 2026</a></li>
+<li><a href="../item-detail.html?type=result&id=punjab-sind-bank-so-security-manager-result-2026">Punjab and Sind Bank SO Security Manager Result 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official SSC website.</p>
+`;
 RESULT_CONTENT["rssb-hostel-superintendent-grade-2-result-2026"] = `
 
 <div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">

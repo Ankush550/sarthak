@@ -1,4 +1,277 @@
 const ADMIT_CARD_CONTENT = {};
+ADMIT_CARD_CONTENT["rrb-group-d-application-status-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+RRB Group D Application Status 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Railway Recruitment Board (RRB)</strong> has released the <strong>Application Status</strong> for
+<strong>Group D</strong> posts. Candidates who applied for this recruitment can check their application status
+from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Railway Recruitment Board (RRB)</td></tr>
+<tr><th>Post Name</th><td>Group D</td></tr>
+<tr><th>Post Type</th><td>Application Status</td></tr>
+<tr><th>Total Posts</th><td>22,195</td></tr>
+<tr><th>Application Status Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Exam Date</th><td>03-21 August 2026</td></tr>
+<tr><th>Application Status Check Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://www.rrbcdg.gov.in" target="_blank">rrbcdg.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Check Application Status</td><td><a href="https://www.rrbcdg.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Check Application Status Notice</td><td><a href="https://www.rrbcdg.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.rrbcdg.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://www.rrbcdg.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Check Application Status</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=bpsc-prosecution-officer-admit-card-2026">BPSC Prosecution Officer Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=rpsc-senior-teacher-tgt-admit-card-2026">RPSC Senior Teacher II TGT Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=cbse-group-abc-skill-test-admit-card-2026">CBSE Group A, B, C Skill Test Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official RRB website.</p>
+`;
+
+ADMIT_CARD_CONTENT["bpsc-prosecution-officer-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+BPSC Prosecution Officer Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Bihar Public Service Commission (BPSC)</strong> has released the <strong>Admit Card</strong> for
+<strong>Prosecution Officer</strong> posts (Advt. No. 13/2026) — the Abhiyojan Padadhikari (Prosecution Officer)
+Preliminary Competitive Examination. Candidates who applied for this recruitment can download their admit card
+from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Bihar Public Service Commission (BPSC)</td></tr>
+<tr><th>Post Name</th><td>Prosecution Officer</td></tr>
+<tr><th>Exam Name</th><td>Abhiyojan Padadhikari (Prosecution Officer) Preliminary Competitive Examination</td></tr>
+<tr><th>Advertisement Number</th><td>13/2026</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Total Exam Centres</th><td>81</td></tr>
+<tr><th>Exam Centre Districts</th><td>Patna, Bhojpur, Muzaffarpur, Bhagalpur, Nalanda</td></tr>
+<tr><th>Admit Card Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Exam Date</th><td>15 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://bpsc.bih.nic.in" target="_blank">bpsc.bih.nic.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://bpsc.bih.nic.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://bpsc.bih.nic.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=rrb-group-d-application-status-2026">RRB Group D Application Status 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=rpsc-senior-teacher-tgt-admit-card-2026">RPSC Senior Teacher II TGT Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=cbse-group-abc-skill-test-admit-card-2026">CBSE Group A, B, C Skill Test Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BPSC website.</p>
+`;
+
+ADMIT_CARD_CONTENT["rpsc-senior-teacher-tgt-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+RPSC Senior Teacher II TGT Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Rajasthan Public Service Commission (RPSC)</strong> has released the <strong>Admit Card</strong> for
+<strong>Senior Teacher TGT</strong> posts. Candidates who applied for this recruitment can download their
+admit card from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Rajasthan Public Service Commission (RPSC)</td></tr>
+<tr><th>Post Name</th><td>Senior Teacher TGT</td></tr>
+<tr><th>Exam Name</th><td>RPSC Senior Teacher TGT Examination 2026</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Total Posts</th><td>6,500</td></tr>
+<tr><th>Admit Card Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Exam Date</th><td>12-18 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://rpsc.rajasthan.gov.in" target="_blank">rpsc.rajasthan.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card (Server I)</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Download Admit Card (Server II)</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://rpsc.rajasthan.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://rpsc.rajasthan.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=rrb-group-d-application-status-2026">RRB Group D Application Status 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=bpsc-prosecution-officer-admit-card-2026">BPSC Prosecution Officer Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=cbse-group-abc-skill-test-admit-card-2026">CBSE Group A, B, C Skill Test Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official RPSC website.</p>
+`;
+ADMIT_CARD_CONTENT["cbse-group-abc-skill-test-admit-card-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 09 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+CBSE Group A, B, C Skill Test Admit Card 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>Central Board of Secondary Education (CBSE)</strong> has released the <strong>Skill Test Admit
+Card</strong> for <strong>Group A, B, C</strong> posts, including Assistant Secretary, Assistant Professor,
+Accounts Officer, Superintendent, Junior Translation Officer, Junior Accountant and Junior Assistant. Candidates
+who applied for this recruitment can download their admit card from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Recruiting Organization</th><td>Central Board of Secondary Education (CBSE)</td></tr>
+<tr><th>Post Name</th><td>Group A, B, C (Assistant Secretary, Assistant Professor, Accounts Officer,
+Superintendent, Junior Translation Officer, Junior Accountant, Junior Assistant)</td></tr>
+<tr><th>Advertisement Number</th><td>CBSE/Rectt. Cell/14(88)/2025</td></tr>
+<tr><th>Post Type</th><td>Admit Card</td></tr>
+<tr><th>Admit Card Release Date</th><td>09 July 2026</td></tr>
+<tr><th>Skill Test Date</th><td>11 July 2026</td></tr>
+<tr><th>Admit Card Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://cbse.gov.in" target="_blank">cbse.gov.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Admit Card</td><td><a href="https://cbse.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://cbse.gov.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://cbse.gov.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Admit Card</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=nta-csir-ugc-net-june-exam-city-2026">NTA CSIR UGC NET June Exam City Details 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=opsc-assistant-professor-admit-card-2026">OPSC Assistant Professor Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=jkpsc-prosecuting-officer-mains-admit-card-2026">JKPSC Prosecuting Officer Mains Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CBSE website.</p>
+`;
+
+ADMIT_CARD_CONTENT["nta-csir-ugc-net-june-exam-city-2026"] = `
+
+<div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
+<strong>By Ankush Jain</strong> | Updated: 08 July 2026
+</div>
+
+<h1 style="font-size:36px;color:#333;">
+NTA CSIR UGC NET June Exam City Details 2026
+</h1>
+
+<p style="font-size:18px;line-height:1.8;">
+<strong>National Testing Agency (NTA)</strong> has released the <strong>Exam City Slip</strong> for
+<strong>UGC CSIR NET June Examination 2026</strong>. Candidates who applied for this examination can check
+their allotted exam city from the link given below.
+</p>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;margin-top:20px;">
+
+<tr><th>Organization Name</th><td>National Testing Agency (NTA)</td></tr>
+<tr><th>Exam Name</th><td>UGC CSIR NET June Examination 2026</td></tr>
+<tr><th>Post Type</th><td>Exam City</td></tr>
+<tr><th>Exam City Slip Release Date</th><td>08 July 2026</td></tr>
+<tr><th>Exam Date</th><td>17 – 18 July 2026</td></tr>
+<tr><th>Admit Card Release</th><td>Before Exam</td></tr>
+<tr><th>City Slip Download Process</th><td>Online</td></tr>
+<tr><th>Official Website</th><td><a href="https://csirnet.nta.ac.in" target="_blank">csirnet.nta.ac.in</a></td></tr>
+
+</table>
+
+<h2 style="font-size:26px;margin-top:30px;">Important Links</h2>
+
+<table class="table table-bordered" style="width:100%;font-size:16px;border-collapse:collapse;">
+
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Download Exam City</td><td><a href="https://csirnet.nta.ac.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Check Exam Date Notice</td><td><a href="https://csirnet.nta.ac.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://csirnet.nta.ac.in" target="_blank">Click Here</a></td></tr>
+
+</table>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:16px;border-radius:8px;margin-top:25px;text-align:center;">
+<a href="https://csirnet.nta.ac.in" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:12px 28px;text-decoration:none;border-radius:6px;font-size:17px;font-weight:bold;">Download Exam City Slip</a>
+</div>
+
+<h2 style="font-size:26px;margin-top:30px;">Related Admit Cards</h2>
+<ul style="font-size:17px;line-height:1.9;">
+<li><a href="../item-detail.html?type=admitcard&id=cbse-group-abc-skill-test-admit-card-2026">CBSE Group A, B, C Skill Test Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=opsc-assistant-professor-admit-card-2026">OPSC Assistant Professor Admit Card 2026</a></li>
+<li><a href="../item-detail.html?type=admitcard&id=jkpsc-prosecuting-officer-mains-admit-card-2026">JKPSC Prosecuting Officer Mains Admit Card 2026</a></li>
+</ul>
+
+<p style="font-size:11px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NTA website.</p>
+`;
 ADMIT_CARD_CONTENT["upsssc-teacher-cadre-jtc-admit-card-2026"] = `
 
 <div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
