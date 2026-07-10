@@ -431,6 +431,436 @@ const JOBS_DATA = [
     isNew:true
 },
     {
+    id:"upessc-assistant-professor-bed-recruitment-2025",
+    orgWebsite:"https://upessc.up.gov.in",
+    title:"UPESSC Assistant Professor Vacancy 2025 Re-Open",
+    shortTitle:"UPESSC Assistant Professor Re-Open Form 2026",
+    organization:"Uttar Pradesh Education Service Selection Commission (UPESSC)",
+    image:"UPESSCAssistantProfessor.jpeg",
+
+    totalPosts:107,
+
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026 (Re-Open)",
+
+    datePosted:"2026-04-28",
+    validThrough:"2026-07-20T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    location:"Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Master's Degree (55%) + M.Ed./M.A. Education + B.Ed. (55%) with UGC NET (Education) or Ph.D.",
+
+    ageLimit:"Up to 62 Years",
+
+    applyLink:"https://upessc.up.gov.in",
+    officialNotification:"https://upessc.up.gov.in",
+
+    fee:"General/OBC: Rs. 2,000 | SC/ST/PH: Rs. 1,000",
+
+    description:"Uttar Pradesh Education Service Selection Commission (UPESSC) has re-opened the online application window for Assistant Professor (B.Ed) Direct Recruitment 2025, offering 107 posts in Uttar Pradesh's aided colleges. Candidates who missed the earlier window (28 April - 27 May 2026) can now apply again from 10 July 2026 to 20 July 2026. Candidates need a Master's degree with 55% marks, M.Ed./M.A. Education with B.Ed., and UGC NET (Education) or Ph.D. Selection includes a Written Examination (scheduled for 28 July 2026), Interview, Document Verification and Medical Examination.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Assistant Professor (B.Ed)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-04-28",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"28 July 2026",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {category:"General (UR)", totalPosts:44},
+        {category:"EWS", totalPosts:7},
+        {category:"OBC", totalPosts:36},
+        {category:"SC", totalPosts:20},
+        {category:"ST", totalPosts:11}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"jharkhand-anganwadi-sevika-sahayika-recruitment-2026",
+    orgWebsite:"https://jharkhand.gov.in",
+    title:"Jharkhand Anganwadi Vacancy 2026",
+    shortTitle:"Jharkhand Anganwadi Sevika Sahayika Offline Form 2026",
+    organization:"Women, Child Development & Social Security Department, Jharkhand",
+    image:"JharkhandAnganwadi.jpeg",
+
+    totalPosts:500,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"District-Wise (Ongoing)",
+
+    datePosted:"2026-07-02",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    location:"Jharkhand (Godda, Giridih, Dhanbad and Other Districts)",
+    addressLocality:"Ranchi",
+    addressRegion:"Jharkhand",
+    addressCountry:"IN",
+
+    qualification:"10th Pass (Sahayika), 12th Pass (Sevika)",
+
+    ageLimit:"18 to 35 Years",
+
+    applyLink:"https://jharkhand.gov.in",
+    officialNotification:"https://jharkhand.gov.in",
+
+    fee:"No Fee",
+
+    description:"Women, Child Development & Social Security Department, Jharkhand has started district-wise recruitment for Anganwadi Sevika and Anganwadi Sahayika posts. Notifications for Godda, Giridih and Dhanbad districts have already been released, with more districts to follow in phases. Applications are offline; only eligible women from the concerned Anganwadi catchment area can apply. There is no written exam - selection is based on Gram Sabha, document verification and merit list. Candidates need 12th Pass for Sevika and 10th Pass for Sahayika, and must be between 18 and 35 years of age.",
+
+    category:"Jharkhand Government Jobs",
+    jobType:"Anganwadi Sevika, Anganwadi Sahayika",
+
+    advertisementNo:"Not Specified (District-Wise)",
+
+    applicationStartDate:"2026-07-02",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"Gram Sabha (District-Wise Schedule)",
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"gadvasu-non-teaching-recruitment-2026",
+    orgWebsite:"https://www.gadvasu.in",
+    title:"GADVASU Vacancy 2026",
+    shortTitle:"GADVASU Non-Teaching Offline Form 2026",
+    organization:"Guru Angad Dev Veterinary and Animal Sciences University (GADVASU)",
+    image:"GADVASU.jpeg",
+
+    totalPosts:49,
+
+    lastDate:"2026-07-28",
+    lastDateDisplay:"28 July 2026 (4:00 PM)",
+
+    datePosted:"2026-06-01",
+    validThrough:"2026-07-28T16:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:18000,
+    salaryMax:35400,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Ludhiana, Punjab",
+    addressLocality:"Ludhiana",
+    addressRegion:"Punjab",
+    addressCountry:"IN",
+
+    qualification:"Matriculation with Punjabi (Common) + Post-Wise Technical Qualification",
+
+    ageLimit:"18 to 37 Years",
+
+    applyLink:"https://www.gadvasu.in",
+    officialNotification:"https://www.gadvasu.in",
+
+    fee:"Post 1-5: SC/ST/PwD Rs. 590, Others Rs. 1,180 | Post 6-7: SC/ST/PwD Rs. 295, Others Rs. 590",
+
+    description:"Guru Angad Dev Veterinary and Animal Sciences University (GADVASU), Ludhiana has invited offline applications for 49 posts including Junior Engineer (Civil & Electrical), Veterinary Inspector, Agriculture Sub-Inspector, Driver, Chowkidar and Animal Attendant. As per the revised notice, the last date to submit the offline application is 28 July 2026 (4:00 PM). Candidates must have passed Matriculation with Punjabi. Selection includes a Punjabi Language Qualifying Test, Written Examination/Competitive Test, Skill/Physical Test, Document Verification and Medical Examination.",
+
+    category:"Punjab Government Jobs",
+    jobType:"Junior Engineer, Veterinary Inspector, Agriculture Sub-Inspector, Driver, Chowkidar, Animal Attendant",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-06-20",
+    applicationEndDate:"2026-07-28",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Junior Engineer (Civil)", totalPosts:1},
+        {postName:"Junior Engineer (Electrical)", totalPosts:1},
+        {postName:"Veterinary Inspector", totalPosts:5},
+        {postName:"Agriculture Sub-Inspector", totalPosts:2},
+        {postName:"Driver", totalPosts:10},
+        {postName:"Chowkidar", totalPosts:10},
+        {postName:"Animal Attendant", totalPosts:20}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"bel-havildar-security-recruitment-2026",
+    orgWebsite:"https://bel-india.in",
+    title:"BEL Havildar Vacancy 2026",
+    shortTitle:"BEL Havildar (Security) Online Form 2026",
+    organization:"Bharat Electronics Limited (BEL)",
+    image:"BELHavildar.jpeg",
+
+    totalPosts:5,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:20500,
+    salaryMax:79000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Maharashtra",
+    addressLocality:"Pune",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"SSLC (10th Pass) + Minimum 15 Years Military Service",
+
+    ageLimit:"Up to 43 Years",
+
+    applyLink:"https://bel-india.in",
+    officialNotification:"https://bel-india.in",
+
+    fee:"Not Mentioned",
+
+    description:"Bharat Electronics Limited (BEL) has invited online applications for 5 Havildar (Security) posts, reserved 100% for Ex-Servicemen. Online applications started on 08 July 2026 and will close on 31 July 2026. Candidates need SSLC (10th Pass), a minimum of 15 years of service in the Indian Armed Forces, AYE & SHAPE-I medical category, and knowledge of Marathi language. Selection includes Application Screening, Physical Endurance Test (PET), Written Examination, Document Verification and Medical Examination. Selected candidates will get a pay scale of Rs. 20,500 to Rs. 79,000 with an approximate annual CTC of Rs. 6.2 lakhs.",
+
+    category:"PSU Jobs",
+    jobType:"Havildar (Security)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"UR", totalPosts:1},
+        {category:"OBC (NCL)", totalPosts:1},
+        {category:"SC", totalPosts:1},
+        {category:"ST", totalPosts:1},
+        {category:"EWS", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"ncl-mining-sirdar-surveyor-recruitment-2026",
+    orgWebsite:"https://www.nclcil.in",
+    title:"Northern Coalfields Limited Vacancy 2026",
+    shortTitle:"NCL Mining Sirdar Surveyor Online Form 2026",
+    organization:"Northern Coalfields Limited (NCL)",
+    image:"NCLMiningSirdar.jpeg",
+
+    totalPosts:259,
+
+    lastDate:"2026-08-05",
+    lastDateDisplay:"05 August 2026",
+
+    datePosted:"2026-07-10",
+    validThrough:"2026-08-05T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:47330,
+    salaryMax:51103,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Madhya Pradesh (NCL Coalfields)",
+    addressLocality:"Singrauli",
+    addressRegion:"Madhya Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Matriculation (10th Pass) with DGMS Certificate / Mining Diploma-Degree",
+
+    ageLimit:"18 to 30 Years",
+
+    applyLink:"https://www.nclcil.in",
+    officialNotification:"https://www.nclcil.in",
+
+    fee:"General/OBC/EWS: Rs. 1,180 | SC/ST/ESM/Departmental: Nil",
+
+    description:"Northern Coalfields Limited (NCL) has released the official notification for Mining Sirdar T&S Grade C and Surveyor (Mining) T&S Grade B posts, inviting applications for 259 posts. Online applications will start on 14 July 2026 and close on 05 August 2026. Candidates need Matriculation with a DGMS Mining Sirdar/Surveyor Certificate, or a Diploma/Degree in Mining Engineering with the relevant competency certificate. Selection is through a Computer Based Test (CBT) and Document Verification. Selected candidates will get a basic pay of Rs. 47,330.25 to Rs. 51,103.12 per month plus allowances.",
+
+    category:"PSU Jobs",
+    jobType:"Mining Sirdar T&S Gr. C, Surveyor (Mining) T&S Gr. B",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-14",
+    applicationEndDate:"2026-08-05",
+
+    examDate:"To Be Announced (CBT)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Mining Sirdar T&S Grade C - UR", totalPosts:101},
+        {postName:"Mining Sirdar T&S Grade C - EWS", totalPosts:25},
+        {postName:"Mining Sirdar T&S Grade C - OBC-NCL", totalPosts:64},
+        {postName:"Mining Sirdar T&S Grade C - SC", totalPosts:51},
+        {postName:"Mining Sirdar T&S Grade C - ST", totalPosts:13},
+        {postName:"Surveyor (Mining) T&S Grade B - UR", totalPosts:2},
+        {postName:"Surveyor (Mining) T&S Grade B - OBC-NCL", totalPosts:1},
+        {postName:"Surveyor (Mining) T&S Grade B - ST", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"bpssc-forest-range-officer-recruitment-2026",
+    orgWebsite:"https://bpssc.bihar.gov.in",
+    title:"BPSSC Forest Range Officer Vacancy 2026",
+    shortTitle:"BPSSC Forest Range Officer Online Form 2026",
+    organization:"Bihar Police Subordinate Services Commission (BPSSC)",
+    image:"BPSSCForestRangeOfficer.jpeg",
+
+    totalPosts:16,
+
+    lastDate:"2026-08-16",
+    lastDateDisplay:"16 August 2026",
+
+    datePosted:"2026-07-10",
+    validThrough:"2026-08-16T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:35400,
+    salaryMax:112400,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bihar",
+    addressLocality:"Patna",
+    addressRegion:"Bihar",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree in Science / Agriculture / Forestry / Engineering",
+
+    ageLimit:"21 to 42 Years",
+
+    applyLink:"https://bpssc.bihar.gov.in",
+    officialNotification:"https://bpssc.bihar.gov.in",
+
+    fee:"All Categories: Rs. 100",
+
+    description:"Bihar Police Subordinate Services Commission (BPSSC) has released the official notification for Forest Range Officer posts under the Environment, Forest and Climate Change Department, inviting applications for 16 posts. Online applications will start on 16 July 2026 and close on 16 August 2026. Candidates need a Bachelor's degree with a science subject (Botany, Chemistry, Zoology, etc.), or a degree in Agriculture, Forestry or Engineering. Selection includes a Written Examination (Paper-I & II), Interview, Physical Efficiency Test (PET), Medical Examination and Document Verification. Selected candidates will get Level-6 salary of Rs. 35,400 to Rs. 1,12,400 per month.",
+
+    category:"Bihar Government Jobs",
+    jobType:"Forest Range Officer",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-16",
+    applicationEndDate:"2026-08-16",
+
+    examDate:"To Be Announced",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {category:"Unreserved (UR)", totalPosts:6},
+        {category:"Scheduled Caste (SC)", totalPosts:3},
+        {category:"Extremely Backward Class (EBC)", totalPosts:3},
+        {category:"Backward Class (BC)", totalPosts:2},
+        {category:"Economically Weaker Section (EWS)", totalPosts:2}
+    ],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"cmho-bemetara-recruitment-2026",
+    orgWebsite:"https://bemetara.gov.in",
+    title:"CMHO Bemetara Bharti 2026",
+    shortTitle:"CMHO Bemetara Offline Form 2026",
+    organization:"Chief Medical and Health Office, Bemetara (CMHO Bemetara)",
+    image:"CMHOBemetara.jpeg",
+
+    totalPosts:52,
+
+    lastDate:"2026-08-14",
+    lastDateDisplay:"14 August 2026",
+
+    datePosted:"2026-07-08",
+    validThrough:"2026-08-14T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:8800,
+    salaryMax:25000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bemetara, Chhattisgarh",
+    addressLocality:"Bemetara",
+    addressRegion:"Chhattisgarh",
+    addressCountry:"IN",
+
+    qualification:"10th / 12th / ANM / GNM / B.Sc Nursing / BPT / BHMS / BAMS / BUMS / DMLT / B.Com+PGDCA (Post Wise)",
+
+    ageLimit:"18 to 70 Years",
+
+    applyLink:"https://bemetara.gov.in",
+    officialNotification:"https://bemetara.gov.in",
+
+    fee:"Divyang/SC/ST: Rs. 100 | OBC/Women: Rs. 200 | Unreserved: Rs. 300",
+
+    description:"Chief Medical and Health Office, Bemetara (CMHO Bemetara) has invited offline applications for 52 contractual posts including Community Health Officer, Staff Nurse, Nursing Officer, Pharmacist, Physiotherapist, Counselor, Laboratory Technician, Dental Assistant, Block Manager and Support Staff. Candidates with 10th, 12th, ANM, GNM, B.Sc Nursing, BPT, BAMS, BHMS, BUMS, DMLT or other relevant qualifications can apply. The last date to submit the application is 14 August 2026. Selection is based on document scrutiny, document verification, skill test (if applicable) and merit list. Salary ranges from Rs. 8,800 to Rs. 25,000 per month depending on the post.",
+
+    category:"Chhattisgarh Government Jobs",
+    jobType:"CHO, Staff Nurse, Nursing Officer, Pharmacist, Physiotherapist, Counselor, Lab Technician & More",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-08",
+    applicationEndDate:"2026-08-14",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Community Health Officer (CHO)", totalPosts:24},
+        {postName:"Staff Nurse (SNCU/NBSU)", totalPosts:6},
+        {postName:"Nursing Officer", totalPosts:3},
+        {postName:"Counselor (NHM)", totalPosts:3},
+        {postName:"Laboratory Technician (DPHL/BPHU)", totalPosts:2},
+        {postName:"Physiotherapist", totalPosts:2},
+        {postName:"MO-AYUSH", totalPosts:2},
+        {postName:"Support Staff (Housekeeping/4th Class)", totalPosts:2},
+        {postName:"Jr. Secretarial Assistant (PADA)", totalPosts:2},
+        {postName:"2nd ANM", totalPosts:1},
+        {postName:"Dental Assistant", totalPosts:1},
+        {postName:"Technical Assistant (Hearing Impaired Children)", totalPosts:1},
+        {postName:"Block Manager - Account", totalPosts:1},
+        {postName:"Pharmacist", totalPosts:1},
+        {postName:"TBHV", totalPosts:1}
+    ],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"idbi-bank-specialist-officer-recruitment-2026",
     orgWebsite:"https://idbi.bank.in",
     title:"IDBI Bank Specialist Officer Vacancy 2026",
