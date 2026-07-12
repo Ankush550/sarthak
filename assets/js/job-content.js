@@ -189,7 +189,6 @@ Uttar Pradesh mein higher education teaching posts ka hiring cycle historically 
 </ul>
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPESSC notification before applying.</p>
 `;
-
 JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
@@ -207,6 +206,13 @@ JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.9;">The <strong>Women, Child Development & Social Security Department, Jharkhand</strong> has started <strong>district-wise recruitment</strong> for <strong>Anganwadi Sevika</strong> and <strong>Anganwadi Sahayika</strong> posts. Notifications for <strong>Godda, Giridih and Dhanbad</strong> districts have already been released, with more districts to follow in phases.</p>
 
 <p style="font-size:20px;line-height:1.9;">Applications are <strong>offline</strong>; only eligible women from the concerned Anganwadi catchment area can apply. There is <strong>no written examination</strong> — selection is based on <strong>Gram Sabha, document verification and merit</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh bhrti ek <strong>rolling, district-wise process</strong> hai — matlab yeh ek single notification nahi hai jisme ek hi last date ho, balki har district apni-apni panchayat/ward-level Gram Sabha schedule alag-alag time pe release karta hai. Godda, Giridih aur Dhanbad ki tulna karein toh Giridih ka scope sabse bada dikh raha hai (20+ panchayats already listed), jabki Dhanbad mostly urban wards cover kar raha hai. Yeh pattern batata hai ki Jharkhand sarkar puri state mein <strong>Anganwadi centres ko upgrade/fill</strong> kar rahi hai in phases — matlab agar aapka district abhi list mein nahi hai, toh aane wale mahino mein aane ki poori sambhavna hai.
+</p>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -253,6 +259,16 @@ JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 <!-- AdSense Ad 2 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
 
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap us specific panchayat/ward ki hi permanent resident hain jahan vacancy hai — yeh sabse zaroori sharat hai, kyunki chayan sirf local Gram Sabha se hoga, koi centralized merit list nahi hoti. Yeh un mahilaon ke liye ideal hai jo apne hi gaon/ward mein community-level service karna chahti hain aur ghar ke paas kaam chahti hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap doosre district/panchayat se belong karti hain aur "adjust" karne ki soch rahi hain — is bhrti mein yeh possible nahi hai. Domicile mismatch sabse common rejection reason hai in Anganwadi recruitments mein.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Required Qualification & Selection</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Post</th><th>Qualification</th></tr>
@@ -269,6 +285,15 @@ JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 <tr><td>5</td><td>Merit List & Final Selection</td></tr>
 </table>
 
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Apne panchayat/ward ki Gram Sabha date miss mat karein — is process mein <strong>self-appear karna mandatory</strong> hai, koi proxy ya online option nahi hai.</li>
+<li>Application form mein apne <strong>exact panchayat/ward ka naam wahi likhein</strong> jo official notification mein diya gaya hai — spelling mismatch se document verification mein dikkat aati hai.</li>
+<li>Original documents ke bina Gram Sabha mein mat jayein — self-attested photocopies ke saath <strong>originals bhi zaroor le jayein</strong>, verification usi din hoti hai.</li>
+</ul>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
 <ol style="font-size:20px;line-height:2;">
 <li>Visit your respective District Office or obtain the form from the district notification.</li>
@@ -279,6 +304,12 @@ JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 <li>Attend the Gram Sabha with all original documents.</li>
 <li>Complete document verification and wait for the merit list.</li>
 </ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information has been cross-checked with the district-level notifications released for Godda, Giridih and Dhanbad. Since this is a rolling, district-wise process, we recommend checking your own district's CDPO office or official notification directly, as schedules can change and new districts are added periodically.
+</p>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -292,13 +323,20 @@ JOB_CONTENT["jharkhand-anganwadi-sevika-sahayika-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;">More than <strong>500 posts</strong> are expected statewide, with vacancies varying by district.</p>
 <h3>2. Is there a written exam?</h3>
 <p style="font-size:20px;line-height:1.8;">No, selection is based on <strong>Gram Sabha, document verification and merit</strong>.</p>
-<h3>3. What is the age limit?</h3>
+<h3>3. My district isn't listed yet — should I wait or is there another way to apply?</h3>
+<p style="font-size:20px;line-height:1.8;">Since this is a phased, rolling recruitment, districts not yet listed will likely release their own notification later. There is no separate state-wide application for districts pending notification — keep checking your district's official page.</p>
+<h3>4. What is the age limit?</h3>
 <p style="font-size:20px;line-height:1.8;">Candidates must be between <strong>18 and 35 years</strong>.</p>
-<h3>4. Is there any application fee?</h3>
+<h3>5. Is there any application fee?</h3>
 <p style="font-size:20px;line-height:1.8;">No application fee is required for any category.</p>
 
+<h2 style="font-size:36px;margin-top:40px;">Jharkhand Government Jobs Mein Aur Bhi Mauke</h2>
+<p style="font-size:18px;line-height:1.9;">
+Jharkhand mein Anganwadi ke saath-saath Women, Child Development Department dwara aur bhi contractual health/education roles nikalte rehte hain. In sabmein selection ka pattern district-specific hota hai, isliye apne district ki official website regularly check karna zaroori hai.
+</p>
+
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>Jharkhand Anganwadi Vacancy 2026</strong> offers women across Jharkhand a chance to join child development services. Check your district's official notification regularly as more districts release their schedules.</p>
+<p style="font-size:20px;line-height:1.9;">Yeh recruitment un mahilaon ke liye ek genuine local opportunity hai jo apne hi ward/panchayat mein service karna chahti hain. Chunki har district ki date alag hai, sabse zaroori kaam hai apne district ka official notification regularly check karna aur Gram Sabha ki date miss na karna.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Check Jharkhand Anganwadi Vacancy 2026</h2>
@@ -332,6 +370,13 @@ JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
 
 <p style="font-size:20px;line-height:1.9;"><strong>Guru Angad Dev Veterinary and Animal Sciences University (GADVASU)</strong>, Ludhiana has invited offline applications for <strong>49 posts</strong> including Junior Engineer, Veterinary Inspector, Agriculture Sub-Inspector, Driver, Chowkidar and Animal Attendant. As per the revised notice, the last date is <strong>28 July 2026 (4:00 PM)</strong>.</p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh notification ek <strong>revised/extended notice</strong> hai — matlab GADVASU ne fee payment link 20 June 2026 ko activate kiya tha, lekin ab last date ko 28 July tak badha diya gaya hai. Punjab ke veterinary universities mein non-teaching posts kaafi rare hote hain (yeh saal ki pehli badi bhrti hai), aur 49 posts mein se 30 posts (Chowkidar + Animal Attendant) Level-1 category mein hain, jo dikhata hai ki university ka focus abhi ground-staff strengthening pe zyada hai, technical roles (JE, Vet Inspector) kam hain — total 8 hi hain.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Organisation</th><td>GADVASU, Ludhiana</td></tr>
@@ -353,6 +398,16 @@ JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
 <tr><td>Chowkidar & Animal Attendant (6–7)</td><td>₹295</td><td>₹590</td></tr>
 </table>
 
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap 10th se Diploma level ke Punjab-based candidates hain aur Chowkidar ya Animal Attendant jaisi entry-level Level-1 posts (jinme total 30 seats hain) ke liye competition kam risky lagta hai. Driver post (10 seats) bhi accessible hai agar aapke paas valid license hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Junior Engineer ya Veterinary Inspector jaisi technical post target kar rahe hain — yahan sirf 1-5 seats hain per category, isliye competition tightest hoga in specialized roles mein.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Post</th><th>Vacancies</th><th>Pay Level</th><th>Salary</th></tr>
@@ -370,6 +425,15 @@ JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
 
 <h2 style="font-size:36px;margin-top:40px;">Eligibility</h2>
 <p style="font-size:20px;line-height:1.9;">Candidates must be between <strong>18 and 37 years</strong> of age. Common requirement: <strong>Matriculation with Punjabi</strong> from a recognized board. Post-wise detailed qualification is available in the official notification.</p>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Matriculation certificate mein <strong>Punjabi subject clearly mentioned</strong> hona chahiye — agar aapne Punjabi kisi doosre level pe padhi hai (jaise 12th mein), toh apply karne se pehle official notification se confirm kar lein ki yeh accept hoga ya nahi.</li>
+<li>Three self-addressed envelopes (9×4 inches) attach karna <strong>mandatory hai</strong> — bahut candidates yeh chhota sa requirement miss kar dete hain jisse application incomplete maana jata hai.</li>
+<li>Fee payment link 20 June se activate hai, lekin last date 28 July hai — fee receipt attach karna na bhoolein, isके bina application incomplete rahega.</li>
+</ul>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -393,6 +457,12 @@ JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
 <li>Ensure it reaches by 28 July 2026 (4:00 PM).</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information reflects GADVASU's revised notice extending the deadline from an earlier date to 28 July 2026. We recommend checking the official gadvasu.in portal for the latest amendment before posting your application, as universities sometimes issue further corrigenda close to the deadline.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -405,11 +475,13 @@ JOB_CONTENT["gadvasu-non-teaching-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;">A total of <strong>49 posts</strong> across 7 categories.</p>
 <h3>2. Is Punjabi mandatory?</h3>
 <p style="font-size:20px;line-height:1.8;">Yes, Matriculation with Punjabi and a 50% qualifying Punjabi test is required.</p>
-<h3>3. What is the highest salary post?</h3>
+<h3>3. Why was the last date extended?</h3>
+<p style="font-size:20px;line-height:1.8;">GADVASU issued a revised notice pushing the original deadline to 28 July 2026 (4:00 PM) — candidates should rely on this latest date rather than any earlier date circulating online.</p>
+<h3>4. What is the highest salary post?</h3>
 <p style="font-size:20px;line-height:1.8;">Junior Engineer (Civil/Electrical) at <strong>₹35,400</strong> per month.</p>
 
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>GADVASU Vacancy 2026</strong> offers 10th to Diploma-level candidates a government job at a Punjab university. Send your application well before <strong>28 July 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">The <strong>GADVASU Vacancy 2026</strong> offers 10th to Diploma-level candidates a government job at a Punjab university, with entry-level Level-1 posts offering the best odds given the seat count. Send your application well before <strong>28 July 2026</strong>, and don't forget the three self-addressed envelopes.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for GADVASU Vacancy 2026</h2>
@@ -443,6 +515,13 @@ JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
 
 <p style="font-size:20px;line-height:1.9;"><strong>Bharat Electronics Limited (BEL)</strong> has invited online applications for <strong>5 Havildar (Security)</strong> posts, reserved <strong>100% for Ex-Servicemen</strong>. Candidates need SSLC (10th Pass), a minimum of <strong>15 years</strong> of Indian Armed Forces service, and knowledge of Marathi.</p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh ek chhoti lekin highly targeted bhrti hai — sirf <strong>5 posts</strong>, 100% Ex-Servicemen ke liye reserved, aur Marathi language mandatory hai, jo confirm karta hai ki yeh posting BEL ki <strong>Pune/Maharashtra facility</strong> ke liye hai. PSU security roles mein aisi small-batch, category-specific recruitments saal mein ek-do baar hi aati hain, isliye competition sirf un candidates tak limited rahega jo already Sainik Welfare Board registered hain — general public se apply karne ka koi tareeka hi nahi hai.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Organisation</th><td>Bharat Electronics Limited (BEL)</td></tr>
@@ -462,6 +541,16 @@ JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
 <tr><td>Havildar (Security)</td><td>05</td><td>01</td><td>01</td><td>01</td><td>01</td><td>01</td><td>100% Ex-Servicemen</td></tr>
 </table>
 
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap ek Ex-Serviceman hain jisne minimum 15 saal Indian Armed Forces mein serve kiya hai, aur Maharashtra mein settle hone/kaam karne ke liye ready hain. Marathi bolna-likhna aana bhi essential hai, isliye Maharashtra-based ya Marathi-speaking veterans ke liye yeh ek natural fit hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapki Sainik Welfare Board registration Maharashtra mein nahi hai — is bhrti mein District Sainik Welfare Board (Maharashtra) registration mandatory hai, doosre state ki registration accept nahi hogi.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Criteria</th><th>Details</th></tr>
@@ -474,6 +563,15 @@ JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
 </table>
 <!-- AdSense Ad 2 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Medical category proof ke bina apply mat karein — <strong>AYE & SHAPE-I</strong> category confirm karna document verification ka pehla step hoga, iske bina application aage nahi badhega.</li>
+<li>Discharge Certificate aur PPO (agar applicable ho) ki original copies ready rakhein — Ex-Servicemen recruitments mein yeh sabse zyada delay karne wala document hota hai.</li>
+<li>Marathi proficiency ko halke mein mat lein — yeh sirf tick-box nahi hai, Written Examination ya interview stage mein practically test ho sakta hai.</li>
+</ul>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -504,6 +602,12 @@ JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
 <li>Submit and download the final application form.</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with BEL's official recruitment notice released on 08 July 2026. As this posting is location and category-specific (Maharashtra, Ex-Servicemen only), candidates outside this scope are advised to check BEL's other regional notifications instead.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -518,9 +622,11 @@ JOB_CONTENT["bel-havildar-security-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;"><strong>₹20,500 – ₹79,000</strong> with ~₹6.2 lakh annual CTC.</p>
 <h3>3. Is Marathi mandatory?</h3>
 <p style="font-size:20px;line-height:1.8;">Yes, candidates must be able to read, write and speak Marathi.</p>
+<h3>4. Can Ex-Servicemen from other states apply?</h3>
+<p style="font-size:20px;line-height:1.8;">The notification requires registration with the District Sainik Welfare Board of Maharashtra, which effectively limits eligibility to candidates settled in or registered within the state.</p>
 
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>BEL Havildar Vacancy 2026</strong> is a great post-retirement opportunity for Ex-Servicemen. Apply before <strong>31 July 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">The <strong>BEL Havildar Vacancy 2026</strong> is a great post-retirement opportunity for Maharashtra-based Ex-Servicemen with a strong CTC. Given the limited 5-post window, get your discharge and medical documents in order early and apply before <strong>31 July 2026</strong>.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for BEL Havildar Vacancy 2026</h2>
@@ -554,6 +660,13 @@ JOB_CONTENT["ncl-mining-sirdar-surveyor-recruitment-2026"] = `
 
 <p style="font-size:20px;line-height:1.9;"><strong>Northern Coalfields Limited (NCL)</strong> has released the notification for <strong>Mining Sirdar T&S Grade C</strong> and <strong>Surveyor (Mining) T&S Grade B</strong> posts, offering <strong>259 posts</strong>.</p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+259 posts mein se <strong>254 posts sirf Mining Sirdar</strong> ke hain aur Surveyor ke sirf 5 — yeh ratio dikhata hai ki NCL abhi mine-level supervision staff ko urgently strengthen kar raha hai, technical survey roles ki demand comparatively kam hai. Coal India subsidiaries (jaise NCL) mein aisi bade scale ki mining sirdar recruitment saal mein ek baar hi aati hai, isliye 10th pass + DGMS certificate wale candidates ke liye yeh 2026 ki sabse badi opportunity ho sakti hai coal sector mein.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Organisation</th><td>Northern Coalfields Limited (NCL)</td></tr>
@@ -584,12 +697,31 @@ JOB_CONTENT["ncl-mining-sirdar-surveyor-recruitment-2026"] = `
 <!-- AdSense Ad 2 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
 
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas already DGMS Mining Sirdar Certificate hai (ya aap Diploma/Degree in Mining Engineering ke saath Overman Certificate rakhte hain) — Mining Sirdar Grade C mein 254 posts hain, jo statistically sabse achha shot hai is recruitment mein.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Surveyor role target kar rahe hain — sirf 5 posts hain across the country, isliye Mining Sirdar ke muqable competition kai gunaa zyada tight hoga.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Post</th><th>Qualification</th></tr>
 <tr><td>Mining Sirdar T&S Grade C</td><td>10th Pass + DGMS Mining Sirdar Certificate, Gas Testing & First Aid Certificate, OR Diploma/Degree in Mining Engineering with Overman Certificate</td></tr>
 <tr><td>Surveyor (Mining) T&S Grade B</td><td>10th Pass + DGMS Surveyor's Certificate, OR Diploma/Degree in Mining/Mine Surveying with DGMS Certificate</td></tr>
 </table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>DGMS certificate ki <strong>validity date expire toh nahi ho gayi</strong>, apply karne se pehle zaroor check karein — expired certificate se application reject ho sakta hai.</li>
+<li>Mining Sirdar aur Surveyor dono certificates hone par bhi <strong>ek hi post ke liye apply karein</strong> jisme aapki genuine competency hai — technical interview mein ganda mismatch dikh sakta hai.</li>
+<li>SC/ST/ESM candidates fee exemption ke liye apna category certificate application ke saath hi upload karein, baad mein add karne ka option nahi hoga.</li>
+</ul>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -623,6 +755,12 @@ JOB_CONTENT["ncl-mining-sirdar-surveyor-recruitment-2026"] = `
 <li>Pay the fee online and submit the form.</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the official NCL notification released on 10 July 2026. Since 98% of the seats are for Mining Sirdar, candidates should double-check their DGMS certificate category before applying for Surveyor.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -637,9 +775,11 @@ JOB_CONTENT["ncl-mining-sirdar-surveyor-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;">No, the NCL CBT has <strong>no negative marking</strong>.</p>
 <h3>3. What is the salary?</h3>
 <p style="font-size:20px;line-height:1.8;"><strong>₹47,330.25 to ₹51,103.12</strong> basic pay per month.</p>
+<h3>4. Which post has better chances given the seat distribution?</h3>
+<p style="font-size:20px;line-height:1.8;">Mining Sirdar T&S Grade C has 254 of the 259 total posts, making it statistically the stronger option for eligible candidates over the 5-seat Surveyor category.</p>
 
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>NCL Vacancy 2026</strong> is a great opportunity for 10th pass mining certificate holders. Apply before <strong>05 August 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">The <strong>NCL Vacancy 2026</strong> is a great opportunity for 10th pass mining certificate holders, especially for Mining Sirdar where the bulk of seats lie. Apply before <strong>05 August 2026</strong>, and make sure your DGMS certificate is current before submitting.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for NCL Vacancy 2026</h2>
@@ -673,6 +813,13 @@ JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
 
 <p style="font-size:20px;line-height:1.9;"><strong>Bihar Police Subordinate Services Commission (BPSSC)</strong> has released the notification for <strong>Forest Range Officer</strong> posts under the Environment, Forest and Climate Change Department, offering <strong>16 posts</strong>.</p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Sirf 16 posts hone ke bawajood, eligibility <strong>bahut broad</strong> rakhi gayi hai — Science subjects (Botany, Chemistry, Zoology, Physics, Geology), Agriculture, Forestry aur Engineering, sabhi degree holders eligible hain. Yeh unusual hai kyunki zyadatar Forest Range Officer bhrtiyan sirf Forestry/Agriculture graduates tak limit rehti hain. Physical Efficiency Test bhi kaafi demanding hai (25 km walk in 4 hours for men) — jo dikhata hai ki BPSSC academic qualification ke saath-saath physical fitness ko equally weightage de raha hai, jo state forest services mein field-duty ki tarah treat kiya jata hai.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Organisation</th><td>Bihar Police Subordinate Services Commission (BPSSC)</td></tr>
@@ -700,6 +847,16 @@ JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
 <tr><th>Total</th><th>16</th><th>4</th></tr>
 </table>
 
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap physically fit hain aur field-based government job chahte hain — Level-6 salary (up to ₹1.12 lakh) UP/Bihar level state services mein achha package hai, aur eligibility broad hone ki wajah se Science, Agriculture, Forestry ya Engineering, kisi bhi background wale candidates ko chance hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Physical Efficiency Test se aap comfortable nahi hain — 25 km walk (male) ya 14 km walk (female) 4 ghante mein complete karna genuinely demanding hai, isliye application se pehle apni physical fitness ko honestly assess karein.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
 <p style="font-size:20px;line-height:1.9;">Bachelor's degree with at least one subject: Animal Husbandry & Veterinary Science, Botany, Chemistry, Geology, Mathematics, Physics, Statistics or Zoology. Agriculture, Forestry and Engineering degrees are also eligible.</p>
 
@@ -716,6 +873,15 @@ JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
 </table>
 <!-- AdSense Ad 2 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Paper-I (General Hindi) ko sirf "qualifying" samajh kar halke mein mat lein — agar aap ismein minimum marks nahi laate, toh Paper-II ka evaluation bhi nahi hoga, chahe wahan aap kitne bhi achhe kyun na ho.</li>
+<li>PET se pehle physical training zaroor karein — 25 km walk बिना preparation ke attempt karna dangerous ho sakta hai, kam se kam 4-6 hafte pehle se practice shuru karein.</li>
+<li>Height/chest measurement apni category ke exact standard se compare karein apply karne se pehle — borderline cases mein PST stage pe hi reject hone ka risk hota hai.</li>
+</ul>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -742,6 +908,12 @@ JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
 <li>Pay the application fee and submit.</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with BPSSC's official notification released on 10 July 2026. Given the physical demands of the PET stage, we recommend verifying your height/chest eligibility and beginning fitness preparation well before the exam.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -756,9 +928,11 @@ JOB_CONTENT["bpssc-forest-range-officer-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;">Yes, -0.2 in Paper-I and -0.3 in Paper-II per wrong answer.</p>
 <h3>3. What is the salary?</h3>
 <p style="font-size:20px;line-height:1.8;">Level-6 salary of <strong>₹35,400 – ₹1,12,400</strong> per month.</p>
+<h3>4. Is Paper-I (General Hindi) counted in the final merit?</h3>
+<p style="font-size:20px;line-height:1.8;">No, Paper-I is qualifying in nature — candidates must clear the minimum cutoff, but the final merit is prepared based on Paper-II (General Studies) marks.</p>
 
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>BPSSC Forest Range Officer Vacancy 2026</strong> is a prestigious opportunity for science/agriculture/forestry graduates. Apply before <strong>16 August 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">The <strong>BPSSC Forest Range Officer Vacancy 2026</strong> is a prestigious opportunity for science/agriculture/forestry/engineering graduates who are also physically fit. Apply before <strong>16 August 2026</strong>, and start your PET preparation early.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for BPSSC Forest Range Officer 2026</h2>
@@ -792,6 +966,13 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 
 <p style="font-size:20px;line-height:1.9;"><strong>Chief Medical and Health Office, Bemetara (CMHO Bemetara)</strong> has invited offline applications for <strong>52 contractual posts</strong> including Community Health Officer, Staff Nurse, Nursing Officer, Pharmacist, Physiotherapist, Counselor, Laboratory Technician, Dental Assistant, Block Manager and Support Staff.</p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+52 posts mein se <strong>24 posts sirf Community Health Officer (CHO)</strong> ke hain — yeh single largest category hai, jo state health department ki district-level primary healthcare push ko dikhata hai. Age limit 18-70 saal itni broad hai (typically govt jobs mein 40-45 tak hoti hai), jo confirm karta hai ki yeh purely <strong>contractual, skill-based hiring</strong> hai na ki permanent civil service — experienced retired professionals bhi apply kar sakte hain, especially MO-AYUSH jaisi high-salary posts ke liye.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Organisation</th><td>Chief Medical and Health Office, Bemetara</td></tr>
@@ -812,6 +993,16 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 <tr><td>OBC/Women</td><td>₹200</td></tr>
 <tr><td>Unreserved</td><td>₹300</td></tr>
 </table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap Nursing (B.Sc Nursing/GNM), Pharmacy ya BHMS/BAMS/BUMS background se hain aur ek contractual healthcare role chahte hain jisme <strong>written exam nahi hai</strong> — selection sirf document scrutiny aur skill test pe based hai, jo teaching/exam-heavy competitive exams se kaafi different hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap high, stable salary dhoond rahe hain — sabse zyada paying post (MO-AYUSH) bhi sirf ₹25,000/month hai, aur Support Staff jaisi entry-level posts ₹8,800 mein hi hain. Yeh long-term financial security se zyada immediate work experience/local healthcare service ke liye better hai.
+</p>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy & Salary Details</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -848,6 +1039,15 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 <tr><td>Support Staff</td><td>10th Pass</td></tr>
 </table>
 
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Nursing/pharmacy/medical posts ke liye <strong>"Live Registration"</strong> ka matlab confirm kar lein — yeh sirf ek baar ka registration nahi, current/active registration honi chahiye Chhattisgarh Council mein.</li>
+<li>Category ke hisaab se application fee sahi bhar rahe hain yeh double-check karein — Divyang/SC/ST, OBC/Women aur Unreserved teenon ke fee alag hain, galat fee se application delay ho sakta hai.</li>
+<li>Speed Post/Registered Post ke alawa koi bhi doosra mode se application na bhejein — courier/hand delivery accept nahi hoga is bhrti mein.</li>
+</ul>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Stage</th><th>Details</th></tr>
@@ -866,6 +1066,12 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 <li>Send the form via Registered Post/Speed Post before 14 August 2026.</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the official CMHO Bemetara notification released on 08 July 2026. Since this is a contractual hire with 15 different post types, we recommend confirming your specific post's qualification requirement directly from the official PDF before applying.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -880,9 +1086,11 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 <p style="font-size:20px;line-height:1.8;">No, only <strong>offline applications</strong> via Speed Post/Registered Post are accepted.</p>
 <h3>3. Which post has the highest salary?</h3>
 <p style="font-size:20px;line-height:1.8;"><strong>MO-AYUSH</strong> at ₹25,000 per month.</p>
+<h3>4. Why is the age limit up to 70 years?</h3>
+<p style="font-size:20px;line-height:1.8;">Since this is a contractual, skill-based hiring rather than a permanent civil service post, the wide age range allows experienced or retired healthcare professionals to also apply for relevant roles.</p>
 
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>CMHO Bemetara Bharti 2026</strong> offers a wide range of healthcare job opportunities in Chhattisgarh. Send your application well before <strong>14 August 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">The <strong>CMHO Bemetara Bharti 2026</strong> offers a wide range of healthcare job opportunities in Chhattisgarh with no written exam. Since Community Health Officer has the most seats (24), nursing-background candidates should pay close attention to this category. Send your application well before <strong>14 August 2026</strong>.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for CMHO Bemetara Bharti 2026</h2>
@@ -898,6 +1106,7 @@ JOB_CONTENT["cmho-bemetara-recruitment-2026"] = `
 </ul>
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CMHO Bemetara notification before applying.</p>
 `;
+
 JOB_CONTENT["mgm-hospital-junior-resident-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
@@ -911,29 +1120,10 @@ MGM Hospital Vacancy 2026 – Apply Offline for 54 Junior Resident Posts
 </h1>
 
 <div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
-
-<h2 style="margin:0;color:#e65100;">
-🏥 MGM Hospital Vacancy 2026
-</h2>
-
-<p style="font-size:20px;margin-top:12px;">
-<strong>Status :</strong>
-<span style="color:#e65100;font-weight:bold;">Applications Closing Soon</span>
-</p>
-
-<p style="font-size:19px;">
-Last Date to Apply :
-<strong>13 July 2026</strong>
-</p>
-
-<a href="https://mgmmedicalcollege.org"
-target="_blank"
-style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">
-
-Check Notification →
-
-</a>
-
+<h2 style="margin:0;color:#e65100;">🏥 MGM Hospital Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Applications Closing Soon</span></p>
+<p style="font-size:19px;">Last Date to Apply : <strong>13 July 2026</strong></p>
+<a href="https://mgmmedicalcollege.org" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
 </div>
 
 <p style="font-size:20px;line-height:1.9;">
@@ -950,462 +1140,175 @@ Candidates with an <strong>MBBS or BDS</strong> degree and permanent registratio
 scrutiny, document verification and counselling.
 </p>
 
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh ek <strong>extremely fast-tracked recruitment</strong> hai — application, document verification aur counselling teenon 3 consecutive din mein complete ho rahe hain (13, 14, 15 July). Yeh govt medical colleges mein Junior Resident (Non-Academic) posts ke liye typical hota hai, kyunki yeh mostly seasonal/session-based hiring hoti hai jab hospital ko immediately staff chahiye hota hai. "MGM Medical College Graduates completing Internship recently will be given preference" wala clause bhi important hai — outside-candidates ko technically eligible hone ke bawajood, local/internal graduates ko natural edge milega counselling stage pe.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">
 MGM Hospital Vacancy 2026 Overview
 </h2>
 
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Organisation</th>
-<td>MGM Medical College Hospital, Jamshedpur</td>
-</tr>
-
-<tr>
-<th>Post Name</th>
-<td>Junior Resident (Non-Academic)</td>
-</tr>
-
-<tr>
-<th>Total Vacancies</th>
-<td>54</td>
-</tr>
-
-<tr>
-<th>Application Mode</th>
-<td>Offline</td>
-</tr>
-
-<tr>
-<th>Last Date</th>
-<td>13 July 2026 (3:00 PM)</td>
-</tr>
-
-<tr>
-<th>Document Verification</th>
-<td>14 July 2026 (11:00 AM)</td>
-</tr>
-
-<tr>
-<th>Counselling</th>
-<td>15 July 2026 (12:00 PM)</td>
-</tr>
-
-<tr>
-<th>Salary</th>
-<td>₹15,000 – ₹25,000 (Approx.)</td>
-</tr>
-
-<tr>
-<th>Official Website</th>
-<td>mgmmedicalcollege.org</td>
-</tr>
-
+<tr><th>Organisation</th><td>MGM Medical College Hospital, Jamshedpur</td></tr>
+<tr><th>Post Name</th><td>Junior Resident (Non-Academic)</td></tr>
+<tr><th>Total Vacancies</th><td>54</td></tr>
+<tr><th>Application Mode</th><td>Offline</td></tr>
+<tr><th>Last Date</th><td>13 July 2026 (3:00 PM)</td></tr>
+<tr><th>Document Verification</th><td>14 July 2026 (11:00 AM)</td></tr>
+<tr><th>Counselling</th><td>15 July 2026 (12:00 PM)</td></tr>
+<tr><th>Salary</th><td>₹15,000 – ₹25,000 (Approx.)</td></tr>
+<tr><th>Official Website</th><td>mgmmedicalcollege.org</td></tr>
 </table>
 <!-- AdSense Ad 1 – After Overview -->
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-       style="display:block;text-align:center;"
-       data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="3505379782"
-       data-ad-format="fluid"
-       data-ad-layout="in-article"></ins>
+  <ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
-<h2 style="font-size:36px;margin-top:40px;">
-Important Dates
-</h2>
-
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Event</th>
-<th>Date</th>
-</tr>
-
-<tr>
-<td>Notification Release</td>
-<td>July 2026</td>
-</tr>
-
-<tr>
-<td>Start Date</td>
-<td>July 2026</td>
-</tr>
-
-<tr>
-<td>Last Date</td>
-<td>13 July 2026</td>
-</tr>
-
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Notification Release</td><td>July 2026</td></tr>
+<tr><td>Start Date</td><td>July 2026</td></tr>
+<tr><td>Last Date</td><td>13 July 2026</td></tr>
 </table>
 
-<h2 style="font-size:36px;margin-top:40px;">
-Application Fee
-</h2>
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">No application fee has been mentioned in the official notification.</p>
 
-<p style="font-size:20px;line-height:1.9;">
-No application fee has been mentioned in the official notification.
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapne recently (4 saal ke andar) MBBS/BDS internship complete kiya hai aur clinical exposure ke saath ek government hospital mein turant kaam shuru karna chahte hain — specially agar aap khud MGM Medical College se graduate hain, toh preference milega.
 </p>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Age Limit & Eligibility
-</h2>
-<!-- AdSense Ad 2 – Mid Article -->
-<div style="margin:28px 0;text-align:center;">
-  <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-       style="display:block;text-align:center;"
-       data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="3505379782"
-       data-ad-format="fluid"
-       data-ad-layout="in-article"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Salary aapka primary concern hai — ₹15,000-25,000/month range residency ke liye typical hai, lekin agar aap higher-paying options dhoond rahe hain, toh yeh sirf 1-year contract hai jisme extension performance-based hai, guaranteed nahi.
+</p>
 </div>
 
-<p style="font-size:20px;line-height:1.9;">
-The age limit is <strong>as per NMC and Government rules</strong>. No specific age has been mentioned in the
-official notification.
-</p>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Category-Wise Vacancy Details
-</h2>
-
+<h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Category</th>
-<th>Vacancies</th>
-</tr>
-
+<tr><th>Category</th><th>Vacancies</th></tr>
 <tr><td>General (UR)</td><td>24</td></tr>
 <tr><td>Economically Weaker Section (EWS)</td><td>5</td></tr>
 <tr><td>Scheduled Tribe (ST)</td><td>11</td></tr>
 <tr><td>Scheduled Caste (SC)</td><td>4</td></tr>
 <tr><td>Backward Class-I (BC-I)</td><td>6</td></tr>
 <tr><td>Backward Class-II (BC-II)</td><td>4</td></tr>
-
-<tr>
-<th>Total Vacancies</th>
-<th>54</th>
-</tr>
-
+<tr><th>Total Vacancies</th><th>54</th></tr>
 </table>
 
-<h2 style="font-size:36px;margin-top:40px;">
-Required Qualification
-</h2>
-
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Criteria</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td>Educational Qualification</td>
-<td>MBBS or BDS Degree</td>
-</tr>
-
-<tr>
-<td>University</td>
-<td>Recognized Medical/Dental University</td>
-</tr>
-
-<tr>
-<td>Medical Registration</td>
-<td>Permanent Registration with Jharkhand State Medical Council</td>
-</tr>
-
-<tr>
-<td>Internship</td>
-<td>Internship must be completed</td>
-</tr>
-
-<tr>
-<td>Internship Eligibility</td>
-<td>Candidate should apply within 4 years of Internship Completion</td>
-</tr>
-
-<tr>
-<td>Preference</td>
-<td>MGM Medical College Graduates completing Internship recently will be given preference</td>
-</tr>
-
+<tr><th>Criteria</th><th>Details</th></tr>
+<tr><td>Educational Qualification</td><td>MBBS or BDS Degree</td></tr>
+<tr><td>University</td><td>Recognized Medical/Dental University</td></tr>
+<tr><td>Medical Registration</td><td>Permanent Registration with Jharkhand State Medical Council</td></tr>
+<tr><td>Internship</td><td>Internship must be completed</td></tr>
+<tr><td>Internship Eligibility</td><td>Candidate should apply within 4 years of Internship Completion</td></tr>
+<tr><td>Preference</td><td>MGM Medical College Graduates completing Internship recently will be given preference</td></tr>
 </table>
 
-<h2 style="font-size:36px;margin-top:40px;">
-Salary Pay
-</h2>
-
-<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Particular</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td>Post Name</td>
-<td>Junior Resident (Non-Academic)</td>
-</tr>
-
-<tr>
-<td>Salary</td>
-<td>As Per Jharkhand Government Rules / NMC Guidelines (Approx. ₹15,000 – ₹25,000)</td>
-</tr>
-
-<tr>
-<td>Pay Structure</td>
-<td>Monthly Remuneration</td>
-</tr>
-
-<tr>
-<td>Allowances</td>
-<td>As Per Government Rules</td>
-</tr>
-
-<tr>
-<td>Initial Appointment</td>
-<td>1 Year</td>
-</tr>
-
-<tr>
-<td>Contract Extension</td>
-<td>Based on Performance & Hospital Requirement</td>
-</tr>
-
-</table>
-
-<p style="font-size:20px;line-height:1.9;">
-Note: The official notification has not disclosed the exact salary amount.
-</p>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Selection Process
-</h2>
-
-<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Stage</th>
-<th>Process</th>
-</tr>
-
-<tr>
-<td>Stage 1</td>
-<td>Submission of Offline Application</td>
-</tr>
-
-<tr>
-<td>Stage 2</td>
-<td>Scrutiny of Application Forms</td>
-</tr>
-
-<tr>
-<td>Stage 3</td>
-<td>Document Verification</td>
-</tr>
-
-<tr>
-<td>Stage 4</td>
-<td>Counselling</td>
-</tr>
-
-<tr>
-<td>Stage 5</td>
-<td>Department-wise Seat Allotment</td>
-</tr>
-
-<tr>
-<td>Stage 6</td>
-<td>Final Selection</td>
-</tr>
-
-<tr>
-<td>Stage 7</td>
-<td>Appointment as Junior Resident</td>
-</tr>
-
-</table>
-
-<h2 style="font-size:36px;margin-top:40px;">
-How to Apply (Offline)
-</h2>
-
-<p style="font-size:20px;line-height:1.9;">
-Eligible candidates should follow the steps below to apply before the last date:
-</p>
-
-<ol style="font-size:20px;line-height:2;">
-
-<li>Download or collect the prescribed Offline Application Form.</li>
-
-<li>Fill in all personal, educational and registration details carefully.</li>
-
-<li>Attach self-attested copies of all required documents.</li>
-
-<li>Paste recent passport-size photographs in the application form.</li>
-
-<li>Submit the completed application form to the prescribed office before 13 July 2026 (03:00 PM).</li>
-
-<li>Attend the Document Verification on 14 July 2026 at 11:00 AM with all original documents.</li>
-
-<li>Appear for the Counselling on 15 July 2026 at 12:00 PM.</li>
-
-<li>After successful verification and counselling, complete the joining formalities if selected.</li>
-
-</ol>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Important Links
-</h2>
-
-<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
-
-<tr>
-<th>Purpose</th>
-<th>Link</th>
-</tr>
-
-<tr>
-<td>Notification Download</td>
-<td>
-<a href="https://mgmmedicalcollege.org" target="_blank">
-Click Here
-</a>
-</td>
-</tr>
-
-<tr>
-<td>Official Website</td>
-<td>
-<a href="https://mgmmedicalcollege.org" target="_blank">
-mgmmedicalcollege.org
-</a>
-</td>
-</tr>
-
-</table>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Frequently Asked Questions (FAQs)
-</h2>
-
-<h3>1. How many total posts are there in MGM Hospital Vacancy 2026?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-MGM Medical College Hospital, Jamshedpur has released <strong>54 posts</strong> of Junior Resident
-(Non-Academic).
-</p>
-
-<h3>2. Who can apply for MGM Hospital Junior Resident Vacancy 2026?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-Candidates with an <strong>MBBS or BDS</strong> degree and permanent registration with the
-<strong>Jharkhand State Medical Council</strong> can apply. Completed internship is mandatory.
-</p>
-
-<h3>3. What is the last date to apply?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-The offline application must be submitted on or before <strong>13 July 2026 (3:00 PM)</strong>.
-</p>
-
-<h3>4. What is the selection process?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-Selection includes application scrutiny, <strong>document verification, counselling, department-wise seat
-allotment</strong> and final selection. There is <strong>no written examination</strong>.
-</p>
-
-<h3>5. When will document verification and counselling be held?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-Document Verification will be held on <strong>14 July 2026 (11:00 AM)</strong>, and Counselling on
-<strong>15 July 2026 (12:00 PM)</strong>.
-</p>
-
-<h3>6. Is there any application fee for MGM Hospital Junior Resident Vacancy 2026?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-No application fee has been mentioned in the official notification for any category.
-</p>
-
-<h3>7. How long is the MGM Hospital Junior Resident job?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-The initial appointment is for <strong>1 year</strong>. It may be extended based on performance and hospital
-requirement.
-</p>
-
-<h3>8. Can fresh MBBS/BDS candidates apply?</h3>
-
-<p style="font-size:20px;line-height:1.8;">
-Yes, if the candidate has completed internship and is applying within <strong>4 years</strong> of internship
-completion, they may be eligible to apply.
-</p>
-
-<h2 style="font-size:36px;margin-top:40px;">
-Conclusion
-</h2>
-
-<p style="font-size:20px;line-height:1.9;">
-The <strong>MGM Hospital Vacancy 2026</strong> is a valuable opportunity for MBBS/BDS graduates in Jharkhand to
-join a government medical college hospital. Interested candidates should prepare their documents and submit the
-application well before <strong>13 July 2026</strong>.
-</p>
-
-<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
-
-<h2 style="margin:0;color:#2e7d32;">
-🚀 Apply for MGM Hospital Vacancy 2026
-</h2>
-
-<p style="font-size:19px;margin:15px 0;">
-Submit your offline application before <strong>13 July 2026</strong>.
-</p>
-
-<a href="https://mgmmedicalcollege.org"
-target="_blank"
-style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">
-
-Check Notification
-
-</a>
-
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Sirf 3 din ka window hai — application form ko last minute ke liye mat chhodein, kyunki 13 July 3:00 PM ke baad koi extension expect na karein.</li>
+<li>Jharkhand State Medical Council mein <strong>"permanent" registration</strong> chahiye, provisional registration accept nahi hoga — apply karne se pehle apni registration status confirm kar lein.</li>
+<li>Document Verification (14 July) mein original documents zaroor le jayein — sirf photocopies se verification incomplete rahega aur counselling stage tak nahi pahunch payenge.</li>
+</ul>
 </div>
 
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Post Name</td><td>Junior Resident (Non-Academic)</td></tr>
+<tr><td>Salary</td><td>As Per Jharkhand Government Rules / NMC Guidelines (Approx. ₹15,000 – ₹25,000)</td></tr>
+<tr><td>Pay Structure</td><td>Monthly Remuneration</td></tr>
+<tr><td>Allowances</td><td>As Per Government Rules</td></tr>
+<tr><td>Initial Appointment</td><td>1 Year</td></tr>
+<tr><td>Contract Extension</td><td>Based on Performance & Hospital Requirement</td></tr>
+</table>
+<p style="font-size:20px;line-height:1.9;">Note: The official notification has not disclosed the exact salary amount.</p>
 
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>Stage 1</td><td>Submission of Offline Application</td></tr>
+<tr><td>Stage 2</td><td>Scrutiny of Application Forms</td></tr>
+<tr><td>Stage 3</td><td>Document Verification</td></tr>
+<tr><td>Stage 4</td><td>Counselling</td></tr>
+<tr><td>Stage 5</td><td>Department-wise Seat Allotment</td></tr>
+<tr><td>Stage 6</td><td>Final Selection</td></tr>
+<tr><td>Stage 7</td><td>Appointment as Junior Resident</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Download or collect the prescribed Offline Application Form.</li>
+<li>Fill in all personal, educational and registration details carefully.</li>
+<li>Attach self-attested copies of all required documents.</li>
+<li>Paste recent passport-size photographs in the application form.</li>
+<li>Submit the completed application form to the prescribed office before 13 July 2026 (03:00 PM).</li>
+<li>Attend the Document Verification on 14 July 2026 at 11:00 AM with all original documents.</li>
+<li>Appear for the Counselling on 15 July 2026 at 12:00 PM.</li>
+<li>After successful verification and counselling, complete the joining formalities if selected.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the official MGM Medical College Hospital notification. Given the extremely compressed 3-day timeline (application, verification, counselling), we strongly recommend candidates prepare all documents in advance rather than waiting for the last date.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Notification Download</td><td><a href="https://mgmmedicalcollege.org" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://mgmmedicalcollege.org" target="_blank">mgmmedicalcollege.org</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Frequently Asked Questions (FAQs)</h2>
+<h3>1. How many total posts are there in MGM Hospital Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">MGM Medical College Hospital, Jamshedpur has released <strong>54 posts</strong> of Junior Resident (Non-Academic).</p>
+<h3>2. Who can apply for MGM Hospital Junior Resident Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">Candidates with an <strong>MBBS or BDS</strong> degree and permanent registration with the <strong>Jharkhand State Medical Council</strong> can apply. Completed internship is mandatory.</p>
+<h3>3. What is the last date to apply?</h3>
+<p style="font-size:20px;line-height:1.8;">The offline application must be submitted on or before <strong>13 July 2026 (3:00 PM)</strong>.</p>
+<h3>4. What is the selection process?</h3>
+<p style="font-size:20px;line-height:1.8;">Selection includes application scrutiny, <strong>document verification, counselling, department-wise seat allotment</strong> and final selection. There is <strong>no written examination</strong>.</p>
+<h3>5. When will document verification and counselling be held?</h3>
+<p style="font-size:20px;line-height:1.8;">Document Verification will be held on <strong>14 July 2026 (11:00 AM)</strong>, and Counselling on <strong>15 July 2026 (12:00 PM)</strong>.</p>
+<h3>6. Is there any application fee for MGM Hospital Junior Resident Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">No application fee has been mentioned in the official notification for any category.</p>
+<h3>7. How long is the MGM Hospital Junior Resident job?</h3>
+<p style="font-size:20px;line-height:1.8;">The initial appointment is for <strong>1 year</strong>. It may be extended based on performance and hospital requirement.</p>
+<h3>8. Do MGM Medical College's own graduates get any advantage?</h3>
+<p style="font-size:20px;line-height:1.8;">Yes, the notification explicitly states that MGM Medical College graduates who have recently completed their internship will be given preference during counselling.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>MGM Hospital Vacancy 2026</strong> is a valuable, fast-moving opportunity for MBBS/BDS graduates in Jharkhand. Given the compressed 3-day timeline, prepare your documents and Jharkhand State Medical Council registration well before <strong>13 July 2026</strong> — there is no room for last-minute delays.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for MGM Hospital Vacancy 2026</h2>
+<p style="font-size:19px;margin:15px 0;">Submit your offline application before <strong>13 July 2026</strong>.</p>
+<a href="https://mgmmedicalcollege.org" target="_blank" style="display:inline-block;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
 <!-- AdSense Ad 3 – Before Apply -->
 <div style="margin:28px 0;text-align:center;">
   <p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Advertisement</p>
-  <ins class="adsbygoogle"
-       style="display:block;text-align:center;"
-       data-ad-client="ca-pub-8602963796651751"
-       data-ad-slot="3505379782"
-       data-ad-format="fluid"
-       data-ad-layout="in-article"></ins>
+  <ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
-<h2 style="font-size:36px;margin-top:40px;">
-Related Jobs
-</h2>
-
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
 <ul style="font-size:20px;line-height:2;">
-
 <li><a href="../item-detail.html?type=job&id=chhattisgarh-high-court-recruitment-2026">Chhattisgarh High Court Vacancy 2026</a></li>
-
 <li><a href="../item-detail.html?type=job&id=dhfw-punjab-house-surgeon-recruitment-2026">DHFW Punjab House Surgeon Vacancy 2026</a></li>
-
 <li><a href="../item-detail.html?type=job&id=aiims-bhubaneswar-senior-resident-recruitment-2026">AIIMS Bhubaneswar Senior Resident Vacancy 2026</a></li>
-
 </ul>
-
 <p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MGM Medical College notification before applying.</p>
 `;
 JOB_CONTENT["chhattisgarh-high-court-recruitment-2026"] = `
