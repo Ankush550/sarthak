@@ -1,13 +1,16 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
-
 JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
-<strong>By Ankush Jain</strong> | <time datetime="2026-07-10">Published: 10 July 2026</time> | Updated: 10 July 2026
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
 </div>
 
-<h1 style="font-size:42px;color:#333;">UPESSC Assistant Professor Vacancy 2025 Re-Open – Apply for 107 Posts</h1>
+<h1 style="font-size:42px;color:#333;">
+UPESSC Assistant Professor Vacancy 2025 Re-Open – Apply for 107 Posts
+</h1>
 
 <div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
 <h2 style="margin:0;color:#e65100;">🎓 UPESSC Assistant Professor Vacancy 2025 Re-Open</h2>
@@ -19,6 +22,13 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 <p style="font-size:20px;line-height:1.9;"><strong>Uttar Pradesh Education Service Selection Commission (UPESSC)</strong> has re-opened the online application window for <strong>Assistant Professor (B.Ed) Direct Recruitment 2025</strong>, offering a total of <strong>107 posts</strong> in Uttar Pradesh's aided colleges. Candidates who could not apply during the earlier window can now apply again from <strong>10 July 2026</strong> to <strong>20 July 2026</strong>.</p>
 
 <p style="font-size:20px;line-height:1.9;">Candidates need a <strong>Master's Degree (55%)</strong> with M.Ed./M.A. Education and B.Ed. (55%), along with <strong>UGC NET (Education)</strong> or <strong>Ph.D.</strong> The written examination is scheduled for <strong>28 July 2026</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+This is a rare case of a <strong>re-opened window</strong> rather than a fresh notification — UPESSC originally closed applications on 27 May 2026, but has now given candidates a second chance from 10 to 20 July 2026, roughly six weeks later. Re-opens like this usually happen when the applicant pool falls short in specific subject categories, or when a court order/RTI response forces the commission to extend eligibility. B.Ed teaching posts in UP's aided colleges are also notoriously slow-moving — this is the state's first major Assistant Professor (B.Ed) drive in several years, so competition per seat is expected to be significantly higher than a typical annual recruitment cycle.
+</p>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Overview</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -34,6 +44,17 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 <!-- AdSense Ad 1 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
 
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Notification Release Date</td><td>28 April 2026</td></tr>
+<tr><td>Online Application Start Date</td><td>28 April 2026</td></tr>
+<tr><td>Original Last Date to Apply</td><td>27 May 2026</td></tr>
+<tr><td>Form Re-Open Start Date</td><td>10 July 2026</td></tr>
+<tr><td>Re-Open Last Date to Apply</td><td>20 July 2026</td></tr>
+<tr><td>Written Examination Date</td><td>28 July 2026</td></tr>
+</table>
+
 <h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Category</th><th>Fee</th></tr>
@@ -41,6 +62,16 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 <tr><td>SC / ST</td><td>₹1,000</td></tr>
 <tr><td>PH (Divyang)</td><td>₹1,000</td></tr>
 </table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapka NET (Education) already qualify ho chuka hai ya aapke paas Ph.D. hai, aur aap ek <strong>permanent teaching career</strong> chahte hain jisme researcher se zyada classroom teaching ka focus ho. Yeh un candidates ke liye best hai jo pehle se contractual/guest faculty roles mein hain aur permanent absorption dhoond rahe hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapka M.Ed./M.A. Education abhi complete nahi hua hai — is bhrti mein Option 2 ke tahat B.Ed. bhi mandatory hai, isliye sirf Master's degree wale (bina M.Ed./B.Ed.) candidates eligible nahi honge. Age limit 62 saal hai, lekin practically freshers vs experienced teachers ka mix hoga, isliye interview stage mein teaching experience wale candidates ko natural edge milega.
+</p>
+</div>
 
 <h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -63,6 +94,24 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 </table>
 <!-- AdSense Ad 2 -->
 <div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Option 1 aur Option 2 ko mix mat karein — agar aapke paas sirf M.Ed. hai toh B.Ed. mandatory nahi, lekin agar aap M.A. (Education) route se ja rahe hain toh <strong>B.Ed. bhi 55% ke saath zaroori hai</strong>. Bahut candidates yeh eligibility mismatch samajhne mein galti karte hain.</li>
+<li>Since yeh <strong>re-open window</strong> hai, purani application ID/password se hi login karne ki koshish karein agar aapne pehle registration kiya tha — naya registration duplicate ho sakta hai jo verification mein delay karega.</li>
+<li>NET (Education) certificate ka <strong>subject match</strong> zaroor confirm karein — agar aapka NET kisi doosre subject mein hai (na ki Education mein), toh application reject ho sakta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Component</th><th>Details</th></tr>
+<tr><td>Pay Scale</td><td>As per 7th Pay Commission</td></tr>
+<tr><td>Pay Level</td><td>Academic Pay Level (As Applicable)</td></tr>
+<tr><td>Additional Benefits</td><td>DA, HRA, Medical Allowance, Pension & Other Government Allowances</td></tr>
+<tr><td>Job Nature</td><td>Permanent Teaching Position</td></tr>
+</table>
 
 <h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
@@ -90,6 +139,12 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 <li>Submit and download the final application form.</li>
 </ol>
 
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information has been cross-checked with the official re-open notice released by UPESSC on its recruitment portal on 10 July 2026. We recommend candidates download the original notification (both the original April 2026 PDF and the July re-open notice) from the official website before applying, as UPESSC may issue further corrigenda without prior notice.
+</p>
+</div>
+
 <h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
 <table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
 <tr><th>Purpose</th><th>Link</th></tr>
@@ -102,15 +157,22 @@ JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 <p style="font-size:20px;line-height:1.8;">The re-open application window closes on <strong>20 July 2026</strong>.</p>
 <h3>2. How many total posts are there?</h3>
 <p style="font-size:20px;line-height:1.8;">A total of <strong>107 posts</strong> for Assistant Professor (B.Ed) are available.</p>
-<h3>3. What is the qualification required?</h3>
+<h3>3. Can candidates who already applied in April-May 2026 apply again during the re-open window?</h3>
+<p style="font-size:20px;line-height:1.8;">The re-open window is primarily meant for candidates who missed the original 28 April - 27 May 2026 window. Candidates who already submitted a successful application should check with UPESSC before submitting a duplicate entry, as this can cause verification delays.</p>
+<h3>4. What is the qualification required?</h3>
 <p style="font-size:20px;line-height:1.8;">A Master's degree (55%) with M.Ed./M.A. Education and B.Ed. (55%), plus UGC NET (Education) or Ph.D.</p>
-<h3>4. When is the written exam?</h3>
-<p style="font-size:20px;line-height:1.8;">The written examination is scheduled for <strong>28 July 2026</strong>.</p>
-<h3>5. What is the application fee?</h3>
+<h3>5. When is the written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">The written examination is scheduled for <strong>28 July 2026</strong>, giving re-open applicants only about a week to prepare after the window closes.</p>
+<h3>6. What is the application fee?</h3>
 <p style="font-size:20px;line-height:1.8;">₹2,000 for General/OBC and ₹1,000 for SC/ST/PH candidates.</p>
 
+<h2 style="font-size:36px;margin-top:40px;">UP Teaching Sector Mein Aur Bhi Mauke</h2>
+<p style="font-size:18px;line-height:1.9;">
+Uttar Pradesh mein higher education teaching posts ka hiring cycle historically slow raha hai, aur UPESSC ki yeh 107-post bhrti kai saalon baad ki pehli badi Assistant Professor (B.Ed) drive hai. Agar aap teaching sector mein hain, toh state-level aur central-level dono tarah ke openings track karna zaroori hai.
+</p>
+
 <h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
-<p style="font-size:20px;line-height:1.9;">The <strong>UPESSC Assistant Professor Re-Open 2025</strong> gives candidates a second chance to secure a permanent teaching position in Uttar Pradesh. Complete your application before <strong>20 July 2026</strong>.</p>
+<p style="font-size:20px;line-height:1.9;">Agar aapne pehli window miss ki thi, toh yeh <strong>re-open window aapke liye ek genuine second chance</strong> hai — lekin exam sirf ek hafte baad hai (28 July), isliye application submit karne ke saath-saath General Knowledge aur apne subject ki revision abhi se shuru kar dein. Last minute ke liye na chhodein.</p>
 
 <div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
 <h2 style="margin:0;color:#2e7d32;">🚀 Apply for UPESSC Assistant Professor 2025</h2>
