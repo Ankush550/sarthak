@@ -2,6 +2,7 @@
 // Full article content for each answer key ID
 
 const ANSWER_KEY_CONTENT = {};
+
 ANSWER_KEY_CONTENT["uptet-answer-key-2026"] = `
 
 <div class="article-meta" style="font-size:20px;color:#666;margin-bottom:12px;padding-bottom:8px;border-bottom:4px solid #bb2424;">
