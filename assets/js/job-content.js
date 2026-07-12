@@ -1,5 +1,218 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["hpsc-district-manager-vacancy-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> |
+<time datetime="2026-07-10">Published: 10 July 2026</time> |
+Updated: 10 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">
+HPSC District Manager Vacancy 2026 – Apply Online for 2 District Manager (Group-B) Posts
+</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🏢 HPSC District Manager (Group-B) Recruitment 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>15 July 2026 to 04 August 2026</strong></p>
+<a href="https://hpsc.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">
+हरियाणा लोक सेवा आयोग (HPSC) ने Haryana State Warehousing Corporation (HSWC) में District Manager (Group-B) के 2 पदों पर भर्ती के लिए Advertisement No. 24/2026 के तहत अधिसूचना जारी की है। यह भर्ती Pay Level-9 के तहत आकर्षक वेतन के साथ आती है, और इसमें Agriculture, Commerce, Biology, Economics या Chemistry के अनुभवी स्नातक उम्मीदवारों को मौका दिया जा रहा है। ऑनलाइन आवेदन 15 जुलाई 2026 से 4 अगस्त 2026 शाम 5:00 बजे तक किए जा सकते हैं।
+</p>
+
+<!-- 🟢 UNIQUE SECTION 1 — Sarthak Analysis -->
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+HPSC ki yeh bharti size me chhoti hai — sirf 2 posts — lekin iski asli value uski niche eligibility criteria me hai। Warehousing Corporation jaisi bodies me District Manager level ke posts saal me ek-do baar hi khulte hain, aur woh bhi sirf un candidates ke liye jinke paas 10 saal ka managerial experience agricultural produce handling me ho। Yeh dikhata hai ki HPSC ab specialized, experience-based Group-B posts ko regular Group-B recruitment se alag treat kar raha hai, jahan fresh graduates ke bajaye already-experienced professionals ko target kiya ja raha hai। MBA (Marketing) ko preferred qualification banaya jaana bhi is trend ko confirm karta hai ki corporation ab management-oriented profiles ko priority de raha hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">HPSC District Manager Vacancy 2026 Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Haryana Public Service Commission (HPSC)</td></tr>
+<tr><th>Post Name</th><td>District Manager (Group-B)</td></tr>
+<tr><th>Total Vacancies</th><td>2</td></tr>
+<tr><th>Advertisement No.</th><td>24/2026</td></tr>
+<tr><th>Application Mode</th><td>Online</td></tr>
+<tr><th>Start Date</th><td>15 July 2026</td></tr>
+<tr><th>Last Date</th><td>04 August 2026 (5:00 PM)</td></tr>
+<tr><th>Age Limit</th><td>25 – 45 Years</td></tr>
+<tr><th>Salary</th><td>₹9,300 – ₹34,800 + Grade Pay ₹5,400</td></tr>
+<tr><th>Official Website</th><td>hpsc.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Notification Release</td><td>10 July 2026</td></tr>
+<tr><td>Online Application Start Date</td><td>15 July 2026</td></tr>
+<tr><td>Last Date to Apply Online</td><td>04 August 2026 (5:00 PM)</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>Haryana PwBD (40% or More Disability)</td><td>Nil</td></tr>
+<tr><td>OSC / DSC / BC-A / BC-B / EWS / Women (Haryana)</td><td>₹250</td></tr>
+<tr><td>DESM (Reserved Categories)</td><td>₹250</td></tr>
+<tr><td>DESM (UR Category)</td><td>₹1,000</td></tr>
+<tr><td>All Other Candidates</td><td>₹1,000</td></tr>
+</table>
+
+<!-- 🟢 UNIQUE SECTION 2 — Kya Yeh Job Aapke Liye Sahi Hai -->
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> aap Agriculture, Commerce, Biology, Economics ya Chemistry se graduate hain aur aapke paas agricultural produce ki handling/preservation me kam se kam 10 saal ka managerial experience hai (post-graduates ke liye 7 saal), ya aapke paas MBA (Marketing) hai jo is post ke liye preferred qualification hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> sirf 2 hi posts hain (1 UR, 1 DSC), isliye competition bahut high-experience candidates ke beech hoga — agar aapka experience borderline (exactly 10 ya 7 saal) hai to certificate documentation bilkul sahi honi chahiye, warna screening stage par hi reject hone ka risk rahega.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Age Limit & Eligibility</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Minimum Age</th><td>25 Years</td></tr>
+<tr><th>Maximum Age</th><td>45 Years</td></tr>
+<tr><th>Qualification</th><td>Graduation Degree (Agriculture / Commerce / Biology / Economics / Chemistry)</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>UR</th><th>DSC</th><th>Total</th></tr>
+<tr><td>District Manager (Group-B)</td><td>1</td><td>1</td><td>2</td></tr>
+<tr><th>Total</th><th>1</th><th>1</th><th>2</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>District Manager (Group-B)</td><td>Graduate in Agriculture, Commerce, Biology, Economics or Chemistry with 10 years' managerial experience in handling and preservation of agricultural produce</td></tr>
+<tr><td>Post Graduate Candidates</td><td>7 Years' Relevant Experience Required</td></tr>
+<tr><td>Preferred Qualification</td><td>MBA (Marketing)</td></tr>
+<tr><td>Language Requirement</td><td>Hindi/Sanskrit up to Matric or Higher Qualification with Hindi</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Scale</th><th>Pay Level</th></tr>
+<tr><td>District Manager (Group-B)</td><td>₹9,300–34,800 + Grade Pay ₹5,400</td><td>Level-9</td></tr>
+</table>
+
+<!-- 🟢 UNIQUE SECTION 3 — Common Mistakes to Avoid -->
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Managerial experience certificate me "agricultural produce handling & preservation" ka exact wording missing hona — generic experience letter is post ke liye accept nahi hoga, isliye HR se specific wording waala certificate hi lein।</li>
+<li>Post-graduate hone ke bawajood 10 saal experience ka criteria bhar dena — post-graduates ke liye sirf 7 saal ka relevant experience chahiye, isliye apni qualification ke hisaab se sahi experience threshold check karein।</li>
+<li>Registration ke time Mobile Number aur Aadhaar Number verify na karna, jiski wajah se baad me Login ID create karne me dikkat aati hai।</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Screening Test (If Conducted)</td></tr>
+<tr><td>Stage 2</td><td>Subject Knowledge Test</td></tr>
+<tr><td>Stage 3</td><td>Interview</td></tr>
+<tr><th>Final Selection</th><th>Merit Based</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Step</th><th>Application Process</th></tr>
+<tr><td>1</td><td>Visit the official HPSC website</td></tr>
+<tr><td>2</td><td>Complete the registration using your Mobile Number and Aadhaar Number</td></tr>
+<tr><td>3</td><td>Verify your details and create your Login ID</td></tr>
+<tr><td>4</td><td>Login using the registered credentials</td></tr>
+<tr><td>5</td><td>Select Advertisement No. 24/2026 and click on Apply Online</td></tr>
+<tr><td>6</td><td>Fill in all personal, educational, and experience details carefully</td></tr>
+<tr><td>7</td><td>Upload your recent photograph, signature, educational certificates, experience certificates, Aadhaar Card, domicile certificate (if applicable), and other required documents</td></tr>
+<tr><td>8</td><td>Pay the application fee through online payment mode</td></tr>
+<tr><td>9</td><td>Review all the information before final submission</td></tr>
+<tr><td>10</td><td>Submit the application form</td></tr>
+<tr><td>11</td><td>Download the submitted application form</td></tr>
+<tr><td>12</td><td>Sign the printed application form and upload the signed copy as instructed</td></tr>
+<tr><td>13</td><td>Keep the final application printout for future reference</td></tr>
+</table>
+
+<!-- 🟢 UNIQUE SECTION 4 — Editor's Verification Note -->
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information has been cross-checked with the official notification PDF (Advertisement No. 24/2026) released by Haryana Public Service Commission (HPSC) on 10 July 2026. We recommend candidates download the original notification from the official website before applying, as recruitment details may be updated by the department without prior notice.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Apply Now</th><td><a href="https://hpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><th>Notification Download</th><td><a href="https://hpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><th>Official Website</th><td><a href="https://hpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><th>Age Calculator</th><td><a href="#">Click Here</a></td></tr>
+<tr><th>Image & Signature KB Resizer</th><td><a href="#">Image</a> | <a href="#">Signature</a></td></tr>
+<tr><th>Join Whatsapp Channel</th><td><a href="#">Click Here</a></td></tr>
+<tr><th>Join Telegram</th><td><a href="#">Click Here</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Frequently Asked Questions (FAQs)</h2>
+
+<p style="font-size:18px;"><strong>Q1. HPSC District Manager Bharti 2026 में कितने पदों पर भर्ती निकली है?</strong><br>
+उत्तर: HPSC ने Haryana State Warehousing Corporation में District Manager (Group-B) के कुल 2 पदों पर भर्ती निकाली है — 1 पद सामान्य वर्ग तथा 1 पद DSC श्रेणी के लिए।</p>
+
+<p style="font-size:18px;"><strong>Q2. HPSC District Manager Vacancy 2026 के लिए आवेदन कब से शुरू होंगे?</strong><br>
+उत्तर: ऑनलाइन आवेदन प्रक्रिया 15 जुलाई 2026 से शुरू होगी और उम्मीदवार 4 अगस्त 2026 शाम 5:00 बजे तक आवेदन कर सकेंगे।</p>
+
+<p style="font-size:18px;"><strong>Q3. HPSC District Manager Vacancy 2026 के लिए शैक्षणिक योग्यता क्या है?</strong><br>
+उत्तर: Agriculture, Commerce, Biology, Economics या Chemistry में स्नातक तथा संबंधित क्षेत्र में 10 वर्ष का प्रबंधकीय अनुभव आवश्यक है। पोस्ट ग्रेजुएट के लिए 7 वर्ष अनुभव पर्याप्त है।</p>
+
+<p style="font-size:18px;"><strong>Q4. HPSC District Manager Recruitment 2026 में आयु सीमा कितनी है?</strong><br>
+उत्तर: न्यूनतम आयु 25 वर्ष तथा अधिकतम आयु 45 वर्ष है। आरक्षित वर्गों को हरियाणा सरकार के नियमानुसार छूट मिलेगी।</p>
+
+<p style="font-size:18px;"><strong>Q5. HPSC District Manager Vacancy 2026 में चयन कैसे होगा?</strong><br>
+उत्तर: Screening Test, Subject Knowledge Test तथा Interview के माध्यम से चयन होगा। आयोग सीधे Subject Knowledge Test एवं Interview भी आयोजित कर सकता है।</p>
+
+<p style="font-size:18px;"><strong>Q6. HPSC District Manager Vacancy 2026 में वेतन कितना मिलेगा?</strong><br>
+उत्तर: चयनित उम्मीदवारों को Pay Level-9 के अनुसार ₹9,300–34,800 + Grade Pay ₹5,400 का वेतनमान मिलेगा।</p>
+
+<p style="font-size:18px;"><strong>Q7. HPSC District Manager Bharti 2026 के लिए आवेदन कैसे करें?</strong><br>
+उत्तर: HPSC की आधिकारिक वेबसाइट पर ऑनलाइन रजिस्ट्रेशन करें, आवेदन पत्र भरें, दस्तावेज अपलोड करें, शुल्क जमा करें तथा अंतिम रूप से सबमिट करके हस्ताक्षरित कॉपी अपलोड करें।</p>
+
+<p style="font-size:18px;"><strong>Q8. HPSC District Manager Vacancy 2026 के लिए आवेदन शुल्क कितना है?</strong><br>
+उत्तर: PwBD उम्मीदवारों के लिए शुल्क शून्य है। हरियाणा की महिला/EWS/BC/DSC श्रेणी के लिए ₹250 तथा अन्य उम्मीदवारों के लिए ₹1,000 शुल्क है।</p>
+
+<!-- 🟢 UNIQUE SECTION 5 — Related Sector Insight -->
+<h2 style="font-size:36px;margin-top:40px;">Haryana Government Sector Mein Aur Bhi Mauke</h2>
+<p style="font-size:18px;line-height:1.9;">
+HPSC har saal Group-A aur Group-B level ke specialized posts nikalta hai, jinme se zyadatar sirf experienced professionals ke liye hote hain, jaise ki yeh District Manager post। Haryana State Warehousing Corporation aur doosre Haryana PSUs me aane wale mahino me aur bhi similar experience-based Group-B posts aane ki sambhavna hai, isliye agriculture aur management background waale candidates in vacancies par nazar rakhein।
+</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">
+Sirf 2 posts hone ki wajah se yeh bharti highly competitive rahegi, isliye apna experience certificate aur qualification documents advance me hi taiyaar kar lein, aur last date ka intezar bilkul na karein — deadline ke aakhri dino me website traffic zyada hone se submission fail hone ka risk badh jaata hai.
+</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for HPSC District Manager Vacancy 2026</h2>
+<a href="https://hpsc.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=kea-ksrp-police-constable-vacancy-2026">KEA KSRP Police Constable Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Haryana Public Service Commission (HPSC) notification before applying.</p>
+`;
 JOB_CONTENT["indian-army-ncc-special-entry-women-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

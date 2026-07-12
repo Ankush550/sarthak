@@ -1,6 +1,66 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"hpsc-district-manager-vacancy-2026",
+    orgWebsite:"https://hpsc.gov.in",
+    title:"HPSC District Manager Vacancy 2026 Notification Out",
+    shortTitle:"HPSC District Manager (Group-B) Online Form 2026",
+    organization:"Haryana Public Service Commission (HPSC)",
+    image:"HPSCDistrictManagerVacancy.jpeg",
+
+    totalPosts:2,
+
+    lastDate:"2026-08-04",
+    lastDateDisplay:"04 August 2026",
+
+    datePosted:"2026-07-10",
+    validThrough:"2026-08-04T17:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:9300,
+    salaryMax:34800,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Haryana",
+    addressLocality:"Panchkula",
+    addressRegion:"Haryana",
+    addressCountry:"IN",
+
+    qualification:"Graduation in Agriculture / Commerce / Biology / Economics / Chemistry",
+
+    ageLimit:"25 to 45 Years",
+
+    applyLink:"https://hpsc.gov.in",
+    officialNotification:"https://hpsc.gov.in",
+
+    fee:"Haryana PwBD: Nil | OSC/DSC/BC-A/BC-B/EWS/Women (Haryana): Rs. 250 | DESM (Reserved): Rs. 250 | DESM (UR)/Others: Rs. 1,000",
+
+    description:"Haryana Public Service Commission (HPSC) has released the official notification (Advertisement No. 24/2026) for 2 posts of District Manager (Group-B) in Haryana State Warehousing Corporation (HSWC). Online applications start on 15 July 2026 and close on 4 August 2026 at 5:00 PM. Candidates must be graduates in Agriculture, Commerce, Biology, Economics or Chemistry with 10 years' managerial experience in handling and preservation of agricultural produce (7 years for postgraduates), with MBA (Marketing) preferred. Selection will be through Screening Test, Subject Knowledge Test and Interview. Selected candidates will get Pay Level-9 (Rs. 9,300-34,800 + Grade Pay Rs. 5,400).",
+
+    category:"State Government Jobs",
+    jobType:"District Manager (Group-B)",
+
+    advertisementNo:"24/2026",
+
+    applicationStartDate:"2026-07-15",
+    applicationEndDate:"2026-08-04",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"District Manager (Group-B) - UR", totalPosts:1},
+        {postName:"District Manager (Group-B) - DSC", totalPosts:1}
+    ],
+
+    tags:["HPSC District Manager Vacancy 2026","Haryana Public Service Commission Recruitment","HPSC Group B Jobs","HSWC District Manager","Haryana Government Jobs 2026","HPSC Advertisement 24 2026","HPSC 2 Posts"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"avnl-executive-non-executive-recruitment-2026",
     orgWebsite:"https://www.avnl.co.in",
     title:"AVNL Vacancy 2026 Notification Out",
