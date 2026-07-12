@@ -1,5 +1,842 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["indian-army-ncc-special-entry-women-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-11">Published: 11 July 2026</time> | Updated: 11 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Indian Army NCC Special Entry (Women) 2026 – Apply Online for 6 Lieutenant Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🎖️ Indian Army NCC Special Entry (Women) 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>21 July 2026 to 21 August 2026</strong></p>
+<a href="https://joinindianarmy.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">The <strong>Indian Army</strong> has released the notification for <strong>NCC Special Entry Scheme (Women) 125th Course April 2027</strong>, inviting unmarried women candidates for approximately <strong>6 Lieutenant</strong> posts under the Short Service Commission.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will be accepted from <strong>21 July 2026</strong> to <strong>21 August 2026</strong>. Candidates need a Bachelor's degree with minimum <strong>50% marks</strong> and a valid <strong>NCC 'C' Certificate</strong>. Selected candidates will get Level-10 salary of <strong>₹56,100 to ₹1,77,500</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Sirf <strong>6 (tentative) posts</strong> — yeh Army ke smallest, most exclusive women officer entries mein se ek hai. NCC Special Entry Scheme (Women) usually saal mein 2 baar aata hai (April aur October courses), aur "125th Course" naming se confirm hota hai ki yeh ek established, recurring scheme hai. Interesting baat yeh hai ki isi period mein <strong>SSC JAG 125th Entry</strong> bhi released hua hai — matlab Army currently multiple women-focused SSC entries simultaneously chala raha hai, jo overall women officer intake ko boost karne ki broader strategy dikhata hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Indian Army (Bhartiya Thal Sena)</td></tr>
+<tr><th>Entry Name</th><td>NCC Special Entry Scheme (Women) 125th Course</td></tr>
+<tr><th>Post Name</th><td>Lieutenant (SSC Officer)</td></tr>
+<tr><th>Total Vacancies</th><td>06 (Tentative)</td></tr>
+<tr><th>Start Date</th><td>21 July 2026</td></tr>
+<tr><th>Last Date</th><td>21 August 2026 (3:00 PM)</td></tr>
+<tr><th>Age Limit</th><td>19 to 25 Years</td></tr>
+<tr><th>Salary</th><td>₹56,100 – ₹1,77,500 per Month</td></tr>
+<tr><th>Official Website</th><td>joinindianarmy.nic.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for any category of women candidates.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas valid <strong>NCC 'C' Certificate</strong> hai jo aapne Senior Division/Wing mein serve karte hue earn kiya hai — yeh entry specifically NCC background wale candidates ke liye hai, jo SSB stage pe genuine advantage deta hai unn candidates ko jinhe already leadership/discipline training mili hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapke paas NCC 'C' Certificate nahi hai — yeh non-negotiable eligibility criteria hai is specific entry scheme mein, doosre document se substitute nahi ho sakta.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Qualification Criteria</th><th>Details</th></tr>
+<tr><td>Educational Qualification</td><td>Bachelor's Degree from a Recognized University</td></tr>
+<tr><td>Minimum Marks Required</td><td>50% Aggregate Marks</td></tr>
+<tr><td>NCC Qualification</td><td>Valid NCC 'C' Certificate</td></tr>
+<tr><td>Marital Status</td><td>Only Unmarried Women Candidates</td></tr>
+<tr><td>Nationality</td><td>Indian Citizen</td></tr>
+<tr><td>NCC Service</td><td>Candidate should have served in the Senior Division/Wing of NCC as per notification</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>NCC 'C' Certificate ki authenticity/validity apply karne se pehle zaroor confirm karein — verification stage pe koi bhi discrepancy application reject kar sakti hai.</li>
+<li>Sirf 6 (tentative) posts hain, isliye SSB Interview preparation ko halke mein bilkul na lein — competition per-seat extremely high hoga.</li>
+<li>Application ki 3:00 PM deadline dhyan mein rakhein — sirf date hi nahi, exact time bhi important hai last din submit karte waqt.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Level</th><th>Salary</th></tr>
+<tr><td>Lieutenant</td><td>Level-10</td><td>₹56,100 – ₹1,77,500 per Month</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>1</td><td>Application Scrutiny & Shortlisting</td></tr>
+<tr><td>2</td><td>Services Selection Board (SSB) Interview</td></tr>
+<tr><td>3</td><td>Medical Examination</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Final Merit List</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official Indian Army recruitment website.</li>
+<li>Complete online registration using a valid email ID and mobile number.</li>
+<li>Select NCC Special Entry Scheme (Women) 125th Course April 2027.</li>
+<li>Fill personal, educational and NCC-related details carefully.</li>
+<li>Upload required documents, photograph and signature.</li>
+<li>Submit the online application form.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the Indian Army's official notice released on 20 July 2026. As the vacancy count is tentative, we recommend confirming the final number from the detailed notification before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://joinindianarmy.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://joinindianarmy.nic.in" target="_blank">joinindianarmy.nic.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">Approximately <strong>6 (tentative)</strong> Lieutenant posts; the final number may vary in the detailed notification.</p>
+<h3>2. Is NCC 'C' Certificate mandatory?</h3>
+<p style="font-size:20px;line-height:1.8;">Yes, a valid NCC 'C' Certificate is a mandatory eligibility requirement for this specific entry.</p>
+<h3>3. Is there an application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">No, the application is completely free for all women candidates.</p>
+<h3>4. Will there be a written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">No, there is no written examination. Selection is based on shortlisting followed by SSB Interview, medical examination and document verification.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Indian Army NCC Special Entry (Women) 2026</strong> is a prestigious, highly selective opportunity for NCC 'C' Certificate holders. Apply before <strong>21 August 2026</strong> and begin your SSB preparation early given the limited seats.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for Indian Army NCC Special Entry (Women) 2026</h2>
+<a href="https://joinindianarmy.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=indian-army-ssc-jag-125th-entry-2027">Indian Army SSC JAG 125th Entry 2027</a></li>
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
+`;
+JOB_CONTENT["avnl-executive-non-executive-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-11">Published: 11 July 2026</time> | Updated: 11 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">AVNL Vacancy 2026 – Apply Online for 1,213 Executive & Non-Executive Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🚗 AVNL Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>11 July 2026 to 25 July 2026</strong></p>
+<a href="https://www.avnl.co.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Armoured Vehicles Nigam Limited (AVNL)</strong> has released the detailed notification (Advt. No. AVNLCO/HR/2026/06) for <strong>1,213 Executive and Non-Executive</strong> posts, spanning roles from Junior Technician to Additional General Manager and Consultant.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications started on <strong>11 July 2026</strong> and close on <strong>25 July 2026</strong>. Qualification ranges from ITI/NTC for Junior Technician to Engineering/MBA/CA for senior Executive roles. Selected candidates will get a salary of <strong>₹21,000 to ₹1,20,000</strong> per month plus IDA, on a <strong>Fixed Term Contract</strong> basis.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+1,213 posts mein se <strong>1,005 posts (83%) sirf Junior Technician category</strong> ke hain, jisme Fitter General (400) aur Machinist (216) sabse bada chunk hain. Yeh dikhata hai ki AVNL — jo BEML/OFB restructuring se bana hai — abhi apna shop-floor workforce rapidly build kar raha hai. Interesting baat yeh hai ki yeh <strong>Fixed Term Contract</strong> basis pe hai, permanent government job nahi — Defence PSU sector mein aajkal yeh naya normal hai. Executive side pe, Junior Manager (Mechanical) akela hi 92 posts ke saath sabse bada individual executive category hai, jo confirm karta hai ki mechanical engineering background walon ke liye yeh sabse strong opportunity hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">AVNL Vacancy 2026 Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Armoured Vehicles Nigam Limited (AVNL)</td></tr>
+<tr><th>Total Vacancies</th><td>1,213</td></tr>
+<tr><th>Short Notification Release</th><td>21 June 2026</td></tr>
+<tr><th>Detailed Notification Release</th><td>11 July 2026</td></tr>
+<tr><th>Start Date</th><td>11 July 2026</td></tr>
+<tr><th>Last Date</th><td>25 July 2026</td></tr>
+<tr><th>Maximum Age</th><td>30 Years</td></tr>
+<tr><th>Salary</th><td>₹21,000 – ₹1,20,000 + IDA</td></tr>
+<tr><th>Official Website</th><td>www.avnl.co.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General, OBC, EWS</td><td>₹300</td></tr>
+<tr><td>SC, ST, PwBD</td><td>₹0</td></tr>
+<tr><td>Ex-Servicemen</td><td>₹0</td></tr>
+<tr><td>All Female</td><td>₹0</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap ITI ya Diploma holder hain aur ek entry-level manufacturing/technical role ki talash mein hain — Junior Technician category (1,005 seats) ke saath yeh 2026 ki sabse badi shop-floor hiring opportunities mein se ek hai Defence PSU sector mein.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap job security ko permanent civil service ke barabar treat kar rahe hain — yeh <strong>Fixed Term Contract</strong> hai, na ki traditional PSU permanent job. Contract renewal/conversion policy official notification mein clearly padhein apply karne se pehle.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Executive Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Posts</th></tr>
+<tr><td>Junior Manager (Mechanical)</td><td>92</td></tr>
+<tr><td>Junior Manager (Electronics)</td><td>30</td></tr>
+<tr><td>Junior Manager (Electrical)</td><td>18</td></tr>
+<tr><td>Deputy Manager (Mechanical)</td><td>13</td></tr>
+<tr><td>Junior Manager (HR)</td><td>8</td></tr>
+<tr><td>Junior Manager (Metallurgy)</td><td>8</td></tr>
+<tr><td>Deputy Manager (Marketing)</td><td>7</td></tr>
+<tr><td>Deputy Manager (Electronics)</td><td>6</td></tr>
+<tr><td>Junior Manager (Official Language)</td><td>4</td></tr>
+<tr><td>Junior Manager (Artificial Intelligence)</td><td>3</td></tr>
+<tr><td>Deputy Manager (Information Technology)</td><td>3</td></tr>
+<tr><td>Junior Manager (Finance & Accounts)</td><td>2</td></tr>
+<tr><td>Assistant Manager (Finance)</td><td>2</td></tr>
+<tr><td>Deputy Manager (Electrical)</td><td>2</td></tr>
+<tr><td>Additional General Manager (Business Development)</td><td>2</td></tr>
+<tr><td>Assistant Manager (Civil)</td><td>1</td></tr>
+<tr><td>Assistant Manager (Company Secretary)</td><td>1</td></tr>
+<tr><td>Deputy Manager (PR & Corporate Communication)</td><td>1</td></tr>
+<tr><td>Deputy Manager (Artificial Intelligence)</td><td>1</td></tr>
+<tr><td>Consultant (Finance & Audit)</td><td>1</td></tr>
+<tr><td>Deputy General Manager (Company Secretary)</td><td>1</td></tr>
+<tr><td>Senior Manager (Cyber Security)</td><td>1</td></tr>
+<tr><td>Senior Manager (Intellectual Property)</td><td>1</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Trade-Wise Vacancy Details (Non-Executive)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Trade</th><th>Total Posts</th></tr>
+<tr><td>Junior Technician (Fitter General)</td><td>400</td></tr>
+<tr><td>Junior Technician (Machinist)</td><td>216</td></tr>
+<tr><td>Junior Technician (Fitter Electrician)</td><td>84</td></tr>
+<tr><td>Junior Technician (Electronic Mechanic)</td><td>69</td></tr>
+<tr><td>Junior Technician (OMHE)</td><td>66</td></tr>
+<tr><td>Junior Technician (Welder)</td><td>55</td></tr>
+<tr><td>Junior Technician (Quality Assurance Assistant)</td><td>44</td></tr>
+<tr><td>Junior Technician (Foundrymen)</td><td>31</td></tr>
+<tr><td>Junior Technician (Mechanic Machine Tool Maintenance)</td><td>23</td></tr>
+<tr><td>Junior Technician (Painter General)</td><td>10</td></tr>
+<tr><td>Junior Technician (Electroplater)</td><td>4</td></tr>
+<tr><td>Junior Technician (Forger & Heat Treater)</td><td>2</td></tr>
+<tr><td>Junior Technician (Rigger)</td><td>1</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>NTC/NAC certificate apne exact trade name (jaise "Fitter General" vs "Fitter Electrician") se match karta hai ya nahi zaroor confirm karein — trade mismatch se application reject ho sakta hai.</li>
+<li>Executive posts mein experience-based roles (jaise Consultant, DGM, AGM) ke liye apna experience certificate authentic aur properly notarized rakhein — senior positions mein document scrutiny zyada strict hota hai.</li>
+<li>Sirf ek hi post ke liye apply karein jisme aapki genuine qualification match karti ho — multiple applications submit karne se confusion aur rejection dono ho sakta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification (Sample Posts)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Educational Qualification</th></tr>
+<tr><td>Junior Technician</td><td>NTC/NAC Certificate in Relevant Trade</td></tr>
+<tr><td>Junior Manager (Mechanical)</td><td>B.Tech/BE Mechanical Engineering</td></tr>
+<tr><td>Junior Manager (HR)</td><td>Graduate + MBA (HR) / PG Diploma in HR</td></tr>
+<tr><td>Assistant Manager (Company Secretary)</td><td>Graduate + ICSI (CS)</td></tr>
+<tr><td>Consultant (Finance & Audit)</td><td>Chartered Accountant + 10 Years Experience</td></tr>
+<tr><td>Additional General Manager</td><td>Retired Army Colonel or Above with 15 Years Experience</td></tr>
+<tr><td>Senior Manager (Cyber Security)</td><td>BE/B.Tech / MCA + Cyber Security Experience</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Monthly Salary</th></tr>
+<tr><td>Junior Technician</td><td>₹21,000 + IDA</td></tr>
+<tr><td>Junior Manager</td><td>₹30,000 + IDA</td></tr>
+<tr><td>Assistant Manager</td><td>₹40,000 + IDA</td></tr>
+<tr><td>Deputy Manager</td><td>₹50,000 + IDA</td></tr>
+<tr><td>Senior Manager</td><td>₹70,000 + IDA</td></tr>
+<tr><td>Deputy General Manager</td><td>₹80,000 + IDA</td></tr>
+<tr><td>Additional General Manager</td><td>₹1,00,000 + IDA</td></tr>
+<tr><td>Consultant</td><td>₹1,20,000 + IDA</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Scrutiny of Online Applications</td></tr>
+<tr><td>2</td><td>Shortlisting of Eligible Candidates</td></tr>
+<tr><td>3</td><td>Interview / Trade Test / Skill Test (Post-wise)</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Medical Examination (If Applicable)</td></tr>
+<tr><td>6</td><td>Final Merit List & Appointment</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official AVNL website and go to Careers section.</li>
+<li>Open Advertisement No. AVNLCO/HR/2026/06.</li>
+<li>Register using a valid email ID and mobile number.</li>
+<li>Fill in personal, educational and experience details.</li>
+<li>Upload required documents, photograph and signature.</li>
+<li>Submit and download the application confirmation.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information has been cross-checked with AVNL's detailed notification (Advt. No. AVNLCO/HR/2026/06) released on 11 July 2026. Given the sheer number of post categories, we recommend candidates carefully match their exact trade/qualification before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.avnl.co.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.avnl.co.in" target="_blank">avnl.co.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there in AVNL Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>1,213 posts</strong>, with 1,005 in Junior Technician (Non-Executive) alone.</p>
+<h3>2. Is this a permanent government job?</h3>
+<p style="font-size:20px;line-height:1.8;">No, appointments are on a <strong>Fixed Term Contract</strong> basis in AVNL's various units.</p>
+<h3>3. What is the application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">₹300 for General/OBC/EWS; free for SC/ST/PwBD, Ex-Servicemen and all female candidates.</p>
+<h3>4. Which category has the most seats?</h3>
+<p style="font-size:20px;line-height:1.8;">Junior Technician (Fitter General) alone has <strong>400 seats</strong>, the single largest category in this recruitment.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>AVNL Vacancy 2026</strong> is one of the largest Defence PSU hiring drives of the year, with the bulk of opportunity in Junior Technician trades. Apply before <strong>25 July 2026</strong> and ensure your trade certificate matches exactly.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for AVNL Vacancy 2026</h2>
+<a href="https://www.avnl.co.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=ntpc-green-energy-recruitment-2026">NTPC Green Energy Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=kea-ksrp-police-constable-recruitment-2026">KEA KSRP Police Constable Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AVNL notification before applying.</p>
+`;
+JOB_CONTENT["kea-ksrp-police-constable-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-11">Published: 11 July 2026</time> | Updated: 11 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">KEA KSRP Police Constable Vacancy 2026 – Apply Online for 2,314 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">👮 KEA KSRP Police Constable Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>13 July 2026 to 10 August 2026</strong></p>
+<a href="https://kea.kar.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Karnataka State Police Department (KEA)</strong> has released the official notification for KEA KSRP Police Constable Recruitment 2026, offering <strong>2,314 posts</strong> across Special Reserve Police Constable (KSRP), Karnataka State Industrial Security Force (KSISF) and Indian Reserve Battalion (IRB).</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications are open from <strong>13 July 2026</strong> to <strong>10 August 2026</strong>. Candidates need <strong>2nd PUC (12th Pass)</strong> or equivalent. Selected candidates will get a salary of <strong>₹37,500 to ₹76,100</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+2,314 posts mein se <strong>1,455 posts (63%) State Cadre KSRP</strong> ke hain — yeh KEA ki abhi tak ki sabse badi KSRP hiring drives mein se ek hai. Female reservation dekhein toh State Cadre mein sirf 73/1,455 hain (~5%), jabki KSISF mein 90/364 (~25%) — yeh dikhata hai ki KSISF category women candidates ke liye proportionally zyada accessible hai. Kalyana Karnataka region ke liye alag se 859 posts (KSRP+KSISF+IRB) reserved hain, jo state government ki regional development priority ko reflect karta hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Karnataka State Police Department (KEA)</td></tr>
+<tr><th>Total Vacancies</th><td>2,314</td></tr>
+<tr><th>Start Date</th><td>13 July 2026</td></tr>
+<tr><th>Last Date</th><td>10 August 2026</td></tr>
+<tr><th>Fee Payment Last Date</th><td>11 August 2026</td></tr>
+<tr><th>Written Exam</th><td>20 September 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 23 Years</td></tr>
+<tr><th>Salary</th><td>₹37,500 – ₹76,100</td></tr>
+<tr><th>Official Website</th><td>KEA Online Application Portal</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General Merit / 2A / 2B / 3A / 3B</td><td>₹750</td></tr>
+<tr><td>SC, ST, Category-1, Ex-Servicemen</td><td>₹500</td></tr>
+<tr><td>Additional Post Selection (KK Notification)</td><td>₹100 Per Extra Post</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap 12th pass hain aur Karnataka mein physically demanding uniformed govt job chahte hain — 2,314 seats ke saath yeh state's largest constable recruitment mein se ek hai, isliye selection odds seat-count ke hisaab se relatively favorable hain compared to smaller drives.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapki PET (Physical Endurance Test) preparation weak hai — 1600m run 6:30 minutes mein complete karna genuinely demanding hai, isliye written exam ke saath-saath physical training bhi parallel mein shuru karein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Region/Cadre</th><th>Male</th><th>Female</th><th>Total Posts</th></tr>
+<tr><td>Special Reserve Police Constable (KSRP)</td><td>State Cadre</td><td>1,382</td><td>73</td><td>1,455</td></tr>
+<tr><td>Special Reserve Police Constable (KSRP)</td><td>Kalyana Karnataka</td><td>284</td><td>50</td><td>334</td></tr>
+<tr><td>Police Constable (KSISF)</td><td>Kalyana Karnataka</td><td>274</td><td>90</td><td>364</td></tr>
+<tr><td>Special Reserve Police Constable (IRB)</td><td>Kalyana Karnataka</td><td>161</td><td>—</td><td>161</td></tr>
+<tr><th colspan="2">Grand Total</th><th>2,101</th><th>213</th><th>2,314</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Qualification</th><th>Eligibility</th></tr>
+<tr><td>2nd PUC</td><td>Passed from a recognized board</td></tr>
+<tr><td>Class 12 (CBSE/ICSE/State Board)</td><td>Eligible</td></tr>
+<tr><td>NIOS Senior Secondary</td><td>Eligible</td></tr>
+<tr><td>SSLC + ITI + NIOS Combination</td><td>Eligible (As per Notification Rules)</td></tr>
+<tr><td>3-Year Diploma after SSLC</td><td>Eligible (Recognized Institution)</td></tr>
+<tr><td>Kannada Qualification</td><td>Kannada up to PUC level or qualify Kannada Language Test (where applicable)</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Kalyana Karnataka region posts ke liye apply karte waqt domicile requirement zaroor confirm karein — region-specific posts mein resident candidates ko priority milti hai.</li>
+<li>PST measurements (height/chest) apply karne se pehle khud check kar lein — borderline cases mein PST stage pe hi rejection ho sakta hai, chahe written exam mein achha score ho.</li>
+<li>Fee payment last date (11 August) application last date (10 August) se ek din baad hai — dono dates ko confuse mat karein, application submit karne ke baad hi fee payment complete karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Pay Scale</td><td>₹37,500 – ₹76,100</td></tr>
+<tr><td>Pay Level</td><td>Karnataka Government Pay Matrix</td></tr>
+<tr><td>Pension Scheme</td><td>National Pension System (NPS)</td></tr>
+<tr><td>Other Benefits</td><td>DA, HRA, Medical, Leave & Other Government Allowances</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process & Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Written Examination</td></tr>
+<tr><td>2</td><td>Physical Standard Test (PST)</td></tr>
+<tr><td>3</td><td>Physical Endurance Test (PET)</td></tr>
+<tr><td>4</td><td>Medical Examination</td></tr>
+<tr><td>5</td><td>Final Merit List</td></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Mode</td><td>Offline (OMR Based)</td></tr>
+<tr><td>Total Questions</td><td>100</td></tr>
+<tr><td>Total Marks</td><td>100</td></tr>
+<tr><td>Duration</td><td>90 Minutes</td></tr>
+<tr><td>Subjects</td><td>General Studies & Mental Ability</td></tr>
+<tr><td>Negative Marking</td><td>0.25 Mark Deducted for Every Wrong Answer</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Physical Standard Test (PST)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Height</th><th>Chest/Weight</th></tr>
+<tr><td>Male</td><td>168 cm</td><td>86 cm (Unexpanded) + 5 cm Expansion</td></tr>
+<tr><td>Female</td><td>158 cm</td><td>Minimum 45 kg</td></tr>
+<tr><td>Forest Area Male</td><td>155 cm</td><td>75 cm Chest + 5 cm Expansion</td></tr>
+<tr><td>Forest Area Female</td><td>150 cm</td><td>Minimum 45 kg</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Physical Endurance Test (PET)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Event</th><th>Qualifying Standard</th></tr>
+<tr><td>Male</td><td>1600 Meter Run</td><td>6 Minutes 30 Seconds</td></tr>
+<tr><td>Male</td><td>Long Jump</td><td>3.80 Meter</td></tr>
+<tr><td>Male</td><td>Shot Put (7.26 kg)</td><td>5.60 Meter</td></tr>
+<tr><td>Female</td><td>400 Meter Run</td><td>1 Minute 30 Seconds</td></tr>
+<tr><td>Female</td><td>Long Jump</td><td>2.50 Meter</td></tr>
+<tr><td>Female</td><td>Shot Put (4 kg)</td><td>3.75 Meter</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official KEA recruitment portal.</li>
+<li>Click on KSRP Police Constable Recruitment 2026.</li>
+<li>Complete registration and log in.</li>
+<li>Fill personal, educational and category details.</li>
+<li>Upload photograph and signature.</li>
+<li>Pay the fee and submit the form.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the official KEA notification released on 10 July 2026. Given the large number of applicants expected, candidates should complete their PST self-check and PET training well in advance of the 20 September 2026 written exam.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://kea.kar.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://kea.kar.nic.in" target="_blank">kea.kar.nic.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>2,314 posts</strong> across KSRP, KSISF and IRB.</p>
+<h3>2. When is the written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">The written exam is scheduled for <strong>20 September 2026</strong>.</p>
+<h3>3. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>₹37,500 to ₹76,100</strong> per month under Karnataka Government pay matrix.</p>
+<h3>4. Are fee payment and application last dates the same?</h3>
+<p style="font-size:20px;line-height:1.8;">No, the application closes on 10 August 2026, while fee payment is accepted until 11 August 2026.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>KEA KSRP Police Constable Vacancy 2026</strong> is one of Karnataka's largest constable recruitments. Apply before <strong>10 August 2026</strong> and start your PET training early.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for KEA KSRP Police Constable Vacancy 2026</h2>
+<a href="https://kea.kar.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=indian-army-ssc-jag-125th-entry-2027">Indian Army SSC JAG 125th Entry 2027</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official KEA notification before applying.</p>
+`;
+JOB_CONTENT["indian-army-ssc-jag-125th-entry-2027"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-11">Published: 11 July 2026</time> | Updated: 11 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Indian Army SSC JAG 125th Entry 2027 – Apply Online for Lieutenant (LLB)</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">⚖️ Indian Army SSC JAG 125th Entry 2027</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Short Notice Released</span></p>
+<p style="font-size:19px;">Application Period : <strong>17 July 2026 to 17 August 2026</strong></p>
+<a href="https://joinindianarmy.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">The <strong>Indian Army</strong> has released a short notice for <strong>SSC JAG 125th Entry Scheme Course April 2027</strong>, offering unmarried male and female LLB graduates a chance to become <strong>Lieutenant</strong> in the Judge Advocate General branch.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>17 July 2026</strong> and close on <strong>17 August 2026</strong>. Candidates need an <strong>LLB degree with minimum 55% marks</strong>, must have qualified <strong>CLAT PG 2026</strong>, and hold Bar Council registration before joining. Selected candidates will get Level-10 salary of <strong>₹56,100 to ₹1,77,500</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh entry unique hai kyunki eligibility ke liye <strong>CLAT PG 2026</strong> qualify karna already prerequisite hai — matlab yeh sirf LLB pass candidates ke liye open nahi hai, balki un candidates ke liye hai jo already ek competitive national law entrance exam clear kar chuke hain. "125th Entry" naming convention batata hai ki JAG branch mein SSC entries regularly (approx. har 6 mahine) chalti hain, isliye agar aap is cycle ko miss karte hain toh agla 126th Entry cycle bhi expect kar sakte hain. Total vacancies abhi "Available Soon" hain, jo confirm karta hai ki yeh technically ek short notice hai, complete notification nahi.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Indian Army</td></tr>
+<tr><th>Entry Name</th><td>SSC 125th JAG Entry Scheme Course April 2027</td></tr>
+<tr><th>Post Name</th><td>Lieutenant (Men & Women)</td></tr>
+<tr><th>Total Vacancies</th><td>Available Soon</td></tr>
+<tr><th>Start Date</th><td>17 July 2026</td></tr>
+<tr><th>Last Date</th><td>17 August 2026 (3:00 PM)</td></tr>
+<tr><th>Age Limit</th><td>21 to 27 Years</td></tr>
+<tr><th>Salary</th><td>₹56,100 – ₹1,77,500 per Month</td></tr>
+<tr><th>Official Website</th><td>joinindianarmy.nic.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for any category. This is confirmed as free specifically for all female candidates, and no fee is mentioned for male candidates either.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapne already CLAT PG 2026 qualify kiya hai aur Army legal branch mein officer-level career chahte hain — Level-10 salary aur Short Service Commission ka combination un candidates ke liye ideal hai jo prestigious, structured legal career chahte hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap CLAT PG abhi qualify nahi kar paye hain — is entry ke liye yeh mandatory prerequisite hai, sirf LLB degree hone se aap eligible nahi honge, chahe aapke marks kitne bhi achhe ho.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Criteria</th><th>Details</th></tr>
+<tr><td>Post Name</td><td>Lieutenant (Men & Women)</td></tr>
+<tr><td>Educational Qualification</td><td>Bachelor of Laws (LLB) with minimum 55% Marks</td></tr>
+<tr><td>CLAT Requirement</td><td>Must have qualified CLAT PG 2026</td></tr>
+<tr><td>Bar Council Registration</td><td>Mandatory before joining training</td></tr>
+<tr><td>Marital Status</td><td>Only Unmarried Male & Female Candidates are Eligible</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>CLAT PG 2026 score card ke bina apply mat karein — application submit karne se pehle confirm karein ki aapka score valid aur recent hai.</li>
+<li>Bar Council registration abhi "joining se pehle" mandatory hai, matlab agar aapne registration nahi karaya hai, toh application stage pe hi shuru kar dein, kyunki yeh process time leta hai.</li>
+<li>Age calculation ka reference date <strong>01 January 2027</strong> hai, na ki application date — apni exact age calculate karte waqt yeh reference date use karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Post</td><td>Lieutenant (SSC JAG Entry)</td></tr>
+<tr><td>Pay Level</td><td>Level-10</td></tr>
+<tr><td>Salary</td><td>₹56,100 – ₹1,77,500 per Month</td></tr>
+<tr><td>Other Benefits</td><td>Military Service Pay, DA, HRA, Transport Allowance and other allowances as per Army rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Application Shortlisting</td></tr>
+<tr><td>2</td><td>SSB Interview</td></tr>
+<tr><td>3</td><td>Medical Examination</td></tr>
+<tr><td>4</td><td>Document Verification</td></tr>
+<tr><td>5</td><td>Final Merit List</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official Indian Army recruitment website.</li>
+<li>Complete registration using a valid email ID and mobile number.</li>
+<li>Open the SSC JAG 125th Entry Scheme April 2027 application form.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload required documents, photograph and signature.</li>
+<li>Submit the application (no fee payment required).</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This is a short notice released on 17 July 2026; the total number of vacancies will be announced in the detailed notification. We recommend checking the official joinindianarmy.nic.in portal closer to the application start date for the exact vacancy figure.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://joinindianarmy.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://joinindianarmy.nic.in" target="_blank">joinindianarmy.nic.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. When will applications start?</h3>
+<p style="font-size:20px;line-height:1.8;">Online applications start on <strong>17 July 2026</strong> and close on <strong>17 August 2026</strong>.</p>
+<h3>2. What is the qualification required?</h3>
+<p style="font-size:20px;line-height:1.8;">LLB with minimum 55% marks, CLAT PG 2026 qualified, and Bar Council registration.</p>
+<h3>3. Can married candidates apply?</h3>
+<p style="font-size:20px;line-height:1.8;">No, only <strong>unmarried</strong> male and female candidates are eligible.</p>
+<h3>4. Is there an application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">No, the application is completely free.</p>
+<h3>5. How many total vacancies are there?</h3>
+<p style="font-size:20px;line-height:1.8;">The exact number will be announced in the detailed notification; the current short notice does not specify a figure.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Indian Army SSC JAG 125th Entry 2027</strong> is a prestigious opportunity for CLAT PG-qualified LLB graduates. Apply before <strong>17 August 2026</strong> and keep your Bar Council registration process moving in parallel.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for Indian Army SSC JAG 125th Entry 2027</h2>
+<a href="https://joinindianarmy.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=indian-army-ncc-special-entry-women-2026">Indian Army NCC Special Entry (Women) 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=kea-ksrp-police-constable-recruitment-2026">KEA KSRP Police Constable Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Indian Army notification before applying.</p>
+`;
+JOB_CONTENT["ntpc-green-energy-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-11">Published: 11 July 2026</time> | Updated: 11 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">NTPC Green Energy Vacancy 2026 – Apply Online for 114 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🌞 NTPC Green Energy Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>11 July 2026 to 31 July 2026</strong></p>
+<a href="https://www.ngel.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>NTPC Green Energy Limited (NGEL)</strong> has released the official notification (Advt. No. 02/26) for <strong>114 posts</strong> of Assistant Engineer (RE) and Deputy General Manager (RE).</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications are open from <strong>11 July 2026</strong> to <strong>31 July 2026</strong>. Both posts require substantial <strong>Power Sector experience</strong>, particularly in Solar/Wind projects. Salary ranges from <strong>₹30,000 to ₹2,40,000</strong> per month depending on the post.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+NGEL, NTPC ki renewable energy arm, tezi se expand kar raha hai — 100 out of 114 posts (88%) sirf <strong>Assistant Engineer</strong> level pe hain, jo dikhata hai ki company field-level O&M (Operations & Maintenance) staff ko urgently strengthen kar rahi hai apne growing solar/wind portfolio ke liye. Yeh koi fresher-friendly bhrti nahi hai — Assistant Engineer ke liye bhi 10 saal ka experience mandatory hai, jisme se 6 saal specifically 50 MW+ projects mein. Yeh confirm karta hai ki NGEL apne aggressive renewable capacity addition targets ke liye already-experienced power sector professionals hire kar raha hai, na ki entry-level talent.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>NTPC Green Energy Limited (NGEL)</td></tr>
+<tr><th>Advertisement No.</th><td>02/26</td></tr>
+<tr><th>Total Vacancies</th><td>114</td></tr>
+<tr><th>Start Date</th><td>11 July 2026</td></tr>
+<tr><th>Last Date</th><td>31 July 2026 (6:00 PM)</td></tr>
+<tr><th>Age Limit</th><td>AE: 40 Years | DGM: 44 Years</td></tr>
+<tr><th>Salary</th><td>₹30,000 – ₹2,40,000</td></tr>
+<tr><th>Official Website</th><td>www.ngel.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General / EWS / OBC</td><td>₹500</td></tr>
+<tr><td>SC / ST / PwBD / Ex-Servicemen</td><td>No fee</td></tr>
+<tr><td>Female</td><td>No fee</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap already 10+ saal power sector mein kaam kar chuke hain, specifically solar/wind O&M mein — NGEL India ki fastest-growing renewable PSUs mein se ek hai, isliye is stage pe join karna long-term career growth ka strong signal hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap fresher hain ya limited experience rakhte hain — dono posts mein 10-12 saal ka mandatory experience hai, isliye yeh bhrti entry-level candidates ke liye designed nahi hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Posts</th></tr>
+<tr><td>Assistant Engineer – RE</td><td>100</td></tr>
+<tr><td>Deputy General Manager – RE</td><td>14</td></tr>
+<tr><th>Grand Total</th><th>114</th></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Category</th><th>Assistant Engineer</th><th>Deputy General Manager</th></tr>
+<tr><td>UR</td><td>41</td><td>8</td></tr>
+<tr><td>OBC</td><td>27</td><td>3</td></tr>
+<tr><td>SC</td><td>15</td><td>1</td></tr>
+<tr><td>ST</td><td>7</td><td>1</td></tr>
+<tr><td>EWS</td><td>10</td><td>1</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th><th>Experience</th></tr>
+<tr><td>Assistant Engineer – RE</td><td>Full-Time Diploma in Electrical/Mechanical/Electronics/Electrical & Electronics/Instrumentation Engineering</td><td>Min. 10 years in Power Sector, incl. 6 years in 50 MW+ Solar/Wind O&M</td></tr>
+<tr><td>Deputy General Manager – RE</td><td>B.E./B.Tech in Electrical/Electrical & Electronics/Electronics/C&I/Civil/Mechanical (Min. 60% marks)</td><td>Min. 12 years executive experience, incl. 10 years in RE Projects and 2 years in 50 MW+ project construction/commissioning</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Experience calculate karte waqt "50 MW ya usse bade" project ka criteria strictly check karein — chhote scale projects ka experience is specific requirement ko satisfy nahi karega.</li>
+<li>DGM post ke liye minimum 60% marks (SC/ST/PwBD ke liye pass marks) mandatory hai — apna degree percentage carefully verify karein apply karne se pehle.</li>
+<li>Application fee SBI Collect ke through hi pay karein jaisa specify kiya gaya hai — doosre payment gateway se transaction reject ho sakta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Scale</th><th>Initial Basic Pay</th></tr>
+<tr><td>Assistant Engineer – RE (E-0)</td><td>₹30,000 – ₹1,20,000</td><td>₹40,000</td></tr>
+<tr><td>Deputy General Manager – RE (E-6)</td><td>₹90,000 – ₹2,40,000</td><td>₹90,000</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>1</td><td>Application Screening</td></tr>
+<tr><td>2</td><td>Shortlisting</td></tr>
+<tr><td>3</td><td>Written Examination (If Conducted)</td></tr>
+<tr><td>4</td><td>Group Discussion (If Required)</td></tr>
+<tr><td>5</td><td>Personal Interview</td></tr>
+<tr><td>6</td><td>Document Verification</td></tr>
+<tr><td>7</td><td>Medical Examination</td></tr>
+<tr><td>8</td><td>Final Merit List</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official NGEL website and open Careers section.</li>
+<li>Click on NGEL Recruitment 2026 Online Application.</li>
+<li>Complete registration and fill personal, educational, experience details.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Pay the fee via SBI Collect (if applicable) and submit.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with NGEL's official notification (Advt. No. 02/26) released on 11 July 2026. Given the strict experience criteria, candidates should carefully calculate their qualifying project-scale experience before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.ngel.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.ngel.in" target="_blank">ngel.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>114 posts</strong> - 100 Assistant Engineer and 14 Deputy General Manager.</p>
+<h3>2. What is the last date to apply?</h3>
+<p style="font-size:20px;line-height:1.8;">Online applications close on <strong>31 July 2026 at 6:00 PM</strong>.</p>
+<h3>3. Can freshers apply?</h3>
+<p style="font-size:20px;line-height:1.8;">No, both posts require significant power sector experience - 10 years for Assistant Engineer and 12 years for DGM.</p>
+<h3>4. What is the salary?</h3>
+<p style="font-size:20px;line-height:1.8;">Assistant Engineer: <strong>₹30,000 to ₹1,20,000</strong>; Deputy General Manager: <strong>₹90,000 to ₹2,40,000</strong>.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>NTPC Green Energy Vacancy 2026</strong> is a strong opportunity for experienced Power Sector professionals looking to join India's renewable energy expansion. Apply before <strong>31 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for NTPC Green Energy Vacancy 2026</h2>
+<a href="https://www.ngel.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=indian-army-ssc-jag-125th-entry-2027">Indian Army SSC JAG 125th Entry 2027</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NGEL notification before applying.</p>
+`;
 JOB_CONTENT["upessc-assistant-professor-bed-recruitment-2025"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

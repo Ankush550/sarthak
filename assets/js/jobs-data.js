@@ -1,5 +1,343 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
+    {
+    id:"avnl-executive-non-executive-recruitment-2026",
+    orgWebsite:"https://www.avnl.co.in",
+    title:"AVNL Vacancy 2026 Notification Out",
+    shortTitle:"AVNL Executive Non-Executive Online Form 2026",
+    organization:"Armoured Vehicles Nigam Limited (AVNL)",
+    image:"AVNLVacancy.jpeg",
+
+    totalPosts:1213,
+
+    lastDate:"2026-07-25",
+    lastDateDisplay:"25 July 2026",
+
+    datePosted:"2026-07-11",
+    validThrough:"2026-07-25T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:21000,
+    salaryMax:120000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (AVNL Units)",
+    addressLocality:"Pune",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"10th / ITI / Diploma / B.E./B.Tech / MBA (Post Wise)",
+
+    ageLimit:"Up to 30 Years",
+
+    applyLink:"https://www.avnl.co.in",
+    officialNotification:"https://www.avnl.co.in",
+
+    fee:"General/OBC/EWS: Rs. 300 | SC/ST/PwBD/Ex-Servicemen/Female: Nil",
+
+    description:"Armoured Vehicles Nigam Limited (AVNL) has released the detailed notification (Advt. No. AVNLCO/HR/2026/06) for 1,213 Executive and Non-Executive posts, including Junior Technician, Junior Manager, Assistant Manager, Deputy Manager, Senior Manager, Deputy General Manager, Additional General Manager and Consultant roles. Online applications started on 11 July 2026 and close on 25 July 2026. Qualification ranges from ITI/NTC for Junior Technician to Engineering/MBA/CA for Executive roles. Selection includes application scrutiny, shortlisting, interview/trade test/skill test, document verification and medical examination. Selected candidates will get a salary of Rs. 21,000 to Rs. 1,20,000 per month plus IDA and other allowances, on a Fixed Term Contract basis.",
+
+    category:"Defence PSU Jobs",
+    jobType:"Junior Technician, Junior Manager, Assistant Manager, Deputy Manager, Senior Manager, DGM, AGM, Consultant",
+
+    advertisementNo:"AVNLCO/HR/2026/06",
+
+    applicationStartDate:"2026-07-11",
+    applicationEndDate:"2026-07-25",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Junior Technician (Fitter General)", totalPosts:400},
+        {postName:"Junior Technician (Machinist)", totalPosts:216},
+        {postName:"Junior Manager (Mechanical)", totalPosts:92},
+        {postName:"Junior Technician (Fitter Electrician)", totalPosts:84},
+        {postName:"Junior Technician (Electronic Mechanic)", totalPosts:69},
+        {postName:"Junior Technician (OMHE)", totalPosts:66},
+        {postName:"Junior Technician (Welder)", totalPosts:55},
+        {postName:"Junior Technician (Quality Assurance Assistant)", totalPosts:44},
+        {postName:"Junior Manager (Electronics)", totalPosts:30},
+        {postName:"Junior Technician (Foundrymen)", totalPosts:31},
+        {postName:"Junior Technician (Mechanic Machine Tool Maintenance)", totalPosts:23},
+        {postName:"Junior Manager (Electrical)", totalPosts:18},
+        {postName:"Deputy Manager (Mechanical)", totalPosts:13},
+        {postName:"Junior Technician (Painter General)", totalPosts:10},
+        {postName:"Junior Manager (HR)", totalPosts:8},
+        {postName:"Junior Manager (Metallurgy)", totalPosts:8},
+        {postName:"Deputy Manager (Marketing)", totalPosts:7},
+        {postName:"Deputy Manager (Electronics)", totalPosts:6},
+        {postName:"Junior Manager (Official Language)", totalPosts:4},
+        {postName:"Junior Technician (Electroplater)", totalPosts:4},
+        {postName:"Junior Manager (Artificial Intelligence)", totalPosts:3},
+        {postName:"Deputy Manager (Information Technology)", totalPosts:3},
+        {postName:"Junior Manager (Finance & Accounts)", totalPosts:2},
+        {postName:"Assistant Manager (Finance)", totalPosts:2},
+        {postName:"Deputy Manager (Electrical)", totalPosts:2},
+        {postName:"Additional General Manager (Business Development)", totalPosts:2},
+        {postName:"Junior Technician (Forger & Heat Treater)", totalPosts:2},
+        {postName:"Assistant Manager (Civil)", totalPosts:1},
+        {postName:"Assistant Manager (Company Secretary)", totalPosts:1},
+        {postName:"Deputy Manager (PR & Corporate Communication)", totalPosts:1},
+        {postName:"Deputy Manager (Artificial Intelligence)", totalPosts:1},
+        {postName:"Consultant (Finance & Audit)", totalPosts:1},
+        {postName:"Deputy General Manager (Company Secretary)", totalPosts:1},
+        {postName:"Senior Manager (Cyber Security)", totalPosts:1},
+        {postName:"Senior Manager (Intellectual Property)", totalPosts:1},
+        {postName:"Junior Technician (Rigger)", totalPosts:1}
+    ],
+
+    tags:["AVNL Vacancy 2026","Armoured Vehicles Nigam Limited Recruitment","AVNL Junior Technician","AVNL Junior Manager","Defence PSU Jobs 2026","AVNL Non-Executive Vacancy","AVNL 1213 Posts","AVNLCO HR 2026"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"kea-ksrp-police-constable-recruitment-2026",
+    orgWebsite:"https://kea.kar.nic.in",
+    title:"KEA KSRP Police Constable Vacancy 2026",
+    shortTitle:"KEA KSRP Police Constable Online Form 2026",
+    organization:"Karnataka State Police Department (KEA)",
+    image:"KEAKSRPConstable.jpeg",
+
+    totalPosts:2314,
+
+    lastDate:"2026-08-10",
+    lastDateDisplay:"10 August 2026",
+
+    datePosted:"2026-07-10",
+    validThrough:"2026-08-10T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:37500,
+    salaryMax:76100,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Karnataka",
+    addressLocality:"Bengaluru",
+    addressRegion:"Karnataka",
+    addressCountry:"IN",
+
+    qualification:"2nd PUC / 12th Pass or Equivalent",
+
+    ageLimit:"18 to 23 Years",
+
+    applyLink:"https://kea.kar.nic.in",
+    officialNotification:"https://kea.kar.nic.in",
+
+    fee:"General/2A/2B/3A/3B: Rs. 750 | SC/ST/Category-1/Ex-Servicemen: Rs. 500",
+
+    description:"Karnataka State Police Department (KEA) has released the official notification for KEA KSRP Police Constable Recruitment 2026, inviting applications for 2,314 posts covering Special Reserve Police Constable (KSRP), Karnataka State Industrial Security Force (KSISF) and Indian Reserve Battalion (IRB). Online applications are open from 13 July 2026 to 10 August 2026. Candidates need 2nd PUC (12th Pass) or equivalent. Selection includes a Written Examination (20 September 2026), Physical Standard Test (PST), Physical Endurance Test (PET), Medical Examination and Final Merit List. Selected candidates will get a salary of Rs. 37,500 to Rs. 76,100 per month.",
+
+    category:"Karnataka Government Jobs",
+    jobType:"Police Constable (KSRP), KSISF & IRB",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-13",
+    applicationEndDate:"2026-08-10",
+
+    examDate:"20 September 2026",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Special Reserve Police Constable (KSRP) - State Cadre", totalPosts:1455},
+        {postName:"Special Reserve Police Constable (KSRP) - Kalyana Karnataka", totalPosts:334},
+        {postName:"Police Constable (KSISF) - Kalyana Karnataka", totalPosts:364},
+        {postName:"Special Reserve Police Constable (IRB) - Kalyana Karnataka", totalPosts:161}
+    ],
+
+    tags:["KEA KSRP Police Constable Vacancy 2026","Karnataka Police Constable Recruitment","KSISF Vacancy","IRB Constable Bharti","Karnataka Police Bharti 2026","KEA Online Application","Police Constable 2314 Posts"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"indian-army-ssc-jag-125th-entry-2027",
+    orgWebsite:"https://joinindianarmy.nic.in",
+    title:"Indian Army SSC JAG 125th Entry 2027",
+    shortTitle:"Indian Army SSC JAG Online Form 2026",
+    organization:"Indian Army",
+    image:"IndianArmySSCJAG.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"2026-08-17",
+    lastDateDisplay:"17 August 2026",
+
+    datePosted:"2026-07-17",
+    validThrough:"2026-08-17T15:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:56100,
+    salaryMax:177500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"LLB (Bachelor of Laws) with Minimum 55% Marks + CLAT PG 2026 Qualified",
+
+    ageLimit:"21 to 27 Years",
+
+    applyLink:"https://joinindianarmy.nic.in",
+    officialNotification:"https://joinindianarmy.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"The Indian Army has released a short notice for SSC JAG 125th Entry Scheme Course April 2027, inviting unmarried male and female LLB graduates for Lieutenant posts under the Short Service Commission (Judge Advocate General branch). Online applications will start on 17 July 2026 and close on 17 August 2026. Candidates need an LLB degree with minimum 55% marks, must have qualified CLAT PG 2026, and hold Bar Council registration before joining training. Selection includes Application Shortlisting, SSB Interview, Medical Examination and Document Verification. Selected candidates will get Level-10 salary of Rs. 56,100 to Rs. 1,77,500 per month.",
+
+    category:"Defence Jobs",
+    jobType:"Lieutenant (SSC JAG Entry)",
+
+    advertisementNo:"SSC JAG 125th Entry",
+
+    applicationStartDate:"2026-07-17",
+    applicationEndDate:"2026-08-17",
+
+    examDate:"Not Applicable",
+    interviewDate:"SSB Interview (As Per Schedule)",
+
+    tags:["Indian Army SSC JAG 125th Entry","Army JAG Recruitment 2027","LLB Jobs in Army","Judge Advocate General Entry","Indian Army Lieutenant Vacancy","SSC JAG April 2027 Course","Army Law Officer Jobs"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"ntpc-green-energy-recruitment-2026",
+    orgWebsite:"https://www.ngel.in",
+    title:"NTPC Green Energy Vacancy 2026",
+    shortTitle:"NGEL Assistant Engineer DGM Online Form 2026",
+    organization:"NTPC Green Energy Limited (NGEL)",
+    image:"NGELVacancy.jpeg",
+
+    totalPosts:114,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026",
+
+    datePosted:"2026-07-11",
+    validThrough:"2026-07-31T18:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:30000,
+    salaryMax:240000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (NGEL Projects)",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Diploma (Assistant Engineer) / B.E.-B.Tech (Deputy General Manager) with Relevant Experience",
+
+    ageLimit:"Assistant Engineer: Up to 40 Years | Deputy General Manager: Up to 44 Years",
+
+    applyLink:"https://www.ngel.in",
+    officialNotification:"https://www.ngel.in",
+
+    fee:"General/EWS/OBC: Rs. 500 | SC/ST/PwBD/Ex-Servicemen/Female: No Fee",
+
+    description:"NTPC Green Energy Limited (NGEL) has released the official notification (Advt. No. 02/26) for 114 posts of Assistant Engineer (RE) and Deputy General Manager (RE). Online applications are open from 11 July 2026 to 31 July 2026. Assistant Engineer requires a Diploma in Electrical/Mechanical/Electronics/Instrumentation Engineering with 10 years of Power Sector experience including 6 years in 50 MW+ Solar/Wind projects, while Deputy General Manager requires a B.E./B.Tech with 12 years of executive experience. Selection includes screening, shortlisting, written examination (if conducted), group discussion, personal interview, document verification and medical examination. Salary ranges from Rs. 30,000 to Rs. 2,40,000 per month depending on the post.",
+
+    category:"PSU Jobs",
+    jobType:"Assistant Engineer - RE, Deputy General Manager - RE",
+
+    advertisementNo:"02/26",
+
+    applicationStartDate:"2026-07-11",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"To Be Announced (If Conducted)",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Assistant Engineer - RE (UR)", totalPosts:41},
+        {postName:"Assistant Engineer - RE (OBC)", totalPosts:27},
+        {postName:"Assistant Engineer - RE (SC)", totalPosts:15},
+        {postName:"Assistant Engineer - RE (EWS)", totalPosts:10},
+        {postName:"Assistant Engineer - RE (ST)", totalPosts:7},
+        {postName:"Deputy General Manager - RE (UR)", totalPosts:8},
+        {postName:"Deputy General Manager - RE (OBC)", totalPosts:3},
+        {postName:"Deputy General Manager - RE (SC)", totalPosts:1},
+        {postName:"Deputy General Manager - RE (ST)", totalPosts:1},
+        {postName:"Deputy General Manager - RE (EWS)", totalPosts:1}
+    ],
+
+    tags:["NTPC Green Energy Vacancy 2026","NGEL Recruitment","Assistant Engineer RE Jobs","Deputy General Manager RE","Renewable Energy PSU Jobs","NGEL Solar Wind Jobs","NTPC Green Energy Limited 114 Posts"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"indian-army-ncc-special-entry-women-2026",
+    orgWebsite:"https://joinindianarmy.nic.in",
+    title:"Indian Army NCC Special Entry (Women) 2026",
+    shortTitle:"Indian Army NCC Special Entry Women Online Form 2026",
+    organization:"Indian Army (Bhartiya Thal Sena)",
+    image:"IndianArmyNCCWomen.jpeg",
+
+    totalPosts:6,
+
+    lastDate:"2026-08-21",
+    lastDateDisplay:"21 August 2026",
+
+    datePosted:"2026-07-20",
+    validThrough:"2026-08-21T15:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:56100,
+    salaryMax:177500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"All India",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Graduation (Minimum 50% Marks) + NCC 'C' Certificate",
+
+    ageLimit:"19 to 25 Years",
+
+    applyLink:"https://joinindianarmy.nic.in",
+    officialNotification:"https://joinindianarmy.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"The Indian Army has released the notification for NCC Special Entry Scheme (Women) 125th Course April 2027, inviting unmarried women candidates for approximately 6 Lieutenant posts under the Short Service Commission. Online applications are open from 21 July 2026 to 21 August 2026. Candidates need a Bachelor's degree with minimum 50% marks and a valid NCC 'C' Certificate from the Senior Division/Wing. Selection includes Application Scrutiny, SSB Interview, Medical Examination and Document Verification. Selected candidates will get Level-10 salary of Rs. 56,100 to Rs. 1,77,500 per month.",
+
+    category:"Defence Jobs",
+    jobType:"Lieutenant (NCC Special Entry - Women)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-21",
+    applicationEndDate:"2026-08-21",
+
+    examDate:"Not Applicable",
+    interviewDate:"SSB Interview (As Per Schedule)",
+
+    tags:["Indian Army NCC Special Entry Women","NCC C Certificate Jobs","Army Women Officer Entry 2026","Lieutenant SSC Women","NCC 125th Course April 2027","Indian Army Women Recruitment","NCC Special Entry Scheme"],
+
+    status:"open",
+    isNew:true
+},
     
     {
     id:"upessc-assistant-professor-bed-recruitment-2025",
