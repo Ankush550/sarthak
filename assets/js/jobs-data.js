@@ -1,6 +1,126 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"up-rojgar-mela-recruitment-2026",
+    orgWebsite:"https://sewayojan.up.nic.in",
+    title:"UP Rojgar Mela 2026 Notification Out",
+    shortTitle:"UP Rojgar Mela Online Registration 2026",
+    organization:"Uttar Pradesh Sewayojan Vibhag",
+    image:"UPRojgarMela.jpeg",
+
+    totalPosts:2750,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"District-Wise (Ongoing)",
+
+    datePosted:"2026-07-13",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    location:"Uttar Pradesh (Bhadohi, Muzaffarnagar, Agra and Other Districts)",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"10th Pass, 12th Pass, ITI, Diploma, Graduation, Post Graduation, Engineering Degree, MBA",
+
+    ageLimit:"18 Years and Above",
+
+    applyLink:"https://sewayojan.up.nic.in",
+    officialNotification:"https://sewayojan.up.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"Uttar Pradesh Sewayojan Vibhag has released the notification for UP Rojgar Mela 2026, a state-wide initiative to provide private sector employment to unemployed youth through district-level job fairs. Candidates with qualifications ranging from 10th Pass to MBA, Engineering and Agniveer background can participate, totalling over 2,750 posts across job fairs in Bhadohi, Muzaffarnagar, Agra and other districts. Candidates must first register online on the Sewayojan Portal, then attend the scheduled Rojgar Mela in their district with required documents. Selection is company-wise, based on interview and document verification, for private/contractual positions.",
+
+    category:"Private Jobs",
+    jobType:"Various Private Sector Posts (Job Fair)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-13",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"District-Wise (As Per Rojgar Mela Schedule)",
+
+    postDetails:[
+        {district:"Bhadohi (Sant Ravidas Nagar) - Gyanpur ITI (28 July)", totalPosts:310},
+        {district:"Bhadohi (Sant Ravidas Nagar) - Gyanpur ITI (21 July)", totalPosts:160},
+        {district:"Muzaffarnagar - Khand Vikas Karyalaya Sadar Kukda (16-17 July)", totalPosts:500},
+        {district:"Bhadohi (Sant Ravidas Nagar) - DJD Private ITI Isnghpur (14 July)", totalPosts:350},
+        {district:"Agra - Dr. M.P.S. Group of Institutions, Sikandra (14 July)", totalPosts:430},
+        {district:"Muzaffarnagar - Khand Vikas Karyalaya Budhana (13-14 July)", totalPosts:1000}
+    ],
+
+    tags:["UP Rojgar Mela 2026","Sewayojan Portal Registration","UP Job Fair 2026","Private Jobs Uttar Pradesh","Rojgar Mela District Wise","Sewayojan UP Vacancy","UP Employment Mela 2026"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"up-ecce-educator-recruitment-2026",
+    orgWebsite:"https://sewayojan.up.nic.in",
+    title:"UP ECCE Educator Vacancy 2026 Notification Out",
+    shortTitle:"UP ECCE Educator Online Form 2026",
+    organization:"UP Basic Shiksha Vibhag (Contractual Job)",
+    image:"UPECCEEducator.jpeg",
+
+    totalPosts:118,
+
+    lastDate:"2026-07-15",
+    lastDateDisplay:"District-Wise (Kushinagar: 15 July, Lalitpur: 14 July)",
+
+    datePosted:"2026-07-01",
+    validThrough:"2026-07-15T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:10001,
+    salaryMax:20000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Kushinagar and Lalitpur, Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree (50% Marks) + Diploma in Pre School Education / CT Nursery / NTT",
+
+    ageLimit:"18 to 40 Years",
+
+    applyLink:"https://sewayojan.up.nic.in",
+    officialNotification:"https://sewayojan.up.nic.in",
+
+    fee:"No Application Fee",
+
+    description:"UP Basic Shiksha Vibhag has invited district-wise online applications through the Sewayojan Portal for ECCE Educator (Early Childhood Care and Education) contractual posts, offering 118 posts across Kushinagar and Lalitpur districts. Candidates need a Bachelor's degree with minimum 50% marks along with a Diploma in Pre School Education, CT Nursery or Nursery Teacher Education (NTT). Selection is based on eligibility, interview and document verification. Selected candidates will get a monthly salary of Rs. 10,313 on a contractual/outsource basis.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"ECCE Educator",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-01",
+    applicationEndDate:"2026-07-15",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {district:"Kushinagar", totalPosts:52},
+        {district:"Lalitpur", totalPosts:66}
+    ],
+
+    tags:["UP ECCE Educator Vacancy 2026","Sewayojan ECCE Educator","Early Childhood Care Education Jobs","UP Basic Shiksha Vibhag Recruitment","ECCE Educator Kushinagar","ECCE Educator Lalitpur","Nursery Teacher Jobs UP"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"hpsc-district-manager-vacancy-2026",
     orgWebsite:"https://hpsc.gov.in",
     title:"HPSC District Manager Vacancy 2026 Notification Out",

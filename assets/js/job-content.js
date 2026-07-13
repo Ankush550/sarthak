@@ -1,5 +1,331 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["up-rojgar-mela-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-13">Published: 13 July 2026</time> | Updated: 13 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UP Rojgar Mela 2026 – Apply Online for 2,750+ Private Sector Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">💼 UP Rojgar Mela 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">District-Wise Job Fairs Ongoing</span></p>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Register Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">The <strong>Uttar Pradesh Sewayojan Vibhag</strong> has released the notification for <strong>UP Rojgar Mela 2026</strong>, a state-wide initiative connecting unemployed youth with private sector companies through district-level job fairs. This drive offers more than <strong>2,750 posts</strong> across multiple districts.</p>
+
+<p style="font-size:20px;line-height:1.9;">Candidates with qualifications ranging from <strong>10th Pass to MBA, Engineering degrees and Agniveer background</strong> can participate. Candidates must first register on the <strong>Sewayojan Portal</strong>, then attend their district's Rojgar Mela on the scheduled date with required documents. There is <strong>no application fee</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh koi single, centralized recruitment nahi hai — balki UP government har district mein <strong>rolling job fairs</strong> organize kar raha hai, jisme har mela ka apna venue, date aur company-specific vacancies hain. Muzaffarnagar akela hi total 1,500 posts (2 melas combine karke) contribute kar raha hai, jo state ke sabse bade participation districts mein se ek banata hai is cycle mein. Yeh format traditional sarkari bhrti se fundamentally different hai — koi centralized merit list nahi, har company apna khud ka selection karti hai spot pe hi, isliye speed aur preparation dono equally important hain.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Uttar Pradesh Sewayojan Vibhag</td></tr>
+<tr><th>Total Vacancies</th><td>2,750+</td></tr>
+<tr><th>Application Mode</th><td>Online Registration + In-Person Job Fair</td></tr>
+<tr><th>Notification Release</th><td>13 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 Years and Above</td></tr>
+<tr><th>Official Website</th><td>sewayojan.up.nic.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Rojgar Mela Schedule</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>District</th><th>Job Fair Location</th><th>Rojgar Mela Date</th></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>D.J.D. Pvt. I.T.I Gyanpur Bhadohi</td><td>28-07-2026</td></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>D.J.D. Pvt. I.T.I Gyanpur Bhadohi</td><td>21-07-2026</td></tr>
+<tr><td>Muzaffarnagar</td><td>Khand Vikas Karyalaya Sadar Kukda</td><td>16-17 July 2026</td></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>DJD Private ITI Campus Isnghpur Gyanpur</td><td>14-07-2026</td></tr>
+<tr><td>Agra</td><td>Dr. M.P.S. Group of Institutions, Sikandra</td><td>14-07-2026</td></tr>
+<tr><td>Muzaffarnagar</td><td>Khand Vikas Karyalaya Budhana</td><td>13-14 July 2026</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap turant, immediate employment chahte hain aur multiple companies ke saath ek hi din interview dene ka mauka chahte hain — job fair format applications ko traditional sarkari bhrti ke muqable kaafi tez process karta hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap sirf permanent government job dhoond rahe hain — yeh mostly <strong>private/contractual roles</strong> hain, job security aur benefits typical sarkari naukri se alag honge, company policy pe depend karega.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">District-Wise Post Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>District</th><th>Total Posts</th></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>310</td></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>160</td></tr>
+<tr><td>Muzaffarnagar</td><td>500</td></tr>
+<tr><td>Bhadohi (Sant Ravidas Nagar)</td><td>350</td></tr>
+<tr><td>Agra</td><td>430</td></tr>
+<tr><td>Muzaffarnagar</td><td>1000</td></tr>
+<tr><th>Grand Total</th><th>2,750</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification Required</th></tr>
+<tr><td>Various Private Jobs</td><td>High School (10th Pass)</td></tr>
+<tr><td>Various Private Jobs</td><td>10+2 Intermediate</td></tr>
+<tr><td>Various Private Jobs</td><td>ITI in Relevant Trade</td></tr>
+<tr><td>Various Private Jobs</td><td>Diploma</td></tr>
+<tr><td>Various Private Jobs</td><td>Graduation</td></tr>
+<tr><td>Various Private Jobs</td><td>Post Graduation</td></tr>
+<tr><td>Various Private Jobs</td><td>Engineering Degree</td></tr>
+<tr><td>Various Private Jobs</td><td>MBA</td></tr>
+<tr><td>Various Private Jobs</td><td>Agniveer</td></tr>
+<tr><td>Various Private Jobs</td><td>Any Higher Qualification</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Registration slip print karke le jaana <strong>mandatory hai</strong> — bina slip ke job fair venue pe entry mushkil ho sakti hai.</li>
+<li>Apne resume/biodata ko generic mat rakhein — job fair mein multiple companies ek hi din milengi, isliye ek versatile resume ready rakhein jo different roles ke liye adjust ho sake.</li>
+<li>Date aur venue confuse mat karein — Bhadohi jaise districts mein multiple melas different dates pe ho rahe hain, apni target date/venue ko double-check karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Salary</td><td>Post Wise</td></tr>
+<tr><td>Pay Scale</td><td>Company Wise</td></tr>
+<tr><td>Job Type</td><td>Private / Contract Basis</td></tr>
+<tr><td>Other Benefits</td><td>As Per Company Rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Registration</td><td>Online Registration on Sewayojan Portal</td></tr>
+<tr><td>Participation</td><td>Attend the District Rojgar Mela</td></tr>
+<tr><td>Interview</td><td>Company-wise Interview</td></tr>
+<tr><td>Document Verification</td><td>Original Documents Verification</td></tr>
+<tr><td>Final Selection</td><td>Based on Eligibility & Interview Performance</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official Sewayojan Portal.</li>
+<li>Complete online registration using your mobile number and email ID.</li>
+<li>Log in and fill personal, educational and communication details.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Select your preferred district and available Rojgar Mela.</li>
+<li>Submit the application and download the registration slip.</li>
+<li>Carry the registration slip and original documents to the venue on the scheduled date.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the district-wise notifications released via the Sewayojan Portal on 13 July 2026. Since this is a rolling, district-wise process, we recommend checking the portal regularly for new districts and updated dates.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://sewayojan.up.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://sewayojan.up.nic.in" target="_blank">sewayojan.up.nic.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">More than <strong>2,750 posts</strong> across multiple district job fairs.</p>
+<h3>2. Is this a government job?</h3>
+<p style="font-size:20px;line-height:1.8;">No, this is mainly for <strong>private and contractual</strong> jobs offered by companies participating in the mela.</p>
+<h3>3. Is there any application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">No, registration is completely <strong>free</strong> for all candidates.</p>
+<h3>4. What documents should I carry to the Rojgar Mela?</h3>
+<p style="font-size:20px;line-height:1.8;">Candidates should carry their Aadhaar Card, educational certificates, passport-size photos, Biodata/Resume, Sewayojan registration slip and other required documents.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UP Rojgar Mela 2026</strong> is a fast-moving employment opportunity for candidates across qualification levels. Register on the Sewayojan Portal and attend your district's job fair with all required documents ready.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Register for UP Rojgar Mela 2026</h2>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Register Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=up-ecce-educator-recruitment-2026">UP ECCE Educator Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Sewayojan Portal notification before applying.</p>
+`;
+JOB_CONTENT["up-ecce-educator-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-13">Published: 13 July 2026</time> | Updated: 13 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UP ECCE Educator Vacancy 2026 – Apply Online for 118 Contractual Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🧸 UP ECCE Educator Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Applications Closing Soon</span></p>
+<p style="font-size:19px;">Last Date : <strong>Kushinagar - 15 July 2026 | Lalitpur - 14 July 2026</strong></p>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>UP Basic Shiksha Vibhag</strong> has invited district-wise online applications through the <strong>Sewayojan Portal</strong> for <strong>ECCE Educator</strong> (Early Childhood Care and Education) contractual posts, offering <strong>118 posts</strong> across Kushinagar and Lalitpur districts.</p>
+
+<p style="font-size:20px;line-height:1.9;">Candidates need a <strong>Bachelor's degree with minimum 50% marks</strong> along with a Diploma in <strong>Pre School Education, CT Nursery or Nursery Teacher Education (NTT)</strong>. Selected candidates will get a monthly salary of <strong>₹10,313</strong> on a contractual basis.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh bhrti <strong>ECCE (Early Childhood Care and Education)</strong> ka part hai — jo National Education Policy 2020 ke tahat pre-school level education ko formalize karne ki broader initiative se juda hai. Lalitpur mein Kushinagar se zyada posts hain (66 vs 52), lekin dono districts ki last date bahut close hai — sirf ek din ka gap (14 aur 15 July). Salary range (₹10,001-₹20,000) diya gaya hai, lekin actual starting salary (₹10,313) is range ke bilkul lower end pe hai, jo confirm karta hai ki yeh entry-level contractual honorarium hai, na ki negotiable pay band.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>UP Basic Shiksha Vibhag (Contractual Job)</td></tr>
+<tr><th>Post Name</th><td>ECCE Educator</td></tr>
+<tr><th>Total Vacancies</th><td>118</td></tr>
+<tr><th>Application Mode</th><td>Online</td></tr>
+<tr><th>Last Date (Kushinagar)</th><td>15 July 2026</td></tr>
+<tr><th>Last Date (Lalitpur)</th><td>14 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 40 Years</td></tr>
+<tr><th>Salary</th><td>₹10,313 per Month</td></tr>
+<tr><th>Official Website</th><td>sewayojan.up.nic.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Form Name</th><th>Last Date</th></tr>
+<tr><td>Kushinagar UP ECCE Educator Online Form 2026</td><td>15/07/2026</td></tr>
+<tr><td>Lalitpur UP ECCE Educator Online Form 2026</td><td>14/07/2026</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for any category of candidates.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas Graduation ke saath Pre School Education/NTT jaisa specialized diploma hai aur aap early childhood education field mein career shuru karna chahte hain — yeh un candidates ke liye ek entry point hai jo formal teaching sector mein aana chahte hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> ₹10,313/month salary aapki financial needs ke liye insufficient hai — yeh contractual/outsource honorarium hai, permanent teaching post ki salary ke barabar nahi.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">District-Wise Post Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>District</th><th>Total Posts</th></tr>
+<tr><td>Kushinagar</td><td>52</td></tr>
+<tr><td>Lalitpur</td><td>66</td></tr>
+<tr><th>Total</th><th>118</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Qualification</th><th>Details</th></tr>
+<tr><td>Graduation</td><td>Bachelor's Degree in Any Stream from a Recognized University with Minimum 50% Marks</td></tr>
+<tr><td>Minimum Marks</td><td>50% Marks in Graduation</td></tr>
+<tr><td>Required Diploma</td><td>Diploma in Pre School Education</td></tr>
+<tr><td>Alternative Qualification</td><td>Diploma in CT Nursery</td></tr>
+<tr><td>Alternative Qualification</td><td>Nursery Teacher Education (NTT)</td></tr>
+<tr><td>Additional Eligibility</td><td>As Per Official Notification</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Deadline sirf ek din ki hai in dono districts ke beech (14 aur 15 July) — apna district ka exact last date confirm kiye bina application submit mat karein.</li>
+<li>Diploma requirement (Pre School Education/CT Nursery/NTT) mandatory hai, sirf Graduation kaafi nahi hai — apply karne se pehle apna diploma certificate ready rakhein.</li>
+<li>Graduation mein 50% se kam marks hain toh apply mat karein — koi relaxation is criteria mein mentioned nahi hai official notification mein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Monthly Salary</td><td>₹10,313/-</td></tr>
+<tr><td>Pay Range</td><td>₹10,001 – ₹20,000/-</td></tr>
+<tr><td>Job Type</td><td>Contractual / Outsource</td></tr>
+<tr><td>Department</td><td>Basic Shiksha Vibhag</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Registration</td><td>Online Registration on Sewayojan Portal</td></tr>
+<tr><td>Interview</td><td>Company-wise Interview</td></tr>
+<tr><td>Document Verification</td><td>Original Documents Verification</td></tr>
+<tr><td>Final Selection</td><td>Based on Eligibility & Interview Performance</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official UP Sewayojan Portal.</li>
+<li>Register using your mobile number and email ID.</li>
+<li>Log in using your Registration ID and Password.</li>
+<li>Select UP ECCE Educator Recruitment 2026 for Lalitpur or Kushinagar district.</li>
+<li>Fill personal, educational and communication details.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Submit the online application form and download the confirmation page.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the district-specific notifications on the Sewayojan Portal. Given the very tight deadline (14-15 July), we strongly recommend completing your application immediately rather than waiting.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://sewayojan.up.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://sewayojan.up.nic.in" target="_blank">sewayojan.up.nic.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many posts are there in each district?</h3>
+<p style="font-size:20px;line-height:1.8;">Kushinagar has <strong>52 posts</strong> and Lalitpur has <strong>66 posts</strong>, totalling <strong>118 posts</strong>.</p>
+<h3>2. What is the salary for ECCE Educator?</h3>
+<p style="font-size:20px;line-height:1.8;">Selected candidates will get <strong>₹10,313</strong> per month.</p>
+<h3>3. Is this a permanent government job?</h3>
+<p style="font-size:20px;line-height:1.8;">No, this is a <strong>contractual/outsource</strong> position under the Basic Shiksha Vibhag.</p>
+<h3>4. What is the qualification required?</h3>
+<p style="font-size:20px;line-height:1.8;">A Bachelor's degree with 50% marks, plus a Diploma in Pre School Education, CT Nursery or NTT.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UP ECCE Educator Vacancy 2026</strong> is a good entry point for early childhood education professionals in Kushinagar and Lalitpur. Given the extremely tight deadline, apply immediately through the Sewayojan Portal.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for UP ECCE Educator Vacancy 2026</h2>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=up-rojgar-mela-recruitment-2026">UP Rojgar Mela 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=up-anganwadi-bharti-recruitment-2026">UP Anganwadi Bharti 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Sewayojan Portal notification before applying.</p>
+`;
 JOB_CONTENT["hpsc-district-manager-vacancy-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
