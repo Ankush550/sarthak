@@ -1,6 +1,170 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"hpcl-graduate-apprentice-recruitment-2026",
+    orgWebsite:"https://www.hindustanpetroleum.com",
+    title:"HPCL Graduate Apprentice Vacancy 2026",
+    shortTitle:"HPCL Graduate Apprentice Online Form 2026",
+    organization:"Hindustan Petroleum Corporation Limited (HPCL)",
+    image:"HPCLGraduateApprentice.jpeg",
+
+    totalPosts:358,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026",
+
+    datePosted:"2026-07-14",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"INTERN",
+
+    salaryMin:25000,
+    salaryMax:25000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (State-Wise)",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"B.E./B.Tech in Civil, Mechanical, Electrical or Instrumentation Engineering",
+
+    ageLimit:"18 to 25 Years",
+
+    applyLink:"https://www.hindustanpetroleum.com",
+    officialNotification:"https://www.hindustanpetroleum.com",
+
+    fee:"No Application Fee",
+
+    description:"Hindustan Petroleum Corporation Limited (HPCL) has released the official notification for Graduate Apprentice Trainee (Engineering) Vacancy 2026, inviting applications for 358 posts. Candidates with a B.E./B.Tech in Civil, Mechanical, Electrical or Instrumentation Engineering, with degree completed on or after 01 September 2023, can apply online from 15 July 2026 to 31 July 2026. Selected candidates will get a monthly stipend of Rs. 25,000 (Rs. 20,500 from HPCL and Rs. 4,500 from Government of India via DBT) for a 1-year apprenticeship training. Selection is based on merit percentage and document verification - no written exam is conducted.",
+
+    category:"PSU Jobs",
+    jobType:"Graduate Apprentice Trainee (Engineering)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-15",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable (Document Verification Only)",
+
+    postDetails:[
+        {state:"Maharashtra", totalPosts:64},
+        {state:"Uttar Pradesh", totalPosts:37},
+        {state:"Gujarat", totalPosts:32},
+        {state:"Tamil Nadu", totalPosts:20},
+        {state:"Telangana", totalPosts:19},
+        {state:"Delhi", totalPosts:18},
+        {state:"Rajasthan", totalPosts:17},
+        {state:"Punjab", totalPosts:16},
+        {state:"Bihar", totalPosts:14},
+        {state:"Haryana", totalPosts:14},
+        {state:"Karnataka", totalPosts:14},
+        {state:"West Bengal", totalPosts:14},
+        {state:"Madhya Pradesh", totalPosts:10},
+        {state:"Kerala", totalPosts:9},
+        {state:"Chhattisgarh", totalPosts:8},
+        {state:"Assam", totalPosts:6},
+        {state:"Goa", totalPosts:6},
+        {state:"Jammu & Kashmir", totalPosts:5},
+        {state:"Jharkhand", totalPosts:5},
+        {state:"Chandigarh", totalPosts:4},
+        {state:"Odisha", totalPosts:4},
+        {state:"Uttarakhand", totalPosts:4},
+        {state:"Nagaland", totalPosts:2},
+        {state:"Dadra & Nagar Haveli and Daman & Diu", totalPosts:1}
+    ],
+
+    tags:["HPCL Graduate Apprentice 2026","HPCL Apprentice Recruitment","Engineering Apprentice PSU Jobs","HPCL Career 2026","Graduate Apprentice Trainee","HPCL 358 Posts","Petroleum PSU Apprentice"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"psssb-craft-instructor-recruitment-2026",
+    orgWebsite:"https://www.sssb.punjab.gov.in",
+    title:"Punjab Craft Instructor Vacancy 2026",
+    shortTitle:"PSSSB Craft Instructor Online Form 2026",
+    organization:"Punjab Subordinate Services Selection Board (PSSSB)",
+    image:"PSSSBCraftInstructor.jpeg",
+
+    totalPosts:681,
+
+    lastDate:"2026-07-30",
+    lastDateDisplay:"30 July 2026",
+
+    datePosted:"2026-07-07",
+    validThrough:"2026-07-30T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    location:"Punjab",
+    addressLocality:"Chandigarh",
+    addressRegion:"Punjab",
+    addressCountry:"IN",
+
+    qualification:"10th with Science & Mathematics + B.E./B.Tech/Diploma or NTC/NAC in Relevant Trade",
+
+    ageLimit:"18 to 37 Years",
+
+    applyLink:"https://www.sssb.punjab.gov.in",
+    officialNotification:"https://www.sssb.punjab.gov.in",
+
+    fee:"General: Rs. 1,500 | SC/BC: Rs. 750 | ESM/LDESM: Rs. 500 | EWS/Divyang: Rs. 500",
+
+    description:"Punjab Subordinate Services Selection Board (PSSSB) has released the detailed notification for Craft Instructor (Various Trades) Recruitment 2026, inviting applications for 681 posts under the Directorate of Technical Education and Industrial Training, Punjab. Online applications are open from 10 July 2026 to 30 July 2026. Vacancies span 250 posts under Annexure-A (Degree/Diploma qualification) and 431 posts under Annexure-B (NTC/NAC qualification), covering trades like Electrician, Fitter, Refrigeration & AC Technician, Plumber and more. Candidates need 10th with Science & Mathematics along with a relevant Degree, Diploma, NTC or NAC certificate. Selection includes a Written Examination, Document Verification and Medical Examination (if applicable).",
+
+    category:"Punjab Government Jobs",
+    jobType:"Craft Instructor (Various Trades)",
+
+    advertisementNo:"03/2026",
+
+    applicationStartDate:"2026-07-10",
+    applicationEndDate:"2026-07-30",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Refrigeration & AC Technician (Annexure-A + B)", totalPosts:89},
+        {postName:"Electrician (Annexure-B)", totalPosts:76},
+        {postName:"Fitter (Annexure-A + B)", totalPosts:68},
+        {postName:"Plumber (Annexure-A + B)", totalPosts:58},
+        {postName:"Welder (Annexure-A + B, incl. GMAW & GTAW)", totalPosts:51},
+        {postName:"Wood Work Technician (Annexure-A + B)", totalPosts:47},
+        {postName:"Draughtsman Civil (Annexure-A + B)", totalPosts:29},
+        {postName:"Mechanic Tractor (Annexure-A + B)", totalPosts:35},
+        {postName:"Machinist (Annexure-A + B)", totalPosts:34},
+        {postName:"Turner (Annexure-A + B)", totalPosts:30},
+        {postName:"Electronics Mechanic (Annexure-A + B)", totalPosts:32},
+        {postName:"Workshop Calculation & Science (Annexure-A)", totalPosts:15},
+        {postName:"Mechanic Diesel Engine (Annexure-A + B)", totalPosts:23},
+        {postName:"Mechanic Auto Electrical & Electronics (Annexure-A + B)", totalPosts:15},
+        {postName:"Surveyor (Annexure-A + B)", totalPosts:12},
+        {postName:"ICT System Maintenance (Annexure-B)", totalPosts:10},
+        {postName:"Industrial Painter (Annexure-A + B)", totalPosts:8},
+        {postName:"Attendant Operator - Chemical Plant (Annexure-A + B)", totalPosts:7},
+        {postName:"Tool & Die Maker (Annexure-A + B)", totalPosts:4},
+        {postName:"Mechanic Consumer Electronics Appliances (Annexure-B)", totalPosts:6},
+        {postName:"Spinning Technician (Annexure-A + B)", totalPosts:5},
+        {postName:"Instrument Mechanic (Annexure-A)", totalPosts:2},
+        {postName:"Machinist Grinder (Annexure-A + B)", totalPosts:2},
+        {postName:"Electroplater (Annexure-A + B)", totalPosts:2},
+        {postName:"Plastic Processing Operator (Annexure-A + B)", totalPosts:2},
+        {postName:"Mechanic Agricultural Machinery (Annexure-A + B)", totalPosts:3},
+        {postName:"Painter General (Annexure-A + B)", totalPosts:3},
+        {postName:"Computer Hardware & Network Maintenance (Annexure-B)", totalPosts:1}
+    ],
+
+    tags:["Punjab Craft Instructor Vacancy 2026","PSSSB Recruitment 2026","Craft Instructor Trade Wise Vacancy","Punjab ITI Instructor Jobs","PSSSB 681 Posts","Technical Education Punjab Jobs","Craft Instructor Electrician Fitter"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"up-rojgar-mela-recruitment-2026",
     orgWebsite:"https://sewayojan.up.nic.in",
     title:"UP Rojgar Mela 2026 Notification Out",

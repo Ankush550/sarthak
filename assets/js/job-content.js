@@ -1,5 +1,409 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["psssb-craft-instructor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Punjab Craft Instructor Vacancy 2026 – Apply Online for 681 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🛠️ Punjab Craft Instructor Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>10 July 2026 to 30 July 2026</strong></p>
+<a href="https://www.sssb.punjab.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Punjab Subordinate Services Selection Board (PSSSB)</strong> has released the detailed notification for <strong>Craft Instructor (Various Trades) Recruitment 2026</strong>, offering <strong>681 posts</strong> under the Directorate of Technical Education and Industrial Training, Punjab.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications are open from <strong>10 July 2026</strong> to <strong>30 July 2026</strong>. Vacancies span <strong>250 posts under Annexure-A</strong> (Degree/Diploma qualification) and <strong>431 posts under Annexure-B</strong> (NTC/NAC qualification), covering trades from Electrician to Refrigeration & AC Technician.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh dhyan dene wali baat hai ki <strong>431 posts (63%) NTC/NAC-qualified</strong> candidates ke liye hain (Annexure-B), jabki sirf 250 posts (37%) Degree/Diploma holders ke liye (Annexure-A) — yeh normal Craft Instructor recruitments ke ulta hai, jo dikhata hai ki Punjab abhi practical/vocational trade-certified instructors ko zyada priority de raha hai academic-heavy candidates ke muqable. Electrician akela sabse bada trade hai (76 posts sirf Annexure-B mein), jo state ke ITI infrastructure mein electrical training demand ko reflect karta hai. Yeh short notice se detailed notification tak transition hua hai — pehle sirf 681 ka total figure tha, ab full trade-wise breakup available hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Punjab Subordinate Services Selection Board (PSSSB)</td></tr>
+<tr><th>Post Name</th><td>Craft Instructor (Various Trades)</td></tr>
+<tr><th>Advertisement No.</th><td>03/2026</td></tr>
+<tr><th>Total Vacancies</th><td>681</td></tr>
+<tr><th>Application Mode</th><td>Online</td></tr>
+<tr><th>Notification Release</th><td>07 July 2026</td></tr>
+<tr><th>Start Date</th><td>10 July 2026</td></tr>
+<tr><th>Last Date</th><td>30 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 37 Years</td></tr>
+<tr><th>Official Website</th><td>sssb.punjab.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General</td><td>₹1,500</td></tr>
+<tr><td>SC / BC</td><td>₹750</td></tr>
+<tr><td>ESM / LDESM</td><td>₹500</td></tr>
+<tr><td>EWS / Divyang</td><td>₹500</td></tr>
+<tr><td>Payment Mode</td><td>Online</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas NTC/NAC ya Diploma hai kisi trade mein (jaise Electrician, Fitter, Welder) aur aap teaching/training role mein transition karna chahte hain — Annexure-B ke 431 posts NTC/NAC holders ke liye significantly zyada opportunity dete hain traditional degree-based recruitments ke muqable.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap sirf Degree/Diploma route se apply karne ka soch rahe hain — Annexure-A mein 250 posts hain, jo Annexure-B se kam hai, isliye NTC/NAC route bhi consider karein agar aapke paas dono qualifications hain.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Trade-Wise Vacancy Details – Annexure-A (Degree/Diploma) – 250 Posts</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Trade</th><th>Vacancies</th></tr>
+<tr><td>Attendant Operator (Chemical Plant)</td><td>2</td></tr>
+<tr><td>Draughtsman Civil</td><td>5</td></tr>
+<tr><td>Electronics Mechanic</td><td>10</td></tr>
+<tr><td>Electroplater</td><td>1</td></tr>
+<tr><td>Fitter</td><td>25</td></tr>
+<tr><td>Industrial Painter</td><td>4</td></tr>
+<tr><td>Instrument Mechanic</td><td>2</td></tr>
+<tr><td>Machinist</td><td>14</td></tr>
+<tr><td>Machinist Grinder</td><td>1</td></tr>
+<tr><td>Mechanic Agricultural Machinery</td><td>2</td></tr>
+<tr><td>Mechanic Auto Electrical and Electronics</td><td>7</td></tr>
+<tr><td>Mechanic Diesel Engine</td><td>6</td></tr>
+<tr><td>Mechanic Motor Vehicle</td><td>12</td></tr>
+<tr><td>Mechanic Tractor</td><td>18</td></tr>
+<tr><td>Painter (General)</td><td>2</td></tr>
+<tr><td>Plastic Processing Operator</td><td>1</td></tr>
+<tr><td>Plumber</td><td>20</td></tr>
+<tr><td>Refrigeration & Air Conditioner Technician</td><td>36</td></tr>
+<tr><td>Spinning Technician</td><td>2</td></tr>
+<tr><td>Surveyor</td><td>4</td></tr>
+<tr><td>Tool & Die Maker (Press Tools, Jigs & Fixtures)</td><td>2</td></tr>
+<tr><td>Turner</td><td>12</td></tr>
+<tr><td>Welder</td><td>20</td></tr>
+<tr><td>Wood Work Technician</td><td>27</td></tr>
+<tr><td>Workshop Calculation & Science</td><td>15</td></tr>
+<tr><th>Total</th><th>250</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Trade-Wise Vacancy Details – Annexure-B (NTC/NAC) – 431 Posts</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Trade</th><th>Vacancies</th></tr>
+<tr><td>Attendant Operator (Chemical Plant)</td><td>5</td></tr>
+<tr><td>Computer Hardware & Network Maintenance</td><td>1</td></tr>
+<tr><td>Draughtsman Civil</td><td>24</td></tr>
+<tr><td>Electrician</td><td>76</td></tr>
+<tr><td>Electronics Mechanic</td><td>22</td></tr>
+<tr><td>Electroplater</td><td>1</td></tr>
+<tr><td>Fitter</td><td>43</td></tr>
+<tr><td>Industrial Painter</td><td>4</td></tr>
+<tr><td>Information & Communication Technology System Maintenance</td><td>10</td></tr>
+<tr><td>Machinist</td><td>20</td></tr>
+<tr><td>Machinist Grinder</td><td>1</td></tr>
+<tr><td>Mechanic Agricultural Machinery</td><td>1</td></tr>
+<tr><td>Mechanic Tractor</td><td>17</td></tr>
+<tr><td>Mechanic Auto Electrical and Electronics</td><td>8</td></tr>
+<tr><td>Mechanic Consumer Electronics Appliances</td><td>6</td></tr>
+<tr><td>Mechanic Diesel Engine</td><td>17</td></tr>
+<tr><td>Painter (General)</td><td>1</td></tr>
+<tr><td>Plastic Processing Operator</td><td>1</td></tr>
+<tr><td>Plumber</td><td>38</td></tr>
+<tr><td>Refrigeration & Air Conditioner Technician</td><td>53</td></tr>
+<tr><td>Spinning Technician</td><td>3</td></tr>
+<tr><td>Surveyor</td><td>8</td></tr>
+<tr><td>Tool & Die Maker (Press Tools, Jigs & Fixtures)</td><td>2</td></tr>
+<tr><td>Turner</td><td>18</td></tr>
+<tr><td>Welder</td><td>22</td></tr>
+<tr><td>Welder (GMAW & GTAW)</td><td>9</td></tr>
+<tr><td>Wood Work Technician</td><td>20</td></tr>
+<tr><th>Total</th><th>431</th></tr>
+</table>
+<p style="font-size:16px;color:#666;">Note: Reservation and category-wise classification for each trade have been notified based on demand letters received from the concerned department and may change at any stage of the recruitment process.</p>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Annexure-A aur Annexure-B ko confuse mat karein — dono ka qualification requirement alag hai (Degree/Diploma vs NTC/NAC), galat annexure select karne se rejection ho sakta hai.</li>
+<li>10th mein Science & Mathematics compulsory hai sabhi trades ke liye — sirf technical qualification kaafi nahi hai agar 10th ka subject combination match nahi karta.</li>
+<li>Category-wise reservation demand letters ke basis pe change ho sakta hai official notification ke hisaab se — final application submit karne se pehle latest updates zaroor check karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification (Sample Trades)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Educational Qualification</th></tr>
+<tr><td>Attendant Operator (Chemical Plant)</td><td>10th with Science & Mathematics + B.Voc./B.E./B.Tech in Chemical Engineering OR 3-Year Diploma</td></tr>
+<tr><td>Draughtsman Civil</td><td>10th with Science & Mathematics + Degree in Civil Engineering OR 3-Year Diploma</td></tr>
+<tr><td>Electronics Mechanic</td><td>10th with Science & Mathematics + Degree in Electronics/ECE/Telecommunication OR 3-Year Diploma</td></tr>
+<tr><td>Fitter</td><td>10th with Science & Mathematics + Degree in Mechanical Engineering OR Diploma</td></tr>
+<tr><td>Instrument Mechanic</td><td>10th with Science & Mathematics + Degree in Instrumentation Engineering OR Diploma</td></tr>
+<tr><td>Other Trades</td><td>Relevant Degree/Diploma/NTC/NAC + required experience as prescribed in official notification</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Post Name</td><td>Craft Instructor</td></tr>
+<tr><td>Pay Scale</td><td>As per Punjab Government Rules (Group-B)</td></tr>
+<tr><td>Allowances</td><td>DA, HRA, Medical and other admissible allowances</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Written Examination</td></tr>
+<tr><td>Stage 2</td><td>Document Verification</td></tr>
+<tr><td>Stage 3</td><td>Medical Examination (If Applicable)</td></tr>
+<tr><th>Final Selection</th><th>Merit List Based</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official PSSSB website.</li>
+<li>Open the Recruitment/Careers section.</li>
+<li>Click on Craft Instructor Recruitment 2026 (Advertisement No. 03/2026).</li>
+<li>Read the detailed notification carefully.</li>
+<li>Complete the online registration process.</li>
+<li>Fill in the application form with correct personal and educational details.</li>
+<li>Upload the required documents, photograph and signature.</li>
+<li>Pay the application fee through the online payment gateway.</li>
+<li>Verify all entered information carefully.</li>
+<li>Submit the application form and download it for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with PSSSB's detailed notification (Advt. No. 03/2026). Since reservation and category-wise vacancies are subject to change based on department demand letters, candidates should verify the final trade-wise breakup from the official notification before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.sssb.punjab.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.sssb.punjab.gov.in" target="_blank">sssb.punjab.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there in PSSSB Craft Instructor Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>681 posts</strong> - 250 under Annexure-A (Degree/Diploma) and 431 under Annexure-B (NTC/NAC).</p>
+<h3>2. What is the last date to apply?</h3>
+<p style="font-size:20px;line-height:1.8;">The last date to apply online is <strong>30 July 2026</strong>.</p>
+<h3>3. What is the application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">₹1,500 for General, ₹750 for SC/BC, and ₹500 for ESM/LDESM and EWS/Divyang candidates.</p>
+<h3>4. What is the age limit?</h3>
+<p style="font-size:20px;line-height:1.8;">Candidates must be between <strong>18 and 37 years</strong> of age.</p>
+<h3>5. Which trade has the most vacancies?</h3>
+<p style="font-size:20px;line-height:1.8;">Electrician has the highest count at <strong>76 posts</strong> under Annexure-B (NTC/NAC).</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Punjab Craft Instructor Vacancy 2026</strong> offers a wide range of trade-wise opportunities for both degree/diploma and NTC/NAC-qualified candidates. Apply before <strong>30 July 2026</strong> and ensure you select the correct annexure matching your qualification.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for Punjab Craft Instructor Vacancy 2026</h2>
+<a href="https://www.sssb.punjab.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=hpcl-graduate-apprentice-recruitment-2026">HPCL Graduate Apprentice Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=hal-barrackpore-iti-apprentice-recruitment-2026">HAL Barrackpore ITI Apprentice Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official PSSSB notification before applying.</p>
+`;
+JOB_CONTENT["hpcl-graduate-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">HPCL Graduate Apprentice Vacancy 2026 – Apply Online for 358 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">⛽ HPCL Graduate Apprentice Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>15 July 2026 to 31 July 2026</strong></p>
+<a href="https://www.hindustanpetroleum.com" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Hindustan Petroleum Corporation Limited (HPCL)</strong> has released the official notification for <strong>Graduate Apprentice Trainee (Engineering) Vacancy 2026</strong>, offering <strong>358 posts</strong> across Civil, Mechanical, Electrical and Instrumentation Engineering disciplines.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>15 July 2026</strong> and close on <strong>31 July 2026</strong>. Selected candidates will get a monthly stipend of <strong>₹25,000</strong> (₹20,500 from HPCL and ₹4,500 from Government of India via DBT) for a <strong>1-year</strong> apprenticeship training. There is <strong>no application fee</strong> and <strong>no written exam</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Maharashtra akela hi 64 posts (18%) leke top slot pe hai, jo HPCL ki Mumbai refinery aur western region operations ki density ko reflect karta hai. Interesting baat yeh hai ki DBT (Direct Benefit Transfer) split kiya gaya hai — ₹20,500 HPCL se aur ₹4,500 Government of India se — jo confirm karta hai ki yeh NATS (National Apprenticeship Training Scheme) ke tahat hai. HPCL ne khud clearly bataya hai ki apprenticeship complete hone ke baad <strong>permanent job ki guarantee nahi</strong> hai — yeh transparency achhi hai kyunki bahut Maharatna PSUs is baat ko clearly disclose nahi karte apne notifications mein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Hindustan Petroleum Corporation Limited (HPCL)</td></tr>
+<tr><th>Post Name</th><td>Graduate Apprentice Trainee (Engineering)</td></tr>
+<tr><th>Total Vacancies</th><td>358</td></tr>
+<tr><th>Application Mode</th><td>Online</td></tr>
+<tr><th>Notification Release</th><td>14 July 2026</td></tr>
+<tr><th>Start Date</th><td>15 July 2026</td></tr>
+<tr><th>Last Date</th><td>31 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 25 Years</td></tr>
+<tr><th>Stipend</th><td>₹25,000 per Month</td></tr>
+<tr><th>Official Website</th><td>hindustanpetroleum.com</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for any category of candidates.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapne recently (01 September 2023 ke baad) apna B.E./B.Tech complete kiya hai Civil, Mechanical, Electrical ya Instrumentation branch mein, aur ek Maharatna PSU ke saath real industrial exposure chahte hain — HPCL apprenticeship future PSU/private sector applications mein resume value add karega.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap permanent job expect kar rahe hain apprenticeship ke baad — HPCL ne explicitly clarify kiya hai ki yeh guarantee nahi hai, isliye is opportunity ko sirf skill-building/exposure ke liye treat karein, job security ke liye nahi.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">State-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>State / Region</th><th>Training Slots</th></tr>
+<tr><td>Maharashtra</td><td>64</td></tr>
+<tr><td>Uttar Pradesh</td><td>37</td></tr>
+<tr><td>Gujarat</td><td>32</td></tr>
+<tr><td>Tamil Nadu</td><td>20</td></tr>
+<tr><td>Telangana</td><td>19</td></tr>
+<tr><td>Delhi</td><td>18</td></tr>
+<tr><td>Rajasthan</td><td>17</td></tr>
+<tr><td>Punjab</td><td>16</td></tr>
+<tr><td>Bihar</td><td>14</td></tr>
+<tr><td>Haryana</td><td>14</td></tr>
+<tr><td>Karnataka</td><td>14</td></tr>
+<tr><td>West Bengal</td><td>14</td></tr>
+<tr><td>Madhya Pradesh</td><td>10</td></tr>
+<tr><td>Kerala</td><td>9</td></tr>
+<tr><td>Chhattisgarh</td><td>8</td></tr>
+<tr><td>Assam</td><td>6</td></tr>
+<tr><td>Goa</td><td>6</td></tr>
+<tr><td>Jammu & Kashmir</td><td>5</td></tr>
+<tr><td>Jharkhand</td><td>5</td></tr>
+<tr><td>Chandigarh</td><td>4</td></tr>
+<tr><td>Odisha</td><td>4</td></tr>
+<tr><td>Uttarakhand</td><td>4</td></tr>
+<tr><td>Nagaland</td><td>2</td></tr>
+<tr><td>Dadra & Nagar Haveli and Daman & Diu</td><td>1</td></tr>
+<tr><th>Total</th><th>358</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Graduate Apprentice (Civil)</td><td>B.E./B.Tech in Civil Engineering, degree completed on or after 01 September 2023</td></tr>
+<tr><td>Graduate Apprentice (Mechanical)</td><td>B.E./B.Tech in Mechanical Engineering, degree completed on or after 01 September 2023</td></tr>
+<tr><td>Graduate Apprentice (Electrical)</td><td>B.E./B.Tech in Electrical Engineering, degree completed on or after 01 September 2023</td></tr>
+<tr><td>Graduate Apprentice (Instrumentation)</td><td>B.E./B.Tech in Instrumentation Engineering, degree completed on or after 01 September 2023</td></tr>
+<tr><td>Minimum Marks</td><td>UR/OBC-NCL: 60% Aggregate | SC/ST/PwBD: 50% Aggregate</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Degree completion date <strong>01 September 2023 se pehle</strong> hai toh apply mat karein — yeh strict cut-off hai, koi relaxation mention nahi kiya gaya.</li>
+<li>State selection carefully karein application form mein — training slot allocation state-wise hai, aur ek baar select karne ke baad change karna mushkil ho sakta hai.</li>
+<li>Document Verification 1:5 ratio mein hoti hai registered email ke through — apna email regularly check karein, koi bhi missed communication se aap process se bahar ho sakte hain.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Stipend / Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Monthly Stipend</td><td>₹25,000</td></tr>
+<tr><td>Paid by HPCL</td><td>₹20,500 per Month</td></tr>
+<tr><td>Paid by Government of India (DBT)</td><td>₹4,500 per Month</td></tr>
+<tr><td>Training Duration</td><td>1 Year</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Application Screening</td><td>Screened on the basis of merit percentage and notified training slots</td></tr>
+<tr><td>Rejection</td><td>Incomplete or ineligible applications rejected without intimation</td></tr>
+<tr><td>Document Verification</td><td>Shortlisted candidates called in a 1:5 ratio via registered email</td></tr>
+<tr><td>TA/DA</td><td>No TA/DA provided for verification process</td></tr>
+<tr><td>Merit List</td><td>Final merit list prepared from candidates found suitable during verification</td></tr>
+<tr><td>Final Selection</td><td>Accept NATS apprenticeship contract, submit medical certificate, complete police verification</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official HPCL Careers Portal.</li>
+<li>Register using the "New Registration" option.</li>
+<li>Verify your Email ID and log in to your account.</li>
+<li>Select the Graduate Apprentice (Engineering) application form.</li>
+<li>Fill in your Personal and Contact Details carefully.</li>
+<li>Choose your preferred State for Apprenticeship Training.</li>
+<li>Enter your Educational Qualification details accurately.</li>
+<li>Upload your recent Photograph and Signature in the prescribed format.</li>
+<li>Preview the application form and verify all details.</li>
+<li>Submit the application form and save/print the confirmation page.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with HPCL's official notification released on 14 July 2026. Since HPCL has clearly stated there is no guarantee of permanent employment post-apprenticeship, candidates should evaluate this opportunity primarily as a skill and exposure builder.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.hindustanpetroleum.com" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.hindustanpetroleum.com" target="_blank">hindustanpetroleum.com</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>358 Graduate Apprentice Trainee (Engineering)</strong> posts.</p>
+<h3>2. What is the stipend?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>₹25,000</strong> per month, split between HPCL (₹20,500) and Government of India via DBT (₹4,500).</p>
+<h3>3. Will there be a written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">No, selection is based on <strong>merit percentage</strong> followed by document verification.</p>
+<h3>4. Does apprenticeship completion guarantee a permanent job at HPCL?</h3>
+<p style="font-size:20px;line-height:1.8;">No, HPCL has explicitly clarified that there is no guarantee of permanent employment after completing the apprenticeship.</p>
+<h3>5. Is there any application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">No, the application is completely free for all categories.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>HPCL Graduate Apprentice Vacancy 2026</strong> is a strong industry-exposure opportunity for recent engineering graduates. Apply before <strong>31 July 2026</strong> and choose your preferred state carefully.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for HPCL Graduate Apprentice Vacancy 2026</h2>
+<a href="https://www.hindustanpetroleum.com" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=psssb-craft-instructor-recruitment-2026">Punjab Craft Instructor Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=hal-barrackpore-iti-apprentice-recruitment-2026">HAL Barrackpore ITI Apprentice Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official HPCL notification before applying.</p>
+`;
 JOB_CONTENT["up-rojgar-mela-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
