@@ -1,6 +1,193 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"nfr-act-apprentice-recruitment-2026",
+    orgWebsite:"https://www.nfr.indianrailways.gov.in",
+    title:"NFR Apprentice Vacancy 2026",
+    shortTitle:"NFR Act Apprentice Online Form 2026",
+    organization:"Northeast Frontier Railway (NFR)",
+    image:"NFRApprentice.jpeg",
+
+    totalPosts:6777,
+
+    lastDate:"2026-08-19",
+    lastDateDisplay:"19 August 2026",
+
+    datePosted:"2026-07-16",
+    validThrough:"2026-08-19T17:30:00+05:30",
+
+    employmentType:"INTERN",
+
+    salaryMin:9600,
+    salaryMax:11040,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Northeast Frontier Railway (Assam, West Bengal, Various Divisions)",
+    addressLocality:"Guwahati",
+    addressRegion:"Assam",
+    addressCountry:"IN",
+
+    qualification:"10th Pass (50% Marks) + ITI (NCVT/SCVT) in Relevant Trade",
+
+    ageLimit:"18 to 24 Years",
+
+    applyLink:"https://www.nfr.indianrailways.gov.in",
+    officialNotification:"https://www.nfr.indianrailways.gov.in",
+
+    fee:"General/OBC/EWS (Male): Rs. 100 | SC/ST/EBC/PwBD/Women: No Fee",
+
+    description:"Northeast Frontier Railway (NFR) has released the official notification for Act Apprentice Recruitment 2026, inviting applications for 6,777 posts for the 2025-26 and 2026-27 training sessions. Candidates with 10th Pass (50% marks) and ITI (NCVT/SCVT) in the relevant trade can apply online from 20 July 2026 to 19 August 2026. Selection is based purely on merit from Class 10 and ITI marks - no written examination is conducted. Selected candidates will get a monthly stipend of Rs. 9,600 to Rs. 11,040 depending on the training year.",
+
+    category:"Railway Jobs",
+    jobType:"Act Apprentice",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-20",
+    applicationEndDate:"2026-08-19",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Katihar (KIR) & Tindharia (TDH) Workshop", totalPosts:1103},
+        {postName:"Alipurduar (APDJ) Division", totalPosts:651},
+        {postName:"Rangiya (RNY) Division", totalPosts:750},
+        {postName:"Lumding (LMG) Division", totalPosts:1274},
+        {postName:"Tinsukia (TSK) Division", totalPosts:860},
+        {postName:"New Bongaigaon Workshop (NBQS) & Engineering Workshop (EWS/BNGN)", totalPosts:881},
+        {postName:"Dibrugarh Workshop (DBWS)", totalPosts:763},
+        {postName:"Headquarters (HQ), Maligaon", totalPosts:495}
+    ],
+
+    tags:["NFR Apprentice Vacancy 2026","Northeast Frontier Railway Recruitment","NFR Act Apprentice 6777 Posts","Railway Apprentice ITI Jobs","NFR Katihar Tindharia Workshop","Railway Apprentice Merit Based","NFR Lumding Division Vacancy"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"upsssc-otr-registration-2026",
+    orgWebsite:"https://upsssc.gov.in",
+    title:"UPSSSC OTR Registration 2026",
+    shortTitle:"UPSSSC One Time Registration Online 2026",
+    organization:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    image:"UPSSSCOTR.jpeg",
+
+    totalPosts:0,
+
+    lastDate:"",
+    lastDateDisplay:"Not Announced",
+
+    datePosted:"2026-07-14",
+    validThrough:"",
+
+    employmentType:"OTHER",
+
+    location:"Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Not Applicable (Registration Only)",
+
+    ageLimit:"Not Applicable",
+
+    applyLink:"https://upsssc.gov.in",
+    officialNotification:"https://upsssc.gov.in",
+
+    fee:"No Fee",
+
+    description:"Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has started the One Time Registration (OTR) 2026 process. Candidates who wish to apply for future UPSSSC recruitments like PET, Junior Assistant, Lekhpal, Forest Guard, VDO, Pharmacist and other posts must complete OTR. Through OTR, a candidate's personal, educational and other essential details are saved in the Commission's database, eliminating the need to re-enter the same information for every new application. Registration started on 14 July 2026 with no last date announced yet.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"One Time Registration (OTR)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-14",
+    applicationEndDate:"",
+
+    examDate:"Not Applicable",
+    interviewDate:"Not Applicable",
+
+    tags:["UPSSSC OTR Registration 2026","One Time Registration UPSSSC","UPSSSC OTR Online Apply","UPSSSC PET Registration Prerequisite","UP Sarkari Naukri OTR","UPSSSC Database Registration","UPSSSC OTR Documents Required"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"upsssc-auditor-assistant-accountant-recruitment-2026",
+    orgWebsite:"https://upsssc.gov.in",
+    title:"UPSSSC Auditor & Assistant Accountant Vacancy 2026",
+    shortTitle:"UPSSSC Auditor Assistant Accountant Online Form 2026",
+    organization:"Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    image:"UPSSSCAuditor.jpeg",
+
+    totalPosts:1829,
+
+    lastDate:"2026-08-03",
+    lastDateDisplay:"03 August 2026",
+
+    datePosted:"2026-06-03",
+    validThrough:"2026-08-03T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:29200,
+    salaryMax:92300,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Uttar Pradesh",
+    addressLocality:"Lucknow",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree in Commerce (B.Com) or Post Graduate Diploma in Accountancy + 'O' Level Computer Certificate",
+
+    ageLimit:"21 to 40 Years",
+
+    applyLink:"https://upsssc.gov.in",
+    officialNotification:"https://upsssc.gov.in",
+
+    fee:"All Categories: Rs. 25 (Processing Fee Only, Based on Valid PET-2025 Score)",
+
+    description:"Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has released the notification for Auditor and Assistant Accountant Recruitment 2026, one of the largest recruitments of the year, offering 1,829 posts. Only candidates who have a valid PET-2025 score card can apply. Online applications started on 14 July 2026 and close on 03 August 2026. Candidates need a B.Com degree or Post Graduate Diploma in Accountancy along with an 'O' Level Computer Certificate. Selection includes PET-2025 score-based shortlisting, a Main Written Examination (100 questions, 100 marks, 120 minutes, 0.25 negative marking) and Document Verification. Selected candidates will get Level-5 salary of Rs. 29,200 to Rs. 92,300 per month.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Auditor, Assistant Accountant",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-14",
+    applicationEndDate:"2026-08-03",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Directorate of Internal Audit & Accounts, UP - Assistant Accountant (Permanent)", totalPosts:609},
+        {postName:"Municipal Council Directorate, UP - Assistant Accountant (Temporary)", totalPosts:600},
+        {postName:"UP Housing & Development Board - Assistant Accountant (Permanent)", totalPosts:156},
+        {postName:"Directorate, Local Fund Accounts Examination - Auditor", totalPosts:148},
+        {postName:"Directorate, Local Fund Accounts Examination - Auditor (Special Selection)", totalPosts:14},
+        {postName:"UP Forest Corporation - Assistant Accountant (Permanent)", totalPosts:67},
+        {postName:"Municipal Council Directorate - Auditor (Temporary)", totalPosts:60},
+        {postName:"UP Rajkiya Nirman Nigam Ltd. - Assistant Accountant (Temporary)", totalPosts:82},
+        {postName:"UP Rajkiya Nirman Nigam Ltd. - Assistant Accountant (Special Selection)", totalPosts:4},
+        {postName:"Various Universities & Colleges - Assistant Accountant", totalPosts:14},
+        {postName:"Industrial Development Department - Assistant Accountant (Permanent)", totalPosts:69}
+    ],
+
+    tags:["UPSSSC Auditor Vacancy 2026","UPSSSC Assistant Accountant Recruitment","UPSSSC 1829 Posts","B.Com Government Jobs UP","UPSSSC PET 2025 Based Recruitment","UP Auditor Bharti 2026","UPSSSC Commerce Graduate Jobs"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"hpcl-graduate-apprentice-recruitment-2026",
     orgWebsite:"https://www.hindustanpetroleum.com",
     title:"HPCL Graduate Apprentice Vacancy 2026",

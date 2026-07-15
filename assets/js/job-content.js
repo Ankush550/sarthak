@@ -1,5 +1,509 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["upsssc-auditor-assistant-accountant-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UPSSSC Auditor & Assistant Accountant Vacancy 2026 – Apply Online for 1,829 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">📊 UPSSSC Auditor & Assistant Accountant Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>14 July 2026 to 03 August 2026</strong></p>
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)</strong> has released the notification for one of 2026's largest recruitments — <strong>Auditor and Assistant Accountant</strong>, offering <strong>1,829 posts</strong> across multiple departments.</p>
+
+<p style="font-size:20px;line-height:1.9;">This recruitment is exclusively for candidates who have a <strong>valid PET-2025 score card</strong>. Online applications started on <strong>14 July 2026</strong> and close on <strong>03 August 2026</strong>. Candidates need a <strong>B.Com degree</strong> or Post Graduate Diploma in Accountancy along with an <strong>'O' Level Computer Certificate</strong>. Selected candidates will get Level-5 salary of <strong>₹29,200 to ₹92,300</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+1,829 posts mein se <strong>1,209 posts (66%) sirf do departments</strong> se aa rahe hain — Directorate of Internal Audit & Accounts (609 permanent) aur Municipal Council Directorate (600 temporary). Yeh bhrti PET-2025 based hai, matlab yeh directly UPSSSC OTR aur PET ecosystem se connected hai, jo confirm karta hai ki Commission apna multi-stage recruitment pipeline (OTR → PET → Specific Recruitment) systematically build kar raha hai. Application fee sirf ₹25 hai — jo dikhata hai ki actual selection barrier PET score aur main exam performance pe hai, na ki financial entry barrier pe.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Uttar Pradesh Subordinate Services Selection Commission (UPSSSC), Lucknow</td></tr>
+<tr><th>Post Name</th><td>Auditor (Lekha Pareekshak) and Assistant Accountant (Sahayak Lekhakaar)</td></tr>
+<tr><th>Total Vacancies</th><td>1,829</td></tr>
+<tr><th>Notification Release</th><td>03 June 2026</td></tr>
+<tr><th>Start Date</th><td>14 July 2026</td></tr>
+<tr><th>Last Date to Apply</th><td>03 August 2026</td></tr>
+<tr><th>Last Date for Fee Payment</th><td>03 August 2026</td></tr>
+<tr><th>Correction Window</th><td>Up to 10 August 2026</td></tr>
+<tr><th>Age Limit</th><td>21 to 40 Years</td></tr>
+<tr><th>Salary</th><td>₹29,200 – ₹92,300 (Level-5)</td></tr>
+<tr><th>Official Website</th><td>upsssc.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Application Fee</th><th>Processing Fee</th><th>Total Fee</th></tr>
+<tr><td>General (UR)</td><td>₹0</td><td>₹25</td><td>₹25</td></tr>
+<tr><td>OBC</td><td>₹0</td><td>₹25</td><td>₹25</td></tr>
+<tr><td>SC</td><td>₹0</td><td>₹25</td><td>₹25</td></tr>
+<tr><td>ST</td><td>₹0</td><td>₹25</td><td>₹25</td></tr>
+<tr><td>PwBD</td><td>₹0</td><td>₹25</td><td>₹25</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas B.Com degree, O Level Computer Certificate hai aur valid PET-2025 score card bhi hai — commerce graduates ke liye 2026 ki sabse badi UP government recruitment mein se ek hai yeh, jisme 1,829 posts ke saath odds relatively favorable hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapke paas PET-2025 score card nahi hai — yeh recruitment sirf PET-qualified candidates ke liye hai, bina PET score ke apply karna possible nahi hai, chahe aapki education qualification kitni bhi strong ho.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Department-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Department Name</th><th>Post Name</th><th>Vacancies</th><th>Nature of Post</th></tr>
+<tr><td>Directorate of Internal Audit & Accounts, UP</td><td>Assistant Accountant</td><td>609</td><td>Permanent</td></tr>
+<tr><td>Municipal Council Directorate, UP</td><td>Assistant Accountant</td><td>600</td><td>Temporary</td></tr>
+<tr><td>UP Housing & Development Board</td><td>Assistant Accountant</td><td>156</td><td>Permanent</td></tr>
+<tr><td>Directorate, Local Fund Accounts Examination</td><td>Auditor</td><td>148</td><td>Permanent/Temporary</td></tr>
+<tr><td>Directorate, Local Fund Accounts Examination</td><td>Auditor (Special Selection)</td><td>14</td><td>Permanent/Temporary</td></tr>
+<tr><td>UP Forest Corporation</td><td>Assistant Accountant</td><td>67</td><td>Permanent</td></tr>
+<tr><td>Municipal Council Directorate</td><td>Auditor</td><td>60</td><td>Temporary</td></tr>
+<tr><td>UP Rajkiya Nirman Nigam Ltd.</td><td>Assistant Accountant</td><td>82</td><td>Temporary</td></tr>
+<tr><td>UP Rajkiya Nirman Nigam Ltd.</td><td>Assistant Accountant (Special Selection)</td><td>4</td><td>Temporary</td></tr>
+<tr><td>Various Universities & Colleges</td><td>Assistant Accountant</td><td>14</td><td>Temporary/Permanent</td></tr>
+<tr><td>Industrial Development Department</td><td>Assistant Accountant</td><td>69</td><td>Permanent</td></tr>
+<tr><th colspan="2">Grand Total</th><th>1,829</th><th>—</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Qualification Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Educational Qualification</th><th>Computer Qualification</th><th>Desirable Qualification</th></tr>
+<tr><td>Assistant Accountant</td><td>B.Com or Post Graduate Diploma in Accountancy</td><td>O Level Certificate in Computer Operation</td><td>NCC 'B' Certificate / 2 Years Territorial Army Service</td></tr>
+<tr><td>Auditor</td><td>B.Com or Post Graduate Diploma in Accountancy</td><td>O Level Certificate in Computer Operation</td><td>NCC 'B' Certificate / 2 Years Territorial Army Service</td></tr>
+<tr><td>Industrial Development Dept. Assistant Accountant</td><td>B.Com Degree</td><td>O Level Computer Certificate Mandatory</td><td>NCC 'B' Certificate / Territorial Army Experience</td></tr>
+<tr><td>Various Universities & Govt. Institutions</td><td>B.Com or Equivalent Accountancy Qualification</td><td>O Level Computer Certificate</td><td>Preferred as per Department Rules</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>PET-2025 Registration Number aur OTP ke bina application shuru hi nahi hoga — login karne se pehle apna PET record ready rakhein.</li>
+<li>O Level Computer Certificate almost sabhi posts ke liye mandatory hai — agar aapke paas yeh nahi hai toh apply karne se pehle sunishchit karein ki koi alternative allowed hai ya nahi.</li>
+<li>Main exam mein Uttar Pradesh General Knowledge ka bhi weightage hai (20 marks) — sirf accountancy prepare karke UP GK ignore mat karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Level</th><th>Salary Range</th></tr>
+<tr><td>Auditor</td><td>Level-5</td><td>₹29,200 – ₹92,300</td></tr>
+<tr><td>Assistant Accountant</td><td>Level-5</td><td>₹29,200 – ₹92,300</td></tr>
+<tr><td>Additional Benefits</td><td colspan="2">DA, HRA, TA, Medical Benefits, Pension Benefits as per Government Rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Selection Process</th></tr>
+<tr><td>Stage 1</td><td>PET-2025 Score Based Shortlisting</td></tr>
+<tr><td>Stage 2</td><td>Written Main Examination</td></tr>
+<tr><td>Stage 3</td><td>Document Verification</td></tr>
+<tr><th>Final Selection</th><th>Based on Main Exam Merit & Document Verification</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Subject</th><th>Questions</th><th>Marks</th></tr>
+<tr><td>Audit & Final Accounts</td><td>10</td><td>10</td></tr>
+<tr><td>Fundamentals of Accounting</td><td>10</td><td>10</td></tr>
+<tr><td>Double Accounting System & Financial Rules</td><td>15</td><td>15</td></tr>
+<tr><td>RTGS, E-Banking & Budget Control</td><td>10</td><td>10</td></tr>
+<tr><td>Advanced Accountancy</td><td>10</td><td>10</td></tr>
+<tr><td>Taxation & Arithmetic</td><td>10</td><td>10</td></tr>
+<tr><td>Computer & Information Technology</td><td>15</td><td>15</td></tr>
+<tr><td>Uttar Pradesh General Knowledge</td><td>20</td><td>20</td></tr>
+<tr><th>Total</th><th>100</th><th>100</th></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Exam Mode</td><td>Offline (OMR Based)</td></tr>
+<tr><td>Question Type</td><td>Multiple Choice Questions (MCQs)</td></tr>
+<tr><td>Duration</td><td>120 Minutes</td></tr>
+<tr><td>Negative Marking</td><td>0.25 Marks for Each Wrong Answer</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official UPSSSC website.</li>
+<li>Click on the "Auditor & Assistant Accountant Main Examination 2026" recruitment link.</li>
+<li>Login using your PET-2025 Registration Number and OTP.</li>
+<li>Verify your personal details already available in PET records.</li>
+<li>Select the post and department preferences carefully.</li>
+<li>Fill educational qualification, category, reservation and other required details.</li>
+<li>Pay the application processing fee of ₹25 through online mode.</li>
+<li>Submit the application form and complete fee reconciliation.</li>
+<li>Download and print the final submitted application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with UPSSSC's official notification released on 03 June 2026. Since this recruitment requires a valid PET-2025 score, candidates without PET should complete their UPSSSC OTR and prepare for the next PET cycle.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank">upsssc.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. UPSSSC Auditor एवं Assistant Accountant Bharti 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के तहत कुल <strong>1829 पदों</strong> पर भर्ती की जाएगी।</p>
+<h3>2. क्या बिना PET-2025 के इस भर्ती के लिए आवेदन किया जा सकता है?</h3>
+<p style="font-size:20px;line-height:1.8;">नहीं। केवल वही उम्मीदवार आवेदन कर सकते हैं जिनके पास वैध <strong>PET Score Card</strong> उपलब्ध हो।</p>
+<h3>3. UPSSSC Bharti 2026 में आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">सभी वर्गों के लिए केवल <strong>₹25</strong> प्रोसेसिंग शुल्क निर्धारित किया गया है।</p>
+<h3>4. क्या परीक्षा में नेगेटिव मार्किंग होगी?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ, प्रत्येक गलत उत्तर के लिए <strong>0.25 अंक</strong> की नेगेटिव मार्किंग लागू रहेगी।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UPSSSC Auditor & Assistant Accountant Vacancy 2026</strong> is one of the biggest opportunities for commerce graduates in Uttar Pradesh this year. Apply before <strong>03 August 2026</strong> and start your main examination preparation early given the expected high competition.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for UPSSSC Auditor & Assistant Accountant Vacancy 2026</h2>
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=upsssc-otr-registration-2026">UPSSSC OTR Registration 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=nfr-act-apprentice-recruitment-2026">NFR Apprentice Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSSSC notification before applying.</p>
+`;
+JOB_CONTENT["upsssc-otr-registration-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UPSSSC OTR Registration 2026 – One Time Registration for Future Recruitments</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">📝 UPSSSC OTR Registration 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Registration Started</span></p>
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Register Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</strong> has started the <strong>One Time Registration (OTR) 2026</strong> process. Candidates who wish to apply for future UPSSSC recruitments like PET, Junior Assistant, Lekhpal, Forest Guard, VDO, Pharmacist and other posts must complete OTR first.</p>
+
+<p style="font-size:20px;line-height:1.9;">Through OTR, a candidate's personal, educational and other essential details are saved permanently in the Commission's database, eliminating the need to re-enter the same information every time a new application is filled. Registration started on <strong>14 July 2026</strong>, with <strong>no last date announced yet</strong>. There is <strong>no fee</strong> for OTR registration.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+OTR ka release timing important hai — yeh <strong>14 July 2026</strong> ko launch hua, aur usi din (14 July) UPSSSC Auditor & Assistant Accountant applications bhi start ho rahe hain, jo confirm karta hai ki UPSSSC apni upcoming multiple mega-recruitments (jaise PET-2026 cycle) ke liye candidate database ko pehle se ready kar raha hai. Yeh koi ek-time job notification nahi hai, balki ek permanent infrastructure hai — jo candidates abhi OTR complete kar lenge, unhe har future UPSSSC form mein baar-baar same details bharne ki zaroorat nahi padegi.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)</td></tr>
+<tr><th>Registration Mode</th><td>Online</td></tr>
+<tr><th>Eligibility</th><td>Candidates intending to apply for future UPSSSC recruitments</td></tr>
+<tr><th>OTR Validity</th><td>Valid for future UPSSSC recruitment applications unless updated</td></tr>
+<tr><th>Notification Release</th><td>14 July 2026</td></tr>
+<tr><th>Registration Start Date</th><td>14 July 2026</td></tr>
+<tr><th>Last Date</th><td>Not Announced</td></tr>
+<tr><th>Official Website</th><td>upsssc.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Registration Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for UPSSSC OTR Registration.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Aapke Liye Zaroori Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Turant karein agar:</strong> Aap Uttar Pradesh mein sarkari naukri ki taiyari kar rahe hain aur PET, Lekhpal, VDO, Forest Guard jaisi future UPSSSC recruitments mein apply karne ki soch rahe hain — OTR ek mandatory prerequisite ban chuka hai, isliye jitni jaldi complete karenge utna better, kyunki har naya form OTR number maangega.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Wait mat karein soch kar:</strong> "Last date announced nahi hai" ka matlab yeh nahi ki intezar karein — OTR karne mein koi downside nahi hai, aur jab tak aap yeh nahi karenge, aap kisi bhi UPSSSC form ko apply hi nahi kar payenge, chahe woh job kitni bhi urgent ho.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Documents Required for UPSSSC OTR Registration 2026</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Document</th><th>Purpose</th></tr>
+<tr><td>Recent Passport Size Photograph</td><td>Upload during registration</td></tr>
+<tr><td>Scanned Signature</td><td>Upload during registration</td></tr>
+<tr><td>Active Mobile Number</td><td>OTP Verification</td></tr>
+<tr><td>Valid Email ID</td><td>Registration & Communication</td></tr>
+<tr><td>Aadhaar Card</td><td>Identity Verification</td></tr>
+<tr><td>High School Certificate</td><td>Date of Birth Verification</td></tr>
+<tr><td>Educational Qualification Details</td><td>Academic Information</td></tr>
+<tr><td>Permanent Address</td><td>Candidate Record</td></tr>
+<tr><td>Correspondence Address</td><td>Communication</td></tr>
+<tr><td>Category Certificate (If Applicable)</td><td>Reservation Benefit</td></tr>
+<tr><td>EWS Certificate (If Applicable)</td><td>Reservation Benefit</td></tr>
+<tr><td>PwBD Certificate (If Applicable)</td><td>Disability Reservation</td></tr>
+<tr><td>Domicile Certificate (If Applicable)</td><td>State Reservation</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || most).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Documents ko scanned PDF/JPG format mein hi upload karein jaisa UPSSSC ne prescribe kiya hai — wrong format se registration reject/delay ho sakta hai.</li>
+<li>Photograph aur signature ki size specifications strictly follow karein — blurry ya galat size ki images future applications mein issue create karengi.</li>
+<li>Ek active mobile number aur email ID use karein jo aap regularly check karte hain — future updates aur OTP dono isi par aayenge.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Notes Before Submission</h2>
+<ul style="font-size:20px;line-height:2;">
+<li>Keep all documents in scanned PDF/JPG format as prescribed by UPSSSC.</li>
+<li>Ensure the photograph and signature are clear and meet the required size specifications.</li>
+<li>Use an active mobile number and email ID for future updates.</li>
+<li>Reservation-related certificates should be valid on the application date.</li>
+<li>Verify all details carefully before final submission of the OTR form.</li>
+</ul>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply for UPSSSC OTR Registration 2026</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official UPSSSC website.</li>
+<li>Click on the One Time Registration (OTR) 2026 link.</li>
+<li>Register using your mobile number and email ID.</li>
+<li>Verify the OTP sent to your registered mobile number/email.</li>
+<li>Fill in your personal information carefully.</li>
+<li>Enter your educational qualification details.</li>
+<li>Provide your permanent and correspondence address.</li>
+<li>Upload the required photograph and signature.</li>
+<li>Review all entered information before submission.</li>
+<li>Submit the registration form.</li>
+<li>Download and print the OTR Registration Confirmation for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with UPSSSC's official OTR notification released on 14 July 2026. Since no last date has been announced, we recommend completing your OTR at the earliest to avoid last-minute issues before applying for any UPSSSC recruitment.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Register Now</td><td><a href="https://upsssc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upsssc.gov.in" target="_blank">upsssc.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. UPSSSC OTR Registration 2026 क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">UPSSSC OTR (One Time Registration) एक स्थायी रजिस्ट्रेशन प्रक्रिया है, जिसके माध्यम से उम्मीदवार भविष्य की UPSSSC भर्तियों के लिए अपना प्रोफाइल तैयार करते हैं।</p>
+<h3>2. क्या UPSSSC OTR कराना अनिवार्य है?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ। UPSSSC की नई भर्तियों में आवेदन करने के लिए OTR होना आवश्यक है।</p>
+<h3>3. UPSSSC OTR Registration की अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">फिलहाल आयोग ने अंतिम तिथि घोषित नहीं की है।</p>
+<h3>4. UPSSSC OTR Registration के लिए आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">सभी श्रेणियों के अभ्यर्थियों के लिए आवेदन शुल्क शून्य (₹0) रखा गया है।</p>
+<h3>5. क्या OTR एक बार करने के बाद दोबारा करना पड़ता है?</h3>
+<p style="font-size:20px;line-height:1.8;">नहीं। OTR सामान्यतः एक बार किया जाता है, हालांकि आवश्यकता होने पर उम्मीदवार अपनी जानकारी अपडेट कर सकते हैं।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UPSSSC OTR Registration 2026</strong> is an essential first step for anyone planning to apply for future UPSSSC recruitments. Since there is no fee and no downside, complete your OTR today rather than waiting for a specific job notification.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Complete UPSSSC OTR Registration 2026</h2>
+<a href="https://upsssc.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Register Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=upsssc-auditor-assistant-accountant-recruitment-2026">UPSSSC Auditor & Assistant Accountant Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=upsssc-cane-supervisor-recruitment-2026">UPSSSC Cane Supervisor Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSSSC notification before applying.</p>
+`;
+JOB_CONTENT["nfr-act-apprentice-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-16">Published: 16 July 2026</time> | Updated: 16 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">NFR Apprentice Vacancy 2026 – Apply Online for 6,777 Act Apprentice Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🚂 NFR Apprentice Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>20 July 2026 to 19 August 2026</strong></p>
+<a href="https://www.nfr.indianrailways.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Northeast Frontier Railway (NFR)</strong> has released the official notification for <strong>Act Apprentice Recruitment 2026</strong>, offering a massive <strong>6,777 posts</strong> for the 2025-26 and 2026-27 training sessions.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>20 July 2026</strong> and close on <strong>19 August 2026 (5:30 PM)</strong>. Candidates need <strong>10th Pass with 50% marks</strong> and an <strong>ITI (NCVT/SCVT)</strong> certificate in the relevant trade. Selection is based purely on merit - <strong>no written examination</strong> is conducted. Selected candidates will get a stipend of <strong>₹9,600 to ₹11,040</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+6,777 posts ek single Railway zone ke liye extraordinarily bada number hai — Lumding Division akela hi 1,274 posts (19%) leke sabse bada contributor hai, uske baad Katihar & Tindharia Workshop combined (1,103 posts). Yeh dikhata hai ki NFR apna workforce North East region mein significantly expand kar raha hai, khaaskar Assam-based divisions mein. FAQ mein explicitly mention kiya gaya hai ki Course Completed Act Apprentices (CCAA) ko future railway recruitments mein preference milti hai — matlab yeh sirf training nahi, balki future railway job ke liye ek strategic stepping stone bhi hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Northeast Frontier Railway (NFR)</td></tr>
+<tr><th>Post Name</th><td>Act Apprentice</td></tr>
+<tr><th>Total Vacancies</th><td>6,777</td></tr>
+<tr><th>Application Mode</th><td>Online</td></tr>
+<tr><th>Notification Release</th><td>16 July 2026</td></tr>
+<tr><th>Start Date</th><td>20 July 2026</td></tr>
+<tr><th>Last Date</th><td>19 August 2026 (5:30 PM)</td></tr>
+<tr><th>Age Limit</th><td>18 to 24 Years</td></tr>
+<tr><th>Stipend</th><td>₹9,600 – ₹11,040 per Month</td></tr>
+<tr><th>Official Website</th><td>nfr.indianrailways.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General, OBC, EWS (Male)</td><td>₹100</td></tr>
+<tr><td>SC, ST, EBC, PwBD</td><td>No Fee</td></tr>
+<tr><td>Women Candidates</td><td>No Fee</td></tr>
+<tr><td>Application Correction Fee (Per Correction)</td><td>₹50</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap 10th pass hain aur ITI kar chuke hain kisi trade mein — yeh 6,777 posts ke saath 2026 ki sabse badi apprentice recruitments mein se ek hai, aur koi written exam nahi hai, sirf merit-based selection hai jo process ko simple banata hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap immediate permanent job expect kar rahe hain — apprenticeship completion permanent railway job ki guarantee nahi deta, lekin CCAA status ke saath future recruitments mein preference milti hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Unit/Division-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Unit / Division / Workshop</th><th>Number of Posts</th></tr>
+<tr><td>Katihar (KIR) & Tindharia (TDH) Workshop</td><td>1,103</td></tr>
+<tr><td>Alipurduar (APDJ) Division</td><td>651</td></tr>
+<tr><td>Rangiya (RNY) Division</td><td>750</td></tr>
+<tr><td>Lumding (LMG) Division</td><td>1,274</td></tr>
+<tr><td>Tinsukia (TSK) Division</td><td>860</td></tr>
+<tr><td>New Bongaigaon Workshop (NBQS) & Engineering Workshop (EWS/BNGN)</td><td>881</td></tr>
+<tr><td>Dibrugarh Workshop (DBWS)</td><td>763</td></tr>
+<tr><td>Headquarters (HQ), Maligaon</td><td>495</td></tr>
+<tr><th>Total Posts</th><th>6,777</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post/Trade</th><th>Qualification</th></tr>
+<tr><td>All Apprentice Trades</td><td>Class 10 (Matriculation) with minimum 50% marks + ITI Certificate (NCVT/SCVT) in relevant trade</td></tr>
+<tr><td>Medical Laboratory Technician (Pathology/Radiology)</td><td>10+2 with Physics, Chemistry & Biology, minimum 50% marks in Class 10 and Class 12</td></tr>
+<tr><td>ITI Requirement</td><td>Valid NCVT/SCVT Trade Certificate before the notification date</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>ITI certificate <strong>notification date se pehle</strong> hasil kiya gaya hona chahiye — agar aapka ITI abhi bhi pending/incomplete hai, toh apply mat karein.</li>
+<li>Unit/Division select karte waqt carefully socho — yeh geographically bahut spread hai (Assam se West Bengal tak), transfer/relocation ki possibility ko dhyan mein rakhein.</li>
+<li>Merit list purely 10th aur ITI marks pe based hai — koi interview ya exam nahi hai, isliye academic records accurately upload karna extra important hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Stipend / Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Training Year</th><th>Monthly Stipend</th></tr>
+<tr><td>First Year</td><td>₹9,600</td></tr>
+<tr><td>Second Year (Where Applicable)</td><td>₹10,560</td></tr>
+<tr><td>Third Year (Where Applicable)</td><td>₹11,040</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Merit List</td><td>Based on Class 10 and ITI Marks</td></tr>
+<tr><td>Written Examination</td><td>Not Conducted</td></tr>
+<tr><td>Document Verification</td><td>Required for Shortlisted Candidates</td></tr>
+<tr><td>Medical Examination</td><td>Mandatory before joining</td></tr>
+<tr><td>Final Selection</td><td>Based on Merit, Document Verification & Medical Fitness</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official Northeast Frontier Railway website.</li>
+<li>Open the Act Apprentice Recruitment 2026 notification.</li>
+<li>Complete online registration using your mobile number and email ID.</li>
+<li>Log in with your Registration ID and Password.</li>
+<li>Fill personal, educational and trade-related details carefully.</li>
+<li>Select your preferred Unit, Department and Trade.</li>
+<li>Upload photograph, signature and required documents.</li>
+<li>Pay the application fee (if applicable) through the online payment gateway.</li>
+<li>Review all entered details before final submission.</li>
+<li>Submit the application and download/print the confirmation page.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with NFR's official notification released on 16 July 2026. Given the very large scale of this recruitment, candidates should not wait for the last date and should complete their application well in advance.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.nfr.indianrailways.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.nfr.indianrailways.gov.in" target="_blank">nfr.indianrailways.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. How many total posts are there in NFR Apprentice Vacancy 2026?</h3>
+<p style="font-size:20px;line-height:1.8;">A total of <strong>6,777 Act Apprentice</strong> posts across various NFR divisions and workshops.</p>
+<h3>2. Will there be a written exam?</h3>
+<p style="font-size:20px;line-height:1.8;">No, selection is based purely on <strong>merit from Class 10 and ITI marks</strong>.</p>
+<h3>3. Does completing NFR apprenticeship guarantee a permanent railway job?</h3>
+<p style="font-size:20px;line-height:1.8;">No, but Course Completed Act Apprentices (CCAA) do get preference in certain future railway recruitments as per rules.</p>
+<h3>4. What is the application fee?</h3>
+<p style="font-size:20px;line-height:1.8;">₹100 for General/OBC/EWS male candidates; free for SC/ST/EBC/PwBD and all women candidates.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>NFR Apprentice Vacancy 2026</strong> is one of the largest apprentice recruitments in India this year. Apply before <strong>19 August 2026</strong> and don't wait until the last date given the massive applicant volume expected.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for NFR Apprentice Vacancy 2026</h2>
+<a href="https://www.nfr.indianrailways.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=hpcl-graduate-apprentice-recruitment-2026">HPCL Graduate Apprentice Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=upsssc-auditor-assistant-accountant-recruitment-2026">UPSSSC Auditor & Assistant Accountant Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NFR notification before applying.</p>
+`;
 JOB_CONTENT["psssb-craft-instructor-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
