@@ -1,6 +1,179 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"upsrtc-meerut-conductor-recruitment-2026",
+    orgWebsite:"https://upsrtc.up.gov.in",
+    title:"UPSRTC Meerut Conductor Vacancy 2026",
+    shortTitle:"UPSRTC Meerut Conductor Online Form 2026",
+    organization:"Uttar Pradesh State Road Transport Corporation (UPSRTC)",
+    image:"UPSRTCMeerutConductor.jpeg",
+
+    totalPosts:66,
+
+    lastDate:"2026-07-17",
+    lastDateDisplay:"17 July 2026",
+
+    datePosted:"2026-07-09",
+    validThrough:"2026-07-17T23:59:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    location:"Meerut, Uttar Pradesh",
+    addressLocality:"Meerut",
+    addressRegion:"Uttar Pradesh",
+    addressCountry:"IN",
+
+    qualification:"12th (Intermediate) Pass + CCC Computer Certificate",
+
+    ageLimit:"18 to 40 Years",
+
+    applyLink:"https://sewayojan.up.nic.in",
+    officialNotification:"https://upsrtc.up.gov.in",
+
+    fee:"No Application Fee",
+
+    description:"Uttar Pradesh State Road Transport Corporation (UPSRTC) has invited online applications through the UP Rojgar Sangam (Sewayojan) Portal for 66 Bus Conductor posts in Meerut district on an outsourcing basis. Online applications started on 09 July 2026 and will close on 17 July 2026. Candidates need 12th (Intermediate) Pass from a recognized board along with a CCC Computer Certificate, and must be registered on the Sewayojan Portal. Selection includes application screening, interview and document verification. There is no application fee for any category.",
+
+    category:"Uttar Pradesh Government Jobs",
+    jobType:"Bus Conductor",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-09",
+    applicationEndDate:"2026-07-17",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"UPSRTC Bus Conductor (Meerut)", totalPosts:66}
+    ],
+
+    tags:["UPSRTC Meerut Conductor Vacancy 2026","UPSRTC Bus Conductor Recruitment","Sewayojan UPSRTC Jobs","UP Roadways Conductor Outsourcing","UPSRTC CCC Certificate Jobs","Meerut Sarkari Naukri 2026","UP Bus Conductor 66 Posts"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"calcutta-university-agricultural-labour-recruitment-2026",
+    orgWebsite:"https://www.caluniv.ac.in",
+    title:"Calcutta University Agricultural Labour Vacancy 2026",
+    shortTitle:"Calcutta University Agricultural Labour Offline Form 2026",
+    organization:"University of Calcutta",
+    image:"CalcuttaUniversityAgriculturalLabour.jpeg",
+
+    totalPosts:50,
+
+    lastDate:"2026-07-20",
+    lastDateDisplay:"20 July 2026 (4:00 PM)",
+
+    datePosted:"2026-07-14",
+    validThrough:"2026-07-20T16:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    location:"Baruipur Agricultural Experimental Farm, West Bengal",
+    addressLocality:"Kolkata",
+    addressRegion:"West Bengal",
+    addressCountry:"IN",
+
+    qualification:"No Mandatory Minimum Qualification (Class 8 Pass Preferred) + Minimum 5 Years Agricultural Experience",
+
+    ageLimit:"Not Mentioned",
+
+    applyLink:"https://www.caluniv.ac.in",
+    officialNotification:"https://www.caluniv.ac.in",
+
+    fee:"No Application Fee",
+
+    description:"University of Calcutta has invited offline applications for approximately 50 Agricultural Labour posts under the RUSA 2.0 (Component-10) project at the Baruipur Agricultural Experimental Farm. This is a purely temporary and contractual appointment. Applications started on 14 July 2026 and must be submitted offline by 20 July 2026 (4:00 PM). While no mandatory minimum educational qualification is prescribed, candidates who have passed Class 8 will be given preference. A minimum of 5 years of experience in agricultural field/farm/research work is mandatory, along with an experience certificate issued by an authorized Scientist, Principal Investigator or Farm Superintendent. Selected candidates will get daily wages as per West Bengal Government rules.",
+
+    category:"West Bengal Government Jobs",
+    jobType:"Agricultural Labour",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-14",
+    applicationEndDate:"2026-07-20",
+
+    examDate:"Not Applicable",
+    interviewDate:"Interview and/or Skill Test (As Per Schedule)",
+
+    postDetails:[
+        {postName:"Agricultural Labour (Baruipur Agricultural Experimental Farm)", totalPosts:50}
+    ],
+
+    tags:["Calcutta University Agricultural Labour Vacancy 2026","RUSA 2.0 Recruitment","Baruipur Farm Jobs","West Bengal Agricultural Jobs","8th Pass Contract Jobs Kolkata","Calcutta University Daily Wage Jobs","Agricultural Experience Jobs WB"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"gsssb-mphw-recruitment-2026",
+    orgWebsite:"https://ojas.gujarat.gov.in",
+    title:"GSSSB MPHW Vacancy 2026",
+    shortTitle:"GSSSB Multi Purpose Health Worker Online Form 2026",
+    organization:"Gujarat Gaun Seva Pasandagi Mandal (GSSSB)",
+    image:"GSSSBMPHW.jpeg",
+
+    totalPosts:100,
+
+    lastDate:"2026-07-31",
+    lastDateDisplay:"31 July 2026 (11:59 PM)",
+
+    datePosted:"2026-07-14",
+    validThrough:"2026-07-31T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:19900,
+    salaryMax:63200,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Gujarat",
+    addressLocality:"Gandhinagar",
+    addressRegion:"Gujarat",
+    addressCountry:"IN",
+
+    qualification:"Diploma in Sanitary Inspector/Health Sanitary Inspector or MPHW Certificate (Min. 1-Year Course)",
+
+    ageLimit:"18 to 33 Years",
+
+    applyLink:"https://ojas.gujarat.gov.in",
+    officialNotification:"https://ojas.gujarat.gov.in",
+
+    fee:"General (UR): Rs. 500 | Women/SEBC/SC/ST/EWS/PwD/Ex-Servicemen: Rs. 400",
+
+    description:"Gujarat Gaun Seva Pasandagi Mandal (GSSSB) has released the official notification (Advt. No. 441/2026-27) for Multi Purpose Health Worker (Male), Class-3 posts under the Health & Family Welfare Department, offering 100 posts. Online applications will start on 17 July 2026 (2:00 PM) and close on 31 July 2026 (11:59 PM) through the OJAS Portal. Candidates need a minimum 1-year Diploma/Certificate in MPHW, Sanitary Inspector or Health Sanitary Inspector from a recognized institute, along with basic computer knowledge and Gujarati/Hindi language skills. Selection includes a Written Examination (CBRT/OMR, 210 questions, 210 marks) followed by Document Verification. Selected candidates will get a fixed pay of Rs. 26,000 per month for the first 5 years, after which regular Level-2 pay scale of Rs. 19,900 to Rs. 63,200 applies.",
+
+    category:"Gujarat Government Jobs",
+    jobType:"Multi Purpose Health Worker (Male), Class-3",
+
+    advertisementNo:"441/2026-27",
+
+    applicationStartDate:"2026-07-17",
+    applicationEndDate:"2026-07-31",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {category:"Unreserved (General)", totalPosts:58},
+        {category:"Economically Weaker Section (EWS)", totalPosts:10},
+        {category:"Socially and Educationally Backward Class (SEBC)", totalPosts:22},
+        {category:"Scheduled Caste (SC)", totalPosts:4},
+        {category:"Scheduled Tribe (ST)", totalPosts:6}
+    ],
+
+    tags:["GSSSB MPHW Vacancy 2026","Multi Purpose Health Worker Gujarat","OJAS Portal Recruitment 2026","GSSSB Health Department Jobs","MPHW Sanitary Inspector Jobs","Gujarat Class-3 Government Jobs","GSSSB Advt 441 2026-27"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"nfr-act-apprentice-recruitment-2026",
     orgWebsite:"https://www.nfr.indianrailways.gov.in",
     title:"NFR Apprentice Vacancy 2026",

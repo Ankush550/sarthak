@@ -1,5 +1,501 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["gsssb-mphw-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">GSSSB MPHW Vacancy 2026 – Apply Online for 100 Multi Purpose Health Worker Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🏥 GSSSB MPHW Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>17 July 2026 to 31 July 2026</strong></p>
+<a href="https://ojas.gujarat.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Gujarat Gaun Seva Pasandagi Mandal (GSSSB)</strong> has released the official notification (<strong>Advt. No. 441/2026-27</strong>) for <strong>Multi Purpose Health Worker (Male), Class-3</strong> posts under the Health & Family Welfare Department, offering <strong>100 posts</strong>.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>17 July 2026 (2:00 PM)</strong> and close on <strong>31 July 2026 (11:59 PM)</strong> through the <strong>OJAS Portal</strong>. Candidates need a minimum <strong>1-year Diploma/Certificate</strong> in MPHW, Sanitary Inspector or Health Sanitary Inspector. Selected candidates will get a fixed pay of <strong>₹26,000 per month</strong> for the first 5 years, after which regular Level-2 pay scale of <strong>₹19,900 to ₹63,200</strong> applies.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh notification ka salary structure interesting hai — <strong>fixed ₹26,000</strong> pehle 5 saal ke liye, jo actual entry-level Level-2 pay scale (₹19,900 se shuru) se zyada hai. Yeh dikhata hai ki Gujarat government initial years mein higher fixed pay dekar candidates ko attract kar raha hai, lekin long-term regular scale isse kam se start hoti hai. UR/General category akela hi 58 posts (58%) le raha hai, jo reservation categories ke muqable significantly bada hai. Exam pattern bhi heavy hai — 210 questions, 210 marks, 3 ghante — jisme se 120 marks (57%) sirf subject-related questions ke liye hain, jo confirm karta hai ki technical/domain knowledge sabse zyada weightage rakhta hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Gujarat Gaun Seva Pasandagi Mandal (GSSSB)</td></tr>
+<tr><th>Post Name</th><td>Multi Purpose Health Worker (Male), Class-3</td></tr>
+<tr><th>Advertisement No.</th><td>441/2026-27</td></tr>
+<tr><th>Total Vacancies</th><td>100</td></tr>
+<tr><th>Notification Release</th><td>14 July 2026</td></tr>
+<tr><th>Start Date</th><td>17 July 2026 (2:00 PM)</td></tr>
+<tr><th>Last Date</th><td>31 July 2026 (11:59 PM)</td></tr>
+<tr><th>Age Limit</th><td>18 to 33 Years</td></tr>
+<tr><th>Salary</th><td>₹26,000 (Fixed) → ₹19,900 – ₹63,200 (Regular)</td></tr>
+<tr><th>Official Website</th><td>ojas.gujarat.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General (UR)</td><td>₹500</td></tr>
+<tr><td>Women, SEBC, SC, ST</td><td>₹400</td></tr>
+<tr><td>EWS, PwD</td><td>₹400</td></tr>
+<tr><td>Ex-Servicemen</td><td>₹400</td></tr>
+<tr><td>Payment Mode</td><td>Online</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas MPHW, Sanitary Inspector ya Health Sanitary Inspector mein 1-year diploma hai, aur aap Gujarat mein permanent Class-3 government job chahte hain — ₹26,000 ki starting fixed pay first 5 years ke liye attractive hai comparatively regular Level-2 postings se.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Gujarati ya Hindi mein comfortable nahi hain — language proficiency mandatory requirement hai, aur exam pattern mein Gujarati & English dono ke questions hain.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Category-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Posts</th></tr>
+<tr><td>Unreserved (General)</td><td>58</td></tr>
+<tr><td>EWS</td><td>10</td></tr>
+<tr><td>SEBC</td><td>22</td></tr>
+<tr><td>SC</td><td>4</td></tr>
+<tr><td>ST</td><td>6</td></tr>
+<tr><th>Total Posts</th><th>100</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Qualification / Requirement</th><th>Details</th></tr>
+<tr><td>MPHW Certificate/Diploma</td><td>Minimum 1-Year Multi Purpose Health Worker Course from a Government Recognized Institute</td></tr>
+<tr><td>Sanitary Inspector Diploma</td><td>Minimum 1-Year Diploma from Government Recognized Institute</td></tr>
+<tr><td>Health Sanitary Inspector Certificate</td><td>Minimum 1-Year ITI/Government Recognized Course</td></tr>
+<tr><td>University Diploma</td><td>Diploma in Sanitary Inspector/Health Sanitary Inspector from a Recognized University</td></tr>
+<tr><td>Computer Knowledge</td><td>Basic Computer Knowledge Required</td></tr>
+<tr><td>Language Knowledge</td><td>Gujarati or Hindi or Both</td></tr>
+<tr><td>Nationality</td><td>Indian Citizen</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>4 alag qualification options mein se apna exact matching category select karein — MPHW, Sanitary Inspector, Health Sanitary Inspector, ya University Diploma, sabki alag verification requirements hain.</li>
+<li>Exam mein <strong>40% minimum qualifying marks Part-A aur Part-B dono mein</strong> alag-alag chahiye — sirf overall total marks se pass nahi hoga, dono sections individually clear karne honge.</li>
+<li>Application 17 July 2:00 PM se hi start hogi — thoda pehle try karne se koi fayda nahi, exact time ka intezar karein aur us waqt ready rahein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Initial Fixed Pay</td><td>₹26,000 Per Month</td></tr>
+<tr><td>Fixed Pay Period</td><td>First 5 Years</td></tr>
+<tr><td>Regular Pay Scale</td><td>₹19,900 – ₹63,200</td></tr>
+<tr><td>Pay Level</td><td>Level-2 (7th Pay Commission)</td></tr>
+<tr><td>Department</td><td>Health & Family Welfare Department</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage-1</td><td>Written Examination (CBRT/OMR)</td></tr>
+<tr><td>Stage-2</td><td>Document Verification</td></tr>
+<tr><td>Stage-3</td><td>Final Merit List</td></tr>
+<tr><td>Stage-4</td><td>Medical/Appointment Formalities</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Exam Pattern</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Subject</th><th>Questions</th><th>Marks</th></tr>
+<tr><td>Reasoning & Data Interpretation</td><td>30</td><td>30</td></tr>
+<tr><td>Quantitative Aptitude</td><td>30</td><td>30</td></tr>
+<tr><td>Constitution, Current Affairs, Gujarati & English</td><td>30</td><td>30</td></tr>
+<tr><td>Subject Related Questions</td><td>120</td><td>120</td></tr>
+<tr><th>Total</th><th>210</th><th>210</th></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Exam Mode</td><td>CBRT / OMR</td></tr>
+<tr><td>Duration</td><td>180 Minutes</td></tr>
+<tr><td>Question Type</td><td>MCQ</td></tr>
+<tr><td>Negative Marking</td><td>0.25 Mark</td></tr>
+<tr><td>Minimum Qualifying Marks</td><td>40% in Part-A & 40% in Part-B</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official OJAS website.</li>
+<li>Click on Online Application and select GSSSB Recruitment.</li>
+<li>Choose Advertisement No. 441/2026-27.</li>
+<li>Click on Apply Now and complete registration/login.</li>
+<li>Fill in personal, educational and communication details.</li>
+<li>Upload your recent photograph and signature in the prescribed format.</li>
+<li>Verify all entered details carefully and confirm the application form.</li>
+<li>Pay the application fee through the available online payment modes.</li>
+<li>Submit the application form successfully.</li>
+<li>Download and print the final application form and payment receipt.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with GSSSB's official notification (Advt. No. 441/2026-27) released on 14 July 2026. Given the exam covers substantial subject-specific content (120 of 210 marks), candidates should prioritize domain knowledge preparation.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://ojas.gujarat.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://ojas.gujarat.gov.in" target="_blank">ojas.gujarat.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. GSSSB MPHW Vacancy 2026 में कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के माध्यम से <strong>100 रिक्त पदों</strong> को भरा जाएगा।</p>
+<h3>2. आवेदन कब से शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन प्रक्रिया <strong>17 जुलाई 2026 को दोपहर 2:00 बजे</strong> से शुरू होगी।</p>
+<h3>3. आयु सीमा क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">न्यूनतम <strong>18 वर्ष</strong> तथा अधिकतम <strong>33 वर्ष</strong> होनी चाहिए।</p>
+<h3>4. आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">सामान्य वर्ग के लिए <strong>₹500</strong>, आरक्षित वर्गों के लिए <strong>₹400</strong>।</p>
+<h3>5. चयन कैसे होगा?</h3>
+<p style="font-size:20px;line-height:1.8;">सबसे पहले <strong>लिखित परीक्षा (CBRT/OMR)</strong>, इसके बाद <strong>दस्तावेज़ सत्यापन</strong> और अंत में मेरिट सूची के आधार पर नियुक्ति।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>GSSSB MPHW Vacancy 2026</strong> offers a solid Class-3 government career for MPHW/Sanitary Inspector diploma holders in Gujarat. Apply from <strong>17 July 2026</strong> and begin preparing for the subject-heavy exam pattern early.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for GSSSB MPHW Vacancy 2026</h2>
+<a href="https://ojas.gujarat.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=calcutta-university-agricultural-labour-recruitment-2026">Calcutta University Agricultural Labour Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=sbi-bank-medical-officer-recruitment-2026">SBI BMO Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official GSSSB notification before applying.</p>
+`;
+JOB_CONTENT["calcutta-university-agricultural-labour-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Calcutta University Agricultural Labour Vacancy 2026 – Apply Offline for 50 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🌾 Calcutta University Agricultural Labour Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Applications Open</span></p>
+<p style="font-size:19px;">Last Date : <strong>20 July 2026 (4:00 PM)</strong></p>
+<a href="https://www.caluniv.ac.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>University of Calcutta</strong> has invited offline applications for approximately <strong>50 Agricultural Labour</strong> posts under the <strong>RUSA 2.0 (Component-10)</strong> project at the <strong>Baruipur Agricultural Experimental Farm</strong>. This is a purely temporary and contractual appointment.</p>
+
+<p style="font-size:20px;line-height:1.9;">Applications started on <strong>14 July 2026</strong> and must be submitted offline by <strong>20 July 2026 (4:00 PM)</strong>. While no mandatory minimum educational qualification is prescribed, candidates who have passed <strong>Class 8</strong> will be given preference. A minimum of <strong>5 years of agricultural experience</strong> is mandatory, along with an experience certificate.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh bhrti unusual hai kyunki educational qualification "not mandatory" hai (sirf preference milegi 8th pass ko), lekin <strong>5 saal ka verified experience</strong> non-negotiable hai — matlab yeh purely skill-based, experience-first hiring hai, education-first nahi. Experience certificate ka source bhi strictly define kiya gaya hai (Scientist, Principal Investigator ya Farm Superintendent), jo genuine field experience ko verify karne ka ek strong mechanism hai. RUSA 2.0 (Component-10) ek Central Government higher education scheme hai, jo confirm karta hai ki yeh university-level agricultural research infrastructure ko support karne wali temporary hiring hai, na ki permanent university staff position.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>University of Calcutta</td></tr>
+<tr><th>Post Name</th><td>Agricultural Labour</td></tr>
+<tr><th>Total Vacancies</th><td>50 (Approx.)</td></tr>
+<tr><th>Application Mode</th><td>Offline</td></tr>
+<tr><th>Start Date</th><td>14 July 2026</td></tr>
+<tr><th>Last Date</th><td>20 July 2026 (4:00 PM)</td></tr>
+<tr><th>Job Location</th><td>Baruipur Agricultural Experimental Farm, University of Calcutta</td></tr>
+<tr><th>Job Nature</th><td>Temporary & Contract Basis</td></tr>
+<tr><th>Official Website</th><td>caluniv.ac.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">There is <strong>no application fee</strong> for this recruitment.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas genuine 5+ saal ka agricultural field/farm/research experience hai, chahe aapki formal education limited ho — yeh job experience ko education se zyada value deti hai, jo un candidates ke liye ek rare opportunity hai jinke paas practical skill hai lekin high formal qualification nahi.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapke paas valid experience certificate nahi hai authorized authority se — sirf informal ya undocumented experience se application accept nahi hoga, isliye apply karne se pehle proper certificate arrange kar lein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Vacancies</th><th>Job Location</th><th>Nature of Job</th></tr>
+<tr><td>Agricultural Labour</td><td>50 (Approx.)</td><td>Baruipur Agricultural Experimental Farm</td><td>Temporary & Contract Basis</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Nationality</td><td>Indian Citizen</td></tr>
+<tr><td>Educational Qualification</td><td>No mandatory minimum educational qualification has been prescribed</td></tr>
+<tr><td>Preference</td><td>Candidates who have passed Class 8 from a recognized institution will be given preference</td></tr>
+<tr><td>Experience Required</td><td>Minimum 5 years of experience in Agricultural Field, Agricultural Farm, Agricultural Research Farm or similar agricultural work</td></tr>
+<tr><td>Experience Certificate</td><td>Mandatory - must be issued by Scientist, Principal Investigator, Farm Superintendent or concerned authority</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Experience certificate <strong>sirf authorized authority</strong> se hi accept hoga (Scientist/Principal Investigator/Farm Superintendent) — kisi doosre source se certificate reject ho sakta hai.</li>
+<li>Envelope pe exact wording likhein: <strong>"Application for Recruitment to Agricultural Labour Post under RUSA 2.0"</strong> — galat labeling se application delay ya miss ho sakta hai.</li>
+<li>Application sirf Registered/Speed Post ya personal submission se accept hoga — deadline (4:00 PM, 20 July) tak physically office pahunchna chahiye, courier date matter nahi karti.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Salary/Details</th></tr>
+<tr><td>Agricultural Labour</td><td>Daily Wages as per prevailing Government of West Bengal Rules</td></tr>
+<tr><td>Salary Type</td><td>Daily Wage Basis</td></tr>
+<tr><td>Employment Type</td><td>Temporary & Contractual</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Selection Method</td><td>Interview and/or Skill Test</td></tr>
+<tr><td>Eligibility Check</td><td>Based on application and document verification</td></tr>
+<tr><td>Final Decision</td><td>University of Calcutta</td></tr>
+<tr><td>Reservation</td><td>As per West Bengal Government Reservation Roster</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Download or obtain the prescribed offline application form issued by University of Calcutta.</li>
+<li>Fill in all personal details, educational qualification and work experience carefully.</li>
+<li>Attach self-attested copies of Age Proof, Educational Certificate (if available), Experience Certificate, Aadhaar/ID and Photograph.</li>
+<li>Ensure your experience certificate is issued by the authorized Scientist, Principal Investigator or Farm Superintendent.</li>
+<li>Write "Application for Recruitment to Agricultural Labour Post under RUSA 2.0" clearly on the envelope.</li>
+<li>Send by Registered/Speed Post or submit personally at the RUSA 2.0 Office.</li>
+<li>Address: Coordinator, RUSA 2.0, University of Calcutta, 87/1, College Street, Kolkata – 700073.</li>
+<li>Ensure the application reaches the office on or before 20 July 2026 (4:00 PM).</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the official RUSA 2.0 notification released by University of Calcutta. Since the vacancy count is approximate and no minimum age is specified, we recommend confirming exact details from the official notification PDF before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Application Form</td><td><a href="https://www.caluniv.ac.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.caluniv.ac.in" target="_blank">caluniv.ac.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. Calcutta University Agricultural Labour Vacancy 2026 में कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती में लगभग <strong>50 Agricultural Labour</strong> पदों पर नियुक्ति की जाएगी।</p>
+<h3>2. अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑफलाइन आवेदन जमा करने की अंतिम तिथि <strong>20 जुलाई 2026, शाम 4:00 बजे</strong> तक है।</p>
+<h3>3. क्या अनुभव होना जरूरी है?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ, कृषि क्षेत्र में कम से कम <strong>5 वर्ष का अनुभव</strong> तथा प्रमाण पत्र आवश्यक है।</p>
+<h3>4. न्यूनतम शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">कोई अनिवार्य न्यूनतम योग्यता नहीं है, लेकिन <strong>8वीं पास</strong> उम्मीदवारों को प्राथमिकता दी जाएगी।</p>
+<h3>5. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">पश्चिम बंगाल सरकार के नियमों के अनुसार <strong>Daily Wages</strong> दिए जाएंगे।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Calcutta University Agricultural Labour Vacancy 2026</strong> is a unique experience-first opportunity for candidates with genuine agricultural field experience. Prepare your experience certificate and submit your application well before <strong>20 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for Calcutta University Agricultural Labour Vacancy 2026</h2>
+<a href="https://www.caluniv.ac.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=gsssb-mphw-recruitment-2026">GSSSB MPHW Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=upsrtc-meerut-conductor-recruitment-2026">UPSRTC Meerut Conductor Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Calcutta University notification before applying.</p>
+`;
+JOB_CONTENT["upsrtc-meerut-conductor-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-14">Published: 14 July 2026</time> | Updated: 14 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">UPSRTC Meerut Conductor Vacancy 2026 – Apply Online for 66 Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🚌 UPSRTC Meerut Conductor Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Applications Closing Soon</span></p>
+<p style="font-size:19px;">Last Date to Apply : <strong>17 July 2026</strong></p>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Uttar Pradesh State Road Transport Corporation (UPSRTC)</strong> has invited online applications through the <strong>UP Rojgar Sangam (Sewayojan) Portal</strong> for <strong>66 Bus Conductor</strong> posts in <strong>Meerut district</strong> on an outsourcing basis.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications started on <strong>09 July 2026</strong> and will close on <strong>17 July 2026</strong>. Candidates need <strong>12th (Intermediate) Pass</strong> from a recognized board along with a <strong>CCC Computer Certificate</strong>, and must be registered on the Sewayojan Portal. There is <strong>no application fee</strong> for any category.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh recruitment cycle bahut chhota hai — sirf 8 din (09 se 17 July) — jo compared to aapki dekhi gayi doosri outsourcing recruitments (jaise Amethi ECCE 16 din, ya Rojgar Mela extended periods) mein exceptionally tight hai. Yeh CCC Certificate ko compulsorily prerequisite banata hai, na ki bonus qualification — matlab agar aapke paas already CCC nahi hai, toh is 8-din window mein last-minute arrange karna practically impossible hoga. UPSRTC ka pattern (Sewayojan Portal + outsourcing model) same hai jaisa aapne Anganwadi/ECCE recruitments mein dekha, jo confirm karta hai ki UP government multiple departments mein ek unified outsourcing hiring infrastructure use kar raha hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Uttar Pradesh State Road Transport Corporation (UPSRTC)</td></tr>
+<tr><th>Post Name</th><td>Bus Conductor</td></tr>
+<tr><th>Total Vacancies</th><td>66</td></tr>
+<tr><th>Application Mode</th><td>Online (Sewayojan Portal)</td></tr>
+<tr><th>Start Date</th><td>09 July 2026</td></tr>
+<tr><th>Last Date</th><td>17 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 40 Years</td></tr>
+<tr><th>Salary</th><td>As Per UPSRTC Outsourcing Norms</td></tr>
+<tr><th>Official Website</th><td>upsrtc.up.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">This recruitment is <strong>completely free</strong> for candidates of all categories - General, OBC, EWS, SC and ST.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas already 12th pass aur CCC certificate dono hain, aur aap Meerut region mein kaam karna chahte hain — is job mein multiple qualification barriers nahi hain, isliye process simple hai un candidates ke liye jinki eligibility complete hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Turant action lein agar:</strong> Aapke paas CCC certificate nahi hai lekin 12th pass hain — deadline sirf 3 din baad hai jab yeh notification publish hui, isliye is job ko miss karne se pehle apna CCC certificate arrange karne ki koshish turant karein, ya agli similar outsourcing recruitment ke liye abhi se prepare karein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Posts</th></tr>
+<tr><td>UPSRTC Bus Conductor (Meerut)</td><td>66</td></tr>
+<tr><th>Total</th><th>66 Posts</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Qualification</th><th>Details</th></tr>
+<tr><td>Essential Qualification</td><td>10+2 (Intermediate) Passed from a Recognized Board</td></tr>
+<tr><td>Computer Qualification</td><td>CCC Certificate Passed</td></tr>
+<tr><td>Registration</td><td>Registered on UP Rojgar Sangam (Sewayojan) Portal</td></tr>
+<tr><td>Additional Requirement</td><td>Candidate should update educational qualification and CCC details on the portal before applying</td></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Deadline sirf <strong>17 July</strong> hai — is job ko last minute ke liye bilkul na chhodein, kyunki poora cycle sirf 8 din ka hai.</li>
+<li>CCC Certificate details Sewayojan Portal profile mein pehle se update karke rakhein — application ke waqt yeh missing hone se process delay ho sakta hai.</li>
+<li>Apply karne se pehle confirm karein ki aap Sewayojan Portal pe already registered hain — naye registration mein time lag sakta hai jo tight deadline mein risk create karta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particular</th><th>Details</th></tr>
+<tr><td>Monthly Salary</td><td>As Per UPSRTC Outsourcing Norms</td></tr>
+<tr><td>Pay Type</td><td>Monthly Remuneration</td></tr>
+<tr><td>Other Benefits</td><td>As Per Outsourcing Agency Rules</td></tr>
+</table>
+<p style="font-size:16px;color:#666;">Note: The official notification does not mention the exact monthly salary.</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Application Screening</td><td>Online Application Verification</td></tr>
+<tr><td>Interview</td><td>As Per Schedule</td></tr>
+<tr><td>Document Verification</td><td>Original Documents Verification</td></tr>
+<tr><td>Final Selection</td><td>Based on Interview & Verification</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the UP Rojgar Sangam (Sewayojan) Portal.</li>
+<li>Register yourself if you are a new user.</li>
+<li>Complete your profile with educational and personal details.</li>
+<li>Update your CCC Certificate details in your profile.</li>
+<li>Search for UPSRTC Meerut Conductor Recruitment 2026.</li>
+<li>Read the official notification carefully.</li>
+<li>Click on Apply Online and fill in all required information.</li>
+<li>Review the application form before final submission.</li>
+<li>Submit the application form successfully.</li>
+<li>Download and print the final submitted application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with the district-specific notification on the Sewayojan Portal. Given the extremely tight 8-day application window, we strongly recommend completing your application immediately rather than waiting.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://sewayojan.up.nic.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://upsrtc.up.gov.in" target="_blank">upsrtc.up.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. UPSRTC Meerut Conductor Recruitment 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती के तहत बस कंडक्टर के कुल <strong>66 पदों</strong> पर आउटसोर्सिंग के माध्यम से भर्ती की जाएगी।</p>
+<h3>2. आवेदन की अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन करने की अंतिम तिथि <strong>17 जुलाई 2026</strong> निर्धारित की गई है।</p>
+<h3>3. क्या आवेदन शुल्क देना होगा?</h3>
+<p style="font-size:20px;line-height:1.8;">नहीं। सभी वर्गों के उम्मीदवारों के लिए आवेदन पूरी तरह <strong>निःशुल्क</strong> है।</p>
+<h3>4. योग्यता क्या होनी चाहिए?</h3>
+<p style="font-size:20px;line-height:1.8;">12वीं (Intermediate) पास तथा <strong>CCC कंप्यूटर प्रमाणपत्र</strong> अनिवार्य है।</p>
+<h3>5. क्या CCC सर्टिफिकेट अनिवार्य है?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ। यह अनिवार्य योग्यता का हिस्सा है और इसके बिना आवेदन नहीं किया जा सकता।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>UPSRTC Meerut Conductor Vacancy 2026</strong> is a quick-turnaround opportunity for 12th pass candidates with a CCC certificate in Meerut. Given the very short window, apply immediately through the Sewayojan Portal before <strong>17 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for UPSRTC Meerut Conductor Vacancy 2026</h2>
+<a href="https://sewayojan.up.nic.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=up-amethi-ecce-educator-recruitment-2026">UP Amethi ECCE Educator Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=up-rojgar-mela-recruitment-2026">UP Rojgar Mela 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official UPSRTC notification before applying.</p>
+`;
 JOB_CONTENT["upsssc-auditor-assistant-accountant-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
