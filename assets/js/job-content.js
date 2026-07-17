@@ -1,5 +1,508 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["nicl-assistant-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-17">Published: 17 July 2026</time> | Updated: 17 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">NICL Assistant Vacancy 2026 – Apply Online for 500 Assistant (Class III) Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🏢 NICL Assistant Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>18 July 2026 to 07 August 2026</strong></p>
+<a href="https://nationalinsurance.nic.co.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>National Insurance Company Limited (NICL)</strong> has released a short notification for <strong>Assistant (Class III)</strong> posts, offering <strong>500 vacancies</strong> — a strong opportunity for graduates preparing for government insurance sector jobs.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>18 July 2026</strong> and close on <strong>07 August 2026</strong>. Candidates need a <strong>Graduation degree in any discipline</strong> along with regional language proficiency. Selected candidates will get a pay scale of <strong>₹36,290 to ₹80,615</strong>, with an approximate monthly salary of <strong>₹63,000</strong> in metropolitan cities.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh sirf ek <strong>short notification</strong> hai — application fee abhi "To Be Announced" hai, jabki dates aur exam schedule already fixed hain (Phase-I: 27 August, Phase-II: 30 October). Yeh unusual hai kyunki fee details usually detailed notification ke saath hi aati hain, na ki short notice mein. 500 posts, "Any Discipline" graduation eligibility ke saath, is bhrti ko commerce, arts aur science teeno background wale candidates ke liye equally accessible banata hai — Insurance sector recruitments mein jo aksar sirf B.Com prefer karti hain, is comparison mein yeh kaafi open hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>National Insurance Company Limited (NICL)</td></tr>
+<tr><th>Post Name</th><td>Assistant (Class III)</td></tr>
+<tr><th>Total Vacancies</th><td>500</td></tr>
+<tr><th>Short Notification Release</th><td>17 July 2026</td></tr>
+<tr><th>Start Date</th><td>18 July 2026</td></tr>
+<tr><th>Last Date</th><td>07 August 2026</td></tr>
+<tr><th>Age Limit</th><td>21 to 30 Years</td></tr>
+<tr><th>Salary</th><td>₹36,290 – ₹80,615 (~₹63,000 in Metros)</td></tr>
+<tr><th>Official Website</th><td>nationalinsurance.nic.co.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Short Notification Release</td><td>17 July 2026</td></tr>
+<tr><td>Start Date</td><td>18 July 2026</td></tr>
+<tr><td>Last Date</td><td>07 August 2026</td></tr>
+<tr><td>Phase-I Online Examination</td><td>27 August 2026</td></tr>
+<tr><td>Phase-II Online Examination</td><td>30 October 2026</td></tr>
+<tr><td>Admit Card</td><td>To Be Notified</td></tr>
+<tr><td>Final Result</td><td>To Be Notified</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">The application fee has <strong>not been announced yet</strong> in this short notification. Details will be released in the detailed notification.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap kisi bhi discipline mein graduate hain aur ek stable PSU insurance sector job chahte hain — 500 posts ke saath yeh 2026 ke sabse bade bank/insurance-adjacent recruitments mein se ek hai, aur eligibility broad hone ki wajah se competition bhi wide spread hoga.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapko regional language nahi aati us state/UT ki jahan se aap apply karna chahte hain — regional language test ek mandatory stage hai, isliye state select karte waqt apni language proficiency zaroor dhyan mein rakhein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Posts</th></tr>
+<tr><td>Assistant (Class III)</td><td>500</td></tr>
+<tr><th>Total</th><th>500 Posts</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Qualification</th></tr>
+<tr><td>Assistant (Class III)</td><td>Graduation in any discipline from a recognized University or an equivalent qualification recognized by the Central Government</td></tr>
+<tr><td>Regional Language Requirement</td><td>Candidates must be able to read, write and speak the regional language of the State/UT for which they are applying</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Application fee "To Be Announced" hone ke bawajood apply karna deprioritize mat karein — dates already fixed hain, isliye detailed notification jald aane wali hai.</li>
+<li>State/UT select karte waqt regional language test ko halke mein mat lein — sirf reading/writing nahi, speaking bhi test ki jaati hai.</li>
+<li>Phase-I aur Phase-II exam dates ke beech ~2 mahine ka gap hai — isliye preparation ko sirf Phase-I tak limit mat rakhein, Phase-II ki bhi advance planning karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Particulars</th><th>Details</th></tr>
+<tr><td>Pay Scale</td><td>₹36,290 – ₹80,615</td></tr>
+<tr><td>Approximate Monthly Salary</td><td>₹63,000 (Metropolitan Cities)</td></tr>
+<tr><td>Other Benefits</td><td>DA, HRA, Transport Allowance, Medical Benefits, Leave Benefits and Other Allowances as per NICL Rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Phase-I Online Preliminary Examination</td></tr>
+<tr><td>Stage 2</td><td>Phase-II Online Main Examination</td></tr>
+<tr><td>Stage 3</td><td>Regional Language Test</td></tr>
+<tr><td>Stage 4</td><td>Pre-Employment Medical Examination</td></tr>
+<tr><th>Final Selection</th><th>Based on Main Examination, Language Test and Medical Fitness</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official NICL website.</li>
+<li>Go to the Recruitment/Careers section.</li>
+<li>Click on NICL Assistant Recruitment 2026.</li>
+<li>Read the detailed notification carefully before applying.</li>
+<li>Complete online registration with valid email ID and mobile number.</li>
+<li>Fill in all personal, educational and communication details correctly.</li>
+<li>Upload required documents, photograph and signature.</li>
+<li>Pay the application fee online (once announced).</li>
+<li>Review the application form carefully before final submission.</li>
+<li>Submit and download the final application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with NICL's short notification released on 17 July 2026. Since the application fee has not yet been disclosed, candidates should check the official website closer to the application start date for updated details.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://nationalinsurance.nic.co.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://nationalinsurance.nic.co.in" target="_blank">nationalinsurance.nic.co.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. NICL Assistant Vacancy 2026 के लिए आवेदन कब से शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन प्रक्रिया <strong>18 जुलाई 2026</strong> से शुरू होगी।</p>
+<h3>2. अंतिम आवेदन तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन करने की अंतिम तिथि <strong>07 अगस्त 2026</strong> निर्धारित की गई है।</p>
+<h3>3. कुल कितनी वैकेंसी हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के तहत <strong>500 Assistant (Class III)</strong> पदों पर नियुक्ति की जाएगी।</p>
+<h3>4. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">किसी भी विषय में स्नातक (Graduate) की डिग्री, साथ ही क्षेत्रीय भाषा का ज्ञान आवश्यक है।</p>
+<h3>5. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">₹36,290 से ₹80,615 के पे-स्केल के साथ महानगरों में लगभग <strong>₹63,000</strong> प्रति माह।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>NICL Assistant Vacancy 2026</strong> is one of the largest insurance sector recruitments this year, open to graduates of any discipline. Apply before <strong>07 August 2026</strong> and start Phase-I preparation early given the exam date is already fixed.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for NICL Assistant Vacancy 2026</h2>
+<a href="https://nationalinsurance.nic.co.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=idbi-bank-specialist-officer-recruitment-2026">IDBI Bank Specialist Officer Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=sbi-bank-medical-officer-recruitment-2026">SBI BMO Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official NICL notification before applying.</p>
+`;
+JOB_CONTENT["apsc-junior-manager-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-15">Published: 15 July 2026</time> | Updated: 15 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">APSC Junior Manager Vacancy 2026 – Apply Online for 31 Posts (APGCL)</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">⚡ APSC Junior Manager Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>22 July 2026 to 21 August 2026</strong></p>
+<a href="https://apscrecruitment.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Assam Public Service Commission (APSC)</strong> has released the official notification for <strong>Junior Manager</strong> posts at <strong>Assam Power Generation Corporation Limited (APGCL)</strong>, offering <strong>31 posts</strong> across five engineering disciplines.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>22 July 2026</strong> and close on <strong>21 August 2026</strong>, with fee payment accepted until <strong>23 August 2026</strong>. Candidates need a <strong>Full-Time Diploma</strong> in the relevant engineering discipline. Selected candidates will get a salary of <strong>₹25,000 to ₹92,000</strong> per month with <strong>₹12,100 Grade Pay</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Electrical akela hi 12 posts (39%) le raha hai, jo dikhata hai ki APGCL apne power generation infrastructure mein electrical engineering staff ko sabse zyada priority de raha hai — Civil (9) doosre spot pe hai. Yeh notification explicitly clarify karta hai ki sirf <strong>Assam ke permanent residents</strong> apply kar sakte hain (PRC ya Employment Exchange Certificate zaroor chahiye), jo iss job ko purely local candidates ke liye reserve karta hai. Application fee bahut nominal hai (₹47 se ₹297 tak), jo confirm karta hai ki yeh entry barrier financial nahi, balki domicile aur diploma-specific hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Assam Public Service Commission (APSC) for APGCL</td></tr>
+<tr><th>Post Name</th><td>Junior Manager</td></tr>
+<tr><th>Total Vacancies</th><td>31</td></tr>
+<tr><th>Notification Release</th><td>15 July 2026</td></tr>
+<tr><th>Start Date</th><td>22 July 2026</td></tr>
+<tr><th>Last Date</th><td>21 August 2026</td></tr>
+<tr><th>Fee Payment Last Date</th><td>23 August 2026</td></tr>
+<tr><th>Age Limit</th><td>21 to 38 Years</td></tr>
+<tr><th>Salary</th><td>₹25,000 – ₹92,000 + ₹12,100 Grade Pay</td></tr>
+<tr><th>Official Website</th><td>apscrecruitment.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General</td><td>₹297.20</td></tr>
+<tr><td>OBC/MOBC</td><td>₹197.20</td></tr>
+<tr><td>SC/ST/BPL/PwBD</td><td>₹47.20</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap Assam ke permanent resident hain aur AICTE/Government approved Polytechnic se Electrical, Mechanical, Civil, Instrumentation ya IT mein Diploma kiya hai — Electrical stream mein 12 posts ke saath yeh discipline-wise sabse strong opportunity hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapke paas Assam ka Permanent Resident Certificate (PRC) nahi hai — yeh mandatory hai, non-domicile candidates apply hi nahi kar sakte, chahe unki qualification kitni bhi strong ho.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Discipline-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Discipline</th><th>Vacancies</th></tr>
+<tr><td>Electrical</td><td>12</td></tr>
+<tr><td>Mechanical</td><td>6</td></tr>
+<tr><td>Information Technology</td><td>2</td></tr>
+<tr><td>Instrumentation</td><td>2</td></tr>
+<tr><td>Civil</td><td>9</td></tr>
+<tr><th>Total</th><th>31 Posts</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post/Discipline</th><th>Required Qualification</th></tr>
+<tr><td>Junior Manager (Electrical)</td><td>Full-Time Diploma in Electrical Engineering / Electrical & Electronics Engineering</td></tr>
+<tr><td>Junior Manager (Mechanical)</td><td>Full-Time Diploma in Mechanical Engineering</td></tr>
+<tr><td>Junior Manager (Information Technology)</td><td>Full-Time Diploma in Computer Science Engineering / IT / Computer Technology</td></tr>
+<tr><td>Junior Manager (Instrumentation)</td><td>Full-Time Diploma in Instrumentation Engineering</td></tr>
+<tr><td>Junior Manager (Civil)</td><td>Full-Time Diploma in Civil Engineering</td></tr>
+<tr><td>Minimum Marks</td><td>60% Marks (50% for SC/ST Candidates)</td></tr>
+<tr><td>Institution</td><td>Government / Government Recognized / AICTE Approved Polytechnic</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>PRC (Permanent Resident Certificate) ya Employment Exchange Registration Certificate upload karna <strong>mandatory hai</strong> — is document ke bina application incomplete rahega.</li>
+<li>60% marks (General) vs 50% (SC/ST) - apna exact category-wise cutoff confirm karein apply karne se pehle.</li>
+<li>Application last date (21 August) aur fee payment last date (23 August) alag hain — dono ko confuse mat karein, application submit karne ke baad hi fee payment karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Component</th><th>Details</th></tr>
+<tr><td>Pay Scale</td><td>₹25,000 – ₹92,000 per Month</td></tr>
+<tr><td>Grade Pay</td><td>₹12,100</td></tr>
+<tr><td>Other Benefits</td><td>DA, HRA and Other Government Allowances as per Assam Government Rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Application Scrutiny</td></tr>
+<tr><td>Stage 2</td><td>Written Examination / Test (If Conducted)</td></tr>
+<tr><td>Stage 3</td><td>Interview / Viva-Voce (If Applicable)</td></tr>
+<tr><td>Stage 4</td><td>Document Verification</td></tr>
+<tr><td>Stage 5</td><td>Medical Examination</td></tr>
+<tr><th>Final Selection</th><th>Based on APSC Selection Process and Merit</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official APSC Recruitment portal.</li>
+<li>Complete the One Time Registration (OTR) if you are a new user.</li>
+<li>Log in using your registered Email ID/Mobile Number and Password.</li>
+<li>Open the Junior Manager (APGCL) Recruitment 2026 application form.</li>
+<li>Fill in all personal, educational and communication details carefully.</li>
+<li>Upload required documents, photograph and signature.</li>
+<li>Verify all entered details before final submission.</li>
+<li>Pay the application fee according to your category.</li>
+<li>Submit the application form successfully.</li>
+<li>Download and print the final submitted application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with APSC's official notification released on 15 July 2026. Since only Assam permanent residents are eligible, candidates should ensure their PRC or Employment Exchange Certificate is ready before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://apscrecruitment.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://apscrecruitment.in" target="_blank">apscrecruitment.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. APSC Junior Manager Vacancy 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के तहत कुल <strong>31 जूनियर मैनेजर</strong> पदों पर भर्ती की जाएगी।</p>
+<h3>2. आवेदन कब शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन प्रक्रिया <strong>22 जुलाई 2026</strong> से शुरू होगी, अंतिम तिथि <strong>21 अगस्त 2026</strong> है।</p>
+<h3>3. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">संबंधित ट्रेड में AICTE/Government Approved Polytechnic से <strong>Full-Time Diploma in Engineering</strong>।</p>
+<h3>4. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">₹25,000 से ₹92,000 प्रति माह, ₹12,100 <strong>ग्रेड पे</strong> के साथ।</p>
+<h3>5. क्या केवल असम के स्थायी निवासी ही आवेदन कर सकते हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ। PRC या Employment Exchange Registration Certificate अपलोड करना अनिवार्य है।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>APSC Junior Manager Vacancy 2026</strong> offers Assam-based Diploma engineers a solid career opportunity at APGCL. Apply before <strong>21 August 2026</strong> and ensure your domicile documents are ready.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for APSC Junior Manager Vacancy 2026</h2>
+<a href="https://apscrecruitment.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=ncl-mining-sirdar-surveyor-recruitment-2026">Northern Coalfields Limited Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=avnl-executive-non-executive-recruitment-2026">AVNL Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official APSC notification before applying.</p>
+`;
+JOB_CONTENT["aiims-bilaspur-senior-resident-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-15">Published: 15 July 2026</time> | Updated: 15 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">AIIMS Bilaspur Senior Resident Vacancy 2026 – Walk-In for 70 Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🏥 AIIMS Bilaspur Senior Resident Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Walk-In Interview</span></p>
+<p style="font-size:19px;">Walk-In Date : <strong>21 July 2026 (Report by 9:00 AM)</strong></p>
+<a href="https://www.aiimsbilaspur.edu.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>All India Institute of Medical Sciences (AIIMS), Bilaspur</strong> has released the official notification for <strong>Senior Resident (Non-Academic)</strong> posts, offering <strong>70 posts</strong> across Broad Specialty (43) and Super Specialty (27) departments.</p>
+
+<p style="font-size:20px;line-height:1.9;">This recruitment will be conducted through a <strong>Walk-In Interview</strong> — no online application is required. Eligible candidates must report to the AIIMS Bilaspur Recruitment Cell on or before <strong>09:00 AM on 21 July 2026</strong>; candidates reporting after 10:00 AM will not be allowed entry. Medical candidates will get Level-11 salary of <strong>₹67,700</strong> per month plus NPA, while non-medical candidates will get Level-10 salary of <strong>₹56,100</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Yeh notification se lekar walk-in tak sirf <strong>6 din</strong> ka window hai (15 se 21 July) — jo AIIMS Senior Resident recruitments mein typical hai, kyunki yeh session-based, urgent staffing needs hoti hain. Interesting baat yeh hai ki non-medical candidates (M.Sc./M.Biotech + Ph.D.) bhi eligible hain kuch specific departments (Anatomy, Biochemistry, Pharmacology, Clinical Immunology & Rheumatology) ke liye — yeh AIIMS ke basic science aur research-heavy departments mein staffing gap ko reflect karta hai. UR aur OBC dono 22-22 posts (equal) ke saath top categories hain, jo balanced category distribution dikhata hai is recruitment mein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>All India Institute of Medical Sciences (AIIMS), Bilaspur</td></tr>
+<tr><th>Post Name</th><td>Senior Resident (Non-Academic)</td></tr>
+<tr><th>Total Vacancies</th><td>70</td></tr>
+<tr><th>Application Mode</th><td>Walk-In Interview</td></tr>
+<tr><th>Notification Release</th><td>15 July 2026</td></tr>
+<tr><th>Walk-In Interview Date</th><td>21 July 2026</td></tr>
+<tr><th>Reporting Time</th><td>On or Before 09:00 AM</td></tr>
+<tr><th>Maximum Age</th><td>45 Years</td></tr>
+<tr><th>Salary</th><td>₹56,100 – ₹67,700 (Depending on Category)</td></tr>
+<tr><th>Official Website</th><td>aiimsbilaspur.edu.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General / OBC / EWS</td><td>₹1,180 (₹1,000 + 18% GST)</td></tr>
+<tr><td>SC, ST, PwBD</td><td>Nil</td></tr>
+<tr><td>Payment Mode</td><td>NEFT</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap MBBS ke saath MD/MS/DNB/DM/MCh hain kisi Broad ya Super Specialty mein, ya M.Sc./Ph.D. hain Anatomy/Biochemistry/Pharmacology jaise basic science subjects mein — dono track eligible hain, aur walk-in format mein selection process traditional online applications se kaafi tez hota hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Turant action lein agar:</strong> Aap interested hain lekin abhi tak documents ready nahi kiye — sirf 6 din ka gap hai notification se walk-in tak, isliye original certificates aur Medical Council Registration abhi se assemble karna shuru karein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Department-Wise & Category-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Department</th><th>Total Posts</th></tr>
+<tr><td>Broad Specialty</td><td>43</td></tr>
+<tr><td>Super Specialty</td><td>27</td></tr>
+<tr><th>Grand Total</th><th>70</th></tr>
+</table>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;margin-top:15px;">
+<tr><th>Category</th><th>Vacancies</th></tr>
+<tr><td>UR</td><td>22</td></tr>
+<tr><td>OBC</td><td>22</td></tr>
+<tr><td>SC</td><td>09</td></tr>
+<tr><td>ST</td><td>07</td></tr>
+<tr><td>EWS</td><td>10</td></tr>
+<tr><th>Total</th><th>70</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Senior Resident (Medical)</td><td>MBBS with MD/MS/DNB/DM/MCh in the relevant specialty + valid Medical Council Registration</td></tr>
+<tr><td>Senior Resident (Anatomy/Biochemistry/Pharmacology - Non-Medical)</td><td>M.Sc./M.Biotech in the relevant subject with Ph.D. in the concerned/allied subject</td></tr>
+<tr><td>Clinical Immunology & Rheumatology (Non-Medical)</td><td>M.Sc./M.Biotech with Ph.D. in Immunology/Rheumatology or allied subject</td></tr>
+<tr><td>Registration</td><td>Medical candidates must possess valid State/Central Medical Council Registration</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li><strong>10:00 AM ke baad entry allowed nahi hai</strong> — isliye Bilaspur travel plan karte waqt buffer time zaroor rakhein, especially agar aap doosre city se aa rahe hain.</li>
+<li>NEFT fee payment receipt safely save karein — isके bina document verification incomplete rahega.</li>
+<li>Non-medical candidates apna Ph.D. subject ko exact matching department se align karein (Anatomy/Biochemistry/Pharmacology/Immunology) — mismatch se application reject ho sakta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Candidate Type</th><th>Pay Level</th><th>Salary</th></tr>
+<tr><td>Medical Candidates (MD/MS/DNB/DM/MCh)</td><td>Level-11</td><td>₹67,700 + NPA + Allowances</td></tr>
+<tr><td>Non-Medical Candidates (M.Sc. + Ph.D.)</td><td>Level-10</td><td>₹56,100 + Allowances</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Document Verification</td><td>Verification of Original Documents</td></tr>
+<tr><td>Screening</td><td>Shortlisting by Screening Committee</td></tr>
+<tr><td>Walk-In Interview</td><td>Personal Interview</td></tr>
+<tr><td>Medical Fitness</td><td>Medical Examination after Selection</td></tr>
+<tr><th>Final Merit</th><th>Based on Interview Performance and Eligibility</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Walk-In)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Read the official AIIMS Bilaspur Recruitment 2026 notification carefully.</li>
+<li>Download and fill the prescribed application form.</li>
+<li>Pay the application fee through NEFT (if applicable) and keep the receipt.</li>
+<li>Attach self-attested copies of all required documents.</li>
+<li>Carry original certificates for verification.</li>
+<li>Reach the Recruitment Cell, 3rd Floor, Administrative Block, AIIMS Bilaspur, Kothipura, Himachal Pradesh.</li>
+<li>Report on or before 09:00 AM on 21 July 2026.</li>
+<li>Submit your documents and application form during document verification.</li>
+<li>Appear for the Walk-in Interview. Candidates reporting after 10:00 AM will not be allowed.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with AIIMS Bilaspur's official notification released on 15 July 2026. Given the strict 10:00 AM cut-off, candidates should plan their travel and document assembly well in advance.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Application Form</td><td><a href="https://www.aiimsbilaspur.edu.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.aiimsbilaspur.edu.in" target="_blank">aiimsbilaspur.edu.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. AIIMS Bilaspur Senior Resident Recruitment 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">कुल <strong>70 पद</strong>, जिनमें 43 Broad Specialty और 27 Super Specialty हैं।</p>
+<h3>2. आवेदन कैसे करना होगा?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन की आवश्यकता नहीं है, उम्मीदवारों को <strong>वॉक-इन इंटरव्यू</strong> में उपस्थित होना होगा।</p>
+<h3>3. Walk-in Interview कब होगा?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>21 जुलाई 2026</strong> को, सुबह 9:00 बजे तक रिपोर्ट करना होगा।</p>
+<h3>4. अधिकतम आयु सीमा क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">अधिकतम आयु <strong>45 वर्ष</strong> निर्धारित की गई है।</p>
+<h3>5. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">Medical candidates को <strong>₹67,700</strong> (Level-11), Non-Medical को <strong>₹56,100</strong> (Level-10)।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>AIIMS Bilaspur Senior Resident Vacancy 2026</strong> offers a quick, walk-in based pathway for both medical and eligible non-medical candidates. Prepare your documents and reach the venue well before <strong>21 July 2026, 9:00 AM</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Attend AIIMS Bilaspur Senior Resident Walk-In</h2>
+<a href="https://www.aiimsbilaspur.edu.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=aiims-bhubaneswar-senior-resident-recruitment-2026">AIIMS Bhubaneswar Senior Resident Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=aiims-capfims-assistant-professor-recruitment-2026">AIIMS CAPFIMS Assistant Professor Recruitment 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AIIMS Bilaspur notification before applying.</p>
+`;
 JOB_CONTENT["gsssb-mphw-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">

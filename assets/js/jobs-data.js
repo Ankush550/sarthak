@@ -1,6 +1,190 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"nicl-assistant-recruitment-2026",
+    orgWebsite:"https://nationalinsurance.nic.co.in",
+    title:"NICL Assistant Vacancy 2026",
+    shortTitle:"NICL Assistant Online Form 2026",
+    organization:"National Insurance Company Limited (NICL)",
+    image:"NICLAssistant.jpeg",
+
+    totalPosts:500,
+
+    lastDate:"2026-08-07",
+    lastDateDisplay:"07 August 2026",
+
+    datePosted:"2026-07-17",
+    validThrough:"2026-08-07T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:36290,
+    salaryMax:80615,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India",
+    addressLocality:"Kolkata",
+    addressRegion:"West Bengal",
+    addressCountry:"IN",
+
+    qualification:"Graduation in Any Discipline",
+
+    ageLimit:"21 to 30 Years",
+
+    applyLink:"https://nationalinsurance.nic.co.in",
+    officialNotification:"https://nationalinsurance.nic.co.in",
+
+    fee:"To Be Announced",
+
+    description:"National Insurance Company Limited (NICL) has released a short notification for Assistant (Class III) posts, offering 500 vacancies. Online applications will start on 18 July 2026 and close on 07 August 2026. Candidates need a Graduation degree in any discipline along with regional language proficiency for the state/UT applied for. Selection includes Phase-I Online Preliminary Examination (27 August 2026), Phase-II Online Main Examination (30 October 2026), Regional Language Test and Pre-Employment Medical Examination. Selected candidates will get a pay scale of Rs. 36,290 to Rs. 80,615, with an approximate monthly salary of Rs. 63,000 in metropolitan cities.",
+
+    category:"Insurance Jobs",
+    jobType:"Assistant (Class III)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-18",
+    applicationEndDate:"2026-08-07",
+
+    examDate:"27 August 2026 (Phase-I)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Assistant (Class III)", totalPosts:500}
+    ],
+
+    tags:["NICL Assistant Vacancy 2026","National Insurance Company Recruitment","NICL Class III Jobs","NICL 500 Posts","Insurance Sector Government Jobs","NICL Phase I Phase II Exam","NICL Assistant Online Form"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"apsc-junior-manager-recruitment-2026",
+    orgWebsite:"https://apscrecruitment.in",
+    title:"APSC Junior Manager Vacancy 2026",
+    shortTitle:"APSC Junior Manager (APGCL) Online Form 2026",
+    organization:"Assam Public Service Commission (APSC) for APGCL",
+    image:"APSCJuniorManager.jpeg",
+
+    totalPosts:31,
+
+    lastDate:"2026-08-21",
+    lastDateDisplay:"21 August 2026",
+
+    datePosted:"2026-07-15",
+    validThrough:"2026-08-21T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:25000,
+    salaryMax:92000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Assam",
+    addressLocality:"Guwahati",
+    addressRegion:"Assam",
+    addressCountry:"IN",
+
+    qualification:"Full-Time Diploma in Electrical/Mechanical/Civil/Instrumentation/Information Technology Engineering",
+
+    ageLimit:"21 to 38 Years",
+
+    applyLink:"https://apscrecruitment.in",
+    officialNotification:"https://apscrecruitment.in",
+
+    fee:"General: Rs. 297.20 | OBC/MOBC: Rs. 197.20 | SC/ST/BPL/PwBD: Rs. 47.20",
+
+    description:"Assam Public Service Commission (APSC) has released the official notification for Junior Manager posts at Assam Power Generation Corporation Limited (APGCL), offering 31 posts across Electrical, Mechanical, Civil, Instrumentation and Information Technology disciplines. Online applications will start on 22 July 2026 and close on 21 August 2026, with fee payment accepted until 23 August 2026. Candidates need a Full-Time Diploma in the relevant engineering discipline from a Government/AICTE-approved Polytechnic with minimum 60% marks (50% for SC/ST). Only permanent residents of Assam are eligible. Selected candidates will get a salary of Rs. 25,000 to Rs. 92,000 per month with Rs. 12,100 Grade Pay.",
+
+    category:"Assam Government Jobs",
+    jobType:"Junior Manager",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-22",
+    applicationEndDate:"2026-08-21",
+
+    examDate:"To Be Announced",
+    interviewDate:"To Be Announced (If Applicable)",
+
+    postDetails:[
+        {postName:"Junior Manager (Electrical)", totalPosts:12},
+        {postName:"Junior Manager (Mechanical)", totalPosts:6},
+        {postName:"Junior Manager (Information Technology)", totalPosts:2},
+        {postName:"Junior Manager (Instrumentation)", totalPosts:2},
+        {postName:"Junior Manager (Civil)", totalPosts:9}
+    ],
+
+    tags:["APSC Junior Manager Vacancy 2026","APGCL Recruitment 2026","Assam Diploma Engineer Jobs","APSC Junior Manager Electrical Mechanical Civil","Assam Power Generation Corporation Jobs","APSC OTR Junior Manager","Assam Government Diploma Jobs"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"aiims-bilaspur-senior-resident-recruitment-2026",
+    orgWebsite:"https://www.aiimsbilaspur.edu.in",
+    title:"AIIMS Bilaspur Senior Resident Vacancy 2026",
+    shortTitle:"AIIMS Bilaspur Senior Resident Walk-In 2026",
+    organization:"All India Institute of Medical Sciences (AIIMS), Bilaspur",
+    image:"AIIMSBilaspurSeniorResident.jpeg",
+
+    totalPosts:70,
+
+    lastDate:"2026-07-21",
+    lastDateDisplay:"21 July 2026 (Walk-In)",
+
+    datePosted:"2026-07-15",
+    validThrough:"2026-07-21T09:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:56100,
+    salaryMax:67700,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Bilaspur, Himachal Pradesh",
+    addressLocality:"Bilaspur",
+    addressRegion:"Himachal Pradesh",
+    addressCountry:"IN",
+
+    qualification:"MBBS with MD/MS/DNB/DM/MCh (Medical) OR M.Sc./M.Biotech with Ph.D. (Non-Medical)",
+
+    ageLimit:"Up to 45 Years",
+
+    applyLink:"https://www.aiimsbilaspur.edu.in",
+    officialNotification:"https://www.aiimsbilaspur.edu.in",
+
+    fee:"General/OBC/EWS: Rs. 1,180 (Inclusive of GST) | SC/ST/PwBD: Nil",
+
+    description:"All India Institute of Medical Sciences (AIIMS), Bilaspur has released the official notification for Senior Resident (Non-Academic) posts, offering 70 posts across Broad Specialty (43 posts) and Super Specialty (27 posts) departments. This recruitment will be conducted through a Walk-In Interview - no online application is required. Eligible candidates must report to the AIIMS Bilaspur Recruitment Cell on or before 09:00 AM on 21 July 2026, with candidates reporting after 10:00 AM not being allowed entry. Selection includes Document Verification, Screening, Walk-In Interview and Medical Fitness check. Medical candidates (MD/MS/DNB/DM/MCh) will get Level-11 salary of Rs. 67,700 per month plus NPA, while non-medical candidates (M.Sc. with Ph.D.) will get Level-10 salary of Rs. 56,100 per month.",
+
+    category:"Medical Jobs",
+    jobType:"Senior Resident (Non-Academic)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-15",
+    applicationEndDate:"2026-07-21",
+
+    examDate:"Not Applicable",
+    interviewDate:"21 July 2026 (Walk-In, Report by 9:00 AM)",
+
+    postDetails:[
+        {category:"Broad Specialty", totalPosts:43},
+        {category:"Super Specialty", totalPosts:27}
+    ],
+
+    tags:["AIIMS Bilaspur Senior Resident Vacancy 2026","AIIMS Bilaspur Walk-In Interview","Senior Resident Non-Academic Jobs","AIIMS Himachal Pradesh Recruitment","MD MS DNB DM MCh Jobs","AIIMS Bilaspur 70 Posts","AIIMS Senior Resident Broad Super Specialty"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"upsrtc-meerut-conductor-recruitment-2026",
     orgWebsite:"https://upsrtc.up.gov.in",
     title:"UPSRTC Meerut Conductor Vacancy 2026",
