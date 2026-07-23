@@ -1,6 +1,310 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"bmc-cooper-hospital-recruitment-2026",
+    orgWebsite:"https://www.mcgm.gov.in",
+    title:"BMC Cooper Hospital Vacancy 2026",
+    shortTitle:"BMC Cooper Hospital Offline Form 2026",
+    organization:"Brihanmumbai Municipal Corporation (BMC)",
+    image:"BMCCooperHospital.jpeg",
+
+    totalPosts:115,
+
+    lastDate:"2026-07-30",
+    lastDateDisplay:"30 July 2026",
+
+    datePosted:"2026-07-22",
+    validThrough:"2026-07-30T16:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:15000,
+    salaryMax:18000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Juhu, Mumbai, Maharashtra",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"10th Pass + ITI (Post Wise)",
+
+    ageLimit:"18 to 45 Years",
+
+    applyLink:"https://www.mcgm.gov.in",
+    officialNotification:"https://www.mcgm.gov.in",
+
+    fee:"All Candidates: Rs. 1,028 (Including GST, Non-Refundable)",
+
+    description:"Brihanmumbai Municipal Corporation (BMC), under Hind Hridaysamrat Balasaheb Thackeray Medical College and Dr. R.N. Cooper Hospital, Juhu, has released the official notification for 115 contractual posts across 24 categories, including Sweeper, Wireman, Ward Attendant, Ayah, Laboratory Attendant, Electrician, Gardener, Porter and Tailor. Eligible candidates must submit their application offline in-person between 22 July 2026 and 30 July 2026 (11:00 AM to 4:00 PM). Candidates need 10th Pass, with ITI/trade certification required for technical posts. Selection includes application scrutiny, merit list preparation, interview, trade/skill test and document verification. Selected candidates will get consolidated salary of Rs. 15,000 to Rs. 18,000 per month.",
+
+    category:"Maharashtra Government Jobs",
+    jobType:"Sweeper, Ward Attendant, Ayah, Wireman, Electrician, Laboratory Attendant & More",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-22",
+    applicationEndDate:"2026-07-30",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Laboratory Attendant", totalPosts:7},
+        {postName:"Laboratory Servant", totalPosts:3},
+        {postName:"Electrician", totalPosts:1},
+        {postName:"Wireman", totalPosts:1},
+        {postName:"Lift Operator", totalPosts:3},
+        {postName:"Lift Operator & Wireman-III & Pump Operator", totalPosts:1},
+        {postName:"Wireman-III & Lift Operator & Pump Operator", totalPosts:1},
+        {postName:"Training Assistant", totalPosts:5},
+        {postName:"Sweeper", totalPosts:31},
+        {postName:"Ward Attendant", totalPosts:12},
+        {postName:"Ward Servant", totalPosts:2},
+        {postName:"Ayah (Nursing Attendant)", totalPosts:22},
+        {postName:"Gardener & Sweeper", totalPosts:3},
+        {postName:"Gardener", totalPosts:3},
+        {postName:"Sweeper & Halalkhor", totalPosts:1},
+        {postName:"Porter", totalPosts:2},
+        {postName:"Porter & Worker", totalPosts:1},
+        {postName:"Worker", totalPosts:2},
+        {postName:"Ambulance Attendant", totalPosts:2},
+        {postName:"Hearse Attendant & Halalkhor & Ambulance Attendant", totalPosts:5},
+        {postName:"Dresser (Wound Care Attendant)", totalPosts:2},
+        {postName:"Barber", totalPosts:2},
+        {postName:"Assistant/Helper", totalPosts:1},
+        {postName:"Tailor", totalPosts:2}
+    ],
+
+    tags:["BMC Cooper Hospital Vacancy 2026","Cooper Hospital Juhu Recruitment","BMC 10th Pass Jobs","BMC Sweeper Ward Attendant Jobs","Mumbai Municipal Hospital Jobs","BMC Offline Application 2026","Cooper Hospital 115 Posts"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"aai-manager-junior-executive-recruitment-2026",
+    orgWebsite:"https://www.aai.aero",
+    title:"AAI Manager & Junior Executive Vacancy 2026",
+    shortTitle:"AAI Manager Junior Executive Online Form 2026",
+    organization:"Airports Authority of India (AAI)",
+    image:"AAIManagerJuniorExecutive.jpeg",
+
+    totalPosts:395,
+
+    lastDate:"2026-09-07",
+    lastDateDisplay:"07 September 2026",
+
+    datePosted:"2026-07-22",
+    validThrough:"2026-09-07T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:40000,
+    salaryMax:180000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (AAI Airports)",
+    addressLocality:"New Delhi",
+    addressRegion:"Delhi",
+    addressCountry:"IN",
+
+    qualification:"Engineering, MBA, CA, CMA, CFA, MCA, Law, Architecture, Statistics, Journalism, Geography, Remote Sensing (Post Wise)",
+
+    ageLimit:"Manager: Up to 32 Years | Junior Executive: Up to 27 Years",
+
+    applyLink:"https://www.aai.aero",
+    officialNotification:"https://www.aai.aero",
+
+    fee:"As per Official Notification",
+
+    description:"Airports Authority of India (AAI) has released the official notification (Advt. No. 12/2026/CHQ/DR-CBT) for 395 Manager and Junior Executive posts across disciplines including Civil, Electrical, Finance, IT, Architecture, Law, Fire Services, Operations, Commercial, Corporate Communications, and Survey & Cartography. Online applications will start on 08 August 2026 and close on 07 September 2026. Manager posts require 3 years of relevant experience, while Junior Executive posts are for direct entry with the required qualification. Selection includes a Computer Based Test (CBT), Application Verification, Interview (for applicable posts), Document Verification and Medical Examination. Selected candidates will get Manager (E-3) salary of Rs. 60,000 to Rs. 1,80,000 (~Rs. 21 lakh CTC) or Junior Executive (E-1) salary of Rs. 40,000 to Rs. 1,40,000 (~Rs. 14 lakh CTC).",
+
+    category:"PSU Jobs",
+    jobType:"Manager, Junior Executive (Various Disciplines)",
+
+    advertisementNo:"12/2026/CHQ/DR-CBT",
+
+    applicationStartDate:"2026-08-08",
+    applicationEndDate:"2026-09-07",
+
+    examDate:"To Be Announced (CBT)",
+    interviewDate:"To Be Announced (For Applicable Posts)",
+
+    postDetails:[
+        {postName:"Manager (Engineering-Civil)", totalPosts:145},
+        {postName:"Manager (Engineering-Electrical)", totalPosts:16},
+        {postName:"Manager (Finance)", totalPosts:34},
+        {postName:"Manager (Information Technology)", totalPosts:5},
+        {postName:"Manager (Architecture)", totalPosts:4},
+        {postName:"Manager (Law)", totalPosts:2},
+        {postName:"Manager (Fire Services)", totalPosts:14},
+        {postName:"Manager (Operations)", totalPosts:28},
+        {postName:"Manager (Commercial)", totalPosts:9},
+        {postName:"Manager (Corporate Planning & Management Services)", totalPosts:1},
+        {postName:"Manager (Corporate Communications)", totalPosts:2},
+        {postName:"Junior Executive (Finance)", totalPosts:36},
+        {postName:"Junior Executive (Law)", totalPosts:6},
+        {postName:"Junior Executive (Operations)", totalPosts:79},
+        {postName:"Junior Executive (Survey & Cartography)", totalPosts:8}
+    ],
+
+    tags:["AAI Manager Junior Executive Vacancy 2026","Airports Authority of India Recruitment","AAI 395 Posts","AAI Civil Electrical Finance Jobs","AAI CBT Recruitment 2026","AAI Advt 12 2026 CHQ","Airport Jobs India 2026"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"jssc-jtaacce-para-teacher-recruitment-2026",
+    orgWebsite:"https://jssc.jharkhand.gov.in",
+    title:"JSSC JTAACCE Para Teacher Vacancy 2026",
+    shortTitle:"JSSC Para Teacher Online Form 2026",
+    organization:"Jharkhand Staff Selection Commission (JSSC)",
+    image:"JSSCParaTeacher.jpeg",
+
+    totalPosts:7299,
+
+    lastDate:"2026-08-30",
+    lastDateDisplay:"30 August 2026",
+
+    datePosted:"2026-07-22",
+    validThrough:"2026-08-30T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    location:"Jharkhand",
+    addressLocality:"Ranchi",
+    addressRegion:"Jharkhand",
+    addressCountry:"IN",
+
+    qualification:"Prescribed Educational Qualification + Valid JTET/CTET Certificate",
+
+    ageLimit:"21 to 35 Years",
+
+    applyLink:"https://jssc.jharkhand.gov.in",
+    officialNotification:"https://jssc.jharkhand.gov.in",
+
+    fee:"UR/EWS/EBC-I/BC-II: Rs. 100 | SC/ST (Jharkhand Domicile): Rs. 50 | PwBD (40%+): Nil",
+
+    description:"Jharkhand Staff Selection Commission (JSSC) has released the official notification for JTAACCE Para Teacher Vacancy 2026, inviting applications for 7,299 Trained Assistant Teacher (Para Teacher Category) posts, comprising 6,101 regular and 1,198 backlog posts. Online applications will start on 31 July 2026 and close on 30 August 2026, with fee payment accepted until 01 September 2026. Candidates need the prescribed educational qualification along with a valid JTET/CTET certificate. Selection includes a Main Written Examination, Answer Sheet Evaluation, Merit List Preparation, Document Verification and Verification of Educational Qualification/JTET-CTET Certificate. Salary will be as per Jharkhand Government rules.",
+
+    category:"Jharkhand Government Jobs",
+    jobType:"Trained Assistant Teacher (Para Teacher)",
+
+    advertisementNo:"JTAACCE-2026",
+
+    applicationStartDate:"2026-07-31",
+    applicationEndDate:"2026-08-30",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Regular Trained Assistant Teacher Posts", totalPosts:6101},
+        {postName:"Backlog Trained Assistant Teacher Posts", totalPosts:1198}
+    ],
+
+    tags:["JSSC Para Teacher Vacancy 2026","JTAACCE Para Teacher Recruitment","Jharkhand Teacher Bharti 2026","JSSC 7299 Posts","JTET CTET Teacher Jobs","Jharkhand Trained Assistant Teacher","JSSC Para Teacher Online Form"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"cmho-raipur-nhm-recruitment-2026",
+    orgWebsite:"https://raipur.gov.in",
+    title:"CMHO Raipur Vacancy 2026",
+    shortTitle:"CMHO Raipur NHM Walk-In 2026",
+    organization:"Office of Chief Medical and Health Officer (CMHO), District Raipur",
+    image:"CMHORaipur.jpeg",
+
+    totalPosts:206,
+
+    lastDate:"2026-08-31",
+    lastDateDisplay:"District-Wise Walk-In (28 July to 31 August 2026)",
+
+    datePosted:"2026-07-22",
+    validThrough:"2026-08-31T09:00:00+05:30",
+
+    employmentType:"CONTRACTOR",
+
+    salaryMin:8800,
+    salaryMax:31500,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Raipur, Chhattisgarh",
+    addressLocality:"Raipur",
+    addressRegion:"Chhattisgarh",
+    addressCountry:"IN",
+
+    qualification:"8th Pass, 10th Pass, 12th Pass, Graduate or PG Degree/Diploma (Post Wise)",
+
+    ageLimit:"18 to 64 Years",
+
+    applyLink:"https://raipur.gov.in",
+    officialNotification:"https://raipur.gov.in",
+
+    fee:"SC/ST/Women/PwBD: Rs. 100-200 | OBC: Rs. 200-300 | General (UR): Rs. 300-400 (Via Demand Draft)",
+
+    description:"Office of Chief Medical and Health Officer (CMHO), Raipur, under the National Health Mission (NHM), has released the official notification for 206 contractual posts spanning 33 categories including Community Health Officer, Nursing Officer, Staff Nurse, ANM, MPW, Laboratory Technician, Physiotherapist, Radiographer, Secretarial Assistant, Data Handler, Class-IV and Support Staff. This recruitment is being conducted through a Walk-In process starting from 28 July 2026, with different posts having schedules extending up to 31 August 2026. Candidates need qualifications ranging from 8th Pass to Postgraduate Degree/Diploma depending on the post. Selection includes Walk-in Registration, Document Verification, Written Examination (for applicable posts), Skill/Computer Test and Merit List Preparation. Selected candidates will get a monthly remuneration of Rs. 8,800 to Rs. 31,500.",
+
+    category:"Chhattisgarh Government Jobs",
+    jobType:"CHO, Nursing Officer, Staff Nurse, ANM, MPW, Lab Technician & More",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-28",
+    applicationEndDate:"2026-08-31",
+
+    examDate:"Not Applicable",
+    interviewDate:"District-Wise Walk-In Schedule (28 July - 31 August 2026)",
+
+    postDetails:[
+        {postName:"Community Health Officer (CHO)", totalPosts:52},
+        {postName:"MPW (Male) - UHWC", totalPosts:16},
+        {postName:"Staff Nurse (Pediatric Ward)", totalPosts:15},
+        {postName:"Staff Nurse (12 Bedded HDU/ICU)", totalPosts:12},
+        {postName:"Nursing Officer (NPHCE)", totalPosts:12},
+        {postName:"ANM (NUHM)", totalPosts:12},
+        {postName:"Staff Nurse (SNCU)", totalPosts:8},
+        {postName:"Jr. Secretarial Assistant (LDC-UHWC)", totalPosts:8},
+        {postName:"RMA", totalPosts:7},
+        {postName:"Nursing Officer (UHWC)", totalPosts:7},
+        {postName:"Class-IV (UHWC)", totalPosts:7},
+        {postName:"Nursing Officer (NUHM)", totalPosts:6},
+        {postName:"Cold Chain & Logistic Assistant", totalPosts:5},
+        {postName:"Nursing Officer (NHM)", totalPosts:4},
+        {postName:"Class-IV (NUHM)", totalPosts:4},
+        {postName:"Data Handler", totalPosts:4},
+        {postName:"Staff Nurse (NBSU)", totalPosts:3},
+        {postName:"Support Staff", totalPosts:3},
+        {postName:"Class-IV (MSSK)", totalPosts:3},
+        {postName:"2nd ANM", totalPosts:2},
+        {postName:"Physiotherapist", totalPosts:2},
+        {postName:"Jr. Secretarial Assistant (PADA)", totalPosts:2},
+        {postName:"Nursing Officer (Trauma & Emergency)", totalPosts:2},
+        {postName:"Clinical Psychologist", totalPosts:1},
+        {postName:"Senior Nursing Officer", totalPosts:1},
+        {postName:"Audiologist", totalPosts:1},
+        {postName:"Laboratory Technician", totalPosts:1},
+        {postName:"Counselor", totalPosts:1},
+        {postName:"Radiographer", totalPosts:1},
+        {postName:"Secretarial Assistant", totalPosts:1},
+        {postName:"Nursing Officer (NMHP)", totalPosts:1},
+        {postName:"Nursing Officer (ICU)", totalPosts:1},
+        {postName:"Nursing Officer (Trauma & Emergency FMR-185.1.1.2)", totalPosts:1}
+    ],
+
+    tags:["CMHO Raipur Vacancy 2026","NHM Raipur Recruitment","CMHO Raipur Walk-In 2026","Community Health Officer Raipur","Chhattisgarh NHM Nursing Jobs","CMHO Raipur 206 Posts","Raipur Health Department Jobs"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"nicl-assistant-recruitment-2026",
     orgWebsite:"https://nationalinsurance.nic.co.in",
     title:"NICL Assistant Vacancy 2026",

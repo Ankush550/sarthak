@@ -1,5 +1,743 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["cmho-raipur-nhm-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">CMHO Raipur Vacancy 2026 – Walk-In for 206 NHM Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🏥 CMHO Raipur Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Walk-In Interviews Ongoing</span></p>
+<p style="font-size:19px;">Walk-In Period : <strong>28 July 2026 to 31 August 2026 (Post-Wise)</strong></p>
+<a href="https://raipur.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;">The <strong>Office of Chief Medical and Health Officer (CMHO), Raipur</strong>, under the <strong>National Health Mission (NHM)</strong>, has released the official notification for <strong>206 contractual posts</strong> spanning <strong>33 categories</strong>, including Community Health Officer, Nursing Officer, Staff Nurse, ANM, MPW, Laboratory Technician, Physiotherapist and Data Handler.</p>
+
+<p style="font-size:20px;line-height:1.9;">This recruitment is being conducted through a <strong>Walk-In process</strong> starting from <strong>28 July 2026</strong>, with different posts having schedules extending up to <strong>31 August 2026</strong>. Selected candidates will get a monthly remuneration of <strong>₹8,800 to ₹31,500</strong>.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Community Health Officer akela hi 52 posts (25%) le raha hai — sabse bada category, jo confirm karta hai ki Raipur mein primary healthcare infrastructure ko strengthen kiya ja raha hai. Yeh recruitment 33 alag-alag categories mein spread hai, har ek ki apni specific walk-in date hai (28 July se lekar 31 August tak) — matlab yeh koi ek din ka event nahi, balki ek poore mahine ka rolling process hai. Salary structure highly graded hai — Clinical Psychologist/Senior Nursing Officer top pe (₹31,500) aur Support Staff sabse neeche (₹8,800), jo qualification-based pay differentiation ko clearly reflect karta hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Office of Chief Medical and Health Officer (CMHO), District Raipur</td></tr>
+<tr><th>Post Name</th><td>Various Posts (33 Categories)</td></tr>
+<tr><th>Total Vacancies</th><td>206</td></tr>
+<tr><th>Application Mode</th><td>Walk-In Written Test</td></tr>
+<tr><th>Walk-In Start Date</th><td>28 July 2026</td></tr>
+<tr><th>Walk-In Schedule End</th><td>31 August 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 64 Years</td></tr>
+<tr><th>Salary</th><td>₹8,800 – ₹31,500 per Month</td></tr>
+<tr><th>Official Website</th><td>raipur.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Walk-In Schedule (Key Posts)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Programme</th><th>Post Name</th><th>Walk-in Date</th></tr>
+<tr><td>NUHM</td><td>Jr. Secretarial Assistant - LDC - UHWC</td><td>28-29 July 2026</td></tr>
+<tr><td>NUHM</td><td>Secretarial Assistant - NUHM</td><td>29-30 July 2026</td></tr>
+<tr><td>NHM</td><td>Jr. Secretarial Assistant (PADA)</td><td>29-30 July 2026</td></tr>
+<tr><td>MSSK</td><td>Data Handler</td><td>29-30 July 2026</td></tr>
+<tr><td>AAM/HWC</td><td>Community Health Officer</td><td>03 August 2026</td></tr>
+<tr><td>NUHM</td><td>MPW (Male) - UHWC</td><td>05 August 2026</td></tr>
+<tr><td>NHM</td><td>2nd ANM</td><td>07 August 2026</td></tr>
+<tr><td>NPHCE</td><td>Laboratory Technicians, Physiotherapist</td><td>07 August 2026</td></tr>
+<tr><td>NPHCE</td><td>Nursing Officer</td><td>13 August 2026</td></tr>
+<tr><td>SNCU</td><td>Staff Nurse - SNCU</td><td>14 August 2026</td></tr>
+<tr><td>NMHP</td><td>Sr. Nursing Officer</td><td>17 August 2026</td></tr>
+<tr><td>NHM</td><td>Nursing Officer, RMA</td><td>18 August 2026</td></tr>
+<tr><td>NBSU</td><td>Staff Nurse - NBSU</td><td>19 August 2026</td></tr>
+<tr><td>NHM</td><td>Radiographer</td><td>20 August 2026</td></tr>
+<tr><td>ICU</td><td>Nursing Officer - ICU</td><td>25 August 2026</td></tr>
+<tr><td>NMHP</td><td>Nursing Officer</td><td>31 August 2026</td></tr>
+</table>
+<p style="font-size:16px;color:#666;">Note: This is a partial schedule of key posts. Please refer to the official notification for the complete date-wise walk-in list of all 33 categories.</p>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Salary up to ₹25,000</th><th>Salary Above ₹25,000</th></tr>
+<tr><td>SC / ST / Women / PwBD</td><td>₹100</td><td>₹200</td></tr>
+<tr><td>OBC</td><td>₹200</td><td>₹300</td></tr>
+<tr><td>General (UR)</td><td>₹300</td><td>₹400</td></tr>
+</table>
+<p style="font-size:16px;color:#666;">Payment Mode: Demand Draft (DD) in favour of "Jila Swasthya Samiti, Raipur"</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap Nursing (B.Sc/GNM), ANM, MPW ya kisi allied health background se hain — 33 categories aur wide age range (18-64) ke saath yeh recruitment un candidates ke liye bhi accessible hai jo experienced retired professionals hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Turant plan karein agar:</strong> Aap apply karna chahte hain — dates already fixed hain apne post ke hisaab se, isliye apna specific post ki walk-in date confirm karke uske according prepare karein, kyunki bahut si dates ek dusre se close hain.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details (Top Categories)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Vacancies</th></tr>
+<tr><td>Community Health Officer (CHO)</td><td>52</td></tr>
+<tr><td>MPW (Male) - UHWC</td><td>16</td></tr>
+<tr><td>Staff Nurse (Pediatric Ward)</td><td>15</td></tr>
+<tr><td>Staff Nurse (12 Bedded HDU/ICU)</td><td>12</td></tr>
+<tr><td>Nursing Officer (NPHCE)</td><td>12</td></tr>
+<tr><td>ANM (NUHM)</td><td>12</td></tr>
+<tr><td>Staff Nurse (SNCU)</td><td>8</td></tr>
+<tr><td>Jr. Secretarial Assistant (LDC-UHWC)</td><td>8</td></tr>
+<tr><td>RMA</td><td>7</td></tr>
+<tr><td>Nursing Officer (UHWC)</td><td>7</td></tr>
+<tr><td>Class-IV (UHWC)</td><td>7</td></tr>
+<tr><td>Nursing Officer (NUHM)</td><td>6</td></tr>
+<tr><th>Total Vacancies (All 33 Categories)</th><th>206</th></tr>
+</table>
+<p style="font-size:16px;color:#666;">Note: This shows the top vacancy categories. See the official notification for all 33 post categories including single-vacancy specialist roles.</p>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Apne post ki <strong>exact walk-in date aur venue</strong> confirm karein — venue posts ke hisaab se alag hain (Girls Polytechnic College vs Government Nursing College).</li>
+<li>Demand Draft "Jila Swasthya Samiti, Raipur" ke naam se hi banwayein — galat naam se DD reject ho sakta hai.</li>
+<li>Agar multiple posts ke liye apply karna hai, toh <strong>alag application form aur alag DD</strong> zaroori hai har post ke liye — ek hi form/DD se multiple posts cover nahi honge.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay (Sample Posts)</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Category</th><th>Monthly Salary (₹)</th></tr>
+<tr><td>Clinical Psychologist / Senior Nursing Officer</td><td>31,500</td></tr>
+<tr><td>Audiologist</td><td>25,000</td></tr>
+<tr><td>RMA</td><td>22,000</td></tr>
+<tr><td>Physiotherapist</td><td>18,000</td></tr>
+<tr><td>Nursing Officer / CHO</td><td>16,500</td></tr>
+<tr><td>Staff Nurse</td><td>16,000-16,500</td></tr>
+<tr><td>Radiographer</td><td>15,000</td></tr>
+<tr><td>Laboratory Technician / MPW (Male)</td><td>14,000</td></tr>
+<tr><td>Secretarial Assistant</td><td>13,650</td></tr>
+<tr><td>ANM / Counselor / Jr. Secretarial Assistant</td><td>12,000</td></tr>
+<tr><td>Class-IV</td><td>10,000</td></tr>
+<tr><td>Support Staff</td><td>8,800</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Process</th></tr>
+<tr><td>Stage 1</td><td>Walk-in Registration</td></tr>
+<tr><td>Stage 2</td><td>Document Verification</td></tr>
+<tr><td>Stage 3</td><td>Written Examination (Applicable Posts)</td></tr>
+<tr><td>Stage 4</td><td>Skill Test / Computer Skill Test (Applicable Posts)</td></tr>
+<tr><td>Stage 5</td><td>Merit List Preparation</td></tr>
+<tr><td>Stage 6</td><td>Final Selection</td></tr>
+<tr><td>Stage 7</td><td>Medical/Joining Formalities</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Walk-In)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Download the application form from the official Raipur district website.</li>
+<li>Fill in the application form carefully with correct details.</li>
+<li>Attach a recent passport-size photograph.</li>
+<li>Attach self-attested copies of all required educational, caste, domicile, registration and experience certificates.</li>
+<li>Prepare the required Demand Draft (DD) in favour of "Jila Swasthya Samiti, Raipur".</li>
+<li>Carry the original documents along with one set of self-attested photocopies.</li>
+<li>Reach the designated walk-in venue before 09:00 AM on the scheduled date.</li>
+<li>Complete document verification and registration.</li>
+<li>Appear for the Written Test or Skill Test (if applicable).</li>
+<li>Keep a copy of your application and acknowledgement for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with CMHO Raipur's official notification. Given the rolling walk-in schedule spans over a month with post-specific dates, we recommend confirming your exact post's date and venue from the official notification before travelling.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Application Form</td><td><a href="https://raipur.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://raipur.gov.in" target="_blank">raipur.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. CMHO रायपुर NHM Vacancy 2026 में कुल कितने पदों पर भर्ती निकली है?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के तहत <strong>206 संविदा पदों</strong> पर भर्ती की जाएगी, 33 प्रकार के पद।</p>
+<h3>2. भर्ती प्रक्रिया कब से शुरू होगी?</h3>
+<p style="font-size:20px;line-height:1.8;">वॉक-इन प्रक्रिया <strong>28 जुलाई 2026</strong> से शुरू होगी और <strong>31 अगस्त 2026</strong> तक चलेगी।</p>
+<h3>3. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">पद के अनुसार <strong>₹8,800 से ₹31,500</strong> प्रति माह।</p>
+<h3>4. क्या एक से अधिक पदों के लिए आवेदन कर सकते हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">हाँ, लेकिन प्रत्येक पद के लिए अलग आवेदन पत्र और अलग Demand Draft जमा करना अनिवार्य है।</p>
+<h3>5. आवेदन शुल्क कैसे जमा करें?</h3>
+<p style="font-size:20px;line-height:1.8;">शुल्क का भुगतान <strong>Demand Draft (DD)</strong> के माध्यम से "Jila Swasthya Samiti, Raipur" के नाम पर करना होगा।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>CMHO Raipur Vacancy 2026</strong> offers a wide range of healthcare job opportunities across 33 categories through a rolling walk-in process. Confirm your post's exact date and venue, and prepare your documents well before your scheduled walk-in date.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Check CMHO Raipur Vacancy 2026</h2>
+<a href="https://raipur.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=bmc-cooper-hospital-recruitment-2026">BMC Cooper Hospital Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=cmho-bemetara-recruitment-2026">CMHO Bemetara Bharti 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official CMHO Raipur notification before applying.</p>
+`;
+JOB_CONTENT["jssc-jtaacce-para-teacher-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">JSSC JTAACCE Para Teacher Vacancy 2026 – Apply Online for 7,299 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">📚 JSSC JTAACCE Para Teacher Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:orange;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>31 July 2026 to 30 August 2026</strong></p>
+<a href="https://jssc.jharkhand.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Jharkhand Staff Selection Commission (JSSC)</strong> has released the official notification for <strong>JTAACCE Para Teacher Vacancy 2026</strong>, offering a massive <strong>7,299 Trained Assistant Teacher</strong> (Para Teacher Category) posts, comprising <strong>6,101 regular</strong> and <strong>1,198 backlog</strong> posts.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>31 July 2026</strong> and close on <strong>30 August 2026</strong>, with fee payment accepted until <strong>01 September 2026</strong>. Candidates need the prescribed educational qualification along with a valid <strong>JTET/CTET</strong> certificate.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+7,299 posts mein se 1,198 (16%) <strong>backlog posts</strong> hain — matlab yeh pichli recruitments se pending vacancies bhi is cycle mein clear kiye ja rahe hain. Timeline unusually detailed hai: application, fee payment, photo/signature upload aur correction window - sab alag-alag dates pe hain (31 July se lekar 07 September tak), jo dikhata hai ki JSSC ek carefully staged process follow kar raha hai large-scale application ko efficiently manage karne ke liye. Yeh Jharkhand ki 2026 ki sabse badi teaching recruitment hai, aur JTET/CTET dono accept hone se eligible candidate pool significantly wide hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Jharkhand Staff Selection Commission (JSSC)</td></tr>
+<tr><th>Post Name</th><td>Trained Assistant Teacher (Para Teacher Category)</td></tr>
+<tr><th>Total Vacancies</th><td>7,299</td></tr>
+<tr><th>Notification Date</th><td>22 July 2026</td></tr>
+<tr><th>Start Date</th><td>31 July 2026</td></tr>
+<tr><th>Last Date</th><td>30 August 2026</td></tr>
+<tr><th>Fee Payment Last Date</th><td>01 September 2026</td></tr>
+<tr><th>Age Limit</th><td>21 to 35 Years</td></tr>
+<tr><th>Salary</th><td>As Per Jharkhand Government Rules</td></tr>
+<tr><th>Official Website</th><td>jssc.jharkhand.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Dates</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Event</th><th>Date</th></tr>
+<tr><td>Notification Date</td><td>22 July 2026</td></tr>
+<tr><td>Start Date</td><td>31 July 2026</td></tr>
+<tr><td>Last Date</td><td>30 August 2026</td></tr>
+<tr><td>Last Date for Fee Payment</td><td>01 September 2026</td></tr>
+<tr><td>Photo & Signature Upload</td><td>03 September 2026</td></tr>
+<tr><td>Correction Window</td><td>05 September to 07 September 2026</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>UR, EWS, EBC-I, BC-II</td><td>₹100</td></tr>
+<tr><td>SC, ST (Jharkhand Domicile)</td><td>₹50</td></tr>
+<tr><td>Persons with Disability (40% or above)</td><td>Nil</td></tr>
+<tr><td>Payment Mode</td><td>Online</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aapke paas valid JTET ya CTET certificate hai aur aap Jharkhand mein teaching career start karna chahte hain — 7,299 posts (aapke dekhi gayi teaching recruitments mein sabse bada number) ke saath yeh 2026 ki definitely biggest opportunity hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aapka JTET/CTET abhi valid nahi hai ya expire ho chuka hai — is application ke liye zaroori hai ki certificate current aur valid ho, isliye apply karne se pehle status check kar lein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Number of Vacancies</th></tr>
+<tr><td>Regular Trained Assistant Teacher Posts</td><td>6,101</td></tr>
+<tr><td>Backlog Trained Assistant Teacher Posts</td><td>1,198</td></tr>
+<tr><th>Total Vacancies</th><th>7,299</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Trained Assistant Teacher (Primary)</td><td>Prescribed educational qualification with a valid JTET/CTET qualification as per the official notification</td></tr>
+<tr><td>Trained Assistant Teacher (Upper Primary)</td><td>Relevant educational qualification with a valid JTET/CTET certificate as per JSSC rules</td></tr>
+<tr><td>Additional Requirement</td><td>Candidates must fulfill all eligibility conditions prescribed by JSSC before applying</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Photo & Signature upload ke liye <strong>alag date (03 September)</strong> hai application submission ke baad — is step ko miss mat karein, kyunki bina isके application incomplete rahega.</li>
+<li>Correction window sirf 3 din (05-07 September) ka hai — is period ke bahar koi bhi correction possible nahi hoga.</li>
+<li>Age calculation <strong>01 August 2026</strong> ke basis pe hoga — apni exact age check karte waqt yeh reference date use karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Salary</th></tr>
+<tr><td>Trained Assistant Teacher (Primary)</td><td>As Per Jharkhand Government Rules</td></tr>
+<tr><td>Trained Assistant Teacher (Upper Primary)</td><td>As Per Jharkhand Government Rules</td></tr>
+<tr><td>Pension Benefits</td><td>As Per Government Rules</td></tr>
+<tr><td>Other Allowances</td><td>Applicable as per State Government Norms</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Selection Process</th></tr>
+<tr><td>Stage 1</td><td>Main Written Examination</td></tr>
+<tr><td>Stage 2</td><td>Evaluation of Answer Sheets</td></tr>
+<tr><td>Stage 3</td><td>Merit List Preparation</td></tr>
+<tr><td>Stage 4</td><td>Document Verification</td></tr>
+<tr><td>Stage 5</td><td>Verification of Educational Qualification & JTET/CTET Certificate</td></tr>
+<tr><td>Stage 6</td><td>Final Merit List</td></tr>
+<tr><td>Stage 7</td><td>Appointment & Joining</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official JSSC website.</li>
+<li>Open the JTAACCE-2026 online application link.</li>
+<li>Register using your basic personal details.</li>
+<li>Generate your Registration Number and Password.</li>
+<li>Log in with your credentials.</li>
+<li>Fill out the online application form carefully.</li>
+<li>Upload your photograph, signature and required documents.</li>
+<li>Pay the application fee through the online payment gateway.</li>
+<li>Review all entered details before final submission.</li>
+<li>Submit the application form successfully.</li>
+<li>Download and print the confirmation page for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with JSSC's official notification released on 22 July 2026. Given this is one of Jharkhand's largest teaching recruitments, we recommend completing your application well before the last date to avoid server load issues.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://jssc.jharkhand.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://jssc.jharkhand.gov.in" target="_blank">jssc.jharkhand.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. JSSC JTAACCE Para Teacher Vacancy 2026 में कुल कितने पदों पर भर्ती निकली है?</h3>
+<p style="font-size:20px;line-height:1.8;">कुल <strong>7,299 पद</strong>, जिनमें 6,101 नियमित और 1,198 बैकलॉग शामिल हैं।</p>
+<h3>2. आवेदन कब से शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन प्रक्रिया <strong>31 जुलाई 2026</strong> से शुरू होगी।</p>
+<h3>3. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">निर्धारित योग्यता के साथ वैध <strong>JTET/CTET</strong> प्रमाणपत्र आवश्यक है।</p>
+<h3>4. आयु सीमा क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">न्यूनतम <strong>21 वर्ष</strong> और अधिकतम <strong>35 वर्ष</strong>, गणना 01 अगस्त 2026 के आधार पर।</p>
+<h3>5. आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">UR/EWS/EBC-I/BC-II के लिए <strong>₹100</strong>, SC/ST के लिए <strong>₹50</strong>, दिव्यांग के लिए निःशुल्क।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>JSSC JTAACCE Para Teacher Vacancy 2026</strong> is Jharkhand's biggest teaching recruitment drive of the year. Apply between <strong>31 July</strong> and <strong>30 August 2026</strong>, and don't forget the separate photo/signature upload deadline.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for JSSC Para Teacher Vacancy 2026</h2>
+<a href="https://jssc.jharkhand.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=upessc-assistant-professor-bed-recruitment-2025">UPESSC Assistant Professor Vacancy 2025</a></li>
+<li><a href="../item-detail.html?type=job&id=cmho-raipur-nhm-recruitment-2026">CMHO Raipur Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official JSSC notification before applying.</p>
+`;
+JOB_CONTENT["aai-manager-junior-executive-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">AAI Manager & Junior Executive Vacancy 2026 – Apply for 395 Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">✈️ AAI Manager & Junior Executive Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Applications Open Soon</span></p>
+<p style="font-size:19px;">Application Period : <strong>08 August 2026 to 07 September 2026</strong></p>
+<a href="https://www.aai.aero" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Airports Authority of India (AAI)</strong> has released the official notification (<strong>Advt. No. 12/2026/CHQ/DR-CBT</strong>) for <strong>395 Manager and Junior Executive</strong> posts, spanning Civil, Electrical, Finance, IT, Architecture, Law, Fire Services, Operations, Commercial, Corporate Communications and Survey & Cartography disciplines.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>08 August 2026</strong> and close on <strong>07 September 2026</strong>. Manager posts require <strong>3 years of relevant experience</strong>. Selected candidates will get Manager (E-3) salary of <strong>₹60,000 to ₹1,80,000</strong> (~₹21 lakh CTC) or Junior Executive (E-1) salary of <strong>₹40,000 to ₹1,40,000</strong> (~₹14 lakh CTC).</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Manager (Civil) akela hi 145 posts (37%) le raha hai — sabse bada single category is entire notification mein. Junior Executive (Operations) doosre spot pe hai 79 posts ke saath. Yeh dikhata hai ki AAI ka airport expansion aur infrastructure development plan currently civil engineering aur operations-heavy hai. Manager posts ke liye 3 saal ka mandatory experience hai, jabki Junior Executive posts fresh graduates ke liye bhi accessible hain — matlab is single notification mein AAI experienced professionals aur freshers dono ko target kar raha hai, jo unusual hai ek hi advertisement mein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Airports Authority of India (AAI)</td></tr>
+<tr><th>Advertisement No.</th><td>12/2026/CHQ/DR-CBT</td></tr>
+<tr><th>Post Name</th><td>Manager & Junior Executive (Various Disciplines)</td></tr>
+<tr><th>Total Vacancies</th><td>395</td></tr>
+<tr><th>Start Date</th><td>08 August 2026</td></tr>
+<tr><th>Last Date</th><td>07 September 2026</td></tr>
+<tr><th>Age Limit</th><td>Manager: 32 Years | Junior Executive: 27 Years</td></tr>
+<tr><th>Salary</th><td>₹40,000 – ₹1,80,000</td></tr>
+<tr><th>Official Website</th><td>aai.aero</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">The application fee is <strong>as per the official notification</strong> - exact fee details will be published closer to the application start date.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap Civil ya Operations background se hain (145 + 79 = 224 posts, over 56% total vacancies) — yeh ek excellent PSU career opportunity hai jisme ₹14-21 lakh annual CTC ka scope hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Manager posts target kar rahe hain lekin aapke paas 3 saal ka relevant experience nahi hai — Junior Executive posts consider karein instead, jo fresher-friendly hain.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Total Posts</th></tr>
+<tr><td>Manager (Engineering-Civil)</td><td>145</td></tr>
+<tr><td>Manager (Engineering-Electrical)</td><td>16</td></tr>
+<tr><td>Manager (Finance)</td><td>34</td></tr>
+<tr><td>Manager (Information Technology)</td><td>5</td></tr>
+<tr><td>Manager (Architecture)</td><td>4</td></tr>
+<tr><td>Manager (Law)</td><td>2</td></tr>
+<tr><td>Manager (Fire Services)</td><td>14</td></tr>
+<tr><td>Manager (Operations)</td><td>28</td></tr>
+<tr><td>Manager (Commercial)</td><td>9</td></tr>
+<tr><td>Manager (Corporate Planning & Management Services)</td><td>1</td></tr>
+<tr><td>Manager (Corporate Communications)</td><td>2</td></tr>
+<tr><td>Junior Executive (Finance)</td><td>36</td></tr>
+<tr><td>Junior Executive (Law)</td><td>6</td></tr>
+<tr><td>Junior Executive (Operations)</td><td>79</td></tr>
+<tr><td>Junior Executive (Survey & Cartography)</td><td>8</td></tr>
+<tr><th>Grand Total</th><th>395 Posts</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Qualification</th></tr>
+<tr><td>Manager (Civil)</td><td>Bachelor's Degree in Civil Engineering + 3 Years Experience</td></tr>
+<tr><td>Manager (Electrical)</td><td>Bachelor's Degree in Electrical Engineering + 3 Years Experience</td></tr>
+<tr><td>Manager (Finance)</td><td>MBA (Finance)/PGDM (Finance)/CA/CMA/CFA + 3 Years Experience</td></tr>
+<tr><td>Manager (IT)</td><td>B.E./B.Tech (CS/IT/ECE) or MCA + 3 Years Experience</td></tr>
+<tr><td>Manager (Architecture)</td><td>Bachelor's Degree in Architecture + COA Registration + 3 Years Experience</td></tr>
+<tr><td>Manager (Law)</td><td>LLB (3/5 Years) + Bar Council Eligible + 3 Years Experience</td></tr>
+<tr><td>Manager (Fire Services)</td><td>Fire/Mechanical/Automobile Engineering + 3 Years Experience</td></tr>
+<tr><td>Manager (Operations)</td><td>Science Graduate + MBA or Engineering Degree + 3 Years Experience</td></tr>
+<tr><td>Manager (Commercial)</td><td>Graduate + MBA (Marketing) or Engineering Degree + 3 Years Experience</td></tr>
+<tr><td>Manager (Corporate Planning & Management)</td><td>PG in Statistics/Mathematics/Economics/Operation Research + 3 Years Experience</td></tr>
+<tr><td>Manager (Corporate Communications)</td><td>Bachelor's + PG in Journalism/Mass Communication + 3 Years Experience</td></tr>
+<tr><td>Junior Executive (Finance)</td><td>MBA (Finance)/PGDM (Finance)/CA/CMA/CFA</td></tr>
+<tr><td>Junior Executive (Law)</td><td>LLB (3/5 Years)</td></tr>
+<tr><td>Junior Executive (Operations)</td><td>Science Graduate + MBA or Engineering Degree</td></tr>
+<tr><td>Junior Executive (Survey & Cartography)</td><td>Civil Engineering Degree or M.Sc. Geography/Remote Sensing/Geo-Informatics</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Manager posts ke liye <strong>3 saal ka relevant experience</strong> mandatory hai — apna experience calculate karte waqt sirf directly relevant work count karein, generic experience nahi.</li>
+<li>Age limit alag hai Manager (32) vs Junior Executive (27) ke liye — apply karte waqt sahi post category select karein apni age ke hisaab se.</li>
+<li>Application fee "as per notification" hai — detailed fee structure ke liye official website regularly check karein application start date se pehle.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Pay Scale</th><th>Approx. Annual CTC</th></tr>
+<tr><td>Manager (E-3)</td><td>₹60,000 – ₹1,80,000</td><td>₹21 Lakhs</td></tr>
+<tr><td>Junior Executive (E-1)</td><td>₹40,000 – ₹1,40,000</td><td>₹14 Lakhs</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Computer Based Test (CBT)</td></tr>
+<tr><td>Stage 2</td><td>Application Verification</td></tr>
+<tr><td>Stage 3</td><td>Interview (For Applicable Posts)</td></tr>
+<tr><td>Stage 4</td><td>Document Verification</td></tr>
+<tr><td>Stage 5</td><td>Medical Examination</td></tr>
+<tr><th>Final Selection</th><th>Based on Merit and Eligibility</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official AAI website.</li>
+<li>Open the Recruitment/Careers section.</li>
+<li>Click on AAI Recruitment 2026 Advertisement No. 12/2026/CHQ/DR-CBT.</li>
+<li>Register using your valid email ID and mobile number.</li>
+<li>Fill in all personal, educational and experience details carefully.</li>
+<li>Upload your photograph, signature and required documents.</li>
+<li>Pay the application fee online (if applicable).</li>
+<li>Verify all entered details before final submission.</li>
+<li>Submit the online application form.</li>
+<li>Download and print the submitted application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with AAI's official notification (Advt. No. 12/2026/CHQ/DR-CBT) released on 22 July 2026. Given experience requirements vary significantly by post, candidates should carefully verify their eligible years of experience before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.aai.aero" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.aai.aero" target="_blank">aai.aero</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. AAI Vacancy 2026 में कुल कितने पदों पर भर्ती निकली है?</h3>
+<p style="font-size:20px;line-height:1.8;">Manager और Junior Executive सहित कुल <strong>395 पदों</strong> पर भर्ती का नोटिफिकेशन जारी किया गया है।</p>
+<h3>2. आवेदन कब से शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन <strong>08 अगस्त 2026</strong> से शुरू होंगे, अंतिम तिथि <strong>07 सितंबर 2026</strong> है।</p>
+<h3>3. चयन प्रक्रिया क्या होगी?</h3>
+<p style="font-size:20px;line-height:1.8;"><strong>Computer Based Test (CBT)</strong>, आवेदन सत्यापन, इंटरव्यू, दस्तावेज़ सत्यापन और मेडिकल परीक्षा।</p>
+<h3>4. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">Junior Executive को <strong>₹40,000-1,40,000</strong> (~₹14 लाख CTC), Manager को <strong>₹60,000-1,80,000</strong> (~₹21 लाख CTC)।</p>
+<h3>5. अधिकतम आयु सीमा क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">Manager के लिए <strong>32 वर्ष</strong>, Junior Executive के लिए <strong>27 वर्ष</strong>।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>AAI Manager & Junior Executive Vacancy 2026</strong> is a lucrative PSU opportunity with strong CTC packages across multiple disciplines. Apply between <strong>08 August 2026</strong> and <strong>07 September 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for AAI Manager & Junior Executive Vacancy 2026</h2>
+<a href="https://www.aai.aero" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=aai-ner-apprentice-recruitment-2026">AAI NER Apprentice Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=bmc-cooper-hospital-recruitment-2026">BMC Cooper Hospital Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official AAI notification before applying.</p>
+`;
+JOB_CONTENT["bmc-cooper-hospital-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">BMC Cooper Hospital Vacancy 2026 – Apply Offline for 115 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">🏥 BMC Cooper Hospital Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Applications Open</span></p>
+<p style="font-size:19px;">Application Period : <strong>22 July 2026 to 30 July 2026 (11:00 AM - 4:00 PM)</strong></p>
+<a href="https://www.mcgm.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Check Notification →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Brihanmumbai Municipal Corporation (BMC)</strong>, under Hind Hridaysamrat Balasaheb Thackeray Medical College and <strong>Dr. R.N. Cooper Hospital, Juhu</strong>, has released the official notification for <strong>115 contractual posts</strong> across <strong>24 categories</strong>, including Sweeper, Wireman, Ward Attendant, Ayah, Laboratory Attendant, Electrician, Gardener, Porter and Tailor.</p>
+
+<p style="font-size:20px;line-height:1.9;">Eligible candidates must submit their application <strong>offline, in-person</strong> between <strong>22 July 2026</strong> and <strong>30 July 2026</strong> (11:00 AM to 4:00 PM). Candidates need <strong>10th Pass</strong>, with ITI/trade certification required for technical posts. Selected candidates will get consolidated salary of <strong>₹15,000 to ₹18,000</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Sweeper akela hi 31 posts (27%) leke sabse bada category hai, uske baad Ayah (Nursing Attendant) 22 posts ke saath — dono support-staff heavy roles hain, jo dikhata hai ki BMC ka focus abhi ground-level hospital support infrastructure strengthen karne pe hai, na ki technical staff pe (Electrician, Wireman jaisi posts mein sirf 1-1 seat hai). ₹1,028 ki application fee bhi notably high hai entry-level contractual posts ke liye — yeh non-refundable hai, isliye apply karne se pehle eligibility 100% confirm karna zaroori hai. 24 categories ka salary sirf teen tiers mein bant kar rakhi gayi hai (₹15,000/₹17,000/₹18,000), jo simple aur transparent hai comparatively.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Brihanmumbai Municipal Corporation (BMC)</td></tr>
+<tr><th>Post Name</th><td>Wireman, Sweeper and 22 Other Categories</td></tr>
+<tr><th>Total Vacancies</th><td>115</td></tr>
+<tr><th>Application Mode</th><td>Offline (In-Person)</td></tr>
+<tr><th>Start Date</th><td>22 July 2026</td></tr>
+<tr><th>Last Date</th><td>30 July 2026</td></tr>
+<tr><th>Age Limit</th><td>18 to 45 Years</td></tr>
+<tr><th>Salary</th><td>₹15,000 – ₹18,000 per Month</td></tr>
+<tr><th>Official Website</th><td>mcgm.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">All candidates must pay <strong>₹1,028</strong> (including GST). This fee is <strong>non-refundable</strong> and must be paid at the hospital's cashier department.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap 10th pass hain aur Mumbai mein hospital support role chahte hain — Sweeper (31), Ayah (22) aur Ward Attendant (12) categories mein sabse zyada seats hain, jo entry-level candidates ke liye best odds create karti hain.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap technical trade posts (Electrician, Wireman, Tailor) target kar rahe hain — inme sirf 1-2 seats hain per category, isliye competition extremely tight hoga in specialized roles mein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Vacancies</th></tr>
+<tr><td>Laboratory Attendant</td><td>7</td></tr>
+<tr><td>Laboratory Servant</td><td>3</td></tr>
+<tr><td>Electrician</td><td>1</td></tr>
+<tr><td>Wireman</td><td>1</td></tr>
+<tr><td>Lift Operator</td><td>3</td></tr>
+<tr><td>Lift Operator & Wireman-III & Pump Operator</td><td>1</td></tr>
+<tr><td>Wireman-III & Lift Operator & Pump Operator</td><td>1</td></tr>
+<tr><td>Training Assistant</td><td>5</td></tr>
+<tr><td>Sweeper</td><td>31</td></tr>
+<tr><td>Ward Attendant</td><td>12</td></tr>
+<tr><td>Ward Servant</td><td>2</td></tr>
+<tr><td>Ayah (Nursing Attendant)</td><td>22</td></tr>
+<tr><td>Gardener & Sweeper</td><td>3</td></tr>
+<tr><td>Gardener</td><td>3</td></tr>
+<tr><td>Sweeper & Halalkhor</td><td>1</td></tr>
+<tr><td>Porter</td><td>2</td></tr>
+<tr><td>Porter & Worker</td><td>1</td></tr>
+<tr><td>Worker</td><td>2</td></tr>
+<tr><td>Ambulance Attendant</td><td>2</td></tr>
+<tr><td>Hearse Attendant & Halalkhor & Ambulance Attendant</td><td>5</td></tr>
+<tr><td>Dresser (Wound Care Attendant)</td><td>2</td></tr>
+<tr><td>Barber</td><td>2</td></tr>
+<tr><td>Assistant/Helper</td><td>1</td></tr>
+<tr><td>Tailor</td><td>2</td></tr>
+<tr><th>Total</th><th>115 Posts</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Qualification</th></tr>
+<tr><td>Laboratory Attendant / Laboratory Servant</td><td>10th Pass + Marathi Language Knowledge</td></tr>
+<tr><td>Electrician</td><td>10th Pass + ITI Electrician/Wireman or Valid Wireman License</td></tr>
+<tr><td>Wireman</td><td>10th Pass + ITI Wireman or Valid Wireman License</td></tr>
+<tr><td>Lift Operator / Pump Operator</td><td>10th Pass + Relevant Trade Qualification/License</td></tr>
+<tr><td>Training Assistant</td><td>10th Pass + Relevant Technical Qualification</td></tr>
+<tr><td>Sweeper / Ward Attendant</td><td>10th Pass + Marathi Knowledge + Trade Test</td></tr>
+<tr><td>Ward Servant / Ayah / Gardener / Porter / Worker</td><td>10th Pass + Marathi Knowledge</td></tr>
+<tr><td>Ambulance Attendant</td><td>10th Pass + Trade Test</td></tr>
+<tr><td>Dresser / Barber / Assistant-Helper</td><td>10th Pass</td></tr>
+<tr><td>Tailor</td><td>10th Pass + Tailoring Certificate/Advanced Tailoring Course</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Marathi language knowledge zyadatar posts ke liye mandatory hai — apply karne se pehle confirm karein ki aapke desired post mein yeh requirement hai ya nahi.</li>
+<li>Application sirf <strong>in-person, offline</strong> submit ki jayegi — post ya online submission accept nahi hogi, isliye designated time (11 AM - 4 PM) mein hi jayein.</li>
+<li>₹1,028 fee non-refundable hai — apna eligibility (age, qualification, technical requirements) 100% confirm karne ke baad hi fee jama karein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Monthly Salary</th><th>Applicable Posts</th></tr>
+<tr><td>₹15,000</td><td>Laboratory Attendant, Laboratory Servant, Ambulance Attendant, Hearse Attendant, Barber</td></tr>
+<tr><td>₹17,000</td><td>Dresser, Tailor</td></tr>
+<tr><td>₹18,000</td><td>Electrician, Wireman, Lift Operator, Training Assistant, Sweeper, Ward Attendant, Ayah, Gardener, Porter, Worker, Assistant/Helper & related posts</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Scrutiny of Applications</td></tr>
+<tr><td>Stage 2</td><td>Merit List Based on Educational Qualification</td></tr>
+<tr><td>Stage 3</td><td>Interview</td></tr>
+<tr><td>Stage 4</td><td>Trade/Skill Test (Applicable Posts)</td></tr>
+<tr><td>Stage 5</td><td>Document Verification</td></tr>
+<tr><td>Stage 6</td><td>Final Merit List & Selection</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply (Offline)</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Read the official notification carefully before applying.</li>
+<li>Check your eligibility for the desired post.</li>
+<li>Pay the prescribed application fee of ₹1,028.</li>
+<li>Collect and fill out the offline application form correctly.</li>
+<li>Attach self-attested copies of all required documents.</li>
+<li>Attach the fee payment receipt with the application form.</li>
+<li>Submit the completed application at the designated office within the prescribed dates and time.</li>
+<li>Verify all details before submission.</li>
+<li>Keep a copy of the submitted application and fee receipt for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with BMC's official notification for Dr. R.N. Cooper Hospital, Juhu. Since applications are only accepted in-person within a fixed time window, we recommend visiting the venue early rather than on the last day.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Notification Download</td><td><a href="https://www.mcgm.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.mcgm.gov.in" target="_blank">mcgm.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. BMC Cooper Hospital Vacancy 2026 में कुल कितनी रिक्तियां हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती के तहत कुल <strong>115 पदों</strong> पर नियुक्तियां की जाएंगी, 24 विभिन्न श्रेणियों में।</p>
+<h3>2. आवेदन की अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">इच्छुक उम्मीदवार <strong>22 जुलाई से 30 जुलाई 2026</strong> तक (11:00 AM - 4:00 PM) आवेदन जमा कर सकते हैं।</p>
+<h3>3. न्यूनतम शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">अधिकांश पदों के लिए <strong>10वीं (SSC)</strong> उत्तीर्ण होना अनिवार्य है, तकनीकी पदों के लिए ITI भी आवश्यक है।</p>
+<h3>4. आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">सभी अभ्यर्थियों के लिए <strong>₹1,028</strong> निर्धारित किया गया है, जो नॉन-रिफंडेबल है।</p>
+<h3>5. क्या ऑनलाइन आवेदन किया जा सकता है?</h3>
+<p style="font-size:20px;line-height:1.8;">नहीं, केवल <strong>ऑफलाइन (In-Person)</strong> आवेदन स्वीकार किए जाएंगे।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>BMC Cooper Hospital Vacancy 2026</strong> is a solid opportunity for 10th pass candidates in Mumbai to join a municipal hospital in various support and technical roles. Complete your in-person application well before <strong>30 July 2026</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for BMC Cooper Hospital Vacancy 2026</h2>
+<a href="https://www.mcgm.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Check Notification</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=cmho-raipur-nhm-recruitment-2026">CMHO Raipur Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=aai-manager-junior-executive-recruitment-2026">AAI Manager & Junior Executive Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official BMC notification before applying.</p>
+`;
 JOB_CONTENT["nicl-assistant-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
