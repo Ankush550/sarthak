@@ -1,6 +1,203 @@
 // SarthakYojana.in – Jobs Database (All Schema Fields Included)
 const JOBS_DATA = [
     {
+    id:"mpsc-group-c-recruitment-2026",
+    orgWebsite:"https://mpsc.gov.in",
+    title:"MPSC Group C Online Form 2026",
+    shortTitle:"MPSC Group C Various Posts Online Form 2026",
+    organization:"Maharashtra Public Service Commission (MPSC)",
+    image:"MPSCGroupC.jpeg",
+
+    totalPosts:5707,
+
+    lastDate:"2026-08-05",
+    lastDateDisplay:"05 August 2026 (Extended)",
+
+    datePosted:"2026-06-27",
+    validThrough:"2026-08-05T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:19900,
+    salaryMax:115600,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Maharashtra",
+    addressLocality:"Mumbai",
+    addressRegion:"Maharashtra",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree / Diploma in Engineering (Post Wise)",
+
+    ageLimit:"Up to 38 Years",
+
+    applyLink:"https://mpsc.gov.in",
+    officialNotification:"https://mpsc.gov.in",
+
+    fee:"General - Prelims: Rs. 394, Mains: Rs. 544 | Reserved - Prelims: Rs. 294, Mains: Rs. 344 | Ex-Servicemen: Rs. 44",
+
+    description:"Maharashtra Public Service Commission (MPSC) has invited online applications for 5,707 permanent Group C posts across various departments, including Clerk-Typist, Tax Assistant, Assistant Motor Vehicle Inspector, Talathi, Technical Assistant, Industry Inspector, Fisheries Development Officer and Senior Clerk. Applications started on 27 June 2026, and the last date has been extended to 05 August 2026, with fee payment accepted until 08 August 2026. The Preliminary Examination is scheduled for 25 October 2026. Selection includes Preliminary Written Examination, Main Written Examination, Skill Test (if applicable), Medical Examination and Document Verification. Selected candidates will get a salary of Rs. 19,900 to Rs. 1,15,600 per month depending on the post.",
+
+    category:"Maharashtra Government Jobs",
+    jobType:"Clerk-Typist, Tax Assistant, Assistant Motor Vehicle Inspector, Talathi & More",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-06-27",
+    applicationEndDate:"2026-08-05",
+
+    examDate:"25 October 2026 (Preliminary)",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Inspector of Industry (Industry, Energy & Labour Dept.)", totalPosts:9},
+        {postName:"Technical Assistant (Finance Dept.)", totalPosts:3},
+        {postName:"Tax Assistant (Finance Dept.)", totalPosts:282},
+        {postName:"Assistant Motor Vehicle Inspector (Home Dept.)", totalPosts:461},
+        {postName:"Clerk-Typist (Ministerial Administrative Dept.)", totalPosts:1864},
+        {postName:"Village Revenue Officer (Talathi), Group-C", totalPosts:1539},
+        {postName:"Senior Record Keeper/Senior Clerk/Record Keeper", totalPosts:254},
+        {postName:"Clerk-Typist (Various Appointing Authorities, Revenue Dept.)", totalPosts:480},
+        {postName:"Clerk-Typist (Registration & Stamp Dept.)", totalPosts:239},
+        {postName:"Fisheries Development Officer (Technical)", totalPosts:19},
+        {postName:"Clerk-Typist (Food, Civil Supplies Dept.)", totalPosts:155},
+        {postName:"Assistant Superintendent (Nivaran Commission, Mumbai)", totalPosts:4},
+        {postName:"Clerk-Typist (Relief & Rehabilitation Dept.)", totalPosts:230}
+    ],
+
+    tags:["MPSC Group C Vacancy 2026","MPSC Talathi Recruitment 2026","MPSC Clerk Typist Jobs","MPSC Tax Assistant Vacancy","Maharashtra 5707 Posts","MPSC Prelims Mains 2026","MPSC Group C Online Form"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"belagavi-dcc-bank-recruitment-2026",
+    orgWebsite:"https://www.belagavidccb.bank.in",
+    title:"Belagavi DCC Bank Vacancy 2026",
+    shortTitle:"Belagavi DCC Bank Online Form 2026",
+    organization:"Belagavi District Central Cooperative Bank Ltd. (Belagavi DCC Bank)",
+    image:"BelagaviDCCBank.jpeg",
+
+    totalPosts:104,
+
+    lastDate:"2026-08-27",
+    lastDateDisplay:"27 August 2026",
+
+    datePosted:"2026-07-27",
+    validThrough:"2026-08-27T23:59:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:42650,
+    salaryMax:115150,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Belagavi, Karnataka",
+    addressLocality:"Belagavi",
+    addressRegion:"Karnataka",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree from a Recognized University (Post Wise)",
+
+    ageLimit:"As Per Bank Recruitment Rules",
+
+    applyLink:"https://www.belagavidccb.bank.in",
+    officialNotification:"https://www.belagavidccb.bank.in",
+
+    fee:"As Per Detailed Official Notification",
+
+    description:"Belagavi District Central Cooperative Bank Ltd. (Belagavi DCC Bank) has released a short notification for Second Division Assistant (SDA), Peon and Gunman posts, offering 104 vacancies. Online applications will start on 27 July 2026 and close on 27 August 2026. The recruitment includes 83 SDA posts, 20 Peon posts and 1 Gunman post. Candidates need a Bachelor's Degree for SDA, while Peon and Gunman requirements are detailed in the official notification. Selection includes a Written Examination (if conducted), Document Verification and Medical Fitness Test (if required). Selected candidates will get a salary of Rs. 42,650 to Rs. 1,15,150 per month depending on the post.",
+
+    category:"Bank Jobs",
+    jobType:"Second Division Assistant (SDA), Peon, Gunman",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-27",
+    applicationEndDate:"2026-08-27",
+
+    examDate:"To Be Announced",
+    interviewDate:"Not Applicable",
+
+    postDetails:[
+        {postName:"Second Division Assistant (SDA)", totalPosts:83},
+        {postName:"Peon", totalPosts:20},
+        {postName:"Gunman", totalPosts:1}
+    ],
+
+    tags:["Belagavi DCC Bank Vacancy 2026","Belagavi District Central Cooperative Bank Recruitment","SDA Peon Gunman Jobs Karnataka","Cooperative Bank Jobs Belagavi","Belagavi DCC Bank 104 Posts","Karnataka Bank Recruitment 2026","Second Division Assistant Bank Jobs"],
+
+    status:"open",
+    isNew:true
+},
+
+{
+    id:"hal-executive-recruitment-2026",
+    orgWebsite:"https://hal-india.co.in",
+    title:"HAL Executive Vacancy 2026 Notification Out",
+    shortTitle:"HAL Executive Online Form 2026",
+    organization:"Hindustan Aeronautics Limited (HAL)",
+    image:"HALExecutive.jpeg",
+
+    totalPosts:30,
+
+    lastDate:"2026-08-12",
+    lastDateDisplay:"12 August 2026 (2:00 PM)",
+
+    datePosted:"2026-07-22",
+    validThrough:"2026-08-12T14:00:00+05:30",
+
+    employmentType:"FULL_TIME",
+
+    salaryMin:50000,
+    salaryMax:200000,
+    salaryCurrency:"INR",
+    salaryUnit:"MONTH",
+
+    location:"Across India (HAL Divisions)",
+    addressLocality:"Bengaluru",
+    addressRegion:"Karnataka",
+    addressCountry:"IN",
+
+    qualification:"Bachelor's Degree + CA/ICWA (Finance) OR B.E./B.Tech + M.E./M.Tech (Design)",
+
+    ageLimit:"Up to 45 Years",
+
+    applyLink:"https://hal-india.co.in",
+    officialNotification:"https://hal-india.co.in",
+
+    fee:"General (UR)/OBC (NCL)/EWS: Rs. 500 | SC/ST/PwBD: Nil",
+
+    description:"Hindustan Aeronautics Limited (HAL) has invited online applications for 30 Executive posts including Finance Officer, Deputy Manager (Finance) and Manager (Design - Mechanical/Electrical/Electronics). Online applications started on 22 July 2026 and close on 12 August 2026. Finance posts require a Bachelor's Degree with CA/ICWA and 2-5 years of experience, while Design Manager posts require B.E./B.Tech with M.E./M.Tech and 8 years of Post Professional Qualification Experience. Selection includes Online Application Screening, Shortlisting, Document Verification, Personal Interview and Medical Examination. Selected candidates will get an attractive pay scale of Rs. 50,000 to Rs. 2,00,000 per month along with DA, HRA, PRP, PF, Gratuity and other benefits.",
+
+    category:"Defence PSU Jobs",
+    jobType:"Finance Officer, Deputy Manager (Finance), Manager (Design)",
+
+    advertisementNo:"Not Specified",
+
+    applicationStartDate:"2026-07-22",
+    applicationEndDate:"2026-08-12",
+
+    examDate:"Not Applicable",
+    interviewDate:"To Be Announced",
+
+    postDetails:[
+        {postName:"Finance Officer (Grade II)", totalPosts:17},
+        {postName:"Deputy Manager - Finance (Grade III)", totalPosts:8},
+        {postName:"Manager - Design Mechanical (Grade IV)", totalPosts:1},
+        {postName:"Manager - Design Electrical (Grade IV)", totalPosts:3},
+        {postName:"Manager - Design Electronics (Grade IV)", totalPosts:1}
+    ],
+
+    tags:["HAL Executive Vacancy 2026","Hindustan Aeronautics Limited Recruitment","HAL Finance Officer Jobs","HAL Manager Design Vacancy","CA ICWA Jobs HAL","Defence PSU Executive Jobs","HAL 30 Posts 2026"],
+
+    status:"open",
+    isNew:true
+},
+    {
     id:"bmc-cooper-hospital-recruitment-2026",
     orgWebsite:"https://www.mcgm.gov.in",
     title:"BMC Cooper Hospital Vacancy 2026",

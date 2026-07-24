@@ -1,5 +1,507 @@
 /* SarthakYojana.in – Full Job Content (800-1200 words each, AdSense ready) */
 const JOB_CONTENT = {};
+JOB_CONTENT["mpsc-group-c-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">MPSC Group C Online Form 2026 – Apply for 5,707 Various Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">📋 MPSC Group C Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Applications Open (Extended)</span></p>
+<p style="font-size:19px;">Last Date : <strong>05 August 2026 (Extended)</strong></p>
+<a href="https://mpsc.gov.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Maharashtra Public Service Commission (MPSC)</strong> has invited online applications for <strong>5,707 permanent Group C</strong> posts across various departments — one of the largest state government recruitments this year in Maharashtra.</p>
+
+<p style="font-size:20px;line-height:1.9;">Applications started on <strong>27 June 2026</strong>, and the last date has been extended to <strong>05 August 2026</strong>, with fee payment accepted until <strong>08 August 2026</strong>. The <strong>Preliminary Examination</strong> is scheduled for <strong>25 October 2026</strong>. Selected candidates will get a salary of <strong>₹19,900 to ₹1,15,600</strong> per month depending on the post.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Clerk-Typist (Ministerial Administrative Dept.) akela hi 1,864 posts (33%) le raha hai, Talathi (Village Revenue Officer) 1,539 posts (27%) ke saath doosre spot pe hai — combined dono categories 60% se zyada total vacancies cover karti hain. Yeh notification already ek baar deadline extend ho chuka hai (27 June se 05 August), jo dikhata hai ki MPSC ko widespread reach chahiye tha is scale ki bhrti ke liye. Interesting baat yeh hai ki Clerk-Typist posts <strong>5 different departments</strong> mein spread hain (alag-alag posts count ke saath), jo confirm karta hai ki Maharashtra government-wide administrative staffing crunch face kar raha hai, sirf ek department mein nahi.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Maharashtra Public Service Commission (MPSC)</td></tr>
+<tr><th>Post Name</th><td>Various Posts</td></tr>
+<tr><th>Total Vacancies</th><td>5,707</td></tr>
+<tr><th>Start Date</th><td>27 June 2026</td></tr>
+<tr><th>Last Date (Extended)</th><td>05 August 2026</td></tr>
+<tr><th>Fee Payment Last Date</th><td>08 August 2026</td></tr>
+<tr><th>Preliminary Exam Date</th><td>25 October 2026</td></tr>
+<tr><th>Maximum Age</th><td>38 Years</td></tr>
+<tr><th>Salary</th><td>₹19,900 – ₹1,15,600 per Month</td></tr>
+<tr><th>Official Website</th><td>mpsc.gov.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Prelims Fee</th><th>Mains Fee</th></tr>
+<tr><td>General Category</td><td>₹394</td><td>₹544</td></tr>
+<tr><td>Reserved Category</td><td>₹294</td><td>₹344</td></tr>
+<tr><td>Ex-Servicemen</td><td>₹44</td><td>₹44</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap Maharashtra ke graduate hain aur ek permanent Group C government job chahte hain — Talathi ya Clerk-Typist jaisi high-vacancy posts mein statistically better odds hain unke bade seat count ki wajah se.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap koi specific technical post (jaise Inspector of Industry - 9 seats, ya Assistant Superintendent - 4 seats) target kar rahe hain — inme competition extremely tight hoga comparatively.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Department-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Department</th><th>Vacancies</th></tr>
+<tr><td>Inspector of Industry</td><td>Industry, Energy & Labour</td><td>09</td></tr>
+<tr><td>Technical Assistant</td><td>Finance Department</td><td>03</td></tr>
+<tr><td>Tax Assistant</td><td>Finance Department</td><td>282</td></tr>
+<tr><td>Assistant Motor Vehicle Inspector</td><td>Home Department</td><td>461</td></tr>
+<tr><td>Clerk-Typist</td><td>Ministerial Administrative Dept.</td><td>1,864</td></tr>
+<tr><td>Village Revenue Officer (Talathi), Group-C</td><td>Revenue & Forest Dept.</td><td>1,539</td></tr>
+<tr><td>Senior Record Keeper/Senior Clerk/Record Keeper</td><td>Revenue & Forest Dept.</td><td>254</td></tr>
+<tr><td>Clerk-Typist (Various Appointing Authorities)</td><td>Revenue & Forest Dept.</td><td>480</td></tr>
+<tr><td>Clerk-Typist (Registration & Stamp Dept.)</td><td>Revenue & Forest Dept.</td><td>239</td></tr>
+<tr><td>Fisheries Development Officer (Technical)</td><td>Agriculture & Animal Husbandry</td><td>19</td></tr>
+<tr><td>Clerk-Typist</td><td>Food, Civil Supplies Dept.</td><td>155</td></tr>
+<tr><td>Assistant Superintendent</td><td>Nivaran Commission, Mumbai</td><td>04</td></tr>
+<tr><td>Clerk-Typist</td><td>Relief & Rehabilitation Dept.</td><td>230</td></tr>
+<tr><th colspan="2">Grand Total</th><th>5,707</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Qualification</th></tr>
+<tr><td>Clerk-Typist</td><td>Bachelor's Degree with Marathi Typing (30 WPM) and English Typing (40 WPM) Certificate</td></tr>
+<tr><td>Tax Assistant</td><td>Bachelor's Degree with Marathi or English Typing Certificate</td></tr>
+<tr><td>Inspector of Industry</td><td>Diploma in Engineering</td></tr>
+<tr><td>Technical Assistant</td><td>Bachelor's Degree / Relevant Technical Qualification as per Rules</td></tr>
+<tr><td>Assistant Motor Vehicle Inspector</td><td>Diploma in Automobile or Mechanical Engineering</td></tr>
+<tr><td>Village Revenue Officer (Talathi)</td><td>Bachelor's Degree from a Recognized University</td></tr>
+<tr><td>Senior Record Keeper/Senior Clerk/Record Keeper</td><td>Bachelor's Degree</td></tr>
+<tr><td>Assistant Superintendent</td><td>Bachelor's Degree</td></tr>
+<tr><td>Fisheries Development Officer (Technical)</td><td>Second Class B.F.Sc. Degree</td></tr>
+<tr><td>Clerk-Typist (Registration & Stamp Dept.)</td><td>Bachelor's Degree with Required Typing Qualification</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Clerk-Typist posts ke liye <strong>dono Marathi (30 WPM) aur English (40 WPM) typing certificates</strong> chahiye — sirf ek language ka certificate application incomplete banayega.</li>
+<li>Application deadline aur fee payment deadline alag hain (05 August vs 08 August) — dono ko confuse mat karein, application submit karne ke baad fee payment complete karein.</li>
+<li>OTR (One-Time Registration) MPSC website pe pehle se karke rakhein agar aap already registered nahi hain — is scale ki bhrti mein last-minute registration mein delay ho sakta hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Scale</th></tr>
+<tr><td>Clerk-Typist</td><td>₹19,900 – ₹63,200</td></tr>
+<tr><td>Tax Assistant</td><td>₹25,500 – ₹81,100</td></tr>
+<tr><td>Technical Assistant</td><td>₹29,200 – ₹92,300</td></tr>
+<tr><td>Inspector of Industry</td><td>₹35,400 – ₹1,12,400</td></tr>
+<tr><td>Assistant Motor Vehicle Inspector</td><td>₹36,600 – ₹1,15,600</td></tr>
+<tr><td>Other Posts</td><td>Salary as per applicable Maharashtra Government Pay Rules</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Preliminary Written Examination</td></tr>
+<tr><td>Stage 2</td><td>Main Written Examination</td></tr>
+<tr><td>Stage 3</td><td>Skill Test (If Applicable)</td></tr>
+<tr><td>Stage 4</td><td>Medical Examination</td></tr>
+<tr><td>Stage 5</td><td>Document Verification</td></tr>
+<tr><th>Final Selection</th><th>Based on Performance in All Applicable Stages</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official MPSC website.</li>
+<li>Complete the One-Time Registration (OTR), if not already registered.</li>
+<li>Log in using your registered User ID and Password.</li>
+<li>Open the MPSC Group C Recruitment 2026 application form.</li>
+<li>Fill in all personal, educational and communication details carefully.</li>
+<li>Upload the required photograph, signature and supporting documents.</li>
+<li>Pay the application fee through the online payment gateway.</li>
+<li>Preview the application form and verify all details.</li>
+<li>Submit the application form and download/print the confirmation page.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with MPSC's official notification, including the extended deadline. Given the scale of this recruitment (5,707 posts), candidates should complete their OTR and application well before the deadline to avoid server congestion.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://mpsc.gov.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://mpsc.gov.in" target="_blank">mpsc.gov.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. MPSC Group C Vacancy 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">इस भर्ती अभियान के तहत कुल <strong>5,707 पद</strong> जारी किए गए हैं।</p>
+<h3>2. अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">आवेदन की अंतिम तिथि (विस्तारित) <strong>05 अगस्त 2026</strong> है, शुल्क भुगतान <strong>08 अगस्त 2026</strong> तक।</p>
+<h3>3. प्रारंभिक परीक्षा कब होगी?</h3>
+<p style="font-size:20px;line-height:1.8;">प्रारंभिक परीक्षा <strong>25 अक्टूबर 2026</strong> को आयोजित होगी।</p>
+<h3>4. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">अधिकांश पदों के लिए <strong>स्नातक (Bachelor's Degree)</strong>, कुछ पदों के लिए डिप्लोमा या टाइपिंग सर्टिफिकेट भी आवश्यक है।</p>
+<h3>5. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">पद के अनुसार <strong>₹19,900 से ₹1,15,600</strong> प्रति माह।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>MPSC Group C Online Form 2026</strong> is one of Maharashtra's biggest government recruitments this year, with 5,707 permanent posts across multiple departments. Apply before the extended deadline of <strong>05 August 2026</strong> and start preparing for the Preliminary Exam scheduled for 25 October 2026.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for MPSC Group C Vacancy 2026</h2>
+<a href="https://mpsc.gov.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=belagavi-dcc-bank-recruitment-2026">Belagavi DCC Bank Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=hal-executive-recruitment-2026">HAL Executive Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official MPSC notification before applying.</p>
+`;
+JOB_CONTENT["belagavi-dcc-bank-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-27">Published: 27 July 2026</time> | Updated: 27 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">Belagavi DCC Bank Vacancy 2026 – Apply Online for 104 Posts</h1>
+
+<div style="background:#fff8e1;border:2px solid #f9a825;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#e65100;">🏦 Belagavi DCC Bank Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:#e65100;font-weight:bold;">Short Notification Released</span></p>
+<p style="font-size:19px;">Application Period : <strong>27 July 2026 to 27 August 2026</strong></p>
+<a href="https://www.belagavidccb.bank.in" target="_blank" style="display:inline-block;margin-top:15px;background:#f9a825;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Belagavi District Central Cooperative Bank Ltd. (Belagavi DCC Bank)</strong> has released a short notification for <strong>Second Division Assistant (SDA), Peon</strong> and <strong>Gunman</strong> posts, offering <strong>104 vacancies</strong>.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications will start on <strong>27 July 2026</strong> and close on <strong>27 August 2026</strong>. Candidates need a <strong>Bachelor's Degree</strong> for SDA posts. Selected candidates will get a salary of <strong>₹42,650 to ₹1,15,150</strong> per month depending on the post.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+SDA (Second Division Assistant) akela hi 83 posts (80%) le raha hai, jabki Gunman sirf 1 seat hai — yeh dikhata hai ki Belagavi DCC Bank ka primary hiring focus clerical/administrative staffing pe hai, na ki security/support roles pe. Yeh sirf ek <strong>short notification</strong> hai — application fee abhi "as per detailed notification" hai, jo confirm karta hai ki full details baad mein release honge. Cooperative bank recruitments mein aksar salary range kaafi attractive hoti hai (₹42,650-₹1,15,150) compared to entry-level government jobs, jo Karnataka mein cooperative banking sector ki competitiveness ko reflect karta hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Belagavi District Central Cooperative Bank Ltd.</td></tr>
+<tr><th>Post Name</th><td>Second Division Assistant (SDA), Peon & Gunman</td></tr>
+<tr><th>Total Vacancies</th><td>104</td></tr>
+<tr><th>Start Date</th><td>27 July 2026</td></tr>
+<tr><th>Last Date</th><td>27 August 2026</td></tr>
+<tr><th>Age Limit</th><td>As Per Bank Recruitment Rules</td></tr>
+<tr><th>Salary</th><td>₹42,650 – ₹1,15,150</td></tr>
+<tr><th>Official Website</th><td>belagavidccb.bank.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<p style="font-size:20px;line-height:1.9;">Application fee details will be published <strong>as per the detailed official notification</strong>.</p>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap graduate hain aur Karnataka mein cooperative banking sector mein career shuru karna chahte hain — SDA posts (83 seats) ke saath yeh entry-level candidates ke liye ek achha opportunity hai.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Gunman post target kar rahe hain — sirf 1 seat hai, isliye competition extremely high hoga is single position ke liye.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Vacancies</th></tr>
+<tr><td>Second Division Assistant (SDA)</td><td>83</td></tr>
+<tr><td>Peon</td><td>20</td></tr>
+<tr><td>Gunman</td><td>1</td></tr>
+<tr><th>Total</th><th>104</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Educational Qualification</th></tr>
+<tr><td>Second Division Assistant (SDA)</td><td>Bachelor's Degree from a recognized University as prescribed in the official notification</td></tr>
+<tr><td>Peon</td><td>Required educational qualification and computer knowledge as mentioned in the official notification</td></tr>
+<tr><td>Gunman</td><td>Educational qualification and other eligibility criteria as prescribed in the official notification</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Application fee aur detailed eligibility criteria abhi tak pending hain — apply karne se pehle detailed notification zaroor check karein jab woh release ho.</li>
+<li>Peon aur Gunman posts ke liye specific qualification details short notification mein incomplete hain — inke liye apply karne se pehle detailed PDF wait karein.</li>
+<li>Age limit "As Per Bank Recruitment Rules" hai, exact number nahi diya gaya — apni eligibility confirm karne ke liye detailed notification zaroori hai.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Pay Scale</th></tr>
+<tr><td>Second Division Assistant (SDA)</td><td>₹53,150 – ₹1,15,150</td></tr>
+<tr><td>Peon</td><td>₹42,650 – ₹96,650</td></tr>
+<tr><td>Gunman</td><td>₹47,650 – ₹1,05,650</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Selection Process</th></tr>
+<tr><td>Stage 1</td><td>Written Examination (If Conducted)</td></tr>
+<tr><td>Stage 2</td><td>Document Verification</td></tr>
+<tr><td>Stage 3</td><td>Medical Fitness Test (If Required)</td></tr>
+<tr><th>Final Selection</th><th>Based on Merit and the Bank Recruitment Rules</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official website of Belagavi DCC Bank.</li>
+<li>Open the Recruitment/Careers section.</li>
+<li>Read the official recruitment notification carefully before applying.</li>
+<li>Register using a valid mobile number and email ID.</li>
+<li>Fill in the online application form with accurate personal, educational and other required details.</li>
+<li>Upload your recent photograph, signature and required documents.</li>
+<li>Pay the application fee through the available online payment mode (if applicable).</li>
+<li>Verify all entered information carefully before final submission.</li>
+<li>Submit the online application form successfully.</li>
+<li>Download and print the final submitted application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with Belagavi DCC Bank's short notification released on 27 July 2026. Since fee and detailed eligibility are pending, we recommend checking the official website closer to the application start date for complete details.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://www.belagavidccb.bank.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://www.belagavidccb.bank.in" target="_blank">belagavidccb.bank.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. Belagavi DCC Bank Vacancy 2026 में कुल कितने पद हैं?</h3>
+<p style="font-size:20px;line-height:1.8;">कुल <strong>104 पद</strong>, जिनमें SDA (83), Peon (20) और Gunman (1) शामिल हैं।</p>
+<h3>2. आवेदन कब से शुरू होंगे?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन <strong>27 जुलाई 2026</strong> से शुरू होंगे, अंतिम तिथि <strong>27 अगस्त 2026</strong> है।</p>
+<h3>3. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">SDA के लिए <strong>स्नातक डिग्री</strong> आवश्यक है, अन्य पदों की योग्यता विस्तृत अधिसूचना में दी जाएगी।</p>
+<h3>4. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">पद के अनुसार <strong>₹42,650 से ₹1,15,150</strong> प्रति माह।</p>
+<h3>5. आवेदन शुल्क कितना है?</h3>
+<p style="font-size:20px;line-height:1.8;">शुल्क विस्तृत आधिकारिक अधिसूचना के अनुसार निर्धारित किया जाएगा।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>Belagavi DCC Bank Vacancy 2026</strong> offers a solid cooperative banking career opportunity in Karnataka. Apply between <strong>27 July</strong> and <strong>27 August 2026</strong>, and check for the detailed notification for fee and eligibility specifics.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for Belagavi DCC Bank Vacancy 2026</h2>
+<a href="https://www.belagavidccb.bank.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=mpsc-group-c-recruitment-2026">MPSC Group C Online Form 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=hal-executive-recruitment-2026">HAL Executive Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official Belagavi DCC Bank notification before applying.</p>
+`;
+JOB_CONTENT["hal-executive-recruitment-2026"] = `
+
+<div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
+<strong>By Ankush Jain</strong> | <time datetime="2026-07-22">Published: 22 July 2026</time> | Updated: 22 July 2026
+</div>
+
+<h1 style="font-size:42px;color:#333;">HAL Executive Vacancy 2026 Notification Out – Apply for 30 Posts</h1>
+
+<div style="background:#eef8ff;border:2px solid #1565c0;padding:20px;border-radius:8px;margin:25px 0;text-align:center;">
+<h2 style="margin:0;color:#0d47a1;">✈️ HAL Executive Vacancy 2026</h2>
+<p style="font-size:20px;margin-top:12px;"><strong>Status :</strong> <span style="color:green;font-weight:bold;">Online Applications Started</span></p>
+<p style="font-size:19px;">Application Period : <strong>22 July 2026 to 12 August 2026</strong></p>
+<a href="https://hal-india.co.in" target="_blank" style="display:inline-block;margin-top:15px;background:#1565c0;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-size:18px;font-weight:bold;">Apply Online →</a>
+</div>
+
+<p style="font-size:20px;line-height:1.9;"><strong>Hindustan Aeronautics Limited (HAL)</strong> has invited online applications for <strong>30 Executive</strong> posts, including <strong>Finance Officer, Deputy Manager (Finance)</strong> and <strong>Manager (Design)</strong> across Mechanical, Electrical and Electronics disciplines.</p>
+
+<p style="font-size:20px;line-height:1.9;">Online applications started on <strong>22 July 2026</strong> and close on <strong>12 August 2026 (2:00 PM)</strong>. Finance posts require <strong>CA/ICWA</strong>, while Design posts require <strong>M.E./M.Tech</strong> along with significant experience. Selected candidates will get an attractive pay scale of <strong>₹50,000 to ₹2,00,000</strong> per month.</p>
+
+<div style="background:#fdf6e8;border-left:4px solid #e8963b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#8a5a1e;margin-top:0;">📊 Sarthak Analysis: Is Bhrti Ka Trend</h3>
+<p style="font-size:18px;line-height:1.8;color:#4a4238;">
+Finance Officer akela hi 17 posts (57%) le raha hai — sabse bada category, jo confirm karta hai ki HAL apne finance department ko significantly strengthen kar raha hai. Design Manager posts sirf 5 hain total, lekin experience requirement <strong>8 saal</strong> hai — sabse senior/demanding category is recruitment mein. Interesting baat yeh hai ki experience requirement grade ke hisaab se sharply badhta hai: Finance Officer (2 saal) → Deputy Manager (5 saal) → Design Manager (8 saal), jo confirm karta hai ki HAL clearly defined career progression path establish kar raha hai apne executive hiring mein.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Overview</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Organisation</th><td>Hindustan Aeronautics Limited (HAL)</td></tr>
+<tr><th>Post Name</th><td>Finance Officer, Deputy Manager (Finance), Manager (Design)</td></tr>
+<tr><th>Total Vacancies</th><td>30</td></tr>
+<tr><th>Start Date</th><td>22 July 2026</td></tr>
+<tr><th>Last Date</th><td>12 August 2026 (2:00 PM)</td></tr>
+<tr><th>Maximum Age</th><td>45 Years</td></tr>
+<tr><th>Salary</th><td>₹50,000 – ₹2,00,000</td></tr>
+<tr><th>Official Website</th><td>hal-india.co.in</td></tr>
+</table>
+<!-- AdSense Ad 1 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Application Fee</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Category</th><th>Fee</th></tr>
+<tr><td>General (UR), OBC (NCL), EWS</td><td>₹500</td></tr>
+<tr><td>SC, ST, PwBD</td><td>Nil</td></tr>
+<tr><td>Payment Mode</td><td>Online</td></tr>
+</table>
+
+<div style="background:#eef8f2;border-left:4px solid #1e7a46;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#1e7a46;margin-top:0;">🎯 Kya Yeh Job Aapke Liye Sahi Hai?</h3>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Apply karein agar:</strong> Aap CA/ICWA qualified hain 2+ saal ke experience ke saath — Finance Officer category (17 posts) mein sabse acha shot hai is recruitment mein.
+</p>
+<p style="font-size:18px;line-height:1.8;color:#2c4a3a;">
+<strong>Sochkar apply karein agar:</strong> Aap Design Manager post target kar rahe hain lekin aapke paas 8 saal ka relevant PPQE (Post Professional Qualification Experience) nahi hai — is category mein experience requirement sabse strict hai.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Post-Wise Vacancy Details</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post</th><th>Grade</th><th>Total</th></tr>
+<tr><td>Finance Officer</td><td>II</td><td>17</td></tr>
+<tr><td>Dy. Manager (Finance)</td><td>III</td><td>8</td></tr>
+<tr><td>Manager (Design) – Mechanical</td><td>IV</td><td>1</td></tr>
+<tr><td>Manager (Design) – Electrical</td><td>IV</td><td>3</td></tr>
+<tr><td>Manager (Design) – Electronics</td><td>IV</td><td>1</td></tr>
+<tr><th colspan="2">Total</th><th>30</th></tr>
+</table>
+<!-- AdSense Ad 2 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Required Qualification</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Post Name</th><th>Grade</th><th>Essential Qualification</th><th>Minimum Experience</th></tr>
+<tr><td>Finance Officer</td><td>Grade II</td><td>Bachelor's Degree + CA/ICWA</td><td>2 Years</td></tr>
+<tr><td>Deputy Manager (Finance)</td><td>Grade III</td><td>Bachelor's Degree + CA/ICWA</td><td>5 Years</td></tr>
+<tr><td>Manager (Design) – Mechanical</td><td>Grade IV</td><td>B.E./B.Tech + M.E./M.Tech (Mechanical)</td><td>8 Years</td></tr>
+<tr><td>Manager (Design) – Electrical</td><td>Grade IV</td><td>B.E./B.Tech + M.E./M.Tech (Electrical)</td><td>8 Years</td></tr>
+<tr><td>Manager (Design) – Electronics</td><td>Grade IV</td><td>B.E./B.Tech + M.E./M.Tech (Electronics)</td><td>8 Years</td></tr>
+</table>
+
+<div style="background:#fdecea;border-left:4px solid #c0392b;padding:18px 20px;margin:30px 0;border-radius:6px;">
+<h3 style="font-size:22px;color:#c0392b;margin-top:0;">⚠️ Yeh Galtiyan Bilkul Na Karein</h3>
+<ul style="font-size:18px;line-height:1.9;color:#5c2a24;">
+<li>Experience calculate karte waqt <strong>Post Professional Qualification Experience (PPQE)</strong> hi count hoti hai — degree se pehle ka experience valid nahi hoga.</li>
+<li>Design Manager posts branch-specific hain (Mechanical/Electrical/Electronics) — apni M.E./M.Tech branch exact matching post se align karein.</li>
+<li>Last date time-specific hai (<strong>12 August, 2:00 PM</strong>) — sirf date pe focus mat karein, exact time ka bhi dhyan rakhein last-minute submission mein.</li>
+</ul>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Salary Pay</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Grade</th><th>Pay Scale</th></tr>
+<tr><td>Grade II</td><td>₹50,000 – ₹1,60,000</td></tr>
+<tr><td>Grade III</td><td>₹60,000 – ₹1,80,000</td></tr>
+<tr><td>Grade IV</td><td>₹70,000 – ₹2,00,000</td></tr>
+<tr><th>Additional Benefits</th><th>DA, HRA/Company Accommodation, PRP, PF, Gratuity, Medical Benefits, Leave Benefits</th></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">Selection Process</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Stage</th><th>Details</th></tr>
+<tr><td>Stage 1</td><td>Online Application Screening</td></tr>
+<tr><td>Stage 2</td><td>Shortlisting Based on Eligibility & Experience</td></tr>
+<tr><td>Stage 3</td><td>Document Verification</td></tr>
+<tr><td>Stage 4</td><td>Personal Interview</td></tr>
+<tr><td>Stage 5</td><td>Medical Examination</td></tr>
+<tr><td>Stage 6</td><td>Final Selection & Appointment</td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">How to Apply Online</h2>
+<ol style="font-size:20px;line-height:2;">
+<li>Visit the official HAL website.</li>
+<li>Open the Careers section.</li>
+<li>Click on HAL Executive Recruitment 2026.</li>
+<li>Complete the online registration.</li>
+<li>Fill in all personal, educational and experience details carefully.</li>
+<li>Upload your recent passport-size photograph and signature.</li>
+<li>Pay the application fee (if applicable).</li>
+<li>Review all entered information before submission.</li>
+<li>Submit the application form online.</li>
+<li>Download and print the final application form for future reference.</li>
+</ol>
+
+<div style="background:#f5f5f5;border:1px dashed #999;padding:16px 20px;margin:30px 0;border-radius:6px;">
+<p style="font-size:15px;line-height:1.7;color:#555;margin:0;">
+<strong>✓ Verified By SarthakYojana Team:</strong> This information is cross-checked with HAL's official notification released on 22 July 2026. Given the strict experience requirements by grade, candidates should carefully verify their PPQE before applying.
+</p>
+</div>
+
+<h2 style="font-size:36px;margin-top:40px;">Important Links</h2>
+<table class="table table-bordered" style="width:100%;font-size:18px;border-collapse:collapse;">
+<tr><th>Purpose</th><th>Link</th></tr>
+<tr><td>Apply Now</td><td><a href="https://hal-india.co.in" target="_blank">Click Here</a></td></tr>
+<tr><td>Official Website</td><td><a href="https://hal-india.co.in" target="_blank">hal-india.co.in</a></td></tr>
+</table>
+
+<h2 style="font-size:36px;margin-top:40px;">FAQs</h2>
+<h3>1. HAL Vacancy 2026 में कुल कितने पदों पर भर्ती निकली है?</h3>
+<p style="font-size:20px;line-height:1.8;">HAL ने इस भर्ती अभियान के तहत कुल <strong>30 पदों</strong> पर भर्ती निकाली है।</p>
+<h3>2. आवेदन की अंतिम तिथि क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">ऑनलाइन आवेदन करने की अंतिम तिथि <strong>12 अगस्त 2026 (दोपहर 2:00 बजे)</strong> निर्धारित की गई है।</p>
+<h3>3. शैक्षणिक योग्यता क्या है?</h3>
+<p style="font-size:20px;line-height:1.8;">Finance पदों के लिए <strong>Bachelor's Degree + CA/ICWA</strong>, Design पदों के लिए <strong>B.E./B.Tech + M.E./M.Tech</strong>।</p>
+<h3>4. अनुभव कितना होना चाहिए?</h3>
+<p style="font-size:20px;line-height:1.8;">Finance Officer के लिए <strong>2 वर्ष</strong>, Deputy Manager के लिए <strong>5 वर्ष</strong>, Design Manager के लिए <strong>8 वर्ष</strong>।</p>
+<h3>5. वेतन कितना मिलेगा?</h3>
+<p style="font-size:20px;line-height:1.8;">Grade के अनुसार <strong>₹50,000 से ₹2,00,000</strong> प्रति माह।</p>
+
+<h2 style="font-size:36px;margin-top:40px;">Conclusion</h2>
+<p style="font-size:20px;line-height:1.9;">The <strong>HAL Executive Vacancy 2026</strong> offers experienced finance and design professionals a lucrative career opportunity at a leading Defence PSU. Apply before <strong>12 August 2026 (2:00 PM)</strong>.</p>
+
+<div style="background:#e8f5e9;border:2px solid #43a047;padding:20px;border-radius:8px;margin-top:35px;text-align:center;">
+<h2 style="margin:0;color:#2e7d32;">🚀 Apply for HAL Executive Vacancy 2026</h2>
+<a href="https://hal-india.co.in" target="_blank" style="display:inline-block;margin-top:10px;background:#2e7d32;color:#fff;padding:14px 34px;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">Apply Online</a>
+</div>
+<!-- AdSense Ad 3 -->
+<div style="margin:28px 0;text-align:center;"><p style="font-size:11px;color:#aaa;margin:0 0 4px;text-transform:uppercase;">Advertisement</p><ins class="adsbygoogle" style="display:block;text-align:center;" data-ad-client="ca-pub-8602963796651751" data-ad-slot="3505379782" data-ad-format="fluid" data-ad-layout="in-article"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+<h2 style="font-size:36px;margin-top:40px;">Related Jobs</h2>
+<ul style="font-size:20px;line-height:2;">
+<li><a href="../item-detail.html?type=job&id=belagavi-dcc-bank-recruitment-2026">Belagavi DCC Bank Vacancy 2026</a></li>
+<li><a href="../item-detail.html?type=job&id=hal-barrackpore-iti-apprentice-recruitment-2026">HAL Barrackpore ITI Apprentice Vacancy 2026</a></li>
+</ul>
+<p style="font-size:12px;color:#888;">Disclaimer: SarthakYojana.in is an information portal only. Please verify all details from the official HAL notification before applying.</p>
+`;
 JOB_CONTENT["cmho-raipur-nhm-recruitment-2026"] = `
 
 <div class="article-meta" style="font-size:25px;color:#666;margin-bottom:14px;padding-bottom:10px;border-bottom:6px solid #bb2424;">
