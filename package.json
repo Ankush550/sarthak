@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.114.0",
     "axios": "^1.18.1",
     "chokidar": "^5.0.0",
     "dotenv": "^17.4.2",
@@ -13,7 +14,8 @@
   "main": "generate-sitemap.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "generate-jobs": "node scripts/generate-job-content.js"
   },
   "repository": {
     "type": "git",

@@ -6,14 +6,17 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title id="pageTitle">Detail – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Check latest government exam results, admit cards and answer keys on SarthakYojana.in">
+<!-- CRITICAL FIX: Canonical URL with proper encoding to prevent duplicate content penalties -->
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/item-detail.html">
 <script>
   (function(){
     var params = new URLSearchParams(window.location.search);
     var type = params.get('type'), id = params.get('id');
     if(id) {
+      // ✅ FIX: Use encodeURIComponent to properly encode type and id in the canonical URL
+      // This prevents duplicate content issues when parameters contain special characters
       document.getElementById('canonicalTag').href = 
-        'https://sarthakyojana.in/pages/item-detail.html?type=' + (type||'') + '&id=' + id;
+        'https://sarthakyojana.in/pages/item-detail.html?type=' + encodeURIComponent(type||'') + '&id=' + encodeURIComponent(id);
     }
   })();
 </script>
@@ -58,8 +61,7 @@
       page_location: window.location.href
     });
   </script>
-  <!-- Google Publisher Center – Subscribe with Google -->
-  </head>
+</head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
@@ -93,16 +95,11 @@
 <div id="site-footer"></div>
 <script src="../assets/js/admit-card-data.js"></script>
 <script src="../assets/js/admit-card-content.js"></script>
-
 <script src="../assets/js/result-data.js"></script>
 <script src="../assets/js/result-content.js"></script>
-
 <script src="../assets/js/answerkey-data.js"></script>
-
 <script src="../assets/js/answerkey-content.js"></script>
 <script src="../assets/js/common-render.js"></script>
-
-
 <script src="../assets/js/main.js"></script>
 <script src="../assets/js/sidebar-widgets.js"></script>
 <script>
@@ -110,15 +107,14 @@
 renderCookieConsent();
 
 const params = new URLSearchParams(window.location.search);
-const type = params.get('type'); // result | admit | answer
+const type = params.get('type');
 const id   = params.get('id');
 if (!type || !id) { window.location.replace('results.html'); }
 
-// FIX: build a clean canonical from type+id only — do NOT use window.location.href,
-// which was picking up tracking params (utm_*, fbclid, gclid, ref, etc.) and
-// producing a different canonical URL per share-link. That mismatch between the
-// canonical Google discovers and the one we declare is what causes "Duplicate,
-// Google chose different canonical than user" in Search Console.
+// ✅ FIX: Build a clean canonical from type+id only with proper URL encoding
+// This prevents duplicate content issues when type/id contain special characters
+// Do NOT use window.location.href, which picks up tracking params (utm_*, fbclid, gclid, ref, etc.)
+// Mismatched canonicals cause "Duplicate, Google chose different canonical than user" in Search Console
 document.getElementById('canonicalTag').href =
   'https://sarthakyojana.in/pages/item-detail.html?type=' + encodeURIComponent(type || '') + '&id=' + encodeURIComponent(id || '');
 
@@ -144,9 +140,8 @@ if (!dataset || !meta) {
   document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Page Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Invalid page request. <a href="../index.html">Go Home</a></p>';
   var adWrap0 = document.getElementById('adBannerWrap');
   if (adWrap0) adWrap0.style.display = 'none';
-  // Invalid/missing type param — explicitly mark this specific page as
-  // noindex. (Default in <head> is now "index, follow" since almost all
-  // requests have a valid type+id; we only override it in this rare case.)
+  // ✅ CORRECT: Only mark truly invalid pages as noindex
+  // (Default in <head> is now "index, follow" since almost all requests have a valid type+id)
   let invalidTypeRobotsTag = document.querySelector('meta[name="robots"]');
   if (!invalidTypeRobotsTag) {
     invalidTypeRobotsTag = document.createElement('meta');
@@ -160,17 +155,17 @@ if (!dataset || !meta) {
 
   if (!item) {
     document.getElementById('mainContent').innerHTML = '<h1 style="font-size:20px;color:#1a237e;">Item Not Found</h1><p style="padding:10px 0 30px;text-align:center;color:#c0392b;">Sorry, we could not find this item. It may have been moved or the link is incorrect. <a href="results.html">Browse All</a></p>';
-  var adWrap1 = document.getElementById('adBannerWrap');
-  if (adWrap1) adWrap1.style.display = 'none';
-  // Invalid/missing item ID — explicitly mark this specific page as noindex.
-  let notFoundRobotsTag = document.querySelector('meta[name="robots"]');
-  if (!notFoundRobotsTag) {
-    notFoundRobotsTag = document.createElement('meta');
-    notFoundRobotsTag.name = 'robots';
-    document.head.appendChild(notFoundRobotsTag);
-  }
-  notFoundRobotsTag.content = 'noindex, follow';
-  document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
+    var adWrap1 = document.getElementById('adBannerWrap');
+    if (adWrap1) adWrap1.style.display = 'none';
+    // ✅ CORRECT: Only mark truly invalid pages as noindex
+    let notFoundRobotsTag = document.querySelector('meta[name="robots"]');
+    if (!notFoundRobotsTag) {
+      notFoundRobotsTag = document.createElement('meta');
+      notFoundRobotsTag.name = 'robots';
+      document.head.appendChild(notFoundRobotsTag);
+    }
+    notFoundRobotsTag.content = 'noindex, follow';
+    document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/results.html';
   } else {
     // Valid item confirmed — page is already index,follow by default (see <head>).
 
@@ -180,14 +175,14 @@ if (!dataset || !meta) {
       title:       item.title + ' | SarthakYojana.in',
       description: item.description || item.title + ' – Download from official website. Check complete details on SarthakYojana.in',
       keywords:    item.title + ', ' + (item.organization || '') + ', ' + schemaType + ' 2026, Sarkari Result',
-      path:        'pages/item-detail.html?type=' + type + '&id=' + item.id,
+      path:        'pages/item-detail.html?type=' + encodeURIComponent(type) + '&id=' + encodeURIComponent(item.id),
       type:        'Article',
       datePublished: item.declaredDate || item.date,
       image:       item.image ? ('assets/images/' + item.image) : undefined,
       breadcrumbs: [
         { name: 'Home', path: '' },
         { name: meta.sec, path: 'pages/results.html' },
-        { name: item.title, path: 'pages/item-detail.html?type=' + type + '&id=' + item.id }
+        { name: item.title, path: 'pages/item-detail.html?type=' + encodeURIComponent(type) + '&id=' + encodeURIComponent(item.id) }
       ]
     });
     document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="results.html">${meta.sec}</a> &rsaquo; ${item.title}`;
@@ -203,29 +198,30 @@ if (!dataset || !meta) {
     // How-to steps
     const rawSteps = item.howToCheck || item.howToDownload || '';
     const steps = rawSteps.split('→').map(s => s.trim()).filter(Boolean);
- let articleContent = '';
+    
+    let articleContent = '';
 
-if(type === 'admit'){
-    articleContent =
-    (typeof ADMIT_CARD_CONTENT !== 'undefined' &&
-    ADMIT_CARD_CONTENT[item.id])
-    ? ADMIT_CARD_CONTENT[item.id]
-    : '<h2 style="color:red">Content Not Found</h2>';
-}
-else if(type === 'result'){
-    articleContent =
-    (typeof RESULT_CONTENT !== 'undefined' &&
-    RESULT_CONTENT[item.id])
-    ? RESULT_CONTENT[item.id]
-    : '<h2 style="color:red">Content Not Found</h2>';
-}
-else if(type === 'answer'){
-    articleContent =
-    (typeof ANSWER_KEY_CONTENT !== 'undefined' &&
-    ANSWER_KEY_CONTENT[item.id])
-    ? ANSWER_KEY_CONTENT[item.id]
-    : '<h2 style="color:red">Content Not Found</h2>';
-}
+    if(type === 'admit'){
+      articleContent =
+        (typeof ADMIT_CARD_CONTENT !== 'undefined' &&
+        ADMIT_CARD_CONTENT[item.id])
+        ? ADMIT_CARD_CONTENT[item.id]
+        : '<h2 style="color:red">Content Not Found</h2>';
+    }
+    else if(type === 'result'){
+      articleContent =
+        (typeof RESULT_CONTENT !== 'undefined' &&
+        RESULT_CONTENT[item.id])
+        ? RESULT_CONTENT[item.id]
+        : '<h2 style="color:red">Content Not Found</h2>';
+    }
+    else if(type === 'answer'){
+      articleContent =
+        (typeof ANSWER_KEY_CONTENT !== 'undefined' &&
+        ANSWER_KEY_CONTENT[item.id])
+        ? ANSWER_KEY_CONTENT[item.id]
+        : '<h2 style="color:red">Content Not Found</h2>';
+    }
 
     // Resolve the right link + button label per type, with sensible fallbacks
     const actionLink = type === 'result'
@@ -266,17 +262,13 @@ ${articleContent}
 </div>
 
 `;
-    
-
-
-   
 
     // Related items
     const related = dataset.filter(x => x.id !== id).slice(0, 8);
     document.getElementById('relatedTitle').textContent = 'More ' + meta.sec;
     document.getElementById('viewAllLink').href = meta.viewAll;
     document.getElementById('relatedList').innerHTML = related.map(r =>
-      `<li><a href="item-detail.html?type=${type}&id=${r.id}">${r.title}${r.isNew ? '<span class="new-tag">NEW</span>' : ''}</a></li>`
+      `<li><a href="item-detail.html?type=${encodeURIComponent(type)}&id=${encodeURIComponent(r.id)}">${r.title}${r.isNew ? '<span class="new-tag">NEW</span>' : ''}</a></li>`
     ).join('');
   }
 }

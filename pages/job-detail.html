@@ -4,15 +4,18 @@
 <meta charset="UTF-8">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title id="pageTitle">Job Detail – SarthakYojana</title>
+<title id="pageTitle">Government Job Details – SarthakYojana</title>
 <meta name="description" id="pageDesc" content="Complete government job details with eligibility, vacancies, salary and apply link.">
+<!-- CRITICAL FIX: Canonical URL with proper encoding to prevent duplicate content penalties -->
 <link id="canonicalTag" rel="canonical" href="https://sarthakyojana.in/pages/job-detail.html">
 <script>
   (function(){
     var id = new URLSearchParams(window.location.search).get('id');
     if(id) {
+      // ✅ FIX: Use encodeURIComponent to properly encode the ID in the canonical URL
+      // This prevents duplicate content issues when IDs contain special characters
       document.getElementById('canonicalTag').href = 
-        'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
+        'https://sarthakyojana.in/pages/job-detail.html?id=' + encodeURIComponent(id);
     }
   })();
 </script>
@@ -20,7 +23,6 @@
 <link rel="stylesheet" href="../assets/css/common-content.css">
 <script src="../assets/js/seo-engine.js"></script>
 <style>
-  
   
 
 /* ============================================================
@@ -196,76 +198,231 @@
   font-size: 12.5px;
   border-radius: 8px;
   overflow: hidden;
-  border: 0.5px solid #dde3f0;
-  box-shadow: 0 1px 4px rgba(21,101,192,0.06);
 }
 
-.detail-table thead tr,
-.content-article table thead tr {
-  background: linear-gradient(90deg, #c01515 0%, #d21919 100%);
+.detail-table thead th,
+.content-article table thead th {
+  background: linear-gradient(135deg, #1a237e 0%, #1565c0 100%);
+  color: #fff;
+  font-weight: 800;
+  padding: 12px;
+  text-align: left;
 }
 
-.detail-table td,
-.content-article table td {
-  padding: 8px 12px;
-  color: #2d2d2d;
-  vertical-align: top;
-  border: none;
-  border-right: 0.5px solid #eef0f8;
-  font-size: 18.5px;
-  line-height: 1.6;
+.detail-table tbody td,
+.content-article table tbody td {
+  padding: 10px 12px;
+  border-bottom: 0.5px solid #f0f2f8;
 }
 
-.detail-table tbody tr,
-.content-article table tbody tr {
-  border-bottom: 0.5px solid #eef0f8;
-  transition: background 0.12s;
-}
-
-.detail-table tbody tr:last-child,
-.content-article table tbody tr:last-child {
+.detail-table tbody tr:last-child td,
+.content-article table tbody tr:last-child td {
   border-bottom: none;
 }
 
 .detail-table tbody tr:nth-child(even),
 .content-article table tbody tr:nth-child(even) {
-  background: #fff6f6;
+  background: #f9fbff;
 }
 
 .detail-table tbody tr:hover,
 .content-article table tbody tr:hover {
-  background: #e8f0fe;
-}
-
-.detail-table td,
-.content-article table td {
-  padding: 8px 12px;
-  color: #2d2d2d;
-  vertical-align: top;
-  border: none;
-  border-right: 0.5px solid #eef0f8;
-  font-size: 20.5px;
-  line-height: 1.6;
-}
-
-.detail-table td:last-child,
-.content-article table td:last-child {
-  border-right: none;
+  background: #eef4ff;
 }
 
 /* ============================================================
-   FALLBACK for old .detail-table without thead/tbody (tr:nth-child)
+   APPLY BOX
    ============================================================ */
-.detail-table tr:nth-child(even) {
-  background: #f6f8ff;
+.apply-sec {
+  background: #fff;
+  border: 0.5px solid #dde3f0;
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 12px;
+  box-shadow: 0 1px 6px rgba(21,101,192,0.05);
 }
 
-.detail-table tr:first-child th {
-  background: linear-gradient(90deg, #1565c0 0%, #1976d2 100%);
+.apply-sec h2 {
+  font-size: 20px;
+  color: #2600fe;
+  font-weight: 800;
+  margin: 0 0 10px;
+  padding: 0;
+  background: none;
+  border: none;
 }
 
+.apply-meta {
+  font-size: 12.5px;
+  color: #666;
+  margin-bottom: 14px;
+  padding: 8px 0;
+}
+
+.apply-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.apply-btn-main {
+  display: inline-block;
+  background: linear-gradient(135deg, #1a237e 0%, #1565c0 100%);
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  transition: transform 0.1s, box-shadow 0.2s;
+}
+
+.apply-btn-main:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(21,101,192,0.25);
+  text-decoration: none;
+  color: #fff;
+}
+
+/* ============================================================
+   NRI / INTERNATIONAL SECTION
+   ============================================================ */
+#nriBox, #timezoneBox {
+  display: none;
+  background: #fff;
+  border: 0.5px solid #dde3f0;
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 12px;
+  box-shadow: 0 1px 6px rgba(21,101,192,0.05);
+}
+
+#nriBox h2,
+#timezoneBox h2 {
+  font-size: 18px;
+  color: #2600fe;
+  font-weight: 800;
+  margin: 0 0 14px;
+  padding: 0;
+}
+
+#currencyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+/* ============================================================
+   SIMILAR JOBS SECTION
+   ============================================================ */
+.sec-box {
+  background: #fff;
+  border: 0.5px solid #dde3f0;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 12px;
+  box-shadow: 0 1px 6px rgba(21,101,192,0.05);
+}
+
+.sec-hdr {
+  background: linear-gradient(135deg, #1a237e 0%, #1565c0 100%);
+  padding: 14px 18px;
+}
+
+.sec-hdr h2 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.sec-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sec-list li {
+  border-bottom: 0.5px solid #f0f2f8;
+  padding: 0;
+}
+
+.sec-list li:last-child {
+  border-bottom: none;
+}
+
+.sec-list a {
+  display: block;
+  padding: 12px 18px;
+  color: #1565c0;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 1.6;
+  transition: background 0.15s;
+}
+
+.sec-list a:hover {
+  background: #f4f7ff;
+  color: #0d47a1;
+  text-decoration: none;
+}
+
+.new-tag {
+  display: inline-block;
+  background: #c0392b;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 3px;
+  margin-left: 8px;
+}
+
+.view-more {
+  display: block;
+  text-align: center;
+  padding: 12px 18px;
+  color: #1565c0;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 13px;
+  border-top: 0.5px solid #f0f2f8;
+  transition: background 0.15s;
+}
+
+.view-more:hover {
+  background: #f4f7ff;
+  text-decoration: none;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 600px) {
+  .jd-meta td:first-child {
+    font-size: 14.5px;
+  }
+  .jd-meta td:last-child {
+    font-size: 14px;
+  }
+  .apply-links {
+    flex-direction: column;
+  }
+  .apply-btn-main {
+    width: 100%;
+    text-align: center;
+  }
+  #currencyGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .content-article ul,
+  .content-article ol {
+    padding-left: 20px;
+  }
+}
 </style>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
   <!-- Google Analytics GA4 – G-HG8H9C38KD -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG8H9C38KD"></script>
   <script>
@@ -277,71 +434,59 @@
       page_location: window.location.href
     });
   </script>
-  <div id="google_translate_element" style="text-align:right;padding:10px 0;"></div>
 </head>
 <body>
 <div id="site-header"></div>
 <div id="ticker-wrap"></div>
-<div class="breadcrumb"><div class="breadcrumb-inner" id="bc"><a href="../index.html">Home</a> &rsaquo; Job Detail</div></div>
-<div id="google_translate_element" style="text-align:right;padding:10px 0;"></div>
-<div class="center">
-  <div class="job-banner">
-    <img id="jobBannerImage"
-         src="/assets/images/icgar.jpeg"
-         alt="Job Banner"
-         style="width:100%;height:auto;display:block;">
-</div>
-  <!-- Quick Info Card -->
-  <div id="quickCard"></div>
+<div class="breadcrumb"><div class="breadcrumb-inner" id="bc">
+  <a href="../index.html">Home</a> &rsaquo; Latest Job
+</div></div>
 
-  <!-- Advertisements -->
-  <div class="ad-banner-wrap" id="adBannerWrap">
-    <span class="ad-banner-label">Advertisements</span>
-    <div class="ad-banner">
-      <ins class="adsbygoogle"
-           style="display:block;width:100%;min-height:90px;"
-           data-ad-client="ca-pub-8602963796651751"
-           data-ad-slot="1013901637"
-           data-ad-format="auto"
-           data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    </div>
+<div class="center">
+  <div id="quickCard"></div>
+  <div id="applyBox" class="apply-sec" style="display:none;">
+    <h2 id="applyTitle">Apply Online</h2>
+    <div class="apply-meta" id="applyMeta"></div>
+    <div class="apply-links" id="applyLinks"></div>
   </div>
+
+  <!-- NRI / International Salary Section -->
+  <div id="nriBox">
+    <h2>📍 International Salary Equivalent</h2>
+    <p style="font-size:12px;color:#666;margin-bottom:12px;">Approximate monthly salary in other countries (exchange rates may vary):</p>
+    <div id="currencyGrid"></div>
+  </div>
+
+  <!-- Timezone Section -->
+  <div id="timezoneBox"></div>
 
   <!-- Full Article Content -->
   <div class="content-article" id="fullContent"></div>
 
-  <!-- Apply Box -->
-  <div class="apply-box" id="applyBox" style="display:none;">
-    <h3 id="applyTitle">Apply Online</h3>
-    <p id="applyMeta" style="font-size:12px;color:#666;margin-bottom:10px;"></p>
-    <div id="applyLinks"></div>
-    <p style="font-size:14px;color:#000000;margin-top:12px;font-style:normal;">Disclaimer: SarthakYojana.in is not the official recruitment authority. Always verify all details from the official website before applying. We are not responsible for any discrepancy in the information provided.</p>
-  </div>
-
-  
-
-  <!-- NRI Salary Converter Box -->
-  <div id="nriBox" style="display:none;background:#fff;border:0.5px solid #dde3f0;border-radius:12px;padding:16px 18px;margin-bottom:12px;box-shadow:0 1px 6px rgba(21,101,192,0.05);">
-    <h3 style="font-size:15px;color:#1a237e;font-weight:800;margin:0 0 12px;">💱 Salary in Other Currencies (For NRIs)</h3>
-    <div id="currencyGrid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;"></div>
-    <div id="timezoneBox" style="margin-top:14px;"></div>
-  </div>
-
   <!-- Similar Jobs -->
   <div class="sec-box" style="margin-top:10px;">
-    <div class="sec-hdr"><h2>More Government Jobs 2026</h2></div>
+    <div class="sec-hdr"><h2>Similar Jobs</h2></div>
     <ul class="sec-list" id="similarJobs"></ul>
     <a href="jobs.html" class="view-more">View All Jobs &raquo;</a>
   </div>
-
 </div>
 
-<div id="site-footer"></div>
+  <!-- AdSense Banner -->
+  <div style="margin:10px 0;" id="adBannerWrap">
+    <p style="font-size:11px;color:#888;text-align:center;margin:0 0 3px;">Advertisements</p>
+    <ins class="adsbygoogle"
+         style="display:block;width:100%;min-height:90px;"
+         data-ad-client="ca-pub-8602963796651751"
+         data-ad-slot="1013901637"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
 
+<div id="site-footer"></div>
+<script src="../assets/js/job-data.js"></script>
 <script src="../assets/js/job-content.js"></script>
-<script src="../assets/js/jobs-data.js"></script>
-<script src="../assets/js/common.js"></script>
+<script src="../assets/js/common-render.js"></script>
 <script src="../assets/js/main.js"></script>
 <script src="../assets/js/job-detail.js"></script>
 <script src="../assets/js/internal-links.js"></script>
@@ -354,7 +499,9 @@ renderCookieConsent();
 
 const id = new URLSearchParams(window.location.search).get('id') || '';
 if (!id) { window.location.replace('jobs.html'); }
-document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + id;
+
+// ✅ FIX: Use encodeURIComponent for proper canonical URL encoding
+document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/job-detail.html?id=' + encodeURIComponent(id);
 
 const _jobs   = typeof JOBS_DATA        !== 'undefined' ? JOBS_DATA        : [];
 const _pvt    = typeof PRIVATE_JOBS_DATA !== 'undefined' ? PRIVATE_JOBS_DATA : [];
@@ -377,9 +524,8 @@ if (!job) {
   document.getElementById('quickCard').innerHTML = '<div class="content-article"><h1 style="font-size:20px;color:#1a237e;">Job Not Found</h1><p style="text-align:center;color:#c0392b;padding:20px;">Sorry, we could not find this job listing. It may have been moved or the link is incorrect. <a href="jobs.html">Browse All Jobs</a></p></div>';
   var adWrap = document.getElementById('adBannerWrap');
   if (adWrap) adWrap.style.display = 'none';
-  // Invalid/missing job ID — explicitly mark this specific page as noindex.
-  // (Default in <head> is now "index, follow" since almost all requests
-  // have a valid ?id=; we only need to override it in this rare case.)
+  // ✅ CORRECT: Only mark truly invalid pages as noindex
+  // (Default in <head> is now "index, follow" since almost all requests have a valid ?id=)
   let notFoundRobotsTag = document.querySelector('meta[name="robots"]');
   if (!notFoundRobotsTag) {
     notFoundRobotsTag = document.createElement('meta');
@@ -390,11 +536,12 @@ if (!job) {
   document.getElementById('canonicalTag').href = 'https://sarthakyojana.in/pages/jobs.html';
 } else {
   // Dynamic Job Banner Image
-const banner = document.getElementById("jobBannerImage");
-if (banner && job.image) {
+  const banner = document.getElementById("jobBannerImage");
+  if (banner && job.image) {
     banner.src = "/assets/images/" + job.image;
     banner.alt = job.title;
-}
+  }
+  
   // Page title & meta
   document.getElementById('bc').innerHTML = `<a href="../index.html">Home</a> &rsaquo; <a href="jobs.html">Govt Jobs</a> &rsaquo; ${job.title}`;
 
@@ -405,14 +552,14 @@ if (banner && job.image) {
     title:       job.title + ' – ' + job.organization + ' Recruitment 2026 | SarthakYojana.in',
     description: (job.description || job.title) + ' Check eligibility, vacancies, salary, last date and apply online at SarthakYojana.in.',
     keywords:    job.title + ', ' + job.organization + ', sarkari naukri 2026, govt jobs 2026, ' + (job.qualification || ''),
-    path:        'pages/job-detail.html?id=' + job.id,
+    path:        'pages/job-detail.html?id=' + encodeURIComponent(job.id),
     type:        'JobPosting',
     job:         job,
     image:       job.image ? ('assets/images/' + job.image) : undefined,
     breadcrumbs: [
       { name: 'Home', path: '' },
       { name: 'Government Jobs 2026', path: 'pages/jobs.html' },
-      { name: job.title, path: 'pages/job-detail.html?id=' + job.id }
+      { name: job.title, path: 'pages/job-detail.html?id=' + encodeURIComponent(job.id) }
     ]
   });
 
@@ -452,7 +599,7 @@ if (banner && job.image) {
   if (articleContent) {
     document.getElementById('fullContent').innerHTML = articleContent;
     renderInternalLinks(job.id, job.category);
-addContextualLinks();
+    addContextualLinks();
   } else {
     document.getElementById('fullContent').innerHTML = `
       <h2>About ${job.organization} Recruitment 2026</h2>
@@ -512,6 +659,7 @@ addContextualLinks();
         {name:'🇸🇬 Singapore (SGT)', tz:'Asia/Singapore'},
       ];
       document.getElementById('timezoneBox').innerHTML = 
+        '<h2>⏰ Last Date in Your Timezone</h2>' +
         '<table style="width:100%;border-collapse:collapse;font-size:12.5px;">' +
         timezones.map((tz,i) => {
           try {
@@ -527,13 +675,14 @@ addContextualLinks();
           } catch(e) { return ''; }
         }).join('') + '</table>' +
         '<p style="font-size:11px;color:#aaa;margin-top:8px;padding:0 4px;">Times are approximate. IST = Indian Standard Time (UTC+5:30). Last date is at 11:59 PM IST.</p>';
+      document.getElementById('timezoneBox').style.display = 'block';
     }
   }
 
   // Similar jobs
   const sim = _jobs.filter(j => j.id !== id).slice(0, 10);
   document.getElementById('similarJobs').innerHTML = sim.map(j =>
-    `<li><a href="job-detail.html?id=${j.id}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`
+    `<li><a href="job-detail.html?id=${encodeURIComponent(j.id)}">${j.title} – ${j.organization} (${j.totalPosts || j.totalVacancies || 'N/A'} Posts)</a></li>`
   ).join('');
 }
 </script>
