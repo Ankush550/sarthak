@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Alerts & Notifications | Sarthak Portal</title>
+  <meta name="description" content="Important alerts and notifications about government jobs, exams, application deadlines and latest updates - check all latest alerts here.">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="alerts, notifications, latest updates, government job alerts">
+  <link rel="canonical" href="https://sarthakyojana.in/pages/alerts.html">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <link rel="stylesheet" href="../assets/css/jobs.css">
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8602963796651751" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <!-- Header -->
+  <div id="header"></div>
+
+  <!-- Main Content -->
+  <main class="detail-container">
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a> »
+      <span>Alerts & Notifications</span>
+    </div>
+
+    <!-- Title -->
+    <h1>📢 All Alerts & Notifications</h1>
+    <p class="page-description">
+      Stay updated with the latest alerts about government job applications, exam dates, admit cards, results and other important notifications.
+    </p>
+
+    <!-- Alerts List -->
+    <div id="alerts-list"></div>
+
+    <!-- Advertisement -->
+    <div class="ad-box">
+      <p style="text-align: center; color: #999; font-size: 12px;">Advertisement</p>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="../pages/about.html">About Us</a> |
+      <a href="../pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="../pages/contact.html">Contact</a> |
+      <a href="../pages/disclaimer.html">Disclaimer</a>
+    </div>
+    <p>© 2026 Sarthak Portal. All Rights Reserved.</p>
+  </footer>
+
+  <!-- JS -->
+  <script src="../assets/js/noindex-search.js"></script>
+  <script src="../assets/js/header.js"></script>
+  <script src="../assets/js/alerts.js"></script>
+
+  <script>
+    // Fallback if alerts.json is empty
+    document.addEventListener('DOMContentLoaded', function() {
+      const alertsList = document.getElementById('alerts-list');
+      if (!alertsList || alertsList.innerHTML.trim() === '') {
+        alertsList.innerHTML = `
+          <div class="empty-state">
+            <h2>No Alerts Yet</h2>
+            <p>Check back soon for important updates and notifications.</p>
+            <p><a href="jobs.html">Browse Jobs</a> | <a href="../index.html">Back to Home</a></p>
+          </div>
+        `;
+      }
+    });
+  </script>
+
+</body>
+</html>

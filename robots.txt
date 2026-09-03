@@ -1,43 +1,70 @@
+# Sarthak Portal - SEO Optimized robots.txt
+# ============================================================
+
+# Default: Allow all bots
 User-agent: *
 Allow: /
 
-# ── Pages that DO NOT EXIST (404) — block from crawling ──────
-Disallow: /pages/
-Disallow: /pages/tools.html
-Disallow: /pages/upcomingipo.html
-Disallow: /pages/sarkari-rules.html
-Disallow: /mo
-Disallow: /day
-Disallow: /month
-Disallow: /cdn-cgi/
+# ============================================================
+# Block low-quality pages from crawling
+# ============================================================
 
-# NOTE: /pages/about.html and /pages/terms.html are intentionally NOT
-# disallowed anymore. They are old URLs (renamed to about-us.html and
-# terms-conditions.html) that Google already knows about — we now serve
-# a real redirect page at each so Google can consolidate them into the
-# new URL instead of reporting them as 404s forever.
+# Block data directory - these are JSON files, not content
+Disallow: /assets/data/
 
-# ── Allow specific valid pages inside /pages/ ─────────────────
-Allow: /pages/job-detail.html
-Allow: /pages/jobs.html
-Allow: /pages/results.html
-Allow: /pages/admit-card-detail.html
-Allow: /pages/item-detail.html
-Allow: /pages/schemes.html
-Allow: /pages/private-jobs.html
-Allow: /pages/private-jobs-list.html
-Allow: /pages/job-finder.html
-Allow: /pages/about-us.html
-Allow: /pages/contact.html
-Allow: /pages/disclaimer.html
-Allow: /pages/privacy-policy.html
-Allow: /pages/terms-conditions.html
-Allow: /pages/sitemap.html
-Allow: /pages/nri-jobs.html
-Allow: /pages/us-companies-india-jobs.html
+# Block PDFs directory (let sitemaps reference them)
+# Uncomment if you want to keep PDFs hidden from search
+# Disallow: /assets/pdfs/
 
-# ── Block search (thin content) ───────────────────────────────
-Disallow: /pages/search.html
+# Block API/Admin paths (if any)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /draft/
+Disallow: /preview/
 
-# ── Sitemap ───────────────────────────────────────────────────
+# ============================================================
+# Crawl-delay and request-rate
+# ============================================================
+
+# Googlebot can crawl aggressively
+User-agent: Googlebot
+Crawl-delay: 0
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Crawl-delay: 1
+
+# Other bots - be respectful
+User-agent: *
+Crawl-delay: 2
+Request-rate: 30/60
+
+# ============================================================
+# Sitemaps
+# ============================================================
+
 Sitemap: https://sarthakyojana.in/sitemap.xml
+
+# ============================================================
+# Additional Rules for Specific Bots
+# ============================================================
+
+# AdsBot (Google Ads)
+User-agent: AdsBot-Google
+Allow: /
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# ============================================================
+# Notes:
+# - This file helps control how search engines crawl your site
+# - The "Allow" rules help fix "Crawled - currently not indexed" issues
+# - Blocking /assets/data/ prevents duplicate indexing of JSON files
+# - Sitemaps tell Google which pages to prioritize
+# ============================================================
